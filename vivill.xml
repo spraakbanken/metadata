@@ -1,0 +1,26 @@
+<resource type="corpus">
+    <name>vivill</name>
+    <swe>Svenska partiprogram och valmanifest</swe>
+    <eng>Swedish party programs and election manifestos</eng>
+    <license>CC-BY-SA 3.0, GFDL 1.3</license>
+    <version>development</version>
+    <size>
+    <tokens>822314</tokens>
+    </size>
+    <description>
+        <swe>Svenska partiprogram och valmanifest 1887-2010</swe>
+	<eng>Swedish political party programs and election manifestos 1887-2010</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=vivill</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+    </formats> 
+  </resource>

@@ -1,0 +1,40 @@
+<resource type="corpus">
+    <name>suc2</name>
+    <swe>SUC</swe>
+    <eng>SUC</eng>
+    <license>Non-standard: http://k2xx.spraakdata.gu.se/stb/om/suc-license.pdf</license>
+    <version>2.0</version>
+    <size>
+    <tokens>1166593</tokens>
+    </size>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/swe/resurser/suc</swe>
+	<eng>http://spraakbanken.gu.se/eng/resurser/suc</eng>
+    </homepage>
+    <description>
+        <swe>Stockholm-Umeå-korpus</swe>
+	<eng>Stockholm-Umeå corpus</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=suc2</source> 
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+      <format>
+	<swe>Gammalt webbgränssnitt (eget)</swe>
+	<eng>Old web interface (dedicated)</eng>
+	<source>http://spraakbanken.gu.se/parole/</source> 
+      </format>
+      <format>
+	<swe>Gammalt webbgränssnitt (via Glossa)</swe>
+	<eng>Old web interface (via Glossa)</eng>
+	<source>http://demosb.spraakdata.gu.se/glossa/html/?corpus=suc2#</source> 
+      </format>
+    </formats> 
+  </resource>

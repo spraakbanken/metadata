@@ -1,0 +1,26 @@
+<resource type="corpus">
+    <name>syntag</name>
+    <swe>Syntag trädbank</swe>
+    <eng>Syntag treebank</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <description>
+        <swe>En svensk trädbank med syntaktisk analys av 158 artiklar ur Press-65.</swe>
+	<eng>A Swedish treebank with syntactic analysis of 158 articles from Press-65.</eng>
+    </description>
+    <size>
+    <tokens>101329</tokens>
+    </size>
+    <formats>
+      <format>
+	<swe>TXT (zip)</swe>
+	<eng>TXT (zip)</eng>
+	<source>http://spraakbanken.gu.se/pub/reskit/syntag.zip</source>
+      </format>
+      <format>
+	<swe>HTML</swe>
+	<eng>HTML</eng>
+	<source>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.html</source>
+      </format>
+    </formats> 
+  </resource>

@@ -1,0 +1,30 @@
+<resource type="corpus">
+    <name>gp2009</name>
+    <swe>GP 2009</swe>
+    <eng>GP 2009</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>17308784</tokens>
+    </size>
+    <description>
+        <swe>En korpus med texter från Göteborgsposten</swe>
+	<eng>A corpus with texts from Göteborgsposten</eng>
+    </description>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/swe/resurser/press</swe>
+	<eng>http://spraakbanken.gu.se/eng/resurser/press</eng>
+    </homepage>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=gp2009</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+    </formats> 
+  </resource>

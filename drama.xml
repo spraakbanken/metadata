@@ -1,0 +1,30 @@
+<resource type="corpus">
+    <name>drama</name>
+    <swe>Dramawebben (demo)</swe>
+    <eng>Dramawebben (demo)</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>57465</tokens>
+    </size>
+    <description>
+        <swe>Texter från Dramawebben, ett digitalt arkiv över fri svensk dramatik.</swe>
+	<eng>Texts from Dramawebben, a digital archive of free Swedish drama.</eng>
+    </description>
+    <homepage>
+	<swe>http://www.dramawebben.se/</swe>
+	<eng>http://www.dramawebben.se/</eng>
+    </homepage>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=drama</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+    </formats> 
+  </resource>

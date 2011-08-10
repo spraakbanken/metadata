@@ -1,0 +1,26 @@
+<resource type="corpus">
+    <name>smittskydd</name>
+    <swe>Smittskydd</swe>
+    <eng>Smittskydd</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>691891</tokens>
+    </size>
+    <description>
+        <swe>Smittskyddsinstitutets tidning Smittskydd</swe>
+	<eng>The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=smittskydd</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+    </formats> 
+  </resource>

@@ -1,0 +1,40 @@
+<resource type="corpus">
+    <name>gp2001</name>
+    <swe>GP 2001</swe>
+    <eng>GP 2001</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>17473594</tokens>
+    </size>
+    <description>
+        <swe>En korpus med texter från Göteborgsposten</swe>
+	<eng>A corpus with texts from Göteborgsposten</eng>
+    </description>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/swe/resurser/press</swe>
+	<eng>http://spraakbanken.gu.se/eng/resurser/press</eng>
+    </homepage>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=gp2001</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+      <format>
+	<swe>Gammalt webbgränssnitt (via Konk)</swe>
+	<eng>Old web interface (via Konk)</eng>
+	<source>http://spraakbanken.gu.se/konk/</source> 
+      </format>
+      <format>
+	<swe>Gammalt webbgränssnitt (p01 via Glossa)</swe>
+	<eng>Old web interface (p01 via Glossa)</eng>
+	<source>http://demosb.spraakdata.gu.se/glossa/html/?corpus=konkplus#</source> 
+      </format>
+    </formats> 
+  </resource>

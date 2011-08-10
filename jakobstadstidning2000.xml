@@ -1,0 +1,30 @@
+<resource type="corpus">
+    <name>jakobstadstidning2000</name>
+    <swe>Jakobstads tidning 2000</swe>
+    <eng>Jakobstad's news paper 2000</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>2727176</tokens>
+    </size>
+    <homepage>
+	<swe>http://www.sls.fi/doc.php?docid=799</swe>
+	<eng>http://www.sls.fi/doc.php?docid=799</eng>
+    </homepage>
+    <description>
+        <swe>Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</swe>
+	<eng>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=jakobstadstidning2000</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+    </formats> 
+ </resource>

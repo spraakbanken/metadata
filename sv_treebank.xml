@@ -1,0 +1,17 @@
+<resource type="corpus">
+    <name>sv_treebank</name>
+    <swe>Svensk trädbank</swe>
+    <eng>Swedish treebank</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/swe/stb</swe>
+	<eng>http://spraakbanken.gu.se/eng/stb</eng>
+    </homepage>
+    <description>
+        <swe>En svensk trädbank med återanvändning av existerande resurser</swe>
+	<eng>A Swedish treebank built from recycled language resources</eng>
+    </description>
+    <formats>
+    </formats> 
+  </resource>

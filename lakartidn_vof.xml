@@ -1,0 +1,22 @@
+<resource type="corpus">
+    <name>lakartidn_vof</name>
+    <swe>Korpus för vårdens och omsorgens fackspråk</swe>
+    <eng>Corpus for health care technical language</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <homepage>
+	<swe>http://www.medicinskkorpus.se/login.phtml</swe>
+	<eng>http://www.medicinskkorpus.se/login.phtml</eng>
+    </homepage>
+    <description>
+        <swe>Läkartidningens arkiv (1996-2009) förädlat och sökbart</swe>
+	<eng>Läkartidningen (1996-2009), medical news text processed and searchable</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (eget)</swe>
+	<eng>Web interface (dedicated)</eng>
+	<source>http://www.medicinskkorpus.se/login.phtml</source>
+      </format>
+    </formats> 
+  </resource>

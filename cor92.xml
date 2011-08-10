@@ -1,0 +1,25 @@
+<resource type="corpus">
+    <name>cor92</name>
+    <swe>Corpus Oral de Referencia del Español Contemporáneo (SOL)</swe>
+    <eng>Corpus Oral de Referencia del Español Contemporáneo (SOL)</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>825251</tokens>
+    </size>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/konk/rom2/Info.COR92.html</swe>
+	<eng>http://spraakbanken.gu.se/konk/rom2/Info.COR92.html</eng>
+    </homepage>
+    <description>
+    <swe>Del av SOL - Spanska Online</swe>
+    <eng>Part of SOL - Spanish Online</eng>
+    </description>
+    <formats>
+       <format>
+	<swe>Webbgränssnitt (via Konk)</swe>
+	<eng>Web interface (via Konk)</eng>
+	<source>http://spraakbanken.gu.se/konk/rom2/</source>  
+      </format>
+    </formats> 
+  </resource>

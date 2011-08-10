@@ -1,0 +1,35 @@
+<resource type="corpus">
+    <name>romg</name>
+    <swe>Äldre svenska romaner</swe>
+    <eng>Older Swedish novels</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>4347449</tokens>
+    </size>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/konk/info/romg.phtml</swe>
+	<eng>http://spraakbanken.gu.se/konk/info/romg.phtml</eng>
+    </homepage>
+    <description>
+        <swe>En samling med fler än 50 äldre svenska romaner av 14 olika författare</swe>
+	<eng>A collection of more than 50 older Swedish novels by 14 different authors</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (via Korp)</swe>
+	<eng>Web interface (via Korp)</eng>
+	<source>http://demosb.spraakdata.gu.se/korp/#corpus=romg</source>    
+      </format>
+      <format>
+	<swe>Nättjänst</swe>
+	<eng>Web service</eng>
+        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
+      </format>
+      <format>
+	<swe>Gammalt webbgränssnitt (via Konk)</swe>
+	<eng>Old web interface (via Konk)</eng>
+	<source>http://spraakbanken.gu.se/konk/</source> 
+      </format>
+    </formats> 
+  </resource>

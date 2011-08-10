@@ -1,0 +1,25 @@
+<resource type="corpus">
+    <name>fts</name>
+    <swe>FTS - Färöisk textsamling</swe>
+    <eng>FTS - Faroese text collection</eng>
+    <license>Contact sb-info@svenska.gu.se</license>
+    <version>development</version>
+    <size>
+    <tokens>11000000</tokens>
+    </size>
+    <homepage>
+	<swe>http://spraakbanken.gu.se/FTS/search.phtml</swe>
+	<eng>http://spraakbanken.gu.se/FTS/search.phtml</eng>
+    </homepage>
+    <description>
+        <swe>Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/</swe>
+	<eng>Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/</eng>
+    </description>
+    <formats>
+      <format>
+	<swe>Webbgränssnitt (eget)</swe>
+	<eng>Web interface (dedicated)</eng>
+	<source>http://spraakbanken.gu.se/FTS/search.phtml</source>
+      </format>
+    </formats> 
+  </resource>
