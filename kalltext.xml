@@ -2,7 +2,7 @@
 <resource type="corpus">
     <name>kalltext</name>
     <swe>Källtext</swe>
-    <eng>Källtext (</eng>
+    <eng>Källtext</eng>
     <license>Contact sb-info@svenska.gu.se</license>
     <version>development</version>
     <size>
