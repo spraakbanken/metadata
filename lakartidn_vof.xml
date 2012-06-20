@@ -1,23 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>lakartidn_vof</name>
-    <swe>Korpus för vårdens och omsorgens fackspråk</swe>
-    <eng>Corpus for health care technical language</eng>
-    <license>Contact sb-info@svenska.gu.se</license>
-    <version>development</version>
-    <homepage>
-	<swe>http://www.medicinskkorpus.se/login.phtml</swe>
-	<eng>http://www.medicinskkorpus.se/login.phtml</eng>
-    </homepage>
-    <description>
-        <swe>Läkartidningens arkiv (1996-2009) förädlat och sökbart</swe>
-	<eng>Läkartidningen (1996-2009), medical news text processed and searchable</eng>
-    </description>
-    <formats>
-      <format>
-	<swe>Webbgränssnitt (eget)</swe>
-	<eng>Web interface (dedicated)</eng>
-	<source>http://www.medicinskkorpus.se/login.phtml</source>
-      </format>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Corpus for health care technical language</resourceName>
+    <resourceName lang="swe">Korpus för vårdens och omsorgens fackspråk</resourceName>
+    <description>Läkartidningen (1996-2009), medical news text processed and searchable</description>
+    <description lang="swe">Läkartidningens arkiv (1996-2009) förädlat och sökbart</description>
+    <resourceShortName>lakartidn_vof</resourceShortName>
+    <resourceShortName lang="swe">lakartidn_vof</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc635090a09e2.95301457</identifier>
+    <identifier>lakartidn_vof</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/lakartidn_vof</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>19474981</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

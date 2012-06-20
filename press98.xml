@@ -1,41 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>press98</name>
-    <swe>Press 98</swe>
-    <eng>Press 98</eng>
-    <license>Contact sb-info@svenska.gu.se</license>
-    <version>development</version>
-    <size>
-    <tokens>10762897</tokens>
-    </size>
-    <description>
-       <swe>Svensk press 1998</swe>
-       <eng>Swedish press 1998</eng>
-    </description>
-    <homepage>
-	<swe>http://spraakbanken.gu.se/swe/resurser/press</swe>
-	<eng>http://spraakbanken.gu.se/eng/resurser/press</eng>
-    </homepage>
-    <formats>
-       <format>
-	<swe>Webbgränssnitt (via Korp)</swe>
-	<eng>Web interface (via Korp)</eng>
-	<source>http://demosb.spraakdata.gu.se/korp/#corpus=press98</source> 
-      </format>
-      <format>
-	<swe>Nättjänst</swe>
-	<eng>Web service</eng>
-        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
-      </format>
-      <format>
-	<swe>Gammalt webbgränssnitt (via Konk)</swe>
-	<eng>Old web interface (via Konk)</eng>
-	<source>http://spraakbanken.gu.se/konk/</source> 
-      </format>
-      <format>
-	<swe>Gammalt webbgränssnitt (via Glossa)</swe>
-	<eng>Old web interface (via Glossa)</eng>
-	<source>http://demosb.spraakdata.gu.se/glossa/html/?corpus=konkplus#</source> 
-      </format>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Press 98</resourceName>
+    <resourceName lang="swe">Press 98</resourceName>
+    <description>Swedish press 1998</description>
+    <description lang="swe">Svensk press 1998</description>
+    <resourceShortName>press98</resourceShortName>
+    <resourceShortName lang="swe">press98</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc6350a234c05.15662992</identifier>
+    <identifier>press98</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/press98/press98.xml.bz2</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=press98</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://demosb.spraakdata.gu.se/glossa/html/?corpus=konkplus#</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/swe/resurser/press</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/eng/resurser/press</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS98.txt</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/konk/</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/press98</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>10762897</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>804995</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

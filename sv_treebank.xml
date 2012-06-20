@@ -1,18 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>sv_treebank</name>
-    <swe>Svensk trädbank</swe>
-    <eng>Swedish treebank</eng>
-    <license>Contact sb-info@svenska.gu.se</license>
-    <version>development</version>
-    <homepage>
-	<swe>http://spraakbanken.gu.se/swe/stb</swe>
-	<eng>http://spraakbanken.gu.se/eng/stb</eng>
-    </homepage>
-    <description>
-        <swe>En svensk trädbank med återanvändning av existerande resurser</swe>
-	<eng>A Swedish treebank built from recycled language resources</eng>
-    </description>
-    <formats>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Swedish treebank</resourceName>
+    <resourceName lang="swe">Svensk trädbank</resourceName>
+    <description>A Swedish treebank built from recycled language resources</description>
+    <description lang="swe">En svensk trädbank med återanvändning av existerande resurser</description>
+    <resourceShortName>sv_treebank</resourceShortName>
+    <resourceShortName lang="swe">sv_treebank</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc6350aa703a4.25410361</identifier>
+    <identifier>sv_treebank</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/swe/stb</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/eng/stb</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sv_treebank</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+            <languageVarietyInfo>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName/>
+              <sizePerLanguageVariety>
+                <size/>
+                <sizeUnit>tokens</sizeUnit>
+              </sizePerLanguageVariety>
+            </languageVarietyInfo>
+          </languageInfo>
+          <sizeInfo>
+            <size/>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

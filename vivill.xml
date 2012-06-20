@@ -1,27 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>vivill</name>
-    <swe>Svenska partiprogram och valmanifest</swe>
-    <eng>Swedish party programs and election manifestos</eng>
-    <license>CC-BY-SA 3.0, GFDL 1.3</license>
-    <version>development</version>
-    <size>
-    <tokens>822314</tokens>
-    </size>
-    <description>
-        <swe>Svenska partiprogram och valmanifest 1887-2010</swe>
-	<eng>Swedish political party programs and election manifestos 1887-2010</eng>
-    </description>
-    <formats>
-      <format>
-	<swe>Webbgränssnitt (via Korp)</swe>
-	<eng>Web interface (via Korp)</eng>
-	<source>http://demosb.spraakdata.gu.se/korp/#corpus=vivill</source>    
-      </format>
-      <format>
-	<swe>Nättjänst</swe>
-	<eng>Web service</eng>
-        <source>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/ws</source>  
-      </format>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Swedish party programs and election manifestos</resourceName>
+    <resourceName lang="swe">Svenska partiprogram och valmanifest</resourceName>
+    <description>Swedish political party programs and election manifestos 1887-2010</description>
+    <description lang="swe">Svenska partiprogram och valmanifest 1887-2010</description>
+    <resourceShortName>vivill</resourceShortName>
+    <resourceShortName lang="swe">vivill</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc6350b0b31c5.00865407</identifier>
+    <identifier>vivill</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>GFDL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/vivill/vivill.xml.bz2</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>GFDL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=vivill</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>GFDL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VIVILL.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/vivill</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>822498</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>50822</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

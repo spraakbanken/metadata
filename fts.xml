@@ -1,26 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>fts</name>
-    <swe>FTS - Färöisk textsamling</swe>
-    <eng>FTS - Faroese text collection</eng>
-    <license>Contact sb-info@svenska.gu.se</license>
-    <version>development</version>
-    <size>
-    <tokens>11000000</tokens>
-    </size>
-    <homepage>
-	<swe>http://spraakbanken.gu.se/FTS/search.phtml</swe>
-	<eng>http://spraakbanken.gu.se/FTS/search.phtml</eng>
-    </homepage>
-    <description>
-        <swe>Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/</swe>
-	<eng>Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/</eng>
-    </description>
-    <formats>
-      <format>
-	<swe>Webbgränssnitt (eget)</swe>
-	<eng>Web interface (dedicated)</eng>
-	<source>http://spraakbanken.gu.se/FTS/search.phtml</source>
-      </format>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>FTS - Faroese text collection</resourceName>
+    <resourceName lang="swe">FTS - Färöisk textsamling</resourceName>
+    <description>Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/</description>
+    <description lang="swe">Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/</description>
+    <resourceShortName>fts</resourceShortName>
+    <resourceShortName lang="swe">fts</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc63507d6f0b6.01554729</identifier>
+    <identifier>fts</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fts</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+            <languageVarietyInfo>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName/>
+              <sizePerLanguageVariety>
+                <size>11000000</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizePerLanguageVariety>
+            </languageVarietyInfo>
+          </languageInfo>
+          <sizeInfo>
+            <size>11000000</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

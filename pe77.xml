@@ -1,26 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource type="corpus">
-    <name>pe77</name>
-    <swe>Banco de Datos de Prensa Española 1977 (SOL)</swe>
-    <eng>Banco de Datos de Prensa Española 1977 (SOL)</eng>
-    <license>Contact sb-info@svenska.gu.se</license>
-    <version>development</version>
-    <size>
-    <tokens>1931639</tokens>
-    </size>
-    <homepage>
-	<swe>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</swe>
-	<eng>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</eng>
-    </homepage>
-    <description>
-    <swe>Del av SOL - Spanska Online</swe>
-    <eng>Part of SOL - Spanish Online</eng>
-    </description>
-    <formats>
-       <format>
-	<swe>Webbgränssnitt (via Konk)</swe>
-	<eng>Web interface (via Konk)</eng>
-	<source>http://spraakbanken.gu.se/konk/rom2/</source>  
-      </format>
-    </formats> 
-  </resource>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Banco de Datos de Prensa Española 1977 (SOL)</resourceName>
+    <resourceName lang="swe">Banco de Datos de Prensa Española 1977 (SOL)</resourceName>
+    <description>Part of SOL - Spanish Online</description>
+    <description lang="swe">Del av SOL - Spanska Online</description>
+    <resourceShortName>pe77</resourceShortName>
+    <resourceShortName lang="swe">pe77</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc63509db9bb6.11436925</identifier>
+    <identifier>pe77</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Olof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/pe77</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+            <languageVarietyInfo>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName/>
+              <sizePerLanguageVariety>
+                <size>1931639</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizePerLanguageVariety>
+            </languageVarietyInfo>
+          </languageInfo>
+          <sizeInfo>
+            <size>1931639</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <!--
+	  <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <annotationType>lemmatization</annotationType>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+	    
+	    <annotationType>structuralAnnotation</annotationType>
+	    <annotationStandoff>true</annotationStandoff>
+	    <segmentationLevel>sentence</segmentationLevel>
+	    <segmentationLevel>word</segmentationLevel>
+	    <annotationFormat>text/xml</annotationFormat>
+	    <annotationMode>automatic</annotationMode>
+	  </annotationInfo>
+          -->
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

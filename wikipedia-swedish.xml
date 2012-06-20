@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id$ -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName>Swedish Wikipedia Corpus</resourceName>
+    <resourceName lang="swe">Svenska wikipedia-korpusen</resourceName>
+    <description>Corpus of Swedish Wikipedia, November 2011</description>
+    <resourceShortName>wikipedia-swedish</resourceShortName>
+    <resourceShortName lang="swe">wikipedia-svenska</resourceShortName>
+    <metaShareId/>
+    <identifier>059e98f1-5b53-4e82-bb28-ffaac26e5ed9</identifier>
+    <identifier>wikipedia-swedish</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <!-- temporary solution while schema cannot handle https:/ -->
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
+      <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
+      <!-- temporary solution -->
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <!-- temporary solution while schema cannot handle https:/ -->
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
+      <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
+      <!-- temporary solution -->
+    </licenceInfo>
+    <licenceInfo>
+      <licence>LGPLv3</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <!-- temporary solution while schema cannot handle https:/ -->
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
+      <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
+      <!-- temporary solution -->
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>LGPLv3</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <!-- temporary solution while schema cannot handle https:/ -->
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
+      <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
+      <!-- temporary solution -->
+    </licenceInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2011-11-14</metadataCreationDate>
+    <metadataCreator>
+      <surname>Olsson</surname>
+      <givenName>Leif-Jöran</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <versionInfo>
+    <version>2011-11-28</version>
+    <revision/>
+    <lastDateUpdated>2011-11-28</lastDateUpdated>
+    <updateFrequency>Updated weekly from wikipedia source, but published quarterly at Språkbanken</updateFrequency>
+  </versionInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/citatkorpusar</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>74810370</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <!--Lägga till AnnotationInfo för dessa 
+                          		<annotationType>segmentation</annotationType>
+                          		<annotationType>lemmatization</annotationType>
+                          		<annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+                   	    -->
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
