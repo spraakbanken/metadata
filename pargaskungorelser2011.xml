@@ -5,11 +5,11 @@
     <resourceName lang="swe">Pargas Kungörelser 2011</resourceName>
     <description>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName>pargaskungorelser</resourceShortName>
-    <resourceShortName lang="swe">pargaskungorelser</resourceShortName>
+    <resourceShortName>pargaskungorelser2011</resourceShortName>
+    <resourceShortName lang="swe">pargaskungorelser2011</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc63509c72043.29514923</identifier>
-    <identifier>pargaskungorelser</identifier>
+    <identifier>hdl:10794/4ff442d500dda3.74268422</identifier>
+    <identifier>pargaskungorelser2011</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -17,7 +17,7 @@
       <licence>CC_BY-SA_3.0</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=pargaskungorelser</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=pargaskungorelser2011</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -35,7 +35,7 @@
       <licence>CC_BY-SA_3.0</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PARGASKUNGORELSER.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PARGASKUNGORELSER2011.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <personInfo>
@@ -68,7 +68,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreationDate>2012-07-04</metadataCreationDate>
     <metadataCreator>
       <surname>Olsson</surname>
       <givenName>Olof</givenName>
@@ -91,7 +91,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/pargaskungorelser</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/pargaskungorelser2011</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -121,17 +121,17 @@
               <languageVarietyType>other</languageVarietyType>
               <languageVarietyName/>
               <sizePerLanguageVariety>
-                <size>220852</size>
+                <size>86850</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizePerLanguageVariety>
             </languageVarietyInfo>
           </languageInfo>
           <sizeInfo>
-            <size>220852</size>
+            <size>86850</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>13854</size>
+            <size>5420</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
