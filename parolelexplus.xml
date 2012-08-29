@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Parole</resourceName>
-    <resourceName lang="swe">Parole</resourceName>
+    <resourceName>Parole+</resourceName>
+    <resourceName lang="swe">Parole+</resourceName>
     <description>The Swedish PAROLE Lexicon - A language technology resource with access to morphological and syntactic information</description>
     <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med morfologisk och syntaktisk information</description>
-    <resourceShortName>parolex</resourceShortName>
-    <resourceShortName lang="swe">parolex</resourceShortName>
+    <resourceShortName>parolelexplus</resourceShortName>
+    <resourceShortName lang="swe">parolelexplus</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc635e3a2ada8.38652626</identifier>
-    <identifier>parolex</identifier>
+    <identifier>hdl:10794/4fc635e393eb07.19662878</identifier>
+    <identifier>parolelexplus</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -18,7 +18,14 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/parolelexplus/parolelexplus.xml</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>LGPL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=parolelexplus</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -88,7 +95,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/parolex</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/parolelexplus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -130,14 +137,14 @@
                     </sizeInfo>
                     -->
           <sizeInfo>
-            <size>29298</size>
+            <size>34701</size>
             <sizeUnit>entries</sizeUnit>
             <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>29298</size>
+              <size>34701</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -155,7 +162,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>29298</size>
+              <size>34701</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -163,7 +170,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>29298</size>
+              <size>34701</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -171,7 +178,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>29298</size>
+              <size>34701</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

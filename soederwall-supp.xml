@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Old Swedish morphology</resourceName>
-    <resourceName lang="swe">Fornsvensk morfologi</resourceName>
-    <description>Old Swedish morphology from Söderwall and Schlyter</description>
-    <description lang="swe">Fornsvensk morfologi ur Söderwall och Schlyter</description>
-    <resourceShortName>fsv</resourceShortName>
-    <resourceShortName lang="swe">fsv</resourceShortName>
+    <resourceName>Söderwall Supplement</resourceName>
+    <resourceName lang="swe">Söderwall Supplement</resourceName>
+    <description>Dictionary of old Swedish</description>
+    <description lang="swe">Ordbok över svenska medeltidsspråket</description>
+    <resourceShortName>soederwall-supp</resourceShortName>
+    <resourceShortName lang="swe">soederwall-supp</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/9d83a2ab-16ad-47d8-b779-b75cab33122c</identifier>
-    <identifier>fsv</identifier>
+    <identifier>hdl:10794/d26ff2bb-d854-4b6f-9956-4277333ec815</identifier>
+    <identifier>soederwall-supp</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -18,7 +18,7 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/fsv/fsv.xml</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/soederwall-supp/soederwall-supp.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -39,7 +39,14 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/eng/swefn/</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>LGPL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/fsvldb/</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <personInfo>
@@ -95,7 +102,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsv</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/soederwall-supp</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -137,14 +144,14 @@
                     </sizeInfo>
                     -->
           <sizeInfo>
-            <size>3022</size>
+            <size>19172</size>
             <sizeUnit>entries</sizeUnit>
             <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>3022</size>
+              <size>19172</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -162,7 +169,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>3022</size>
+              <size>19172</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -170,7 +177,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>3022</size>
+              <size>19172</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -178,7 +185,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>3022</size>
+              <size>19172</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

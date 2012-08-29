@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Simple lexicon</resourceName>
-    <resourceName lang="swe">Simple lexikon</resourceName>
-    <description>The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish</description>
-    <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information</description>
-    <resourceShortName>simple_lex</resourceShortName>
-    <resourceShortName lang="swe">simple_lex</resourceShortName>
+    <resourceName>Dalin's morphology</resourceName>
+    <resourceName lang="swe">Dalins morfologi</resourceName>
+    <description>Dalin's Dictionary of 19th century Swedish</description>
+    <description lang="swe">Dalins ordbok - Ordbok över 1800-talsspråket</description>
+    <resourceShortName>dalinm</resourceShortName>
+    <resourceShortName lang="swe">dalin</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc635e3f0adf2.65322268</identifier>
-    <identifier>simple_lex</identifier>
+    <identifier>hdl:10794/133c39e1-a807-4671-8364-44a97b1b6d3f</identifier>
+    <identifier>dalinm</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -18,49 +18,35 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/simple/simple.xml</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalinm/dalinm.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=daninm</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/swefn</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/swe/forskning/swefn/dalin</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/eng/research/swefn/dalin</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC_BY-SA_3.0</licence>
+      <licence>LGPL</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/dalinm/</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <personInfo>
@@ -116,7 +102,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/simple_lex</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/dalin</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -158,14 +144,14 @@
                     </sizeInfo>
                     -->
           <sizeInfo>
-            <size>11624</size>
+            <size>62797</size>
             <sizeUnit>entries</sizeUnit>
             <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>11624</size>
+              <size>62797</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -183,7 +169,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>11624</size>
+              <size>62797</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -191,7 +177,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>11624</size>
+              <size>62797</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -199,7 +185,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>11624</size>
+              <size>62797</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Söderwall Supplement</resourceName>
-    <resourceName lang="swe">Söderwall Supplement</resourceName>
-    <description>Dictionary of old Swedish</description>
-    <description lang="swe">Ordbok över svenska medeltidsspråket</description>
-    <resourceShortName>soederwall_supp</resourceShortName>
-    <resourceShortName lang="swe">soederwall_supp</resourceShortName>
+    <resourceName>Parole</resourceName>
+    <resourceName lang="swe">Parole</resourceName>
+    <description>The Swedish PAROLE Lexicon - A language technology resource with access to morphological and syntactic information</description>
+    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med morfologisk och syntaktisk information</description>
+    <resourceShortName>parolelex</resourceShortName>
+    <resourceShortName lang="swe">parolelex</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/d26ff2bb-d854-4b6f-9956-4277333ec815</identifier>
-    <identifier>soederwall_supp</identifier>
+    <identifier>hdl:10794/4fc635e3a2ada8.38652626</identifier>
+    <identifier>parolelex</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -18,14 +18,7 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/soederwall_supp/soederwall_supp.xml</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -39,14 +32,7 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/swefn/</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/fsvldb/</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <personInfo>
@@ -102,7 +88,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/soederwall_supp</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/parolelex</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -144,14 +130,14 @@
                     </sizeInfo>
                     -->
           <sizeInfo>
-            <size>19172</size>
+            <size>29298</size>
             <sizeUnit>entries</sizeUnit>
             <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>19172</size>
+              <size>29298</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -169,7 +155,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>19172</size>
+              <size>29298</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -177,7 +163,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>19172</size>
+              <size>29298</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -185,7 +171,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>19172</size>
+              <size>29298</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
