@@ -5,11 +5,11 @@
     <resourceName lang="swe">Korpus för vårdens och omsorgens fackspråk</resourceName>
     <description>Läkartidningen (1996-2009), medical news text processed and searchable</description>
     <description lang="swe">Läkartidningens arkiv (1996-2009) förädlat och sökbart</description>
-    <resourceShortName>lakartidn_vof</resourceShortName>
-    <resourceShortName lang="swe">lakartidn_vof</resourceShortName>
+    <resourceShortName>lakartidn-vof</resourceShortName>
+    <resourceShortName lang="swe">lakartidn-vof</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635090a09e2.95301457</identifier>
-    <identifier>lakartidn_vof</identifier>
+    <identifier>lakartidn-vof</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -85,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/lakartidn_vof</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/lakartidn-vof</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

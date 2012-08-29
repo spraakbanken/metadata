@@ -5,11 +5,11 @@
     <resourceName lang="swe">Svensk trädbank</resourceName>
     <description>A Swedish treebank built from recycled language resources</description>
     <description lang="swe">En svensk trädbank med återanvändning av existerande resurser</description>
-    <resourceShortName>sv_treebank</resourceShortName>
-    <resourceShortName lang="swe">sv_treebank</resourceShortName>
+    <resourceShortName>sv-treebank</resourceShortName>
+    <resourceShortName lang="swe">sv-treebank</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350aa703a4.25410361</identifier>
-    <identifier>sv_treebank</identifier>
+    <identifier>sv-treebank</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -79,7 +79,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sv_treebank</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sv-treebank</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

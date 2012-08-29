@@ -5,11 +5,11 @@
     <resourceName>Swedish Wikipedia Corpus</resourceName>
     <resourceName lang="swe">Svenska wikipedia-korpusen</resourceName>
     <description>Corpus of Swedish Wikipedia, November 2011</description>
-    <resourceShortName>wikipedia-swedish</resourceShortName>
+    <resourceShortName>wikipedia-sv</resourceShortName>
     <resourceShortName lang="swe">wikipedia-svenska</resourceShortName>
     <metaShareId/>
     <identifier>059e98f1-5b53-4e82-bb28-ffaac26e5ed9</identifier>
-    <identifier>wikipedia-swedish</identifier>
+    <identifier>wikipedia-sv</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -21,7 +21,7 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
       <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
       <!-- temporary solution -->
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia-sv</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -40,7 +40,7 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2</downloadLocation>
       <!-- <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia/wikipedia.xml.bz2 -->
       <!-- temporary solution -->
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia-sv</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>LGPLv3</licence>

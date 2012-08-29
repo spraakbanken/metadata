@@ -5,11 +5,11 @@
     <resourceName lang="swe">Vasabladet 1991</resourceName>
     <description>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName>vasabladet</resourceShortName>
-    <resourceShortName lang="swe">vasabladet</resourceShortName>
+    <resourceShortName>vasabladet1991</resourceShortName>
+    <resourceShortName lang="swe">vasabladet1991</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350ae91434.00738065</identifier>
-    <identifier>vasabladet</identifier>
+    <identifier>vasabladet1991</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -17,7 +17,7 @@
       <licence>CC_BY-SA_3.0</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=vasabladet</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=vasabladet1991</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -91,7 +91,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/vasabladet</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/vasabladet1991</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
