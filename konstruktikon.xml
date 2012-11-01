@@ -137,11 +137,7 @@
                         <sizeUnit>bytes</sizeUnit>
                     </sizeInfo>
                     -->
-          <sizeInfo>
-            <size>58</size>
-            <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
-          </sizeInfo>
+          
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
@@ -163,7 +159,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size></size>
+              <size/>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -171,7 +167,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size></size>
+              <size/>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -179,12 +175,12 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size></size>
+              <size/>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
-        </lexicalConceptualResourceTextInfo>
+        <sizeInfo><size>59</size><sizeUnit>entries</sizeUnit></sizeInfo></lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>

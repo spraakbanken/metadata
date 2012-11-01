@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName>Swedberg's Swensk Ordabok</resourceName>
     <resourceName lang="swe">Swedbergs Swensk ordabok</resourceName>
-    <description></description>
-    <description lang="swe"></description>
+    <description/>
+    <description lang="swe"/>
     <resourceShortName>swedberg</resourceShortName>
     <resourceShortName lang="swe">swedberg</resourceShortName>
     <metaShareId/>
@@ -25,7 +25,7 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation></executionLocation>
+      <executionLocation/>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -46,7 +46,7 @@
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation></downloadLocation>
+      <downloadLocation/>
     </licenceInfo>
     <iprHolder>
       <personInfo>
@@ -102,7 +102,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation></samplesLocation>
+    <samplesLocation/>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -143,11 +143,7 @@
                         <sizeUnit>bytes</sizeUnit>
                     </sizeInfo>
                     -->
-          <sizeInfo>
-            <size>17565</size>
-            <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
-          </sizeInfo>
+          
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
@@ -190,7 +186,7 @@
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
-        </lexicalConceptualResourceTextInfo>
+        <sizeInfo><size>17565</size><sizeUnit>entries</sizeUnit></sizeInfo></lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>

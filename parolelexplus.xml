@@ -136,11 +136,7 @@
                         <sizeUnit>bytes</sizeUnit>
                     </sizeInfo>
                     -->
-          <sizeInfo>
-            <size>34701</size>
-            <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
-          </sizeInfo>
+          
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
@@ -183,7 +179,7 @@
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
-        </lexicalConceptualResourceTextInfo>
+        <sizeInfo><size>24523</size><sizeUnit>entries</sizeUnit></sizeInfo></lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
