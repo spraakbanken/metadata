@@ -110,10 +110,7 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          <sizeInfo>
-            <size>83323954</size>
-            <sizeUnit>tokens</sizeUnit>
-          </sizeInfo>
+          
           <annotationInfo>
             <!--Lägga till AnnotationInfo för dessa 
                           		<annotationType>segmentation</annotationType>
@@ -127,7 +124,7 @@
             <annotationFormat>text/xml</annotationFormat>
             <annotationMode>automatic</annotationMode>
           </annotationInfo>
-        </corpusTextInfo>
+        <sizeInfo><size>83323954</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

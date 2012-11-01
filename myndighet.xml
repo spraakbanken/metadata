@@ -140,7 +140,7 @@
 	    <annotationMode>automatic</annotationMode>
 	  </annotationInfo>
           -->
-        </corpusTextInfo>
+        <sizeInfo><size>134811</size><sizeUnit>tokens</sizeUnit></sizeInfo><sizeInfo><size>134811</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

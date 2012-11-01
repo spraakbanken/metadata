@@ -120,10 +120,7 @@
               </sizePerLanguageVariety>
             </languageVarietyInfo>
           </languageInfo>
-          <sizeInfo>
-            <size>11000000</size>
-            <sizeUnit>tokens</sizeUnit>
-          </sizeInfo>
+          
           <!--
 	  <annotationInfo>
             <annotationType>segmentation</annotationType>
@@ -138,7 +135,7 @@
 	    <annotationMode>automatic</annotationMode>
 	  </annotationInfo>
           -->
-        </corpusTextInfo>
+        <sizeInfo><size>1141029</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>
