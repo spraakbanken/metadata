@@ -18,6 +18,7 @@
       <licence>GFDL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <attributionText>this file contains a scrabled version of the corpus</attributionText>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/sfs/sfs.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
