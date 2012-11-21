@@ -113,11 +113,10 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageId>sv-FI</languageId>
+            <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo>
+          </languageInfo> 
           <sizeInfo>
             <size>960872</size>
             <sizeUnit>tokens</sizeUnit>

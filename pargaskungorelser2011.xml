@@ -113,8 +113,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
+            <languageId>fi-SV</languageId>
+            <languageName>Finland Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
             <languageVarietyInfo>
