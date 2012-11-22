@@ -48,21 +48,14 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/fsvldb/</downloadLocation>
     </licenceInfo>
-    <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+    <iprHolder> 
+      <organizationInfo>
+        <organizationName lang="swe">Svenska fornskriftsällskapet</organizationName>
+        <organizationName lang="eng">Svenska fornskriftsällskapet</organizationName>  
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
+          <email>per-axel.wiktorsson@nordiska.uu.se</email>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -81,8 +74,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>

@@ -48,21 +48,21 @@
       <downloadLocation>http://spraakbanken.gu.se/eng/sblex/resources</downloadLocation>
       <!-- downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation -->
     </licenceInfo>
-    <iprHolder>
-      <personInfo>
-	<surname>Forsberg</surname>
-	<givenName>Markus</givenName>
-	<communicationInfo>
-	  <email>sb-info@svenska.gu.se</email>
-	</communicationInfo>
-	<affiliation>
-	  <organizationName>Språkbanken, University of Gothenburg</organizationName>
-	  <organizationShortName>Språkbanken</organizationShortName>
-	  <communicationInfo>
-	    <email>sb-info@svenska.gu.se</email>
-	  </communicationInfo>
-	</affiliation>
-      </personInfo>
+    <iprHolder> 
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
 
@@ -83,8 +83,8 @@
   <metadataInfo>
     <metadataCreationDate>2011-11-14</metadataCreationDate>
     <metadataCreator>
-      <surname>Forsberg</surname>
-      <givenName>Markus</givenName>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
       <communicationInfo>
 	<email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -169,14 +169,14 @@
 	    <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
 	  </sizeInfo>
 	  <sizeInfo>
-	    <size>122213</size>
+	    <size>118522</size>
 	    <sizeUnit>entries</sizeUnit>
 	    <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
 	  </sizeInfo>
 	  <textFormatInfo>
 	    <mimeType>other</mimeType>
 	    <sizePerTextFormat>
-	      <size>122213</size>
+	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
 	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
 	    </sizePerTextFormat>
@@ -192,7 +192,7 @@
 	  <domainInfo>
 	    <domain>general</domain>
 	    <sizePerDomain>
-	      <size>122213</size>
+	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
 	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
 	    </sizePerDomain>
@@ -200,7 +200,7 @@
 	  <timeCoverageInfo>
 	    <timeCoverage>other</timeCoverage>
 	    <sizePerTimeCoverage>
-	      <size>122213</size>
+	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
 	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
 	    </sizePerTimeCoverage>
@@ -208,7 +208,7 @@
 	  <geographicCoverageInfo>
 	    <geographicCoverage>other</geographicCoverage>
 	    <sizePerGeographicCoverage>
-	      <size>122213</size>
+	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
 	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
 	    </sizePerGeographicCoverage>

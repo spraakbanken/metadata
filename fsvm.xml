@@ -6,7 +6,7 @@
     <description>Old Swedish morphology from Söderwall and Schlyter</description>
     <description lang="swe">Fornsvensk morfologi ur Söderwall och Schlyter</description>
     <resourceShortName>fsvm</resourceShortName>
-    <resourceShortName lang="swe">fsv</resourceShortName>
+    <resourceShortName lang="swe">fsvm</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/9d83a2ab-16ad-47d8-b779-b75cab33122c</identifier>
     <identifier>fsvm</identifier>
@@ -41,21 +41,21 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+    <iprHolder> 
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -74,8 +74,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -140,7 +140,7 @@
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>3022</size>
+              <size>41958</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -158,7 +158,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>3022</size>
+              <size>41958</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -166,7 +166,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>3022</size>
+              <size>41958</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -174,7 +174,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>3022</size>
+              <size>41958</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

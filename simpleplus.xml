@@ -62,21 +62,21 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+    <iprHolder> 
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -95,8 +95,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -161,7 +161,7 @@
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>11624</size>
+              <size>6418</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -179,7 +179,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>11624</size>
+              <size>6418</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -187,7 +187,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>11624</size>
+              <size>6418</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -195,7 +195,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>11624</size>
+              <size>6418</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

@@ -50,18 +50,11 @@
     </licenceInfo>
     <iprHolder>
       <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+        <surname>Holm</surname>
+        <givenName>Lars</givenName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
       </personInfo>
     </iprHolder>
   </distributionInfo>
@@ -81,8 +74,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
