@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>FNB 1999</resourceName>
-    <resourceName lang="swe">FNB 1999</resourceName>
+    <resourceName>Magma columns</resourceName>
+    <resourceName lang="swe">Magma kolumner</resourceName>
     <description>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName>fnb1999</resourceShortName>
-    <resourceShortName lang="swe">fnb1999</resourceShortName>
+    <resourceShortName>magmakolumner</resourceShortName>
+    <resourceShortName lang="swe">magmakolumner</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc6350771ab45.73367016</identifier>
-    <identifier>fnb1999</identifier>
+    <identifier>hdl:10794/502b8c2d7ef3d3.60900166</identifier>
+    <identifier>magmakolumner</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -17,19 +17,13 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fnb1999</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=magmakolumner</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://www.sls.fi/doc.php?docid=799</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FNB1999.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_MAGMAKOLUMNER.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -78,7 +72,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fnb1999</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/magmakolumner</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -103,13 +97,13 @@
             <languageId>sv-FI</languageId>
             <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo>          
+          </languageInfo> 
           <sizeInfo>
-            <size>3413880</size>
+            <size>57041</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>269763</size>
+            <size>2718</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
@@ -131,3 +125,4 @@
     </corpusInfo>
   </resourceComponentType>
 </resourceInfo>
+

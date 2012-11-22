@@ -21,20 +21,20 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/drama/drama.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://www.dramawebben.se/</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://www.dramawebben.se/</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=drama</executionLocation>
     </licenceInfo>
@@ -45,20 +45,12 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_DRAMA.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Dramawebben</organizationName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
+          <email>marika.lagercrantz@riksteatern.se</email>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -77,8 +69,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -147,7 +139,7 @@
 	    <annotationMode>automatic</annotationMode>
 	  </annotationInfo>
           -->
-        <sizeInfo><size>57606</size><sizeUnit>tokens</sizeUnit></sizeInfo><sizeInfo><size>57606</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

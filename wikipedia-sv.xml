@@ -14,8 +14,8 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia-sv</executionLocation>
     </licenceInfo>
@@ -32,20 +32,20 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SV.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -64,8 +64,8 @@
   <metadataInfo>
     <metadataCreationDate>2011-11-14</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Leif-Jöran</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -79,10 +79,10 @@
     <source>META-NORD</source>
   </metadataInfo>
   <versionInfo>
-    <version>2011-11-28</version>
+    <version>2012-11-02</version>
     <revision/>
-    <lastDateUpdated>2011-11-28</lastDateUpdated>
-    <updateFrequency>Updated weekly from wikipedia source, but published quarterly at Språkbanken</updateFrequency>
+    <lastDateUpdated>2012-11-02</lastDateUpdated>
+    <updateFrequency>Updated monthly from wikipedia source, but published quarterly at Språkbanken</updateFrequency>
   </versionInfo>
   <validationInfo>
     <validated>true</validated>
@@ -124,7 +124,8 @@
             <annotationFormat>text/xml</annotationFormat>
             <annotationMode>automatic</annotationMode>
           </annotationInfo>
-        <sizeInfo><size>83323954</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+        <sizeInfo><size>86327650</size><sizeUnit>tokens</sizeUnit></sizeInfo>
+        <sizeInfo><size>5630312</size><sizeUnit>sentences</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

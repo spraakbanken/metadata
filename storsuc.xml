@@ -21,16 +21,10 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/storsuc/storsuc.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=storsuc</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://demosb.spraakdata.gu.se/glossa/html/?corpus=storsuc#</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC_BY-SA_3.0</licence>
@@ -51,20 +45,20 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_STORSUC.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -83,8 +77,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -130,14 +124,6 @@
             <languageName>Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
-            <languageVarietyInfo>
-              <languageVarietyType>other</languageVarietyType>
-              <languageVarietyName/>
-              <sizePerLanguageVariety>
-                <size>4653743</size>
-                <sizeUnit>tokens</sizeUnit>
-              </sizePerLanguageVariety>
-            </languageVarietyInfo>
           </languageInfo>
           <sizeInfo>
             <size>4653743</size>
@@ -161,7 +147,7 @@
 	    <annotationMode>automatic</annotationMode>
 	  </annotationInfo>
           -->
-        <sizeInfo><size>4653801</size><sizeUnit>tokens</sizeUnit></sizeInfo><sizeInfo><size>4653801</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

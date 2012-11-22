@@ -26,20 +26,16 @@
       <downloadLocation>http://spraakbanken.gu.se/eng/stb</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Stockholms universitet</organizationName>
+        <organizationName lang="eng">Stockholm University</organizationName>	
+        <departmentName lang="swe">Institutionen för lingvistik</departmentName>
+        <departmentName lang="eng">Department of Linguistics</departmentName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
+          <email>exp@ling.su.se</email>
+          <url>http://www.ling.su.se/</url>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -58,8 +54,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -105,14 +101,6 @@
             <languageName>Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
-            <languageVarietyInfo>
-              <languageVarietyType>other</languageVarietyType>
-              <languageVarietyName/>
-              <sizePerLanguageVariety>
-                <size/>
-                <sizeUnit>tokens</sizeUnit>
-              </sizePerLanguageVariety>
-            </languageVarietyInfo>
           </languageInfo>
           <sizeInfo>
             <size/>

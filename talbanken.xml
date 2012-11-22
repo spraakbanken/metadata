@@ -21,8 +21,8 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/talbanken/talbanken.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=talbanken</executionLocation>
     </licenceInfo>
@@ -33,20 +33,15 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TALBANKEN.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Lunds universitet</organizationName>
+        <organizationName lang="eng">Lund University</organizationName>	
+        <departmentName lang="swe">Språk- och litteraturcentrum</departmentName>
+        <departmentName lang="eng">Centre for Languages and Literature</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -65,8 +60,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>

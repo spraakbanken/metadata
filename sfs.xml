@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Swedish statute book 1978-81</resourceName>
-    <resourceName lang="swe">Svensk författningssamling 1978-81</resourceName>
-    <description>Swedish statute book 1978-81</description>
-    <description lang="swe">Svensk författningssamling 1978-81</description>
+    <resourceName>Swedish statute book</resourceName>
+    <resourceName lang="swe">Svensk författningssamling</resourceName>
+    <description>Swedish statute book</description>
+    <description lang="swe">Svensk författningssamling</description>
     <resourceShortName>sfs</resourceShortName>
     <resourceShortName lang="swe">sfs</resourceShortName>
     <metaShareId/>
@@ -36,20 +36,20 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SFS.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
+      </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
@@ -68,8 +68,8 @@
   <metadataInfo>
     <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
-      <surname>Olsson</surname>
-      <givenName>Olof</givenName>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -117,11 +117,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>704116</size>
+            <size>8335802</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>42242</size>
+            <size>598499</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
@@ -138,7 +138,7 @@
 	    <annotationMode>automatic</annotationMode>
 	  </annotationInfo>
           -->
-        <sizeInfo><size>8335802</size><sizeUnit>tokens</sizeUnit></sizeInfo><sizeInfo><size>8335802</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>
