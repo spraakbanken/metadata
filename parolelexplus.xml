@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName>Parole+</resourceName>
     <resourceName lang="swe">Parole+</resourceName>
-    <description>The Swedish PAROLE Lexicon - A language technology resource with access to morphological and syntactic information, connected to SALDO senses</description>
-    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med morfologisk och syntaktisk information, kopplade till betydelser i SALDO</description>
+    <description>The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, connected to SALDO senses</description>
+    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName>parolelexplus</resourceShortName>
     <resourceShortName lang="swe">parolelexplus</resourceShortName>
     <metaShareId/>

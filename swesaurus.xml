@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName>Swesaurus</resourceName>
     <resourceName lang="swe">Swesaurus</resourceName>
-    <description>Fuzzy synsets for Swedish using the lexical resources Synlex and SALDO</description>
-    <description lang="swe"> Luddiga synonymmängder för svenska, baserat på de lexikala resurserna Synlex och SALDO</description>
+    <description>A Swedish WordNet</description>
+    <description lang="swe">Ett svenskt ordnät</description>
     <resourceShortName>swesaurus</resourceShortName>
     <resourceShortName lang="swe">swesaurus</resourceShortName>
     <metaShareId/>
