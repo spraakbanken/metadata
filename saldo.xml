@@ -13,7 +13,7 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
@@ -22,7 +22,7 @@
       <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=saldo</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
@@ -30,7 +30,7 @@
       <!-- downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation -->
     </licenceInfo>
     <licenceInfo>
-      <licence>LGPLv3</licence>
+      <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
@@ -41,7 +41,7 @@
 
     </licenceInfo>
     <licenceInfo>
-      <licence>LGPLv3</licence>
+      <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
@@ -163,16 +163,7 @@
 	  <modalityInfo>
 	    <modalityType>writtenLanguage</modalityType>
 	  </modalityInfo>
-	  <sizeInfo>
-	    <size>23300000</size>
-	    <sizeUnit>bytes</sizeUnit>
-	    <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
-	  </sizeInfo>
-	  <sizeInfo>
-	    <size>118522</size>
-	    <sizeUnit>entries</sizeUnit>
-	    <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
-	  </sizeInfo>
+	  <sizeInfo><size>118522</size><sizeUnit>entries</sizeUnit></sizeInfo>
 	  <textFormatInfo>
 	    <mimeType>other</mimeType>
 	    <sizePerTextFormat>
@@ -213,7 +204,7 @@
 	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
 	    </sizePerGeographicCoverage>
 	  </geographicCoverageInfo>
-	<sizeInfo><size>118522</size><sizeUnit>entries</sizeUnit></sizeInfo><sizeInfo><size>118522</size><sizeUnit>entries</sizeUnit></sizeInfo></lexicalConceptualResourceTextInfo>
+	</lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
