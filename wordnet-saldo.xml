@@ -14,28 +14,28 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/wordnet-saldo/wordnet-saldo.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/swe/resurs/wordnet-saldo</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>LGPL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
@@ -130,12 +130,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                    <sizeInfo>
-                        <size>4242424242</size>
-                        <sizeUnit>bytes</sizeUnit>
-                    </sizeInfo>
-                    -->
+          <sizeInfo><size>6103</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
@@ -179,7 +174,7 @@
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
-        <sizeInfo><size>6103</size><sizeUnit>entries</sizeUnit></sizeInfo></lexicalConceptualResourceTextInfo>
+        </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
