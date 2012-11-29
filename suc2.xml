@@ -17,8 +17,8 @@
       <licence>other</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/suc2/suc2.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
@@ -27,25 +27,25 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=suc2</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/swe/resurser/suc</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/resurser/suc</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/parole/</downloadLocation>

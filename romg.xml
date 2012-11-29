@@ -14,11 +14,11 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/romg/romg.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
@@ -27,13 +27,13 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=romg</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/konk/info/romg.phtml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt</downloadLocation>

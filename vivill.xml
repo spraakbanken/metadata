@@ -11,34 +11,25 @@
     <identifier>hdl:10794/4fc6350b0b31c5.00865407</identifier>
     <identifier>vivill</identifier>
   </identificationInfo>
-  <resourceCreationInfo>
-      <resourceCreator>
-          <organizationInfo>
-              <organizationName lang="swe">Svensk nationell datatjänst</organizationName>
-              <organizationName lang="eng">Swedish National Data Service</organizationName>
-              <organizationShortName>SND</organizationShortName>
-          </organizationInfo>
-      </resourceCreator>
-  </resourceCreationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>GFDL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/vivill/vivill.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>GFDL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=vivill</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <licence>GFDL</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
@@ -110,6 +101,18 @@
     </relatedResource>
   </relationInfo>
   -->
+  <resourceCreationInfo>
+      <resourceCreator>
+          <organizationInfo>
+              <organizationName lang="swe">Svensk nationell datatjänst</organizationName>
+              <organizationName lang="eng">Swedish National Data Service</organizationName>
+              <organizationShortName>SND</organizationShortName>
+              <communicationInfo>
+                  <email>snd@gu.se</email>
+              </communicationInfo>
+          </organizationInfo>
+      </resourceCreator>
+  </resourceCreationInfo>
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>

@@ -20,13 +20,13 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia-sv</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia-sv/wikipedia-sv.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC_BY-SA_3.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SV.txt</downloadLocation>
@@ -110,20 +110,6 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          
-          <annotationInfo>
-            <!--Lägga till AnnotationInfo för dessa 
-                          		<annotationType>segmentation</annotationType>
-                          		<annotationType>lemmatization</annotationType>
-                          		<annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-                   	    -->
-            <annotationType>structuralAnnotation</annotationType>
-            <annotationStandoff>true</annotationStandoff>
-            <segmentationLevel>sentence</segmentationLevel>
-            <segmentationLevel>word</segmentationLevel>
-            <annotationFormat>text/xml</annotationFormat>
-            <annotationMode>automatic</annotationMode>
-          </annotationInfo>
         <sizeInfo><size>86327650</size><sizeUnit>tokens</sizeUnit></sizeInfo>
         <sizeInfo><size>5630312</size><sizeUnit>sentences</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
