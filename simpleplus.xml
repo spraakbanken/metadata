@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Simple lexicon</resourceName>
-    <resourceName lang="swe">Simple lexikon</resourceName>
-    <description>The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish</description>
-    <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information</description>
+    <resourceName>Simple+</resourceName>
+    <resourceName lang="swe">Simple+</resourceName>
+    <description>The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses</description>
+    <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName>simpleplus</resourceShortName>
     <resourceShortName lang="swe">simpleplus</resourceShortName>
     <metaShareId/>
