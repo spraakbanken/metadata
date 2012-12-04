@@ -15,13 +15,13 @@
     <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.html</downloadLocation>
     </licenceInfo>

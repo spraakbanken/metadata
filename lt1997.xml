@@ -15,7 +15,7 @@
     <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/lt1997/lt1997.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
@@ -34,7 +34,7 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LT1997.txt</downloadLocation>
     </licenceInfo>
