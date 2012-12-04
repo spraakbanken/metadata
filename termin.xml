@@ -128,14 +128,14 @@
                     </sizeInfo>
                     -->
           <sizeInfo>
-            <size/>
+            <size>0</size>
             <sizeUnit>entries</sizeUnit>
             <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size/>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
@@ -153,7 +153,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size/>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -161,7 +161,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size/>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -169,7 +169,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size/>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>

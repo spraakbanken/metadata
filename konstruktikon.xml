@@ -150,7 +150,7 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size/>
+              <size>59</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
@@ -158,7 +158,7 @@
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size/>
+              <size>59</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
@@ -166,7 +166,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size/>
+              <size>59</size>
               <sizeUnit>entries</sizeUnit>
               <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
