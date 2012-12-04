@@ -14,37 +14,32 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/swe/kelly</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/kelly</downloadLocation>
     </licenceInfo>

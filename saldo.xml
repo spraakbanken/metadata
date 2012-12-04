@@ -13,8 +13,8 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation>
@@ -22,30 +22,11 @@
       <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=saldo</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <!-- temporary solution while schema cannot handle https:/ -->
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation>
-      <!-- downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation -->
-    </licenceInfo>
-    <licenceInfo>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <!-- temporary solution while schema cannot handle https:/ -->
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation> 
-      <!-- downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation -->
-
-      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=saldo</executionLocation>
-
-    </licenceInfo>
-    <licenceInfo>
-      <licence>LGPL</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <!-- temporary solution while schema cannot handle https:/ -->
-      <downloadLocation>http://spraakbanken.gu.se/eng/sblex/resources</downloadLocation>
       <!-- downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation -->
     </licenceInfo>
     <iprHolder> 
