@@ -14,7 +14,7 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/diabetolog/diabetolog.xml.bz2</downloadLocation>
@@ -27,7 +27,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=diabetolog</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_DIABETOLOG.txt</downloadLocation>

@@ -46,17 +46,13 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
-        <departmentName lang="swe">Språkbanken</departmentName>
-        <departmentName lang="eng">Språkbanken</departmentName>
+        <organizationName lang="swe">Stockholms universitet</organizationName>
+        <organizationName lang="eng">Stockholm University</organizationName>	
+        <departmentName lang="swe">Institutionen för lingvistik</departmentName>
+        <departmentName lang="eng">Department of Linguistics</departmentName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-          <url>http://spraakbanken.gu.se</url>
-          <address>Lennart Torstenssonsgatan 8</address>
-          <zipCode>412 56</zipCode>
-          <city>Gothenburg</city>
-          <country>Sweden</country>
+          <email>exp@ling.su.se</email>
+          <url>http://www.ling.su.se/</url>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>

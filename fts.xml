@@ -100,9 +100,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageId>fao</languageId>
+            <languageName>Faroese</languageName>
             <languageScript>Latn</languageScript>
           </languageInfo>
           

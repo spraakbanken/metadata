@@ -96,8 +96,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
+            <languageId>spa</languageId>
+            <languageName>Spanish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
