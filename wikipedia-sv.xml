@@ -2,17 +2,17 @@
 <!-- $Id$ -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Swedish Wikipedia Corpus</resourceName>
+    <resourceName lang="eng">Swedish Wikipedia Corpus</resourceName>
     <resourceName lang="swe">Svenska wikipedia-korpusen</resourceName>
-    <description>Corpus of Swedish Wikipedia, November 2011</description>
-    <resourceShortName>wikipedia-sv</resourceShortName>
+    <description lang="eng">Corpus of Swedish Wikipedia, November 2011</description>
+    <resourceShortName lang="eng">wikipedia-sv</resourceShortName>
     <resourceShortName lang="swe">wikipedia-svenska</resourceShortName>
     <metaShareId/>
     <identifier>059e98f1-5b53-4e82-bb28-ffaac26e5ed9</identifier>
     <identifier>wikipedia-sv</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
@@ -34,7 +34,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>

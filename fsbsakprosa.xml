@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Non-fiction 2006-2011</resourceName>
+    <resourceName lang="eng">Non-fiction 2006-2011</resourceName>
     <resourceName lang="swe">Sakprosa 2006-2011</resourceName>
-    <description>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName>fsbsakprosa</resourceShortName>
+    <resourceShortName lang="eng">fsbsakprosa</resourceShortName>
     <resourceShortName lang="swe">fsbsakprosa</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc63507b9f6d9.35331099</identifier>
@@ -34,7 +34,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>
-        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>	
+        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>
         <communicationInfo>
           <email>info@sls.fi</email>
         </communicationInfo>
@@ -113,18 +113,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

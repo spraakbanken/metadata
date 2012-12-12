@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Older Swedish novels</resourceName>
+    <resourceName lang="eng">Older Swedish novels</resourceName>
     <resourceName lang="swe">Äldre svenska romaner</resourceName>
-    <description>A collection of more than 50 older Swedish novels by 14 different authors</description>
+    <description lang="eng">A collection of more than 50 older Swedish novels by 14 different authors</description>
     <description lang="swe">En samling med fler än 50 äldre svenska romaner av 14 olika författare</description>
-    <resourceShortName>romg</resourceShortName>
+    <resourceShortName lang="eng">romg</resourceShortName>
     <resourceShortName lang="swe">romg</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350a3b8dd8.26958738</identifier>
     <identifier>romg</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -41,7 +41,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -128,18 +128,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

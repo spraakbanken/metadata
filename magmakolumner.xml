@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Magma columns</resourceName>
+    <resourceName lang="eng">Magma columns</resourceName>
     <resourceName lang="swe">Magma kolumner</resourceName>
-    <description>Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName>magmakolumner</resourceShortName>
+    <resourceShortName lang="eng">magmakolumner</resourceShortName>
     <resourceShortName lang="swe">magmakolumner</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/502b8c2d7ef3d3.60900166</identifier>
@@ -28,7 +28,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>
-        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>	
+        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>
         <communicationInfo>
           <email>info@sls.fi</email>
         </communicationInfo>
@@ -107,18 +107,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>GP 2004</resourceName>
+    <resourceName lang="eng">GP 2004</resourceName>
     <resourceName lang="swe">GP 2004</resourceName>
-    <description>A corpus with texts from Göteborgsposten</description>
+    <description lang="eng">A corpus with texts from Göteborgsposten</description>
     <description lang="swe">En korpus med texter från Göteborgsposten</description>
-    <resourceShortName>gp2004</resourceShortName>
+    <resourceShortName lang="eng">gp2004</resourceShortName>
     <resourceShortName lang="swe">gp2004</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635081b39b3.66742608</identifier>
     <identifier>gp2004</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -47,7 +47,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -134,18 +134,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

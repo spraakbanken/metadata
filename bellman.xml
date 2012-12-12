@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Bellman</resourceName>
+    <resourceName lang="eng">Bellman</resourceName>
     <resourceName lang="swe">Bellman</resourceName>
-    <description>Collected works of C.M. Bellman</description>
+    <description lang="eng">Collected works of C.M. Bellman</description>
     <description lang="swe">C.M. Bellmans samlade verk</description>
-    <resourceShortName>bellman</resourceShortName>
+    <resourceShortName lang="eng">bellman</resourceShortName>
     <resourceShortName lang="swe">bellman</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350705cf11.33166255</identifier>
@@ -109,18 +109,17 @@
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

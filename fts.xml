@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>FTS - Faroese text collection</resourceName>
+    <resourceName lang="eng">FTS - Faroese text collection</resourceName>
     <resourceName lang="swe">FTS - Färöisk textsamling</resourceName>
-    <description>Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/</description>
+    <description lang="eng">Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/</description>
     <description lang="swe">Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/</description>
-    <resourceShortName>fts</resourceShortName>
+    <resourceShortName lang="eng">fts</resourceShortName>
     <resourceShortName lang="swe">fts</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc63507d6f0b6.01554729</identifier>
@@ -13,18 +13,6 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
-    </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
@@ -106,18 +94,17 @@
           </languageInfo>
           
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         <sizeInfo><size>1141029</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>

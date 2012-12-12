@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>August Strindberg's novels</resourceName>
+    <resourceName lang="eng">August Strindberg's novels</resourceName>
     <resourceName lang="swe">August Strindbergs romaner</resourceName>
-    <description>Part of the collected works of August Strindberg</description>
+    <description lang="eng">Part of the collected works of August Strindberg</description>
     <description lang="swe">Del av August Strindbergs samlade verk</description>
-    <resourceShortName>strindbergromaner</resourceShortName>
+    <resourceShortName lang="eng">strindbergromaner</resourceShortName>
     <resourceShortName lang="swe">strindbergromaner</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350a7cb369.72971856</identifier>
@@ -126,18 +126,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Talbanken</resourceName>
+    <resourceName lang="eng">Talbanken</resourceName>
     <resourceName lang="swe">Talbanken</resourceName>
-    <description>Talbanken is a Swedish treebank.</description>
+    <description lang="eng">Talbanken is a Swedish treebank.</description>
     <description lang="swe">Talbanken är en svensk trädbank.</description>
-    <resourceShortName>talbanken</resourceShortName>
+    <resourceShortName lang="eng">talbanken</resourceShortName>
     <resourceShortName lang="swe">talbanken</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350add8b09.70702663</identifier>
@@ -35,7 +35,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Lunds universitet</organizationName>
-        <organizationName lang="eng">Lund University</organizationName>	
+        <organizationName lang="eng">Lund University</organizationName>
         <departmentName lang="swe">Språk- och litteraturcentrum</departmentName>
         <departmentName lang="eng">Centre for Languages and Literature</departmentName>
         <communicationInfo>
@@ -108,22 +108,27 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          
+          <sizeInfo>
+            <size>96346</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>syntacticAnnotation-treebanks</annotationType>
+          </annotationInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
-        <sizeInfo><size>96346</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

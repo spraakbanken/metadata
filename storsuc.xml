@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>SUC Novels (StorSUC)</resourceName>
+    <resourceName lang="eng">SUC Novels (StorSUC)</resourceName>
     <resourceName lang="swe">SUC Romaner (StorSUC)</resourceName>
-    <description>Stockholm-Umeå corpus</description>
+    <description lang="eng">Stockholm-Umeå corpus</description>
     <description lang="swe">Stockholm-Umeå-korpus</description>
-    <resourceShortName>storsuc</resourceShortName>
+    <resourceShortName lang="eng">storsuc</resourceShortName>
     <resourceShortName lang="swe">storsuc</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350a6c3ff8.01374205</identifier>
@@ -47,7 +47,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Stockholms universitet</organizationName>
-        <organizationName lang="eng">Stockholm University</organizationName>	
+        <organizationName lang="eng">Stockholm University</organizationName>
         <departmentName lang="swe">Institutionen för lingvistik</departmentName>
         <departmentName lang="eng">Department of Linguistics</departmentName>
         <communicationInfo>
@@ -130,18 +130,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Syntag treebank</resourceName>
+    <resourceName lang="eng">Syntag treebank</resourceName>
     <resourceName lang="swe">Syntag trädbank</resourceName>
-    <description>A Swedish treebank with syntactic analysis of 158 articles from Press-65.</description>
+    <description lang="eng">A Swedish treebank with syntactic analysis of 158 articles from Press-65.</description>
     <description lang="swe">En svensk trädbank med syntaktisk analys av 158 artiklar ur Press-65.</description>
-    <resourceShortName>syntag</resourceShortName>
+    <resourceShortName lang="eng">syntag</resourceShortName>
     <resourceShortName lang="swe">syntag</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350ad17130.60843278</identifier>
     <identifier>syntag</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -28,7 +28,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -110,19 +110,21 @@
             <size>101329</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
+          <annotationInfo>
+            <annotationType>syntacticAnnotation-treebanks</annotationType>
+          </annotationInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

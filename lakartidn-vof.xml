@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Corpus for health care technical language</resourceName>
+    <resourceName lang="eng">Corpus for health care technical language</resourceName>
     <resourceName lang="swe">Korpus för vårdens och omsorgens fackspråk</resourceName>
-    <description>Läkartidningen (1996-2009), medical news text processed and searchable</description>
+    <description lang="eng">Läkartidningen (1996-2009), medical news text processed and searchable</description>
     <description lang="swe">Läkartidningens arkiv (1996-2009) förädlat och sökbart</description>
-    <resourceShortName>lakartidn-vof</resourceShortName>
+    <resourceShortName lang="eng">lakartidn-vof</resourceShortName>
     <resourceShortName lang="swe">lakartidn-vof</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635090a09e2.95301457</identifier>
@@ -34,7 +34,7 @@
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -117,18 +117,17 @@
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

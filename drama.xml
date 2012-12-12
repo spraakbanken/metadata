@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Dramawebben (demo)</resourceName>
+    <resourceName lang="eng">Dramawebben (demo)</resourceName>
     <resourceName lang="swe">Dramawebben (demo)</resourceName>
-    <description>Texts from Dramawebben, a digital archive of free Swedish drama.</description>
+    <description lang="eng">Texts from Dramawebben, a digital archive of free Swedish drama.</description>
     <description lang="swe">Texter från Dramawebben, ett digitalt arkiv över fri svensk dramatik.</description>
-    <resourceShortName>drama</resourceShortName>
+    <resourceShortName lang="eng">drama</resourceShortName>
     <resourceShortName lang="swe">drama</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635076119e3.58945065</identifier>
@@ -126,18 +126,17 @@
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>

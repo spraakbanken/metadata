@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)</resourceName>
+    <resourceName lang="eng">Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)</resourceName>
     <resourceName lang="spa">Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)</resourceName>
-    <description>Part of SOL - Spanish Online</description>
+    <description lang="eng">Part of SOL - Spanish Online</description>
     <description lang="swe">Del av SOL - Spanska Online</description>
-    <resourceShortName>one71</resourceShortName>
+    <resourceShortName lang="eng">one71</resourceShortName>
     <resourceShortName lang="swe">one71</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635099be2b1.53488007</identifier>
@@ -17,18 +17,18 @@
       <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.ONE71.html</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY-SA</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.ONE71.html</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>	
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Institutionen för språk och litteraturer</departmentName>
         <departmentName lang="eng">Department of Languages and Literatures</departmentName>
         <communicationInfo>
@@ -106,18 +106,17 @@
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <!--
-	  <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <annotationType>lemmatization</annotationType>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-	    
-	    <annotationType>structuralAnnotation</annotationType>
-	    <annotationStandoff>true</annotationStandoff>
-	    <segmentationLevel>sentence</segmentationLevel>
-	    <segmentationLevel>word</segmentationLevel>
-	    <annotationFormat>text/xml</annotationFormat>
-	    <annotationMode>automatic</annotationMode>
-	  </annotationInfo>
+            <annotationType>structuralAnnotation</annotationType>
+            <annotationStandoff>true</annotationStandoff>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
           -->
         </corpusTextInfo>
       </corpusMediaType>
