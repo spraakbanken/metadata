@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>SALDO's morphology</resourceName>
+    <resourceName lang="eng">SALDO's morphology</resourceName>
     <resourceName lang="swe">SALDOs morfologi</resourceName>
-    <description>Semantic and morphological lexicon for language technology</description>
+    <description lang="eng">Semantic and morphological lexicon for language technology</description>
     <description lang="swe">Semantiskt och morfologiskt lexikon för språkteknologi</description>
-    <resourceShortName>saldom</resourceShortName>
+    <resourceShortName lang="eng">saldom</resourceShortName>
     <resourceShortName lang="swe">saldom</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/200691c6-847e-4c86-9550-0fac16e28225</identifier>
     <identifier>saldom</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -95,14 +95,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -133,25 +126,16 @@
             <sizePerTextFormat>
               <size>115652</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>115652</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -159,7 +143,7 @@
             <sizePerTimeCoverage>
               <size>115652</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -167,7 +151,7 @@
             <sizePerGeographicCoverage>
               <size>115652</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

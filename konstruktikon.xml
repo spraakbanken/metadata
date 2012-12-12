@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Konstruktikon</resourceName>
     <resourceName lang="swe">Konstruktikon</resourceName>
     <resourceName lang="eng">Constructicon</resourceName>
-    <description>A Swedish Constructicon</description>
+    <description lang="eng">A Swedish Constructicon</description>
     <description lang="swe">Ett svenskt konstruktikon</description>
-    <resourceShortName>konstruktikon</resourceShortName>
+    <resourceShortName lang="eng">konstruktikon</resourceShortName>
     <resourceShortName lang="swe">konstruktikon</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/3334c3d0-fce2-11e1-a21f-0800200c9a66</identifier>
     <identifier>konstruktikon</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -96,14 +95,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -134,25 +126,16 @@
             <sizePerTextFormat>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -160,7 +143,7 @@
             <sizePerTimeCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -168,7 +151,7 @@
             <sizePerGeographicCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

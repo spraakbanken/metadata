@@ -3,15 +3,16 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <!-- Swedish Associative Thesaurus -->
-    <resourceName>Saldo</resourceName>
-    <description>SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language.</description>
+    <resourceName lang="eng">Saldo</resourceName>
+    <resourceName lang="swe">Saldo</resourceName>
+    <description lang="eng">SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language.</description>
     <description lang="swe">SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt lexikon för moderns svenskt skriftspråk för språkteknologi.</description>
     <metaShareId/>
     <identifier>saldo</identifier>
     <identifier>hdl:10794/323875a5-d713-4506-a708-bc3ce4bfc016</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -56,7 +57,7 @@
     <affiliation>
       <organizationName>Språkbanken</organizationName>
       <communicationInfo>
-	<email>sb-info@svenska.gu.se</email>
+        <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
     </affiliation>
   </contactPerson>
@@ -67,13 +68,13 @@
       <surname>Uppström</surname>
       <givenName>Jonatan</givenName>
       <communicationInfo>
-	<email>sb-info@svenska.gu.se</email>
+        <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
       <affiliation>
-	<organizationName>Språkbanken</organizationName>
-	<communicationInfo>
-	  <email>sb-info@svenska.gu.se</email>
-	</communicationInfo>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
       </affiliation>
     </metadataCreator>
     <source>META-NORD</source>
@@ -150,7 +151,7 @@
 	    <sizePerTextFormat>
 	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
-	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+	      
 	    </sizePerTextFormat>
 	  </textFormatInfo>
 	  <characterEncodingInfo>
@@ -158,7 +159,7 @@
 	    <sizePerCharacterEncoding>
 	      <size>23300000</size>
 	      <sizeUnit>bytes</sizeUnit>
-	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+	      
 	    </sizePerCharacterEncoding>
 	  </characterEncodingInfo>
 	  <domainInfo>
@@ -166,7 +167,7 @@
 	    <sizePerDomain>
 	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
-	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+	      
 	    </sizePerDomain>
 	  </domainInfo>
 	  <timeCoverageInfo>
@@ -174,7 +175,7 @@
 	    <sizePerTimeCoverage>
 	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
-	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+	      
 	    </sizePerTimeCoverage>
 	  </timeCoverageInfo>
 	  <geographicCoverageInfo>
@@ -182,7 +183,7 @@
 	    <sizePerGeographicCoverage>
 	      <size>118522</size>
 	      <sizeUnit>entries</sizeUnit>
-	      <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+	      
 	    </sizePerGeographicCoverage>
 	  </geographicCoverageInfo>
 	</lexicalConceptualResourceTextInfo>

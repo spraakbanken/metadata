@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Parole+</resourceName>
+    <resourceName lang="eng">Parole+</resourceName>
     <resourceName lang="swe">Parole+</resourceName>
-    <description>The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, connected to SALDO senses</description>
+    <description lang="eng">The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, connected to SALDO senses</description>
     <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO</description>
-    <resourceShortName>parolelexplus</resourceShortName>
+    <resourceShortName lang="eng">parolelexplus</resourceShortName>
     <resourceShortName lang="swe">parolelexplus</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635e393eb07.19662878</identifier>
     <identifier>parolelexplus</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -95,14 +95,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -133,25 +126,16 @@
             <sizePerTextFormat>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -159,7 +143,7 @@
             <sizePerTimeCoverage>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -167,7 +151,7 @@
             <sizePerGeographicCoverage>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

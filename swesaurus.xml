@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Swesaurus</resourceName>
+    <resourceName lang="eng">Swesaurus</resourceName>
     <resourceName lang="swe">Swesaurus</resourceName>
-    <description>A Swedish WordNet</description>
+    <description lang="eng">A Swedish WordNet</description>
     <description lang="swe">Ett svenskt ordnät</description>
-    <resourceShortName>swesaurus</resourceShortName>
+    <resourceShortName lang="eng">swesaurus</resourceShortName>
     <resourceShortName lang="swe">swesaurus</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/33672db0-3f57-457d-b7d2-202c23faeb88</identifier>
     <identifier>swesaurus</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -95,14 +95,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -126,32 +118,22 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>13724</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>13724</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>13724</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>13724</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -159,7 +141,6 @@
             <sizePerTimeCoverage>
               <size>13724</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -167,7 +148,6 @@
             <sizePerGeographicCoverage>
               <size>13724</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

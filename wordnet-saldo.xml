@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>WordNet-SALDO </resourceName>
+    <resourceName lang="eng">WordNet-SALDO </resourceName>
     <resourceName lang="swe">WordNet-SALDO </resourceName>
-    <description>A linking between SALDO senses and Core WordNet</description>
+    <description lang="eng">A linking between SALDO senses and Core WordNet</description>
     <description lang="swe">En länkning mellan SALDO och Core WordNet</description>
-    <resourceShortName>wordnet-saldo</resourceShortName>
+    <resourceShortName lang="eng">wordnet-saldo</resourceShortName>
     <resourceShortName lang="swe">wordnet-saldo</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635e47910f6.64094218</identifier>
     <identifier>wordnet-saldo</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -95,14 +95,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -126,32 +119,26 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>6103</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo>
+            <size>6103</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -159,7 +146,7 @@
             <sizePerTimeCoverage>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -167,7 +154,7 @@
             <sizePerGeographicCoverage>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

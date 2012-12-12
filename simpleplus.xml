@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Simple+</resourceName>
+    <resourceName lang="eng">Simple+</resourceName>
     <resourceName lang="swe">Simple+</resourceName>
-    <description>The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses</description>
+    <description lang="eng">The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses</description>
     <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO</description>
-    <resourceShortName>simpleplus</resourceShortName>
+    <resourceShortName lang="eng">simpleplus</resourceShortName>
     <resourceShortName lang="swe">simpleplus</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4rc635e3b0adf2.42322260</identifier>
     <identifier>simpleplus</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -113,14 +113,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -151,25 +144,16 @@
             <sizePerTextFormat>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -177,7 +161,7 @@
             <sizePerTimeCoverage>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -185,7 +169,7 @@
             <sizePerGeographicCoverage>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

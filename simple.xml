@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Simple lexicon</resourceName>
+    <resourceName lang="eng">Simple lexicon</resourceName>
     <resourceName lang="swe">Simple lexikon</resourceName>
-    <description>The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish</description>
+    <description lang="eng">The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish</description>
     <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information</description>
-    <resourceShortName>simple</resourceShortName>
+    <resourceShortName lang="eng">simple</resourceShortName>
     <resourceShortName lang="swe">simple</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635e3f0adf2.65322268</identifier>
     <identifier>simple</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -101,14 +101,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -132,41 +125,27 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                    <sizeInfo>
-                        <size>4242424242</size>
-                        <sizeUnit>bytes</sizeUnit>
-                    </sizeInfo>
-                    -->
+          
           <sizeInfo>
             <size>11624</size>
             <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
+            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>11624</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>11624</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -174,7 +153,7 @@
             <sizePerTimeCoverage>
               <size>11624</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -182,7 +161,7 @@
             <sizePerGeographicCoverage>
               <size>11624</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

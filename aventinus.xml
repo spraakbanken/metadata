@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Aventinus</resourceName>
+    <resourceName lang="eng">Aventinus</resourceName>
     <resourceName lang="swe">Aventinus</resourceName>
-    <description>Drug related terminology</description>
+    <description lang="eng">Drug related terminology</description>
     <description lang="swe">Narkotikarelaterad terminologi</description>
-    <resourceShortName>aventinus</resourceShortName>
+    <resourceShortName lang="eng">aventinus</resourceShortName>
     <resourceShortName lang="swe">aventinus</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635e2e60d65.40271188</identifier>
     <identifier>aventinus</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -89,14 +89,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -120,41 +113,27 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                    <sizeInfo>
-                        <size>4242424242</size>
-                        <sizeUnit>bytes</sizeUnit>
-                    </sizeInfo>
-                    -->
+          
           <sizeInfo>
             <size>0</size>
             <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
+            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -162,7 +141,7 @@
             <sizePerTimeCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -170,7 +149,7 @@
             <sizePerGeographicCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

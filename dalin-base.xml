@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Dalin Dictionary - Base Material</resourceName>
+    <resourceName lang="eng">Dalin Dictionary - Base Material</resourceName>
     <resourceName lang="swe">Dalin Ordbok Öfver Svenska Språket - basmaterial</resourceName>
-    <description>Dalin's Dictionary of 19th century Swedish - base material</description>
+    <description lang="eng">Dalin's Dictionary of 19th century Swedish - base material</description>
     <description lang="swe">Dalins ordbok - Ordbok över 1800-talsspråket</description>
-    <resourceShortName>dalin-base</resourceShortName>
-    <resourceShortName lang="swe">dalind</resourceShortName>
+    <resourceShortName lang="eng">dalin-base</resourceShortName>
+    <resourceShortName lang="swe">dalin-base</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/a1eq4121-265b-40a6-wbg5-e4938f823cd8</identifier>
     <identifier>dalin-base</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -101,14 +101,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -138,25 +131,13 @@
             <sizePerTextFormat>
               <size>62973</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>62973</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -164,7 +145,7 @@
             <sizePerTimeCoverage>
               <size>62973</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -172,7 +153,7 @@
             <sizePerGeographicCoverage>
               <size>62973</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

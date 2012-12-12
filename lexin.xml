@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Swedish words, LEXIN</resourceName>
+    <resourceName lang="eng">Swedish words, LEXIN</resourceName>
     <resourceName lang="swe">Svenska ord, LEXIN</resourceName>
-    <description>Lexicon for immigrants. Second edition</description>
+    <description lang="eng">Lexicon for immigrants. Second edition</description>
     <description lang="swe">Lexikon för invandrare. Andra upplagan</description>
-    <resourceShortName>lexin</resourceShortName>
+    <resourceShortName lang="eng">lexin</resourceShortName>
     <resourceShortName lang="swe">lexin</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc635e3614b47.55074878</identifier>
     <identifier>lexin</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -22,7 +22,7 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lexin/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
@@ -95,14 +95,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -126,57 +119,43 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                    <sizeInfo>
-                        <size>4242424242</size>
-                        <sizeUnit>bytes</sizeUnit>
-                    </sizeInfo>
-                    -->
+          
           <sizeInfo>
-            <size>0</size>
+            <size>19718</size>
             <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
+            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>0</size>
+              <size>19718</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                    <characterEncodingInfo>
-                        <characterEncoding>UTF-8</characterEncoding>
-                        <sizePerCharacterEncoding>
-                        <size>23300000</size>
-                        <sizeUnit>bytes</sizeUnit>
-                        
-                        </sizePerCharacterEncoding>
-                    </characterEncodingInfo>
-                    -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>0</size>
+              <size>19718</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
             <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>0</size>
+              <size>19718</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>0</size>
+              <size>19718</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
