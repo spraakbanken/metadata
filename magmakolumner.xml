@@ -97,7 +97,7 @@
             <languageId>sv-FI</languageId>
             <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo> 
+          </languageInfo>
           <sizeInfo>
             <size>57041</size>
             <sizeUnit>tokens</sizeUnit>
@@ -106,19 +106,23 @@
             <size>2718</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
-          <!--
           <annotationInfo>
             <annotationType>segmentation</annotationType>
-            <annotationType>lemmatization</annotationType>
-            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-            <annotationType>structuralAnnotation</annotationType>
-            <annotationStandoff>true</annotationStandoff>
             <segmentationLevel>sentence</segmentationLevel>
             <segmentationLevel>word</segmentationLevel>
             <annotationFormat>text/xml</annotationFormat>
             <annotationMode>automatic</annotationMode>
           </annotationInfo>
-          -->
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>

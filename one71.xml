@@ -105,19 +105,6 @@
             <size>1005012</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
-          <!--
-          <annotationInfo>
-            <annotationType>segmentation</annotationType>
-            <annotationType>lemmatization</annotationType>
-            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-            <annotationType>structuralAnnotation</annotationType>
-            <annotationStandoff>true</annotationStandoff>
-            <segmentationLevel>sentence</segmentationLevel>
-            <segmentationLevel>word</segmentationLevel>
-            <annotationFormat>text/xml</annotationFormat>
-            <annotationMode>automatic</annotationMode>
-          </annotationInfo>
-          -->
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>

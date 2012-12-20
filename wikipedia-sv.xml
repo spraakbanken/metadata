@@ -110,8 +110,26 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-        <sizeInfo><size>86327650</size><sizeUnit>tokens</sizeUnit></sizeInfo>
-        <sizeInfo><size>5630312</size><sizeUnit>sentences</sizeUnit></sizeInfo></corpusTextInfo>
+          <sizeInfo><size>86327650</size><sizeUnit>tokens</sizeUnit></sizeInfo>
+          <sizeInfo><size>5630312</size><sizeUnit>sentences</sizeUnit></sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

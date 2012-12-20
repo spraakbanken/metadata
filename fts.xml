@@ -92,20 +92,6 @@
             <languageName>Faroese</languageName>
             <languageScript>Latn</languageScript>
           </languageInfo>
-          
-          <!--
-          <annotationInfo>
-            <annotationType>segmentation</annotationType>
-            <annotationType>lemmatization</annotationType>
-            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
-            <annotationType>structuralAnnotation</annotationType>
-            <annotationStandoff>true</annotationStandoff>
-            <segmentationLevel>sentence</segmentationLevel>
-            <segmentationLevel>word</segmentationLevel>
-            <annotationFormat>text/xml</annotationFormat>
-            <annotationMode>automatic</annotationMode>
-          </annotationInfo>
-          -->
         <sizeInfo><size>1141029</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
