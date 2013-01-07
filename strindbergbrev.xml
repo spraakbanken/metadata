@@ -14,8 +14,8 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/strindbergbrev/strindbergbrev.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
@@ -27,20 +27,20 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=strindbergbrev</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/strindberg</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_STRINDBERGBREV.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/Strindberg/</downloadLocation>
     </licenceInfo>

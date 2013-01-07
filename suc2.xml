@@ -27,26 +27,26 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=suc2</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/swe/resurser/suc</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/resurser/suc</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/parole/</downloadLocation>
     </licenceInfo>

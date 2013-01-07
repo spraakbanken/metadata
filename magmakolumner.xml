@@ -20,8 +20,8 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=magmakolumner</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_MAGMAKOLUMNER.txt</downloadLocation>
     </licenceInfo>
