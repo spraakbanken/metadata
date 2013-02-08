@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Academic texts – Social science</resourceName>
-    <resourceName lang="swe">Akademiska texter – Samhällsvetenskap</resourceName>
-    <description lang="eng">A corpus with academic texts.</description>
-    <description lang="swe">En korpus med akademiska texter.</description>
-    <resourceShortName lang="eng">sweacsam</resourceShortName>
-    <resourceShortName lang="swe">sweacsam</resourceShortName>
+    <resourceName lang="eng">Twitter mix</resourceName>
+    <resourceName lang="swe">Twittermix</resourceName>
+    <description lang="eng">Material from a selection of Swedish Twitter users. Is regularly updated.</description>
+    <description lang="swe">Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.</description>
+    <resourceShortName lang="eng">twitter</resourceShortName>
+    <resourceShortName lang="swe">twitter</resourceShortName>
     <metaShareId/>
-    <identifier>sweacsam</identifier>
+    <identifier>twitter</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,20 +16,20 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/sweacsam/sweacsam.xml.bz2</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/twitter/twitter.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=sweacsam</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=twitter</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SWEACSAM.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -85,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sweacsam</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/twitter</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -113,11 +113,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>10873267</size>
+            <size>148315900</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>523102</size>
+            <size>16922767</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
