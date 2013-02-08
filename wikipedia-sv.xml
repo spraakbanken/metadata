@@ -3,8 +3,8 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish Wikipedia Corpus</resourceName>
-    <resourceName lang="swe">Svenska wikipedia-korpusen</resourceName>
-    <description lang="eng">Corpus of Swedish Wikipedia, November 2011</description>
+    <resourceName lang="swe">Svenska Wikipedia-korpusen</resourceName>
+    <description lang="eng">Corpus of Swedish Wikipedia</description>
     <resourceShortName lang="eng">wikipedia-sv</resourceShortName>
     <resourceShortName lang="swe">wikipedia-svenska</resourceShortName>
     <metaShareId/>
@@ -110,8 +110,8 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          <sizeInfo><size>86327650</size><sizeUnit>tokens</sizeUnit></sizeInfo>
-          <sizeInfo><size>5630312</size><sizeUnit>sentences</sizeUnit></sizeInfo>
+          <sizeInfo><size>90120941</size><sizeUnit>tokens</sizeUnit></sizeInfo>
+          <sizeInfo><size>5978611</size><sizeUnit>sentences</sizeUnit></sizeInfo>
           <annotationInfo>
             <annotationType>segmentation</annotationType>
             <segmentationLevel>sentence</segmentationLevel>
