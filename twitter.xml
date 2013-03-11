@@ -12,13 +12,13 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
-    <licenceInfo>
+    <!--<licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/twitter/twitter.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
-    </licenceInfo>
+    </licenceInfo>-->
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
