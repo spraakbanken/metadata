@@ -5,11 +5,11 @@
     <resourceName lang="swe">Swedbergs Swensk ordabok (morfologi, f.n. rudimentär)</resourceName>
     <description lang="eng">Swedberg's Swensk Ordabok (morphology, rudimentary)</description>
     <description lang="swe">Swedbergs Swensk Ordabok (morfologi, f.n. rudimentär)</description>
-    <resourceShortName lang="eng">swedberg</resourceShortName>
-    <resourceShortName lang="swe">swedberg</resourceShortName>
+    <resourceShortName lang="eng">swedbergm</resourceShortName>
+    <resourceShortName lang="swe">swedbergm</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/a1ea4021-ea5b-40b2-abc5-e4938f823cd3</identifier>
-    <identifier>swedberg</identifier>
+    <identifier>swedbergm</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
