@@ -19,6 +19,12 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/FTS/search.phtml</executionLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=faroe#corpus=fts</executionLocation>
+    </licenceInfo>
     <iprHolder>
       <personInfo>
         <surname>Hansen</surname>
