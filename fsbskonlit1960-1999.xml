@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Fiction 1970-2011</resourceName>
-    <resourceName lang="swe">Skönlitteratur 1970-2011</resourceName>
+    <resourceName lang="eng">Fiction 1960-1999</resourceName>
+    <resourceName lang="swe">Skönlitteratur 1960-1999</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">fsbskonlit</resourceShortName>
-    <resourceShortName lang="swe">fsbskonlit</resourceShortName>
+    <resourceShortName lang="eng">fsbskonlit1960-1999</resourceShortName>
+    <resourceShortName lang="swe">fsbskonlit1960-1999</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc63507c7f219.26639861</identifier>
-    <identifier>fsbskonlit</identifier>
+    <identifier>fsbskonlit1960-1999</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -17,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbskonlit</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbskonlit1960-1999</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -29,7 +28,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1960-1999.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -78,7 +77,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbskonlit</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbskonlit1960-1999</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -105,11 +104,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo> 
           <sizeInfo>
-            <size>2955435</size>
+            <size>1711719</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>206518</size>
+            <size>121407</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

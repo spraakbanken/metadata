@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Hufvudstadsbladet (2012–)2013</resourceName>
-    <resourceName lang="swe">Hufvudstadsbladet (2012–)2013</resourceName>
-    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <resourceName lang="swe">Skönlitteratur 2000-tal</resourceName>
+    <resourceName lang="eng">Fiction 2000s</resourceName>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">hbl20122013</resourceShortName>
-    <resourceShortName lang="swe">hbl20122013</resourceShortName>
+    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <resourceShortName lang="swe">fsbskonlit2000tal</resourceShortName>
+    <resourceShortName lang="eng">fsbskonlit2000tal</resourceShortName>
     <metaShareId/>
-    <identifier>hbl20122013</identifier>
+    <identifier>fsbskonlit2000tal</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=hbl20122013</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbskonlit2000tal</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -28,7 +28,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_HBL20122013.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT2000TAL.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -54,7 +54,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-03-11</metadataCreationDate>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -77,7 +77,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/hbl20122013</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbskonlit2000tal</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -99,17 +99,16 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageId>sv-FI</languageId>
+            <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo>
+          </languageInfo> 
           <sizeInfo>
-            <size>3334482</size>
+            <size>1720508</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>257183</size>
+            <size>113049</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
