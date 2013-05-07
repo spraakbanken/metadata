@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Forum för ekonomi och teknik 2007–2012</resourceName>
-    <resourceName lang="swe">Forum för ekonomi och teknik 2007–2012</resourceName>
+    <resourceName lang="eng">Vasabladet 2013</resourceName>
+    <resourceName lang="swe">Vasabladet 2013</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">forumfeot</resourceShortName>
-    <resourceShortName lang="swe">forumfeot</resourceShortName>
+    <resourceShortName lang="eng">vasabladet2013</resourceShortName>
+    <resourceShortName lang="swe">vasabladet2013</resourceShortName>
     <metaShareId/>
-    <identifier>forumfeot</identifier>
+    <identifier>vasabladet2013</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=forumfeot</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=vasabladet2013</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -28,7 +28,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FORUMFEOT.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VASABLADET2013.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -54,7 +54,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-03-11</metadataCreationDate>
+    <metadataCreationDate>2013-05-07</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -77,7 +77,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/forumfeot</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/vasabladet2013</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -99,18 +99,13 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageId>sv-FI</languageId>
+            <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>689543</size>
+            <size>578947</size>
             <sizeUnit>tokens</sizeUnit>
-          </sizeInfo>
-          <sizeInfo>
-            <size>41362</size>
-            <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
             <annotationType>segmentation</annotationType>
