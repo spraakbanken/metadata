@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Skönlitteratur 2000-tal</resourceName>
-    <resourceName lang="eng">Fiction 2000s</resourceName>
+    <resourceName lang="swe">Skönlitteratur 2000–2013</resourceName>
+    <resourceName lang="eng">Fiction 2000–2013</resourceName>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <resourceShortName lang="swe">fsbskonlit2000tal</resourceShortName>
