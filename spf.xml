@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Finlandssvensk skönlitteratur 1800-tal</resourceName>
-    <resourceName lang="swe">Finlandssvensk skönlitteratur 1800-tal</resourceName>
-    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">fsbskonlit1800tal</resourceShortName>
-    <resourceShortName lang="swe">fsbskonlit1800tal</resourceShortName>
+    <resourceName lang="swe">Svensk prosafiktion 1800–1900</resourceName>
+    <resourceName lang="eng">Swedish Prose Fiction 1800–1900</resourceName>
+    <description lang="swe"/>
+    <description lang="eng"/>
+    <resourceShortName lang="swe">spf</resourceShortName>
+    <resourceShortName lang="eng">spf</resourceShortName>
     <metaShareId/>
-    <identifier>fsbskonlit1800tal</identifier>
+    <identifier>spf</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbskonlit1800tal</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=spf</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://www.sls.fi/doc.php?docid=799</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1800TAL.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SPF.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>
-        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>
+        <organizationName lang="swe">Litteraturbanken</organizationName>
+        <organizationName lang="eng">The Swedish Literature Bank</organizationName>
         <communicationInfo>
-          <email>info@sls.fi</email>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>
@@ -54,7 +53,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-03-11</metadataCreationDate>
+    <metadataCreationDate>2013-08-19</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -77,7 +76,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbskonlit1800tal</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/spf</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -105,11 +104,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>347062</size>
+            <size>16253908</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15296</size>
+            <size>847213</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
