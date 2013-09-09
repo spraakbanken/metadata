@@ -1,49 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- $Id$ -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish Wikipedia Corpus</resourceName>
-    <resourceName lang="swe">Svenska Wikipedia-korpusen</resourceName>
-    <description lang="eng">Corpus of Swedish Wikipedia</description>
-    <resourceShortName lang="eng">wikipedia-sv</resourceShortName>
-    <resourceShortName lang="swe">wikipedia-sv</resourceShortName>
+    <resourceName lang="swe">Brev 1700-tal</resourceName>
+    <resourceName lang="eng">Letters 1700-tal</resourceName>
+    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <resourceShortName lang="eng">fsbbrev1700tal</resourceShortName>
+    <resourceShortName lang="swe">fsbbrev1700tal</resourceShortName>
     <metaShareId/>
-    <identifier>059e98f1-5b53-4e82-bb28-ffaac26e5ed9</identifier>
-    <identifier>wikipedia-sv</identifier>
+    <identifier>fsbbrev1700tal</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-unrestrictedUse</availability>
+    <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=wikipedia-sv</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/wikipedia-sv/wikipedia-sv.xml.bz2</downloadLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbbrev1700tal</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SV.txt</downloadLocation>
+      <downloadLocation>http://www.sls.fi/doc.php?docid=799</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBBREV1700TAL.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>
-        <departmentName lang="swe">Språkbanken</departmentName>
-        <departmentName lang="eng">Språkbanken</departmentName>
+        <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>
+        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-          <url>http://spraakbanken.gu.se</url>
-          <address>Lennart Torstenssonsgatan 8</address>
-          <zipCode>412 56</zipCode>
-          <city>Gothenburg</city>
-          <country>Sweden</country>
+          <email>info@sls.fi</email>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>
@@ -62,7 +54,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2011-11-14</metadataCreationDate>
+    <metadataCreationDate>2013-09-09</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -78,12 +70,6 @@
     </metadataCreator>
     <source>META-NORD</source>
   </metadataInfo>
-  <versionInfo>
-    <version>2012-11-02</version>
-    <revision/>
-    <lastDateUpdated>2012-11-02</lastDateUpdated>
-    <updateFrequency>Updated monthly from wikipedia source, but published quarterly at Språkbanken</updateFrequency>
-  </versionInfo>
   <validationInfo>
     <validated>true</validated>
     <validationType>formal</validationType>
@@ -91,10 +77,18 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/swe/forskning/infrastruktur/korp/citatkorpusar</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbbrev1700tal</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -110,8 +104,14 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          <sizeInfo><size>122354783</size><sizeUnit>tokens</sizeUnit></sizeInfo>
-          <sizeInfo><size>9888337</size><sizeUnit>sentences</sizeUnit></sizeInfo>
+          <sizeInfo>
+            <size>3472</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>157</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
           <annotationInfo>
             <annotationType>segmentation</annotationType>
             <segmentationLevel>sentence</segmentationLevel>
