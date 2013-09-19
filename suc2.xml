@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SUC</resourceName>
-    <resourceName lang="swe">SUC</resourceName>
-    <description lang="eng">Stockholm-Umeå corpus</description>
-    <description lang="swe">Stockholm-Umeå-korpus</description>
-    <resourceShortName lang="eng">suc2</resourceShortName>
+    <resourceName lang="swe">SUC 2.0</resourceName>
+    <resourceName lang="eng">SUC 2.0</resourceName>
+    <description lang="swe">Stockholm-Umeå-korpus 2.0</description>
+    <description lang="eng">Stockholm-Umeå corpus 2.0</description>
     <resourceShortName lang="swe">suc2</resourceShortName>
+    <resourceShortName lang="eng">suc2</resourceShortName>
     <metaShareId/>
     <identifier>hdl:10794/4fc6350a8dbd40.07869138</identifier>
     <identifier>suc2</identifier>
