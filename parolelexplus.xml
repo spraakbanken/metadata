@@ -92,12 +92,13 @@
   </validationInfo>
   <resourceDocumentationInfo>
     <documentation>
-    <documentInfo>
-        <documentType>other</documentType>
-        <keywords>description</keywords>
-        <title lang="eng">Description</title>
-        <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
-    </documentInfo>
+        <documentInfo>
+            <documentType>other</documentType>
+            <keywords>description</keywords>
+            <title lang="eng">Description</title>
+            <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
+            <documentLanguageId>swe</documentLanguageId>
+        </documentInfo>
     </documentation>  
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/parolelexplus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
