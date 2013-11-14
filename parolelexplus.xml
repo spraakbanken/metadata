@@ -94,7 +94,7 @@
     <documentation>
         <documentInfo>
             <documentType>other</documentType>
-            <keywords>description</keywords>
+            <!-- keywords>description</keywords -->
             <title lang="eng">Description</title>
             <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
             <documentLanguageId>swe</documentLanguageId>
