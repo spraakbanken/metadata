@@ -110,7 +110,7 @@
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
           <lingualityInfo>
-            <lingualityType>monolingual</lingualityType>
+            <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
             <!-- languageCoding>ISO-639-3</languageCoding -->
@@ -120,6 +120,10 @@
             	<languageVarietyType>other</languageVarietyType>
             	<languageVarietyName>18th century Swedish</languageVarietyName>
             </languageVarietyInfo>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>lat</languageId>
+          	<languageName>Latin</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
