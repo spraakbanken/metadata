@@ -91,6 +91,22 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>techReport</documentType>
+  			<title>Ett svenskt konstruktikon Utgångspunkter och preliminära ramar</title>
+  			<author>Benjamin Lyngfelt</author>
+  			<author>Markus Forsberg</author>
+  			<year>2012</year>
+  			<publisher>Göteborgs universitet</publisher>
+  			<series>Forskningsrapporter från institutionen för svenska språket</series>
+  			<url>www.svenska.gu.se/publikationer/GU-ISS</url>
+  			<ISSN>1401-5919</ISSN>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/konstruktikon</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
@@ -99,9 +115,15 @@
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
-      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceType>framenet</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
+      	<encodingLevel>syntax</encodingLevel>
+      	<encodingLevel>semantics</encodingLevel>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>usage-Examples</linguisticInformation>
+        <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
+        <linguisticInformation>syntax-SubcatFrame</linguisticInformation>
+        <linguisticInformation>semantics-SemanticRoles</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>
