@@ -121,6 +121,10 @@
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+            <languageVarietyInfo>
+            	<languageVarietyType>other</languageVarietyType>
+            	<languageVarietyName>19th century Swedish</languageVarietyName>
+            </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
