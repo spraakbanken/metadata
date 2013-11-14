@@ -97,10 +97,30 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>techReport</documentType>
+  			<title>Swedish KELLY: Technical report</title>
+  			<author>Elena Volodina</author>
+  			<author>Sofie Johansson Kokkinakis</author>
+  			<year>2012</year>
+  			<publisher>Göteborgs universitet</publisher>
+  			<series>Forskningsrapporter från institutionen för svenska språket</series>
+  			<url>www.svenska.gu.se/publikationer/GU-ISS</url>
+  			<ISSN>1401-5919</ISSN>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/kelly</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
+  
+  <resourceCreationInfo>
+  	<creationEndDate>2012-02-01</creationEndDate>
+  </resourceCreationInfo>
   
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
@@ -108,9 +128,15 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>morpho-Gender</linguisticInformation>
+        <linguisticInformation>usage-Frequency</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo>
+      	<creationMode>mixed</creationMode>
+      	<creationModeDetails>Created from a corpus developed for this project. A mixture of automatic and manual methods was employed to extract the most frequent words from the corpus and to annotate them.</creationModeDetails>
+      </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -121,6 +147,8 @@
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+            <!-- scriptCoding>ISO-15924</scriptCoding -->
+            <languageScript>Latn</languageScript>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
@@ -145,7 +173,7 @@
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
-            <timeCoverage>other</timeCoverage>
+            <timeCoverage>2010s</timeCoverage>
             <sizePerTimeCoverage>
               <size>10510</size>
               <sizeUnit>entries</sizeUnit>
@@ -165,3 +193,4 @@
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
 </resourceInfo>
+
