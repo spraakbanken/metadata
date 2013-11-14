@@ -101,7 +101,11 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo>
+      	<originalSource>
+      		<targetResourceNameURI>Swedberg, Jesper: Swensk ordabok. Prepared in the 18th century but published in 2009 by Skara stiftshistoriska sällskap.</targetResourceNameURI>
+      	</originalSource>
+      </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -112,6 +116,10 @@
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+            <languageVarietyInfo>
+            	<languageVarietyType>other</languageVarietyType>
+            	<languageVarietyName>18th century Swedish</languageVarietyName>
+            </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
