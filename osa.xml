@@ -79,7 +79,13 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo>
+      	<originalSource>
+      		<targetResourceNameURI>Svenska akademien (1893-). Ordbok över svenska språket. Lund: Gleerupska univ.-bokh. [distributör]</targetResourceNameURI>
+      	</originalSource>
+      	<creationMode>mixed</creationMode>
+      	<creationModeDetails>All text has been proofread.</creationModeDetails>
+      </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -118,7 +124,7 @@
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
-            <timeCoverage>other</timeCoverage>
+            <timeCoverage>1521-</timeCoverage>
             <sizePerTimeCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
