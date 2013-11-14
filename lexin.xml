@@ -109,12 +109,64 @@
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
           <lingualityInfo>
-            <lingualityType>monolingual</lingualityType>
+            <lingualityType>multilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>sqi</languageId>
+          	<languageName>Albanian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>bos</languageId>
+          	<languageName>Bosnian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>eng</languageId>
+          	<languageName>English</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>fin</languageId>
+          	<languageName>Finnish</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>ell</languageId>
+          	<languageName>Greek</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>hrv</languageId>
+          	<languageName>Croatian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>kur</languageId>
+          	<languageName>Kurdish</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>pes</languageId>
+          	<languageName>Persian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>rus</languageId>
+          	<languageName>Russian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>srp</languageId>
+          	<languageName>Serbian</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>som</languageId>
+          	<languageName>Somali</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>spa</languageId>
+          	<languageName>Spanish</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>tur</languageId>
+          	<languageName>Turkish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
