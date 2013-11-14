@@ -103,7 +103,13 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo>
+      	<originalSource>
+      		<targetResourceNameURI>Söderwall, K.F. Ordbok Öfver svenska medeltids-språket. Supplement. Vol IV—V. (Lund 1953—1973)</targetResourceNameURI>
+      	</originalSource>
+      	<creationMode>manual</creationMode>
+      	<creationModeDetails>Not proofread.</creationModeDetails>
+      </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -114,6 +120,10 @@
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+            <languageVarietyInfo>
+            	<languageVarietyType>other</languageVarietyType>
+            	<languageVarietyName>Old Swedish</languageVarietyName>
+            </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
