@@ -85,6 +85,54 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inBook</documentType>
+  			<title>A diachronic computational lexical resource for 800 years of Swedish</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<year>2011</year>
+  			<publisher>Springer</publisher>
+  			<bookTitle>Language technology for cultural heritage</bookTitle>
+  			<pages>41-61</pages>
+  			<url>http://gup.ub.gu.se/publication/144291</url>
+  			<ISBN>978-3-642-20226-1</ISBN>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<author>Dimitrios Kokkinakis</author>
+  			<year>2010</year>
+  			<bookTitle>Proceedings of LREC 2010</bookTitle>
+  			<url>http://gup.ub.gu.se/publication/118907</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>article</documentType>
+  			<title>Towards automatic tracking of lexical change: linking historical lexical resources</title>
+  			<author>Peter Andersson</author>
+  			<author>Malin Ahlberg</author>
+  			<year>2013</year>
+  			<journal>NEALT Proceedings Series</journal>
+  			<volume>18</volume>
+  			<url>http://gup.ub.gu.se/publication/181972</url>
+  			<ISSN>1736-6305</ISSN>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/diapivot</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
