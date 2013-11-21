@@ -104,7 +104,11 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo>
+      	<originalSource>
+      		<targetResourceNameURI>The LEXIN series of dictionaries for immigrants to Sweden, http://lexin.nada.kth.se/lexin/</targetResourceNameURI>
+      	</originalSource>
+      </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
