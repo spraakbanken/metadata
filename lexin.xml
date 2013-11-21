@@ -102,6 +102,10 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>syntax-SubcatFrame</linguisticInformation>
+        <linguisticInformation>definition/gloss</linguisticInformation>
+        <linguisticInformation>translationEquivalent</linguisticInformation>
+        <linguisticInformation>phonetics-Transcription</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo>

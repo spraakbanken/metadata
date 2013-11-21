@@ -152,6 +152,8 @@
       <lexicalConceptualResourceType>framenet</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>semantics-Domain</linguisticInformation>
+        <linguisticInformation>semantics-SemanticRoles</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>
