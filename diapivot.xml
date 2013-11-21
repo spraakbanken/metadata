@@ -157,6 +157,14 @@
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+            <languageVarietyInfo>
+            	<languageVarietyType>other</languageVarietyType>
+            	<languageVarietyName>Old Swedish</languageVarietyName>
+            </languageVarietyInfo>
+            <languageVarietyInfo>
+            	<languageVarietyType>other</languageVarietyType>
+            	<languageVarietyName>Modern Swedish</languageVarietyName>
+            </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
