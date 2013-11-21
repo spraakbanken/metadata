@@ -91,6 +91,21 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Something old, something new: A computational morphological description of Old Swedish</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<year>2008</year>
+  			<bookTitle>LREC 2008 Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)</bookTitle>
+  			<pages>9-16</pages>
+  			<url>http://gup.ub.gu.se/publication/72502</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsvm</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
