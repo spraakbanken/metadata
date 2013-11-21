@@ -145,7 +145,7 @@
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
-            <timeCoverage>other</timeCoverage>
+            <timeCoverage>1800s</timeCoverage>
             <sizePerTimeCoverage>
               <size>62973</size>
               <sizeUnit>entries</sizeUnit>
