@@ -91,6 +91,20 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>techReport</documentType>
+  			<title>SALDO 1.0</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<author>Lennart Lönngren</author>
+  			<year>2008</year>
+  			<url>http://gup.ub.gu.se/publication/110525</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>Swedish</documentLanguageName>
+  			<documentLanguageId>swe</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/saldoe</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
