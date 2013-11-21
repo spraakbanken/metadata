@@ -100,6 +100,18 @@
             <documentLanguageId>swe</documentLanguageId>
         </documentInfo>
     </documentation>  
+    <documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+  			<author>Dimitrios Kokkinakis</author>
+  			<author>Maria Toporowska Gronostaj</author>
+  			<author>Karin Warmenius</author>
+  			<year>2007</year>
+  			<publisher>Athens: ELRA</publisher>
+  			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/parolelexplus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
