@@ -79,6 +79,7 @@
   			<year>1996</year>
   			<publisher>Göteborgs universitet</publisher>
   			<series>Forskningsrapporter från institutionen för svenska språket</series>
+  			<url>http://g3.spraakdata.gu.se/saob/osa.pdf</url>
   			<ISSN>1401-5919</ISSN>
   			<!-- languageCoding>ISO-639-3</languageCoding -->
   			<documentLanguageName>Swedish</documentLanguageName>
@@ -93,6 +94,7 @@
   			<year>1996</year>
   			<bookTitle>EURALEX '96 Proceedings</bookTitle>
   			<volume>1</volume>
+  			<url>http://g3.spraakdata.gu.se/saob/euralex.pdf</url>
   			<!-- languageCoding>ISO-639-3</languageCoding -->
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>

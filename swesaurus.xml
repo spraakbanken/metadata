@@ -91,6 +91,20 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>article</documentType>
+  			<title>Beyond the synset: Swesaurus – a fuzzy Swedish wordnet</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<year>2010</year>
+  			<bookTitle>Re-thinking synonymy: semantic sameness and similarity in languages and their description</bookTitle>
+  			<url>http://gup.ub.gu.se/publication/129125</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/swesaurus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
