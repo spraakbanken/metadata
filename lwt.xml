@@ -109,12 +109,16 @@
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
           <lingualityInfo>
-            <lingualityType>monolingual</lingualityType>
+            <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
             <!-- languageCoding>ISO-639-3</languageCoding -->
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
+          </languageInfo>
+          <languageInfo>
+          	<languageId>eng</languageId>
+          	<languageName>English</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
