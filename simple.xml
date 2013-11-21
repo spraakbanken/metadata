@@ -107,6 +107,29 @@
   			<year>2007</year>
   			<publisher>Athens: ELRA</publisher>
   			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>other</documentType>
+  			<title>The Swedish SIMPLE Lexicon</title>
+  			<url>http://spraakdata.gu.se/simple/swedish.simple.lexicon.html</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>other</documentType>
+  			<title>SIMPLE Semantic Information for Multifunctional Plurilingual LExicons An Overview</title>
+  			<url>http://www.ub.edu/gilcub/SIMPLE/reports/simple/Site_simple.htm</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/simple</samplesLocation>
