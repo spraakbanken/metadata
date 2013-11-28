@@ -159,6 +159,9 @@
         <encodingLevel>morphology</encodingLevel>
         <linguisticInformation>semantics-Domain</linguisticInformation>
         <linguisticInformation>semantics-SemanticRoles</linguisticInformation>
+        <linguisticInformation>semantics-Traits</linguisticInformation>
+        <linguisticInformation>semantics-Relations</linguisticInformation>
+        <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

@@ -139,6 +139,17 @@
       <lexicalConceptualResourceType>machineReadableDictionary</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>lemma</linguisticInformation>
+        <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
+        <linguisticInformation>lemma-Variants</linguisticInformation>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>morpho-Case</linguisticInformation>
+        <linguisticInformation>morpho-Gender</linguisticInformation>
+        <linguisticInformation>morpho-Number</linguisticInformation>
+        <linguisticInformation>morpho-Tense</linguisticInformation>
+        <linguisticInformation>morpho-Person</linguisticInformation>
+        <linguisticInformation>morpho-Inflection</linguisticInformation>
+        <linguisticInformation>usage-Examples</linguisticInformation>
         <linguisticInformation>definition/gloss</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>

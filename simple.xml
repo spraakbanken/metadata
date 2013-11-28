@@ -148,6 +148,11 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>lemma</linguisticInformation>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>semantics-SemanticClass</linguisticInformation>
+        <linguisticInformation>semantics-Domain</linguisticInformation>
+        <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <linguisticInformation>semantics-QualiaStructure</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>

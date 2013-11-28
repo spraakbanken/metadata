@@ -121,6 +121,7 @@
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
         <linguisticInformation>semantics-Relations</linguisticInformation>
+        <linguisticInformation>semantics-Relations-Synonyms</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

@@ -146,6 +146,8 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>translationEquivalent</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

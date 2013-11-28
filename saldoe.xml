@@ -121,6 +121,7 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

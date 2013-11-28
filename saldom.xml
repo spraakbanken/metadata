@@ -121,6 +121,19 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>lemma</linguisticInformation>
+        <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
+        <linguisticInformation>lemma-Variants</linguisticInformation>
+        <linguisticInformation>lemma-Abbreviations</linguisticInformation>
+        <linguisticInformation>lemma-Compounds</linguisticInformation>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>morpho-Case</linguisticInformation>
+        <linguisticInformation>morpho-Gender</linguisticInformation>
+        <linguisticInformation>morpho-Number</linguisticInformation>
+        <linguisticInformation>morpho-IrregularForms</linguisticInformation>
+        <linguisticInformation>morpho-Person</linguisticInformation>
+        <linguisticInformation>morpho-Inflection</linguisticInformation>
+        <linguisticInformation>morpho-Reflexivity</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

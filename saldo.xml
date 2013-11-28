@@ -146,6 +146,11 @@
 	<linguisticInformation>semantics-Relations</linguisticInformation>
 	<linguisticInformation>partOfSpeech</linguisticInformation>
 	<linguisticInformation>morpho-Inflection</linguisticInformation>
+	<linguisticInformation>lemma</linguisticInformation>
+	<linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
+	<linguisticInformation>lemma-Variants</linguisticInformation>
+	<linguisticInformation>lemma-Abbreviations</linguisticInformation>
+	<linguisticInformation>lemma-Compounds</linguisticInformation>
 	<conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

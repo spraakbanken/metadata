@@ -129,6 +129,8 @@
         <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
         <linguisticInformation>syntax-SubcatFrame</linguisticInformation>
         <linguisticInformation>semantics-SemanticRoles</linguisticInformation>
+        <linguisticInformation>usage-Collocations</linguisticInformation>
+        <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>

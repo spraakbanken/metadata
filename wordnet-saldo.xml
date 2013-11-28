@@ -171,6 +171,10 @@
       <lexicalConceptualResourceType>wordnet</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>semantics-Relations</linguisticInformation>
+        <linguisticInformation>usage-Examples</linguisticInformation>
+        <linguisticInformation>definition/gloss</linguisticInformation>
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
