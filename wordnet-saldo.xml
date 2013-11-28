@@ -91,6 +91,52 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Nordic and Baltic wordnets aligned and compared through "WordTies"</title>
+  			<author>Bolette Pedersen</author>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<author>Neeme Kahusk</author>
+  			<author>Krister Lindén</author>
+  			<author>Jyrki Niemi</author>
+  			<author>Niklas Nisbeth</author>
+  			<author>Lars Nygaard</author>
+  			<author>Heili Orav</author>
+  			<author>Eiríkur Rögnvaldsson</author>
+  			<author>Mitchel Seaton</author>
+  			<author>Kadri Vider</author>
+  			<author>Kaarlo Voionmaa</author>
+  			<year>2013</year>
+  			<bookTitle>Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013), May 22–24, 2013, Oslo University, Norway.</bookTitle>
+  			<series>NEALT Proceedings Series</series>
+  			<url>http://gup.ub.gu.se/publication/178357</url>
+  			<ISSN>1650-3686</ISSN>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Linking and validating Nordic and Baltic wordnets</title>
+  			<author>Bolette Sandford Pedersen</author>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<author>Krister Lindén</author>
+  			<author>Heili Olav</author>
+  			<author>Eiríkur Rögnvaldsson</author>
+  			<year>2012</year>
+  			<bookTitle>Proceedings of the 6th International Global Wordnet Conference</bookTitle>
+  			<pages>254-260</pages>
+  			<url>http://gup.ub.gu.se/publication/155599</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/wordnet-saldo</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
