@@ -97,6 +97,21 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>inProceedings</documentType>
+  			<title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
+  			<author>Lars Borin</author>
+  			<author>Markus Forsberg</author>
+  			<author>Dimitrios Kokkinakis</author>
+  			<year>2010</year>
+  			<bookTitle>Proceedings of LREC 2010</bookTitle>
+  			<url>http://gup.ub.gu.se/publication/118907</url>
+  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/dalin</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
