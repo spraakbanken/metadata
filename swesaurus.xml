@@ -90,6 +90,11 @@
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
+  <usageInfo>
+		<foreseenUseInfo>
+			<foreseenUse>nlpApplications</foreseenUse>
+		</foreseenUseInfo>
+	</usageInfo>
   <resourceDocumentationInfo>
   	<documentation>
   		<documentInfo>
