@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Kommuners och städers informationstidningar 2001–2013</resourceName>
-    <resourceName lang="eng">Kommuners och städers informationstidningar 2001–2013</resourceName>
-    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">informationstidningar</resourceShortName>
-    <resourceShortName lang="swe">informationstidningar</resourceShortName>
+    <resourceName lang="swe">Webbnyheter 2003</resourceName>
+    <resourceName lang="eng">Web News 2003</resourceName>
+    <description lang="swe">Nyheter från svenska dagstidningars webbplatser.</description>
+    <description lang="eng">News from Swedish newspapers' websites.</description>
+    <resourceShortName lang="swe">webbnyheter2003</resourceShortName>
+    <resourceShortName lang="eng">webbnyheter2003</resourceShortName>
     <metaShareId/>
-    <identifier>informationstidningar</identifier>
+    <identifier>webbnyheter2003</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/korpusar/webbnyheter2003/webbnyheter2003.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=informationstidningar</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=webbnyheter2003</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://www.sls.fi/doc.php?docid=799</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_INFORMATIONSTIDNINGAR.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_WEBBNYHETER2003.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>
-        <organizationName lang="eng">The Society of Swedish Literature in Finland</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
-          <email>info@sls.fi</email>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>
@@ -54,7 +62,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-09-02</metadataCreationDate>
+    <metadataCreationDate>2013-11-29</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -77,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/informationstidningar</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/webbnyheter2003</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -99,16 +107,17 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>sv-FI</languageId>
-            <languageName>Finland Swedish</languageName>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>1067028</size>
+            <size>10728519</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>63651</size>
+            <size>551521</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
