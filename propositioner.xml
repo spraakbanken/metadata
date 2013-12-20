@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Propositioner 1993–2013</resourceName>
-    <resourceName lang="swe">Proposals 1993–2013</resourceName>
-    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
+    <resourceName lang="swe">Propositioner 1993–2013</resourceName>
+    <resourceName lang="eng">Proposals 1993–2013</resourceName>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">propositioner</resourceShortName>
+    <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <resourceShortName lang="swe">propositioner</resourceShortName>
+    <resourceShortName lang="eng">propositioner</resourceShortName>
     <metaShareId/>
     <identifier>propositioner</identifier>
   </identificationInfo>
