@@ -5,8 +5,8 @@
     <resourceName lang="eng">The English-Swedish Parallel Corpus (ESPC)</resourceName>
     <description lang="swe"/>
     <description lang="eng"/>
-    <resourceShortName lang="swe">espc_swe</resourceShortName>
-    <resourceShortName lang="eng">espc_eng</resourceShortName>
+    <resourceShortName lang="swe">espc-sv</resourceShortName>
+    <resourceShortName lang="eng">espc-en</resourceShortName>
     <metaShareId/>
     <identifier>espc</identifier>
   </identificationInfo>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=espc_swe</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=espc-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
