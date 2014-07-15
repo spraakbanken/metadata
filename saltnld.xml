@@ -5,8 +5,8 @@
     <resourceName lang="eng">SALT – Swedish-Dutch</resourceName>
     <description lang="swe"/>
     <description lang="eng"/>
-    <resourceShortName lang="swe">saltnld_swe</resourceShortName>
-    <resourceShortName lang="nld">saltnld_nld</resourceShortName>
+    <resourceShortName lang="swe">saltnld-sv</resourceShortName>
+    <resourceShortName lang="nld">saltnld-nl</resourceShortName>
     <metaShareId/>
     <identifier>saltnld</identifier>
   </identificationInfo>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=saltnld_swe</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=saltnld-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
