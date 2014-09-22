@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Brev 1800-tal</resourceName>
-    <resourceName lang="eng">Letters 1800-tal</resourceName>
+    <resourceName lang="eng">Finlandssvensk skönlitteratur 1800–1849</resourceName>
+    <resourceName lang="swe">Finlandssvensk skönlitteratur 1800–1849</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
-    <resourceShortName lang="eng">fsbbrev1800tal</resourceShortName>
-    <resourceShortName lang="swe">fsbbrev1800tal</resourceShortName>
+    <resourceShortName lang="eng">fsbskonlit1800-1849</resourceShortName>
+    <resourceShortName lang="swe">fsbskonlit1800-1849</resourceShortName>
     <metaShareId/>
-    <identifier>fsbbrev1800tal</identifier>
+    <identifier>fsbskonlit1800-1849</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbbrev1800tal</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=fsbskonlit1800-1849</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -28,7 +28,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBBREV1800TAL.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1800-1849.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -54,7 +54,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-09-09</metadataCreationDate>
+    <metadataCreationDate>2013-03-11</metadataCreationDate>
     <metadataCreator>
       <surname>Hammarstedt</surname>
       <givenName>Martin</givenName>
@@ -77,7 +77,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbbrev1800tal</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fsbskonlit1800-1849</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -105,11 +105,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>24399</size>
+            <size>347062</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>809</size>
+            <size>15296</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
