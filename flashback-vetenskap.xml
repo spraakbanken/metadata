@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Flashback: Vetenskap &amp humaniora</resourceName>
+    <resourceName lang="swe">Flashback: Vetenskap &amp; humaniora</resourceName>
     <resourceName lang="eng">Flashback: Science &amp; Humanities</resourceName>
     <description lang="swe">Material från diskussionsforumet Flashback. Uppdateras regelbundet.</description>
     <description lang="eng">Material from the Flashback internet forum. Is regularly updated.</description>
@@ -113,11 +113,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>188674757</size>
+            <size>272419084</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>12324465</size>
+            <size>17023805</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
