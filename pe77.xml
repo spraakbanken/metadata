@@ -25,6 +25,12 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</downloadLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=spanish#corpus=pe77</executionLocation>
+    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
@@ -102,7 +108,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>1931639</size>
+            <size>2244816</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
         </corpusTextInfo>
