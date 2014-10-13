@@ -111,6 +111,10 @@
             <size>1267391</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
+          <sizeInfo>
+            <size>69270</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
