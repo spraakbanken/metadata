@@ -23,7 +23,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#?parallel_corpora=swe&corpus=aspacsven-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#?parallel_corpora=swe&amp;corpus=aspacsven-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
