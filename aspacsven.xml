@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
     <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
-    <description lang="swe"/>
-    <description lang="eng"/>
+    <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
+    <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
     <resourceShortName lang="eng">aspacsven-en</resourceShortName>
     <metaShareId/>
