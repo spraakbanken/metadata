@@ -13,6 +13,12 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
+    <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/cor92.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -102,11 +108,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>825251</size>
+            <size>1223797</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>94696</size>
+            <size>0</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
         </corpusTextInfo>
