@@ -6,7 +6,7 @@
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
-    <resourceShortName lang="eng">aspacsven-en</resourceShortName>
+    <resourceShortName lang="eng">aspacsven-sv</resourceShortName>
     <metaShareId/>
     <identifier>aspac</identifier>
   </identificationInfo>
@@ -111,11 +111,19 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size></size>
+            <size>773648</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size></size>
+            <size>52900</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>759141</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>46329</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
