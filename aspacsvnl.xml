@@ -6,7 +6,7 @@
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsvnl-sv</resourceShortName>
-    <resourceShortName lang="nld">aspacsvnl-nl</resourceShortName>
+    <resourceShortName lang="nld">aspacsvnl-sv</resourceShortName>
     <metaShareId/>
     <identifier>aspac</identifier>
   </identificationInfo>
@@ -17,7 +17,14 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-sv.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+      <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-nl.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Dutch part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
