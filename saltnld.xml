@@ -13,6 +13,32 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-sv.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-nl.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Dutch part of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation></downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation></downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
@@ -96,19 +122,40 @@
             <languageName>Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
+            <sizePerLanguage>
+              <sizeInfo>
+                <size>1363598</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizeInfo>
+              <sizeInfo>
+                <size>94696</size>
+                <sizeUnit>sentences</sizeUnit>
+              </sizeInfo>
+            </sizePerLanguage>
           </languageInfo>
+
           <languageInfo>
             <languageId>nld</languageId>
             <languageName>Dutch</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
+            <sizePerLanguage>
+              <sizeInfo>
+                <size>1482259</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizeInfo>
+              <sizeInfo>
+                <size>93447</size>
+                <sizeUnit>sentences</sizeUnit>
+              </sizeInfo>
+            </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>1363598</size>
+            <size>2845857</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>94696</size>
+            <size>188143</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
