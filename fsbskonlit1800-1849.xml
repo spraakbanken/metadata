@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Finlandssvensk skönlitteratur 1800–1849</resourceName>
@@ -105,11 +105,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>347062</size>
+            <size>218843</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15296</size>
+            <size>8851</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

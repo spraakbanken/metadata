@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">SALT – svenska-nederländska</resourceName>
@@ -30,13 +30,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation></downloadLocation>
+      <downloadLocation/>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation></downloadLocation>
+      <downloadLocation/>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
@@ -141,7 +141,7 @@
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>1482259</size>
+                <size>2777470</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
@@ -151,7 +151,7 @@
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>2845857</size>
+            <size>4141068</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>

@@ -13,7 +13,8 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
-    <licence>CC-BY</licence>
+    <licenceInfo>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/cor92.xml.bz2</downloadLocation>
