@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
+    <resourceName lang="swe">ASPAC – svenska-nederländska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish-Dutch</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
-    <resourceShortName lang="eng">aspacsven-sv</resourceShortName>
+    <resourceShortName lang="eng">aspacsven-en</resourceShortName>
     <metaShareId/>
     <identifier>aspac</identifier>
   </identificationInfo>
@@ -17,7 +17,26 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-sv.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+      <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-en.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the English part of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation></downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation></downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
@@ -77,7 +96,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsven</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvnl</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -103,27 +122,40 @@
             <languageName>Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
+            <sizePerLanguage>
+              <sizeInfo>
+                <size>773648</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizeInfo>
+              <sizeInfo>
+                <size>52900</size>
+                <sizeUnit>sentences</sizeUnit>
+              </sizeInfo>
+            </sizePerLanguage>
           </languageInfo>
+
           <languageInfo>
             <languageId>eng</languageId>
             <languageName>English</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
+            <sizePerLanguage>
+              <sizeInfo>
+                <size>775440</size>
+                <sizeUnit>tokens</sizeUnit>
+              </sizeInfo>
+              <sizeInfo>
+                <size>51926</size>
+                <sizeUnit>sentences</sizeUnit>
+              </sizeInfo>
+            </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>773648</size>
+            <size>1549088</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>52900</size>
-            <sizeUnit>sentences</sizeUnit>
-          </sizeInfo>
-          <sizeInfo>
-            <size>759141</size>
-            <sizeUnit>tokens</sizeUnit>
-          </sizeInfo>
-          <sizeInfo>
-            <size>46329</size>
+            <size>104826</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
