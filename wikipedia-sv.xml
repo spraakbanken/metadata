@@ -110,8 +110,8 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          <sizeInfo><size>147560254</size><sizeUnit>tokens</sizeUnit></sizeInfo>
-          <sizeInfo><size>11953886</size><sizeUnit>sentences</sizeUnit></sizeInfo>
+          <sizeInfo><size>148140979</size><sizeUnit>tokens</sizeUnit></sizeInfo>
+          <sizeInfo><size>12052318</size><sizeUnit>sentences</sizeUnit></sizeInfo>
           <annotationInfo>
             <annotationType>segmentation</annotationType>
             <segmentationLevel>sentence</segmentationLevel>
