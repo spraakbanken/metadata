@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Dagny</resourceName>
-    <resourceName lang="swe">Dagny</resourceName>
-    <description lang="eng">A corpus with texts from the women's newspaper Dagny</description>
-    <description lang="swe">En korpus med texter från kvinnotidningen Dagny</description>
-    <resourceShortName lang="eng">ub-kvt-dagny</resourceShortName>
-    <resourceShortName lang="swe">ub-kvt-dagny</resourceShortName>
+    <resourceName lang="eng">Bollnäs tidning</resourceName>
+    <resourceName lang="swe">Bollnäs tidning</resourceName>
+    <description lang="eng">A corpus with texts from Bollnäs tidning</description>
+    <description lang="swe">En korpus med texter från Bollnäs tidning</description>
+    <resourceShortName lang="eng">kubhist-bollnastidning-1870</resourceShortName>
+    <resourceShortName lang="swe">kubhist-bollnastidning-1870</resourceShortName>
     <metaShareId/>
-    <identifier>ub-kvt-dagny</identifier>
+    <identifier>kubhist-bollnastidning-1870</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,20 +16,20 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-dagny.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-bollnastidning-1870.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=all_hist#corpus=ub-kvt-dagny</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-bollnastidning-1870</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_UB-KVT-Dagny.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-BOLLNASTIDNING-1870.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -85,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/ub-kvt-dagny</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist-bollnastidning-1870</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -113,11 +113,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>8124256</size>
+            <size>2802764</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>492999</size>
+            <size>180488</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
