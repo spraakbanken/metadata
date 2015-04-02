@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ns0:resourceInfo xmlns:ns0="http://www.ilsp.gr/META-XMLSchema">
   <ns0:identificationInfo>
-    <ns0:resourceName lang="eng">Bollnäs tidning 1870's</ns0:resourceName>
-    <ns0:resourceName lang="swe">Bollnäs tidning 1870-talet</ns0:resourceName>
-    <ns0:description lang="eng">A corpus with texts from Bollnäs tidning in the 1870's</ns0:description>
-    <ns0:description lang="swe">En korpus med texter från Bollnäs tidning i 1870-talet</ns0:description>
-    <ns0:resourceShortName lang="eng">kubhist-bollnastidning-1870</ns0:resourceShortName>
-    <ns0:resourceShortName lang="swe">kubhist-bollnastidning-1870</ns0:resourceShortName>
+    <ns0:resourceName lang="eng">Bollnäs tidning 1880's</ns0:resourceName>
+    <ns0:resourceName lang="swe">Bollnäs tidning 1880's</ns0:resourceName>
+    <ns0:description lang="eng">A corpus with texts from Bollnäs tidning in the 1880's</ns0:description>
+    <ns0:description lang="swe">En korpus med texter från Bollnäs tidning i 1880-talet</ns0:description>
+    <ns0:resourceShortName lang="eng">kubhist-bollnastidning-1880</ns0:resourceShortName>
+    <ns0:resourceShortName lang="swe">kubhist-bollnastidning-1880</ns0:resourceShortName>
     <ns0:metaShareId/>
-    <ns0:identifier>kubhist-bollnastidning-1870</ns0:identifier>
+    <ns0:identifier>kubhist-bollnastidning-1880</ns0:identifier>
   </ns0:identificationInfo>
   <ns0:distributionInfo>
     <ns0:availability>available-unrestrictedUse</ns0:availability>
@@ -16,20 +16,20 @@
       <ns0:licence>CC-BY</ns0:licence>
       <ns0:restrictionsOfUse>attribution</ns0:restrictionsOfUse>
       <ns0:distributionAccessMedium>downloadable</ns0:distributionAccessMedium>
-      <ns0:downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-bollnastidning-1870.xml.bz2</ns0:downloadLocation>
+      <ns0:downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-bollnastidning-1880.xml.bz2</ns0:downloadLocation>
       <ns0:attributionText>this file contains a scrambled version of the corpus</ns0:attributionText>
     </ns0:licenceInfo>
     <ns0:licenceInfo>
       <ns0:licence>other</ns0:licence>
       <ns0:restrictionsOfUse>other</ns0:restrictionsOfUse>
       <ns0:distributionAccessMedium>accessibleThroughInterface</ns0:distributionAccessMedium>
-      <ns0:executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-bollnastidning-1870</ns0:executionLocation>
+      <ns0:executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-bollnastidning-1880</ns0:executionLocation>
     </ns0:licenceInfo>
     <ns0:licenceInfo>
       <ns0:licence>CC-BY</ns0:licence>
       <ns0:restrictionsOfUse>attribution</ns0:restrictionsOfUse>
       <ns0:distributionAccessMedium>other</ns0:distributionAccessMedium>
-      <ns0:downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-BOLLNASTIDNING-1870.txt</ns0:downloadLocation>
+      <ns0:downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-BOLLNASTIDNING-1880.txt</ns0:downloadLocation>
     </ns0:licenceInfo>
     <ns0:iprHolder>
       <ns0:organizationInfo>
@@ -83,7 +83,7 @@
     <ns0:validationExtent>full</ns0:validationExtent>
   </ns0:validationInfo>
   <ns0:resourceDocumentationInfo>
-    <ns0:samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist-bollnastidning-1870</ns0:samplesLocation>
+    <ns0:samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist-bollnastidning-1880</ns0:samplesLocation>
     <ns0:toolDocumentationType>manual</ns0:toolDocumentationType>
     <ns0:toolDocumentationType>online</ns0:toolDocumentationType>
   </ns0:resourceDocumentationInfo>
@@ -104,11 +104,11 @@
             <ns0:languageScript>Latn</ns0:languageScript>
           </ns0:languageInfo>
           <ns0:sizeInfo>
-            <ns0:size>2802764</ns0:size>
+            <ns0:size>277496</ns0:size>
             <ns0:sizeUnit>tokens</ns0:sizeUnit>
           </ns0:sizeInfo>
           <ns0:sizeInfo>
-            <ns0:size>180488</ns0:size>
+            <ns0:size>18472</ns0:size>
             <ns0:sizeUnit>sentences</ns0:sizeUnit>
           </ns0:sizeInfo>
           <ns0:annotationInfo>
