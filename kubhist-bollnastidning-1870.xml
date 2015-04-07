@@ -1,135 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ns0:resourceInfo xmlns:ns0="http://www.ilsp.gr/META-XMLSchema">
-  <ns0:identificationInfo>
-    <ns0:resourceName lang="eng">Bollnäs tidning 1870's</ns0:resourceName>
-    <ns0:resourceName lang="swe">Bollnäs tidning 1870-talet</ns0:resourceName>
-    <ns0:description lang="eng">A corpus with texts from Bollnäs tidning in the 1870's</ns0:description>
-    <ns0:description lang="swe">En korpus med texter från Bollnäs tidning i 1870-talet</ns0:description>
-    <ns0:resourceShortName lang="eng">kubhist-bollnastidning-1870</ns0:resourceShortName>
-    <ns0:resourceShortName lang="swe">kubhist-bollnastidning-1870</ns0:resourceShortName>
-    <ns0:metaShareId/>
-    <ns0:identifier>kubhist-bollnastidning-1870</ns0:identifier>
-  </ns0:identificationInfo>
-  <ns0:distributionInfo>
-    <ns0:availability>available-unrestrictedUse</ns0:availability>
-    <ns0:licenceInfo>
-      <ns0:licence>CC-BY</ns0:licence>
-      <ns0:restrictionsOfUse>attribution</ns0:restrictionsOfUse>
-      <ns0:distributionAccessMedium>downloadable</ns0:distributionAccessMedium>
-      <ns0:downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-bollnastidning-1870.xml.bz2</ns0:downloadLocation>
-      <ns0:attributionText>this file contains a scrambled version of the corpus</ns0:attributionText>
-    </ns0:licenceInfo>
-    <ns0:licenceInfo>
-      <ns0:licence>other</ns0:licence>
-      <ns0:restrictionsOfUse>other</ns0:restrictionsOfUse>
-      <ns0:distributionAccessMedium>accessibleThroughInterface</ns0:distributionAccessMedium>
-      <ns0:executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-bollnastidning-1870</ns0:executionLocation>
-    </ns0:licenceInfo>
-    <ns0:licenceInfo>
-      <ns0:licence>CC-BY</ns0:licence>
-      <ns0:restrictionsOfUse>attribution</ns0:restrictionsOfUse>
-      <ns0:distributionAccessMedium>other</ns0:distributionAccessMedium>
-      <ns0:downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-BOLLNASTIDNING-1870.txt</ns0:downloadLocation>
-    </ns0:licenceInfo>
-    <ns0:iprHolder>
-      <ns0:organizationInfo>
-        <ns0:organizationName lang="swe">Kungliga Biblioteket</ns0:organizationName>
-        <ns0:organizationName lang="eng">The National Library of Sweden</ns0:organizationName>
-        <ns0:communicationInfo>
-          <ns0:email>kungl.biblioteket@kb.se</ns0:email>
-          <ns0:url>http://www.kb.se/</ns0:url>
-          <ns0:address>Humlegårdsgatan 26</ns0:address>
-          <ns0:zipCode>102 41</ns0:zipCode>
-          <ns0:city>Stockholm</ns0:city>
-          <ns0:country>Sweden</ns0:country>
-        </ns0:communicationInfo>
-      </ns0:organizationInfo>
-    </ns0:iprHolder>
-  </ns0:distributionInfo>
-  <ns0:contactPerson>
-    <ns0:surname>Forsberg</ns0:surname>
-    <ns0:givenName>Markus</ns0:givenName>
-    <ns0:communicationInfo>
-      <ns0:email>sb-info@svenska.gu.se</ns0:email>
-    </ns0:communicationInfo>
-    <ns0:affiliation>
-      <ns0:organizationName>Språkbanken</ns0:organizationName>
-      <ns0:communicationInfo>
-        <ns0:email>sb-info@svenska.gu.se</ns0:email>
-      </ns0:communicationInfo>
-    </ns0:affiliation>
-  </ns0:contactPerson>
-  <ns0:metadataInfo>
-    <ns0:metadataCreationDate>2015-04-02</ns0:metadataCreationDate>
-    <ns0:metadataCreator>
-      <ns0:surname>Schumacher</ns0:surname>
-      <ns0:givenName>Anne</ns0:givenName>
-      <ns0:communicationInfo>
-        <ns0:email>sb-info@svenska.gu.se</ns0:email>
-      </ns0:communicationInfo>
-      <ns0:affiliation>
-        <ns0:organizationName>Språkbanken</ns0:organizationName>
-        <ns0:communicationInfo>
-          <ns0:email>sb-info@svenska.gu.se</ns0:email>
-        </ns0:communicationInfo>
-      </ns0:affiliation>
-    </ns0:metadataCreator>
-    <ns0:source>META-NORD</ns0:source>
-  </ns0:metadataInfo>
-  <ns0:validationInfo>
-    <ns0:validated>true</ns0:validated>
-    <ns0:validationType>formal</ns0:validationType>
-    <ns0:validationMode>automatic</ns0:validationMode>
-    <ns0:validationExtent>full</ns0:validationExtent>
-  </ns0:validationInfo>
-  <ns0:resourceDocumentationInfo>
-    <ns0:samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist-bollnastidning-1870</ns0:samplesLocation>
-    <ns0:toolDocumentationType>manual</ns0:toolDocumentationType>
-    <ns0:toolDocumentationType>online</ns0:toolDocumentationType>
-  </ns0:resourceDocumentationInfo>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Bollnäs tidning 1870's</resourceName>
+    <resourceName lang="swe">Bollnäs tidning 1870's</resourceName>
+    <description lang="eng">A corpus with texts from Bollnäs tidning in the 1870's</description>
+    <description lang="swe">En korpus med texter från Bollnäs tidning i 1870-talet</description>
+    <resourceShortName lang="eng">kubhist-bollnastidning-1870</resourceShortName>
+    <resourceShortName lang="swe">kubhist-bollnastidning-1870</resourceShortName>
+    <metaShareId/>
+    <identifier>kubhist-bollnastidning-1870</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-bollnastidning-1870.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-bollnastidning-1870</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-BOLLNASTIDNING-1870.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Kungliga Biblioteket</organizationName>
+        <organizationName lang="eng">The National Library of Sweden</organizationName>
+        <communicationInfo>
+          <email>kungl.biblioteket@kb.se</email>
+          <url>http://www.kb.se/</url>
+          <address>Humlegårdsgatan 26</address>
+          <zipCode>102 41</zipCode>
+          <city>Stockholm</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2015-04-07</metadataCreationDate>
+    <metadataCreator>
+      <surname>Schumacher</surname>
+      <givenName>Anne</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist-bollnastidning-1870</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
   
-  <ns0:resourceComponentType>
-    <ns0:corpusInfo>
-      <ns0:resourceType>corpus</ns0:resourceType>
-      <ns0:corpusMediaType>
-        <ns0:corpusTextInfo>
-          <ns0:mediaType>text</ns0:mediaType>
-          <ns0:lingualityInfo>
-            <ns0:lingualityType>monolingual</ns0:lingualityType>
-          </ns0:lingualityInfo>
-          <ns0:languageInfo>
-            <ns0:languageId>swe</ns0:languageId>
-            <ns0:languageName>Swedish</ns0:languageName>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
             
-            <ns0:languageScript>Latn</ns0:languageScript>
-          </ns0:languageInfo>
-          <ns0:sizeInfo>
-            <ns0:size>2802764</ns0:size>
-            <ns0:sizeUnit>tokens</ns0:sizeUnit>
-          </ns0:sizeInfo>
-          <ns0:sizeInfo>
-            <ns0:size>180488</ns0:size>
-            <ns0:sizeUnit>sentences</ns0:sizeUnit>
-          </ns0:sizeInfo>
-          <ns0:annotationInfo>
-            <ns0:annotationType>segmentation</ns0:annotationType>
-            <ns0:segmentationLevel>sentence</ns0:segmentationLevel>
-            <ns0:segmentationLevel>word</ns0:segmentationLevel>
-            <ns0:annotationFormat>text/xml</ns0:annotationFormat>
-            <ns0:annotationMode>automatic</ns0:annotationMode>
-          </ns0:annotationInfo>
-          <ns0:annotationInfo>
-            <ns0:annotationType>lemmatization</ns0:annotationType>
-            <ns0:annotationFormat>text/xml</ns0:annotationFormat>
-            <ns0:annotationMode>automatic</ns0:annotationMode>
-          </ns0:annotationInfo>
-          <ns0:annotationInfo>
-            <ns0:annotationType>morphosyntacticAnnotation-posTagging</ns0:annotationType>
-            <ns0:annotationFormat>text/xml</ns0:annotationFormat>
-            <ns0:annotationMode>automatic</ns0:annotationMode>
-          </ns0:annotationInfo>
-        </ns0:corpusTextInfo>
-      </ns0:corpusMediaType>
-    </ns0:corpusInfo>
-  </ns0:resourceComponentType>
-</ns0:resourceInfo>
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>2802764</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>180488</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
