@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Jonkopingsbladet 1870's</resourceName>
-    <resourceName lang="swe">Jonkopingsbladet 1870-talet</resourceName>
-    <description lang="eng">A corpus with texts from Jonkopingsbladet in the 1870's</description>
-    <description lang="swe">En korpus med texter från Jonkopingsbladet på 1870-talet</description>
+    <resourceName lang="eng">Jönkopingsbladet 1870's</resourceName>
+    <resourceName lang="swe">Jönkopingsbladet 1870-talet</resourceName>
+    <description lang="eng">A corpus with texts from Jönkopingsbladet in the 1870's</description>
+    <description lang="swe">En korpus med texter från Jönkopingsbladet på 1870-talet</description>
     <resourceShortName lang="eng">kubhist-jonkopingsbladet-1870</resourceShortName>
     <resourceShortName lang="swe">kubhist-jonkopingsbladet-1870</resourceShortName>
     <metaShareId/>
