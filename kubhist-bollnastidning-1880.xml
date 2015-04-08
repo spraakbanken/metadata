@@ -2,9 +2,9 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Bollnäs tidning 1880's</resourceName>
-    <resourceName lang="swe">Bollnäs tidning 1880's</resourceName>
+    <resourceName lang="swe">Bollnäs tidning 1880-talet</resourceName>
     <description lang="eng">A corpus with texts from Bollnäs tidning in the 1880's</description>
-    <description lang="swe">En korpus med texter från Bollnäs tidning i 1880-talet</description>
+    <description lang="swe">En korpus med texter från Bollnäs tidning på 1880-talet</description>
     <resourceShortName lang="eng">kubhist-bollnastidning-1880</resourceShortName>
     <resourceShortName lang="swe">kubhist-bollnastidning-1880</resourceShortName>
     <metaShareId/>
@@ -60,7 +60,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2015-04-07</metadataCreationDate>
+    <metadataCreationDate>2015-04-08</metadataCreationDate>
     <metadataCreator>
       <surname>Schumacher</surname>
       <givenName>Anne</givenName>
