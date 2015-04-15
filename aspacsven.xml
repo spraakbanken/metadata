@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-nederländska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-Dutch</resourceName>
+    <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
     <resourceShortName lang="eng">aspacsven-en</resourceShortName>
     <metaShareId/>
-    <identifier>aspac</identifier>
+    <identifier>aspacsven</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -30,19 +30,21 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation></downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt</downloadLocation>
+      <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation></downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt</downloadLocation>
+      <attributionText>this file contains statistics on the English part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#?parallel_corpora=swe&amp;corpus=aspacsven-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsven-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -73,7 +75,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2014-10-28</metadataCreationDate>
+    <metadataCreationDate>2015-04-15</metadataCreationDate>
     <metadataCreator>
       <surname>Schumacher</surname>
       <givenName>Anne</givenName>
@@ -96,18 +98,11 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvnl</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsven</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -120,7 +115,6 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
@@ -137,7 +131,6 @@
           <languageInfo>
             <languageId>eng</languageId>
             <languageName>English</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>

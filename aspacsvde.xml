@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-nederländska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-Dutch</resourceName>
+    <resourceName lang="swe">ASPAC – svenska-tyska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish-German</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
-    <resourceShortName lang="swe">aspacsvnl-sv</resourceShortName>
-    <resourceShortName lang="nld">aspacsvnl-nl</resourceShortName>
+    <resourceShortName lang="swe">aspacsvde-sv</resourceShortName>
+    <resourceShortName lang="deu">aspacsvde-de</resourceShortName>
     <metaShareId/>
-    <identifier>aspacsvnl</identifier>
+    <identifier>aspacsvde</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,35 +16,35 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-sv.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvde-sv.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-nl.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the Dutch part of the corpus</attributionText>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvde-de.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the German part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-SV.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVDE-SV.txt</downloadLocation>
       <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-NL.txt</downloadLocation>
-      <attributionText>this file contains statistics on the Dutch part of the corpus</attributionText>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVDE-DE.txt</downloadLocation>
+      <attributionText>this file contains statistics on the German part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvnl-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvde-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -75,7 +75,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2014-10-28</metadataCreationDate>
+    <metadataCreationDate>2015-04-15</metadataCreationDate>
     <metadataCreator>
       <surname>Schumacher</surname>
       <givenName>Anne</givenName>
@@ -98,18 +98,11 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvnl</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvde</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -122,7 +115,6 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
@@ -137,27 +129,26 @@
           </languageInfo>
 
           <languageInfo>
-            <languageId>nld</languageId>
-            <languageName>Dutch</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageId>deu</languageId>
+            <languageName>German</languageName>
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>775440</size>
+                <size>810590</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>51926</size>
+                <size>55702</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>1549088</size>
+            <size>1584238</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>104826</size>
+            <size>108602</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
