@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-latin</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-Latin</resourceName>
-    <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
-    <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
-    <resourceShortName lang="swe">aspacsvla-sv</resourceShortName>
-    <resourceShortName lang="lat">aspacsvla-la</resourceShortName>
+    <resourceName lang="swe">Europarl – svenska-grekiska</resourceName>
+    <resourceName lang="eng">Europarl – Swedish-Greek</resourceName>
+    <description lang="eng">Part of European Parliament Proceedings Parallel Corpus</description>
+    <description lang="swe">Del av European Parliament Proceedings Parallel Corpus</description>
+    <resourceShortName lang="swe">europarl-sv</resourceShortName>
+    <resourceShortName lang="ell">europarl-el</resourceShortName>
     <metaShareId/>
-    <identifier>aspacsvla</identifier>
+    <identifier>europarl-el</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,35 +16,35 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvla-sv.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvla-la.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the Latin part of the corpus</attributionText>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-el.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Greek part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVLA-SV.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt</downloadLocation>
       <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVLA-LA.txt</downloadLocation>
-      <attributionText>this file contains statistics on the Latin part of the corpus</attributionText>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-EL.txt</downloadLocation>
+      <attributionText>this file contains statistics on the Greek part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvla-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-el</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -98,7 +98,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvla</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/europarl-svel</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -118,37 +118,37 @@
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>72503</size>
+                <size>33406922</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>5780</size>
+                <size>1475195</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
 
           <languageInfo>
-            <languageId>lat</languageId>
-            <languageName>Latin</languageName>
+            <languageId>ell</languageId>
+            <languageName>Greek</languageName>
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>61677</size>
+                <size>23657418</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>6883</size>
+                <size>867855</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>134180</size>
+            <size>57064340</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>12663</size>
+            <size>2343050</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
