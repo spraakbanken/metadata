@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-nederländska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-Dutch</resourceName>
+    <resourceName lang="swe">ASPAC – svenska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish</resourceName>
     <description lang="eng">The Swedish part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Svenska delen av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsv</resourceShortName>
     <resourceShortName lang="nld">aspacsv</resourceShortName>
     <metaShareId/>
-    <identifier>aspac</identifier>
+    <identifier>aspacsv</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,8 +16,15 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacs.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsv.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSV.txt</downloadLocation>
+      <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
