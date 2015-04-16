@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
+    <resourceName lang="swe">ASPAC – svenska-spanska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish-Spanish</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
-    <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
-    <resourceShortName lang="eng">aspacsven-en</resourceShortName>
+    <resourceShortName lang="swe">aspacsves-sv</resourceShortName>
+    <resourceShortName lang="spa">aspacsves-es</resourceShortName>
     <metaShareId/>
-    <identifier>aspacsven</identifier>
+    <identifier>aspacsves</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,35 +16,35 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-sv.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsves-sv.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-en.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the English part of the corpus</attributionText>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsves-es.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Spanish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVES-SV.txt</downloadLocation>
       <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt</downloadLocation>
-      <attributionText>this file contains statistics on the English part of the corpus</attributionText>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVES-ES.txt</downloadLocation>
+      <attributionText>this file contains statistics on the Spanish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsven-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsves-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -98,7 +98,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsven</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsves</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -118,37 +118,37 @@
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>773648</size>
+                <size>28348</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>52900</size>
+                <size>2058</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
 
           <languageInfo>
-            <languageId>eng</languageId>
-            <languageName>English</languageName>
+            <languageId>spa</languageId>
+            <languageName>Spanish</languageName>
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>759141</size>
+                <size>33583</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>46329</size>
+                <size>1521</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>1532789</size>
+            <size>61931</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>99229</size>
+            <size>3579</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
+    <resourceName lang="swe">ASPAC – svenska-kroatiska</resourceName>
+    <resourceName lang="eng">ASPAC – Swedish-Croatian</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
-    <resourceShortName lang="swe">aspacsven-sv</resourceShortName>
-    <resourceShortName lang="eng">aspacsven-en</resourceShortName>
+    <resourceShortName lang="swe">aspacsvhr-sv</resourceShortName>
+    <resourceShortName lang="hrv">aspacsvhr-hr</resourceShortName>
     <metaShareId/>
-    <identifier>aspacsven</identifier>
+    <identifier>aspacsvhr</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,35 +16,35 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-sv.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhr-sv.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-en.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the English part of the corpus</attributionText>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhr-hr.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the Croatian part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVHR-SV.txt</downloadLocation>
       <attributionText>this file contains statistics on the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt</downloadLocation>
-      <attributionText>this file contains statistics on the English part of the corpus</attributionText>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVHR-HR.txt</downloadLocation>
+      <attributionText>this file contains statistics on the Croatian part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsven-sv</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvhr-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -98,7 +98,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsven</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/aspacsvhr</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -118,37 +118,37 @@
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>773648</size>
+                <size>508632</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>52900</size>
+                <size>37210</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
 
           <languageInfo>
-            <languageId>eng</languageId>
-            <languageName>English</languageName>
+            <languageId>hrv</languageId>
+            <languageName>Croatian</languageName>
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>759141</size>
+                <size>483839</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>46329</size>
+                <size>38114</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>1532789</size>
+            <size>992471</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>99229</size>
+            <size>75324</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
