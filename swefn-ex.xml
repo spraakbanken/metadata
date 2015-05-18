@@ -5,8 +5,8 @@
     <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
     <description lang="eng"/>
     <description lang="swe"/>
-    <resourceShortName lang="eng">swefn</resourceShortName>
-    <resourceShortName lang="swe">swefn</resourceShortName>
+    <resourceShortName lang="eng">swefn-ex</resourceShortName>
+    <resourceShortName lang="swe">swefn-ex</resourceShortName>
     <metaShareId/>
     <identifier>swefn</identifier>
   </identificationInfo>
