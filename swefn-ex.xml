@@ -16,20 +16,20 @@
             <licence>CC-BY</licence>
             <restrictionsOfUse>attribution</restrictionsOfUse>
             <distributionAccessMedium>downloadable</distributionAccessMedium>
-            <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn.xml.bz2</downloadLocation>
+            <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-ex.xml.bz2</downloadLocation>
             <attributionText>this file contains a scrambled version of the corpus</attributionText>
         </licenceInfo>
         <licenceInfo>
             <licence>other</licence>
             <restrictionsOfUse>other</restrictionsOfUse>
             <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-            <executionLocation>http://spraakbanken.gu.se/korp/#corpus=swefn</executionLocation>
+            <executionLocation>http://spraakbanken.gu.se/korp/#corpus=swefn-ex</executionLocation>
         </licenceInfo>
         <licenceInfo>
             <licence>CC-BY</licence>
             <restrictionsOfUse>attribution</restrictionsOfUse>
             <distributionAccessMedium>other</distributionAccessMedium>
-            <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SWEFN.txt</downloadLocation>
+            <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SWEFN-EX.txt</downloadLocation>
         </licenceInfo>
         <iprHolder>
             <organizationInfo>
