@@ -1,38 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Svensk prosafiktion 1800–1900</resourceName>
-    <resourceName lang="eng">Swedish Prose Fiction 1800–1900</resourceName>
-    <description lang="swe"/>
-    <description lang="eng"/>
-    <resourceShortName lang="swe">spf</resourceShortName>
-    <resourceShortName lang="eng">spf</resourceShortName>
+    <resourceName lang="eng">Gustav Vasa's letter production</resourceName>
+    <resourceName lang="swe">Gustav Vasas brevproduktion</resourceName>
+    <description lang="eng">King Gustav I's registry</description>
+    <description lang="swe">Konung Gustaf den förstes registratur</description>
+    <resourceShortName lang="eng">vasabrev</resourceShortName>
+    <resourceShortName lang="swe">vasabrev</resourceShortName>
     <metaShareId/>
-    <identifier>spf</identifier>
+    <identifier>vasabrev</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/vasabrev.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=spf</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=all_hist#corpus=vasabrev</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SPF.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VASABREV.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Litteraturbanken</organizationName>
-        <organizationName lang="eng">The Swedish Literature Bank</organizationName>
+        <organizationName lang="swe">Göteborgs universitetsbibliotek</organizationName>
+        <organizationName lang="eng">Gothenburg University Library</organizationName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-          <url>http://spraakbanken.gu.se</url>
-          <address>Lennart Torstenssonsgatan 8</address>
-          <zipCode>412 56</zipCode>
+          <url>http://www.ub.gu.se/</url>
+          <address>Box 222</address>
+          <zipCode>40530</zipCode>
           <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
@@ -53,10 +59,10 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2013-08-19</metadataCreationDate>
+    <metadataCreationDate>2015-05-27</metadataCreationDate>
     <metadataCreator>
-      <surname>Hammarstedt</surname>
-      <givenName>Martin</givenName>
+      <surname>Schumacher</surname>
+      <givenName>Anne</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -76,18 +82,11 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/spf</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/vasabrev</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
+  
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -100,15 +99,15 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <!--languageCoding>ISO-639-3</languageCoding-->
+            
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>16249084</size>
+            <size>253642</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>846729</size>
+            <size>14557</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
