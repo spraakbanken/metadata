@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Bloggmix 1999</resourceName>
@@ -113,11 +113,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>601892</size>
+            <size>602162</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>40108</size>
+            <size>40099</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
