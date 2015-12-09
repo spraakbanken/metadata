@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Akademisk ordlista</resourceName>
+    <resourceName lang="eng">Academic wordlist</resourceName>
     <resourceName lang="swe">Akademisk ordlista</resourceName>
-    <description lang="eng">Akademisk ordlista</description>
+    <description lang="eng">Academic wordlist</description>
     <description lang="swe">Akademisk ordlista</description>
     <resourceShortName lang="eng">ao</resourceShortName>
     <resourceShortName lang="swe">ao</resourceShortName>
