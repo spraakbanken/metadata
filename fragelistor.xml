@@ -26,16 +26,14 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>
-        <departmentName lang="swe">Språkbanken</departmentName>
-        <departmentName lang="eng">Språkbanken</departmentName>
+        <organizationName lang="swe">Nordiska museet</organizationName>
+        <organizationName lang="eng">Nordic Museum</organizationName>
         <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-          <url>http://spraakbanken.gu.se</url>
-          <address>Lennart Torstenssonsgatan 8</address>
-          <zipCode>412 56</zipCode>
-          <city>Gothenburg</city>
+          <email>info@nordiskamuseet.se</email>
+          <url>http://www.nordiskamuseet.se/</url>
+          <address>Box 27820</address>
+          <zipCode>115 93</zipCode>
+          <city>Stockholm</city>
           <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>
@@ -48,7 +46,7 @@
       <email>jonas.engman@nordiskamuseet.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Nordiska Museet</organizationName>
+      <organizationName>Nordiska museet</organizationName>
       <communicationInfo>
         <email>info@nordiskamuseet.se</email>
       </communicationInfo>
