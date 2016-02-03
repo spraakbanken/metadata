@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish words, LEXIN</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Lexikon för invandrare. Andra upplagan</description>
     <resourceShortName lang="eng">lexin</resourceShortName>
     <resourceShortName lang="swe">lexin</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/4fc635e3614b47.55074878</identifier>
     <identifier>lexin</identifier>
   </identificationInfo>
@@ -109,7 +109,7 @@
   			<pages>28-43</pages>
   			<url>http://gup.ub.gu.se/publication/187063</url>
   			<ISSN>1415-2533</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -146,7 +146,7 @@
             <lingualityType>multilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -207,7 +207,7 @@
           </modalityInfo>
           
           <sizeInfo>
-            <size>30684</size>
+            <size>29111</size>
             <sizeUnit>entries</sizeUnit>
             
           </sizeInfo>

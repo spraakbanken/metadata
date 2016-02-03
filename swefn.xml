@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish FrameNet</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt FrasNät++</description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/6bb59f6c-02b1-4bf7-b985-f1dbf9d5dbfa</identifier>
     <identifier>swefn</identifier>
   </identificationInfo>
@@ -109,7 +109,7 @@
   			<bookTitle>14th EURALEX International Congress</bookTitle>
   			<pages>269-281</pages>
   			<url>http://gup.ub.gu.se/publication/110368</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -124,7 +124,7 @@
   			<bookTitle>Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC-2012); Istanbul, Turkey</bookTitle>
   			<pages>256-261</pages>
   			<url>http://gup.ub.gu.se/publication/158473</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -141,7 +141,7 @@
   			<year>2009</year>
   			<bookTitle>FrameNet Masterclass and Workshop</bookTitle>
   			<url>http://gup.ub.gu.se/publication/110343</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -164,7 +164,7 @@
         <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -172,14 +172,14 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>1182</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>1193</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
