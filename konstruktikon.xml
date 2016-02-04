@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Konstruktikon</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett svenskt konstruktikon</description>
     <resourceShortName lang="eng">konstruktikon</resourceShortName>
     <resourceShortName lang="swe">konstruktikon</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/3334c3d0-fce2-11e1-a21f-0800200c9a66</identifier>
     <identifier>konstruktikon</identifier>
   </identificationInfo>
@@ -23,7 +23,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/konstruktikon/</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/karp/#/?resources=konstruktikon</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -37,10 +37,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/resource/konstruktikon</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -107,7 +107,7 @@
   			<series>Forskningsrapporter från institutionen för svenska språket</series>
   			<url>http://gup.ub.gu.se/publication/158226</url>
   			<ISSN>1401-5919</ISSN>
-  			
+
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -116,7 +116,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
+
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -133,7 +133,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -141,30 +141,30 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
+
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>422</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo><size>436</size><sizeUnit>entries</sizeUnit></sizeInfo>
+
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              
+
             </sizePerTextFormat>
           </textFormatInfo>
-          
+
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              
+
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -172,7 +172,7 @@
             <sizePerTimeCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              
+
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -180,7 +180,7 @@
             <sizePerGeographicCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-              
+
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

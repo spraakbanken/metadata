@@ -1,47 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Kelly</resourceName>
-    <resourceName lang="swe">Kelly</resourceName>
-    <description lang="eng">Keywords for Language Learning for Young and adults alike</description>
-    <description lang="swe">Nyckelord för språkinlärning för unga och vuxna</description>
-    <resourceShortName lang="eng">kelly</resourceShortName>
-    <resourceShortName lang="swe">kelly</resourceShortName>
-    <metaShareId/>
-    <identifier>hdl:10794/a5d88d2b-8e23-4b1c-badb-b264a31364c6</identifier>
-    <identifier>kelly</identifier>
+    <resourceName lang="eng">Bliss words</resourceName>
+    <resourceName lang="swe">Bliss-ord</resourceName>
+    <description lang="eng">Bliss words</description>
+    <description lang="swe">Bliss-ord</description>
+    <resourceShortName lang="eng">blissword</resourceShortName>
+    <resourceShortName lang="swe">blissword</resourceShortName>
+    <metaShareId />
+    <identifier />
+    <identifier>blissword</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#?resources=kelly</executionLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/blissword.xml</downloadLocation>
+	  <executionLocation>http://spraakbanken.gu.se/karp/#/?resources=blissword</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/kelly</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/kelly</downloadLocation>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/blissword.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -74,10 +57,10 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreationDate>2015-12-09</metadataCreationDate>
     <metadataCreator>
-      <surname>Uppström</surname>
-      <givenName>Jonatan</givenName>
+      <surname>Schumacher</surname>
+      <givenName>Anne</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -96,36 +79,11 @@
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
-  <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>techReport</documentType>
-  			<title>Swedish KELLY: Technical report</title>
-  			<author>Elena Volodina</author>
-  			<author>Sofie Johansson Kokkinakis</author>
-  			<year>2012</year>
-  			<publisher>Göteborgs universitet</publisher>
-  			<series>Forskningsrapporter från institutionen för svenska språket</series>
-  			<url>http://gup.ub.gu.se/publication/165964</url>
-  			<ISSN>1401-5919</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/kelly</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/blissword</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
-  <resourceCreationInfo>
-  	<creationEndDate>2012-02-01</creationEndDate>
-  </resourceCreationInfo>
 
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
@@ -133,16 +91,9 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
-        <linguisticInformation>lemma</linguisticInformation>
-        <linguisticInformation>partOfSpeech</linguisticInformation>
-        <linguisticInformation>morpho-Gender</linguisticInformation>
-        <linguisticInformation>usage-Frequency</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo>
-      	<creationMode>mixed</creationMode>
-      	<creationModeDetails>Created from a corpus developed for this project. A mixture of automatic and manual methods was employed to extract the most frequent words from the corpus and to annotate them.</creationModeDetails>
-      </creationInfo>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -150,21 +101,23 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <!-- scriptCoding>ISO-15924</scriptCoding -->
-            <languageScript>Latn</languageScript>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>8425</size><sizeUnit>entries</sizeUnit></sizeInfo>
 
+          <sizeInfo>
+            <size>4472</size>
+            <sizeUnit>entries</sizeUnit>
+
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
-              <size>10510</size>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
 
             </sizePerTextFormat>
@@ -173,15 +126,15 @@
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
-              <size>10510</size>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
 
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
-            <timeCoverage>2010s</timeCoverage>
+            <timeCoverage>other</timeCoverage>
             <sizePerTimeCoverage>
-              <size>10510</size>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
 
             </sizePerTimeCoverage>
@@ -189,7 +142,7 @@
           <geographicCoverageInfo>
             <geographicCoverage>other</geographicCoverage>
             <sizePerGeographicCoverage>
-              <size>10510</size>
+              <size>0</size>
               <sizeUnit>entries</sizeUnit>
 
             </sizePerGeographicCoverage>
