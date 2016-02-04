@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Bliss</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Bliss</description>
     <resourceShortName lang="eng">bliss</resourceShortName>
     <resourceShortName lang="swe">bliss</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/1cf655e936b95.43282512</identifier>
     <identifier>bliss</identifier>
   </identificationInfo>
@@ -93,7 +93,7 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -110,7 +110,7 @@
           </modalityInfo>
           
           <sizeInfo>
-            <size>5601</size>
+            <size>5596</size>
             <sizeUnit>entries</sizeUnit>
             
           </sizeInfo>
