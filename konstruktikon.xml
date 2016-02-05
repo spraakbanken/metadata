@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Konstruktikon</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett svenskt konstruktikon</description>
     <resourceShortName lang="eng">konstruktikon</resourceShortName>
     <resourceShortName lang="swe">konstruktikon</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/3334c3d0-fce2-11e1-a21f-0800200c9a66</identifier>
     <identifier>konstruktikon</identifier>
   </identificationInfo>
@@ -133,7 +133,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -148,7 +148,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>436</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>422</size><sizeUnit>entries</sizeUnit></sizeInfo>
 
           <textFormatInfo>
             <mimeType>other</mimeType>

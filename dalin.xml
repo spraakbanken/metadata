@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Dalin Dictionary</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Dalins ordbok - Ordbok över 1800-talsspråket</description>
     <resourceShortName lang="eng">dalin</resourceShortName>
     <resourceShortName lang="swe">dalin</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/a1ea4121-265b-40a6-abc5-e4938f823cd3</identifier>
     <identifier>dalin</identifier>
   </identificationInfo>
@@ -184,7 +184,7 @@
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
           <sizeInfo>
-            <size>62975</size>
+            <size>62327</size>
             <sizeUnit>entries</sizeUnit>
           </sizeInfo>
           <textFormatInfo>
