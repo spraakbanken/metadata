@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Fiction 1960-1999</resourceName>
@@ -104,11 +104,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo> 
           <sizeInfo>
-            <size>2349681</size>
+            <size>2350123</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>160928</size>
+            <size>157692</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
