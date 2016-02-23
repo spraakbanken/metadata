@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Old Swedish morphology</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Fornsvensk morfologi ur Söderwall och Schlyter</description>
     <resourceShortName lang="eng">fsvm</resourceShortName>
     <resourceShortName lang="swe">fsvm</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/9d83a2ab-16ad-47d8-b779-b75cab33122c</identifier>
     <identifier>fsvm</identifier>
   </identificationInfo>
@@ -106,7 +106,7 @@
   			<bookTitle>LREC 2008 Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)</bookTitle>
   			<pages>9-16</pages>
   			<url>http://gup.ub.gu.se/publication/72502</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -137,7 +137,7 @@
         <linguisticInformation>morpho-Reflexivity</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -145,7 +145,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
@@ -156,7 +156,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>41958</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>83916</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
