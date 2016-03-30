@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Dalin's morphology</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">En morfologi från Dalins ordbok - Ordbok över 1800-talsspråket</description>
     <resourceShortName lang="eng">dalinm</resourceShortName>
     <resourceShortName lang="swe">dalinm</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/133c39e1-a807-4671-8364-44a97b1b6d3f</identifier>
     <identifier>dalinm</identifier>
   </identificationInfo>
@@ -161,7 +161,7 @@
         <linguisticInformation>morpho-Reflexivity</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -180,7 +180,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>112191</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>62327</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>

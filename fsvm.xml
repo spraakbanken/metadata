@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Old Swedish morphology</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Fornsvensk morfologi ur Söderwall och Schlyter</description>
     <resourceShortName lang="eng">fsvm</resourceShortName>
     <resourceShortName lang="swe">fsvm</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/9d83a2ab-16ad-47d8-b779-b75cab33122c</identifier>
     <identifier>fsvm</identifier>
   </identificationInfo>
@@ -137,7 +137,7 @@
         <linguisticInformation>morpho-Reflexivity</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -156,7 +156,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>75494</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>41958</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
