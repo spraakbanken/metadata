@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish words, LEXIN</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Lexikon för invandrare. Andra upplagan</description>
     <resourceShortName lang="eng">lexin</resourceShortName>
     <resourceShortName lang="swe">lexin</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/4fc635e3614b47.55074878</identifier>
     <identifier>lexin</identifier>
   </identificationInfo>
@@ -207,7 +207,7 @@
           </modalityInfo>
           
           <sizeInfo>
-            <size>30684</size>
+            <size>29111</size>
             <sizeUnit>entries</sizeUnit>
             
           </sizeInfo>
