@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Frågelådan</resourceName>
-    <resourceName lang="swe">Frågelådan</resourceName>
+    <resourceName lang="eng">Questions about the Swedish Language</resourceName>
+    <resourceName lang="swe">Besvarade Språkfrågor</resourceName>
     <description lang="eng">Counselling mails of the Language Council of Sweden</description>
     <description lang="swe">Spåkrådets rådgivningsmejl</description>
-    <resourceShortName lang="eng">frageladan</resourceShortName>
-    <resourceShortName lang="swe">frageladan</resourceShortName>
+    <resourceShortName lang="eng">sprakfragor</resourceShortName>
+    <resourceShortName lang="swe">sprakfragor</resourceShortName>
     <metaShareId/>
-    <identifier>frageladan</identifier>
+    <identifier>sprakfragor</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
