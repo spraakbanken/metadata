@@ -11,7 +11,7 @@
     <identifier>ivip</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-unrestrictedUse</availability>
+    <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>

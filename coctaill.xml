@@ -11,7 +11,7 @@
     <identifier>coctaill</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-unrestrictedUse</availability>
+    <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -49,10 +49,10 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Forsberg</surname>
-    <givenName>Markus</givenName>
+    <surname>Elena</surname>
+    <givenName>Volodina</givenName>
     <communicationInfo>
-      <email>sb-info@svenska.gu.se</email>
+      <email>elena.volodina@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
       <organizationName>Språkbanken</organizationName>
