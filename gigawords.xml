@@ -5,10 +5,10 @@
     <resourceName lang="swe">The Swedish Culturomics Gigaword Corpus</resourceName>
     <description lang="eng">One billion Swedish words from 1950 and onwards</description>
     <description lang="swe">En miljard ord ur svenska korpusar från 1950 och framåt.</description>
-    <resourceShortName lang="eng">giga</resourceShortName>
-    <resourceShortName lang="swe">giga</resourceShortName>
+    <resourceShortName lang="eng">gigawords</resourceShortName>
+    <resourceShortName lang="swe">gigawords</resourceShortName>
     <metaShareId />
-    <identifier>giga</identifier>
+    <identifier>gigawords</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,14 +16,14 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>template.xml.bz2</downloadLocation>
+      <downloadLocation>gigawords.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=giga</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=gigawords</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -85,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/giga</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/gigawords</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
