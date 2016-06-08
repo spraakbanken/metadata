@@ -3,8 +3,13 @@
   <identificationInfo>
     <resourceName lang="eng">The Swedish Culturomics Gigaword corpus</resourceName>
     <resourceName lang="swe">The Swedish Culturomics Gigaword Corpus</resourceName>
-    <description lang="eng">One billion Swedish words from 1950 and onwards</description>
-    <description lang="swe">En miljard ord ur svenska korpusar från 1950 och framåt.</description>
+    <description lang="eng">One billion Swedish words from 1950 and onwards.
+      Code to extract data from the corpus, as well as usage instructions,
+      can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</description>
+    <description lang="swe">En miljard ord ur svenska korpusar från 1950 och framåt.
+      Kod för att extrahera data från korpusen, samt
+      användningsinstruktioner, kan laddas ner från
+      https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</description>
     <resourceShortName lang="eng">gigaword</resourceShortName>
     <resourceShortName lang="swe">gigaword</resourceShortName>
     <metaShareId />
