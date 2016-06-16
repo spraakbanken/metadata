@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">InterFra</resourceName>
-    <resourceName lang="swe">InterFra</resourceName>
+    <resourceName lang="eng">InterFra tagged</resourceName>
+    <resourceName lang="swe">InterFra taggad</resourceName>
     <description lang="eng"/>
     <description lang="swe"/>
-    <resourceShortName lang="eng">interfra</resourceShortName>
-    <resourceShortName lang="swe">interfra</resourceShortName>
+    <resourceShortName lang="eng">interfra-tagged</resourceShortName>
+    <resourceShortName lang="swe">interfra-tagged</resourceShortName>
     <metaShareId/>
-    <identifier>interfra</identifier>
+    <identifier>interfra-tagged</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,20 +16,20 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra.xml.bz2</downloadLocation>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra-tagged.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=interfra#corpus=interfra</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/?mode=interfra#corpus=interfra-tagged</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_INTERFRA.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_INTERFRA-TAGGED.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -85,7 +85,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/interfra</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/interfra-tagged</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
