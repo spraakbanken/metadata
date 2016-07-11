@@ -43,26 +43,6 @@
       </organizationInfo>
     </iprHolder>
   </distributionInfo>
-    <resourceDocumentationInfo>
-      <documentation>
-        <documentInfo>
-          <documentType>techReport</documentType>
-          <title>Building a Sentiment Lexicon for Swedish</title>
-          <author>Bianka Nusko</author>
-          <author>Nina Tahmasebi</author>
-          <author>Olof Mogren</author>
-          <year>2016</year>
-          <journal>Linköping Electronic Conference Proceedings</journal>
-          <volume>126:006</volume>
-          <pages>32----37</pages>
-          <url>http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf</url>
-          <documentLanguageName>English</documentLanguageName>
-          <documentLanguageId>eng</documentLanguageId>
-        </documentInfo>
-      </documentation>
-      <toolDocumentationType>manual</toolDocumentationType>
-      <toolDocumentationType>online</toolDocumentationType>
-    </resourceDocumentationInfo>
 
   <contactPerson>
     <surname>Forsberg</surname>
@@ -77,6 +57,7 @@
       </communicationInfo>
     </affiliation>
   </contactPerson>
+
   <metadataInfo>
     <metadataCreationDate>2016-05-26</metadataCreationDate>
     <metadataCreator>
@@ -94,13 +75,31 @@
     </metadataCreator>
     <source>META-NORD</source>
   </metadataInfo>
+
   <validationInfo>
     <validated>true</validated>
     <validationType>formal</validationType>
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
+  
   <resourceDocumentationInfo>
+    <documentation>
+      <documentInfo>
+        <documentType>techReport</documentType>
+        <title>Building a Sentiment Lexicon for Swedish</title>
+        <author>Bianka Nusko</author>
+        <author>Nina Tahmasebi</author>
+        <author>Olof Mogren</author>
+        <year>2016</year>
+        <journal>Linköping Electronic Conference Proceedings</journal>
+        <volume>126:006</volume>
+        <pages>32----37</pages>
+        <url>http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>http://spraakbanken.gu.se/eng/resource/sentimentlex</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
