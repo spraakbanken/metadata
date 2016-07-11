@@ -13,19 +13,19 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
- <!--    <licenceInfo>
+<!--     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml</downloadLocation>
 	  <executionLocation>http://spraakbanken.gu.se/karp/#/?resources=sentimentlex</executionLocation>
-    </licenceInfo>
+    </licenceInfo> -->
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml</downloadLocation>
-    </licenceInfo> -->
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv</downloadLocation>
+    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
@@ -43,6 +43,27 @@
       </organizationInfo>
     </iprHolder>
   </distributionInfo>
+    <resourceDocumentationInfo>
+      <documentation>
+        <documentInfo>
+          <documentType>techReport</documentType>
+          <title>Building a Sentiment Lexicon for Swedish</title>
+          <author>Bianka Nusko</author>
+          <author>Nina Tahmasebi</author>
+          <author>Olof Mogren</author>
+          <year>2016</year>
+          <journal>Linköping Electronic Conference Proceedings</journal>
+          <volume>126:006</volume>
+          <pages>32----37</pages>
+          <url>http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf</url>
+          <documentLanguageName>English</documentLanguageName>
+          <documentLanguageId>eng</documentLanguageId>
+        </documentInfo>
+      </documentation>
+      <toolDocumentationType>manual</toolDocumentationType>
+      <toolDocumentationType>online</toolDocumentationType>
+    </resourceDocumentationInfo>
+
   <contactPerson>
     <surname>Forsberg</surname>
     <givenName>Markus</givenName>
