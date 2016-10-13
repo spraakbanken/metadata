@@ -25,18 +25,6 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
     </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/resurs/wordnet-saldo</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/resource/wordnet-saldo</downloadLocation>
-    </licenceInfo>
     <iprHolder> 
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
@@ -90,6 +78,11 @@
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/wordnet-saldo</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>  
   <usageInfo>
 		<foreseenUseInfo>
 			<foreseenUse>nlpApplications</foreseenUse>
