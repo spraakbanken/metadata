@@ -4,12 +4,9 @@
 		<resourceName lang="eng">Aventinus</resourceName>
 		<resourceName lang="swe">Aventinus</resourceName>
 		<description lang="eng">Drug related terminology</description>
-		<description lang="swe">Narkotikarelaterad terminologi
-		</description>
-		<resourceShortName lang="eng">aventinus
-		</resourceShortName>
-		<resourceShortName lang="swe">aventinus
-		</resourceShortName>
+		<description lang="swe">Narkotikarelaterad terminologi</description>
+		<resourceShortName lang="eng">aventinus</resourceShortName>
+		<resourceShortName lang="swe">aventinus</resourceShortName>
 		<metaShareId />
 		<identifier>hdl:10794/4fc635e2e60d65.40271188</identifier>
 		<identifier>aventinus</identifier>
@@ -20,22 +17,13 @@
 			<licence>CC-BY</licence>
 			<restrictionsOfUse>attribution</restrictionsOfUse>
 			<distributionAccessMedium>other</distributionAccessMedium>
-			<downloadLocation>http://spraakdata.gu.se/av/info.html
-			</downloadLocation>
+			<downloadLocation>http://spraakdata.gu.se/av/info.html</downloadLocation>
 		</licenceInfo>
 		<licenceInfo>
 			<licence>CC-BY</licence>
 			<restrictionsOfUse>attribution</restrictionsOfUse>
 			<distributionAccessMedium>other</distributionAccessMedium>
-			<downloadLocation>http://spraakdata.gu.se/av/info.html
-			</downloadLocation>
-		</licenceInfo>
-		<licenceInfo>
-			<licence>CC-BY</licence>
-			<restrictionsOfUse>attribution</restrictionsOfUse>
-			<distributionAccessMedium>other</distributionAccessMedium>
-			<downloadLocation>http://spraakdata.gu.se/av/index.html
-			</downloadLocation>
+			<downloadLocation>http://spraakdata.gu.se/av/index.html</downloadLocation>
 		</licenceInfo>
 		<iprHolder>
 			<organizationInfo>
