@@ -122,7 +122,7 @@
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
-                <size>3685</size>
+                <size>3663</size>
                 <sizeUnit>sentences</sizeUnit>
               </sizeInfo>
             </sizePerLanguage>
@@ -134,7 +134,7 @@
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
-                <size>45534</size>
+                <size>45369</size>
                 <sizeUnit>tokens</sizeUnit>
               </sizeInfo>
               <sizeInfo>
@@ -144,11 +144,11 @@
             </sizePerLanguage>
           </languageInfo>
           <sizeInfo>
-            <size>91331</size>
+            <size>91166</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>6377</size>
+            <size>6355</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
