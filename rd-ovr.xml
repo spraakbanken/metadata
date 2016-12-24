@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Riksdagens öppna data - övrigt</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Riksdagens öppna data: Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser.</description>
     <resourceShortName lang="eng">rd-ovr</resourceShortName>
     <resourceShortName lang="swe">rd-ovr</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>rd-ovr</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -102,11 +102,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>199317050</size>
+            <size>16070935</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15725901</size>
+            <size>949828</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

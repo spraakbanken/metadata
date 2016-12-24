@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Departementsserien</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Riksdagens öppna data: Utredningar från regeringens departement.</description>
     <resourceShortName lang="eng">rd-ds</resourceShortName>
     <resourceShortName lang="swe">rd-ds</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>rd-ds</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -102,11 +102,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>199317050</size>
+            <size>39439037</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15725901</size>
+            <size>3111642</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
