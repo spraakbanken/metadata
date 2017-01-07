@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Protokoll</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Riksdagens öppna data: Protokoll från kammarens sammanträden.</description>
     <resourceShortName lang="eng">rd-prot</resourceShortName>
     <resourceShortName lang="swe">rd-prot</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>rd-prot</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -102,11 +102,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>199317050</size>
+            <size>214880911</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15725901</size>
+            <size>12892114</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
