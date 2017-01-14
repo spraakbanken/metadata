@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">KOM</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Riksdagens öppna data: EU-kommissionens förslag och redogörelser, så kallade KOM-dokument.</description>
     <resourceShortName lang="eng">rd-kom</resourceShortName>
     <resourceShortName lang="swe">rd-kom</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>rd-kom</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -102,11 +102,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>199317050</size>
+            <size>49674532</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15725901</size>
+            <size>3730768</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
