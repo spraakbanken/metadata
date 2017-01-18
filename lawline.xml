@@ -11,14 +11,7 @@
     <identifier>lawline</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-unrestrictedUse</availability>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/lawline.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the Swedish part of the corpus</attributionText>
-    </licenceInfo>
+    <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
@@ -46,15 +39,15 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Forsberg</surname>
-    <givenName>Markus</givenName>
+    <surname>Rogström</surname>
+    <givenName>Lena</givenName>
     <communicationInfo>
-      <email>sb-info@svenska.gu.se</email>
+      <email>lena.rogstroem@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken</organizationName>
+      <organizationName>Institutionen för svenska språket</organizationName>
       <communicationInfo>
-        <email>sb-info@svenska.gu.se</email>
+        <email>svenska.exp@svenska.gu.se</email>
       </communicationInfo>
     </affiliation>
   </contactPerson>
