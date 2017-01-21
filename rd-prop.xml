@@ -7,7 +7,7 @@
     <description lang="swe">Riksdagens öppna data: Propositioner och skrivelser från regeringen.</description>
     <resourceShortName lang="eng">rd-prop</resourceShortName>
     <resourceShortName lang="swe">rd-prop</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>rd-prop</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -102,11 +102,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>199317050</size>
+            <size>320632924</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>15725901</size>
+            <size>22902783</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
