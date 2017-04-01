@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Läkartidningen medical journal 2000</resourceName>
@@ -120,7 +120,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>2001066</size>
+            <size>2000393</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
