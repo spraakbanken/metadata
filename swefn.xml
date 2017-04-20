@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish FrameNet</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt FrasNät++</description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/6bb59f6c-02b1-4bf7-b985-f1dbf9d5dbfa</identifier>
     <identifier>swefn</identifier>
   </identificationInfo>
@@ -164,7 +164,7 @@
         <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -179,7 +179,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>1194</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>1195</size><sizeUnit>entries</sizeUnit></sizeInfo>
           
           <textFormatInfo>
             <mimeType>other</mimeType>
