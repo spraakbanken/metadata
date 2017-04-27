@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Blingbring</resourceName>
+    <resourceName lang="eng">Blingbring</resourceName>
     <resourceName lang="swe">Blingbring</resourceName>
     <description lang="eng">Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)</description>
     <description lang="swe">Blingbring, en SALDO-länkad och moderniserad version av Brings "Svenskt ordförråd ordnat i begreppsklasser" (1930)</description>
