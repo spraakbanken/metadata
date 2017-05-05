@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Svenskt översättarlexikon</resourceName>
-    <resourceName lang="swe">Svenskt översättarlexikon</resourceName>
-    <description lang="eng">Svenskt översättarlexikon</description>
-    <description lang="swe">Svenskt översättarlexikon</description>
+    <resourceName lang="eng">Svenskt översättarlexikon: contributors</resourceName>
+    <resourceName lang="swe">Svenskt översättarlexikon: medarbetare</resourceName>
+    <description lang="eng">Svenskt översättarlexikon's contributors</description>
+    <description lang="swe">Svenskt översättarlexikons medarbetare</description>
     <resourceShortName lang="eng">sol-contributors</resourceShortName>
     <resourceShortName lang="swe">sol-contributors</resourceShortName>
     <metaShareId/>
