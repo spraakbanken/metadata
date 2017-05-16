@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Diachronic pivot</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Diakronisk pivotresurs</description>
     <resourceShortName lang="eng">diapivot</resourceShortName>
     <resourceShortName lang="swe">diapivot</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/a1eyu121-265b-40a6-qbg5-e4678f823nb8</identifier>
     <identifier>diapivot</identifier>
   </identificationInfo>
@@ -102,7 +102,7 @@
   			<pages>41-61</pages>
   			<url>http://gup.ub.gu.se/publication/144291</url>
   			<ISBN>978-3-642-20226-1</ISBN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -117,7 +117,7 @@
   			<year>2010</year>
   			<bookTitle>Proceedings of LREC 2010</bookTitle>
   			<url>http://gup.ub.gu.se/publication/118907</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -133,7 +133,7 @@
   			<volume>18</volume>
   			<url>http://gup.ub.gu.se/publication/181972</url>
   			<ISSN>1736-6305</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -152,7 +152,7 @@
         <linguisticInformation>translationEquivalent</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -160,7 +160,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
@@ -214,4 +214,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swesaurus</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett svenskt ordnät</description>
     <resourceShortName lang="eng">swesaurus</resourceShortName>
     <resourceShortName lang="swe">swesaurus</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/33672db0-3f57-457d-b7d2-202c23faeb88</identifier>
     <identifier>swesaurus</identifier>
   </identificationInfo>
@@ -105,7 +105,7 @@
   			<year>2010</year>
   			<bookTitle>Re-thinking synonymy: semantic sameness and similarity in languages and their description</bookTitle>
   			<url>http://gup.ub.gu.se/publication/129125</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -124,7 +124,7 @@
         <linguisticInformation>semantics-Relations-Synonyms</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -132,7 +132,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -175,4 +175,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

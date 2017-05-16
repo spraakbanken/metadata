@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Schlyter</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ordbok över svenska medeltidsspråket</description>
     <resourceShortName lang="eng">schlyter</resourceShortName>
     <resourceShortName lang="swe">schlyter</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/b0a9b1ab-3a53-419b-b512-6b6945a849cf</identifier>
     <identifier>schlyter</identifier>
   </identificationInfo>
@@ -112,7 +112,7 @@
   			<year>2010</year>
   			<bookTitle>Proceedings of LREC 2010</bookTitle>
   			<url>http://gup.ub.gu.se/publication/118907</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -130,7 +130,7 @@
   			<pages>28-43</pages>
   			<url>http://gup.ub.gu.se/publication/187063</url>
   			<ISSN>1415-2533</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -174,7 +174,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
@@ -224,4 +224,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

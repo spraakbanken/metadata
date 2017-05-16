@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Parole+</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName lang="eng">parolelexplus</resourceShortName>
     <resourceShortName lang="swe">parolelexplus</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/4fc635e393eb07.19662878</identifier>
     <identifier>parolelexplus</identifier>
   </identificationInfo>
@@ -99,7 +99,7 @@
     <documentation>
         <documentInfo>
             <documentType>other</documentType>
-            <!-- keywords>description</keywords -->
+            
             <title lang="eng">Description</title>
             <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
             <documentLanguageId>swe</documentLanguageId>
@@ -130,7 +130,7 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -138,7 +138,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -184,4 +184,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

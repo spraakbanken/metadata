@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Simple+</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName lang="eng">simpleplus</resourceShortName>
     <resourceShortName lang="swe">simpleplus</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/4rc635e3b0adf2.42322260</identifier>
     <identifier>simpleplus</identifier>
   </identificationInfo>
@@ -124,7 +124,7 @@
   			<year>2007</year>
   			<publisher>Athens: ELRA</publisher>
   			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -134,7 +134,7 @@
   			<documentType>other</documentType>
   			<title>The Swedish SIMPLE Lexicon</title>
   			<url>http://spraakdata.gu.se/simple/swedish.simple.lexicon.html</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -144,7 +144,7 @@
   			<documentType>other</documentType>
   			<title>SIMPLE Semantic Information for Multifunctional Plurilingual LExicons An Overview</title>
   			<url>http://www.ub.edu/gilcub/SIMPLE/reports/simple/Site_simple.htm</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -163,7 +163,7 @@
         <linguisticInformation>semantics-QualiaStructure</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -171,7 +171,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -217,4 +217,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

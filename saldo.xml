@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     
@@ -6,7 +6,7 @@
     <resourceName lang="swe">Saldo</resourceName>
     <description lang="eng">SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language.</description>
     <description lang="swe">SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt lexikon för moderns svenskt skriftspråk för språkteknologi.</description>
-    <metaShareId/>
+    <metaShareId />
     <identifier>saldo</identifier>
     <identifier>hdl:10794/323875a5-d713-4506-a708-bc3ce4bfc016</identifier>
   </identificationInfo>
@@ -152,7 +152,7 @@
 	<linguisticInformation>lemma-Compounds</linguisticInformation>
 	<conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
 	<lexicalConceptualResourceTextInfo>
 	  <mediaType>text</mediaType>
@@ -212,4 +212,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

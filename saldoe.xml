@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SALDO: examples</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Exempelmeningar för SALDO-betydelser</description>
     <resourceShortName lang="eng">saldoe</resourceShortName>
     <resourceShortName lang="swe">saldoe</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/b66b8b62-dd3c-42d6-88ad-ff3ed3544819</identifier>
     <identifier>saldoe</identifier>
   </identificationInfo>
@@ -105,7 +105,7 @@
   			<author>Lennart Lönngren</author>
   			<year>2008</year>
   			<url>http://gup.ub.gu.se/publication/110525</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>Swedish</documentLanguageName>
   			<documentLanguageId>swe</documentLanguageId>
   		</documentInfo>
@@ -124,7 +124,7 @@
         <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -132,7 +132,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -178,4 +178,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

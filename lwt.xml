@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">LWT</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Lånordstypologi</description>
     <resourceShortName lang="eng">lwt</resourceShortName>
     <resourceShortName lang="swe">lwt</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/14fbf8f0-3f9d-4c3e-a021-00667982937a</identifier>
     <identifier>lwt</identifier>
   </identificationInfo>
@@ -109,7 +109,7 @@
   			<pages>28-43</pages>
   			<url>http://gup.ub.gu.se/publication/187063</url>
   			<ISSN>1415-2533</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -128,7 +128,7 @@
         <linguisticInformation>translationEquivalent</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -136,7 +136,7 @@
             <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -186,4 +186,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>

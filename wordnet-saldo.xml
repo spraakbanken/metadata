@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">WordNet-SALDO </resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">En länkning mellan SALDO och Core WordNet</description>
     <resourceShortName lang="eng">wordnet-saldo</resourceShortName>
     <resourceShortName lang="swe">wordnet-saldo</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/4fc635e47910f6.64094218</identifier>
     <identifier>wordnet-saldo</identifier>
   </identificationInfo>
@@ -111,7 +111,7 @@
   			<series>NEALT Proceedings Series</series>
   			<url>http://gup.ub.gu.se/publication/178357</url>
   			<ISSN>1650-3686</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -130,7 +130,7 @@
   			<bookTitle>Proceedings of the 6th International Global Wordnet Conference</bookTitle>
   			<pages>254-260</pages>
   			<url>http://gup.ub.gu.se/publication/155599</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -148,7 +148,7 @@
   			<pages>28-43</pages>
   			<url>http://gup.ub.gu.se/publication/187063</url>
   			<ISSN>1415-2533</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
+  			
   			<documentLanguageName>English</documentLanguageName>
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
@@ -171,7 +171,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -179,12 +179,12 @@
             <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>eng</languageId>
             <languageName>English</languageName>
           </languageInfo>
@@ -233,4 +233,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-05-16</lastUpdated></versionInfo></resourceInfo>
