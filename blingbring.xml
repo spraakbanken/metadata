@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Blingbring</resourceName>
@@ -6,7 +6,7 @@
     <description lang="eng">Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)</description>
     <description lang="swe">Blingbring, en SALDO-länkad och moderniserad version av Brings "Svenskt ordförråd ordnat i begreppsklasser" (1930)</description>
     <resourceShortName>blingbring</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>hdl:10794/54f7733925f165.57598784</identifier>
     <identifier>blingbring</identifier>
   </identificationInfo>
@@ -75,14 +75,7 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-    <relationInfo>
-      <relationType></relationType>
-      <relatedResource>
-        <targetResourceNameURI></targetResourceNameURI>
-      </relatedResource>
-    </relationInfo>
-    -->
+  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -90,7 +83,7 @@
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>lexical semantics</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -98,48 +91,34 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <!-- languageCoding>ISO-639-3</languageCoding -->
+            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                        <sizeInfo>
-                            <size>4242424242</size>
-                            <sizeUnit>bytes</sizeUnit>
-                        </sizeInfo>
-                        -->
+          
           <sizeInfo>
-            <size>126911</size>
+            <size>126910</size>
             <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
+            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                        <characterEncodingInfo>
-                            <characterEncoding>UTF-8</characterEncoding>
-                            <sizePerCharacterEncoding>
-                            <size>23300000</size>
-                            <sizeUnit>bytes</sizeUnit>
-                            
-                            </sizePerCharacterEncoding>
-                        </characterEncodingInfo>
-                        -->
+          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -147,7 +126,7 @@
             <sizePerTimeCoverage>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -155,7 +134,7 @@
             <sizePerGeographicCoverage>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
+              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
