@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Kommuners och städers informationstidningar 2001–2013</resourceName>
@@ -104,11 +104,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>1067028</size>
+            <size>1066262</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>63651</size>
+            <size>63650</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

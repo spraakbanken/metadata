@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Syd-Österbotten 2012</resourceName>
@@ -105,7 +105,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>2179284</size>
+            <size>2177522</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <annotationInfo>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Nya Argus 2010–2011</resourceName>
@@ -105,11 +105,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>229596</size>
+            <size>229452</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>11617</size>
+            <size>11504</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

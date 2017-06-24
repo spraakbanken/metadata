@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Lagtexter 1990–2000</resourceName>
@@ -100,11 +100,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>328325</size>
+            <size>329626</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>26160</size>
+            <size>23466</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
