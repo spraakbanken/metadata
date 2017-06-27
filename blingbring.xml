@@ -17,6 +17,12 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt</downloadLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/blingbring/blingbring.xml</downloadLocation>
+    </licenceInfo>
     <iprHolder>
       <personInfo>
         <surname>Borin</surname>
@@ -141,4 +147,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-06-27</lastUpdated></versionInfo></resourceInfo>
