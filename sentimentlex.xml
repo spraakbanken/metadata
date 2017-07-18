@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Sentiment Lexicon</resourceName>
     <resourceName lang="swe">Sentimentlexikon</resourceName>
-    <description lang="eng"></description>
-    <description lang="swe"></description>
+    <description lang="eng" />
+    <description lang="swe" />
     <resourceShortName lang="eng">sentimentlex</resourceShortName>
     <resourceShortName lang="swe">sentimentlex</resourceShortName>
     <metaShareId />
@@ -12,13 +12,7 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
-<!--     <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml</downloadLocation>
-	  <executionLocation>http://spraakbanken.gu.se/karp/#/?resources=sentimentlex</executionLocation>
-    </licenceInfo> -->
+
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
@@ -170,4 +164,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-</resourceInfo>
+<versionInfo><lastUpdated>2017-07-18</lastUpdated></versionInfo></resourceInfo>
