@@ -148,7 +148,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>440</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>441</size><sizeUnit>entries</sizeUnit></sizeInfo>
 
           <textFormatInfo>
             <mimeType>other</mimeType>
@@ -187,4 +187,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-08-11</lastUpdated></versionInfo></resourceInfo>
+<versionInfo><lastUpdated>2017-08-12</lastUpdated></versionInfo></resourceInfo>
