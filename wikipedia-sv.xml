@@ -2,8 +2,8 @@
 <!-- $Id$ -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish Wikipedia Corpus</resourceName>
-    <resourceName lang="swe">Svenska Wikipedia-korpusen</resourceName>
+    <resourceName lang="eng">Swedish Wikipedia</resourceName>
+    <resourceName lang="swe">Svenska Wikipedia</resourceName>
     <description lang="eng">Corpus of Swedish Wikipedia</description>
     <resourceShortName lang="eng">wikipedia-sv</resourceShortName>
     <resourceShortName lang="swe">wikipedia-sv</resourceShortName>
