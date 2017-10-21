@@ -134,7 +134,7 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>595</size><sizeUnit>entries</sizeUnit></sizeInfo>
+          <sizeInfo><size>594</size><sizeUnit>entries</sizeUnit></sizeInfo>
 
           <textFormatInfo>
             <mimeType>other</mimeType>
@@ -173,4 +173,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-10-20</lastUpdated></versionInfo></resourceInfo>
+<versionInfo><lastUpdated>2017-10-21</lastUpdated></versionInfo></resourceInfo>
