@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Stockholmsposten 1780's</resourceName>
     <resourceName lang="swe">Stockholmsposten 1780-talet</resourceName>
-    <description lang="eng">A corpus with texts from Stockholmsposten in the 1780's</description>
-    <description lang="swe">En korpus med texter från Stockholmsposten på 1780-talet</description>
+    <description lang="eng">A corpus with texts from Stockholmsposten in the 1780's; part of the Kubhist corpus</description>
+    <description lang="swe">En korpus med texter från Stockholmsposten på 1780-talet; del av Kubhist-korpusen</description>
     <resourceShortName lang="eng">kubhist-stockholmsposten-1780</resourceShortName>
     <resourceShortName lang="swe">kubhist-stockholmsposten-1780</resourceShortName>
     <metaShareId/>

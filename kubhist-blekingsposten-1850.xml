@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Blekingsposten 1850's</resourceName>
     <resourceName lang="swe">Blekingsposten 1850-talet</resourceName>
-    <description lang="eng">A corpus with texts from Blekingeposten in the 1850's</description>
-    <description lang="swe">En korpus med texter från Blekingeposten på 1850-talet</description>
+    <description lang="eng">A corpus with texts from Blekingeposten in the 1850's; part of the Kubhist corpus</description>
+    <description lang="swe">En korpus med texter från Blekingeposten på 1850-talet; del av Kubhist-korpusen</description>
     <resourceShortName lang="eng">kubhist-blekingsposten-1850</resourceShortName>
     <resourceShortName lang="swe">kubhist-blekingsposten-1850</resourceShortName>
     <metaShareId/>
