@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Äldre Eddan</resourceName>
-    <resourceName lang="swe">Äldre Eddan</resourceName>
+    <resourceName lang="eng">Sæmundaredda</resourceName>
+    <resourceName lang="swe">Sæmundaredda</resourceName>
     <description lang="eng"/>
     <description lang="swe"/>
     <resourceShortName lang="eng">eddan</resourceShortName>
@@ -99,8 +99,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
+            <languageId>non</languageId>
+            <languageName>Old Norse</languageName>
             
             <languageScript>Latn</languageScript>
           </languageInfo>
