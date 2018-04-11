@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">IVIP</resourceName>
-    <resourceName lang="swe">IVIP</resourceName>
-    <description lang="eng">Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish</description>
-    <description lang="swe">Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska</description>
-    <resourceShortName lang="eng">ivip</resourceShortName>
-    <resourceShortName lang="swe">ivip</resourceShortName>
+    <resourceName lang="eng">ASU</resourceName>
+    <resourceName lang="swe">ASU</resourceName>
+    <description lang="eng"> Structural development of the second language</description>
+    <description lang="swe">Andraspråkets strukturutveckling</description>
+    <resourceShortName lang="eng">asu</resourceShortName>
+    <resourceShortName lang="swe">asu</resourceShortName>
     <metaShareId/>
-    <identifier>ivip</identifier>
+    <identifier>asu</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=ivip</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=asu</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -36,20 +36,20 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Skogmyr Marian</surname>
-    <givenName>Klara</givenName>
+    <surname>Hammarberg</surname>
+    <givenName>Björn</givenName>
     <communicationInfo>
-      <email>klara.skogmyr-marian@su.se</email>
+      <email>ham@ling.su.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Institutionen för svenska och flerspråkighet</organizationName>
+      <organizationName>Institutionen för lingvistik, Stockholms universitet</organizationName>
       <communicationInfo>
-        <email>info.svefler@su.se</email>
+        <email>exp@ling.su.se</email>
       </communicationInfo>
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2016-02-25</metadataCreationDate>
+    <metadataCreationDate>2018-04-11</metadataCreationDate>
     <metadataCreator>
       <surname>Schumacher</surname>
       <givenName>Anne</givenName>
@@ -72,7 +72,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/ivip</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/asu</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -93,11 +93,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>380816</size>
+            <size>643949</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>75741</size>
+            <size>46705</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
