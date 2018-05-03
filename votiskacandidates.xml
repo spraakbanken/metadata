@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Saldo: morphology II</resourceName>
-    <resourceName lang="swe">Saldo: morfologi II</resourceName>
-    <description lang="eng">Experimental morphological resource for Saldo</description>
-    <description lang="swe">Experimentell morfologisk resurs för Saldo</description>
-    <resourceShortName lang="eng">saldomp</resourceShortName>
-    <resourceShortName lang="swe">saldomp</resourceShortName>
+    <resourceName lang="eng">votic</resourceName>
+    <resourceName lang="swe">Votiska</resourceName>
+    <description lang="eng">Morphological lexicon of Votic</description>
+    <description lang="swe">Morfologiskt lexikon för votiska</description>
+    <resourceShortName lang="eng">votiskacandidates</resourceShortName>
+    <resourceShortName lang="swe">votiskacandidates</resourceShortName>
     <metaShareId />
-    <identifier>saldomp</identifier>
+    <identifier>votiskacandidates</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#?mode=external&amp;resources=saldomp</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/karp/#?mode=votiska&amp;resources=votiskacandidates</executionLocation>
     </licenceInfo>
     <versionInfo>
       <version />
@@ -53,7 +53,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2018-05-02</metadataCreationDate>
+    <metadataCreationDate>2018-05-03</metadataCreationDate>
     <metadataCreator>
       <surname>Ahlberg</surname>
       <givenName>Malin</givenName>
@@ -81,7 +81,7 @@
 		</foreseenUseInfo>
 	</usageInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/saldomp</samplesLocation>
+    <samplesLocation>http://spraakbanken.gu.se/eng/resource/votiskacandidates</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
