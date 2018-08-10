@@ -13,10 +13,22 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo.xml.bz2</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=ivip-demo</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_IVIP-DEMO.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
