@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>LWT-PWN</resourceName>
+    <resourceName lang="eng">LWT-PWN</resourceName>
     <resourceName lang="swe">LWT-PWN</resourceName>
-    <description>LWT-PWN is the IDS/LWT concept list linked to Princeton WordNet 3.0 word sense identifiers.</description>
+    <description lang="eng">LWT-PWN is the IDS/LWT concept list linked to Princeton WordNet 3.0 word sense identifiers.</description>
     <description lang="swe">LWT-PWN är IDS/LWT-begreppslistan med länkar till ordbetydelseidentifierare i Princeton WordNet 3.0.</description>
     <resourceShortName>lwt-pwn</resourceShortName>
     <metaShareId/>

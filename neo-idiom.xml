@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName>Idioms from the NEO lexicon DB</resourceName>
+    <resourceName lang="eng">Idioms from the NEO lexicon DB</resourceName>
     <resourceName lang="swe">Idiom ur NEO-databasen</resourceName>
-    <description>Idioms with explanations extracted from the database for the dictionary  Nationalencyklopediens ordbok</description>
+    <description lang="eng">Idioms with explanations extracted from the database for the dictionary  Nationalencyklopediens ordbok</description>
     <description lang="swe">Idiom med beskrivningar och alternativformer extraherade ut databasen för Nationalencyklopediens ordbok</description>
     <resourceShortName>neo-idiom</resourceShortName>
     <metaShareId/>
