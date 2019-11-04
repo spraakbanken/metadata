@@ -24,7 +24,7 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsvm-svm.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the Molise Slavik part of the corpus</attributionText>
+      <attributionText>this file contains a scrambled version of the Molise Slavic part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -38,7 +38,7 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSVM-SVM.txt</downloadLocation>
-      <attributionText>this file contains statistics on the Molise Slavik part of the corpus</attributionText>
+      <attributionText>this file contains statistics on the Molise Slavic part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
@@ -130,7 +130,7 @@
 
           <languageInfo>
             <languageId>svm</languageId>
-            <languageName>Molise Slavik</languageName>
+            <languageName>Molise Slavic</languageName>
             <languageScript>Latn</languageScript>
             <sizePerLanguage>
               <sizeInfo>
