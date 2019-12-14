@@ -108,7 +108,7 @@
           </modalityInfo>
 
           <sizeInfo>
-            <size>1147</size>
+            <size>1149</size>
             <sizeUnit>entries</sizeUnit>
 
           </sizeInfo>
@@ -149,4 +149,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2019-12-13</lastUpdated></versionInfo></resourceInfo>
+<versionInfo><lastUpdated>2019-12-14</lastUpdated></versionInfo></resourceInfo>
