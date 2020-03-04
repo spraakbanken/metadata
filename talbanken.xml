@@ -111,6 +111,10 @@
             <size>96346</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
+          <sizeInfo>
+            <size>6160</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
           <annotationInfo>
             <annotationType>syntacticAnnotation-treebanks</annotationType>
             <annotationFormat>text/xml</annotationFormat>
