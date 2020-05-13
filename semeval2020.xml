@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</resourceName>
-    <description lang="eng">SemEval2020 Task 1, from Kubhist</description>
-    <description lang="swe">SemEval2020 Task 1, utdrag ur Kubhist</description>
+    <resourceName lang="eng">SemEval2020 Task 1, from Kubhist</resourceName>
+    <resourceName lang="swe">SemEval2020 Task 1, utdrag ur Kubhist</resourceName>
+    <description lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
+    <description lang="swe">Svensk testdata för SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
     <resourceShortName lang="eng">semeval2020</resourceShortName>
     <resourceShortName lang="swe">semeval2020</resourceShortName>
     <metaShareId/>
@@ -15,7 +16,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://zenodo.org/record/3730550/files/semeval2020_ulscd_swe.zip?download=1</downloadLocation>
+      <downloadLocation>https://zenodo.org/record/3730550/files/semeval2020_ulscd_swe.zip</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
