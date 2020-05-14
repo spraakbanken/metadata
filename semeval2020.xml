@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SemEval2020 Task 1, from Kubhist</resourceName>
-    <resourceName lang="swe">SemEval2020 Task 1, utdrag ur Kubhist</resourceName>
-    <description lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
-    <description lang="swe">Svensk testdata för SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
+    <resourceName lang="eng">SemEval2020 Task 1</resourceName>
+    <resourceName lang="swe">SemEval2020 Task 1</resourceName>
+    <description lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection (extracts from Kubhist v2)</description>
+    <description lang="swe">Svensk testdata för SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection (utdrag ur Kubhist v2)</description>
     <resourceShortName lang="eng">semeval2020</resourceShortName>
     <resourceShortName lang="swe">semeval2020</resourceShortName>
     <metaShareId/>
