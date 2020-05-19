@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Swedish fraktur 1626-1816</resourceName>
+    <resourceName lang="swe">Svensk fraktur 1626-1816</resourceName>
+    <description lang="eng">A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB).</description>
+    <description lang="swe">Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna på Universitetsbiblioteket vid Göteborgs universitet (UB). </description>
+    <resourceShortName lang="eng">svensk-fraktur-1626-1816</resourceShortName>
+    <resourceShortName lang="swe">svensk-fraktur-1626-1816</resourceShortName>
+    <metaShareId/>
+    <identifier>svensk-fraktur-1626-1816</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten plan 3</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Dannélls</surname>
+    <givenName>Dana</givenName>
+    <communicationInfo>
+      <email>dana.dannells@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2020-05-05</metadataCreationDate>
+    <metadataCreator>
+      <surname>Dannélls</surname>
+      <givenName>Dana</givenName>
+      <communicationInfo>
+        <email>dana.dannells@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/svensk-fraktur-1626-1816</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>            
+            <languageScript></languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>47924</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>Manual transcription</annotationType>
+            <annotationFormat>text</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
