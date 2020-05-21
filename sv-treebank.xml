@@ -13,18 +13,6 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/stb</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/stb</downloadLocation>
-    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Stockholms universitet</organizationName>
@@ -75,7 +63,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sv-treebank</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sv-treebank</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
