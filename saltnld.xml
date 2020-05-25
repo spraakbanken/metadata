@@ -29,25 +29,29 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation/>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt</downloadLocation>
+      <attributionText>this file contains corpus statistics for the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation/>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt</downloadLocation>
+      <attributionText>this file contains corpus statistics for the Dutch part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/korp/?mode=parallel#corpus=saltnld-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">-</organizationName>
-        <organizationName lang="eng">-</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
           <url>http://spraakbanken.gu.se</url>
