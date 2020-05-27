@@ -16,13 +16,7 @@
 		<licenceInfo>
 			<licence>CC-BY</licence>
 			<restrictionsOfUse>attribution</restrictionsOfUse>
-			<distributionAccessMedium>other</distributionAccessMedium>
-			<downloadLocation>http://spraakdata.gu.se/av/info.html</downloadLocation>
-		</licenceInfo>
-		<licenceInfo>
-			<licence>CC-BY</licence>
-			<restrictionsOfUse>attribution</restrictionsOfUse>
-			<distributionAccessMedium>other</distributionAccessMedium>
+			<distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
 			<downloadLocation>http://spraakdata.gu.se/av/index.html</downloadLocation>
 		</licenceInfo>
 		<iprHolder>

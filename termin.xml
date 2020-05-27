@@ -13,24 +13,6 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakdata.gu.se/termin/</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakdata.gu.se/termin/</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakdata.gu.se/termin/</downloadLocation>
-    </licenceInfo>
     <iprHolder> 
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
