@@ -30,15 +30,15 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
+      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=lt2005</executionLocation>
     </licenceInfo>
+    <licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=lt2005</executionLocation>
+      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
     </licenceInfo>
-    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
