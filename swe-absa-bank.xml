@@ -2,7 +2,7 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish ABSAbank</resourceName>
-    <resourceName lang="swe">Svenska ABSAbank</resourceName>
+    <resourceName lang="swe">Svensk ABSAbank</resourceName>
     <description lang="eng">An annotated Swedish corpus for aspect-based sentiment analysis</description>
     <description lang="swe">Svensk annoterad korpus för aspektbaserad attitydanalys</description>
     <resourceShortName lang="eng">swe-absa-bank</resourceShortName>
@@ -27,7 +27,7 @@
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
           <url>http://spraakbanken.gu.se</url>
-          <address>Lennart Torstenssonsgatan 8</address>
+          <address>Humanisten, Renströmsgatan 6</address>
           <zipCode>412 56</zipCode>
           <city>Gothenburg</city>
           <country>Sweden</country>
