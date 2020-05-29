@@ -18,6 +18,12 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/karp/#?mode=skbl</executionLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <executionLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json</executionLocation>
+    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">-</organizationName>
