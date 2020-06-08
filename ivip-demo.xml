@@ -32,27 +32,31 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Institutet för språk och folkminnen</organizationName>
-        <organizationName lang="eng">Institute for Language and Folklore</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
-          <email>registrator@sprakochfolkminnen.se</email>
-          <url>http://www.sprakochfolkminnen.se</url>
-          <city>Uppsala</city>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Grahn</surname>
-    <givenName>Inga-Lill</givenName>
+    <surname>Skogmyr Marian</surname>
+    <givenName>Klara</givenName>
     <communicationInfo>
-      <email>inga-lill.grahn@sprakochfolkminnen.se</email>
+      <email>klara.skogmyr-marian@su.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Institutet för språk och folkminnen</organizationName>
+      <organizationName>Institutionen för svenska och flerspråkighet</organizationName>
       <communicationInfo>
-        <email>registrator@sprakochfolkminnen.se</email>
+        <email>info.svefler@su.se</email>
       </communicationInfo>
     </affiliation>
   </contactPerson>
