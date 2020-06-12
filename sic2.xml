@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">TalbankenSTB</resourceName>
-    <resourceName lang="swe">TalbankenSTB</resourceName>
-    <description lang="eng">Talbanken is a Swedish treebank.</description>
-    <description lang="swe">Talbanken är en svensk trädbank.</description>
-    <resourceShortName lang="eng">talbanken-stb</resourceShortName>
-    <resourceShortName lang="swe">talbanken-stb</resourceShortName>
+    <resourceName lang="eng">SIC2</resourceName>
+    <resourceName lang="swe">SIC2</resourceName>
+    <description lang="eng">The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities.</description>
+    <description lang="swe">The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities.</description>
+    <resourceShortName lang="eng">sic2</resourceShortName>
+    <resourceShortName lang="swe">sic2</resourceShortName>
     <metaShareId/>
-    <identifier>talbanken-stb</identifier>
+    <identifier>sic2</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
@@ -16,38 +16,20 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbabkenSTB.zip</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/downloadable_corpora/sic2/sic2.conllu</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbabkenSTB_README.txt</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbabkenSTB_documentation.zip</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbabkenSTB_datasplit.zip</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbabkenSTB_original_parts.zip</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/downloadable_corpora/sic2/readme.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Lunds universitet</organizationName>
-        <organizationName lang="eng">Lund University</organizationName>
-        <departmentName lang="swe">Språk- och litteraturcentrum</departmentName>
-        <departmentName lang="eng">Centre for Languages and Literature</departmentName>
+        <organizationName lang="swe">Stockholms universitet</organizationName>
+        <organizationName lang="eng">Stockholm University</organizationName>
+        <departmentName lang="swe">Institutionen för lingvistik</departmentName>
+        <departmentName lang="eng">Department of linguistics</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
@@ -68,10 +50,10 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2020-06-10</metadataCreationDate>
+    <metadataCreationDate>2020-06-12</metadataCreationDate>
     <metadataCreator>
-      <surname>Schumacher</surname>
-      <givenName>Anne</givenName>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -91,10 +73,18 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/talbanken-stb</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sic2</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -111,15 +101,15 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>96346</size>
+            <size>14454</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>6160</size>
+            <size>892</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
-            <annotationType>syntacticAnnotation-treebanks</annotationType>
+            <annotationType>semanticAnnotation-namedEntities</annotationType>
             <annotationFormat>text/xml</annotationFormat>
             <annotationMode>manual</annotationMode>
           </annotationInfo>
@@ -133,7 +123,7 @@
           <annotationInfo>
             <annotationType>lemmatization</annotationType>
             <annotationFormat>text/xml</annotationFormat>
-            <annotationMode>automatic</annotationMode>
+            <annotationMode>manual</annotationMode>
           </annotationInfo>
           <annotationInfo>
             <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
