@@ -4,7 +4,7 @@
     <resourceName lang="eng">OpenEDGeS</resourceName>
     <resourceName lang="swe">OpenEDGeS</resourceName>
     <description lang="eng">The public license subset of the EDGeS Diachronic Bible Corpus, a diachronically and synchronically parallel corpus of Bible translations in Dutch,English, German and Swedish, with texts from the 14th century until today.</description>
-    <description lang="swe">En delmängd av korpussen EDGeS Diachronic Bible Corpus, som tillhandahålls under en publik licens. EDGeS är en diakron och synkron parallelkorpus med bibelöversättningar från 1300-talet till nutid.</description>
+    <description lang="swe">En delmängd av korpusen EDGeS Diachronic Bible Corpus, som tillhandahålls under en publik licens. EDGeS är en diakron och synkron parallelkorpus med bibelöversättningar från 1300-talet till nutid.</description>
     <resourceShortName lang="eng">openedges</resourceShortName>
     <resourceShortName lang="swe">openedges</resourceShortName>
     <metaShareId/>
