@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Flair POS models</resourceName>
-    <resourceName lang="swe">Flair ordklass modeller</resourceName>
+    <resourceName lang="eng">POS-tagging model: Flair</resourceName>
+    <resourceName lang="swe">Ordklasstaggningsmodell: Flair</resourceName>
     <description lang="eng">Pretrained models for POS-tagging.</description>
     <description lang="swe">Förtränade modeller för ordklasstaggning.</description>
     <resourceShortName lang="eng">flair</resourceShortName>
@@ -82,6 +82,11 @@
       <resourceType>toolService</resourceType>
       <toolServiceType>other</toolServiceType>
       <languageDependent>yes</languageDependent>
+      <inputInfo>
+        <mediaType>text</mediaType>
+        <languageId>swe</languageId>
+        <languageName>Swedish</languageName>
+      </inputInfo>
     </toolServiceInfo>
   </resourceComponentType>
 </resourceInfo>
