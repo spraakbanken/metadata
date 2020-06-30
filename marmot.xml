@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">POS-tagging model: Marmot</resourceName>
+    <resourceName lang="swe">Ordklasstaggningsmodell: Marmot</resourceName>
+    <description lang="eng">Pretrained models for POS-tagging.</description>
+    <description lang="swe">Förtränade modeller för ordklasstaggning.</description>
+    <resourceShortName lang="eng">marmot</resourceShortName>
+    <resourceShortName lang="swe">marmot</resourceShortName>
+    <metaShareId/>
+    <identifier>marmot</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_eval.marmot</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_full.marmot</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/saldo_marmot.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2020-06-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/marmot</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <toolServiceInfo>
+      <resourceType>toolService</resourceType>
+      <toolServiceType>other</toolServiceType>
+      <languageDependent>yes</languageDependent>
+      <inputInfo>
+        <mediaType>text</mediaType>
+        <languageId>swe</languageId>
+        <languageName>Swedish</languageName>
+      </inputInfo>
+    </toolServiceInfo>
+  </resourceComponentType>
+</resourceInfo>
