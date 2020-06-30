@@ -5,10 +5,10 @@
     <resourceName lang="swe">Förtränade inbäddningar</resourceName>
     <description lang="eng">A list of pretrained embeddings for Swedish</description>
     <description lang="swe">En lista över förtränade inbäddningar för svenska</description>
-    <resourceShortName lang="eng">embeddingslist</resourceShortName>
-    <resourceShortName lang="swe">embeddingslist</resourceShortName>
+    <resourceShortName lang="eng">embeddings</resourceShortName>
+    <resourceShortName lang="swe">embeddings</resourceShortName>
     <metaShareId/>
-    <identifier>embeddingslist</identifier>
+    <identifier>embeddings</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
