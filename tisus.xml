@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="swe">TISUS-texter</resourceName>
     <resourceName lang="eng">TISUS texts</resourceName>
-    <description lang="swe"/>
-    <description lang="eng"/>
+    <description lang="swe">Essays written by L2 Swedish learners as part of a TISUS exam</description>
+    <description lang="eng">Essays written by L2 Swedish learners as part of a TISUS exam</description>
     <resourceShortName lang="swe">tisus</resourceShortName>
     <resourceShortName lang="eng">tisus</resourceShortName>
     <metaShareId/>

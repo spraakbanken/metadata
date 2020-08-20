@@ -5,6 +5,7 @@
     <resourceName lang="eng">Swedish Wikipedia</resourceName>
     <resourceName lang="swe">Svenska Wikipedia</resourceName>
     <description lang="eng">Corpus of Swedish Wikipedia</description>
+    <description lang="swe">Korpus av svenskspråkiga Wikipedia</description>
     <resourceShortName lang="eng">wikipedia-sv</resourceShortName>
     <resourceShortName lang="swe">wikipedia-sv</resourceShortName>
     <metaShareId/>

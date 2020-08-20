@@ -94,7 +94,7 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>fi-SV</languageId>
+            <languageId>sv-FI</languageId>
             <languageName>Finland Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>

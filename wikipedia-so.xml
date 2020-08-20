@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Somali Wikipedia</resourceName>
     <resourceName lang="swe">Somaliska Wikipedia</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Corpus of Somali Wikipedia</description>
+    <description lang="swe">Korpus av somaliska Wikipedia</description>
     <resourceShortName lang="eng">wikipedia-so</resourceShortName>
     <resourceShortName lang="swe">wikipedia-so</resourceShortName>
     <metaShareId/>
