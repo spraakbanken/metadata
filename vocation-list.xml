@@ -4,7 +4,7 @@
     <resourceName lang="eng">Vocation list</resourceName>
     <resourceName lang="swe">Yrkesbeteckningar</resourceName>
     <description lang="eng">A list of vocations in Swedish</description>
-    <description lang="swe">En lista över yrkesbeteckningar på svenska  </description>
+    <description lang="swe">En lista över yrkesbeteckningar på svenska</description>
     <resourceShortName lang="eng">vocation-list</resourceShortName>
     <resourceShortName lang="swe">vocation-list</resourceShortName>
     <metaShareId/>
@@ -37,10 +37,10 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Forsberg</surname>
-    <givenName>Markus</givenName>
+    <surname>Kokkinakis</surname>
+    <givenName>Dimitrios</givenName>
     <communicationInfo>
-      <email>sb-info@svenska.gu.se</email>
+      <email>dimitrios.kokkinakis@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
       <organizationName>Språkbanken</organizationName>

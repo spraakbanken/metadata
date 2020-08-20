@@ -101,8 +101,8 @@
           </lingualityInfo>
           <languageInfo>
             
-            <languageId>swe</languageId>
-            <languageName>Swedish</languageName>
+            <languageId>language-independent</languageId>
+            <languageName>language-independent</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>

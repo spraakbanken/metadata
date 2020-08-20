@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">WordNet-SALDO </resourceName>
-    <resourceName lang="swe">WordNet-SALDO </resourceName>
+    <resourceName lang="eng">WordNet-SALDO</resourceName>
+    <resourceName lang="swe">WordNet-SALDO</resourceName>
     <description lang="eng">A linking between SALDO senses and Core WordNet</description>
     <description lang="swe">En länkning mellan SALDO och Core WordNet</description>
     <resourceShortName lang="eng">wordnet-saldo</resourceShortName>
