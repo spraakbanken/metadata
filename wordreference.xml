@@ -106,7 +106,7 @@
           </languageInfo>
           <sizeInfo>
             <size>170000000</size>
-            <sizeUnit>words</sizeUnit>
+            <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
             <size>97500</size>
