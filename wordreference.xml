@@ -4,7 +4,7 @@
     <resourceName lang="eng">WordReference</resourceName>
     <resourceName lang="swe">WordReference</resourceName>
     <description lang="eng">A large corpus of native and non-native written speech in four languages.</description>
-    <description lang="swe">En stor korpus av .</description>
+    <description lang="swe">En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i fyra språk.</description>
     <resourceShortName lang="eng">wordreference</resourceShortName>
     <resourceShortName lang="swe">wordreference</resourceShortName>
     <metaShareId/>
