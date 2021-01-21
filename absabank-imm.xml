@@ -134,6 +134,10 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
+          <sizeInfo>
+            <size>241000</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
