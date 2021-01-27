@@ -16,6 +16,12 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/readme.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
@@ -59,12 +65,6 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.zip</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
