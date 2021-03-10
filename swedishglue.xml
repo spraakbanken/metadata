@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SwedishGLUE</resourceName>
+    <resourceName lang="swe">SwedishGLUE</resourceName>
+    <description lang="eng">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
+    <description lang="swe">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
+    <resourceShortName lang="eng">embeddings</resourceShortName>
+    <resourceShortName lang="swe">embeddings</resourceShortName>
+    <metaShareId/>
+    <identifier>embeddings</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Berdicevskis</surname>
+    <givenName>Aleksandrs</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2020-06-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/swedishglue</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
