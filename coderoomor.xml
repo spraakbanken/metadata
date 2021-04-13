@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">CoDeRooMor, v.01</resourceName>
+    <resourceName lang="swe">CoDeRooMor, v.01</resourceName>
+    <description lang="eng">Morphological dataset (word-building morphology), Swedish L2 profiles project, </description>
+    <description lang="swe">Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet</description>
+    <resourceShortName lang="eng">coderoomor</resourceShortName>
+    <resourceShortName lang="swe">coderoomor</resourceShortName>
+    <metaShareId />
+    <identifier>coderoomor</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/larkalabb/svlp</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken-Text</departmentName>
+        <departmentName lang="eng">Språkbanken-Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Renströmsgatan 6</address>
+          <zipCode> 412 55</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Volodina</surname>
+    <givenName>Elena</givenName>
+    <communicationInfo>
+      <email>elena.volodina@gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-04-12</metadataCreationDate>
+    <metadataCreator>
+      <surname>Volodina</surname>
+      <givenName>Elena</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <usageInfo>
+    <foreseenUseInfo>
+			<foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+		<foreseenUseInfo>
+			<foreseenUse>humanUse</foreseenUse>
+		</foreseenUseInfo>
+	</usageInfo>
+  <resourceDocumentationInfo>
+  	<documentation>
+  		<documentInfo>
+  			<documentType>article</documentType>
+  			<title>CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish</title>
+  			<author>Elena Volodina</author>
+  			<author>Yousuf Ali Mohammed</author>
+			  <author>Therese Lindström Tiedemann</author>
+  			<year>2021</year>
+  			<publisher>Linköping University Press / ACL</publisher>
+  			<series>Proceedings</series>
+  			<url>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf</url>
+  			<documentLanguageName>English</documentLanguageName>
+  			<documentLanguageId>eng</documentLanguageId>
+  		</documentInfo>
+  	</documentation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/coderoomor</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceCreationInfo>
+  	<creationEndDate>2021-04-12</creationEndDate>
+  </resourceCreationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceEncodingInfo>
+        <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>lemma</linguisticInformation>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>morpho-Gender</linguisticInformation>
+        <linguisticInformation>usage-Frequency</linguisticInformation>
+      </lexicalConceptualResourceEncodingInfo>
+      <creationInfo>
+      	<creationMode>mixed</creationMode>
+      	<creationModeDetails>Created from L2 Swedish course books (COCTAILL corpus) and L2 Swedish essays (SweLL-pilot). Manual annotation of baseforms for derivational morphemes and word formation mechanisms.</creationModeDetails>
+      </creationInfo>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>16230</size>
+            <sizeUnit>words</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>4986</size>
+            <sizeUnit>other</sizeUnit>
+          </sizeInfo>
+          <timeCoverageInfo>
+            <timeCoverage>2010s</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>10510</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>10510</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
+</resourceInfo>
