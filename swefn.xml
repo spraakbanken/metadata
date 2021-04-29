@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish FrameNet</resourceName>
-    <resourceName lang="swe">Svenskt frasnät</resourceName>
-    <description lang="eng">Swedish FrameNet++</description>
-    <description lang="swe">Svenskt FrasNät++</description>
+    <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
+    <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
+      <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. </description>
+    <description lang="swe">En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. </description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
     <metaShareId />
