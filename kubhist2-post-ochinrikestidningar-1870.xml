@@ -13,7 +13,7 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>template.xml.bz2</downloadLocation>
@@ -26,7 +26,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-post-ochinrikestidningar-1870</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST2-POST-OCHINRIKESTIDNINGAR-1870.txt</downloadLocation>

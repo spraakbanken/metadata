@@ -13,7 +13,7 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-postochinrikestidning-1800.xml.bz2</downloadLocation>
@@ -25,7 +25,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-postochinrikestidning-1800</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-POSTOCHINRIKESTIDNING-1800.txt</downloadLocation>

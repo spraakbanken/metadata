@@ -14,7 +14,7 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2002.xml.bz2</downloadLocation>
@@ -27,19 +27,19 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=gp2002</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/swe/resurser/press</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/eng/resurser/press</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GP2002.txt</downloadLocation>

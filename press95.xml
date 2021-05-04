@@ -14,7 +14,7 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/press95.xml.bz2</downloadLocation>
@@ -27,7 +27,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=press95</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS95.txt</downloadLocation>

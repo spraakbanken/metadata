@@ -19,7 +19,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=gdc</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt</downloadLocation>

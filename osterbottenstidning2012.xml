@@ -20,7 +20,7 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=osterbottenstidning2012</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_OSTERBOTTENSTIDNING2012.txt</downloadLocation>
