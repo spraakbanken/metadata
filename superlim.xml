@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SwedishGLUE</resourceName>
-    <resourceName lang="swe">SwedishGLUE</resourceName>
+    <resourceName lang="eng">SuperLim</resourceName>
+    <resourceName lang="swe">SuperLim</resourceName>
     <description lang="eng">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
     <description lang="swe">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
     <resourceShortName lang="eng">embeddings</resourceShortName>
@@ -50,7 +50,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/swedishglue</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/superlim</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
