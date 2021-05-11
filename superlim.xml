@@ -5,10 +5,10 @@
     <resourceName lang="swe">SuperLim</resourceName>
     <description lang="eng">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
     <description lang="swe">A standardized suite for evaluation and analysis of Swedish natural language understanding systems.</description>
-    <resourceShortName lang="eng">embeddings</resourceShortName>
-    <resourceShortName lang="swe">embeddings</resourceShortName>
+    <resourceShortName lang="eng">superlim</resourceShortName>
+    <resourceShortName lang="swe">superlim</resourceShortName>
     <metaShareId/>
-    <identifier>embeddings</identifier>
+    <identifier>superlim</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
