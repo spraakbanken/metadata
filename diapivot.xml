@@ -14,19 +14,22 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/diapivot/diapivot.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=diapivot</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/resource/diapivot</downloadLocation>
