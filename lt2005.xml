@@ -14,7 +14,8 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/lt2005.xml.bz2</downloadLocation>
@@ -33,7 +34,8 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
     </licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LT2005.txt</downloadLocation>

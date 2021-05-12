@@ -19,7 +19,8 @@
       <executionLocation>http://spraakbanken.gu.se/korp/#corpus=sydosterbotten2010</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SYDOSTERBOTTEN2010.txt</downloadLocation>

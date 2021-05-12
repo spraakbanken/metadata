@@ -13,7 +13,8 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY-NC 4.0</licence>
+      <licence>CC-BY-NC</licence>
+	  <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
 	  <restrictionsOfUse>academic-nonCommercialUse</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
