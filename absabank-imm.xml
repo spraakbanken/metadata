@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish ABSAbank-Imm</resourceName>
-    <resourceName lang="swe">Svensk ABSAbank-Imm</resourceName>
+    <resourceName lang="eng">Swedish ABSAbank-Imm 1.0</resourceName>
+    <resourceName lang="swe">Svensk ABSAbank-Imm 1.0</resourceName>
     <description lang="eng">An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)</description>
     <description lang="swe">Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)</description>
     <resourceShortName lang="eng">absabank-imm</resourceShortName>
@@ -36,6 +36,13 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip</downloadLocation>
+    </licenceInfo>
+
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/documents.zip</downloadLocation>
