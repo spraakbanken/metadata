@@ -1,0 +1,106 @@
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SweParaphrase</resourceName>
+    <resourceName lang="swe">SveParafras</resourceName>
+    <description lang="eng">A subset of the Semantic Textual Similarity 2012-2017 reference data 
+(STS Benchmark).  </description>
+    <description lang="swe">En delmängd av referensdatan för semantisk textjämförelse 2012-2017 (STS Benchmark). </description>
+    <resourceShortName lang="eng">sweparaphrase</resourceShortName>
+    <resourceShortName lang="swe">sweparaphrase</resourceShortName>
+    <metaShareId/>
+    <identifier>sweparaphrase</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/sweparaphrase.zip<licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten plan 3</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Dannélls</surname>
+    <givenName>Dana</givenName>
+    <communicationInfo>
+      <email>dana.dannells@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-05-17</metadataCreationDate>
+    <metadataCreator>
+      <surname>Dannélls</surname>
+      <givenName>Dana</givenName>
+      <communicationInfo>
+        <email>dana.dannells@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sweparaphrase</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>            
+            <languageScript></languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>165</size>
+            <sizeUnit>sentence pairs</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>Sentence-level semantic similarity</annotationType>
+            <annotationFormat>sentence</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
