@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish FAQ (mismatched)</resourceName>
-    <resourceName lang="swe">Vanliga frågor (randomiserad)</resourceName>
+    <resourceName lang="eng">Swedish FAQ (mismatched) 1.0</resourceName>
+    <resourceName lang="swe">Vanliga frågor (randomiserad) 1.0</resourceName>
     <description lang="eng">Frequently asked questions from Swedish authorities' websites with shuffled answers</description>
     <description lang="swe">Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning</description>
     <resourceShortName lang="eng">faq</resourceShortName>
