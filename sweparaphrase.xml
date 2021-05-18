@@ -93,7 +93,7 @@
           </languageInfo>
           <sizeInfo>
             <size>165</size>
-            <sizeUnit>sentence pairs</sizeUnit>
+            <sizeUnit>Sentence pairs</sizeUnit>
           </sizeInfo>
           <annotationInfo>
             <annotationType>Sentence-level semantic similarity</annotationType>
