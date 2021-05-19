@@ -18,6 +18,13 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv</downloadLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_card.tsv</downloadLocation>
+    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
