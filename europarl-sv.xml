@@ -14,14 +14,12 @@
     <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt</downloadLocation>

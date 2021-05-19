@@ -14,7 +14,6 @@
     <availability>available-restrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-sv.xml.bz2</downloadLocation>
@@ -22,7 +21,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-nl.xml.bz2</downloadLocation>
@@ -30,7 +28,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-SV.txt</downloadLocation>
@@ -38,7 +35,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-NL.txt</downloadLocation>

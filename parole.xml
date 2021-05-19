@@ -15,7 +15,6 @@
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2</downloadLocation>
@@ -23,7 +22,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/pub/reskit/parole.zip</downloadLocation>
@@ -36,7 +34,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt</downloadLocation>

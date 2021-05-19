@@ -27,7 +27,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC3.txt</downloadLocation>
@@ -35,7 +34,6 @@
 	<!--
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/parole/</downloadLocation>

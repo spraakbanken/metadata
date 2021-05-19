@@ -15,7 +15,6 @@
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/lasbart.xml.bz2</downloadLocation>
@@ -29,7 +28,6 @@
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
-      <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LASBART.txt</downloadLocation>
