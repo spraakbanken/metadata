@@ -3,7 +3,7 @@
   <identificationInfo>
     <resourceName lang="eng">SuperSim (repackaged for Superlim)</resourceName>
     <resourceName lang="swe">SuperSim (paketterat för Superlim)</resourceName>
-    <description lang="eng">A test set for word similarity and relatedness in Swedish"</description>
+    <description lang="eng">A test set for word similarity and relatedness in Swedish</description>
     <description lang="swe">En test mängd för betydelsemässig likhet och koppling mellan svenska ord.</description>
     <resourceShortName lang="eng">supersim_superlim</resourceShortName>
     <resourceShortName lang="swe">supersim_superlim</resourceShortName>
@@ -17,7 +17,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://demo.spraakdata.gu.se/gerlof/SuperSim/supersim_superlim.zip</downloadLocation>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim_superlim.zip</downloadLocation>
       <attributionText></attributionText>
     </licenceInfo>
     <iprHolder>
