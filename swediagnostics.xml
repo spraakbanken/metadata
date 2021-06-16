@@ -1,13 +1,13 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
 <identificationInfo>
-<resourceName lang="eng">Swedish GLUE Diagnostic Dataset</resourceName>
-<resourceName lang="swe">SuperLim diagnostic</resourceName>
+<resourceName lang="eng">SweDiagnostics</resourceName>
+<resourceName lang="swe">SweDiagnostics</resourceName>
 <description lang="eng">Swedish version (Super)GLUE Diagnostic </description>
 <description lang="swe">Svenska versionen av (Super)GLUE diagnostik</description>
-<resourceShortName lang="eng">superlim-diagnostic</resourceShortName>
-<resourceShortName lang="swe">superlim-diagnostik</resourceShortName>
+<resourceShortName lang="eng">swediagnostics</resourceShortName>
+<resourceShortName lang="swe">swediagnostics</resourceShortName>
 <metaShareId/>
-<identifier>superlim-diagnostic</identifier>
+<identifier>swediagnostics</identifier>
 </identificationInfo>
 <distributionInfo>
 <availability>available-unrestrictedUse</availability>
@@ -16,7 +16,7 @@
 <version>1.0</version>
 <restrictionsOfUse>attribution</restrictionsOfUse>
 <distributionAccessMedium>downloadable</distributionAccessMedium>
-<downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/superlim-diagnostic/superlim-diagnostic-v1.0.csv</downloadLocation>
+<downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv</downloadLocation>
 </licenceInfo>
 <iprHolder>
 <organizationInfo>
@@ -72,7 +72,7 @@
 <validationExtent>full</validationExtent>
 </validationInfo>
 <resourceDocumentationInfo>
-<samplesLocation>http://spraakbanken.gu.se/eng/resource/superlim-diagnostic</samplesLocation>
+<samplesLocation>http://spraakbanken.gu.se/eng/resource/swediagnostics</samplesLocation>
 <toolDocumentationType>manual</toolDocumentationType>
 <toolDocumentationType>online</toolDocumentationType>
 </resourceDocumentationInfo>
