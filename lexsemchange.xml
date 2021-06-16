@@ -3,7 +3,7 @@
   <identificationInfo>
     <resourceName lang="eng">SemEval 2020 Task 1 (repackaged for SuperLim)</resourceName>
     <resourceName lang="swe">SemEval 2020 Task 1 (repackaged for SuperLim)</resourceName>
-    <description lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</desc	ription>
+    <description lang="eng">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
     <description lang="swe">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</description>
     <resourceShortName lang="eng">lexsemchange</resourceShortName>
     <resourceShortName lang="swe">lexsemchange</resourceShortName>
