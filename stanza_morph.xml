@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">POS-tagging model: model: Stanza</resourceName>
+    <resourceName lang="eng">POS-tagging model: Stanza</resourceName>
     <resourceName lang="swe">Ordklasstaggningsmodell: Stanza</resourceName>
     <description lang="eng">Pretrained models for POS-tagging.</description>
     <description lang="swe">Förtränade modeller för ordklasstaggning.</description>
