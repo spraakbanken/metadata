@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish Scholastic Aptitude Test word comprehension</resourceName>
-    <resourceName lang="swe">Högskoleprovet ordförståelse</resourceName>
-    <description lang="eng">Swedish Scholastic Aptitude Test word comprehension</description>
+    <resourceName lang="eng">SweSAT Swedish Scholastic Aptitude Test Synonyms</resourceName>
+    <resourceName lang="swe">SweSAT Högskoleprovet ordförståelse</resourceName>
+    <description lang="eng">Swedish Scholastic Aptitude Test Synonyms</description>
     <description lang="swe">Högskoleprovet ordförståelse</description>
-    <resourceShortName lang="eng">swesatword</resourceShortName>
-    <resourceShortName lang="swe">hogskoleprovet-ord</resourceShortName>
+    <resourceShortName lang="eng">swesatsynonyms</resourceShortName>
+    <resourceShortName lang="swe">swesatsynonymer</resourceShortName>
     <metaShareId />
-    <identifier>hogskoleprovet-ord</identifier>
+    <identifier>swesat-synonyms</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,7 +16,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/hogskoleprovet/hogskoleprovet-ord.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
