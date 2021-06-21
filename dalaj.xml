@@ -16,7 +16,13 @@
       <version>4.0</version>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/datasetDaLAJsplit.csv</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv</downloadLocation>
+    </licenceInfo>
+     <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
