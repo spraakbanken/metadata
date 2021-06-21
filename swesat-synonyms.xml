@@ -18,6 +18,12 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt</downloadLocation>
     </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms_documentation_sheet.tsv</downloadLocation>
+    </licenceInfo>
     <iprHolder> 
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
