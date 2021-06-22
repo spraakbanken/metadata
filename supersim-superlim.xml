@@ -20,6 +20,13 @@
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip</downloadLocation>
       <attributionText></attributionText>
     </licenceInfo>
+	<licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt</downloadLocation>
+      <attributionText></attributionText>
+    </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

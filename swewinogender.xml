@@ -18,7 +18,12 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender.zip</downloadLocation>
-      <attributionText></attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender_documentation_sheet.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
