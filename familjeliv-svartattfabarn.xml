@@ -8,7 +8,7 @@
     <description lang="swe">Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.</description>
     <resourceShortName lang="eng">familjeliv-svartattfabarn</resourceShortName>
     <resourceShortName lang="swe">familjeliv-svartattfabarn</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>familjeliv-svartattfabarn</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>172063432</size>
+            <size>171460984</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>11680002</size>
+            <size>11636994</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

@@ -8,7 +8,7 @@
     <description lang="swe">Del av samlingen Kubhist2</description>
     <resourceShortName lang="eng">kubhist2-dalpilen-1850</resourceShortName>
     <resourceShortName lang="swe">kubhist2-dalpilen-1850</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>kubhist2-dalpilen-1850</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -86,11 +86,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>3993997</size>
+            <size>3992776</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>231948</size>
+            <size>228438</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

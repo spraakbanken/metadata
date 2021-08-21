@@ -8,7 +8,7 @@
     <description lang="swe">Del av samlingen Kubhist2</description>
     <resourceShortName lang="eng">kubhist2-dagligtallehanda-1770</resourceShortName>
     <resourceShortName lang="swe">kubhist2-dagligtallehanda-1770</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>kubhist2-dagligtallehanda-1770</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -86,11 +86,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>12157387</size>
+            <size>12144859</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>669665</size>
+            <size>656225</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

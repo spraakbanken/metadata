@@ -8,7 +8,7 @@
     <description lang="swe">Del av samlingen Kubhist2</description>
     <resourceShortName lang="eng">kubhist2-borastidning-1830</resourceShortName>
     <resourceShortName lang="swe">kubhist2-borastidning-1830</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>kubhist2-borastidning-1830</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -86,11 +86,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>198689</size>
+            <size>198713</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>11233</size>
+            <size>11145</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
