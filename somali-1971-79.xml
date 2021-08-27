@@ -4,11 +4,11 @@
   <identificationInfo>
     <resourceName lang="eng">Af Soomaali 1971-79</resourceName>
     <resourceName lang="swe">Af Soomaali 1971-79</resourceName>
-    <description lang="eng" />
-    <description lang="swe" />
+    <description lang="eng"/>
+    <description lang="swe"/>
     <resourceShortName lang="eng">somali-1971-79</resourceShortName>
     <resourceShortName lang="swe">somali-1971-79</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>somali-1971-79</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -87,7 +87,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>50794</size>
+            <size>50795</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
