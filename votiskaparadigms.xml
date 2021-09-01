@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">votic</resourceName>
-    <resourceName lang="swe">Votiska</resourceName>
+    <resourceName lang="eng">Votic (paradigms)</resourceName>
+    <resourceName lang="swe">Votiska (paradigm)</resourceName>
     <description lang="eng">Morphological lexicon of Votic</description>
     <description lang="swe">Morfologiskt lexikon för votiska</description>
     <resourceShortName lang="eng">votiskaparadigms</resourceShortName>
