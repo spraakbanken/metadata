@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Eukalyptus Treebank of Written Swedish (the beta releases)</resourceName>
-    <resourceName lang="swe">Eukalyptus skriven svenska (betaversionerna)</resourceName>
+    <resourceName lang="eng">Eukalyptus Treebank of Written Swedish</resourceName>
+    <resourceName lang="swe">Eukalyptus skriven svenska</resourceName>
     <description lang="eng">A treebank with written Swedish data, with parts-of-speech, TIGER-style syntax, multiword expressions and sense annotation</description>
     <description lang="swe">En trädbank som innnehåller skriven svenska, uppmärkt med ordklasser, syntax i stil med TIGER-trädbanken, flerordsenheter och ordbetydelser</description>
     <resourceShortName lang="eng">eukalyptus</resourceShortName>
@@ -12,6 +12,13 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
+     <licenceInfo>
+      <licence>CC-BY-SA</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+          <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus/</downloadLocation>
+    </licenceInfo>
     <licenceInfo>
       <licence lang="eng">Mixed</licence>
       <licence lang="swe">Blandat</licence>
