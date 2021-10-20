@@ -4,7 +4,7 @@
     <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
     <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
       <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. </description>
-    <description lang="swe">En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. </description>
+    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. </description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
     <metaShareId />
@@ -218,4 +218,4 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2020-05-19</lastUpdated></versionInfo></resourceInfo>
+<versionInfo><lastUpdated>2021-10-20</lastUpdated></versionInfo></resourceInfo>
