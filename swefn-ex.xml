@@ -4,7 +4,7 @@
         <resourceName lang="eng">Swedish framenet (SweFN)</resourceName>
         <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
 	 <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the corpus examples, automatically enriched with linguistic information. </description>
-    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade med språklig information. </description>
+    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller korpusexemplen, automatiskt annoterade med språklig information. </description>
         <resourceShortName lang="eng">swefn-ex</resourceShortName>
         <resourceShortName lang="swe">swefn-ex</resourceShortName>
         <metaShareId/>
