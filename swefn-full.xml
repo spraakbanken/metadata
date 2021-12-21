@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
+    <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
+      <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. It is the complete resource containing both the semantic and the syntactic content. </description>
+    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna resurs är fullständig i den bemärkelse att den innehåller både det semantiska och det syntaktiska innehållet. </description>
+    <resourceShortName lang="eng">swefn-full</resourceShortName>
+    <resourceShortName lang="swe">swefn-full</resourceShortName>
+    <metaShareId />
+    <identifier></identifier>
+    <identifier>swefn-full</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+       <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.xml.bz2</downloadLocation>
+    </licenceInfo>
+    <iprHolder> 
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten plan 3</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Dannélls</surname>
+    <givenName>Dana</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-12-21</metadataCreationDate>
+    <metadataCreator>
+      <surname>Dannélls</surname>
+      <givenName>Dana</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/swefn-full</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>lexicon</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>            
+            <languageScript></languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>1195</size>
+            <sizeUnit>Semantic frames</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>Frame semantics</annotationType>
+            <annotationFormat>sentence</annotationFormat>
+            <annotationMode>manual and automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
