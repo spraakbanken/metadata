@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=litterartidskrift-helsingfors</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=litterartidskrift-helsingfors</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -71,7 +71,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/litterartidskrift-helsingfors</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/litterartidskrift-helsingfors</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

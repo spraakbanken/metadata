@@ -16,13 +16,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-yngretankebocker.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-yngretankebocker.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=old_swedish#corpus=fsv-yngretankebocker</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=old_swedish#corpus=fsv-yngretankebocker</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

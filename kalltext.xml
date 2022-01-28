@@ -17,13 +17,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/ktext/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/ktext/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/konk/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/konk/</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -77,7 +77,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/kalltext</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/kalltext</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

@@ -114,7 +114,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/en/resources/imm_absabank</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/absabank-imm</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

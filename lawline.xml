@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=lawline</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=lawline</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -75,7 +75,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/lawline</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/lawline</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

@@ -16,14 +16,14 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-tfwbsol-1890.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-tfwbsol-1890.xml.bz2</downloadLocation>
 
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-tfwbsol-1890</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-tfwbsol-1890</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -83,7 +83,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/kubhist2-tfwbsol-1890</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/kubhist2-tfwbsol-1890</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

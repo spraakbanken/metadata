@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=all_hist#corpus=fragelistor</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=fragelistor</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -76,7 +76,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/fragelistor</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/fragelistor</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

@@ -16,14 +16,14 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix2015.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix2015.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=bloggmix2015</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=bloggmix2015</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -83,7 +83,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/bloggmix2015</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/bloggmix2015</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

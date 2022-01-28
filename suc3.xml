@@ -16,14 +16,14 @@
       <licence>other</licence>
       <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=suc3</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=suc3</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -36,7 +36,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/parole/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/parole/</downloadLocation>
     </licenceInfo
 	-->
     <iprHolder>
@@ -89,7 +89,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/suc3</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/suc3</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

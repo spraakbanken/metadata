@@ -17,13 +17,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/talbanken.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/talbanken.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/#corpus=talbanken</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=talbanken</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

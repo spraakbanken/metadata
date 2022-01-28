@@ -17,26 +17,26 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/pe77.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/pe77.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/konk/rom2/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/konk/rom2/Info.PE77.html</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/konk/rom2/Info.PE77.html</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/korp/?mode=spanish#corpus=pe77</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=spanish#corpus=pe77</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -87,7 +87,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/pe77</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/pe77</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
