@@ -21,7 +21,7 @@
       
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml</downloadLocation>
       
-      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=saldo</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#lexicon=saldo</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -133,7 +133,7 @@
   			<documentLanguageId>swe</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/saldo/</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/eng/saldo/</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

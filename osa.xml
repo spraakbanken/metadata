@@ -105,7 +105,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/osa</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/osa</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

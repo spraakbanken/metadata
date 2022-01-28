@@ -23,19 +23,19 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#/?resources=konstruktikon</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#/?resources=konstruktikon</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/resurs/konstruktikon</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/swe/resurs/konstruktikon</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/resource/konstruktikon</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/en/resources/konstruktikon</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -112,7 +112,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/konstruktikon</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/konstruktikon</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

@@ -23,13 +23,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=dalin-base</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#lexicon=dalin-base</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/dalin-base/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/dalin-base/</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
@@ -123,7 +123,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/dalin-base</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/dalin-base</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

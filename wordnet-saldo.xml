@@ -79,7 +79,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/wordnet-saldo</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/wordnet-saldo</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>  
@@ -153,7 +153,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/wordnet-saldo</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/wordnet-saldo</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

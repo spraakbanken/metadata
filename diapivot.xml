@@ -23,13 +23,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=diapivot</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#lexicon=diapivot</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/resource/diapivot</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/resource/diapivot</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
@@ -138,7 +138,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/diapivot</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/diapivot</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

@@ -17,13 +17,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/sporting/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/sporting/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/sporting/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/sporting/</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
@@ -79,7 +79,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/sporting</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sporting</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

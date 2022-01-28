@@ -23,19 +23,19 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/swefn</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/swe/swefn</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/swefn</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
@@ -114,7 +114,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/lwt</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/lwt</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>

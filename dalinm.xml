@@ -23,19 +23,19 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://spraakbanken.gu.se/karp/#lexicon=daninm</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#lexicon=daninm</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/swe/forskning/swefn/dalin</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/swe/forskning/swefn/dalin</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://spraakbanken.gu.se/eng/research/swefn/dalin</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/eng/research/swefn/dalin</downloadLocation>
     </licenceInfo>
     <iprHolder> 
       <organizationInfo>
@@ -129,7 +129,7 @@
   			<documentLanguageId>eng</documentLanguageId>
   		</documentInfo>
   	</documentation>
-    <samplesLocation>http://spraakbanken.gu.se/eng/resource/dalin</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/dalin</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
