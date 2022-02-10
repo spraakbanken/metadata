@@ -8,7 +8,7 @@
     <description lang="swe">Material från diskussionsforumet Flashback. Uppdateras regelbundet.</description>
     <resourceShortName lang="eng">flashback-vetenskap</resourceShortName>
     <resourceShortName lang="swe">flashback-vetenskap</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>flashback-vetenskap</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>469318989</size>
+            <size>342190416</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>29603406</size>
+            <size>21287635</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
