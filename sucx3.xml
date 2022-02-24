@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">SUC 2.0</resourceName>
-    <resourceName lang="eng">SUC 2.0</resourceName>
-    <description lang="swe">Stockholm-Umeå-korpus 2.0</description>
-    <description lang="eng">Stockholm-Umeå corpus 2.0</description>
-    <resourceShortName lang="swe">suc2</resourceShortName>
-    <resourceShortName lang="eng">suc2</resourceShortName>
+    <resourceName lang="swe">SUCX 3.0</resourceName>
+    <resourceName lang="eng">SUCX 3.0</resourceName>
+    <description lang="swe">Stockholm-Umeå-korpus 3.0 omkastad</description>
+    <description lang="eng">Stockholm-Umeå corpus 3.0 scrambled</description>
+    <resourceShortName lang="swe">sucx3</resourceShortName>
+    <resourceShortName lang="eng">sucx3</resourceShortName>
     <metaShareId/>
-    <identifier>hdl:10794/4fc6350a8dbd40.07869138</identifier>
-    <identifier>suc2</identifier>
+    <identifier>sucx3</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>available-restrictedUse</availability>
+    <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <licence>CC-BY-SA</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=suc3</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY-SA</licence>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC3.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -69,7 +81,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <documentation>https://spraakbanken.gu.se/en/resources/suc2</documentation>
+    <documentation>https://spraakbanken.gu.se/en/resources/sucx3</documentation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
@@ -93,7 +105,7 @@
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>74243</size>
+            <size>74245</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>

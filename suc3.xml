@@ -13,32 +13,11 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=suc3</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC3.txt</downloadLocation>
     </licenceInfo>
-	<!--
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/parole/</downloadLocation>
-    </licenceInfo
-	-->
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Stockholms universitet</organizationName>
@@ -47,7 +26,7 @@
         <departmentName lang="eng">Department of Linguistics</departmentName>
         <communicationInfo>
           <email>exp@ling.su.se</email>
-          <url>http://www.ling.su.se/</url>
+          <url>https://www.su.se/institutionen-for-lingvistik/</url>
         </communicationInfo>
       </organizationInfo>
     </iprHolder>
@@ -89,18 +68,10 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/suc3</samplesLocation>
+    <documentation>https://spraakbanken.gu.se/en/resources/suc3</documentation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
