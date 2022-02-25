@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">DReaM-Copyright-Protected</resourceName>
     <resourceName lang="swe">DReaM-Copyright-Protected</resourceName>
-    <description lang="eng">A multilingual corpus of linguistic descriptions of the world's natural languages </description>
-    <description lang="swe">A multilingual corpus of linguistic descriptions of the world's natural languages </description>
+    <description lang="eng">A multilingual corpus of linguistic descriptions of the world's natural languages.</description>
+    <description lang="swe">En flerspråkig korpus av språkliga beskrivningar av världens naturliga språk.</description>
     <resourceShortName lang="eng">dream-cr</resourceShortName>
     <resourceShortName lang="swe">dream-cr</resourceShortName>
     <metaShareId/>
@@ -12,30 +12,18 @@
     <identifier>dream</identifier>
   </identificationInfo>
   <distributionInfo>
-    <availability>rictedUse</availability>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>Contact </distributionAccessMedium>
-      <downloadLocation></downloadLocation>
-      <attributionText>Contact Harald Hammarström (harald.hammarstrom@gmail.com) for a download version</attributionText>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=dream</executionLocation>
-    </licenceInfo>
-    
+    <availability>notAvailableThroughMetaShare</availability>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
         <organizationName lang="eng">University of Gothenburg</organizationName>
-        <departmentName lang="swe">Språkbanken</departmentName>
-        <departmentName lang="eng">Språkbanken</departmentName>
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Språkbanken Text</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
-          <url>http://spraakbanken.gu.se</url>
+          <url>https://spraakbanken.gu.se/</url>
+          <address>Renströmsgatan 6</address>
+          <zipCode>412 56</zipCode>
           <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
@@ -49,7 +37,7 @@
       <email>sb-info@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken</organizationName>
+      <organizationName>Språkbanken Text</organizationName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -64,7 +52,7 @@
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
       <affiliation>
-        <organizationName>Språkbanken</organizationName>
+        <organizationName>Språkbanken Text</organizationName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
@@ -79,18 +67,10 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/attasidor</samplesLocation>
+    <documentation>https://spraakbanken.gu.se/en/resources/dream-copyright-protected</documentation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-  <relationInfo>
-    <relationType></relationType>
-    <relatedResource>
-      <targetResourceNameURI></targetResourceNameURI>
-    </relatedResource>
-  </relationInfo>
-  -->
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
