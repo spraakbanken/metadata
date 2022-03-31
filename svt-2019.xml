@@ -8,7 +8,7 @@
     <description lang="swe">Nyhetstexter från svt.se</description>
     <resourceShortName lang="eng">svt-2019</resourceShortName>
     <resourceShortName lang="swe">svt-2019</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>svt-2019</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -87,7 +87,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>18274785</size>
+            <size>18251464</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>

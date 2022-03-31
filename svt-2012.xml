@@ -8,7 +8,7 @@
     <description lang="swe">Nyhetstexter från svt.se</description>
     <resourceShortName lang="eng">svt-2012</resourceShortName>
     <resourceShortName lang="swe">svt-2012</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>svt-2012</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -87,7 +87,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>9544671</size>
+            <size>9542585</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
