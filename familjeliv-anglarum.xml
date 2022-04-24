@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2021-07-11</metadataCreationDate>
+    <metadataCreationDate>2022-04-24</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/familjeliv-anglarum</samplesLocation>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>21839544</size>
+            <size>21841552</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>1318470</size>
+            <size>1342052</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
