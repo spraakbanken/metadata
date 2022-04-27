@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2021-07-08</metadataCreationDate>
+    <metadataCreationDate>2022-04-27</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/familjeliv-allmanna-kropp</samplesLocation>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>138538421</size>
+            <size>138827137</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>9282618</size>
+            <size>9430719</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
