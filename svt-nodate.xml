@@ -8,7 +8,7 @@
     <description lang="swe">Nyhetstexter från svt.se</description>
     <resourceShortName lang="eng">svt-nodate</resourceShortName>
     <resourceShortName lang="swe">svt-nodate</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>svt-nodate</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-03-14</metadataCreationDate>
+    <metadataCreationDate>2022-04-28</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/svt-nodate</samplesLocation>
@@ -87,7 +87,7 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>31862</size>
+            <size>31866</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
