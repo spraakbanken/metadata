@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2021-09-11</metadataCreationDate>
+    <metadataCreationDate>2022-04-29</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/familjeliv-kansliga</samplesLocation>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>954948083</size>
+            <size>967156213</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>57725465</size>
+            <size>58851699</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
