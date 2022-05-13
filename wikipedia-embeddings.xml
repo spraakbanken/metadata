@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Word Embeddings trained on English Wikipedia</resourceName>
+    <resourceName lang="swe">Engelska inbäddningar (word embeddings)</resourceName>
+    <description lang="eng">Word Embeddings trained on English Wikipedia</description>
+    <description lang="swe">Förtränade inbäddningar (word embeddings) för engelska wikipedia</description>
+    <resourceShortName lang="eng">wikipedia embeddings</resourceShortName>
+    <resourceShortName lang="swe">wikipedia embeddings</resourceShortName>
+    <metaShareId/>
+    <identifier>wikipedia-embeddings</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://zenodo.org/record/6542975</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Hengchen</surname>
+    <givenName>Simon</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2022-02-24</metadataCreationDate>
+    <metadataCreator>
+      <surname>Hengchen</surname>
+      <givenName>Simon</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceComponentType>
+    <toolServiceInfo>
+      <resourceType>toolService</resourceType>
+      <toolServiceType>other</toolServiceType>
+      <languageDependent>true</languageDependent>
+      <inputInfo>
+        <mediaType>text</mediaType>
+        <languageId>eng</languageId>
+      </inputInfo>
+    </toolServiceInfo>
+  </resourceComponentType>
+</resourceInfo>
