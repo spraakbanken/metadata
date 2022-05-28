@@ -1,137 +1,138 @@
+<?xml version="1.0"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
-<identificationInfo>
-<resourceName lang="eng">SweDiagnostics</resourceName>
-<resourceName lang="swe">SweDiagnostics</resourceName>
-<description lang="eng">Swedish version (Super)GLUE Diagnostic </description>
-<description lang="swe">Svenska versionen av (Super)GLUE diagnostik</description>
-<resourceShortName lang="eng">swediagnostics</resourceShortName>
-<resourceShortName lang="swe">swediagnostics</resourceShortName>
-<metaShareId/>
-<identifier>swediagnostics</identifier>
-</identificationInfo>
-<distributionInfo>
-<availability>available-unrestrictedUse</availability>
-<licenceInfo>
-<licence>CC-BY</licence>
-<version>1.0</version>
-<restrictionsOfUse>attribution</restrictionsOfUse>
-<distributionAccessMedium>downloadable</distributionAccessMedium>
-<downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv</downloadLocation>
-</licenceInfo>
-<iprHolder>
-<organizationInfo>
-<organizationName lang="swe">Göteborgs universitet</organizationName>
-<organizationName lang="eng">University of Gothenburg</organizationName>
-<departmentName lang="swe">Språkbanken</departmentName>
-<departmentName lang="eng">Språkbanken</departmentName>
-<communicationInfo>
-<email>sb-info@svenska.gu.se</email>
-<url>http://spraakbanken.gu.se</url>
-<address>Renströmsgatan 6</address>
-<zipCode>412 56</zipCode>
-<city>Gothenburg</city>
-<country>Sweden</country>
-</communicationInfo>
-</organizationInfo>
-</iprHolder>
-</distributionInfo>
-<contactPerson>
-<surname>Felix</surname>
-<givenName>Morger</givenName>
-<communicationInfo>
-<email>sb-info@svenska.gu.se</email>
-</communicationInfo>
-<affiliation>
-<organizationName>Språkbanken</organizationName>
-<communicationInfo>
-<email>sb-info@svenska.gu.se</email>
-</communicationInfo>
-</affiliation>
-</contactPerson>
-<metadataInfo>
-<metadataCreationDate>2021-06-03</metadataCreationDate>
-<metadataCreator>
-<surname>Felix</surname>
-<givenName>Morger</givenName>
-<communicationInfo>
-<email>sb-info@svenska.gu.se</email>
-</communicationInfo>
-<affiliation>
-<organizationName>Språkbanken</organizationName>
-<communicationInfo>
-<email>sb-info@svenska.gu.se</email>
-</communicationInfo>
-</affiliation>
-</metadataCreator>
-<source>META-NORD</source>
-</metadataInfo>
-<validationInfo>
-<validated>true</validated>
-<validationType>formal</validationType>
-<validationMode>automatic</validationMode>
-<validationExtent>full</validationExtent>
-</validationInfo>
-<resourceDocumentationInfo>
-<samplesLocation>https://spraakbanken.gu.se/en/resources/swediagnostics</samplesLocation>
-<toolDocumentationType>manual</toolDocumentationType>
-<toolDocumentationType>online</toolDocumentationType>
-</resourceDocumentationInfo>
-<resourceComponentType>
-<lexicalConceptualResourceInfo>
-<resourceType>lexicalConceptualResource</resourceType>
-<lexicalConceptualResourceType>other</lexicalConceptualResourceType>
-<creationInfo/>
-<lexicalConceptualResourceMediaType>
-<lexicalConceptualResourceTextInfo>
-<mediaType>text</mediaType>
-<lingualityInfo>
-<lingualityType>bilingual</lingualityType>
-</lingualityInfo>
-<languageInfo>
-<languageId>swe</languageId>
-<languageName>Swedish</languageName>
-</languageInfo>
-<languageInfo>
-<languageId>eng</languageId>
-<languageName>English</languageName>
-</languageInfo>
-<modalityInfo>
-<modalityType>writtenLanguage</modalityType>
-</modalityInfo>
-<sizeInfo>
-<size>1106</size>
-<sizeUnit>entries</sizeUnit>
-</sizeInfo>
-<textFormatInfo>
-<mimeType>other</mimeType>
-<sizePerTextFormat>
-<size>0</size>
-<sizeUnit>entries</sizeUnit>
-</sizePerTextFormat>
-</textFormatInfo>
-<domainInfo>
-<domain>general</domain>
-<sizePerDomain>
-<size>0</size>
-<sizeUnit>entries</sizeUnit>
-</sizePerDomain>
-</domainInfo>
-<timeCoverageInfo>
-<timeCoverage>other</timeCoverage>
-<sizePerTimeCoverage>
-<size>0</size>
-<sizeUnit>entries</sizeUnit>
-</sizePerTimeCoverage>
-</timeCoverageInfo>
-<geographicCoverageInfo>
-<geographicCoverage>other</geographicCoverage>
-<sizePerGeographicCoverage>
-<size>0</size>
-<sizeUnit>entries</sizeUnit>
-</sizePerGeographicCoverage>
-</geographicCoverageInfo>
-</lexicalConceptualResourceTextInfo>
-</lexicalConceptualResourceMediaType>
-</lexicalConceptualResourceInfo>
-</resourceComponentType>
+  <identificationInfo>
+    <resourceName lang="eng">SweDiagnostics</resourceName>
+    <resourceName lang="swe">SweDiagnostics</resourceName>
+    <description lang="eng">Swedish version (Super)GLUE Diagnostic </description>
+    <description lang="swe">Svenska versionen av (Super)GLUE diagnostik</description>
+    <resourceShortName lang="eng">swediagnostics</resourceShortName>
+    <resourceShortName lang="swe">swediagnostics</resourceShortName>
+    <metaShareId/>
+    <identifier>swediagnostics</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>1.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">G&#xF6;teborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Spr&#xE5;kbanken</departmentName>
+        <departmentName lang="eng">Spr&#xE5;kbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Renstr&#xF6;msgatan 6</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Felix</surname>
+    <givenName>Morger</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Spr&#xE5;kbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-06-03</metadataCreationDate>
+    <metadataCreator>
+      <surname>Felix</surname>
+      <givenName>Morger</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Spr&#xE5;kbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/swediagnostics</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>other</lexicalConceptualResourceType>
+      <creationInfo/>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>bilingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <languageInfo>
+            <languageId>eng</languageId>
+            <languageName>English</languageName>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>1106</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
+          <textFormatInfo>
+            <mimeType>other</mimeType>
+            <sizePerTextFormat>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTextFormat>
+          </textFormatInfo>
+          <domainInfo>
+            <domain>general</domain>
+            <sizePerDomain>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerDomain>
+          </domainInfo>
+          <timeCoverageInfo>
+            <timeCoverage>other</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
 </resourceInfo>

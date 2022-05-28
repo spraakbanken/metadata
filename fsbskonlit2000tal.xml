@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Skönlitteratur 2000–2013</resourceName>
@@ -96,7 +96,7 @@
             <languageId>sv-FI</languageId>
             <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo> 
+          </languageInfo>
           <sizeInfo>
             <size>2501260</size>
             <sizeUnit>tokens</sizeUnit>

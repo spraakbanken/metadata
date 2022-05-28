@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">The Swedish Culturomics Gigaword Corpus</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</description>
     <resourceShortName lang="eng">gigaword</resourceShortName>
     <resourceShortName lang="swe">gigaword</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>gigaword</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -117,7 +117,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -130,7 +129,6 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>

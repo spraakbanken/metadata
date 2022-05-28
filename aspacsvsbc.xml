@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">ASPAC – svenska-serbiska (kyrilliskt)</resourceName>
@@ -100,7 +100,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>
@@ -125,7 +124,6 @@
               </sizeInfo>
             </sizePerLanguage>
           </languageInfo>
-
           <languageInfo>
             <languageId>sbc</languageId>
             <languageName>Serbian</languageName>

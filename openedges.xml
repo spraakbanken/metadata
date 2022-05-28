@@ -18,10 +18,10 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip</downloadLocation>
     </licenceInfo>
-	<licenceInfo>
-	  <licence>For license details of the previous versions, see the 'Read me.txt' file in the download.</licence>
+    <licenceInfo>
+      <licence>For license details of the previous versions, see the 'Read me.txt' file in the download.</licence>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-	  <downloadLocation>http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions</downloadLocation>
+      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions</downloadLocation>
     </licenceInfo>
   </distributionInfo>
   <iprHolder/>

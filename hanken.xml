@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Hanken</resourceName>
@@ -97,7 +97,7 @@
             <languageId>sv-FI</languageId>
             <languageName>Finland Swedish</languageName>
             <languageScript>Latn</languageScript>
-          </languageInfo> 
+          </languageInfo>
           <sizeInfo>
             <size>123780</size>
             <sizeUnit>tokens</sizeUnit>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Läkartidningen medical journal 2005</resourceName>
@@ -27,12 +27,12 @@
       <executionLocation>https://spraakbanken.gu.se/korp/#corpus=lt2005</executionLocation>
     </licenceInfo>
     <licenceInfo>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
-    </licenceInfo>
+      <licenceInfo>
+        <licence>other</licence>
+        <restrictionsOfUse>other</restrictionsOfUse>
+        <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+        <executionLocation>http://www.medicinskkorpus.se/login.phtml</executionLocation>
+      </licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>

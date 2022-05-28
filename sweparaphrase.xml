@@ -1,10 +1,11 @@
+<?xml version="1.0"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SweParaphrase</resourceName>
     <resourceName lang="swe">SveParafras</resourceName>
     <description lang="eng">A subset of the Semantic Textual Similarity reference data 
 (STS Benchmark).  </description>
-    <description lang="swe">En delmängd av referensdatan för semantisk textjämförelse (STS Benchmark). </description>
+    <description lang="swe">En delm&#xE4;ngd av referensdatan f&#xF6;r semantisk textj&#xE4;mf&#xF6;relse (STS Benchmark). </description>
     <resourceShortName lang="eng">sweparaphrase</resourceShortName>
     <resourceShortName lang="swe">sweparaphrase</resourceShortName>
     <metaShareId/>
@@ -26,10 +27,10 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="swe">G&#xF6;teborgs universitet</organizationName>
         <organizationName lang="eng">University of Gothenburg</organizationName>
-        <departmentName lang="swe">Språkbanken Text</departmentName>
-        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <departmentName lang="swe">Spr&#xE5;kbanken Text</departmentName>
+        <departmentName lang="eng">Spr&#xE5;kbanken Text</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
           <url>http://spraakbanken.gu.se</url>
@@ -41,13 +42,13 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Dannélls</surname>
+    <surname>Dann&#xE9;lls</surname>
     <givenName>Dana</givenName>
     <communicationInfo>
       <email>dana.dannells@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken Text</organizationName>
+      <organizationName>Spr&#xE5;kbanken Text</organizationName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -56,13 +57,13 @@
   <metadataInfo>
     <metadataCreationDate>2021-05-17</metadataCreationDate>
     <metadataCreator>
-      <surname>Dannélls</surname>
+      <surname>Dann&#xE9;lls</surname>
       <givenName>Dana</givenName>
       <communicationInfo>
         <email>dana.dannells@svenska.gu.se</email>
       </communicationInfo>
       <affiliation>
-        <organizationName>Språkbanken Text</organizationName>
+        <organizationName>Spr&#xE5;kbanken Text</organizationName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
@@ -92,8 +93,8 @@
           </lingualityInfo>
           <languageInfo>
             <languageId>swe</languageId>
-            <languageName>Swedish</languageName>            
-            <languageScript></languageScript>
+            <languageName>Swedish</languageName>
+            <languageScript/>
           </languageInfo>
           <sizeInfo>
             <size>165</size>

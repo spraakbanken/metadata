@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SweWinograd</resourceName>
@@ -17,14 +17,14 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd.jsonl.gz</downloadLocation>
-      <attributionText></attributionText>
+      <attributionText/>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd_documentation_sheet.txt</downloadLocation>
-      <attributionText></attributionText>
+      <attributionText/>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

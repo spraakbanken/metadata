@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">DaLAJ v.1.0</resourceName>
@@ -18,7 +19,7 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv</downloadLocation>
     </licenceInfo>
-     <licenceInfo>
+    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
@@ -26,10 +27,10 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="swe">G&#xF6;teborgs universitet</organizationName>
         <organizationName lang="eng">University of Gothenburg</organizationName>
-        <departmentName lang="swe">Språkbanken Text</departmentName>
-        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <departmentName lang="swe">Spr&#xE5;kbanken Text</departmentName>
+        <departmentName lang="eng">Spr&#xE5;kbanken Text</departmentName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
           <url>http://spraakbanken.gu.se</url>
@@ -48,7 +49,7 @@
       <email>elena.volodina@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken Text</organizationName>
+      <organizationName>Spr&#xE5;kbanken Text</organizationName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -63,7 +64,7 @@
         <email>elena.volodina@svenska.gu.se</email>
       </communicationInfo>
       <affiliation>
-        <organizationName>Språkbanken Text</organizationName>
+        <organizationName>Spr&#xE5;kbanken Text</organizationName>
         <communicationInfo>
           <email>sb-info@svenska.gu.se</email>
         </communicationInfo>
@@ -94,7 +95,7 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <languageScript></languageScript>
+            <languageScript/>
           </languageInfo>
           <sizeInfo>
             <size>4730</size>

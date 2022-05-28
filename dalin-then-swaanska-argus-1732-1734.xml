@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Dalin: Then Swänska Argus 1732-1734</resourceName>
@@ -86,8 +86,8 @@
           </lingualityInfo>
           <languageInfo>
             <languageId>swe</languageId>
-            <languageName>Swedish</languageName>            
-            <languageScript></languageScript>
+            <languageName>Swedish</languageName>
+            <languageScript/>
           </languageInfo>
           <sizeInfo>
             <size>213399</size>

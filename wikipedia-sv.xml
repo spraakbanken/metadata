@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- $Id$ -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
@@ -108,8 +108,14 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-          <sizeInfo><size>370211509</size><sizeUnit>tokens</sizeUnit></sizeInfo>
-          <sizeInfo><size>29471436</size><sizeUnit>sentences</sizeUnit></sizeInfo>
+          <sizeInfo>
+            <size>370211509</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>29471436</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
           <annotationInfo>
             <annotationType>segmentation</annotationType>
             <segmentationLevel>sentence</segmentationLevel>

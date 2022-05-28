@@ -87,7 +87,7 @@
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size></size>
+            <size/>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
@@ -102,7 +102,6 @@
             <annotationFormat>text/xml</annotationFormat>
             <annotationMode>automatic</annotationMode>
           </annotationInfo>
-
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>

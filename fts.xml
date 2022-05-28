@@ -105,7 +105,11 @@
             <languageName>Faroese</languageName>
             <languageScript>Latn</languageScript>
           </languageInfo>
-        <sizeInfo><size>1142289</size><sizeUnit>tokens</sizeUnit></sizeInfo></corpusTextInfo>
+          <sizeInfo>
+            <size>1142289</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>
   </resourceComponentType>

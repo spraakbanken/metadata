@@ -12,10 +12,10 @@
   </identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
-     <licenceInfo>
+    <licenceInfo>
       <licence>CC-BY-SA</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-          <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>shareAlike</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus/</downloadLocation>
     </licenceInfo>

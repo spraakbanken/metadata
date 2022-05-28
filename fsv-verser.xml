@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Verser – Fornsvenska textbankens material</resourceName>
@@ -96,11 +96,11 @@
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
           </languageInfo>
-            <sizeInfo>
+          <sizeInfo>
             <size>184059</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
-         <annotationInfo>
+          <annotationInfo>
             <annotationType>segmentation</annotationType>
             <segmentationLevel>sentence</segmentationLevel>
             <segmentationLevel>word</segmentationLevel>
