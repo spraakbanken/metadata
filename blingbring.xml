@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Blingbring</resourceName>
@@ -6,7 +6,7 @@
     <description lang="eng">Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)</description>
     <description lang="swe">Blingbring, en SALDO-länkad och moderniserad version av Brings "Svenskt ordförråd ordnat i begreppsklasser" (1930)</description>
     <resourceShortName>blingbring</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/54f7733925f165.57598784</identifier>
     <identifier>blingbring</identifier>
   </identificationInfo>
@@ -87,7 +87,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -95,7 +94,7 @@
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>lexical semantics</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -103,34 +102,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          
           <sizeInfo>
             <size>126910</size>
             <sizeUnit>entries</sizeUnit>
-            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -138,7 +131,6 @@
             <sizePerTimeCoverage>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -146,11 +138,13 @@
             <sizePerGeographicCoverage>
               <size>126911</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2020-05-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2020-05-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

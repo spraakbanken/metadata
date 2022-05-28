@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Simple+</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName lang="eng">simpleplus</resourceShortName>
     <resourceShortName lang="swe">simpleplus</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/4rc635e3b0adf2.42322260</identifier>
     <identifier>simpleplus</identifier>
   </identificationInfo>
@@ -55,10 +55,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -109,51 +109,47 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
-  			<author>Dimitrios Kokkinakis</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<author>Karin Warmenius</author>
-  			<year>2007</year>
-  			<publisher>Athens: ELRA</publisher>
-  			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>other</documentType>
-  			<title>The Swedish SIMPLE Lexicon</title>
-  			<url>http://spraakdata.gu.se/simple/swedish.simple.lexicon.html</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>other</documentType>
-  			<title>SIMPLE Semantic Information for Multifunctional Plurilingual LExicons An Overview</title>
-  			<url>http://www.ub.edu/gilcub/SIMPLE/reports/simple/Site_simple.htm</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+        <author>Dimitrios Kokkinakis</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Karin Warmenius</author>
+        <year>2007</year>
+        <publisher>Athens: ELRA</publisher>
+        <bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>other</documentType>
+        <title>The Swedish SIMPLE Lexicon</title>
+        <url>http://spraakdata.gu.se/simple/swedish.simple.lexicon.html</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>other</documentType>
+        <title>SIMPLE Semantic Information for Multifunctional Plurilingual LExicons An Overview</title>
+        <url>http://www.ub.edu/gilcub/SIMPLE/reports/simple/Site_simple.htm</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/simpleplus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -163,7 +159,7 @@
         <linguisticInformation>semantics-QualiaStructure</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -171,30 +167,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>8630</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>8630</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -202,7 +196,6 @@
             <sizePerTimeCoverage>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -210,11 +203,13 @@
             <sizePerGeographicCoverage>
               <size>6418</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

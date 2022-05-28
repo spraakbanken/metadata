@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swesaurus</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett svenskt ordnät</description>
     <resourceShortName lang="eng">swesaurus</resourceShortName>
     <resourceShortName lang="swe">swesaurus</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/33672db0-3f57-457d-b7d2-202c23faeb88</identifier>
     <identifier>swesaurus</identifier>
   </identificationInfo>
@@ -25,10 +25,10 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/karp/#?mode=DEFAULT&amp;resources=swesaurus</executionLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -79,25 +79,24 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>article</documentType>
-  			<title>Beyond the synset: Swesaurus – a fuzzy Swedish wordnet</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<year>2010</year>
-  			<bookTitle>Re-thinking synonymy: semantic sameness and similarity in languages and their description</bookTitle>
-  			<url>http://gup.ub.gu.se/publication/129125</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>Beyond the synset: Swesaurus – a fuzzy Swedish wordnet</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <year>2010</year>
+        <bookTitle>Re-thinking synonymy: semantic sameness and similarity in languages and their description</bookTitle>
+        <url>http://gup.ub.gu.se/publication/129125</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/swesaurus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
@@ -112,7 +111,7 @@
         <linguisticInformation>semantics-Relations-Synonyms</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -120,7 +119,6 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
@@ -163,4 +161,7 @@
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

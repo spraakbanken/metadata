@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Diachronic pivot</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Diakronisk pivotresurs</description>
     <resourceShortName lang="eng">diapivot</resourceShortName>
     <resourceShortName lang="swe">diapivot</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/a1eyu121-265b-40a6-qbg5-e4678f823nb8</identifier>
     <identifier>diapivot</identifier>
   </identificationInfo>
@@ -31,10 +31,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/resource/diapivot</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -85,64 +85,60 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inBook</documentType>
-  			<title>A diachronic computational lexical resource for 800 years of Swedish</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<year>2011</year>
-  			<publisher>Springer</publisher>
-  			<bookTitle>Language technology for cultural heritage</bookTitle>
-  			<pages>41-61</pages>
-  			<url>http://gup.ub.gu.se/publication/144291</url>
-  			<ISBN>978-3-642-20226-1</ISBN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Dimitrios Kokkinakis</author>
-  			<year>2010</year>
-  			<bookTitle>Proceedings of LREC 2010</bookTitle>
-  			<url>http://gup.ub.gu.se/publication/118907</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>article</documentType>
-  			<title>Towards automatic tracking of lexical change: linking historical lexical resources</title>
-  			<author>Peter Andersson</author>
-  			<author>Malin Ahlberg</author>
-  			<year>2013</year>
-  			<journal>NEALT Proceedings Series</journal>
-  			<volume>18</volume>
-  			<url>http://gup.ub.gu.se/publication/181972</url>
-  			<ISSN>1736-6305</ISSN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inBook</documentType>
+        <title>A diachronic computational lexical resource for 800 years of Swedish</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <year>2011</year>
+        <publisher>Springer</publisher>
+        <bookTitle>Language technology for cultural heritage</bookTitle>
+        <pages>41-61</pages>
+        <url>http://gup.ub.gu.se/publication/144291</url>
+        <ISBN>978-3-642-20226-1</ISBN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Dimitrios Kokkinakis</author>
+        <year>2010</year>
+        <bookTitle>Proceedings of LREC 2010</bookTitle>
+        <url>http://gup.ub.gu.se/publication/118907</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>Towards automatic tracking of lexical change: linking historical lexical resources</title>
+        <author>Peter Andersson</author>
+        <author>Malin Ahlberg</author>
+        <year>2013</year>
+        <journal>NEALT Proceedings Series</journal>
+        <volume>18</volume>
+        <url>http://gup.ub.gu.se/publication/181972</url>
+        <ISSN>1736-6305</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/diapivot</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -152,7 +148,7 @@
         <linguisticInformation>translationEquivalent</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -160,38 +156,36 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
-            	<languageVarietyType>other</languageVarietyType>
-            	<languageVarietyName>Old Swedish</languageVarietyName>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName>Old Swedish</languageVarietyName>
             </languageVarietyInfo>
             <languageVarietyInfo>
-            	<languageVarietyType>other</languageVarietyType>
-            	<languageVarietyName>Modern Swedish</languageVarietyName>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName>Modern Swedish</languageVarietyName>
             </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>29432</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>29432</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>28040</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>28040</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -199,7 +193,6 @@
             <sizePerTimeCoverage>
               <size>28040</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -207,11 +200,13 @@
             <sizePerGeographicCoverage>
               <size>28040</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-13</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-13</lastUpdated>
+  </versionInfo>
+</resourceInfo>

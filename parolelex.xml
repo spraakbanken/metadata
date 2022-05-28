@@ -31,10 +31,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -85,28 +85,27 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
-  			<author>Dimitrios Kokkinakis</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<author>Karin Warmenius</author>
-  			<year>2007</year>
-  			<publisher>Athens: ELRA</publisher>
-  			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+        <author>Dimitrios Kokkinakis</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Karin Warmenius</author>
+        <year>2007</year>
+        <publisher>Athens: ELRA</publisher>
+        <bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/parolelex</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -134,27 +133,22 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          
           <sizeInfo>
             <size>29298</size>
             <sizeUnit>entries</sizeUnit>
-            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>29298</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>29298</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -162,7 +156,6 @@
             <sizePerTimeCoverage>
               <size>29298</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -170,7 +163,6 @@
             <sizePerGeographicCoverage>
               <size>29298</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

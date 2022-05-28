@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Konstruktikon</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett svenskt konstruktikon</description>
     <resourceShortName lang="eng">konstruktikon</resourceShortName>
     <resourceShortName lang="swe">konstruktikon</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/3334c3d0-fce2-11e1-a21f-0800200c9a66</identifier>
     <identifier>konstruktikon</identifier>
   </identificationInfo>
@@ -91,39 +91,37 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>techReport</documentType>
-  			<title>Ett svenskt konstruktikon Utgångspunkter och preliminära ramar</title>
-  			<author>Benjamin Lyngfelt</author>
-  			<author>Markus Forsberg</author>
-  			<year>2012</year>
-  			<publisher>Göteborgs universitet</publisher>
-  			<series>Forskningsrapporter från institutionen för svenska språket</series>
-  			<url>http://gup.ub.gu.se/publication/158226</url>
-  			<ISSN>1401-5919</ISSN>
-
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>techReport</documentType>
+        <title>Ett svenskt konstruktikon Utgångspunkter och preliminära ramar</title>
+        <author>Benjamin Lyngfelt</author>
+        <author>Markus Forsberg</author>
+        <year>2012</year>
+        <publisher>Göteborgs universitet</publisher>
+        <series>Forskningsrapporter från institutionen för svenska språket</series>
+        <url>http://gup.ub.gu.se/publication/158226</url>
+        <ISSN>1401-5919</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/konstruktikon</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
       <lexicalConceptualResourceType>framenet</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
-      	<encodingLevel>syntax</encodingLevel>
-      	<encodingLevel>semantics</encodingLevel>
+        <encodingLevel>syntax</encodingLevel>
+        <encodingLevel>semantics</encodingLevel>
         <encodingLevel>morphology</encodingLevel>
         <linguisticInformation>usage-Examples</linguisticInformation>
         <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
@@ -133,7 +131,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -141,30 +139,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>441</size><sizeUnit>entries</sizeUnit></sizeInfo>
-
+          <sizeInfo>
+            <size>441</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTextFormat>
           </textFormatInfo>
-
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -172,7 +168,6 @@
             <sizePerTimeCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -180,11 +175,13 @@
             <sizePerGeographicCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2020-05-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2020-05-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

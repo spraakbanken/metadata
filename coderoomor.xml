@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">CoDeRooMor, v.01</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet</description>
     <resourceShortName lang="eng">coderoomor</resourceShortName>
     <resourceShortName lang="swe">coderoomor</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>coderoomor</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -91,32 +91,32 @@
   </metadataInfo>
   <usageInfo>
     <foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
+      <foreseenUse>nlpApplications</foreseenUse>
     </foreseenUseInfo>
-		<foreseenUseInfo>
-			<foreseenUse>humanUse</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>humanUse</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>article</documentType>
-  			<title>CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish</title>
-  			<author>Elena Volodina</author>
-  			<author>Yousuf Ali Mohammed</author>
-			  <author>Therese Lindström Tiedemann</author>
-  			<year>2021</year>
-  			<publisher>Linköping University Press / ACL</publisher>
-  			<series>Proceedings</series>
-  			<url>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf</url>
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish</title>
+        <author>Elena Volodina</author>
+        <author>Yousuf Ali Mohammed</author>
+        <author>Therese Lindström Tiedemann</author>
+        <year>2021</year>
+        <publisher>Linköping University Press / ACL</publisher>
+        <series>Proceedings</series>
+        <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/coderoomor</samplesLocation>
   </resourceDocumentationInfo>
   <resourceCreationInfo>
-  	<creationEndDate>2021-04-12</creationEndDate>
+    <creationEndDate>2021-04-12</creationEndDate>
   </resourceCreationInfo>
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
@@ -130,8 +130,8 @@
         <linguisticInformation>usage-Frequency</linguisticInformation>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo>
-      	<creationMode>mixed</creationMode>
-      	<creationModeDetails>Created from L2 Swedish course books (COCTAILL corpus) and L2 Swedish essays (SweLL-pilot). Manual annotation of baseforms for derivational morphemes and word formation mechanisms.</creationModeDetails>
+        <creationMode>mixed</creationMode>
+        <creationModeDetails>Created from L2 Swedish course books (COCTAILL corpus) and L2 Swedish essays (SweLL-pilot). Manual annotation of baseforms for derivational morphemes and word formation mechanisms.</creationModeDetails>
       </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>

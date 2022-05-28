@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Kelly</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Nyckelord för språkinlärning för unga och vuxna</description>
     <resourceShortName lang="eng">kelly</resourceShortName>
     <resourceShortName lang="swe">kelly</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/a5d88d2b-8e23-4b1c-badb-b264a31364c6</identifier>
     <identifier>kelly</identifier>
   </identificationInfo>
@@ -85,36 +85,33 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>techReport</documentType>
-  			<title>Swedish KELLY: Technical report</title>
-  			<author>Elena Volodina</author>
-  			<author>Sofie Johansson Kokkinakis</author>
-  			<year>2012</year>
-  			<publisher>Göteborgs universitet</publisher>
-  			<series>Forskningsrapporter från institutionen för svenska språket</series>
-  			<url>http://gup.ub.gu.se/publication/165964</url>
-  			<ISSN>1401-5919</ISSN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>techReport</documentType>
+        <title>Swedish KELLY: Technical report</title>
+        <author>Elena Volodina</author>
+        <author>Sofie Johansson Kokkinakis</author>
+        <year>2012</year>
+        <publisher>Göteborgs universitet</publisher>
+        <series>Forskningsrapporter från institutionen för svenska språket</series>
+        <url>http://gup.ub.gu.se/publication/165964</url>
+        <ISSN>1401-5919</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/kelly</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
   <resourceCreationInfo>
-  	<creationEndDate>2012-02-01</creationEndDate>
+    <creationEndDate>2012-02-01</creationEndDate>
   </resourceCreationInfo>
-
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -128,8 +125,8 @@
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo>
-      	<creationMode>mixed</creationMode>
-      	<creationModeDetails>Created from a corpus developed for this project. A mixture of automatic and manual methods was employed to extract the most frequent words from the corpus and to annotate them.</creationModeDetails>
+        <creationMode>mixed</creationMode>
+        <creationModeDetails>Created from a corpus developed for this project. A mixture of automatic and manual methods was employed to extract the most frequent words from the corpus and to annotate them.</creationModeDetails>
       </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
@@ -138,32 +135,29 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            
             <languageScript>Latn</languageScript>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>8425</size><sizeUnit>entries</sizeUnit></sizeInfo>
-
+          <sizeInfo>
+            <size>8425</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>10510</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTextFormat>
           </textFormatInfo>
-
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>10510</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -171,7 +165,6 @@
             <sizePerTimeCoverage>
               <size>10510</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -179,11 +172,13 @@
             <sizePerGeographicCoverage>
               <size>10510</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-15</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-15</lastUpdated>
+  </versionInfo>
+</resourceInfo>

@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Sentiment Lexicon</resourceName>
     <resourceName lang="swe">Sentimentlexikon</resourceName>
-    <description lang="eng" />
-    <description lang="swe" />
+    <description lang="eng"/>
+    <description lang="swe"/>
     <resourceShortName lang="eng">sentimentlex</resourceShortName>
     <resourceShortName lang="swe">sentimentlex</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>sentimentlex</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -41,7 +41,6 @@
       </organizationInfo>
     </iprHolder>
   </distributionInfo>
-
   <contactPerson>
     <surname>Rouces</surname>
     <givenName>Jacobo</givenName>
@@ -55,7 +54,6 @@
       </communicationInfo>
     </affiliation>
   </contactPerson>
-
   <metadataInfo>
     <metadataCreationDate>2016-05-26</metadataCreationDate>
     <metadataCreator>
@@ -73,14 +71,12 @@
     </metadataCreator>
     <source>META-NORD</source>
   </metadataInfo>
-
   <validationInfo>
     <validated>true</validated>
     <validationType>formal</validationType>
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
-  
   <resourceDocumentationInfo>
     <documentation>
       <documentInfo>
@@ -102,7 +98,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -111,7 +106,7 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -119,34 +114,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-
           <sizeInfo>
             <size>0</size>
             <sizeUnit>entries</sizeUnit>
-
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTextFormat>
           </textFormatInfo>
-
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -154,7 +143,6 @@
             <sizePerTimeCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -162,11 +150,13 @@
             <sizePerGeographicCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

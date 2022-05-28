@@ -19,10 +19,10 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <downloadLocation>http://g3.spraakdata.gu.se/saob/</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska Akademien</organizationName>
-        <organizationName lang="eng">The Swedish Academy</organizationName> 
+        <organizationName lang="eng">The Swedish Academy</organizationName>
         <communicationInfo>
           <email>sekretariat@svenskaakademien.se</email>
         </communicationInfo>
@@ -66,50 +66,49 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>techReport</documentType>
-  			<title>Om svar anhålles Rapport från projeket OSA</title>
-  			<author>Sture Allén</author>
-  			<author>Yvonne Cederholm</author>
-  			<author>Sofie Johansson Kokkinakis</author>
-  			<author>Lena Rogström</author>
-  			<author>Rudolf Rydstedt</author>
-  			<author>Lars Svensson</author>
-  			<year>1996</year>
-  			<publisher>Göteborgs universitet</publisher>
-  			<series>Forskningsrapporter från institutionen för svenska språket</series>
-  			<url>http://g3.spraakdata.gu.se/saob/osa.pdf</url>
-  			<ISSN>1401-5919</ISSN>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
-  			<documentLanguageName>Swedish</documentLanguageName>
-  			<documentLanguageId>swe</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>A Historical Lexical Database of Swedish. The O.S.A Project</title>
-  			<author>Yvonne Cederholm</author>
-  			<year>1996</year>
-  			<bookTitle>EURALEX '96 Proceedings</bookTitle>
-  			<volume>1</volume>
-  			<url>http://g3.spraakdata.gu.se/saob/euralex.pdf</url>
-  			<!-- languageCoding>ISO-639-3</languageCoding -->
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>techReport</documentType>
+        <title>Om svar anhålles Rapport från projeket OSA</title>
+        <author>Sture Allén</author>
+        <author>Yvonne Cederholm</author>
+        <author>Sofie Johansson Kokkinakis</author>
+        <author>Lena Rogström</author>
+        <author>Rudolf Rydstedt</author>
+        <author>Lars Svensson</author>
+        <year>1996</year>
+        <publisher>Göteborgs universitet</publisher>
+        <series>Forskningsrapporter från institutionen för svenska språket</series>
+        <url>http://g3.spraakdata.gu.se/saob/osa.pdf</url>
+        <ISSN>1401-5919</ISSN>
+        <!-- languageCoding>ISO-639-3</languageCoding -->
+        <documentLanguageName>Swedish</documentLanguageName>
+        <documentLanguageId>swe</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>A Historical Lexical Database of Swedish. The O.S.A Project</title>
+        <author>Yvonne Cederholm</author>
+        <year>1996</year>
+        <bookTitle>EURALEX '96 Proceedings</bookTitle>
+        <volume>1</volume>
+        <url>http://g3.spraakdata.gu.se/saob/euralex.pdf</url>
+        <!-- languageCoding>ISO-639-3</languageCoding -->
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/osa</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -119,11 +118,11 @@
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo>
-      	<originalSource>
-      		<targetResourceNameURI>Svenska akademien (1893-). Ordbok över svenska språket. Lund: Gleerupska univ.-bokh. [distributör]</targetResourceNameURI>
-      	</originalSource>
-      	<creationMode>mixed</creationMode>
-      	<creationModeDetails>All text has been proofread.</creationModeDetails>
+        <originalSource>
+          <targetResourceNameURI>Svenska akademien (1893-). Ordbok över svenska språket. Lund: Gleerupska univ.-bokh. [distributör]</targetResourceNameURI>
+        </originalSource>
+        <creationMode>mixed</creationMode>
+        <creationModeDetails>All text has been proofread.</creationModeDetails>
       </creationInfo>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
@@ -139,27 +138,22 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          
           <sizeInfo>
             <size>0</size>
             <sizeUnit>entries</sizeUnit>
-            
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -167,7 +161,6 @@
             <sizePerTimeCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -175,7 +168,6 @@
             <sizePerGeographicCoverage>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

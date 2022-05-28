@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
     <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
-      <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. </description>
+    <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. </description>
     <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. </description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/6bb59f6c-02b1-4bf7-b985-f1dbf9d5dbfa</identifier>
     <identifier>swefn</identifier>
   </identificationInfo>
@@ -37,10 +37,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -91,66 +91,62 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>The past meets the present in Swedish FrameNet++</title>
-  			<author>Lars Borin</author>
-  			<author>Dana Dannélls</author>
-  			<author>Markus Forsberg</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<author>Dimitrios Kokkinakis</author>
-  			<year>2010</year>
-  			<bookTitle>14th EURALEX International Congress</bookTitle>
-  			<pages>269-281</pages>
-  			<url>http://gup.ub.gu.se/publication/110368</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>The Rocky Road towards a Swedish FrameNet - Creating SweFN</title>
-  			<author>Karin Friberg Heppin</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<year>2012</year>
-  			<bookTitle>Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC-2012); Istanbul, Turkey</bookTitle>
-  			<pages>256-261</pages>
-  			<url>http://gup.ub.gu.se/publication/158473</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Thinking Green: Toward Swedish FrameNet++</title>
-  			<author>Lars Borin</author>
-  			<author>Dana Dannélls</author>
-  			<author>Markus Forsberg</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<author>Dimitrios Kokkinakis</author>
-  			<year>2009</year>
-  			<bookTitle>FrameNet Masterclass and Workshop</bookTitle>
-  			<url>http://gup.ub.gu.se/publication/110343</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>The past meets the present in Swedish FrameNet++</title>
+        <author>Lars Borin</author>
+        <author>Dana Dannélls</author>
+        <author>Markus Forsberg</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Dimitrios Kokkinakis</author>
+        <year>2010</year>
+        <bookTitle>14th EURALEX International Congress</bookTitle>
+        <pages>269-281</pages>
+        <url>http://gup.ub.gu.se/publication/110368</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>The Rocky Road towards a Swedish FrameNet - Creating SweFN</title>
+        <author>Karin Friberg Heppin</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <year>2012</year>
+        <bookTitle>Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC-2012); Istanbul, Turkey</bookTitle>
+        <pages>256-261</pages>
+        <url>http://gup.ub.gu.se/publication/158473</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Thinking Green: Toward Swedish FrameNet++</title>
+        <author>Lars Borin</author>
+        <author>Dana Dannélls</author>
+        <author>Markus Forsberg</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Dimitrios Kokkinakis</author>
+        <year>2009</year>
+        <bookTitle>FrameNet Masterclass and Workshop</bookTitle>
+        <url>http://gup.ub.gu.se/publication/110343</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/swefn</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -164,7 +160,7 @@
         <linguisticInformation>usage-Examples</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -172,30 +168,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>1195</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>1195</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>23282</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>23282</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -203,7 +197,6 @@
             <sizePerTimeCoverage>
               <size>23282</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -211,11 +204,13 @@
             <sizePerGeographicCoverage>
               <size>23282</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2021-10-20</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2021-10-20</lastUpdated>
+  </versionInfo>
+</resourceInfo>

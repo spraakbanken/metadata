@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Rysk Konstruktikon</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Ett ryskt konstruktikon</description>
     <resourceShortName lang="eng">konstruktikon-rus</resourceShortName>
     <resourceShortName lang="swe">konstruktikon-rus</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>konstruktikon-rus</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -90,23 +90,22 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/konstruktikon</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
       <lexicalConceptualResourceType>framenet</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
-      	<encodingLevel>syntax</encodingLevel>
-      	<encodingLevel>semantics</encodingLevel>
+        <encodingLevel>syntax</encodingLevel>
+        <encodingLevel>semantics</encodingLevel>
         <encodingLevel>morphology</encodingLevel>
         <linguisticInformation>usage-Examples</linguisticInformation>
         <linguisticInformation>lemma-MultiWordUnits</linguisticInformation>
@@ -116,7 +115,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -134,23 +133,22 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>715</size><sizeUnit>entries</sizeUnit></sizeInfo>
-
+          <sizeInfo>
+            <size>715</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTextFormat>
           </textFormatInfo>
-
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -158,7 +156,6 @@
             <sizePerTimeCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -166,11 +163,13 @@
             <sizePerGeographicCoverage>
               <size>59</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2020-05-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2020-05-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish-Finnish word lists</resourceName>
     <resourceName lang="swe">Svensk-finska ordlistor</resourceName>
-    <description lang="eng" />
-    <description lang="swe" />
+    <description lang="eng"/>
+    <description lang="swe"/>
     <resourceShortName lang="eng">term-swefin</resourceShortName>
     <resourceShortName lang="swe">term-swefin</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>term-swefin</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -25,10 +25,10 @@
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/term-swefin/term-swefin.xml</downloadLocation>
     </licenceInfo>
     <versionInfo>
-      <version />
-      <revision />
+      <version/>
+      <revision/>
       <lastDateUpdated>2017-04-07</lastDateUpdated>
-      <updateFrequency />
+      <updateFrequency/>
     </versionInfo>
     <iprHolder>
       <organizationInfo>
@@ -82,16 +82,15 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/term-swefin</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -103,28 +102,27 @@
             <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
-            	<languageVarietyType>other</languageVarietyType>
-            	<languageVarietyName>contemporary Swedish</languageVarietyName>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName>contemporary Swedish</languageVarietyName>
             </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>9607</size><sizeUnit>entries</sizeUnit></sizeInfo>
-
+          <sizeInfo>
+            <size>9607</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>17565</size>
               <sizeUnit>entries</sizeUnit>
-
             </sizePerTextFormat>
           </textFormatInfo>
-
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
@@ -132,7 +130,6 @@
               <sizeUnit>entries</sizeUnit>
             </sizePerDomain>
           </domainInfo>
-
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>

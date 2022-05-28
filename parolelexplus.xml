@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Parole+</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO</description>
     <resourceShortName lang="eng">parolelexplus</resourceShortName>
     <resourceShortName lang="swe">parolelexplus</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/4fc635e393eb07.19662878</identifier>
     <identifier>parolelexplus</identifier>
   </identificationInfo>
@@ -37,10 +37,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/eng/swefn</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -91,37 +91,35 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
     <documentation>
-        <documentInfo>
-            <documentType>other</documentType>
-            
-            <title lang="eng">Description</title>
-            <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
-            <documentLanguageId>swe</documentLanguageId>
-        </documentInfo>
-    </documentation>  
+      <documentInfo>
+        <documentType>other</documentType>
+        <title lang="eng">Description</title>
+        <url>https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/paroleplus_swe.html</url>
+        <documentLanguageId>swe</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
-  			<author>Dimitrios Kokkinakis</author>
-  			<author>Maria Toporowska Gronostaj</author>
-  			<author>Karin Warmenius</author>
-  			<year>2007</year>
-  			<publisher>Athens: ELRA</publisher>
-  			<bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
-  		</documentInfo>
-  	</documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+        <author>Dimitrios Kokkinakis</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Karin Warmenius</author>
+        <year>2007</year>
+        <publisher>Athens: ELRA</publisher>
+        <bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/parolelexplus</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -130,7 +128,7 @@
         <encodingLevel>morphology</encodingLevel>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -138,30 +136,28 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>29621</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>29621</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -169,7 +165,6 @@
             <sizePerTimeCoverage>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -177,11 +172,13 @@
             <sizePerGeographicCoverage>
               <size>24523</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SKBL</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">Svenskt kvinnobiografiskt lexikon</description>
     <resourceShortName lang="eng">skbl</resourceShortName>
     <resourceShortName lang="swe">skbl</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>skbl</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -76,15 +76,14 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -96,38 +95,36 @@
             <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
-            	<languageVarietyType>other</languageVarietyType>
-            	<languageVarietyName>contemporary Swedish</languageVarietyName>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName>contemporary Swedish</languageVarietyName>
             </languageVarietyInfo>
           </languageInfo>
           <languageInfo>
-          	<languageId>eng</languageId>
-          	<languageName>English</languageName>
+            <languageId>eng</languageId>
+            <languageName>English</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>1411</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>1411</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>0</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
         </lexicalConceptualResourceTextInfo>

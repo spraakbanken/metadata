@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">WordNet-SALDO</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">En länkning mellan SALDO och Core WordNet</description>
     <resourceShortName lang="eng">wordnet-saldo</resourceShortName>
     <resourceShortName lang="swe">wordnet-saldo</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/4fc635e47910f6.64094218</identifier>
     <identifier>wordnet-saldo</identifier>
   </identificationInfo>
@@ -25,10 +25,10 @@
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/karp/#?mode=DEFAULT&amp;resources=wordnet-saldo</executionLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -82,82 +82,78 @@
     <samplesLocation>https://spraakbanken.gu.se/en/resources/wordnet-saldo</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
-  </resourceDocumentationInfo>  
+  </resourceDocumentationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Nordic and Baltic wordnets aligned and compared through "WordTies"</title>
-  			<author>Bolette Pedersen</author>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Neeme Kahusk</author>
-  			<author>Krister Lindén</author>
-  			<author>Jyrki Niemi</author>
-  			<author>Niklas Nisbeth</author>
-  			<author>Lars Nygaard</author>
-  			<author>Heili Orav</author>
-  			<author>Eiríkur Rögnvaldsson</author>
-  			<author>Mitchel Seaton</author>
-  			<author>Kadri Vider</author>
-  			<author>Kaarlo Voionmaa</author>
-  			<year>2013</year>
-  			<bookTitle>Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013), May 22–24, 2013, Oslo University, Norway.</bookTitle>
-  			<series>NEALT Proceedings Series</series>
-  			<url>http://gup.ub.gu.se/publication/178357</url>
-  			<ISSN>1650-3686</ISSN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Linking and validating Nordic and Baltic wordnets</title>
-  			<author>Bolette Sandford Pedersen</author>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Krister Lindén</author>
-  			<author>Heili Olav</author>
-  			<author>Eiríkur Rögnvaldsson</author>
-  			<year>2012</year>
-  			<bookTitle>Proceedings of the 6th International Global Wordnet Conference</bookTitle>
-  			<pages>254-260</pages>
-  			<url>http://gup.ub.gu.se/publication/155599</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>article</documentType>
-  			<title>Close encounters of the fifth kind: Some linguistic and computational aspects of the Swedish FrameNet++ project</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Benjamin Lyngfelt</author>
-  			<year>2013</year>
-  			<journal>Veredas</journal>
-  			<volume>17</volume>
-  			<pages>28-43</pages>
-  			<url>http://gup.ub.gu.se/publication/187063</url>
-  			<ISSN>1415-2533</ISSN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Nordic and Baltic wordnets aligned and compared through "WordTies"</title>
+        <author>Bolette Pedersen</author>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Neeme Kahusk</author>
+        <author>Krister Lindén</author>
+        <author>Jyrki Niemi</author>
+        <author>Niklas Nisbeth</author>
+        <author>Lars Nygaard</author>
+        <author>Heili Orav</author>
+        <author>Eiríkur Rögnvaldsson</author>
+        <author>Mitchel Seaton</author>
+        <author>Kadri Vider</author>
+        <author>Kaarlo Voionmaa</author>
+        <year>2013</year>
+        <bookTitle>Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013), May 22–24, 2013, Oslo University, Norway.</bookTitle>
+        <series>NEALT Proceedings Series</series>
+        <url>http://gup.ub.gu.se/publication/178357</url>
+        <ISSN>1650-3686</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Linking and validating Nordic and Baltic wordnets</title>
+        <author>Bolette Sandford Pedersen</author>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Krister Lindén</author>
+        <author>Heili Olav</author>
+        <author>Eiríkur Rögnvaldsson</author>
+        <year>2012</year>
+        <bookTitle>Proceedings of the 6th International Global Wordnet Conference</bookTitle>
+        <pages>254-260</pages>
+        <url>http://gup.ub.gu.se/publication/155599</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>Close encounters of the fifth kind: Some linguistic and computational aspects of the Swedish FrameNet++ project</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Benjamin Lyngfelt</author>
+        <year>2013</year>
+        <journal>Veredas</journal>
+        <volume>17</volume>
+        <pages>28-43</pages>
+        <url>http://gup.ub.gu.se/publication/187063</url>
+        <ISSN>1415-2533</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/wordnet-saldo</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -171,7 +167,7 @@
         <linguisticInformation>syntacticoSemanticLinks</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -179,12 +175,10 @@
             <lingualityType>bilingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
           </languageInfo>
           <languageInfo>
-            
             <languageId>eng</languageId>
             <languageName>English</languageName>
           </languageInfo>
@@ -195,22 +189,18 @@
             <size>6989</size>
             <sizeUnit>entries</sizeUnit>
           </sizeInfo>
-          
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -218,7 +208,6 @@
             <sizePerTimeCoverage>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -226,11 +215,13 @@
             <sizePerGeographicCoverage>
               <size>6103</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-19</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

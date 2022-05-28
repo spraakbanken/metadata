@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Dalin's morphology</resourceName>
@@ -7,7 +7,7 @@
     <description lang="swe">En morfologi från Dalins ordbok - Ordbok över 1800-talsspråket</description>
     <resourceShortName lang="eng">dalinm</resourceShortName>
     <resourceShortName lang="swe">dalinm</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>hdl:10794/133c39e1-a807-4671-8364-44a97b1b6d3f</identifier>
     <identifier>dalinm</identifier>
   </identificationInfo>
@@ -37,10 +37,10 @@
       <distributionAccessMedium>other</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/eng/research/swefn/dalin</downloadLocation>
     </licenceInfo>
-    <iprHolder> 
+    <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>
-        <organizationName lang="eng">University of Gothenburg</organizationName>  
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <departmentName lang="swe">Språkbanken</departmentName>
         <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
@@ -91,49 +91,46 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <usageInfo>
-		<foreseenUseInfo>
-			<foreseenUse>nlpApplications</foreseenUse>
-		</foreseenUseInfo>
-	</usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
   <resourceDocumentationInfo>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>inProceedings</documentType>
-  			<title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Dimitrios Kokkinakis</author>
-  			<year>2010</year>
-  			<bookTitle>Proceedings of LREC 2010</bookTitle>
-  			<url>http://gup.ub.gu.se/publication/118907</url>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
-  	<documentation>
-  		<documentInfo>
-  			<documentType>article</documentType>
-  			<title>Close encounters of the fifth kind: Some linguistic and computational aspects of the Swedish FrameNet++ project</title>
-  			<author>Lars Borin</author>
-  			<author>Markus Forsberg</author>
-  			<author>Benjamin Lyngfelt</author>
-  			<year>2013</year>
-  			<journal>Veredas</journal>
-  			<volume>17</volume>
-  			<pages>28-43</pages>
-  			<url>http://gup.ub.gu.se/publication/187063</url>
-  			<ISSN>1415-2533</ISSN>
-  			
-  			<documentLanguageName>English</documentLanguageName>
-  			<documentLanguageId>eng</documentLanguageId>
-  		</documentInfo>
-  	</documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Diabase: Towards a diachronic BLARK in support of historical studies</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Dimitrios Kokkinakis</author>
+        <year>2010</year>
+        <bookTitle>Proceedings of LREC 2010</bookTitle>
+        <url>http://gup.ub.gu.se/publication/118907</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>Close encounters of the fifth kind: Some linguistic and computational aspects of the Swedish FrameNet++ project</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Benjamin Lyngfelt</author>
+        <year>2013</year>
+        <journal>Veredas</journal>
+        <volume>17</volume>
+        <pages>28-43</pages>
+        <url>http://gup.ub.gu.se/publication/187063</url>
+        <ISSN>1415-2533</ISSN>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/dalin</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -155,7 +152,7 @@
         <linguisticInformation>morpho-Reflexivity</linguisticInformation>
         <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
@@ -163,34 +160,32 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageVarietyInfo>
-            	<languageVarietyType>other</languageVarietyType>
-            	<languageVarietyName>19th century Swedish</languageVarietyName>
+              <languageVarietyType>other</languageVarietyType>
+              <languageVarietyName>19th century Swedish</languageVarietyName>
             </languageVarietyInfo>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <sizeInfo><size>62327</size><sizeUnit>entries</sizeUnit></sizeInfo>
-          
+          <sizeInfo>
+            <size>62327</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size>62797</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTextFormat>
           </textFormatInfo>
-          
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size>62797</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -198,7 +193,6 @@
             <sizePerTimeCoverage>
               <size>62797</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -206,11 +200,13 @@
             <sizePerGeographicCoverage>
               <size>62797</size>
               <sizeUnit>entries</sizeUnit>
-              
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>
       </lexicalConceptualResourceMediaType>
     </lexicalConceptualResourceInfo>
   </resourceComponentType>
-<versionInfo><lastUpdated>2017-09-13</lastUpdated></versionInfo></resourceInfo>
+  <versionInfo>
+    <lastUpdated>2017-09-13</lastUpdated>
+  </versionInfo>
+</resourceInfo>
