@@ -8,7 +8,7 @@
     <resourceShortName lang="eng">mathir-words</resourceShortName>
     <resourceShortName lang="swe">mathir-ord</resourceShortName>
     <metaShareId/>
-    <identifier/>
+    <identifier>mathir-ord</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>

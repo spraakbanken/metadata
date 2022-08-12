@@ -7,8 +7,7 @@
     <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna resurs är fullständig i den bemärkelse att den innehåller både det semantiska och det syntaktiska innehållet. </description>
     <resourceShortName lang="eng">swefn-full</resourceShortName>
     <resourceShortName lang="swe">swefn-full</resourceShortName>
-    <metaShareId/>
-    <identifier/>
+    <metaShareId />
     <identifier>swefn-full</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -90,7 +89,7 @@
           <languageInfo>
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
-            <languageScript/>
+            <languageScript />
           </languageInfo>
           <sizeInfo>
             <size>1195</size>

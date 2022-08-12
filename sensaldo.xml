@@ -6,8 +6,7 @@
     <description lang="eng">SenSALDO, SALDO entries and text word forms with sentiment information (prior polarity)</description>
     <description lang="swe">SenSALDO, SALDO-ingångar och textord med attitydinformation</description>
     <resourceShortName>sensaldo</resourceShortName>
-    <metaShareId/>
-    <identifier/>
+    <metaShareId />
     <identifier>sensaldo</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -96,7 +95,7 @@
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>prior sentiment polarity</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo/>
+      <creationInfo />
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>
