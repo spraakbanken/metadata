@@ -3,9 +3,9 @@
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng" />
-    <resourceName lang="swe">Riksdagens öppna data - kammakt</resourceName>
+    <resourceName lang="swe">Riksdagens öppna data - Kammaraktiviteter</resourceName>
     <description lang="eng" />
-    <description lang="swe">Kammaraktiviteter</description>
+    <description lang="swe" />
     <resourceShortName lang="eng">rd-kammakt</resourceShortName>
     <resourceShortName lang="swe">rd-kammakt</resourceShortName>
     <metaShareId />
@@ -66,7 +66,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-08-19</metadataCreationDate>
+    <metadataCreationDate>2022-08-26</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/rd-kammakt</samplesLocation>
@@ -86,11 +86,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>6299326</size>
+            <size>6298451</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>314093</size>
+            <size>379277</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
