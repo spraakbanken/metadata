@@ -5,10 +5,8 @@
     <resourceName lang="eng">IVIP</resourceName>
     <resourceName lang="swe">IVIP</resourceName>
     <description lang="eng">Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish
-&lt;br&gt;&lt;br&gt;For access please contact &lt;a href="mailto:jenny.nilsson@isof.se"&gt;Jenny Nilsson&lt;/a&gt;.
 </description>
     <description lang="swe">Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska
-&lt;br&gt;&lt;br&gt;För åtkomst kontakta &lt;a href="mailto:jenny.nilsson@isof.se"&gt;Jenny Nilsson&lt;/a&gt;.
 </description>
     <resourceShortName lang="eng">ivip</resourceShortName>
     <resourceShortName lang="swe">ivip</resourceShortName>
@@ -64,7 +62,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-08-26</metadataCreationDate>
+    <metadataCreationDate>2022-08-27</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/ivip</samplesLocation>
