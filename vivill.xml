@@ -4,8 +4,8 @@
   <identificationInfo>
     <resourceName lang="eng">Swedish party programs and election manifestos</resourceName>
     <resourceName lang="swe">Svenska partiprogram och valmanifest</resourceName>
-    <description lang="eng">Swedish political party programs and election manifestos 1887-2010</description>
-    <description lang="swe">Svenska partiprogram och valmanifest 1887-2010</description>
+    <description lang="eng">Swedish political party programs and election manifestos 1887–2022</description>
+    <description lang="swe">Svenska partiprogram och valmanifest 1887–2022</description>
     <resourceShortName lang="eng">vivill</resourceShortName>
     <resourceShortName lang="swe">vivill</resourceShortName>
     <metaShareId />
@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-06-14</metadataCreationDate>
+    <metadataCreationDate>2022-09-09</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/vivill</samplesLocation>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>1746833</size>
+            <size>2099602</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>109337</size>
+            <size>128219</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
