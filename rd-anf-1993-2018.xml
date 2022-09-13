@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Anföranden</resourceName>
-    <resourceName lang="swe">Anföranden</resourceName>
-    <description lang="eng">Part of the Riksdag's open data</description>
-    <description lang="swe">Riksdagens öppna data: De tal som riksdagsledamöterna håller under debatter i kammaren kallas anföranden.</description>
-    <resourceShortName lang="eng">rd-anf</resourceShortName>
-    <resourceShortName lang="swe">rd-anf</resourceShortName>
+    <resourceName lang="eng">Riksdagens öppna data - Anföranden</resourceName>
+    <resourceName lang="swe">The Riksdag's open data - Debates</resourceName>
+    <description lang="eng">Debates from the Swedish parliament in the period 1993/94-2017/18</description>
+    <description lang="swe">Alla riksdagens anföranden från och med riksmötet 1993/94 till och med riksmötet 2017/2018</description>
+    <resourceShortName lang="eng">rd-anf-1993-2018</resourceShortName>
+    <resourceShortName lang="swe">rd-anf-1993-2018</resourceShortName>
     <metaShareId/>
-    <identifier>rd-anf</identifier>
+    <identifier>rd-anf-1993-2018</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -16,28 +16,23 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-anf.xml.bz2</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=rd-anf</executionLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-anf-1993-2018.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_RD-ANF.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_RD-ANF-1993-2018.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Göteborgs universitetsbibliotek</organizationName>
-        <organizationName lang="eng">Gothenburg University Library</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
         <communicationInfo>
-          <url>http://www.ub.gu.se/</url>
-          <address>Box 222</address>
-          <zipCode>40530</zipCode>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
           <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
@@ -81,7 +76,7 @@
     <validationExtent>full</validationExtent>
   </validationInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/rd-anf</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/rd-anf-1993-2018</samplesLocation>
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
