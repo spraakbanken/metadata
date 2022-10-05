@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Folkets röst 1850's</resourceName>
     <resourceName lang="swe">Folkets röst 1850-talet</resourceName>
-    <description lang="eng">A corpus with texts from Folkets röst in the 1850's; part of the Kubhist corpus</description>
-    <description lang="swe">En korpus med texter från Folkets röst på 1850-talet; del av Kubhist-korpusen</description>
+    <description lang="eng">Part of the collection Kubhist</description>
+    <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-folketsrost-1850</resourceShortName>
     <resourceShortName lang="swe">kubhist-folketsrost-1850</resourceShortName>
     <metaShareId/>
@@ -19,12 +19,6 @@
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-folketsrost-1850.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-folketsrost-1850</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
@@ -32,14 +26,12 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Kungliga Biblioteket</organizationName>
-        <organizationName lang="eng">The National Library of Sweden</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <communicationInfo>
-          <email>kungl.biblioteket@kb.se</email>
-          <url>http://www.kb.se/</url>
-          <address>Humlegårdsgatan 26</address>
-          <zipCode>102 41</zipCode>
-          <city>Stockholm</city>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>

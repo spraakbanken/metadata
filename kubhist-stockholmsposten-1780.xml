@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Stockholmsposten 1780's</resourceName>
-    <resourceName lang="swe">Stockholmsposten 1780-talet</resourceName>
-    <description lang="eng">A corpus with texts from Stockholmsposten in the 1780's; part of the Kubhist corpus</description>
-    <description lang="swe">En korpus med texter från Stockholmsposten på 1780-talet; del av Kubhist-korpusen</description>
+    <resourceName lang="eng">Gothenburgsposten 1780's</resourceName>
+    <resourceName lang="swe">Gothenburgsposten 1780-talet</resourceName>
+    <description lang="eng">Part of the collection Kubhist</description>
+    <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-stockholmsposten-1780</resourceShortName>
     <resourceShortName lang="swe">kubhist-stockholmsposten-1780</resourceShortName>
     <metaShareId/>
@@ -19,12 +19,6 @@
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-stockholmsposten-1780.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist-stockholmsposten-1780</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
@@ -32,14 +26,12 @@
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
-        <organizationName lang="swe">Kungliga Biblioteket</organizationName>
-        <organizationName lang="eng">The National Library of Sweden</organizationName>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
         <communicationInfo>
-          <email>kungl.biblioteket@kb.se</email>
-          <url>http://www.kb.se/</url>
-          <address>Humlegårdsgatan 26</address>
-          <zipCode>102 41</zipCode>
-          <city>Stockholm</city>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
           <country>Sweden</country>
         </communicationInfo>
       </organizationInfo>
