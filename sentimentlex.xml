@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Sentiment Lexicon</resourceName>
     <resourceName lang="swe">Sentimentlexikon</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Sentiment lexicon for Swedish based on SALDO</description>
+    <description lang="swe">Sentimentlexikon för svenska baserad på SALDO</description>
     <resourceShortName lang="eng">sentimentlex</resourceShortName>
     <resourceShortName lang="swe">sentimentlex</resourceShortName>
     <metaShareId/>
@@ -121,7 +121,7 @@
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
           <sizeInfo>
-            <size>0</size>
+            <size>2067</size>
             <sizeUnit>entries</sizeUnit>
           </sizeInfo>
           <textFormatInfo>
