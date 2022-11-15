@@ -4,7 +4,7 @@
     <resourceName lang="eng">COCTAILL</resourceName>
     <resourceName lang="swe">COCTAILL</resourceName>
     <description lang="eng">Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated.</description>
-    <description lang="swe">Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated.</description>
+    <description lang="swe">Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.</description>
     <resourceShortName lang="eng">coctaill</resourceShortName>
     <resourceShortName lang="swe">coctaill</resourceShortName>
     <metaShareId/>

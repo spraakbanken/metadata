@@ -17,7 +17,14 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <restrictionsOfUse>academic-nonCommercialUse</restrictionsOfUse>
       <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/MATHiR/</downloadLocation>
+      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY-NC</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <restrictionsOfUse>academic-nonCommercialUse</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
