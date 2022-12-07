@@ -13,23 +13,10 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/soexempel.xml.bz2</downloadLocation>
-      <attributionText>this file contains a scrambled version of the corpus</attributionText>
-    </licenceInfo>
-    <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#corpus=soexempel</executionLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOEXEMPEL.txt</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
