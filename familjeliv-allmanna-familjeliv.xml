@@ -4,11 +4,11 @@
   <identificationInfo>
     <resourceName lang="eng">Familjeliv: General Threads – Familjeliv.se</resourceName>
     <resourceName lang="swe">Familjeliv: Allmänna rubriker – Familjeliv.se</resourceName>
-    <description lang="eng">Material from the Familjeliv internet forum. Updated regularly.</description>
-    <description lang="swe">Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.</description>
+    <description lang="eng">Material from the Familjeliv internet forum.</description>
+    <description lang="swe">Material från diskussionsforumet Familjeliv.</description>
     <resourceShortName lang="eng">familjeliv-allmanna-familjeliv</resourceShortName>
     <resourceShortName lang="swe">familjeliv-allmanna-familjeliv</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>familjeliv-allmanna-familjeliv</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-04-25</metadataCreationDate>
+    <metadataCreationDate>2023-01-12</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/familjeliv-allmanna-familjeliv</samplesLocation>
