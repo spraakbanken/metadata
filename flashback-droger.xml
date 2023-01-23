@@ -4,11 +4,11 @@
   <identificationInfo>
     <resourceName lang="eng">Flashback: Drugs</resourceName>
     <resourceName lang="swe">Flashback: Droger</resourceName>
-    <description lang="eng">Material from the Flashback internet forum. Updated regularly.</description>
-    <description lang="swe">Material från diskussionsforumet Flashback. Uppdateras regelbundet.</description>
+    <description lang="eng">Material from the Flashback internet forum.</description>
+    <description lang="swe">Material från diskussionsforumet Flashback.</description>
     <resourceShortName lang="eng">flashback-droger</resourceShortName>
     <resourceShortName lang="swe">flashback-droger</resourceShortName>
-    <metaShareId/>
+    <metaShareId />
     <identifier>flashback-droger</identifier>
   </identificationInfo>
   <distributionInfo>
@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2022-02-02</metadataCreationDate>
+    <metadataCreationDate>2023-01-21</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/flashback-droger</samplesLocation>
