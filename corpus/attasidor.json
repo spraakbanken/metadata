@@ -1,0 +1,70 @@
+{
+    "id": "attasidor",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "8 Sidor",
+    "name_sv": "8 Sidor",
+    "description_en": "News articles from 8 SIDOR.",
+    "description_sv": "Nyhetsartiklar från 8 SIDOR.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/attasidor.xml.bz2",
+            "type": "corpus",
+            "format": "XML",
+            "info": "this file contains a scrambled version of the corpus"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_attasidor.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/attasidor.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=attasidor"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "4516949",
+        "sentences": "427550"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "scrambled"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "vivill",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "Swedish party programs and election manifestos",
+    "name_sv": "Svenska partiprogram och valmanifest",
+    "description_en": "Swedish political party programs and election manifestos 1887–2022",
+    "description_sv": "Svenska partiprogram och valmanifest 1887–2022",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2",
+            "type": "corpus",
+            "format": "XML",
+            "info": "this file contains a scrambled version of the corpus"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_vivill.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/vivill.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/?mode={'name': 'default'}#corpus=vivill"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "2099602",
+        "sentences": "128219"
+    },
+    "korp_info": {
+        "modes": [
+            {
+                "name": "default"
+            }
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "scrambled"
+    }
+}

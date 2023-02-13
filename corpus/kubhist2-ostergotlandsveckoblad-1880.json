@@ -1,0 +1,72 @@
+{
+    "id": "kubhist2-ostergotlandsveckoblad-1880",
+    "type": "corpus",
+    "trainingdata": false,
+    "in_collections": [
+        "kubhist2"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "Östergötlands Veckoblad 1880's",
+    "name_sv": "Östergötlands Veckoblad 1880-talet",
+    "description_en": "Part of the collection Kubhist2",
+    "description_sv": "Del av samlingen Kubhist2",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-ostergotlandsveckoblad-1880.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-ostergotlandsveckoblad-1880.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist2-ostergotlandsveckoblad-1880.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-ostergotlandsveckoblad-1880"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "5665006",
+        "sentences": "338642"
+    },
+    "korp_info": {
+        "modes": [
+            "kubhist"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "original"
+    }
+}

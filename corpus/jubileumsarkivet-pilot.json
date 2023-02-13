@@ -1,0 +1,71 @@
+{
+    "id": "jubileumsarkivet-pilot",
+    "type": "corpus",
+    "trainingdata": false,
+    "in_collections": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "Jubilee Archive (pilot)",
+    "name_sv": "Jubileumsarkivet (pilot)",
+    "description_en": "Parts of the Gothenburg University Library's digitized collection of newspaper clippings about the Gothenburg Tercentennial Jubilee Exposition in 2023",
+    "description_sv": "Delar av Göteborgs universitetsbiblioteks digitaliserade samling av tidningsklipp som handlar om Jubileumsutställningen i Göteborg 2023",
+    "long_description_sv": "Korpusen har skapats inom projektet <a href=\"https://www.gu.se/forskning/jubileumsarkivet-inledande-inventering-digitalisering-och-analys-av-goteborgs-universitetsbiblioteks-samling-om-stadens-300-arsjubileum-1923\" target=\"_blank\">\n\"Jubileumsarkivet: Inledande inventering, digitalisering och analys av Göteborgs universitetsbiblioteks samling om stadens 300-årsjubileum 1923\"</a>.\n",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/jubileumsarkivet-pilot.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_jubileumsarkivet-pilot.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/jubileumsarkivet-pilot.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=jubileumsarkivet-pilot"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1293755",
+        "sentences": "76407"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "original"
+    }
+}

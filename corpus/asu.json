@@ -1,0 +1,62 @@
+{
+    "id": "asu",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "ASU",
+    "name_sv": "ASU",
+    "description_en": "Structural development of the second language",
+    "description_sv": "Andraspråkets strukturutveckling",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/asu.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=asu"
+        }
+    ],
+    "contact_info": {
+        "surname": "Hammarberg",
+        "givenName": "Björn",
+        "email": "ham@ling.su.se",
+        "affiliation": {
+            "organisation": "Institutionen för lingvistik, Stockholms universitet",
+            "email": "exp@ling.su.se"
+        }
+    },
+    "size": {
+        "tokens": "643949",
+        "sentences": "46705"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": true
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": false
+    }
+}

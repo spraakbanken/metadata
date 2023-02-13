@@ -1,0 +1,55 @@
+{
+  "id": "kubhist-postochinrikestidning-1780",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "kubhist"
+  ],
+  "lang": [
+    {
+      "code": "swe",
+      "name_en": "Swedish",
+      "name_sv": "svenska"
+    }
+  ],
+  "name_sv": "Post- och Inrikes Tidningar 1780-talet",
+  "name_en": "Post- och Inrikes Tidningar 1780's",
+  "description_en": "Part of the collection Kubhist",
+  "description_sv": "Del av samlingen Kubhist",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-POSTOCHINRIKESTIDNING-1780.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist-postochinrikestidning-1780.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "3276349",
+    "sentences": "213932"
+  },
+  "export": {
+      "stats_export": true,
+      "xml_export": "original"
+  },
+  "long_description_sv": "På grund av brist på utrymme på våra servrar går det just nu inte att ladda ner XML-filerna med meningsmängder till korpusarna i Kubhist-samlingen. Vänligen kontakta sb-info@svenska.gu.se om du behöver få tillgång till meningsmängderna.",
+  "long_description_en": "Due to a lack of disk space the download of the XML files containing the sentence sets for the Kubhist collection is currently disabled. Please contact sb-info@svenska.gu.se if you need access to the XML files."
+}

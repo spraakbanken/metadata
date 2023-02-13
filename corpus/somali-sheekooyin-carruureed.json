@@ -1,0 +1,63 @@
+{
+    "id": "somali-sheekooyin-carruureed",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "som",
+            "name_en": "Somali",
+            "name_sv": "somaliska"
+        }
+    ],
+    "name_en": "Sheekooyin Carruureed (Turjuman)",
+    "name_sv": "Sheekooyin Carruureed (Turjuman)",
+    "description_en": null,
+    "description_sv": null,
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooyin-carruureed.xml.bz2",
+            "type": "corpus",
+            "format": "XML",
+            "info": "this file contains a scrambled version of the corpus"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-sheekooyin-carruureed.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-sheekooyin-carruureed"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "13865",
+        "sentences": "1321"
+    },
+    "korp_info": {
+        "modes": [
+            "somali"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": false,
+        "xml_export": "scrambled"
+    }
+}
