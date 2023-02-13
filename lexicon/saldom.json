@@ -1,0 +1,53 @@
+{
+    "id": "saldom",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SALDOs morfologi",
+    "name_en": "SALDO's morphology",
+    "description_sv": "Semantiskt och morfologiskt lexikon för språkteknologi",
+    "description_en": "Semantic and morphological lexicon for language technology",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldom/saldom.xml",
+            "type": "lexicon",
+            "format": "LMF"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/saldom.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "128036"
+    }
+}

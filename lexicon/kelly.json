@@ -1,0 +1,61 @@
+{
+    "id": "kelly",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Kelly",
+    "name_en": "Kelly",
+    "description_sv": "Nyckelord för språkinlärning för unga och vuxna",
+    "description_en": "Keywords for Language Learning for Young and adults alike",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml",
+            "type": "lexicon",
+            "format": "LMF"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls",
+            "type": "Swedish-Kelly_M3_CEFR.xls",
+            "format": "xls"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/kelly.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/#?resources=kelly"
+        }
+    ],
+    "contact_info": {
+        "surname": "Volodina",
+        "givenName": "Elena",
+        "email": "elena.volodina@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "8425"
+    }
+}

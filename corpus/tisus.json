@@ -1,0 +1,45 @@
+{
+    "id": "tisus",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "TISUS-texter",
+    "name_en": "TISUS texts",
+    "description_sv": "Essays written by L2 Swedish learners as part of a TISUS exam",
+    "description_en": "Essays written by L2 Swedish learners as part of a TISUS exam",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/tisus.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/#corpus=tisus"
+        }
+    ],
+    "contact_info": {
+        "surname": "Elena",
+        "givenName": "Volodina",
+        "email": "elena.volodina@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "59639",
+        "sentences": "3484"
+    }
+}

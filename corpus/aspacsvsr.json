@@ -1,0 +1,86 @@
+{
+    "id": "aspacsvsr",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "srp",
+            "name_en": "Serbian",
+            "name_sv": "serbiska"
+        }
+    ],
+    "name_sv": "ASPAC – svenska-serbiska (latin)",
+    "name_en": "ASPAC – Swedish-Serbian (latin)",
+    "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Swedish part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsr-sv.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Serbian part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsr-sr.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Swedish part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSR-SV.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Serbian part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSR-SR.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvsr.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvsr-sv"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "505216",
+        "sentences": "33946"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "swe-absa-bank",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svensk ABSAbank",
+    "name_en": "Swedish ABSAbank",
+    "description_sv": "Svensk annoterad korpus för aspektbaserad attitydanalys",
+    "description_en": "An annotated Swedish corpus for aspect-based sentiment analysis",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/swe-absa-bank.zip",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swe-absa-bank.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Rouces",
+        "givenName": "Jacobo",
+        "email": "jacobo.rouces@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1574226",
+        "sentences": "108132"
+    }
+}

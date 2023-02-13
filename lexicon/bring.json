@@ -1,0 +1,46 @@
+{
+    "id": "bring",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Bring",
+    "name_en": "Bring",
+    "description_sv": "Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930) i digital version",
+    "description_en": "A digital version of Bring's thesaurus (1930)",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt",
+            "type": "bring.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bring.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Borin",
+        "givenName": "Lars",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "148815"
+    }
+}

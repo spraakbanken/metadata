@@ -1,0 +1,38 @@
+{
+    "id": "swell-gold",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweLL-gold",
+    "name_en": "SweLL-gold",
+    "description_sv": "",
+    "description_en": "Essays written by adult learners of Swedish",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swell-gold.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Volodina",
+        "givenName": "Elena",
+        "email": "swell@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "texts": "502"
+    }
+}

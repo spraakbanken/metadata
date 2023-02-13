@@ -1,0 +1,60 @@
+{
+    "id": "stanza_synt",
+    "type": "model",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Dependensparsningsmodell: Stanza",
+    "name_en": "Dependency parsing model: Stanza",
+    "description_sv": "Förtränade modeller för dependensparsning.",
+    "description_en": "Pretrained models for dependency parsing.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/synt_stanza_eval.zip",
+            "type": "synt_stanza_eval.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/synt_stanza_full2.zip",
+            "type": "synt_stanza_full2.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip",
+            "type": "stanza_pretrain.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/stanza_synt.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {}
+}

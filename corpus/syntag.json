@@ -1,0 +1,54 @@
+{
+    "id": "syntag",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Syntag trädbank",
+    "name_en": "Syntag treebank",
+    "description_sv": "En svensk trädbank med syntaktisk analys av 158 artiklar ur Press-65.",
+    "description_en": "A Swedish treebank with syntactic analysis of 158 articles from Press-65.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.txt",
+            "type": "syntag.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.html",
+            "type": "syntag.html",
+            "format": "html"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/syntag.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "101329"
+    }
+}

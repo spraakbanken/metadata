@@ -1,0 +1,86 @@
+{
+    "id": "europarl-svfi",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "fin",
+            "name_en": "Finnish",
+            "name_sv": "finska"
+        }
+    ],
+    "name_sv": "Europarl – svenska-finska",
+    "name_en": "Europarl – Swedish-Finnish",
+    "description_sv": "Del av European Parliament Proceedings Parallel Corpus",
+    "description_en": "Part of European Parliament Proceedings Parallel Corpus",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Swedish part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Finnish part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-fi.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Swedish part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Finnish part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-FI.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/europarl-svfi.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-fi"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "59633364",
+        "sentences": "2872696"
+    }
+}

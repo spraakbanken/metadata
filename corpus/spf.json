@@ -1,0 +1,62 @@
+{
+    "id": "spf",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svensk prosafiktion 1800–1900",
+    "name_en": "Swedish Prose Fiction 1800–1900",
+    "description_sv": "All svensk skönlitteratur som trycktes första gången åren 1800, 1820, 1840, 1860, 1880 och 1900",
+    "description_en": "All Swedish fiction published for the first time during the years 1800, 1820, 1840, 1860, 1880 and 1900",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/spf.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SPF.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/spf.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=spf"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "16275130",
+        "sentences": "750965"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": "openedges",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "eng",
+            "name_en": "English",
+            "name_sv": "engelska"
+        },
+        {
+            "code": "deu",
+            "name_en": "German",
+            "name_sv": "tyska"
+        },
+        {
+            "code": "nld",
+            "name_en": "Dutch",
+            "name_sv": "nederländska"
+        }
+    ],
+    "name_sv": "OpenEDGeS",
+    "name_en": "OpenEDGeS",
+    "description_sv": "En delmängd av korpusen EDGeS Diachronic Bible Corpus, som tillhandahålls under en publik licens. EDGeS är en diakron och synkron parallelkorpus med bibelöversättningar från 1300-talet till nutid.",
+    "description_en": "The public license subset of the EDGeS Diachronic Bible Corpus, a diachronically and synchronically parallel corpus of Bible translations in Dutch,English, German and Swedish, with texts from the 14th century until today.",
+    "downloads": [
+        {
+            "licence": "CC BY-NC-SA 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "restriction": "attribution, non-commercial, share-alike",
+            "download": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip",
+            "type": "OpenEDGeS_v1.01.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "For license details of the previous versions, see the 'Read me.txt' file in the download.",
+            "download": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions",
+            "type": "other",
+            "format": null
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/openedges.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Bouma",
+        "givenName": "Gerlof",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "19399149"
+    }
+}

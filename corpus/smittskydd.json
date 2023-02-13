@@ -1,0 +1,62 @@
+{
+    "id": "smittskydd",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Smittskydd",
+    "name_en": "Smittskydd",
+    "description_sv": "Smittskyddsinstitutets tidning Smittskydd",
+    "description_en": "The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/smittskydd.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SMITTSKYDD.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/smittskydd.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/#corpus=smittskydd"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "691716",
+        "sentences": "41066"
+    }
+}

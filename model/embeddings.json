@@ -1,0 +1,36 @@
+{
+    "id": "embeddings",
+    "type": "model",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Förtränade inbäddningar",
+    "name_en": "Pretrained embeddings",
+    "description_sv": "En lista över förtränade inbäddningar för svenska",
+    "description_en": "A list of pretrained embeddings for Swedish",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/embeddings.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {}
+}

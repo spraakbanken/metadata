@@ -1,0 +1,45 @@
+{
+    "id": "forhor",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Förhör",
+    "name_en": "Hearings",
+    "description_sv": "",
+    "description_en": "",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/forhor.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/#corpus=forhor"
+        }
+    ],
+    "contact_info": {
+        "surname": "Ylva",
+        "givenName": "Byrman",
+        "email": "ylva.byrman@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
+            "email": "svenska.exp@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "49299",
+        "sentences": "2997"
+    }
+}

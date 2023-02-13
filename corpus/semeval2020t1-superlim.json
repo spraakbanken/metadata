@@ -1,0 +1,47 @@
+{
+    "id": "semeval2020t1-superlim",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SemEval 2020 Task 1 (repackaged for SuperLim)",
+    "name_en": "SemEval 2020 Task 1 (repackaged for SuperLim)",
+    "description_sv": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+    "description_en": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",
+            "type": "semeval2020t1_documentation_sheet.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/semeval2020t1-superlim.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Tahmasebi",
+        "givenName": "Nina",
+        "email": "nina.tahmasebi@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {},
+    "in_collections": [
+        "superlim"
+    ]
+}

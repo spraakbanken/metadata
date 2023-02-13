@@ -1,0 +1,71 @@
+{
+    "id": "rd-bet",
+    "type": "corpus",
+    "trainingdata": false,
+    "in_collections": [
+        "rd"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": null,
+    "name_sv": "Riksdagens öppna data - Betänkande",
+    "description_sv": "Utskottens betänkanden och utlåtanden, inklusive rksdagens beslut, en sammanfattning av voteringsresultaten och Beslut i korthet",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-bet.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-bet.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/rd-bet.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=rd-bet"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "203229298",
+        "sentences": "11105994"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "original"
+    }
+}

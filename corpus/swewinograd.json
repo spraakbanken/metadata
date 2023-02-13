@@ -1,0 +1,59 @@
+{
+    "id": "swewinograd",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweWinograd",
+    "name_en": "SweWinograd",
+    "description_sv": "En svensk utvärderingsmängd för pronomentolkning.",
+    "description_en": "A Swedish test set for pronoun resolution.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd.jsonl.gz",
+            "type": "swewinograd.jsonl.gz",
+            "format": "gz"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd_documentation_sheet.txt",
+            "type": "swewinograd_documentation_sheet.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewinograd.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Adesam",
+        "givenName": "Yvonne",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "items": "624"
+    },
+    "in_collections": [
+        "superlim"
+    ]
+}

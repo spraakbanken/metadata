@@ -1,0 +1,71 @@
+{
+    "id": "rd-frsrdg",
+    "type": "corpus",
+    "trainingdata": false,
+    "in_collections": [
+        "rd"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": null,
+    "name_sv": "Riksdagens öppna data - Framställning/redogörelse",
+    "description_sv": "Framställningar och redogörelser från organ som utsetts av riksdagen",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-frsrdg.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-frsrdg.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/rd-frsrdg.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=rd-frsrdg"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "18044760",
+        "sentences": "1268243"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "original"
+    }
+}

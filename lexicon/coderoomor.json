@@ -1,0 +1,78 @@
+{
+    "id": "coderoomor",
+    "type": "lexicon",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "CoDeRooMor, v.01",
+    "name_en": "CoDeRooMor, v.01",
+    "description_sv": "Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet",
+    "description_en": "Morphological dataset (word-building morphology), Swedish L2 profiles project, ",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv",
+            "type": "CodeRoomor_v01_lemgramView.csv",
+            "format": "csv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv",
+            "type": "CodeRoomor_v01_morphemeView.csv",
+            "format": "csv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx",
+            "type": "CodeRoomor_v01_lemgramView.xlsx",
+            "format": "xlsx"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx",
+            "type": "CodeRoomor_v01_morphemeView.xlsx",
+            "format": "xlsx"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/coderoomor.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/larkalabb/svlp"
+        }
+    ],
+    "contact_info": {
+        "surname": "Volodina",
+        "givenName": "Elena",
+        "email": "elena.volodina@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "words": "16230",
+        "other": "4986"
+    }
+}

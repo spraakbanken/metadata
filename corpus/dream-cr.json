@@ -1,0 +1,39 @@
+{
+    "id": "dream-cr",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "eng",
+            "name_en": "Multilingual",
+            "name_sv": ""
+        }
+    ],
+    "name_sv": "DReaM-Copyright-Protected",
+    "name_en": "DReaM-Copyright-Protected",
+    "description_sv": "En flerspråkig korpus av språkliga beskrivningar av världens naturliga språk.",
+    "description_en": "A multilingual corpus of linguistic descriptions of the world's natural languages.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/dream-cr.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Hammarström",
+        "givenName": "Harald",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "225617801",
+        "sentences": "34350897"
+    }
+}

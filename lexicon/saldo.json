@@ -1,0 +1,53 @@
+{
+    "id": "saldo",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Saldo",
+    "name_en": "Saldo",
+    "description_sv": "SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt lexikon för modernt svenskt skriftspråk för språkteknologi.",
+    "description_en": "SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml",
+            "type": "lexicon",
+            "format": "LMF"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/saldo.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/#lexicon=saldo"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "131020"
+    }
+}

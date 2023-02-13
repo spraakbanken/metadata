@@ -1,0 +1,57 @@
+{
+    "id": "swefracas",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweFraCas 1.0",
+    "name_en": "SweFraCas 1.0",
+    "description_sv": "Textual inference/entailment problem set",
+    "description_en": "Textual inference/entailment problem set",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv",
+            "type": "swefracas.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv",
+            "type": "swefracas_documentation_sheet.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swefracas.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Berdicevskis",
+        "givenName": "Aleksandrs",
+        "email": "aleksandrs.berdicevskis@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "Problems": "305"
+    },
+    "in_collections": [
+        "superlim"
+    ]
+}

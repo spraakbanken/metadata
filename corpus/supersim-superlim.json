@@ -1,0 +1,59 @@
+{
+    "id": "supersim-superlim",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SuperSim (paketterat för Superlim)",
+    "name_en": "SuperSim (repackaged for Superlim)",
+    "description_sv": "En test mängd för betydelsemässig likhet och koppling mellan svenska ord.",
+    "description_en": "A test set for word similarity and relatedness in Swedish",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip",
+            "type": "supersim-superlim.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt",
+            "type": "supersim-superlim_documentation_sheet.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/supersim-superlim.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Adesam",
+        "givenName": "Yvonne",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "items": "624"
+    },
+    "in_collections": [
+        "superlim"
+    ]
+}

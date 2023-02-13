@@ -1,0 +1,79 @@
+{
+    "id": "talbanken-stb",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "TalbankenSTB",
+    "name_en": "TalbankenSTB",
+    "description_sv": "Talbanken är en svensk trädbank.",
+    "description_en": "Talbanken is a Swedish treebank.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip",
+            "type": "TalbankenSTB.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt",
+            "type": "TalbankenSTB_README.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip",
+            "type": "TalbankenSTB_documentation.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip",
+            "type": "TalbankenSTB_datasplit.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip",
+            "type": "TalbankenSTB_original_parts.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/talbanken-stb.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "96346",
+        "sentences": "6160"
+    }
+}

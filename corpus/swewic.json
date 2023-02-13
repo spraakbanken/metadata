@@ -1,0 +1,59 @@
+{
+    "id": "swewic",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweWiC",
+    "name_en": "SweWiC",
+    "description_sv": "En svensk ord-i-sammanhang utvarderingsmängd.",
+    "description_en": "A Swedish Word-in-Context test set.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz",
+            "type": "swewic.jsonl.gz",
+            "format": "gz"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": null,
+            "download": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt",
+            "type": "swewic_documentation_sheet.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewic.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Adesam",
+        "givenName": "Yvonne",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "items": "624"
+    },
+    "in_collections": [
+        "superlim"
+    ]
+}

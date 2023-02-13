@@ -1,0 +1,53 @@
+{
+    "id": "hellqvist",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Hellquists Svensk etymologisk ordbok",
+    "name_en": "Hellquist's Swedish etymology",
+    "description_sv": "Hellquists Svensk etymologisk ordbok",
+    "description_en": "Hellquist's Swedish etymology",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/hellqvist/hellqvist.xml",
+            "type": "lexicon",
+            "format": "LMF"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/hellqvist.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/#/?resources=hellqvist"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "12368"
+    }
+}

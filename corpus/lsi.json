@@ -1,0 +1,54 @@
+{
+    "id": "lsi",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "eng",
+            "name_en": "English",
+            "name_sv": "engelska"
+        }
+    ],
+    "name_sv": "LSI",
+    "name_en": "LSI",
+    "description_sv": "Linguistic Survey of India",
+    "description_en": "Linguistic Survey of India",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lsi.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/lsi.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/?mode=lsi"
+        }
+    ],
+    "contact_info": {
+        "surname": "Virk",
+        "givenName": "Shafqat",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1193437",
+        "sentences": "72669"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": "europarl-sven",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "eng",
+            "name_en": "English",
+            "name_sv": "engelska"
+        }
+    ],
+    "name_sv": "Europarl – svenska-engelska",
+    "name_en": "Europarl – Swedish-English",
+    "description_sv": "Del av European Parliament Proceedings Parallel Corpus",
+    "description_en": "Part of European Parliament Proceedings Parallel Corpus",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Swedish part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the English part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-en.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Swedish part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the English part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-EN.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/europarl-sven.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-en"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "70026783",
+        "sentences": "2836195"
+    }
+}

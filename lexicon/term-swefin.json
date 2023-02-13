@@ -1,0 +1,45 @@
+{
+    "id": "term-swefin",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svensk-finska ordlistor",
+    "name_en": "Swedish-Finnish word lists",
+    "description_sv": "",
+    "description_en": "",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/term-swefin.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/#?mode=term-swefin&resources=term-swefin"
+        }
+    ],
+    "contact_info": {
+        "surname": "Domeij",
+        "givenName": "Rickard",
+        "email": "rickard.domeij@sprakochfolkminnen.se",
+        "affiliation": {
+            "organisation": "Institutet för språk och folkminnen",
+            "email": "registrator@sprakochfolkminnen.se"
+        }
+    },
+    "size": {
+        "entries": "9607"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": "swesat-synonyms",
+    "type": "lexicon",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweSAT Högskoleprovet ordförståelse",
+    "name_en": "SweSAT Swedish Scholastic Aptitude Test Synonyms",
+    "description_sv": "Högskoleprovet ordförståelse",
+    "description_en": "Swedish Scholastic Aptitude Test Synonyms",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt",
+            "type": "swesat-synonyms.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms_documentation_sheet.tsv",
+            "type": "swesat-synonyms_documentation_sheet.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/swesat-synonyms.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Adesam",
+        "givenName": "Yvonne",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "782"
+    }
+}

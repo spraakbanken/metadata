@@ -1,0 +1,62 @@
+{
+    "id": "coctaill",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "COCTAILL",
+    "name_en": "COCTAILL",
+    "description_sv": "Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.",
+    "description_en": "Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/coctaill.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/#corpus=coctaill"
+        }
+    ],
+    "contact_info": {
+        "surname": "Elena",
+        "givenName": "Volodina",
+        "email": "elena.volodina@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "710251",
+        "sentences": "89086"
+    }
+}

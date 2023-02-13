@@ -1,0 +1,62 @@
+{
+    "id": "wordreference",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "eng",
+            "name_en": "English",
+            "name_sv": "engelska"
+        },
+        {
+            "code": "spa",
+            "name_en": "Spanish",
+            "name_sv": "spanska"
+        },
+        {
+            "code": "fra",
+            "name_en": "French",
+            "name_sv": "franska"
+        },
+        {
+            "code": "ita",
+            "name_en": "Italian",
+            "name_sv": "italienska"
+        }
+    ],
+    "name_sv": "WordReference",
+    "name_en": "WordReference",
+    "description_sv": "En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i fyra språk.",
+    "description_en": "A large corpus of native and non-native written speech in four languages.",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/wordreference.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "170000000",
+        "speakers": "97500"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "sprakfragor",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Besvarade Språkfrågor",
+    "name_en": "Questions about the Swedish Language",
+    "description_sv": "Spåkrådets rådgivningsmejl",
+    "description_en": "Counselling mails of the Language Council of Sweden",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sprakfragor.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/#corpus=frageladan"
+        }
+    ],
+    "contact_info": {
+        "surname": "Jande",
+        "givenName": "Per-Anders",
+        "email": "Per-Anders.Jande@sprakochfolkminnen.se",
+        "affiliation": {
+            "organisation": "Institutet för språk och folkminnen",
+            "email": "registrator@sprakochfolkminnen.se"
+        }
+    },
+    "size": {
+        "tokens": "20083415",
+        "sentences": "1671088"
+    }
+}

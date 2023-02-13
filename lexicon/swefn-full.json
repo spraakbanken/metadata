@@ -1,0 +1,46 @@
+{
+    "id": "swefn-full",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svenskt frasnät (SweFN)",
+    "name_en": "Swedish FrameNet (SweFN)",
+    "description_sv": "En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna resurs är fullständig i den bemärkelse att den innehåller både det semantiska och det syntaktiska innehållet. ",
+    "description_en": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. It is the complete resource containing both the semantic and the syntactic content. ",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/swefn-full.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Dannélls",
+        "givenName": "Dana",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "Semantic frames": "1195"
+    }
+}

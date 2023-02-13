@@ -1,0 +1,134 @@
+{
+    "id": "lexin",
+    "type": "lexicon",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "sqi",
+            "name_en": "Albanian",
+            "name_sv": "albanska"
+        },
+        {
+            "code": "bos",
+            "name_en": "Bosnian",
+            "name_sv": "bosniska"
+        },
+        {
+            "code": "eng",
+            "name_en": "English",
+            "name_sv": "engelska"
+        },
+        {
+            "code": "fin",
+            "name_en": "Finnish",
+            "name_sv": "finska"
+        },
+        {
+            "code": "ell",
+            "name_en": "Greek",
+            "name_sv": "grekiska"
+        },
+        {
+            "code": "hrv",
+            "name_en": "Croatian",
+            "name_sv": "kroatiska"
+        },
+        {
+            "code": "kur",
+            "name_en": "Kurdish",
+            "name_sv": "kurdiska"
+        },
+        {
+            "code": "pes",
+            "name_en": "Persian",
+            "name_sv": "persiska"
+        },
+        {
+            "code": "rus",
+            "name_en": "Russian",
+            "name_sv": "ryska"
+        },
+        {
+            "code": "srp",
+            "name_en": "Serbian",
+            "name_sv": "serbiska"
+        },
+        {
+            "code": "som",
+            "name_en": "Somali",
+            "name_sv": "somaliska"
+        },
+        {
+            "code": "spa",
+            "name_en": "Spanish",
+            "name_sv": "spanska"
+        },
+        {
+            "code": "tur",
+            "name_en": "Turkish",
+            "name_sv": "turkiska"
+        }
+    ],
+    "name_sv": "Svenska ord, LEXIN",
+    "name_en": "Swedish words, LEXIN",
+    "description_sv": "Lexikon för invandrare. Andra upplagan",
+    "description_en": "Lexicon for immigrants. Second edition",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/pub/reskit/LEXIN.zip",
+            "type": "LEXIN.zip",
+            "format": "zip"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lexin/",
+            "type": "other",
+            "format": null
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lexin/",
+            "type": "other",
+            "format": null
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/lexin.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/karp/"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "entries": "29111"
+    }
+}

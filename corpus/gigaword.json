@@ -1,0 +1,102 @@
+{
+    "id": "gigaword",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "The Swedish Culturomics Gigaword Corpus",
+    "name_en": "The Swedish Culturomics Gigaword Corpus",
+    "description_sv": "En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
+    "description_en": "One billion Swedish words from 1950 and onwards. Code to extract data from the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1950-59.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1960-69.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1970-79.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1980-89.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1990-99.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2000-09.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2010-15.tar",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gigaword.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1015635151",
+        "sentences": "59736642"
+    }
+}

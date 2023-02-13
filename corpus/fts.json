@@ -1,0 +1,58 @@
+{
+    "id": "fts",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "fao",
+            "name_en": "Faroese",
+            "name_sv": "färöiska"
+        }
+    ],
+    "name_sv": "FTS - Färöisk textsamling",
+    "name_en": "FTS - Faroese text collection",
+    "description_sv": "Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/",
+    "description_en": "Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fts.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/FTS/search.phtml"
+        },
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=faroe#corpus=fts"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1142289"
+    }
+}

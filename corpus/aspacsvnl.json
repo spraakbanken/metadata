@@ -1,0 +1,86 @@
+{
+    "id": "aspacsvnl",
+    "type": "corpus",
+    "trainingdata": false,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        },
+        {
+            "code": "nld",
+            "name_en": "Dutch",
+            "name_sv": "nederländska"
+        }
+    ],
+    "name_sv": "ASPAC – svenska-nederländska",
+    "name_en": "ASPAC – Swedish-Dutch",
+    "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Swedish part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-sv.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains a scrambled version of the Dutch part of the corpus",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-nl.xml.bz2",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Swedish part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-SV.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "info": "this file contains statistics on the Dutch part of the corpus",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVNL-NL.txt",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvnl.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "other",
+            "restriction": "other",
+            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvnl-sv"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "1549106",
+        "sentences": "95077"
+    }
+}

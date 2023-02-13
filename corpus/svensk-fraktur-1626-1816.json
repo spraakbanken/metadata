@@ -1,0 +1,46 @@
+{
+    "id": "svensk-fraktur-1626-1816",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svensk fraktur 1626-1816",
+    "name_en": "Swedish fraktur 1626-1816",
+    "description_sv": "Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.",
+    "description_en": "A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB). For OCR analysis. ",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svensk-fraktur-1626-1816.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Dannélls",
+        "givenName": "Dana",
+        "email": "dana.dannells@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "47924"
+    }
+}

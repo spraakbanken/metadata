@@ -1,0 +1,57 @@
+{
+    "id": "analogy",
+    "type": "corpus",
+    "trainingdata": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "Svensk analogi testmängd v1.0",
+    "name_en": "Swedish analogy test set v1.0",
+    "description_sv": "Svensk semantisk och syntaktisk likhet: testmängd",
+    "description_en": "Swedish semantic and syntactic similarity: test set",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt",
+            "type": "sv-analogi.txt",
+            "format": "txt"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv",
+            "type": "analogy_documentation_sheet.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/analogy.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Berdicevskis",
+        "givenName": "Aleksandrs",
+        "email": "aleksandrs.berdicevskis@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "analogies": "20638"
+    },
+    "in_collections": [
+        "superlim"
+    ]
+}

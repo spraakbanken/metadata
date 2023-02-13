@@ -1,0 +1,73 @@
+{
+    "id": "svt-nodate",
+    "type": "corpus",
+    "trainingdata": false,
+    "in_collections": [
+        "svt"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "SVT news unknown date",
+    "name_sv": "SVT nyheter okänt datum",
+    "description_en": "News texts from svt.se",
+    "description_sv": "Nyhetstexter från svt.se",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/svt-nodate.xml.bz2",
+            "type": "corpus",
+            "format": "XML",
+            "info": "this file contains a scrambled version of the corpus"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_svt-nodate.csv",
+            "type": "token frequencies",
+            "format": "CSV"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svt-nodate.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=svt-nodate"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "tokens": "36783",
+        "sentences": "2923"
+    },
+    "korp_info": {
+        "modes": [
+            "default"
+        ],
+        "protected": false
+    },
+    "export": {
+        "stats_export": true,
+        "xml_export": "scrambled"
+    }
+}
