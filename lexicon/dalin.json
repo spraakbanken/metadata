@@ -11,8 +11,8 @@
     ],
     "name_sv": "Dalin Ordbok Öfver Svenska Språket",
     "name_en": "Dalin Dictionary",
-    "description_sv": "Dalins ordbok - Ordbok över 1800-talsspråket",
-    "description_en": "Dalin's Dictionary of 19th century Swedish",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_swe.html}",
+    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_eng.html}",
     "downloads": [
         {
             "licence": "CC BY 4.0",

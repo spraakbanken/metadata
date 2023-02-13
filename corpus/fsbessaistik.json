@@ -11,7 +11,7 @@
     ],
     "name_sv": "Essäistisk litteratur 1992-2013",
     "name_en": "Essayistic literature 1992-2013",
-    "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-essaistik.html}\n",
     "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
     "downloads": [
         {

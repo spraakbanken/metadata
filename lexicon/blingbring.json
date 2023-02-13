@@ -11,8 +11,8 @@
     ],
     "name_sv": "Blingbring",
     "name_en": "Blingbring",
-    "description_sv": "Blingbring, en SALDO-länkad och moderniserad version av Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930)",
-    "description_en": "Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-bara.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-pub.html}\n",
+    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-bara-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-pub.html}\n",
     "downloads": [
         {
             "licence": "CC BY 4.0",

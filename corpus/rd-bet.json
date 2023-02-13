@@ -12,7 +12,7 @@
             "name_sv": "svenska"
         }
     ],
-    "name_en": null,
+    "name_en": "",
     "name_sv": "Riksdagens öppna data - Betänkande",
     "description_sv": "Utskottens betänkanden och utlåtanden, inklusive rksdagens beslut, en sammanfattning av voteringsresultaten och Beslut i korthet",
     "downloads": [
@@ -67,5 +67,6 @@
     "export": {
         "stats_export": true,
         "xml_export": "original"
-    }
+    },
+    "description_en": ""
 }

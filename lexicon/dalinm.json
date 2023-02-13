@@ -11,8 +11,8 @@
     ],
     "name_sv": "Dalins morfologi",
     "name_en": "Dalin's morphology",
-    "description_sv": "En morfologi från Dalins ordbok - Ordbok över 1800-talsspråket",
-    "description_en": "A morphology from Dalin's Dictionary of 19th century Swedish",
+    "description_sv": "<p>\nDalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) är en ordbok digitaliserad vid Språkbanken. Vi har utvecklat en morfologi, ett fullformslexikon, för Dalins ordbok, som en del i <a href=\"http://spraakbanken.gu.se/swefn\">SweFN++</a>.\n</p>\n<!--\n<ul>\n<li><a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html\">Arbetsmaterial</a></li>\n<li><a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html\">Arbetsmaterial: supplementet</a></li>\n<li>Morfologins utvecklingsversion: <a href=\"http://spraakbanken.gu.se/sblex/resources/#dalin\">nedladdning</a></li>\n<li><a href=\"http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik\">Statistik</a></li>\n</ul>\n-->",
+    "description_en": "<p>\nDalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) is a 19th century dictionary digitized at Språkbanken. We have developed a morphology, a fullform lexicon, for this dictionary, as part of the <a href=\"http://spraakbanken.gu.se/swefn\">Swedish Framenet++</a>.\n</p>\n<!--\n<ul>\n<li><a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html\">Working material</a></li>\n<li><a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html\">Working material: the supplement</a></li>\n<li>Development version of the morphology: <a href=\"http://spraakbanken.gu.se/sblex/resources/#dalin\">download</a></li>\n<li><a href=\"http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik\">Statistics</a></li>\n</ul>\n\n-->\n",
     "downloads": [
         {
             "licence": "CC BY 4.0",

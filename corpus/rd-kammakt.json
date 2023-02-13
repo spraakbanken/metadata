@@ -12,7 +12,7 @@
             "name_sv": "svenska"
         }
     ],
-    "name_en": null,
+    "name_en": "",
     "name_sv": "Riksdagens öppna data - Kammaraktiviteter",
     "downloads": [
         {
@@ -66,5 +66,7 @@
     "export": {
         "stats_export": true,
         "xml_export": "original"
-    }
+    },
+    "description_sv": "",
+    "description_en": ""
 }

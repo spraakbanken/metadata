@@ -11,7 +11,7 @@
     ],
     "name_sv": "Press 98",
     "name_en": "Press 98",
-    "description_sv": "Svensk press 1998",
+    "description_sv": "<p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten \noch Svenska Dagbladet</B>. Denna gång har vi medvetet\nvalt att variera insamlingsperioderna mellan de olika\ntidningarna. Följande insamlingsperioder gäller (observera \natt hittills endast tre av fyra perioder insamlats):\n\n</p>\n<p>Insamlingen omfattar följande dagar:\n<ul>\n<li><i>DN:   3/2-12/2, 19/5-28/5,  9/6-3/7 </i>\n<li><i>GP:  12/1- 1/2,  6/4-26/4,  6/7-26/7</i>\n<li><i>SvD:  2/2-22/2, 27/4-17/5,  3/8-23/8</i>\n</ul>\n</p>\n<p>Det kan inte nog sägas: Ett stort tack till DN, GP och SvD för \ndet mycket vänliga bemötandet och den hjälpsamhet som ni visat\ntrots er ändå stora arbetsbörda. Tack Anders, tack Kjell, tack Lena.</p>\n\n<p>Språkbanken, oktober 1998.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
     "description_en": "Swedish press 1998",
     "downloads": [
         {

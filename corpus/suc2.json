@@ -11,8 +11,8 @@
     ],
     "name_sv": "SUC 2.0",
     "name_en": "SUC 2.0",
-    "description_sv": "Stockholm-Umeå-korpus 2.0",
-    "description_en": "Stockholm-Umeå corpus 2.0",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",
+    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUC 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}\n",
     "downloads": [
         {
             "licence": "CC BY 4.0",

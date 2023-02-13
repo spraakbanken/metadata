@@ -11,8 +11,8 @@
     ],
     "name_sv": "Bring",
     "name_en": "Bring",
-    "description_sv": "Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930) i digital version",
-    "description_en": "A digital version of Bring's thesaurus (1930)",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-bara.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-pub.html}\n",
+    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-bara-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-pub.html}\n",
     "downloads": [
         {
             "licence": "CC BY 4.0",

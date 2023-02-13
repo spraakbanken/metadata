@@ -11,8 +11,8 @@
     ],
     "name_sv": "SUC Romaner (StorSUC)",
     "name_en": "SUC Novels (StorSUC)",
-    "description_sv": "Stockholm-Umeå-korpus",
-    "description_en": "Stockholm-Umeå corpus",
+    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/sucromaner_swe.html}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc_swe.html}\n",
+    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/sucromaner_eng.html}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc_eng.html}\n",
     "downloads": [
         {
             "licence": "CC BY 4.0",
