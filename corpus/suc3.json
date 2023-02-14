@@ -66,5 +66,7 @@
     "export": {
         "stats_export": true,
         "xml_export": "scrambled"
-    }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",
+    "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}\n"
 }

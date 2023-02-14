@@ -79,5 +79,6 @@
     "export": {
         "stats_export": true,
         "xml_export": "original"
-    }
+    },
+    "long_description_en": "<p>The Stockholm Internet Corpus 2 (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities. Annotation was done by Robert Östling, Johan Sjons and Johannes Bjerva. Version 2 was created by Aleksandrs Berdicevskis by making minor changes in the annotation and the format (see below). The original version 1 can be found <a href=\"https://www.ling.su.se/english/nlp/corpora-and-resources/sic\">here</a>. Version 2 uses <a href=\"https://universaldependencies.org/ext-format.html\">an extended CoNLL-U format</a>. See more in the readme. The corpus is distributed under the Creative Commons Attribution-ShareAlike 3.0 Unported <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">license</a>.</p>"
 }
