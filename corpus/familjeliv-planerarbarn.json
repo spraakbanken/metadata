@@ -2,6 +2,9 @@
     "id": "familjeliv-planerarbarn",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",
@@ -11,8 +14,8 @@
     ],
     "name_en": "Familjeliv: Family Planning",
     "name_sv": "Familjeliv: Planerar barn",
-    "description_en": "Material from the Familjeliv internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.",
+    "description_en": "Material from the Familjeliv internet forum.",
+    "description_sv": "Material från diskussionsforumet Familjeliv.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "193215067",
-        "sentences": "13660972"
+        "tokens": "195053654",
+        "sentences": "13783636"
     },
     "korp_info": {
         "modes": [

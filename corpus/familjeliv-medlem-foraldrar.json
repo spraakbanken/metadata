@@ -2,6 +2,9 @@
     "id": "familjeliv-medlem-foraldrar",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",
@@ -11,8 +14,8 @@
     ],
     "name_en": "Familjeliv: Member Threads – Parents",
     "name_sv": "Familjeliv: Medlemstrådar – Föräldrar",
-    "description_en": "Material from the Familjeliv internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.",
+    "description_en": "Material from the Familjeliv internet forum.",
+    "description_sv": "Material från diskussionsforumet Familjeliv.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "286044902",
-        "sentences": "19361512"
+        "tokens": "286008296",
+        "sentences": "19358708"
     },
     "korp_info": {
         "modes": [

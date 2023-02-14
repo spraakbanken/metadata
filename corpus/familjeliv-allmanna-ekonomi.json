@@ -2,7 +2,9 @@
     "id": "familjeliv-allmanna-ekonomi",
     "type": "corpus",
     "trainingdata": false,
-    "in_collections": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",
