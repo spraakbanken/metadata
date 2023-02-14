@@ -2,6 +2,7 @@
     "id": "familjeliv-kansliga",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": false,
     "lang": [
         {
             "code": "swe",
@@ -11,8 +12,8 @@
     ],
     "name_en": "Familjeliv: Delicate Room",
     "name_sv": "Familjeliv: Känsliga rummet",
-    "description_en": "Material from the Familjeliv internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.",
+    "description_en": "Material from the Familjeliv internet forum.",
+    "description_sv": "Material från diskussionsforumet Familjeliv.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +55,8 @@
         }
     },
     "size": {
-        "tokens": "967156213",
-        "sentences": "58851699"
+        "tokens": "987610019",
+        "sentences": "60153862"
     },
     "korp_info": {
         "modes": [

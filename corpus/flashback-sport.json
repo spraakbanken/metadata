@@ -2,6 +2,9 @@
     "id": "flashback-sport",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "flashback"
+    ],
     "lang": [
         {
             "code": "swe",
@@ -11,8 +14,8 @@
     ],
     "name_en": "Flashback: Sports & Fitness",
     "name_sv": "Flashback: Sport & träning",
-    "description_en": "Material from the Flashback internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Flashback. Uppdateras regelbundet.",
+    "description_en": "Material from the Flashback internet forum.",
+    "description_sv": "Material från diskussionsforumet Flashback.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "251156745",
-        "sentences": "18167949"
+        "tokens": "260585754",
+        "sentences": "18871935"
     },
     "korp_info": {
         "modes": [
