@@ -11,8 +11,8 @@
     ],
     "name_sv": "SenSALDO",
     "name_en": "SenSALDO",
-    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
-    "description_en": "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
+    "description_sv": "SenSALDO, SALDO-ingångar och textord med attitydinformation",
+    "description_en": "SenSALDO, SALDO entries and text word forms with sentiment information (prior polarity)",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -50,5 +50,7 @@
     },
     "size": {
         "entries": "12287"
-    }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
+    "long_description_en": "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n"
 }

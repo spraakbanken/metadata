@@ -11,8 +11,8 @@
     ],
     "name_sv": "Bloggmix okänt datum",
     "name_en": "Blog mix unknown date",
-    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
-    "description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n",
+    "description_sv": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "description_en": "Material from a selection of Swedish blogs. Is updated regularly.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -58,5 +58,7 @@
     "size": {
         "tokens": "35028559",
         "sentences": "2212869"
-    }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
+    "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n"
 }

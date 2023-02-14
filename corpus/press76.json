@@ -11,7 +11,7 @@
     ],
     "name_sv": "Press 76",
     "name_en": "Press 76",
-    "description_sv": "<p>\nKorpusen består av blandat tidningsmaterial på c.a 1,3 miljoner löpande ord från fem tidningar år 1976. \nFöljande tidningar ingår:\n<br />\n\n<table width=\"60%\">\n<tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>\n<tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>\n<tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>\n<tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>\n<tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>\n</table>\n</p>\n\n<p>\nMaterialet är insamlat på hålremsa under perioder som motsvarar dem som användes för \nPress 65.\n</p>\n<p>\nSyftet med insamlingen var att komplettera Press 65 med en\nlikartad korpus efter ett lämpligt tidsintervall, främst för att kunna\nstudera kortsiktiga vokabulärförändringar. Materialet är inte rättat\noch innehåller korrekturfel. Dess närmare komposition (i fråga om ämnen\netc.) skulle, vid behov, kunna rekonstrueras utifrån Språkbankens källmaterial.\n</p>\n<p>\nI konkordansen identifieras raderna enbart med förkortningarna för Tidning enligt ovan.\n</p>\n\n<p>Jerker Järborg</p>\n",
+    "description_sv": "Svensk press 1976",
     "description_en": "Swedish press 1976",
     "downloads": [
         {
@@ -58,5 +58,6 @@
     "size": {
         "tokens": "1348122",
         "sentences": "88919"
-    }
+    },
+    "long_description_sv": "<p>\nKorpusen består av blandat tidningsmaterial på c.a 1,3 miljoner löpande ord från fem tidningar år 1976. \nFöljande tidningar ingår:\n<br />\n\n<table width=\"60%\">\n<tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>\n<tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>\n<tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>\n<tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>\n<tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>\n</table>\n</p>\n\n<p>\nMaterialet är insamlat på hålremsa under perioder som motsvarar dem som användes för \nPress 65.\n</p>\n<p>\nSyftet med insamlingen var att komplettera Press 65 med en\nlikartad korpus efter ett lämpligt tidsintervall, främst för att kunna\nstudera kortsiktiga vokabulärförändringar. Materialet är inte rättat\noch innehåller korrekturfel. Dess närmare komposition (i fråga om ämnen\netc.) skulle, vid behov, kunna rekonstrueras utifrån Språkbankens källmaterial.\n</p>\n<p>\nI konkordansen identifieras raderna enbart med förkortningarna för Tidning enligt ovan.\n</p>\n\n<p>Jerker Järborg</p>\n"
 }

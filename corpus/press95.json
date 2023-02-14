@@ -11,7 +11,7 @@
     ],
     "name_sv": "Press 95",
     "name_en": "Press 95",
-    "description_sv": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n<ul>\n<li>6 (6 feb-12 feb)</li>\n<li>20 (15 maj-21 maj)</li>\n<li>34 (21 aug-27 aug)</li>\n<li>48 (27 nov-3 dec)</li>\n</ul>\n</p>\n\n<p>\nIngående tidningar är <B>Arbetet, Dagens Nyheter, Göteborgs-Posten, Svenska Dagbladet och\nSydsvenskan</B>. Arbetet och Sydsvenskan saknas dock från den fjärde perioden.\n</p>\n<p>\nVi tackar tidningarna som hela tiden bemött oss mycket\nvänligt och som, trots det extraarbete som våra önskemål\nmedfört för dem, inte tvekat att ställa upp.\n</p>\n\n<p>Göteborg i mars 1997.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
+    "description_sv": "Svensk press 1995",
     "description_en": "Swedish press 1995",
     "downloads": [
         {
@@ -58,5 +58,6 @@
     "size": {
         "tokens": "7671700",
         "sentences": "505815"
-    }
+    },
+    "long_description_sv": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n<ul>\n<li>6 (6 feb-12 feb)</li>\n<li>20 (15 maj-21 maj)</li>\n<li>34 (21 aug-27 aug)</li>\n<li>48 (27 nov-3 dec)</li>\n</ul>\n</p>\n\n<p>\nIngående tidningar är <B>Arbetet, Dagens Nyheter, Göteborgs-Posten, Svenska Dagbladet och\nSydsvenskan</B>. Arbetet och Sydsvenskan saknas dock från den fjärde perioden.\n</p>\n<p>\nVi tackar tidningarna som hela tiden bemött oss mycket\nvänligt och som, trots det extraarbete som våra önskemål\nmedfört för dem, inte tvekat att ställa upp.\n</p>\n\n<p>Göteborg i mars 1997.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}"
 }

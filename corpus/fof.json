@@ -11,7 +11,7 @@
     ],
     "name_sv": "Forskning & Framsteg",
     "name_en": "Forskning & Framsteg",
-    "description_sv": "<p>\nArtiklar från tidskriften <B>Forskning &amp; Framsteg</B>, \nnummer 7, 1992 till och med nummer 8, 1996. \n</p>\n<p>\nMaterialet i konkordansen över Forskning &amp; Framsteg\när inte helt identiskt med det som publicerats i\npappersutgåvan beroende på att vissa ändringar har\nutförts i senare produktionsled. Dessutom finns enstaka\nartiklar i konkordansen som inte alls publicerats eller som\nkommit att publiceras i ett senare nummer av tidskriften \nän vad som här anges. Vissa texter som tryckts\ni tidningen saknas i konkordansen.\n</p>\n<p>\nVi tackar Forskning &amp; Framsteg för det alltid\nlika vänliga tillmötesgåendet, år från år.\n</p>\n",
+    "description_sv": "En korpus av populärvetenskapliga artiklar från Forskning & Framsteg",
     "description_en": "A corpus of popular science articles from Forskning & Framsteg",
     "downloads": [
         {
@@ -58,5 +58,6 @@
     "size": {
         "tokens": "743831",
         "sentences": "44533"
-    }
+    },
+    "long_description_sv": "<p>\nArtiklar från tidskriften <B>Forskning &amp; Framsteg</B>, \nnummer 7, 1992 till och med nummer 8, 1996. \n</p>\n<p>\nMaterialet i konkordansen över Forskning &amp; Framsteg\när inte helt identiskt med det som publicerats i\npappersutgåvan beroende på att vissa ändringar har\nutförts i senare produktionsled. Dessutom finns enstaka\nartiklar i konkordansen som inte alls publicerats eller som\nkommit att publiceras i ett senare nummer av tidskriften \nän vad som här anges. Vissa texter som tryckts\ni tidningen saknas i konkordansen.\n</p>\n<p>\nVi tackar Forskning &amp; Framsteg för det alltid\nlika vänliga tillmötesgåendet, år från år.\n</p>\n"
 }

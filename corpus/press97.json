@@ -11,7 +11,7 @@
     ],
     "name_sv": "Press 97",
     "name_en": "Press 97",
-    "description_sv": "<p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten \noch Svenska Dagbladet</B>. På grund av en del tekniska\nproblem har insamlingsperioderna kommit att variera lite\nmellan å ena sidan DN och å andra sidan GP och SvD. \n\n</p>\n<p>Insamlingen omfattar följande dagar:\n<ul>\n<li>DN:  <I>  20/2-7/3, 31/5-16/6, 30/8-8/9, 15/9-24/9, 1/12-9/12, 11/12-24/12  </I></li>\n<li>GP:  <I>   3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                        </I></li>\n<li>SvD: <I> 3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                          </I></li>\n</ul>\n</p>\n\n<p>\nDet kan inte nog sägas: Ett stort tack till DN, GP och Svd för \ndet mycket vänliga bemötandet och den hjälpsamhet som ni visat\ntrots er ändå stora arbetsbörda. \n</p>\n<p>Språkbanken, juni 1998.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
+    "description_sv": "Svensk press 1997",
     "description_en": "Swedish press 1997",
     "downloads": [
         {
@@ -58,5 +58,6 @@
     "size": {
         "tokens": "13703279",
         "sentences": "977275"
-    }
+    },
+    "long_description_sv": "<p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten \noch Svenska Dagbladet</B>. På grund av en del tekniska\nproblem har insamlingsperioderna kommit att variera lite\nmellan å ena sidan DN och å andra sidan GP och SvD. \n\n</p>\n<p>Insamlingen omfattar följande dagar:\n<ul>\n<li>DN:  <I>  20/2-7/3, 31/5-16/6, 30/8-8/9, 15/9-24/9, 1/12-9/12, 11/12-24/12  </I></li>\n<li>GP:  <I>   3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                        </I></li>\n<li>SvD: <I> 3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                          </I></li>\n</ul>\n</p>\n\n<p>\nDet kan inte nog sägas: Ett stort tack till DN, GP och Svd för \ndet mycket vänliga bemötandet och den hjälpsamhet som ni visat\ntrots er ändå stora arbetsbörda. \n</p>\n<p>Språkbanken, juni 1998.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}"
 }

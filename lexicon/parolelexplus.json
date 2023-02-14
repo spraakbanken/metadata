@@ -11,8 +11,8 @@
     ],
     "name_sv": "Parole+",
     "name_en": "Parole+",
-    "description_sv": "<p>\nParole+ är en automatiskt utökad version av PAROLE syntaxdata för svenska, utarbetad vid Språkbanken. Den bygger på data från LE PAROLE-projektet, dokumenterat på hemsidan för PAROLE SIMPLE (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). Den ursprungliga syntaktiska informationen i PAROLE har automatiskt kopplats till ordbetydelser i SALDO, som även ger morfologisk information.\n</p>\n\n<p>\nDokumentet i LMF-format uppdateras kontinuerligt. De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt\">mappningsdokumentet</a> för mer information.\n</p>\n",
-    "description_en": "<p>\nParole+ is an automatically extended version of Parole syntax data for Swedish elaborated at Språkbanken. It is based on data from the LE PAROLE project documented at the PAROLE SIMPLE webpage (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). The original syntactic information in PAROLE has been automatically linked to senses in SALDO, which also provides morphological information.\n</p>\n\n<p>\nThe document in LMF format is subjected to uppdates. The syntactic codes have been changed to make the data more comprehensible. See the <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt\">mapping document</a> for more information.\n</p>\n",
+    "description_sv": "Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO",
+    "description_en": "The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, connected to SALDO senses",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -49,5 +49,7 @@
     },
     "size": {
         "entries": "29621"
-    }
+    },
+    "long_description_sv": "<p>\nParole+ är en automatiskt utökad version av PAROLE syntaxdata för svenska, utarbetad vid Språkbanken. Den bygger på data från LE PAROLE-projektet, dokumenterat på hemsidan för PAROLE SIMPLE (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). Den ursprungliga syntaktiska informationen i PAROLE har automatiskt kopplats till ordbetydelser i SALDO, som även ger morfologisk information.\n</p>\n\n<p>\nDokumentet i LMF-format uppdateras kontinuerligt. De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt\">mappningsdokumentet</a> för mer information.\n</p>\n",
+    "long_description_en": "<p>\nParole+ is an automatically extended version of Parole syntax data for Swedish elaborated at Språkbanken. It is based on data from the LE PAROLE project documented at the PAROLE SIMPLE webpage (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). The original syntactic information in PAROLE has been automatically linked to senses in SALDO, which also provides morphological information.\n</p>\n\n<p>\nThe document in LMF format is subjected to uppdates. The syntactic codes have been changed to make the data more comprehensible. See the <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt\">mapping document</a> for more information.\n</p>\n"
 }

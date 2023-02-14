@@ -11,8 +11,8 @@
     ],
     "name_sv": "Aventinus",
     "name_en": "Aventinus",
-    "description_sv": "<p>Mer information hittas på <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">Aventinus Projektsida</a>.</p>",
-    "description_en": "<p>You can find more information on <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">the Aventinus project page</a>.</p>",
+    "description_sv": "Narkotikarelaterad terminologi",
+    "description_en": "Drug related terminology",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -34,5 +34,7 @@
     },
     "size": {
         "entries": "0"
-    }
+    },
+    "long_description_sv": "<p>Mer information hittas på <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">Aventinus Projektsida</a>.</p>",
+    "long_description_en": "<p>You can find more information on <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">the Aventinus project page</a>.</p>"
 }

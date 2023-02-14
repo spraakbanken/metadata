@@ -11,7 +11,7 @@
     ],
     "name_sv": "Ålandstidningen 2012",
     "name_en": "Ålandstidningen 2012",
-    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-alandstidningen.html}\n",
+    "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
     "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
     "downloads": [
         {
@@ -49,5 +49,6 @@
     "size": {
         "tokens": "1180214",
         "sentences": "80481"
-    }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-alandstidningen.html}\n"
 }

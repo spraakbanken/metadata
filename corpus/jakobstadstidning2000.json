@@ -11,7 +11,7 @@
     ],
     "name_sv": "Jakobstads tidning 2000",
     "name_en": "Jakobstads Tidning 2000",
-    "description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-jakobstadstidning.html}\n",
+    "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
     "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
     "downloads": [
         {
@@ -49,5 +49,6 @@
     "size": {
         "tokens": "2727176",
         "sentences": "199132"
-    }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-jakobstadstidning.html}\n"
 }
