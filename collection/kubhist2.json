@@ -16,7 +16,7 @@
     "description_en": "Diachronic collection of Swedish historical newspaper texts from the period of 1645–1926. Kubhist 2 is an updated version av Kubhist with improved OCR and more material.",
     "interface": [
         {
-            "licence": "CC BY 4.0 4.0",
+            "licence": "CC BY 4.0",
             "restriction": "attribution",
             "access": "https://spraakbanken.gu.se/korp/?mode=kubhist"
         }

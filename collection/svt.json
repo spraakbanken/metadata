@@ -16,7 +16,7 @@
     "description_sv": "Nyhetstexter från svt.se",
     "interface": [
         {
-            "licence": "CC BY 4.0 4.0",
+            "licence": "CC BY 4.0",
             "restriction": "attribution",
             "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews"
         }
@@ -30,6 +30,6 @@
             "email": "sb-info@svenska.gu.se"
         }
     },
-    "long_description_sv": "Texterna har samlats in från nyhetsartiklar på <a href=\"https://www.svt.se/\">svt.se</a>. Korpusen är uppdelad årsvis och uppdateras ca två gånger om året.",
-    "long_description_en": "The texts have been collected from news articles on <a href=\"https://www.svt.se/\">svt.se</a>. The corpus is divided into years and the data is updated twice per year."
+    "long_description_sv": "Texterna har samlats in från nyhetsartiklar på <a href=\"https://www.svt.se/\">svt.se</a>. Samlingen är uppdelad årsvis och uppdateras ca två gånger om året.",
+    "long_description_en": "The texts have been collected from news articles on <a href=\"https://www.svt.se/\">svt.se</a>. The collection is divided into years and the data is updated about twice per year."
 }
