@@ -2,6 +2,9 @@
     "id": "flashback-vetenskap",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "flashback"
+    ],
     "lang": [
         {
             "code": "swe",
@@ -11,8 +14,8 @@
     ],
     "name_en": "Flashback: Science & Humanities",
     "name_sv": "Flashback: Vetenskap & humaniora",
-    "description_en": "Material from the Flashback internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Flashback. Uppdateras regelbundet.",
+    "description_en": "Material from the Flashback internet forum.",
+    "description_sv": "Material från diskussionsforumet Flashback.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "469318989",
-        "sentences": "29603406"
+        "tokens": "486737828",
+        "sentences": "30770948"
     },
     "korp_info": {
         "modes": [

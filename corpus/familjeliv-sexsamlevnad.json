@@ -2,6 +2,9 @@
     "id": "familjeliv-sexsamlevnad",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",
@@ -11,8 +14,8 @@
     ],
     "name_en": "Familjeliv: Sex & Relationships",
     "name_sv": "Familjeliv: Sex & samlevnad",
-    "description_en": "Material from the Familjeliv internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.",
+    "description_en": "Material from the Familjeliv internet forum.",
+    "description_sv": "Material från diskussionsforumet Familjeliv.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -54,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "161579399",
-        "sentences": "10558931"
+        "tokens": "165635620",
+        "sentences": "10837903"
     },
     "korp_info": {
         "modes": [
