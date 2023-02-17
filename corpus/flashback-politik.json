@@ -2,7 +2,9 @@
     "id": "flashback-politik",
     "type": "corpus",
     "trainingdata": false,
-    "in_collections": false,
+    "in_collections": [
+        "flashback"
+    ],
     "lang": [
         {
             "code": "swe",

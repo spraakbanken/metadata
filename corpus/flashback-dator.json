@@ -2,7 +2,9 @@
     "id": "flashback-dator",
     "type": "corpus",
     "trainingdata": false,
-    "in_collections": false,
+    "in_collections": [
+        "flashback"
+    ],
     "lang": [
         {
             "code": "swe",

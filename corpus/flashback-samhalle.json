@@ -2,6 +2,9 @@
     "id": "flashback-samhalle",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": [
+        "flashback"
+    ],
     "lang": [
         {
             "code": "swe",

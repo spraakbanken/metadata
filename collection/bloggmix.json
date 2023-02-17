@@ -1,0 +1,58 @@
+{
+    "id": "bloggmix",
+    "type": "corpus",
+    "trainingdata": false,
+    "collection": true,
+    "resources": [
+        "bloggmix1998",
+        "bloggmix1999",
+        "bloggmix2000",
+        "bloggmix2001",
+        "bloggmix2002",
+        "bloggmix2003",
+        "bloggmix2004",
+        "bloggmix2005",
+        "bloggmix2006",
+        "bloggmix2007",
+        "bloggmix2008",
+        "bloggmix2009",
+        "bloggmix2010",
+        "bloggmix2011",
+        "bloggmix2012",
+        "bloggmix2013",
+        "bloggmix2014",
+        "bloggmix2015",
+        "bloggmix2016",
+        "bloggmix2017",
+        "bloggmixodat"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "Blog mix",
+    "name_sv": "Bloggmix",
+    "description_sv": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "description_en": "Material from a selection of Swedish blogs. Is updated regularly.",
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.gp"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
+    "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n"
+}

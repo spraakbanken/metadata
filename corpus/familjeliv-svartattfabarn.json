@@ -1,7 +1,9 @@
 {
     "id": "familjeliv-svartattfabarn",
     "type": "corpus",
-    "trainingdata": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",

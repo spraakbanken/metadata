@@ -1,0 +1,49 @@
+{
+    "id": "gp",
+    "type": "corpus",
+    "trainingdata": false,
+    "collection": true,
+    "resources": [
+        "gp1994",
+        "gp2001",
+        "gp2002",
+        "gp2003",
+        "gp2004",
+        "gp2005",
+        "gp2006",
+        "gp2007",
+        "gp2008",
+        "gp2009",
+        "gp2010",
+        "gp2011",
+        "gp2012",
+        "gp2013"
+    ],
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_en": "Göteborgsposten",
+    "name_sv": "Göteborgsposten",
+    "description_en": "En samling med texter från tidningen \"Göteborgsposten\"",
+    "description_sv": "A corpus with texts from the newspaper \"Göteborgsposten\"",
+    "interface": [
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.gp"
+        }
+    ],
+    "contact_info": {
+        "surname": "Forsberg",
+        "givenName": "Markus",
+        "email": "sb-info@svenska.gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken Text",
+            "email": "sb-info@svenska.gu.se"
+        }
+    }
+}

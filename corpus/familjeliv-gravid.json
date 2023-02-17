@@ -2,7 +2,9 @@
     "id": "familjeliv-gravid",
     "type": "corpus",
     "trainingdata": false,
-    "in_collections": false,
+    "in_collections": [
+        "familjeliv"
+    ],
     "lang": [
         {
             "code": "swe",
