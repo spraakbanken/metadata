@@ -1,0 +1,59 @@
+{
+    "id": "swefracas-1-0",
+    "type": "corpus",
+    "trainingdata": true,
+    "unlisted": true,
+    "lang": [
+        {
+            "code": "swe",
+            "name_en": "Swedish",
+            "name_sv": "svenska"
+        }
+    ],
+    "name_sv": "SweFraCas 1.0",
+    "name_en": "SweFraCas 1.0",
+    "description_sv": "Textual inference/entailment problem set",
+    "description_en": "Textual inference/entailment problem set",
+    "downloads": [
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv",
+            "type": "swefracas.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv",
+            "type": "swefracas_documentation_sheet.tsv",
+            "format": "tsv"
+        },
+        {
+            "licence": "CC BY 4.0",
+            "restriction": "attribution",
+            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swefracas.xml",
+            "type": "metadata",
+            "format": "METASHARE"
+        }
+    ],
+    "interface": [],
+    "contact_info": {
+        "surname": "Berdicevskis",
+        "givenName": "Aleksandrs",
+        "email": "aleksandrs.berdicevskis@gu.se",
+        "affiliation": {
+            "organisation": "Språkbanken",
+            "email": "sb-info@svenska.gu.se"
+        }
+    },
+    "size": {
+        "Problems": "305"
+    },
+    "in_collections": [
+        "superlim"
+    ],
+    "long_description_en": "<table style=\"width:100%\">\n<tr>\n<td>I. IDENTIFYING INFORMATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Title*</td>\n<td>SweFracas v1.0\n</td>\n</tr>\n<tr>\n<td>Subtitle</td>\n<td>A Swedish version of the Fracas inference/entailment dataset\n</td>\n</tr>\n<tr>\n<td>Created by*</td>\n<td>Lars Borin (lars.borin@gu.se)\n</td>\n</tr>\n<tr>\n<td>Publisher(s)*</td>\n<td>Språkbanken Text (sb-info@svenska.gu.se)\n</td>\n</tr>\n<tr>\n<td>Link(s) / permanent identifier(s)*</td>\n<td>https://spraakbanken.gu.se/en/resources/swefracas\n</td>\n</tr>\n<tr>\n<td>License(s)*</td>\n<td>CC BY 4.0\n</td>\n</tr>\n<tr>\n<td>Abstract*</td>\n<td>A textual inference/entailment problem set, derived from FraCas. The original English Fracas [1] was converted to html and edited by Bill MacCartney [2], and then automatically translated to Swedish by Peter Ljunglöf and Magdalena Siverbo [3]. The current tabular form of the set was created by Aleksandrs Berdicevskis by merging the Swedish and English versions and removing some of the problems. Finally, Lars Borin went through all the translations, correcting and Swedifying them manually. As a result, many translations are rather liberal and diverge noticeably from the English original\n</td>\n</tr>\n<tr>\n<td>Funded by*</td>\n<td>Vinnova (grant no. 2020-02523)\n</td>\n</tr>\n<tr>\n<td>Cite as</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related datasets</td>\n<td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim). See also Abstract\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>II. USAGE</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Key applications</td>\n<td>Machine Learning, Inference, Entailment, Evaluation of language models, Diagnostics\n</td>\n</tr>\n<tr>\n<td>Intended task(s)/usage(s)</td>\n<td>(1) Evaluate models on the following task: given the question and the premises, choose the suitable answer (Ja 'Yes'; Nej 'No'; Vet ej 'Don't know'; Jo 'Positive answer to a negated question')\n</td>\n</tr>\n<tr>\n<td>Recommended evaluation measures</td>\n<td>(1) R4 (Matthews correlation coefficient)\n</td>\n</tr>\n<tr>\n<td>Dataset function(s)</td>\n<td>Testing\n</td>\n</tr>\n<tr>\n<td>Recommended split(s)</td>\n<td>Test data only\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>III. DATA</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Primary data*</td>\n<td>Text\n</td>\n</tr>\n<tr>\n<td>Language*</td>\n<td>Swedish\n</td>\n</tr>\n<tr>\n<td>Dataset in numbers*</td>\n<td>305 problems\n</td>\n</tr>\n<tr>\n<td>Nature of the content*</td>\n<td>Inference problems, where a question has to be answered, given a number of promises\n</td>\n</tr>\n<tr>\n<td>Format*</td>\n<td>Tab-separated, five columns: \n<br> \"id\" -- unique integer id of the problem;\n<br> \"original_id\" -- the id of the corresponding problem in the original dataset\n<br> \"attribute\" -- which attribute does the row within the problem contain: \"premiss\" (premise), \"fråga\" (question), \"svar\" (answer), \"why\" and \"note\". The latter two are taken from MacCartney's conversion and refer only to English data. They are kept for information only;\n<br> \"value\" -- the Swedish sentence. \"why\" and \"note\" are always empty for Swedish;\n<br> \"original_value\" -- the original English sentence. Provided for information only. Note that many translations are rather liberal.\n</td>\n</tr>\n<tr>\n<td>Data source(s)*</td>\n<td>See Abstract\n</td>\n</tr>\n<tr>\n<td>Data collection method(s)*</td>\n<td>See Abstract\n</td>\n</tr>\n<tr>\n<td>Data selection and filtering*</td>\n<td>41 problems in the original set did not have a definite answer (different answers were possible depending on the interpretation). They were excluded.\n</td>\n</tr>\n<tr>\n<td>Data preprocessing*</td>\n<td>None\n</td>\n</tr>\n<tr>\n<td>Data labeling*</td>\n<td>Most of the labels map straightforwardly on the original English labels (Yes <=> Ja, Don't know <=> Vet ej, No <=> Nej), with three exceptions: 97, 98 (Nej <=> Jo) and 108 (No <=> Vet ej)\n</td>\n</tr>\n<tr>\n<td>Annotator characteristics</td>\n<td>PhD in linguistics; native speaker of Swedish\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>IV. ETHICS AND CAVEATS</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Ethical considerations</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Things to watch out for</td>\n<td>In the original dataset, all examples were classified by the linguistic phenomena they represent. It is not necessary that the Swedish translations follow exactly the same classification (most of them probably do, but it has not been checked).\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>V. ABOUT DOCUMENTATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Data last updated*</td>\n<td>2021-06-09, v1.0\n</td>\n</tr>\n<tr>\n<td>Which changes have been made, compared to the previous version*</td>\n<td>This is the first official version\n</td>\n</tr>\n<tr>\n<td>Access to previous versions</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>This document created*</td>\n<td>2021-06-09, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>This document last updated*</td>\n<td>2021-06-09, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>Where to look for further details</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Documentation template version*</td>\n<td>v1.0\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>VI. OTHER</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related projects</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>References</td>\n<td>[1] Robin Cooper, Dick Crouch, Jan Van Eijck, Chris Fox, Johan Van Genabith, Jan Jaspars, Hans Kamp, David Milward, Manfred Pinkal, Massimo Poesio, et al. 1996. Using the framework. Technical report, Technical Report LRE 62-051 D-16, The FraCaS Consortium.     ftp://ftp.cogsci.ed.ac.uk/pub/FRACAS/del16.ps.gz\n<br> [2] https://nlp.stanford.edu/~wcmac/downloads/fracas.xml\n<br> [3] Peter Ljunglöf and Magdalena Siverbo. 2012. A bilingual treebank for the FraCas test suite. In SLTC 2012, page 53. https://gup.ub.gu.se/publication/168965?lang=en, https://gup.ub.gu.se/publication/168965?lang=en\n<br> \n</td>\n</tr>\n</table>\n"
+}
