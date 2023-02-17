@@ -2,6 +2,7 @@
     "id": "somali-1993-94",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": false,
     "lang": [
         {
             "code": "som",
@@ -11,8 +12,6 @@
     ],
     "name_en": "Af Soomaali 1993-94",
     "name_sv": "Af Soomaali 1993-94",
-    "description_en": null,
-    "description_sv": null,
     "downloads": [
         {
             "licence": "CC BY 4.0",

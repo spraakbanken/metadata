@@ -2,6 +2,7 @@
     "id": "somali-2001",
     "type": "corpus",
     "trainingdata": false,
+    "in_collections": false,
     "lang": [
         {
             "code": "som",
@@ -11,8 +12,6 @@
     ],
     "name_en": "Af-Soomaali 2001 Soomaaliya",
     "name_sv": "Af-Soomaali 2001 Soomaaliya",
-    "description_en": null,
-    "description_sv": null,
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -47,8 +46,8 @@
         }
     },
     "size": {
-        "tokens": "129932",
-        "sentences": "13376"
+        "tokens": "129947",
+        "sentences": "13422"
     },
     "korp_info": {
         "modes": [

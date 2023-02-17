@@ -1,6 +1,7 @@
 {
     "id": "familjeliv-svartattfabarn",
     "type": "corpus",
+    "trainingdata": false,
     "in_collections": [
         "familjeliv"
     ],
@@ -13,8 +14,8 @@
     ],
     "name_en": "Familjeliv: Difficult to get children",
     "name_sv": "Familjeliv: Svårt att få barn",
-    "description_en": "Material from the Familjeliv internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Familjeliv. Uppdateras regelbundet.",
+    "description_en": "Material from the Familjeliv internet forum.",
+    "description_sv": "Material från diskussionsforumet Familjeliv.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -56,8 +57,8 @@
         }
     },
     "size": {
-        "tokens": "172476107",
-        "sentences": "11828180"
+        "tokens": "172829832",
+        "sentences": "11853108"
     },
     "korp_info": {
         "modes": [
