@@ -2,9 +2,7 @@
     "id": "flashback-samhalle",
     "type": "corpus",
     "trainingdata": false,
-    "in_collections": [
-        "flashback"
-    ],
+    "in_collections": false,
     "lang": [
         {
             "code": "swe",
@@ -14,8 +12,8 @@
     ],
     "name_en": "Flashback: Society",
     "name_sv": "Flashback: Samhälle",
-    "description_en": "Material from the Flashback internet forum. Updated regularly.",
-    "description_sv": "Material från diskussionsforumet Flashback. Uppdateras regelbundet.",
+    "description_en": "Material from the Flashback internet forum.",
+    "description_sv": "Material från diskussionsforumet Flashback.",
     "downloads": [
         {
             "licence": "CC BY 4.0",
@@ -57,8 +55,8 @@
         }
     },
     "size": {
-        "tokens": "717403279",
-        "sentences": "45686024"
+        "tokens": "758321276",
+        "sentences": "48467522"
     },
     "korp_info": {
         "modes": [
