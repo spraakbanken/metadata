@@ -2,13 +2,7 @@
     "id": "bliss",
     "type": "lexicon",
     "trainingdata": false,
-    "lang": [
-        {
-            "code": "language-independent",
-            "name_en": "language-independent",
-            "name_sv": ""
-        }
-    ],
+    "lang": [],
     "name_sv": "Bliss",
     "name_en": "Bliss",
     "description_sv": "Bliss är ett konstruerat symbolspråk som främst används av personer med grava kommunikativa och fysiska funktionsnedsättningar. Det består av ca 5000 grafiska symboler.",
