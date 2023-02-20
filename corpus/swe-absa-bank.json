@@ -24,6 +24,14 @@
         },
         {
             "licence": "CC BY 4.0",
+            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+            "restriction": "attribution",
+            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/absabankimm-combined.zip",
+            "type": "corpus",
+            "format": "XML"
+        },
+        {
+            "licence": "CC BY 4.0",
             "restriction": "attribution",
             "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swe-absa-bank.xml",
             "type": "metadata",
