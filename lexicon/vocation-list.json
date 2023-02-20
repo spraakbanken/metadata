@@ -1,46 +1,42 @@
 {
-    "id": "vocation-list",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Yrkesbeteckningar",
-    "name_en": "Vocation list",
-    "description_sv": "En lista över yrkesbeteckningar på svenska",
-    "description_en": "A list of vocations in Swedish",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
-            "type": "vocationTerms150120.utf.txt.gz",
-            "format": "gz"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/vocation-list.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Kokkinakis",
-        "givenName": "Dimitrios",
-        "email": "dimitrios.kokkinakis@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "vocation-list",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Yrkesbeteckningar",
+  "name_en": "Vocation list",
+  "description_sv": "En lista över yrkesbeteckningar på svenska",
+  "description_en": "A list of vocations in Swedish",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
+      "type": "vocationTerms150120.utf.txt.gz",
+      "format": "gz"
     },
-    "size": {
-        "entries": "13833"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/vocation-list.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Kokkinakis",
+    "givenName": "Dimitrios",
+    "email": "dimitrios.kokkinakis@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "13833"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

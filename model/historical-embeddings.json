@@ -1,42 +1,37 @@
 {
-    "id": "historical-embeddings",
-    "type": "model",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe"
-        }
-    ],
-    "name_sv": "Svenska historiska inbäddningar (word embeddings)",
-    "name_en": "Swedish Diachronic Word Embeddings",
-    "description_sv": "Förtränade inbäddningar (word embeddings) för historisk svenska",
-    "description_en": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://zenodo.org/record/4301658",
-            "type": "other",
-            "format": null
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/historical-embeddings.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Hengchen",
-        "givenName": "Simon",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "historical-embeddings",
+  "type": "model",
+  "trainingdata": false,
+  "name_sv": "Svenska historiska inbäddningar (word embeddings)",
+  "name_en": "Swedish Diachronic Word Embeddings",
+  "description_sv": "Förtränade inbäddningar (word embeddings) för historisk svenska",
+  "description_en": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://zenodo.org/record/4301658",
+      "type": "other",
+      "format": null
     },
-    "size": {}
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/historical-embeddings.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Hengchen",
+    "givenName": "Simon",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {}
 }

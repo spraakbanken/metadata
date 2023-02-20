@@ -1,73 +1,69 @@
 {
-    "id": "familjeliv-kansliga",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "familjeliv"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Familjeliv: Delicate Room",
-    "name_sv": "Familjeliv: Känsliga rummet",
-    "description_en": "Material from the Familjeliv internet forum.",
-    "description_sv": "Material från diskussionsforumet Familjeliv.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-kansliga.xml.bz2",
-            "type": "corpus",
-            "format": "XML",
-            "info": "this file contains a scrambled version of the corpus"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-kansliga.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-kansliga.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-kansliga"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "familjeliv-kansliga",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "familjeliv"
+  ],
+  "name_en": "Familjeliv: Delicate Room",
+  "name_sv": "Familjeliv: Känsliga rummet",
+  "description_en": "Material from the Familjeliv internet forum.",
+  "description_sv": "Material från diskussionsforumet Familjeliv.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-kansliga.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus"
     },
-    "size": {
-        "tokens": "987610019",
-        "sentences": "60153862"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-kansliga.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "scrambled"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-kansliga.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-kansliga"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "987610019",
+    "sentences": "60153862"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "scrambled"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

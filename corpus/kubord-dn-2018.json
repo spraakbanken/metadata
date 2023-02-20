@@ -1,62 +1,58 @@
 {
-    "id": "kubord-dn-2018",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Word frequencies Dagens Nyheter 2018",
-    "name_sv": "Ordfrekvenser Dagens Nyheter 2018",
-    "description_en": "Part of the collection Kubord",
-    "description_sv": "Del av samlingen Kubord",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2018.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubord-dn-2018.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-dn-2018"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "kubord-dn-2018",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_en": "Word frequencies Dagens Nyheter 2018",
+  "name_sv": "Ordfrekvenser Dagens Nyheter 2018",
+  "description_en": "Part of the collection Kubord",
+  "description_sv": "Del av samlingen Kubord",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2018.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "31498296",
-        "sentences": "354"
-    },
-    "korp_info": {
-        "modes": [
-            "kubord"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": false
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubord-dn-2018.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-dn-2018"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "31498296",
+    "sentences": "354"
+  },
+  "korp_info": {
+    "modes": [
+      "kubord"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": false
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

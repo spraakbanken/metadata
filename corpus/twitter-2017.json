@@ -1,53 +1,49 @@
 {
-    "id": "twitter-2017",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Svensk Twitter 2017",
-    "name_en": "Swedish Twitter 2017",
-    "description_sv": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
-    "description_en": "Material collected from a selection of Swedish speaking twitter users from 2017",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-2017.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/twitter-2017.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=twitter-2017"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "twitter-2017",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Svensk Twitter 2017",
+  "name_en": "Swedish Twitter 2017",
+  "description_sv": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
+  "description_en": "Material collected from a selection of Swedish speaking twitter users from 2017",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-2017.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "505017012",
-        "sentences": "49022194"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/twitter-2017.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=twitter-2017"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "505017012",
+    "sentences": "49022194"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

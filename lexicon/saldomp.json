@@ -1,45 +1,41 @@
 {
-    "id": "saldomp",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Saldo: morfologi II",
-    "name_en": "Saldo: morphology II",
-    "description_sv": "Experimentell morfologisk resurs för Saldo",
-    "description_en": "Experimental morphological resource for Saldo",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/saldomp.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#?mode=external&resources=saldomp"
-        }
-    ],
-    "contact_info": {
-        "surname": "Språkbanken",
-        "givenName": "Språkbanken",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
-    },
-    "size": {
-        "entries": "17565"
+  "id": "saldomp",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Saldo: morfologi II",
+  "name_en": "Saldo: morphology II",
+  "description_sv": "Experimentell morfologisk resurs för Saldo",
+  "description_en": "Experimental morphological resource for Saldo",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/saldomp.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#?mode=external&resources=saldomp"
+    }
+  ],
+  "contact_info": {
+    "surname": "Språkbanken",
+    "givenName": "Språkbanken",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "17565"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

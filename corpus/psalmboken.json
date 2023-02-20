@@ -1,62 +1,58 @@
 {
-    "id": "psalmboken",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Psalmboken (1937)",
-    "name_en": "Psalm book (1937)",
-    "description_sv": "Psalmboken från 1937",
-    "description_en": "The Swedish psalm book from 1937",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/psalmboken.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PSALMBOKEN.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/psalmboken.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=psalmboken"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "psalmboken",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Psalmboken (1937)",
+  "name_en": "Psalm book (1937)",
+  "description_sv": "Psalmboken från 1937",
+  "description_en": "The Swedish psalm book from 1937",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/psalmboken.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "163574",
-        "sentences": "10989"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PSALMBOKEN.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/psalmboken.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=psalmboken"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "163574",
+    "sentences": "10989"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

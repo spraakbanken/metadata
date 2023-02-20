@@ -1,61 +1,57 @@
 {
-    "id": "ub-kvt-idun",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Idun",
-    "name_en": "Idun",
-    "description_sv": "En korpus med texter från kvinnotidningen Idun",
-    "description_en": "A corpus with texts from the women's newspaper Idun",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-idun.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_UB-KVT-IDUN.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ub-kvt-idun.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=ub-kvt-idun"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "ub-kvt-idun",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Idun",
+  "name_en": "Idun",
+  "description_sv": "En korpus med texter från kvinnotidningen Idun",
+  "description_en": "A corpus with texts from the women's newspaper Idun",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-idun.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "44944172",
-        "sentences": "2011318"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_UB-KVT-IDUN.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ub-kvt-idun.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=ub-kvt-idun"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "44944172",
+    "sentences": "2011318"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

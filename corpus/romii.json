@@ -1,62 +1,58 @@
 {
-    "id": "romii",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Bonniersromaner II (1980/81)",
-    "name_en": "Bonniers novels II (1980/81)",
-    "description_sv": "En korpus av 60 Bonniersromaner från 1980-81",
-    "description_en": "A corpus of 60 Bonnier novels from 1980-81",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romii.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMII.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/romii.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=romii"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "romii",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Bonniersromaner II (1980/81)",
+  "name_en": "Bonniers novels II (1980/81)",
+  "description_sv": "En korpus av 60 Bonniersromaner från 1980-81",
+  "description_en": "A corpus of 60 Bonnier novels from 1980-81",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romii.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "4304271",
-        "sentences": "298361"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMII.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/romii.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=romii"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "4304271",
+    "sentences": "298361"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

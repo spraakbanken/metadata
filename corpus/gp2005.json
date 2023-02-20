@@ -1,62 +1,58 @@
 {
-    "id": "gp2005",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "GP 2005",
-    "name_en": "GP 2005",
-    "description_sv": "En korpus med texter från Göteborgsposten",
-    "description_en": "A corpus with texts from Göteborgsposten",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2005.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GP2005.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gp2005.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=gp2005"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "gp2005",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "GP 2005",
+  "name_en": "GP 2005",
+  "description_sv": "En korpus med texter från Göteborgsposten",
+  "description_en": "A corpus with texts from Göteborgsposten",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2005.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "23153863",
-        "sentences": "1405747"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GP2005.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gp2005.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=gp2005"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "23153863",
+    "sentences": "1405747"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,64 +1,60 @@
 {
-    "id": "sucx2",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "SUCX 2.0",
-    "name_en": "SUCX 2.0",
-    "description_sv": "Stockholm-Umeå-korpus 2.0 omkastad",
-    "description_en": "Stockholm-Umeå corpus 2.0 scrambled",
-    "downloads": [
-        {
-            "licence": "CC BY-SA 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "restriction": "shareAlike",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc2.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY-SA 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "restriction": "shareAlike",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sucx2.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=suc2"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "sucx2",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "SUCX 2.0",
+  "name_en": "SUCX 2.0",
+  "description_sv": "Stockholm-Umeå-korpus 2.0 omkastad",
+  "description_en": "Stockholm-Umeå corpus 2.0 scrambled",
+  "downloads": [
+    {
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "restriction": "shareAlike",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc2.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "1166593",
-        "sentences": "74243"
+    {
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "restriction": "shareAlike",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUCX 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_swe.html}\n",
-    "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUCX 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_eng.html}\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sucx2.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=suc2"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1166593",
+    "sentences": "74243"
+  },
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUCX 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_swe.html}\n",
+  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUCX 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_eng.html}\n",
+  "language_codes": [
+    "swe"
+  ]
 }

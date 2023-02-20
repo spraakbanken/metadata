@@ -1,72 +1,68 @@
 {
-    "id": "rd-ovr",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "rd"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "",
-    "name_sv": "Riksdagens öppna data - Övrigt",
-    "description_sv": "Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-ovr.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-ovr.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/rd-ovr.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=rd-ovr"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "rd-ovr",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "rd"
+  ],
+  "name_en": "",
+  "name_sv": "Riksdagens öppna data - Övrigt",
+  "description_sv": "Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-ovr.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "21916385",
-        "sentences": "1775009"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-ovr.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "original"
-    },
-    "description_en": ""
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/rd-ovr.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=rd-ovr"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "21916385",
+    "sentences": "1775009"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "original"
+  },
+  "description_en": "",
+  "language_codes": [
+    "swe"
+  ]
 }

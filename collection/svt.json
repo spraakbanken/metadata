@@ -1,35 +1,31 @@
 {
-    "id": "svt",
-    "type": "corpus",
-    "trainingdata": false,
-    "collection": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "SVT news",
-    "name_sv": "SVT nyheter",
-    "description_en": "News texts from svt.se",
-    "description_sv": "Nyhetstexter från svt.se",
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
-    },
-    "long_description_sv": "Texterna har samlats in från nyhetsartiklar på <a href=\"https://www.svt.se/\">svt.se</a>. Samlingen är uppdelad årsvis och uppdateras ca två gånger om året.",
-    "long_description_en": "The texts have been collected from news articles on <a href=\"https://www.svt.se/\">svt.se</a>. The collection is divided into years and the data is updated about twice per year."
+  "id": "svt",
+  "type": "corpus",
+  "trainingdata": false,
+  "collection": true,
+  "name_en": "SVT news",
+  "name_sv": "SVT nyheter",
+  "description_en": "News texts from svt.se",
+  "description_sv": "Nyhetstexter från svt.se",
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "long_description_sv": "Texterna har samlats in från nyhetsartiklar på <a href=\"https://www.svt.se/\">svt.se</a>. Samlingen är uppdelad årsvis och uppdateras ca två gånger om året.",
+  "long_description_en": "The texts have been collected from news articles on <a href=\"https://www.svt.se/\">svt.se</a>. The collection is divided into years and the data is updated about twice per year.",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,62 +1,58 @@
 {
-    "id": "somali-suugaan",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "som",
-            "name_en": "Somali",
-            "name_sv": "somaliska"
-        }
-    ],
-    "name_sv": "Suugaan",
-    "name_en": "Suugaan",
-    "description_sv": "",
-    "description_en": "",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-suugaan.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOMALI-SUUGAAN.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-suugaan.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-suugaan"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "somali-suugaan",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Suugaan",
+  "name_en": "Suugaan",
+  "description_sv": "",
+  "description_en": "",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-suugaan.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "156288",
-        "sentences": "8719"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOMALI-SUUGAAN.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-suugaan.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-suugaan"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "156288",
+    "sentences": "8719"
+  },
+  "language_codes": [
+    "som"
+  ]
 }

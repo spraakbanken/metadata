@@ -1,52 +1,48 @@
 {
-    "id": "fsv-nysvenskovrigt",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Nysvenska, övrigt – Fornsvenska textbankens material",
-    "name_en": "Nysvenska, övrigt – Fornsvenska textbankens material",
-    "description_sv": "",
-    "description_en": "",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskovrigt.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsv-nysvenskovrigt.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=old_swedish#corpus=fsv-nysvenskovrigt"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "fsv-nysvenskovrigt",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Nysvenska, övrigt – Fornsvenska textbankens material",
+  "name_en": "Nysvenska, övrigt – Fornsvenska textbankens material",
+  "description_sv": "",
+  "description_en": "",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskovrigt.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "344590"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsv-nysvenskovrigt.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=old_swedish#corpus=fsv-nysvenskovrigt"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "344590"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

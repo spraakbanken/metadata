@@ -1,86 +1,78 @@
 {
-    "id": "aspacsvel",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        },
-        {
-            "code": "ell",
-            "name_en": "Greek",
-            "name_sv": "grekiska"
-        }
-    ],
-    "name_sv": "ASPAC – svenska-grekiska",
-    "name_en": "ASPAC – Swedish-Greek",
-    "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the Swedish part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-sv.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the Greek part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-el.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the Swedish part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-SV.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the Greek part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-EL.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvel.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvel-sv"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "aspacsvel",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "ASPAC – svenska-grekiska",
+  "name_en": "ASPAC – Swedish-Greek",
+  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the Swedish part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-sv.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "303518",
-        "sentences": "20054"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the Greek part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-el.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the Swedish part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-SV.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the Greek part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-EL.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvel.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvel-sv"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "303518",
+    "sentences": "20054"
+  },
+  "language_codes": [
+    "swe",
+    "ell"
+  ]
 }

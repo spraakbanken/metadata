@@ -1,71 +1,67 @@
 {
-    "id": "romg",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Äldre svenska romaner",
-    "name_en": "Older Swedish novels",
-    "description_sv": "En samling med fler än 50 äldre svenska romaner av 14 olika författare",
-    "description_en": "A collection of more than 50 older Swedish novels by 14 different authors",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romg.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/konk/info/romg.phtml",
-            "type": "romg.phtml",
-            "format": "phtml"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/romg.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=romg"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "romg",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Äldre svenska romaner",
+  "name_en": "Older Swedish novels",
+  "description_sv": "En samling med fler än 50 äldre svenska romaner av 14 olika författare",
+  "description_en": "A collection of more than 50 older Swedish novels by 14 different authors",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romg.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "4347047",
-        "sentences": "279704"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/konk/info/romg.phtml",
+      "type": "romg.phtml",
+      "format": "phtml"
     },
-    "long_description_sv": "<p>\nSpr&aring;kbanken har genom samarbete med Textalk AB, M&ouml;lndal\nerh&aring;llit ett antal optiskt inl&auml;sta &auml;ldre svenska romaner.\nTexterna &auml;r stavningskontrollerade med hj&auml;lp av ett vid\nSpr&aring;kbanken utvecklat system och d&auml;refter manuellt \nkorrigerade av Textalk AB.\n</p>\n<!--<p>\nVi hoppas dessutom att s&aring; sm&aring;ningom kunna utvidga\nmaterialet med n&aring;gra fler romaner fr&aring;n Textalk AB,\nmen &auml;ven kunna komplettera med liknande texter fr&aring;n\nandra k&auml;llor.\n</p>\n-->\n<p>\nKorpusen best&aring;r av f&ouml;ljande verk:\n</p>\n<p>\n<b>Almqvist, Carl Jonas Love:</b>\n<ul>\n  <li>almq_detg: Det g&aring;r an</li>\n  <li>almq_tref: Tre fruar i Sm&aring;land</li>\n  <li>almq_gabr: Gabri&egrave;le Mimanso</li>\n  <li>almq_kape: Kapellet</li>\n</ul>\n</p>\n<p>\n<b>Andersson, Dan:</b>\n<ul>\n  <li>ande_detk: Det kallas vidskepelse \n  </li><li>ande_deth: De tre heml&ouml;sa\n  </li><li>ande_kola: Kolarhistorier\n</li>\n</ul></p>\n<p>\n<b>Benedictsson, Victoria: </b>\n<ul>\n  <li>bene_denb: Den bergtagna\n  </li><li>bene_frum: Fru Marianne\n  </li><li>bene_fsk&aring;: Fr&aring;n Sk&aring;ne\n  </li><li>bene_peng: Pengar\n</li>\n</ul></p>\n<p>\n<b>Bergman, Hjalmar:</b>\n<ul>\n  <li>berg_chef: Chefen fru Ingeborg\n  </li><li>berg_clow: Clownen Jack\n  </li><li>berg_endm: En d&ouml;ds memoarer\n  </li><li>berg_fovh: Farmor och v&aring;r Herre\n  </li><li>berg_fgph: Fru Gunhild p&aring; Hviskingeholm\n  </li><li>berg_hans: Hans n&aring;ds testamente\n  </li><li>berg_hvha: Herr von Hancken\n  </li><li>berg_mark: Markurells i Wadk&ouml;ping\n  </li><li>berg_misu: Mor i Sutre\n</li>\n</ul></p>\n<p>\n<b>Boye, Karin:</b>\n<ul>\n  <li>boye_kall: Kallocain\n</li>\n</ul></p><p>\n<b>Bremer, Fredrika</b>\n<ul>\n  <li>brem_famh: Familjen H***\n</li>\n</ul></p><p>\t \n<b>Carl&eacute;n, Emile:</b>\n<ul>\n  <li>carl_rpti: Rosen p&aring; Tistel&ouml;n\n</li>\n</ul></p><p>\n<b>von Heidenstam, Verner: </b>\n<ul>\n  <li>heid_folk: Folke Filbyter\n  </li><li>heid_bjal: Bj&auml;lboarvet\n  </li><li>heid_karo: Karolinerna\n</li>\n</ul></p><p>\n<b>Koch, Martin:</b>\n<ul>\n  <li>koch_arbe: Arbetare\n  </li><li>koch_elle: Ellen\n  </li><li>koch_gud1: Guds vackra v&auml;rld 1\n  </li><li>koch_gud2: Guds vackra v&auml;rld 2\n</li>\n</ul></p><p>\n<b>von Krusenstjerna, Agnes:</b>\n<ul>\n  <li>krus_avsa: Av samma blod\n  </li><li>krus_dbru: Den bl&aring; gardinen\n  </li><li>krus_kvin: Kvinnogatan\n  </li><li>krus_h&ouml;sk: H&ouml;stens skuggor\n  </li><li>krus_povj: Porten vid Johannes\n  </li><li>krus_tonl: Tonys l&auml;ro&aring;r\n  </li><li>krus_tons: Tonys sista l&auml;ro&aring;r\n</li>\n</ul></p><p>\n<b>Lagerl&ouml;f, Selma:</b>\n<ul>\n  <li>lage_ansv: Anna Sv&auml;rd\n  </li><li>lage_chl&ouml;: Charlotte L&ouml;wensk&ouml;ld\n  </li><li>lage_gost: G&ouml;sta Berlings saga\n  </li><li>lage_ingm: Ingmars-s&ouml;nerna\n  </li><li>lage_jer1: Jerusalem 1\n  </li><li>lage_jer2: Jerusalem 2\n  </li><li>lage_julb: Julber&auml;ttelser\n  </li><li>lage_kejs: Kejsaren av Portugallien\n  </li><li>lage_nils: Nils Holgerssons underbara resa\n</li>\n</ul></p><p>\n<b>Nordstr&ouml;m, Ludvig:</b>\n<ul>\n  <li>nord_plan: Planeten Markattan\n  </li><li>nord_tola: Tomas Lack och hans familj\n</li>\n</ul></p><p>\n<b>Rydberg, Viktor:</b>\n<ul>\n  <li>rydb_sing: Singoalla\n  </li><li>rydb_vape: Vapensmeden\n</li>\n</ul></p><p>\n<b>S&ouml;derberg, Hjalmar:</b>\n<ul>\n  <li>sode_dale: Den allvarsamma leken\n  </li><li>sode_dokt: Doktor Glas\n  </li><li>sode_forv: F&ouml;rvillelser\n  </li><li>sode_hjor: Hj&auml;rtats oro\n  </li><li>sode_sbaf: Sista boken / Aforismer\n  </li><li>sode_mbun: Martin Bircks ungdom\n</li>\n</ul></p>\n<!--<p>\nVi vill ocks&aring; p&aring;peka att materialen inte &auml;r 100% perfekta.\nF&ouml;rhoppningsvis kan de &auml;nd&aring; ge tillr&auml;ckligt av spr&aring;kvetenskapligt\nintresse f&ouml;r att v&auml;l motivera en plats i Spr&aring;kbankens allm&auml;nt\ntillg&auml;ngliga arkiv.\n</p>\n\n-->\n"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/romg.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=romg"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "4347047",
+    "sentences": "279704"
+  },
+  "long_description_sv": "<p>\nSpr&aring;kbanken har genom samarbete med Textalk AB, M&ouml;lndal\nerh&aring;llit ett antal optiskt inl&auml;sta &auml;ldre svenska romaner.\nTexterna &auml;r stavningskontrollerade med hj&auml;lp av ett vid\nSpr&aring;kbanken utvecklat system och d&auml;refter manuellt \nkorrigerade av Textalk AB.\n</p>\n<!--<p>\nVi hoppas dessutom att s&aring; sm&aring;ningom kunna utvidga\nmaterialet med n&aring;gra fler romaner fr&aring;n Textalk AB,\nmen &auml;ven kunna komplettera med liknande texter fr&aring;n\nandra k&auml;llor.\n</p>\n-->\n<p>\nKorpusen best&aring;r av f&ouml;ljande verk:\n</p>\n<p>\n<b>Almqvist, Carl Jonas Love:</b>\n<ul>\n  <li>almq_detg: Det g&aring;r an</li>\n  <li>almq_tref: Tre fruar i Sm&aring;land</li>\n  <li>almq_gabr: Gabri&egrave;le Mimanso</li>\n  <li>almq_kape: Kapellet</li>\n</ul>\n</p>\n<p>\n<b>Andersson, Dan:</b>\n<ul>\n  <li>ande_detk: Det kallas vidskepelse \n  </li><li>ande_deth: De tre heml&ouml;sa\n  </li><li>ande_kola: Kolarhistorier\n</li>\n</ul></p>\n<p>\n<b>Benedictsson, Victoria: </b>\n<ul>\n  <li>bene_denb: Den bergtagna\n  </li><li>bene_frum: Fru Marianne\n  </li><li>bene_fsk&aring;: Fr&aring;n Sk&aring;ne\n  </li><li>bene_peng: Pengar\n</li>\n</ul></p>\n<p>\n<b>Bergman, Hjalmar:</b>\n<ul>\n  <li>berg_chef: Chefen fru Ingeborg\n  </li><li>berg_clow: Clownen Jack\n  </li><li>berg_endm: En d&ouml;ds memoarer\n  </li><li>berg_fovh: Farmor och v&aring;r Herre\n  </li><li>berg_fgph: Fru Gunhild p&aring; Hviskingeholm\n  </li><li>berg_hans: Hans n&aring;ds testamente\n  </li><li>berg_hvha: Herr von Hancken\n  </li><li>berg_mark: Markurells i Wadk&ouml;ping\n  </li><li>berg_misu: Mor i Sutre\n</li>\n</ul></p>\n<p>\n<b>Boye, Karin:</b>\n<ul>\n  <li>boye_kall: Kallocain\n</li>\n</ul></p><p>\n<b>Bremer, Fredrika</b>\n<ul>\n  <li>brem_famh: Familjen H***\n</li>\n</ul></p><p>\t \n<b>Carl&eacute;n, Emile:</b>\n<ul>\n  <li>carl_rpti: Rosen p&aring; Tistel&ouml;n\n</li>\n</ul></p><p>\n<b>von Heidenstam, Verner: </b>\n<ul>\n  <li>heid_folk: Folke Filbyter\n  </li><li>heid_bjal: Bj&auml;lboarvet\n  </li><li>heid_karo: Karolinerna\n</li>\n</ul></p><p>\n<b>Koch, Martin:</b>\n<ul>\n  <li>koch_arbe: Arbetare\n  </li><li>koch_elle: Ellen\n  </li><li>koch_gud1: Guds vackra v&auml;rld 1\n  </li><li>koch_gud2: Guds vackra v&auml;rld 2\n</li>\n</ul></p><p>\n<b>von Krusenstjerna, Agnes:</b>\n<ul>\n  <li>krus_avsa: Av samma blod\n  </li><li>krus_dbru: Den bl&aring; gardinen\n  </li><li>krus_kvin: Kvinnogatan\n  </li><li>krus_h&ouml;sk: H&ouml;stens skuggor\n  </li><li>krus_povj: Porten vid Johannes\n  </li><li>krus_tonl: Tonys l&auml;ro&aring;r\n  </li><li>krus_tons: Tonys sista l&auml;ro&aring;r\n</li>\n</ul></p><p>\n<b>Lagerl&ouml;f, Selma:</b>\n<ul>\n  <li>lage_ansv: Anna Sv&auml;rd\n  </li><li>lage_chl&ouml;: Charlotte L&ouml;wensk&ouml;ld\n  </li><li>lage_gost: G&ouml;sta Berlings saga\n  </li><li>lage_ingm: Ingmars-s&ouml;nerna\n  </li><li>lage_jer1: Jerusalem 1\n  </li><li>lage_jer2: Jerusalem 2\n  </li><li>lage_julb: Julber&auml;ttelser\n  </li><li>lage_kejs: Kejsaren av Portugallien\n  </li><li>lage_nils: Nils Holgerssons underbara resa\n</li>\n</ul></p><p>\n<b>Nordstr&ouml;m, Ludvig:</b>\n<ul>\n  <li>nord_plan: Planeten Markattan\n  </li><li>nord_tola: Tomas Lack och hans familj\n</li>\n</ul></p><p>\n<b>Rydberg, Viktor:</b>\n<ul>\n  <li>rydb_sing: Singoalla\n  </li><li>rydb_vape: Vapensmeden\n</li>\n</ul></p><p>\n<b>S&ouml;derberg, Hjalmar:</b>\n<ul>\n  <li>sode_dale: Den allvarsamma leken\n  </li><li>sode_dokt: Doktor Glas\n  </li><li>sode_forv: F&ouml;rvillelser\n  </li><li>sode_hjor: Hj&auml;rtats oro\n  </li><li>sode_sbaf: Sista boken / Aforismer\n  </li><li>sode_mbun: Martin Bircks ungdom\n</li>\n</ul></p>\n<!--<p>\nVi vill ocks&aring; p&aring;peka att materialen inte &auml;r 100% perfekta.\nF&ouml;rhoppningsvis kan de &auml;nd&aring; ge tillr&auml;ckligt av spr&aring;kvetenskapligt\nintresse f&ouml;r att v&auml;l motivera en plats i Spr&aring;kbankens allm&auml;nt\ntillg&auml;ngliga arkiv.\n</p>\n\n-->\n",
+  "language_codes": [
+    "swe"
+  ]
 }

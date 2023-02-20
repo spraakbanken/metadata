@@ -1,63 +1,59 @@
 {
-    "id": "fof",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Forskning & Framsteg",
-    "name_en": "Forskning & Framsteg",
-    "description_sv": "En korpus av populärvetenskapliga artiklar från Forskning & Framsteg",
-    "description_en": "A corpus of popular science articles from Forskning & Framsteg",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fof.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FOF.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fof.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=fof"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "fof",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Forskning & Framsteg",
+  "name_en": "Forskning & Framsteg",
+  "description_sv": "En korpus av populärvetenskapliga artiklar från Forskning & Framsteg",
+  "description_en": "A corpus of popular science articles from Forskning & Framsteg",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fof.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "743831",
-        "sentences": "44533"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FOF.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "<p>\nArtiklar från tidskriften <B>Forskning &amp; Framsteg</B>, \nnummer 7, 1992 till och med nummer 8, 1996. \n</p>\n<p>\nMaterialet i konkordansen över Forskning &amp; Framsteg\när inte helt identiskt med det som publicerats i\npappersutgåvan beroende på att vissa ändringar har\nutförts i senare produktionsled. Dessutom finns enstaka\nartiklar i konkordansen som inte alls publicerats eller som\nkommit att publiceras i ett senare nummer av tidskriften \nän vad som här anges. Vissa texter som tryckts\ni tidningen saknas i konkordansen.\n</p>\n<p>\nVi tackar Forskning &amp; Framsteg för det alltid\nlika vänliga tillmötesgåendet, år från år.\n</p>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fof.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=fof"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "743831",
+    "sentences": "44533"
+  },
+  "long_description_sv": "<p>\nArtiklar från tidskriften <B>Forskning &amp; Framsteg</B>, \nnummer 7, 1992 till och med nummer 8, 1996. \n</p>\n<p>\nMaterialet i konkordansen över Forskning &amp; Framsteg\när inte helt identiskt med det som publicerats i\npappersutgåvan beroende på att vissa ändringar har\nutförts i senare produktionsled. Dessutom finns enstaka\nartiklar i konkordansen som inte alls publicerats eller som\nkommit att publiceras i ett senare nummer av tidskriften \nän vad som här anges. Vissa texter som tryckts\ni tidningen saknas i konkordansen.\n</p>\n<p>\nVi tackar Forskning &amp; Framsteg för det alltid\nlika vänliga tillmötesgåendet, år från år.\n</p>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,86 +1,78 @@
 {
-    "id": "aspacsvfr",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        },
-        {
-            "code": "fra",
-            "name_en": "French",
-            "name_sv": "franska"
-        }
-    ],
-    "name_sv": "ASPAC – svenska-franska",
-    "name_en": "ASPAC – Swedish-French",
-    "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the Swedish part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-sv.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the French part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-fr.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the Swedish part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVFR-SV.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the French part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVFR-FR.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvfr.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvfr-sv"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "aspacsvfr",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "ASPAC – svenska-franska",
+  "name_en": "ASPAC – Swedish-French",
+  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the Swedish part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-sv.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "341914",
-        "sentences": "18276"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the French part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-fr.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the Swedish part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVFR-SV.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the French part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVFR-FR.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvfr.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvfr-sv"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "341914",
+    "sentences": "18276"
+  },
+  "language_codes": [
+    "swe",
+    "fra"
+  ]
 }

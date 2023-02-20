@@ -1,73 +1,69 @@
 {
-    "id": "familjeliv-anglarum",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "familjeliv"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Familjeliv: Änglarum",
-    "name_sv": "Familjeliv: Änglarum",
-    "description_en": "Material from the Familjeliv internet forum.",
-    "description_sv": "Material från diskussionsforumet Familjeliv.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-anglarum.xml.bz2",
-            "type": "corpus",
-            "format": "XML",
-            "info": "this file contains a scrambled version of the corpus"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-anglarum.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-anglarum.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-anglarum"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "familjeliv-anglarum",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "familjeliv"
+  ],
+  "name_en": "Familjeliv: Änglarum",
+  "name_sv": "Familjeliv: Änglarum",
+  "description_en": "Material from the Familjeliv internet forum.",
+  "description_sv": "Material från diskussionsforumet Familjeliv.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-anglarum.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus"
     },
-    "size": {
-        "tokens": "21843264",
-        "sentences": "1342154"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-anglarum.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "scrambled"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-anglarum.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-anglarum"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "21843264",
+    "sentences": "1342154"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "scrambled"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

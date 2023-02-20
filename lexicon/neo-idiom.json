@@ -1,55 +1,51 @@
 {
-    "id": "neo-idiom",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Idiom ur NEO-databasen",
-    "name_en": "Idioms from the NEO lexicon DB",
-    "description_sv": "Idiom med beskrivningar och alternativformer extraherade ut databasen för Nationalencyklopediens ordbok",
-    "description_en": "Idioms with explanations extracted from the database for the dictionary  Nationalencyklopediens ordbok",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx",
-            "type": "idiom_ur_neodatabasen.xlsx",
-            "format": "xlsx"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml",
-            "type": "neo_idiom_m_alternativformer.xml",
-            "format": "xml"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/neo-idiom.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "neo-idiom",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Idiom ur NEO-databasen",
+  "name_en": "Idioms from the NEO lexicon DB",
+  "description_sv": "Idiom med beskrivningar och alternativformer extraherade ut databasen för Nationalencyklopediens ordbok",
+  "description_en": "Idioms with explanations extracted from the database for the dictionary  Nationalencyklopediens ordbok",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx",
+      "type": "idiom_ur_neodatabasen.xlsx",
+      "format": "xlsx"
     },
-    "size": {
-        "entries": null
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml",
+      "type": "neo_idiom_m_alternativformer.xml",
+      "format": "xml"
     },
-    "long_description_sv": "<b>Idiom ur NEO-databasen</b>\n<p><i>Nationalencyklopedins ordbok</i> (NEO) utgavs 1995-96 av Bokförlaget Bra Böcker.\nNEO utarbetades vid Språkdata, Göteborgs universitet, under vetenskaplig ledning av professor em. Sture Allén. Utdraget av föreliggande samling idiom med betydelsebeskrivningar har gjorts vid Lexikaliska institutet, Institutionen för svenska språket vid Göteborgs universitet. </p>\n\n<a href=\"https://svenska.gu.se/forskning/forskningsprofiler/lexikologi-och-lexikografi/lexikaliska-institutet\">Lexikaliska institutet</a><br/>\n\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx\">Idiomen som Excel-fil</a><br/>\n\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom.css\">CSS-fil</a><br/>\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/readme_neo_idiom.txt\">Readme-fil</a>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/neo-idiom.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": null
+  },
+  "long_description_sv": "<b>Idiom ur NEO-databasen</b>\n<p><i>Nationalencyklopedins ordbok</i> (NEO) utgavs 1995-96 av Bokförlaget Bra Böcker.\nNEO utarbetades vid Språkdata, Göteborgs universitet, under vetenskaplig ledning av professor em. Sture Allén. Utdraget av föreliggande samling idiom med betydelsebeskrivningar har gjorts vid Lexikaliska institutet, Institutionen för svenska språket vid Göteborgs universitet. </p>\n\n<a href=\"https://svenska.gu.se/forskning/forskningsprofiler/lexikologi-och-lexikografi/lexikaliska-institutet\">Lexikaliska institutet</a><br/>\n\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx\">Idiomen som Excel-fil</a><br/>\n\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom.css\">CSS-fil</a><br/>\n<a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/readme_neo_idiom.txt\">Readme-fil</a>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

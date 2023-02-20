@@ -1,58 +1,50 @@
 {
-    "id": "skbl",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        },
-        {
-            "code": "eng",
-            "name_en": "English",
-            "name_sv": "engelska"
-        }
-    ],
-    "name_sv": "SKBL",
-    "name_en": "SKBL",
-    "description_sv": "Svenskt kvinnobiografiskt lexikon",
-    "description_en": "The Biographical Dictionary of Swedish Women",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json",
-            "type": "skbl.json",
-            "format": "json"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/skbl.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#?mode=skbl"
-        }
-    ],
-    "contact_info": {
-        "surname": "Språkbanken",
-        "givenName": "Språkbanken",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "skbl",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "SKBL",
+  "name_en": "SKBL",
+  "description_sv": "Svenskt kvinnobiografiskt lexikon",
+  "description_en": "The Biographical Dictionary of Swedish Women",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json",
+      "type": "skbl.json",
+      "format": "json"
     },
-    "size": {
-        "entries": "1411"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/skbl.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#?mode=skbl"
+    }
+  ],
+  "contact_info": {
+    "surname": "Språkbanken",
+    "givenName": "Språkbanken",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "1411"
+  },
+  "language_codes": [
+    "swe",
+    "eng"
+  ]
 }

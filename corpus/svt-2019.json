@@ -1,73 +1,69 @@
 {
-    "id": "svt-2019",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "svt"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "SVT news 2019",
-    "name_sv": "SVT nyheter 2019",
-    "description_en": "News texts from svt.se",
-    "description_sv": "Nyhetstexter från svt.se",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/svt-2019.xml.bz2",
-            "type": "corpus",
-            "format": "XML",
-            "info": "this file contains a scrambled version of the corpus"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_svt-2019.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svt-2019.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=svt-2019"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "svt-2019",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "svt"
+  ],
+  "name_en": "SVT news 2019",
+  "name_sv": "SVT nyheter 2019",
+  "description_en": "News texts from svt.se",
+  "description_sv": "Nyhetstexter från svt.se",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/svt-2019.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus"
     },
-    "size": {
-        "tokens": "18274785",
-        "sentences": "1202380"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_svt-2019.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "scrambled"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svt-2019.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=svt-2019"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "18274785",
+    "sentences": "1202380"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "scrambled"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,48 +1,44 @@
 {
-    "id": "dalin-then-swaanska-argus-1732-1734",
-    "type": "corpus",
-    "trainingdata": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Dalin: Then Swänska Argus 1732-1734",
-    "name_en": "Dalin: Then Swänska Argus 1732-1734",
-    "description_sv": "Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. För OCR analys. ",
-    "description_en": "Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. For OCR analysis. ",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/dalin-then-swaanska-argus-1732-1734.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Dannélls",
-        "givenName": "Dana",
-        "email": "dana.dannells@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "dalin-then-swaanska-argus-1732-1734",
+  "type": "corpus",
+  "trainingdata": true,
+  "name_sv": "Dalin: Then Swänska Argus 1732-1734",
+  "name_en": "Dalin: Then Swänska Argus 1732-1734",
+  "description_sv": "Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. För OCR analys. ",
+  "description_en": "Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. For OCR analysis. ",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "213399"
-    },
-    "long_description_sv": "<p>\n  Dalin: Then Swänska Argus 1732-1734 innehåller bilder och manuella transkriptioner av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. \n</p>\n<p>\n  Resursen, automatiskt annoterad med morfologisk och syntaktisk information, finns också tillgänglig i <a href=\"https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin\">Korp</a> och kan laddas ner <a href=\"http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2\">här</a>. \n  </p>\n\n",
-    "long_description_en": "<p>\n  Dalin: Then Swänska Argus 1732-1734 contains images and manual transcriptions of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. \n</p>\n<p>\n  The resource, automatically annotated with morphological and syntactic information, is also available in <a href=\"https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin\">Korp</a> and can be downloaded <a href=\"http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2\">here</a>. \n  </p>\n\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/dalin-then-swaanska-argus-1732-1734.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Dannélls",
+    "givenName": "Dana",
+    "email": "dana.dannells@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "213399"
+  },
+  "long_description_sv": "<p>\n  Dalin: Then Swänska Argus 1732-1734 innehåller bilder och manuella transkriptioner av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. \n</p>\n<p>\n  Resursen, automatiskt annoterad med morfologisk och syntaktisk information, finns också tillgänglig i <a href=\"https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin\">Korp</a> och kan laddas ner <a href=\"http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2\">här</a>. \n  </p>\n\n",
+  "long_description_en": "<p>\n  Dalin: Then Swänska Argus 1732-1734 contains images and manual transcriptions of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. \n</p>\n<p>\n  The resource, automatically annotated with morphological and syntactic information, is also available in <a href=\"https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin\">Korp</a> and can be downloaded <a href=\"http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2\">here</a>. \n  </p>\n\n",
+  "language_codes": [
+    "swe"
+  ]
 }

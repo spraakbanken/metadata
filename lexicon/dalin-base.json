@@ -1,53 +1,49 @@
 {
-    "id": "dalin-base",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Dalin Ordbok Öfver Svenska Språket - basmaterial",
-    "name_en": "Dalin Dictionary - Base Material",
-    "description_sv": "Dalins ordbok - Ordbok över 1800-talsspråket",
-    "description_en": "Dalin's Dictionary of 19th century Swedish - base material",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalin-base/dalin-base.xml",
-            "type": "lexicon",
-            "format": "LMF"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/dalin-base.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#lexicon=dalin-base"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "dalin-base",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Dalin Ordbok Öfver Svenska Språket - basmaterial",
+  "name_en": "Dalin Dictionary - Base Material",
+  "description_sv": "Dalins ordbok - Ordbok över 1800-talsspråket",
+  "description_en": "Dalin's Dictionary of 19th century Swedish - base material",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalin-base/dalin-base.xml",
+      "type": "lexicon",
+      "format": "LMF"
     },
-    "size": {
-        "entries": "62327"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/dalin-base.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#lexicon=dalin-base"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "62327"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

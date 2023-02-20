@@ -1,104 +1,100 @@
 {
-    "id": "gigaword",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "The Swedish Culturomics Gigaword Corpus",
-    "name_en": "The Swedish Culturomics Gigaword Corpus",
-    "description_sv": "En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
-    "description_en": "One billion Swedish words from 1950 and onwards. Code to extract data from the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1950-59.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1960-69.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1970-79.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1980-89.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1990-99.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2000-09.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2010-15.tar",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gigaword.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "gigaword",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "The Swedish Culturomics Gigaword Corpus",
+  "name_en": "The Swedish Culturomics Gigaword Corpus",
+  "description_sv": "En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
+  "description_en": "One billion Swedish words from 1950 and onwards. Code to extract data from the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1950-59.tar",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "1015635151",
-        "sentences": "59736642"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1960-69.tar",
+      "type": "corpus",
+      "format": "XML"
     },
-    "long_description_sv": "<p>En miljard ord ur svenska korpusar från 1950 och framåt.</p>\n\n<p>Vänligen använd följande artikel som referens för datasetet:<br/>\nStian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>\n<a href=\"https://spraakbanken.gu.se/publication/19894/bibtex\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png\" /></a>\n<a href=\"http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png\" /></a></p>\n\n<p>Kod för att extrahera data från korpusen, samt\n användningsinstruktioner, kan laddas ner från\n <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/\">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}\n",
-    "long_description_en": "<p>One billion Swedish words from 1950 and onwards.</p>\n\n<p>Please reference the dataset using the following reference:<br/>\nStian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>\n<a href=\"https://spraakbanken.gu.se/publication/19894/bibtex\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png\" /></a>\n<a href=\"http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png\" /></a></p>\n\n<p>Code to extract data from the corpus, as well as usage instructions,\n can be downloaded from <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/\">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}\n"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1970-79.tar",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1980-89.tar",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1990-99.tar",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2000-09.tar",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2010-15.tar",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gigaword.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1015635151",
+    "sentences": "59736642"
+  },
+  "long_description_sv": "<p>En miljard ord ur svenska korpusar från 1950 och framåt.</p>\n\n<p>Vänligen använd följande artikel som referens för datasetet:<br/>\nStian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>\n<a href=\"https://spraakbanken.gu.se/publication/19894/bibtex\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png\" /></a>\n<a href=\"http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png\" /></a></p>\n\n<p>Kod för att extrahera data från korpusen, samt\n användningsinstruktioner, kan laddas ner från\n <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/\">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}\n",
+  "long_description_en": "<p>One billion Swedish words from 1950 and onwards.</p>\n\n<p>Please reference the dataset using the following reference:<br/>\nStian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>\n<a href=\"https://spraakbanken.gu.se/publication/19894/bibtex\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png\" /></a>\n<a href=\"http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png\" /></a></p>\n\n<p>Code to extract data from the corpus, as well as usage instructions,\n can be downloaded from <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/\">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}\n",
+  "language_codes": [
+    "swe"
+  ]
 }

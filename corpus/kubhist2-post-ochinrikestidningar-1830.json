@@ -1,72 +1,68 @@
 {
-    "id": "kubhist2-post-ochinrikestidningar-1830",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "kubhist2"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Post- och Inrikes Tidningar 1830's",
-    "name_sv": "Post- och Inrikes Tidningar 1830-talet",
-    "description_en": "Part of the collection Kubhist2",
-    "description_sv": "Del av samlingen Kubhist2",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-post-ochinrikestidningar-1830.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-post-ochinrikestidningar-1830.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist2-post-ochinrikestidningar-1830.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-post-ochinrikestidningar-1830"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "kubhist2-post-ochinrikestidningar-1830",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "kubhist2"
+  ],
+  "name_en": "Post- och Inrikes Tidningar 1830's",
+  "name_sv": "Post- och Inrikes Tidningar 1830-talet",
+  "description_en": "Part of the collection Kubhist2",
+  "description_sv": "Del av samlingen Kubhist2",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-post-ochinrikestidningar-1830.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "29661035",
-        "sentences": "1770492"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-post-ochinrikestidningar-1830.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "kubhist"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "original"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist2-post-ochinrikestidningar-1830.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-post-ochinrikestidningar-1830"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "29661035",
+    "sentences": "1770492"
+  },
+  "korp_info": {
+    "modes": [
+      "kubhist"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "original"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,63 +1,59 @@
 {
-    "id": "press97",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Press 97",
-    "name_en": "Press 97",
-    "description_sv": "Svensk press 1997",
-    "description_en": "Swedish press 1997",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press97.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS97.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press97.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=press97"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "press97",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Press 97",
+  "name_en": "Press 97",
+  "description_sv": "Svensk press 1997",
+  "description_en": "Swedish press 1997",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press97.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "13703279",
-        "sentences": "977275"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS97.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "<p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten \noch Svenska Dagbladet</B>. På grund av en del tekniska\nproblem har insamlingsperioderna kommit att variera lite\nmellan å ena sidan DN och å andra sidan GP och SvD. \n\n</p>\n<p>Insamlingen omfattar följande dagar:\n<ul>\n<li>DN:  <I>  20/2-7/3, 31/5-16/6, 30/8-8/9, 15/9-24/9, 1/12-9/12, 11/12-24/12  </I></li>\n<li>GP:  <I>   3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                        </I></li>\n<li>SvD: <I> 3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                          </I></li>\n</ul>\n</p>\n\n<p>\nDet kan inte nog sägas: Ett stort tack till DN, GP och Svd för \ndet mycket vänliga bemötandet och den hjälpsamhet som ni visat\ntrots er ändå stora arbetsbörda. \n</p>\n<p>Språkbanken, juni 1998.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press97.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=press97"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "13703279",
+    "sentences": "977275"
+  },
+  "long_description_sv": "<p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten \noch Svenska Dagbladet</B>. På grund av en del tekniska\nproblem har insamlingsperioderna kommit att variera lite\nmellan å ena sidan DN och å andra sidan GP och SvD. \n\n</p>\n<p>Insamlingen omfattar följande dagar:\n<ul>\n<li>DN:  <I>  20/2-7/3, 31/5-16/6, 30/8-8/9, 15/9-24/9, 1/12-9/12, 11/12-24/12  </I></li>\n<li>GP:  <I>   3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                        </I></li>\n<li>SvD: <I> 3/3-16/3,  2/6-15/6, 1/9-21/9, 1/12-21/12                          </I></li>\n</ul>\n</p>\n\n<p>\nDet kan inte nog sägas: Ett stort tack till DN, GP och Svd för \ndet mycket vänliga bemötandet och den hjälpsamhet som ni visat\ntrots er ändå stora arbetsbörda. \n</p>\n<p>Språkbanken, juni 1998.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,46 +1,42 @@
 {
-    "id": "mathir-trad",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "MAÞiR Träd",
-    "name_en": "MAÞiR Trees",
-    "description_sv": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
-    "description_en": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. ",
-    "downloads": [
-        {
-            "licence": "CC BY-NC 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by-nc/4.0/",
-            "restriction": "attribution",
-            "download": "http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz",
-            "type": "mathir_trees_v0.1.tgz",
-            "format": "tgz"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/mathir-trad.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Bouma",
-        "givenName": "Gerlof",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "mathir-trad",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "MAÞiR Träd",
+  "name_en": "MAÞiR Trees",
+  "description_sv": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
+  "description_en": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. ",
+  "downloads": [
+    {
+      "licence": "CC BY-NC 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "restriction": "attribution",
+      "download": "http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz",
+      "type": "mathir_trees_v0.1.tgz",
+      "format": "tgz"
     },
-    "size": {
-        "tokens": "33721"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/mathir-trad.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Bouma",
+    "givenName": "Gerlof",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "33721"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

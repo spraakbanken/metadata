@@ -5,13 +5,6 @@
   "in_collections": [
     "kubhist"
   ],
-  "lang": [
-    {
-      "code": "swe",
-      "name_en": "Swedish",
-      "name_sv": "svenska"
-    }
-  ],
   "name_sv": "Bollnäs tidning 1870-talet",
   "name_en": "Bollnäs tidning 1870's",
   "description_en": "Part of the collection Kubhist",
@@ -56,5 +49,8 @@
   "export": {
     "stats_export": true,
     "xml_export": "original"
-  }
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

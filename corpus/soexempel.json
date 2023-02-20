@@ -1,45 +1,41 @@
 {
-    "id": "soexempel",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Språkprov SO 2009",
-    "name_en": "Språkprov SO 2009",
-    "description_sv": "",
-    "description_en": "",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/soexempel.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=soexempel"
-        }
-    ],
-    "contact_info": {
-        "surname": "Emma",
-        "givenName": "Sköldberg",
-        "email": "emma.skoldberg@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
-            "email": "svenska.exp@svenska.gu.se"
-        }
-    },
-    "size": {
-        "tokens": "541568",
-        "sentences": "94445"
+  "id": "soexempel",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Språkprov SO 2009",
+  "name_en": "Språkprov SO 2009",
+  "description_sv": "",
+  "description_en": "",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/soexempel.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=soexempel"
+    }
+  ],
+  "contact_info": {
+    "surname": "Emma",
+    "givenName": "Sköldberg",
+    "email": "emma.skoldberg@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
+      "email": "svenska.exp@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "541568",
+    "sentences": "94445"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

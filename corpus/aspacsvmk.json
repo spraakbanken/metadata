@@ -1,86 +1,78 @@
 {
-    "id": "aspacsvmk",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        },
-        {
-            "code": "mkd",
-            "name_en": "Macedonian",
-            "name_sv": "makedonska"
-        }
-    ],
-    "name_sv": "ASPAC – svenska-makedonska",
-    "name_en": "ASPAC – Swedish-Macedonian",
-    "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the Swedish part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvmk-sv.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the Macedonian part of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvmk-mk.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the Swedish part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-SV.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains statistics on the Macedonian part of the corpus",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-MK.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvmk.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvmk-sv"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "aspacsvmk",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "ASPAC – svenska-makedonska",
+  "name_en": "ASPAC – Swedish-Macedonian",
+  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the Swedish part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvmk-sv.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "602313",
-        "sentences": "41670"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the Macedonian part of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvmk-mk.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the Swedish part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-SV.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains statistics on the Macedonian part of the corpus",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-MK.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvmk.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvmk-sv"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "602313",
+    "sentences": "41670"
+  },
+  "language_codes": [
+    "swe",
+    "mkd"
+  ]
 }

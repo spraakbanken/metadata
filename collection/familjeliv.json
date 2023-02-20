@@ -1,35 +1,31 @@
 {
-    "id": "familjeliv",
-    "type": "corpus",
-    "trainingdata": false,
-    "collection": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_sv": "svenska",
-            "name_en": "Swedish"
-        }
-    ],
-    "name_sv": "Familjeliv",
-    "name_en": "Familjeliv",
-    "description_sv": "Material från diskussionsforumet Familjeliv",
-    "description_en": "Material from the Familjeliv internet forum",
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.familjeliv"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
-    },
-    "long_description_sv": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. Samlingen uppdateras ca en gång per år.",
-    "long_description_en": "The texts have been collected from the internet forum <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. The collection is updated about once per year."
+  "id": "familjeliv",
+  "type": "corpus",
+  "trainingdata": false,
+  "collection": true,
+  "name_sv": "Familjeliv",
+  "name_en": "Familjeliv",
+  "description_sv": "Material från diskussionsforumet Familjeliv",
+  "description_en": "Material from the Familjeliv internet forum",
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.familjeliv"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "long_description_sv": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. Samlingen uppdateras ca en gång per år.",
+  "long_description_en": "The texts have been collected from the internet forum <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. The collection is updated about once per year.",
+  "language_codes": [
+    "swe"
+  ]
 }

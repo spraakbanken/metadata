@@ -1,86 +1,82 @@
 {
-    "id": "talbanken",
-    "type": "corpus",
-    "trainingdata": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "TalbankenSBX",
-    "name_en": "TalbankenSBX",
-    "description_sv": "Talbanken är en svensk trädbank. Detta är Språkbanken Texts version av Talbanken.",
-    "description_en": "Talbanken is a Swedish treebank. This is the Språkbanken Text version of Talbanken.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/talbanken.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TALBANKEN.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/changelog.txt",
-            "type": "changelog.txt",
-            "format": "txt"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_morphsplit20200610.zip",
-            "type": "TalbankenSBX_morphsplit20200610.zip",
-            "format": "zip"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_syntsplit20200610.zip",
-            "type": "TalbankenSBX_syntsplit20200610.zip",
-            "format": "zip"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/talbanken.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=talbanken"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "talbanken",
+  "type": "corpus",
+  "trainingdata": true,
+  "name_sv": "TalbankenSBX",
+  "name_en": "TalbankenSBX",
+  "description_sv": "Talbanken är en svensk trädbank. Detta är Språkbanken Texts version av Talbanken.",
+  "description_en": "Talbanken is a Swedish treebank. This is the Språkbanken Text version of Talbanken.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/talbanken.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "96346",
-        "sentences": "6160"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TALBANKEN.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_en": "<p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href=\"https://spraakbanken.gu.se/blogg/index.php/2020/06/09/the-five-lives-of-talbanken/\">here</a>. This version originated as a copy of <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a>, but unlike the STB version, this one is open to changes and corrections. This is also the version indexed by our search engine Korp. The changes made by us can be found in changelog.txt.</p>\n\n<h1>Annotation</h1>\n<p>The following layers of annotation were added (or corrected) manually and can be considered <b>gold data</b>: tokenization, sentence segmentation, POS, MSD, dependency syntax (deprel and dephead).</p>\n\n<p>Tokenization, sentence segmentation, POS and MSD follow the  <a href=\"https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf\">SUC format</a>, syntactic annotation follows the Mamba-Dep format, a conversion of the MAMBA format used in the original Talbanken76 to dependency grammar.</p>\n\n<p>Read more about these annotation layers in the documentation for <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a> or at Joakim Nivre's page: <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#token\">tokenization and sentence segmentation</a>, <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#morph\">POS and MSD</a>, <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#synt\">dependency syntax</a>.</p>\n\n<h1>Formats and splits</h1>\n<p>TalbankenSBX is provided in our standard XML format and in a (pseudo-)<a href=\"https://universaldependencies.org/format.html\">CONLLU</a> format, where UPOS is POS in the SUC format, XPOS is POS+MSD, Feats are MSD converted to the UD/CONLLU standard, and Deprel is a Mamba-Dep relation. There are currently no  <code>text</code> and <code>SpaceAfter</code> attributes.\nYou may convert our XML to this format Talbanken yourself using the script in this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>.</p>\n\n<p>We provide two splits of TalbankenSBX. MorphSplit is used for POS-tagging purposes: the treebank is divided into two parts with the same number of sentences (the split is completely random, no blocks are used). One part is used as the development set, the other is the test set (<a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> is the training set).\nYou may resplit the Talbanken yourself using the script in this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>.</p>\n\n<p>SyntSplit used is for dependency parsing: the treebank is divided into the training, development and test sets. The training set is the same as the one in <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a>, whereas dev and test approximate dev and test in the <a href=\"https://github.com/UniversalDependencies/UD_Swedish-Talbanken/\">UD version</a> as much as possible. The SyntSplit is provided only in the CONLLU format.</p>"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/changelog.txt",
+      "type": "changelog.txt",
+      "format": "txt"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_morphsplit20200610.zip",
+      "type": "TalbankenSBX_morphsplit20200610.zip",
+      "format": "zip"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_syntsplit20200610.zip",
+      "type": "TalbankenSBX_syntsplit20200610.zip",
+      "format": "zip"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/talbanken.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=talbanken"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "96346",
+    "sentences": "6160"
+  },
+  "long_description_en": "<p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href=\"https://spraakbanken.gu.se/blogg/index.php/2020/06/09/the-five-lives-of-talbanken/\">here</a>. This version originated as a copy of <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a>, but unlike the STB version, this one is open to changes and corrections. This is also the version indexed by our search engine Korp. The changes made by us can be found in changelog.txt.</p>\n\n<h1>Annotation</h1>\n<p>The following layers of annotation were added (or corrected) manually and can be considered <b>gold data</b>: tokenization, sentence segmentation, POS, MSD, dependency syntax (deprel and dephead).</p>\n\n<p>Tokenization, sentence segmentation, POS and MSD follow the  <a href=\"https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf\">SUC format</a>, syntactic annotation follows the Mamba-Dep format, a conversion of the MAMBA format used in the original Talbanken76 to dependency grammar.</p>\n\n<p>Read more about these annotation layers in the documentation for <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a> or at Joakim Nivre's page: <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#token\">tokenization and sentence segmentation</a>, <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#morph\">POS and MSD</a>, <a href=\"https://cl.lingfil.uu.se/~nivre/swedish_treebank/#synt\">dependency syntax</a>.</p>\n\n<h1>Formats and splits</h1>\n<p>TalbankenSBX is provided in our standard XML format and in a (pseudo-)<a href=\"https://universaldependencies.org/format.html\">CONLLU</a> format, where UPOS is POS in the SUC format, XPOS is POS+MSD, Feats are MSD converted to the UD/CONLLU standard, and Deprel is a Mamba-Dep relation. There are currently no  <code>text</code> and <code>SpaceAfter</code> attributes.\nYou may convert our XML to this format Talbanken yourself using the script in this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>.</p>\n\n<p>We provide two splits of TalbankenSBX. MorphSplit is used for POS-tagging purposes: the treebank is divided into two parts with the same number of sentences (the split is completely random, no blocks are used). One part is used as the development set, the other is the test set (<a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> is the training set).\nYou may resplit the Talbanken yourself using the script in this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>.</p>\n\n<p>SyntSplit used is for dependency parsing: the treebank is divided into the training, development and test sets. The training set is the same as the one in <a href=\"https://spraakbanken.gu.se/en/resources/talbanken-stb\">TalbankenSTB</a>, whereas dev and test approximate dev and test in the <a href=\"https://github.com/UniversalDependencies/UD_Swedish-Talbanken/\">UD version</a> as much as possible. The SyntSplit is provided only in the CONLLU format.</p>",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,53 +1,49 @@
 {
-    "id": "litterartidskrift-helsingfors",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Litterär tidskrift utgifven i Helsingfors",
-    "name_en": "Literary magazine published in Helsingfors",
-    "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LITTERARTIDSKRIFT-HELSINGFORS.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/litterartidskrift-helsingfors.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=litterartidskrift-helsingfors"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "litterartidskrift-helsingfors",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Litterär tidskrift utgifven i Helsingfors",
+  "name_en": "Literary magazine published in Helsingfors",
+  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LITTERARTIDSKRIFT-HELSINGFORS.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "76058",
-        "sentences": "2782"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/litterartidskrift-helsingfors.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=litterartidskrift-helsingfors"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "76058",
+    "sentences": "2782"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

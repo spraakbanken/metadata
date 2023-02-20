@@ -1,73 +1,69 @@
 {
-    "id": "flashback-sport",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "flashback"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Flashback: Sports & Fitness",
-    "name_sv": "Flashback: Sport & träning",
-    "description_en": "Material from the Flashback internet forum.",
-    "description_sv": "Material från diskussionsforumet Flashback.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/flashback-sport.xml.bz2",
-            "type": "corpus",
-            "format": "XML",
-            "info": "this file contains a scrambled version of the corpus"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-sport.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/flashback-sport.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=flashback-sport"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "flashback-sport",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "flashback"
+  ],
+  "name_en": "Flashback: Sports & Fitness",
+  "name_sv": "Flashback: Sport & träning",
+  "description_en": "Material from the Flashback internet forum.",
+  "description_sv": "Material från diskussionsforumet Flashback.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/flashback-sport.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus"
     },
-    "size": {
-        "tokens": "260585754",
-        "sentences": "18871935"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-sport.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "scrambled"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/flashback-sport.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=flashback-sport"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "260585754",
+    "sentences": "18871935"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "scrambled"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

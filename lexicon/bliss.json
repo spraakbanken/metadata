@@ -1,47 +1,46 @@
 {
-    "id": "bliss",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [],
-    "name_sv": "Bliss",
-    "name_en": "Bliss",
-    "description_sv": "Bliss är ett konstruerat symbolspråk som främst används av personer med grava kommunikativa och fysiska funktionsnedsättningar. Det består av ca 5000 grafiska symboler.",
-    "description_en": "Blissymbolics is a constructed symbol language which is mainly used by people with severe communicative and phsyical disabilities. It consists of around 5000 graphical symbols.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/bliss.xml",
-            "type": "lexicon",
-            "format": "LMF"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bliss.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#/?resources=bliss"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "bliss",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Bliss",
+  "name_en": "Bliss",
+  "description_sv": "Bliss är ett konstruerat symbolspråk som främst används av personer med grava kommunikativa och fysiska funktionsnedsättningar. Det består av ca 5000 grafiska symboler.",
+  "description_en": "Blissymbolics is a constructed symbol language which is mainly used by people with severe communicative and phsyical disabilities. It consists of around 5000 graphical symbols.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/bliss.xml",
+      "type": "lexicon",
+      "format": "LMF"
     },
-    "size": {
-        "entries": "5596"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bliss.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#/?resources=bliss"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "5596"
+  }
 }

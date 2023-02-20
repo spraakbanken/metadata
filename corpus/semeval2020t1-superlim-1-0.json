@@ -1,49 +1,45 @@
 {
-    "id": "semeval2020t1-superlim-1-0",
-    "name_sv": "SemEval 2020 Task 1 (repackaged for SuperLim)",
-    "name_en": "SemEval 2020 Task 1 (repackaged for SuperLim)",
-    "description_sv": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
-    "description_en": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
-    "type": "corpus",
-    "trainingdata": false,
-    "unlisted": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",
-            "type": "semeval2020t1_documentation_sheet.tsv",
-            "format": "tsv"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/semeval2020t1-superlim.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Tahmasebi",
-        "givenName": "Nina",
-        "email": "nina.tahmasebi@gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "semeval2020t1-superlim-1-0",
+  "name_sv": "SemEval 2020 Task 1 (repackaged for SuperLim)",
+  "name_en": "SemEval 2020 Task 1 (repackaged for SuperLim)",
+  "description_sv": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+  "description_en": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+  "type": "corpus",
+  "trainingdata": false,
+  "unlisted": true,
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",
+      "type": "semeval2020t1_documentation_sheet.tsv",
+      "format": "tsv"
     },
-    "size": {},
-    "in_collections": [
-        "superlim"
-    ],
-    "long_description_en": "<table style=\"width:100%\">\n<tr>\n<td>I. IDENTIFYING INFORMATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Title*</td>\n<td>SemEval 2020 Task 1\n</td>\n</tr>\n<tr>\n<td>Subtitle</td>\n<td>Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection (repackaged for SuperLim)\n</td>\n</tr>\n<tr>\n<td>Created by*</td>\n<td>Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi\n</td>\n</tr>\n<tr>\n<td>Publisher(s)*</td>\n<td>Språkbanken Text (sb-info@svenska.gu.se)\n</td>\n</tr>\n<tr>\n<td>Link(s) / permanent identifier(s)*</td>\n<td>Resource page in the SuperLim collection, containing the SuperLim-style documentation (this document): <a href=\"https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim\">https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim</a>. Original resource page, containing the data: <a href=\"https://spraakbanken.gu.se/en/resources/semeval2020\">https://spraakbanken.gu.se/en/resources/semeval2020</a>\n</td>\n</tr>\n<tr>\n<td>License(s)*</td>\n<td>CC BY 4.0\n</td>\n</tr>\n<tr>\n<td>Abstract*</td>\n<td>This data collection contains the Swedish test data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection: a Swedish text corpus pair (one corpus covering the time period 1790-1830, another 1895-1903) and 31 lemmas which have been annotated for their lexical semantic change between the two corpora.\n</td>\n</tr>\n<tr>\n<td>Funded by*</td>\n<td>Swedish Research Council (dnr 2018-01184)\n</td>\n</tr>\n<tr>\n<td>Cite as</td>\n<td>[1], [2]\n</td>\n</tr>\n<tr>\n<td>Related datasets</td>\n<td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim). \n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>II. USAGE</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Key applications</td>\n<td>Machine Learning, Semantic change detection, Evaluation of language models\n</td>\n</tr>\n<tr>\n<td>Intended task(s)/usage(s)</td>\n<td>Evaluate models on the following task: (1) given two the corpora (for time periods t1 and t2) and the set of target words, decide which words lost or gained senses between t1 and t2, and which ones did not; as annotated by human judges; (2) given the two corpora, rank the set of target words according to their degree of lexical semantic change between t1 and t2, as annotated by human judges. A higher rank means stronger change.\n</td>\n</tr>\n<tr>\n<td>Recommended evaluation measures</td>\n<td>(1) Accuracy; (2) Spearman's correlation coefficient (see [1] for a possible strategy of dealing with ties)\n</td>\n</tr>\n<tr>\n<td>Dataset function(s)</td>\n<td>Testing\n</td>\n</tr>\n<tr>\n<td>Recommended split(s)</td>\n<td>Test data only\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>III. DATA</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Primary data*</td>\n<td>Text\n</td>\n</tr>\n<tr>\n<td>Language*</td>\n<td>Swedish\n</td>\n</tr>\n<tr>\n<td>Dataset in numbers*</td>\n<td>31 target words; two corpora (71 million tokens for 1790-1830; 111 million tokens 1895-1903).\n</td>\n</tr>\n<tr>\n<td>Nature of the content*</td>\n<td>The list of target words and two corpora\n</td>\n</tr>\n<tr>\n<td>Format*</td>\n<td>Corpora: plain text. Target word lists: two columns (word and label).\n</td>\n</tr>\n<tr>\n<td>Data source(s)*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data collection method(s)*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data selection and filtering*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data preprocessing*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data labeling*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Annotator characteristics</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>IV. ETHICS AND CAVEATS</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Ethical considerations</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Things to watch out for</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>V. ABOUT DOCUMENTATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Data last updated*</td>\n<td>2020-02-19, v1.0\n</td>\n</tr>\n<tr>\n<td>Which changes have been made, compared to the previous version*</td>\n<td>This is the first official version\n</td>\n</tr>\n<tr>\n<td>Access to previous versions</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>This document created*</td>\n<td>2021-06-15, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>This document last updated*</td>\n<td>2021-06-15, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>Where to look for further details</td>\n<td>[1], [2], [3]\n</td>\n</tr>\n<tr>\n<td>Documentation template version*</td>\n<td>v1.0\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>VI. OTHER</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related projects</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>References</td>\n<td>[1] Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi.\n<br> SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection. In Proceedings of the 14th International Workshop on Semantic Evaluation, Barcelona, Spain, 2020. Association for Computational Linguistics https://www.aclweb.org/anthology/2020.semeval-1.1/\n<br> [2]  Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection, https://zenodo.org/record/3730550#.YMiazfkzZPY\n<br> [3]  SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection https://competitions.codalab.org/competitions/20948#learn_the_details-data\n<br> \n</td>\n</tr>\n</table>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/semeval2020t1-superlim.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Tahmasebi",
+    "givenName": "Nina",
+    "email": "nina.tahmasebi@gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {},
+  "in_collections": [
+    "superlim"
+  ],
+  "long_description_en": "<table style=\"width:100%\">\n<tr>\n<td>I. IDENTIFYING INFORMATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Title*</td>\n<td>SemEval 2020 Task 1\n</td>\n</tr>\n<tr>\n<td>Subtitle</td>\n<td>Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection (repackaged for SuperLim)\n</td>\n</tr>\n<tr>\n<td>Created by*</td>\n<td>Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi\n</td>\n</tr>\n<tr>\n<td>Publisher(s)*</td>\n<td>Språkbanken Text (sb-info@svenska.gu.se)\n</td>\n</tr>\n<tr>\n<td>Link(s) / permanent identifier(s)*</td>\n<td>Resource page in the SuperLim collection, containing the SuperLim-style documentation (this document): <a href=\"https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim\">https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim</a>. Original resource page, containing the data: <a href=\"https://spraakbanken.gu.se/en/resources/semeval2020\">https://spraakbanken.gu.se/en/resources/semeval2020</a>\n</td>\n</tr>\n<tr>\n<td>License(s)*</td>\n<td>CC BY 4.0\n</td>\n</tr>\n<tr>\n<td>Abstract*</td>\n<td>This data collection contains the Swedish test data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection: a Swedish text corpus pair (one corpus covering the time period 1790-1830, another 1895-1903) and 31 lemmas which have been annotated for their lexical semantic change between the two corpora.\n</td>\n</tr>\n<tr>\n<td>Funded by*</td>\n<td>Swedish Research Council (dnr 2018-01184)\n</td>\n</tr>\n<tr>\n<td>Cite as</td>\n<td>[1], [2]\n</td>\n</tr>\n<tr>\n<td>Related datasets</td>\n<td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim). \n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>II. USAGE</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Key applications</td>\n<td>Machine Learning, Semantic change detection, Evaluation of language models\n</td>\n</tr>\n<tr>\n<td>Intended task(s)/usage(s)</td>\n<td>Evaluate models on the following task: (1) given two the corpora (for time periods t1 and t2) and the set of target words, decide which words lost or gained senses between t1 and t2, and which ones did not; as annotated by human judges; (2) given the two corpora, rank the set of target words according to their degree of lexical semantic change between t1 and t2, as annotated by human judges. A higher rank means stronger change.\n</td>\n</tr>\n<tr>\n<td>Recommended evaluation measures</td>\n<td>(1) Accuracy; (2) Spearman's correlation coefficient (see [1] for a possible strategy of dealing with ties)\n</td>\n</tr>\n<tr>\n<td>Dataset function(s)</td>\n<td>Testing\n</td>\n</tr>\n<tr>\n<td>Recommended split(s)</td>\n<td>Test data only\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>III. DATA</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Primary data*</td>\n<td>Text\n</td>\n</tr>\n<tr>\n<td>Language*</td>\n<td>Swedish\n</td>\n</tr>\n<tr>\n<td>Dataset in numbers*</td>\n<td>31 target words; two corpora (71 million tokens for 1790-1830; 111 million tokens 1895-1903).\n</td>\n</tr>\n<tr>\n<td>Nature of the content*</td>\n<td>The list of target words and two corpora\n</td>\n</tr>\n<tr>\n<td>Format*</td>\n<td>Corpora: plain text. Target word lists: two columns (word and label).\n</td>\n</tr>\n<tr>\n<td>Data source(s)*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data collection method(s)*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data selection and filtering*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data preprocessing*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Data labeling*</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td>Annotator characteristics</td>\n<td>See [1]\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>IV. ETHICS AND CAVEATS</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Ethical considerations</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Things to watch out for</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>V. ABOUT DOCUMENTATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Data last updated*</td>\n<td>2020-02-19, v1.0\n</td>\n</tr>\n<tr>\n<td>Which changes have been made, compared to the previous version*</td>\n<td>This is the first official version\n</td>\n</tr>\n<tr>\n<td>Access to previous versions</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>This document created*</td>\n<td>2021-06-15, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>This document last updated*</td>\n<td>2021-06-15, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>Where to look for further details</td>\n<td>[1], [2], [3]\n</td>\n</tr>\n<tr>\n<td>Documentation template version*</td>\n<td>v1.0\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>VI. OTHER</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related projects</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>References</td>\n<td>[1] Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi.\n<br> SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection. In Proceedings of the 14th International Workshop on Semantic Evaluation, Barcelona, Spain, 2020. Association for Computational Linguistics https://www.aclweb.org/anthology/2020.semeval-1.1/\n<br> [2]  Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection, https://zenodo.org/record/3730550#.YMiazfkzZPY\n<br> [3]  SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection https://competitions.codalab.org/competitions/20948#learn_the_details-data\n<br> \n</td>\n</tr>\n</table>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

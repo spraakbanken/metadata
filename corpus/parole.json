@@ -1,72 +1,68 @@
 {
-    "id": "parole",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Parole korpus",
-    "name_en": "Parole corpus",
-    "description_sv": "En korpus annoterad med morfologisk och syntaktisk information",
-    "description_en": "A corpus annotated with morphological and syntactic information",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/pub/reskit/parole.zip",
-            "type": "parole.zip",
-            "format": "zip"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/parole.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=parole"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "parole",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Parole korpus",
+  "name_en": "Parole corpus",
+  "description_sv": "En korpus annoterad med morfologisk och syntaktisk information",
+  "description_en": "A corpus annotated with morphological and syntactic information",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "24303096",
-        "sentences": "1625870"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/pub/reskit/parole.zip",
+      "type": "parole.zip",
+      "format": "zip"
     },
-    "long_description_sv": "<p>\nDet textmaterial som här går under namnet Parole är insamlat inom ramen för EU-projektet PAROLE (avslutat 1997 och inriktat på att bygga upp ett europeiskt nätverk av språkliga resurser). Textmaterialet är morfosyntaktiskt annoterat och omfattar ca 19 miljoner löpande ord (beroende på vad man räknar som ord). \n</p>\n<p>\n\n<p>\nResursen är nedladdningsbar med begränsad åtkomst. Materialet är uppbyggt utifrån vissa grundresurser. Ägarna till dessa ställer villkor på Språkbankens handhavande och förmedlande av dessa resurser. Ett av villkoren är att distributionen inte får ske på ett sådant sätt materialen kan användas kommersiellt. Tillgängligheten inskränks därför till forskare inom allmänna utbildningsväsendet. Mer specifikt finns vissa universitet och högskolor \"med på listan\". För alla andra URL:er är nedladdningsfunktionen på nedanstående sida spärrad. Om du anser att du eller din institution borde ha tillgång till materialen - kontakta Språkbankens föreståndare Lars Borin (sb-info snabel-a svenska . gu . se).\n</p>\n\n<p>\nNedanstående material är endast tillgängliga för personer med anknytning till universitet eller högskolor. Materialen är endast tillgängliga under de villkor som beskrivs i bifogade licenser. All tidsbegränsning i respektive materials licensvillkor är fr.o.m 4 november 2004 ogiltig, licensen är fr.o.m. detta datum permanent. Denna förändring gäller materialen som sådana och alltså såväl tidigare som kommande nedladdningar av materialen.\n</p>\n\n<p>\n<BR><a href=\"/pub/reskit/parole.zip\">Ladda ner PAROLE-korpusen</a>\n<BR><I>Storlek:</I> C:a 19 milj. graford\n<BR><I>Format:</I> Tabulerad textfil\n\n<BR><I>Dokumentation:</I> se <a href=\"/parole/\">webbversionen</a> av PAROLE-korpusen\n</p>\n",
-    "long_description_en": "<p>\nThe data called Parole was collected within the EU project PAROLE (finished in 1997 and aimed at building a European network of language resources). The texts have been annotated with morphosyntactic information and contain about 19 million tokens. \n</p>\n<p>\n\n<p>\nThe download of the resource is restricted. The resource cannot be used commerially and is therefore restricted to researchers at certain Swedish universities. Please contact the director of Språkbanken, Lars Borin, (sb-info at svenska . gu . se) for further information.\n</p>\n\n<p>\n<BR><a href=\"/pub/reskit/parole.zip\">Download the PAROLE corpus</a>\n<BR><I>Size:</I> About 19 million grafh words\n<BR><I>Format:</I> Tabular text file\n\n<BR><I>Documentation:</I> see <a href=\"/parole/\">the web version</a> of the PAROLE corpus.\n</p>\n"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt",
+      "type": "token frequencies",
+      "format": "CSV"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/parole.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=parole"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "24303096",
+    "sentences": "1625870"
+  },
+  "long_description_sv": "<p>\nDet textmaterial som här går under namnet Parole är insamlat inom ramen för EU-projektet PAROLE (avslutat 1997 och inriktat på att bygga upp ett europeiskt nätverk av språkliga resurser). Textmaterialet är morfosyntaktiskt annoterat och omfattar ca 19 miljoner löpande ord (beroende på vad man räknar som ord). \n</p>\n<p>\n\n<p>\nResursen är nedladdningsbar med begränsad åtkomst. Materialet är uppbyggt utifrån vissa grundresurser. Ägarna till dessa ställer villkor på Språkbankens handhavande och förmedlande av dessa resurser. Ett av villkoren är att distributionen inte får ske på ett sådant sätt materialen kan användas kommersiellt. Tillgängligheten inskränks därför till forskare inom allmänna utbildningsväsendet. Mer specifikt finns vissa universitet och högskolor \"med på listan\". För alla andra URL:er är nedladdningsfunktionen på nedanstående sida spärrad. Om du anser att du eller din institution borde ha tillgång till materialen - kontakta Språkbankens föreståndare Lars Borin (sb-info snabel-a svenska . gu . se).\n</p>\n\n<p>\nNedanstående material är endast tillgängliga för personer med anknytning till universitet eller högskolor. Materialen är endast tillgängliga under de villkor som beskrivs i bifogade licenser. All tidsbegränsning i respektive materials licensvillkor är fr.o.m 4 november 2004 ogiltig, licensen är fr.o.m. detta datum permanent. Denna förändring gäller materialen som sådana och alltså såväl tidigare som kommande nedladdningar av materialen.\n</p>\n\n<p>\n<BR><a href=\"/pub/reskit/parole.zip\">Ladda ner PAROLE-korpusen</a>\n<BR><I>Storlek:</I> C:a 19 milj. graford\n<BR><I>Format:</I> Tabulerad textfil\n\n<BR><I>Dokumentation:</I> se <a href=\"/parole/\">webbversionen</a> av PAROLE-korpusen\n</p>\n",
+  "long_description_en": "<p>\nThe data called Parole was collected within the EU project PAROLE (finished in 1997 and aimed at building a European network of language resources). The texts have been annotated with morphosyntactic information and contain about 19 million tokens. \n</p>\n<p>\n\n<p>\nThe download of the resource is restricted. The resource cannot be used commerially and is therefore restricted to researchers at certain Swedish universities. Please contact the director of Språkbanken, Lars Borin, (sb-info at svenska . gu . se) for further information.\n</p>\n\n<p>\n<BR><a href=\"/pub/reskit/parole.zip\">Download the PAROLE corpus</a>\n<BR><I>Size:</I> About 19 million grafh words\n<BR><I>Format:</I> Tabular text file\n\n<BR><I>Documentation:</I> see <a href=\"/parole/\">the web version</a> of the PAROLE corpus.\n</p>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,62 +1,58 @@
 {
-    "id": "simple",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Simple lexikon",
-    "name_en": "Simple lexicon",
-    "description_sv": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
-    "description_en": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html",
-            "type": "simple_n.html",
-            "format": "html"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html",
-            "type": "simple_v.html",
-            "format": "html"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html",
-            "type": "simple_adj.html",
-            "format": "html"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/simple.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "simple",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Simple lexikon",
+  "name_en": "Simple lexicon",
+  "description_sv": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
+  "description_en": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html",
+      "type": "simple_n.html",
+      "format": "html"
     },
-    "size": {
-        "entries": "11624"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html",
+      "type": "simple_v.html",
+      "format": "html"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html",
+      "type": "simple_adj.html",
+      "format": "html"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/simple.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "11624"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

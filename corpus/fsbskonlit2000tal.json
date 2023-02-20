@@ -1,54 +1,54 @@
 {
-    "id": "fsbskonlit2000tal",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "sv-FI",
-            "name_en": "Finland Swedish",
-            "name_sv": "finlandssvenska"
-        }
-    ],
-    "name_sv": "Skönlitteratur 2000–2013",
-    "name_en": "Fiction 2000–2013",
-    "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT2000TAL.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsbskonlit2000tal.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=fsbskonlit2000tal"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "fsbskonlit2000tal",
+  "type": "corpus",
+  "trainingdata": false,
+  "lang": [
+    {
+      "code": "sv-FI",
+      "name_en": "Finland Swedish",
+      "name_sv": "finlandssvenska"
+    }
+  ],
+  "name_sv": "Skönlitteratur 2000–2013",
+  "name_en": "Fiction 2000–2013",
+  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT2000TAL.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "2501260",
-        "sentences": "162256"
-    },
-    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-skonlitteratur_2000-2013.html}\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsbskonlit2000tal.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=fsbskonlit2000tal"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "2501260",
+    "sentences": "162256"
+  },
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-skonlitteratur_2000-2013.html}\n"
 }

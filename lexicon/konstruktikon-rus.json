@@ -1,58 +1,50 @@
 {
-    "id": "konstruktikon-rus",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "rus",
-            "name_en": "Russian",
-            "name_sv": "ryska"
-        },
-        {
-            "code": "eng",
-            "name_en": "English",
-            "name_sv": "engelska"
-        }
-    ],
-    "name_sv": "Rysk Konstruktikon",
-    "name_en": "Russian Constructicon",
-    "description_sv": "Ett ryskt konstruktikon",
-    "description_en": "A Russian Constructicon",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml",
-            "type": "lexicon",
-            "format": "LMF"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/konstruktikon-rus.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#/?resources=konstruktikon-rus"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "konstruktikon-rus",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Rysk Konstruktikon",
+  "name_en": "Russian Constructicon",
+  "description_sv": "Ett ryskt konstruktikon",
+  "description_en": "A Russian Constructicon",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml",
+      "type": "lexicon",
+      "format": "LMF"
     },
-    "size": {
-        "entries": "715"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/konstruktikon-rus.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#/?resources=konstruktikon-rus"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "715"
+  },
+  "language_codes": [
+    "rus",
+    "eng"
+  ]
 }

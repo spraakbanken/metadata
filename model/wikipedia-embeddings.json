@@ -1,42 +1,40 @@
 {
-    "id": "wikipedia-embeddings",
-    "type": "model",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "eng"
-        }
-    ],
-    "name_sv": "Engelska inbäddningar (word embeddings)",
-    "name_en": "Word Embeddings trained on English Wikipedia",
-    "description_sv": "Förtränade inbäddningar (word embeddings) för engelska wikipedia",
-    "description_en": "Word Embeddings trained on English Wikipedia",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://zenodo.org/record/6542975",
-            "type": "other",
-            "format": null
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/wikipedia-embeddings.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Hengchen",
-        "givenName": "Simon",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "wikipedia-embeddings",
+  "type": "model",
+  "trainingdata": false,
+  "name_sv": "Engelska inbäddningar (word embeddings)",
+  "name_en": "Word Embeddings trained on English Wikipedia",
+  "description_sv": "Förtränade inbäddningar (word embeddings) för engelska wikipedia",
+  "description_en": "Word Embeddings trained on English Wikipedia",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://zenodo.org/record/6542975",
+      "type": "other",
+      "format": null
     },
-    "size": {}
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/wikipedia-embeddings.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Hengchen",
+    "givenName": "Simon",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {},
+  "language_codes": [
+    "eng"
+  ]
 }

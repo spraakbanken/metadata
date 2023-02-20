@@ -1,63 +1,59 @@
 {
-    "id": "press96",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Press 96",
-    "name_en": "Press 96",
-    "description_sv": "Svensk press 1996",
-    "description_en": "Swedish press 1996",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press96.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS96.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press96.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=press96"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "press96",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Press 96",
+  "name_en": "Press 96",
+  "description_sv": "Svensk press 1996",
+  "description_en": "Swedish press 1996",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press96.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "6516030",
-        "sentences": "447582"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS96.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n\n<ul>\n<li>10-11 (4 mar-12 mar)</li>\n<li>23-24 (3 jul-21 jul)</li>\n<li>36-37 (2 sep-27 sep)</li>\n<li>49-50 (2 dec-3 dec)</li>\n</ul>\n</p>\n\n<P>\nIngående tidningar är <B>Göteborgs-Posten och Svenska Dagbladet</B>.\n</P>\n<P>\nVi tackar som vanligt de deltagande tidningarna som - som\nvanligt - bemött oss mycket vänligt och som, trots det\nextraarbete som våra önskemål medfört för dem, inte tvekat\natt ställa upp.\n</P>\n<P>Göteborg i mars 1997.</P>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press96.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=press96"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "6516030",
+    "sentences": "447582"
+  },
+  "long_description_sv": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n\n<ul>\n<li>10-11 (4 mar-12 mar)</li>\n<li>23-24 (3 jul-21 jul)</li>\n<li>36-37 (2 sep-27 sep)</li>\n<li>49-50 (2 dec-3 dec)</li>\n</ul>\n</p>\n\n<P>\nIngående tidningar är <B>Göteborgs-Posten och Svenska Dagbladet</B>.\n</P>\n<P>\nVi tackar som vanligt de deltagande tidningarna som - som\nvanligt - bemött oss mycket vänligt och som, trots det\nextraarbete som våra önskemål medfört för dem, inte tvekat\natt ställa upp.\n</P>\n<P>Göteborg i mars 1997.</P>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
+  "language_codes": [
+    "swe"
+  ]
 }

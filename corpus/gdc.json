@@ -1,53 +1,49 @@
 {
-    "id": "gdc",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Gothenburg Dialogue Corpus (GDC)",
-    "name_en": "Gothenburg Dialogue Corpus (GDC)",
-    "description_sv": "",
-    "description_en": "",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gdc.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=gdc"
-        }
-    ],
-    "contact_info": {
-        "surname": "Cajsa",
-        "givenName": "Ottesjö",
-        "email": "cajsa.ottesjo@gu.se",
-        "affiliation": {
-            "organisation": "Institutionen för filosofi, lingvistik och vetenskapsteori",
-            "email": "data@flov.gu.se"
-        }
+  "id": "gdc",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Gothenburg Dialogue Corpus (GDC)",
+  "name_en": "Gothenburg Dialogue Corpus (GDC)",
+  "description_sv": "",
+  "description_en": "",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "1473608",
-        "sentences": "107700"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gdc.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=gdc"
+    }
+  ],
+  "contact_info": {
+    "surname": "Cajsa",
+    "givenName": "Ottesjö",
+    "email": "cajsa.ottesjo@gu.se",
+    "affiliation": {
+      "organisation": "Institutionen för filosofi, lingvistik och vetenskapsteori",
+      "email": "data@flov.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1473608",
+    "sentences": "107700"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

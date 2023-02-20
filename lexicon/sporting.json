@@ -1,54 +1,50 @@
 {
-    "id": "sporting",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Sportanglicismer",
-    "name_en": "Sports anglicisms",
-    "description_sv": "Engelska lånord i svenska sportspalter",
-    "description_en": "English loan-words in the Swedish sports press",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/sporting/",
-            "type": "other",
-            "format": null
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/sporting/",
-            "type": "other",
-            "format": null
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sporting.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "sporting",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Sportanglicismer",
+  "name_en": "Sports anglicisms",
+  "description_sv": "Engelska lånord i svenska sportspalter",
+  "description_en": "English loan-words in the Swedish sports press",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/sporting/",
+      "type": "other",
+      "format": null
     },
-    "size": {
-        "entries": "0"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/sporting/",
+      "type": "other",
+      "format": null
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sporting.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "0"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

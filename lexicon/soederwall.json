@@ -1,55 +1,51 @@
 {
-    "id": "soederwall",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Söderwall",
-    "name_en": "Söderwall",
-    "description_sv": "Ordbok över svenska medeltidsspråket",
-    "description_en": "Dictionary of Old Swedish",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/soederwall/soederwall.xml",
-            "type": "lexicon",
-            "format": "LMF"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/soederwall.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#?mode=oldswedish&resources=soederwall"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "soederwall",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Söderwall",
+  "name_en": "Söderwall",
+  "description_sv": "Ordbok över svenska medeltidsspråket",
+  "description_en": "Dictionary of Old Swedish",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/soederwall/soederwall.xml",
+      "type": "lexicon",
+      "format": "LMF"
     },
-    "size": {
-        "entries": "22572"
-    },
-    "long_description_sv": "<p>\nLexikonet består av K.F. Söderwalls Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), med ca 23.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden är kontrollästa efter inkodningen, doch inte övriga delar av ordboksartiklarna. \n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
-    "long_description_en": "<p>\nThe lexicon consists of K.F. Söderwall's Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), with about 23,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entry words have been proofread after encoding, but not the other parts of the entry articles.\n<!--\n Svenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/soederwall.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#?mode=oldswedish&resources=soederwall"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "22572"
+  },
+  "long_description_sv": "<p>\nLexikonet består av K.F. Söderwalls Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), med ca 23.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden är kontrollästa efter inkodningen, doch inte övriga delar av ordboksartiklarna. \n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
+  "long_description_en": "<p>\nThe lexicon consists of K.F. Söderwall's Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), with about 23,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entry words have been proofread after encoding, but not the other parts of the entry articles.\n<!--\n Svenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

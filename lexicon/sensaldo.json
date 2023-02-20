@@ -1,56 +1,52 @@
 {
-    "id": "sensaldo",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "SenSALDO",
-    "name_en": "SenSALDO",
-    "description_sv": "SenSALDO, SALDO-ingångar och textord med attitydinformation",
-    "description_en": "SenSALDO, SALDO entries and text word forms with sentiment information (prior polarity)",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip",
-            "type": "sensaldo-v02.zip",
-            "format": "zip"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip",
-            "type": "sensaldo.zip",
-            "format": "zip"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sensaldo.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Borin",
-        "givenName": "Lars",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "sensaldo",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "SenSALDO",
+  "name_en": "SenSALDO",
+  "description_sv": "SenSALDO, SALDO-ingångar och textord med attitydinformation",
+  "description_en": "SenSALDO, SALDO entries and text word forms with sentiment information (prior polarity)",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip",
+      "type": "sensaldo-v02.zip",
+      "format": "zip"
     },
-    "size": {
-        "entries": "12287"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip",
+      "type": "sensaldo.zip",
+      "format": "zip"
     },
-    "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
-    "long_description_en": "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sensaldo.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Borin",
+    "givenName": "Lars",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "12287"
+  },
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
+  "long_description_en": "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}\n",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,63 +1,59 @@
 {
-    "id": "fragelistor",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Ethnological question lists",
-    "name_sv": "Etnologiska frågelistor",
-    "description_en": "Question lists of the Nordic Museum",
-    "description_sv": "Nordiska museets etnologiska frågelistor",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_fragelistor.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fragelistor.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=fragelistor"
-        }
-    ],
-    "contact_info": {
-        "surname": "Engman",
-        "givenName": "Jonas",
-        "email": "jonas.engman@nordiskamuseet.se",
-        "affiliation": {
-            "organisation": "Nordiska museet",
-            "email": "info@nordiskamuseet.se"
-        }
+  "id": "fragelistor",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": false,
+  "name_en": "Ethnological question lists",
+  "name_sv": "Etnologiska frågelistor",
+  "description_en": "Question lists of the Nordic Museum",
+  "description_sv": "Nordiska museets etnologiska frågelistor",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_fragelistor.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "57606576",
-        "sentences": "4320485"
-    },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": false
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fragelistor.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=fragelistor"
+    }
+  ],
+  "contact_info": {
+    "surname": "Engman",
+    "givenName": "Jonas",
+    "email": "jonas.engman@nordiskamuseet.se",
+    "affiliation": {
+      "organisation": "Nordiska museet",
+      "email": "info@nordiskamuseet.se"
+    }
+  },
+  "size": {
+    "tokens": "57606576",
+    "sentences": "4320485"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": false
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

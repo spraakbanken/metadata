@@ -1,46 +1,42 @@
 {
-    "id": "mathir-ord",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "MAÞiR Ord",
-    "name_en": "MAÞiR Words",
-    "description_sv": "Fornsvensk lexikal resurs baserad på Söderwalls ordbok, lämpligt för bl a konstruktion av lemmatiseringsmodeller.",
-    "description_en": "Old Swedish lexical resource based upon Söderwall's dictionary, suitable for creating lemmatizers, amonst other things.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz",
-            "type": "mathir_words_v1.0.tgz",
-            "format": "tgz"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/mathir-ord.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Bouma",
-        "givenName": "Gerlof",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken Text",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "mathir-ord",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "MAÞiR Ord",
+  "name_en": "MAÞiR Words",
+  "description_sv": "Fornsvensk lexikal resurs baserad på Söderwalls ordbok, lämpligt för bl a konstruktion av lemmatiseringsmodeller.",
+  "description_en": "Old Swedish lexical resource based upon Söderwall's dictionary, suitable for creating lemmatizers, amonst other things.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz",
+      "type": "mathir_words_v1.0.tgz",
+      "format": "tgz"
     },
-    "size": {
-        "entries": "28357"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/mathir-ord.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Bouma",
+    "givenName": "Gerlof",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken Text",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "28357"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

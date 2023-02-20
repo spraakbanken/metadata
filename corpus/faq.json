@@ -1,58 +1,54 @@
 {
-    "id": "faq",
-    "type": "corpus",
-    "trainingdata": true,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Vanliga frågor (randomiserad) 1.0",
-    "name_en": "Swedish FAQ (mismatched) 1.0",
-    "description_sv": "Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning",
-    "description_en": "Frequently asked questions from Swedish authorities' websites with shuffled answers",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv",
-            "type": "faq_mismatched.tsv",
-            "format": "tsv"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv",
-            "type": "faq_documentation_sheet.tsv",
-            "format": "tsv"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/faq.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Berdicevskis",
-        "givenName": "Aleksandrs",
-        "email": "aleksandrs.berdicevskis@gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "faq",
+  "type": "corpus",
+  "trainingdata": true,
+  "name_sv": "Vanliga frågor (randomiserad) 1.0",
+  "name_en": "Swedish FAQ (mismatched) 1.0",
+  "description_sv": "Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning",
+  "description_en": "Frequently asked questions from Swedish authorities' websites with shuffled answers",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv",
+      "type": "faq_mismatched.tsv",
+      "format": "tsv"
     },
-    "size": {
-        "Q-APairs": "513"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv",
+      "type": "faq_documentation_sheet.tsv",
+      "format": "tsv"
     },
-    "in_collections": [
-        "superlim"
-    ],
-    "long_description_en": "<table style=\"width:100%\">\n<tr>\n<td>I. IDENTIFYING INFORMATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Title*</td>\n<td>Swedish FAQ (mismatched) v1.0\n</td>\n</tr>\n<tr>\n<td>Subtitle</td>\n<td>Frequently asked questions from Swedish authorities' websites with shuffled answers\n</td>\n</tr>\n<tr>\n<td>Created by*</td>\n<td>Aleksandrs Berdicevskis (aleksandrs.berdicevskis@gu.se)\n</td>\n</tr>\n<tr>\n<td>Publisher(s)*</td>\n<td>Språkbanken Text (sb-info@svenska.gu.se)\n</td>\n</tr>\n<tr>\n<td>Link(s) / permanent identifier(s)*</td>\n<td>https://spraakbanken.gu.se/en/resources/faq\n</td>\n</tr>\n<tr>\n<td>License(s)*</td>\n<td>CC BY 4.0\n</td>\n</tr>\n<tr>\n<td>Abstract*</td>\n<td>This dataset contains questions and answers collected from FAQs on the websites of Swedish authorities (Försäkringskassan, Skatteverket, Vårdguiden). The dataset is a part of the SuperLim collection. Each QA pair belongs to a certain category (e.g. \"Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor\"). The are 513 QA pairs and 50 categories. The number of QA pairs in a category strongly varies. Within each category, the answers are randomly shuffled. The task is to match questions and answers.\n</td>\n</tr>\n<tr>\n<td>Funded by*</td>\n<td>Vinnova (grant no. 2020-02523)\n</td>\n</tr>\n<tr>\n<td>Cite as</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related datasets</td>\n<td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>II. USAGE</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Key applications</td>\n<td>Machine Learning, Question Answering, Evaluation of language models\n</td>\n</tr>\n<tr>\n<td>Intended task(s)/usage(s)</td>\n<td>(1) Evaluate models on the following task: given the question, find the suitable answer, it it is present.\n</td>\n</tr>\n<tr>\n<td>Recommended evaluation measures</td>\n<td>(1) Accuracy\n</td>\n</tr>\n<tr>\n<td>Dataset function(s)</td>\n<td>Testing\n</td>\n</tr>\n<tr>\n<td>Recommended split(s)</td>\n<td>Test data only\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>III. DATA</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Primary data*</td>\n<td>Text\n</td>\n</tr>\n<tr>\n<td>Language*</td>\n<td>Swedish\n</td>\n</tr>\n<tr>\n<td>Dataset in numbers*</td>\n<td>513 question-answer pairs; 50 categories; 3 sources; The number of QA pairs in a category strongly varies.\n</td>\n</tr>\n<tr>\n<td>Nature of the content*</td>\n<td>Each QA pair belongs to a certain category (e.g. \"Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor\"). Within each category, the answers are randomly shuffled. Importantly, the shuffling always occurs only within categories. This is necessary, since many questions cannot be interpreted without the background provided by the category (e.g. \"Måste bilen registreras i mitt namn?\" from the category \"Förälder :: Om ditt barn har en funktions­nedsättning :: Bilstöd för barn :: Vanliga frågor\"). Moreover, different categories can potentially contain similar questions (\"Hur mycket pengar får jag?\")  with different answers.\n</td>\n</tr>\n<tr>\n<td>Format*</td>\n<td>\"Tab-separated, seven columns: \n<br> \"category id\" -- unique integer id of the category; \n<br> \"source\" -- the name of the authority from which the QAs were collected; \n<br> \"category\"; \n<br> \"question\"; \n<br> \"candidate_answer\" -- the answer that was obtained by the random shuffling (if the shuffling is rerun, the \"candidate_answer\" is likely to be different); \n<br> \"correct_answer\" -- the original, correct answer that matches the question; \"candidate_answer\" may or may not be the same as \"correct_answer\".\n<br> \"link\" -- the url of the page from which questions and answers were collected. In most cases, there is one link per category; some categories share the link.\"\n</td>\n</tr>\n<tr>\n<td>Data source(s)*</td>\n<td>Websites of the Swedish Social Insurance Agency (Försäkringskassan; https://www.forsakringskassan.se/), the central national infrastructure for Swedish healthcare online (Vårdguiden, https://www.1177.se/), The Swedish Tax Agency (Skatteverket, https://skatteverket.se/). Specific links can be found in the dataset.\n</td>\n</tr>\n<tr>\n<td>Data collection method(s)*</td>\n<td>Questions and answers were collected manually from various pages of the aforementioned websites. The pages were found either by searching for \"vanliga frågor\" and \"frågor och svar\" on the websites or navigating using the websites' menu.\n</td>\n</tr>\n<tr>\n<td>Data selection and filtering*</td>\n<td>QA pairs were excluded if answers a) had complicated formatting; b) were divided into several subsections with subheadings; c) contained images and widgets; d) were very long; e) contained just one word (Ja or Nej). Categories that contained less than two suitable QA pairs were excluded. The contents of the websites were not exhausted, more categories are available. Sometimes different categories contained identical or nearly identical QA pairs, in such cases all instances but one were deleted (if only the questions were similar, but the answers were different, the pair was kept).\n</td>\n</tr>\n<tr>\n<td>Data preprocessing*</td>\n<td>All line breaks were removed, so was all other formatting. Bulleted lists were simplified (list preceded by :, every item preceded by -). Http links were removed. Some long answers were shortened.\n</td>\n</tr>\n<tr>\n<td>Data labeling*</td>\n<td>No labeling was added (questions and answers are matched from the beginning, given the nature of data)\n</td>\n</tr>\n<tr>\n<td>Annotator characteristics</td>\n<td>PhD in linguistics; fluent non-native speaker of Swedish\n</td>\n</tr>\n<tr>\n<td>Inter-annotator agreement</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>IV. ETHICS AND CAVEATS</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Ethical considerations</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Things to watch out for</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>V. ABOUT DOCUMENTATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Data last updated*</td>\n<td>2021-04-16, v1.0\n</td>\n</tr>\n<tr>\n<td>Which changes have been made, compared to the previous version*</td>\n<td>This is the first official version\n</td>\n</tr>\n<tr>\n<td>Access to previous versions</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>This document created*</td>\n<td>2021-05-05, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>This document last updated*</td>\n<td>2021-05-19, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>Where to look for further details</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>VI. OTHER</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related projects</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>References</td>\n<td></td>\n</tr>\n</table>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/faq.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Berdicevskis",
+    "givenName": "Aleksandrs",
+    "email": "aleksandrs.berdicevskis@gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "Q-APairs": "513"
+  },
+  "in_collections": [
+    "superlim"
+  ],
+  "long_description_en": "<table style=\"width:100%\">\n<tr>\n<td>I. IDENTIFYING INFORMATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Title*</td>\n<td>Swedish FAQ (mismatched) v1.0\n</td>\n</tr>\n<tr>\n<td>Subtitle</td>\n<td>Frequently asked questions from Swedish authorities' websites with shuffled answers\n</td>\n</tr>\n<tr>\n<td>Created by*</td>\n<td>Aleksandrs Berdicevskis (aleksandrs.berdicevskis@gu.se)\n</td>\n</tr>\n<tr>\n<td>Publisher(s)*</td>\n<td>Språkbanken Text (sb-info@svenska.gu.se)\n</td>\n</tr>\n<tr>\n<td>Link(s) / permanent identifier(s)*</td>\n<td>https://spraakbanken.gu.se/en/resources/faq\n</td>\n</tr>\n<tr>\n<td>License(s)*</td>\n<td>CC BY 4.0\n</td>\n</tr>\n<tr>\n<td>Abstract*</td>\n<td>This dataset contains questions and answers collected from FAQs on the websites of Swedish authorities (Försäkringskassan, Skatteverket, Vårdguiden). The dataset is a part of the SuperLim collection. Each QA pair belongs to a certain category (e.g. \"Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor\"). The are 513 QA pairs and 50 categories. The number of QA pairs in a category strongly varies. Within each category, the answers are randomly shuffled. The task is to match questions and answers.\n</td>\n</tr>\n<tr>\n<td>Funded by*</td>\n<td>Vinnova (grant no. 2020-02523)\n</td>\n</tr>\n<tr>\n<td>Cite as</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related datasets</td>\n<td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>II. USAGE</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Key applications</td>\n<td>Machine Learning, Question Answering, Evaluation of language models\n</td>\n</tr>\n<tr>\n<td>Intended task(s)/usage(s)</td>\n<td>(1) Evaluate models on the following task: given the question, find the suitable answer, it it is present.\n</td>\n</tr>\n<tr>\n<td>Recommended evaluation measures</td>\n<td>(1) Accuracy\n</td>\n</tr>\n<tr>\n<td>Dataset function(s)</td>\n<td>Testing\n</td>\n</tr>\n<tr>\n<td>Recommended split(s)</td>\n<td>Test data only\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>III. DATA</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Primary data*</td>\n<td>Text\n</td>\n</tr>\n<tr>\n<td>Language*</td>\n<td>Swedish\n</td>\n</tr>\n<tr>\n<td>Dataset in numbers*</td>\n<td>513 question-answer pairs; 50 categories; 3 sources; The number of QA pairs in a category strongly varies.\n</td>\n</tr>\n<tr>\n<td>Nature of the content*</td>\n<td>Each QA pair belongs to a certain category (e.g. \"Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor\"). Within each category, the answers are randomly shuffled. Importantly, the shuffling always occurs only within categories. This is necessary, since many questions cannot be interpreted without the background provided by the category (e.g. \"Måste bilen registreras i mitt namn?\" from the category \"Förälder :: Om ditt barn har en funktions­nedsättning :: Bilstöd för barn :: Vanliga frågor\"). Moreover, different categories can potentially contain similar questions (\"Hur mycket pengar får jag?\")  with different answers.\n</td>\n</tr>\n<tr>\n<td>Format*</td>\n<td>\"Tab-separated, seven columns: \n<br> \"category id\" -- unique integer id of the category; \n<br> \"source\" -- the name of the authority from which the QAs were collected; \n<br> \"category\"; \n<br> \"question\"; \n<br> \"candidate_answer\" -- the answer that was obtained by the random shuffling (if the shuffling is rerun, the \"candidate_answer\" is likely to be different); \n<br> \"correct_answer\" -- the original, correct answer that matches the question; \"candidate_answer\" may or may not be the same as \"correct_answer\".\n<br> \"link\" -- the url of the page from which questions and answers were collected. In most cases, there is one link per category; some categories share the link.\"\n</td>\n</tr>\n<tr>\n<td>Data source(s)*</td>\n<td>Websites of the Swedish Social Insurance Agency (Försäkringskassan; https://www.forsakringskassan.se/), the central national infrastructure for Swedish healthcare online (Vårdguiden, https://www.1177.se/), The Swedish Tax Agency (Skatteverket, https://skatteverket.se/). Specific links can be found in the dataset.\n</td>\n</tr>\n<tr>\n<td>Data collection method(s)*</td>\n<td>Questions and answers were collected manually from various pages of the aforementioned websites. The pages were found either by searching for \"vanliga frågor\" and \"frågor och svar\" on the websites or navigating using the websites' menu.\n</td>\n</tr>\n<tr>\n<td>Data selection and filtering*</td>\n<td>QA pairs were excluded if answers a) had complicated formatting; b) were divided into several subsections with subheadings; c) contained images and widgets; d) were very long; e) contained just one word (Ja or Nej). Categories that contained less than two suitable QA pairs were excluded. The contents of the websites were not exhausted, more categories are available. Sometimes different categories contained identical or nearly identical QA pairs, in such cases all instances but one were deleted (if only the questions were similar, but the answers were different, the pair was kept).\n</td>\n</tr>\n<tr>\n<td>Data preprocessing*</td>\n<td>All line breaks were removed, so was all other formatting. Bulleted lists were simplified (list preceded by :, every item preceded by -). Http links were removed. Some long answers were shortened.\n</td>\n</tr>\n<tr>\n<td>Data labeling*</td>\n<td>No labeling was added (questions and answers are matched from the beginning, given the nature of data)\n</td>\n</tr>\n<tr>\n<td>Annotator characteristics</td>\n<td>PhD in linguistics; fluent non-native speaker of Swedish\n</td>\n</tr>\n<tr>\n<td>Inter-annotator agreement</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>IV. ETHICS AND CAVEATS</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Ethical considerations</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Things to watch out for</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>V. ABOUT DOCUMENTATION</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Data last updated*</td>\n<td>2021-04-16, v1.0\n</td>\n</tr>\n<tr>\n<td>Which changes have been made, compared to the previous version*</td>\n<td>This is the first official version\n</td>\n</tr>\n<tr>\n<td>Access to previous versions</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>This document created*</td>\n<td>2021-05-05, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>This document last updated*</td>\n<td>2021-05-19, Aleksandrs Berdicevskis\n</td>\n</tr>\n<tr>\n<td>Where to look for further details</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>VI. OTHER</td>\n<td>\n</td>\n</tr>\n<tr>\n<td>Related projects</td>\n<td>\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\n</td>\n</tr>\n<tr>\n<td>References</td>\n<td></td>\n</tr>\n</table>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

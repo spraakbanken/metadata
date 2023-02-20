@@ -1,61 +1,57 @@
 {
-    "id": "marmot",
-    "type": "model",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Ordklasstaggningsmodell: Marmot",
-    "name_en": "POS-tagging model: Marmot",
-    "description_sv": "Förtränade modeller för ordklasstaggning.",
-    "description_en": "Pretrained models for POS-tagging.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_eval.marmot",
-            "type": "marmot_eval.marmot",
-            "format": "marmot"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_full.marmot",
-            "type": "marmot_full.marmot",
-            "format": "marmot"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/saldo_marmot.txt",
-            "type": "saldo_marmot.txt",
-            "format": "txt"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/marmot.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "marmot",
+  "type": "model",
+  "trainingdata": false,
+  "name_sv": "Ordklasstaggningsmodell: Marmot",
+  "name_en": "POS-tagging model: Marmot",
+  "description_sv": "Förtränade modeller för ordklasstaggning.",
+  "description_en": "Pretrained models for POS-tagging.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_eval.marmot",
+      "type": "marmot_eval.marmot",
+      "format": "marmot"
     },
-    "size": {},
-    "long_description_en": "<h2>Model</h2>\n<p>The most accurate results for Swedish POS-tagging can be obtained with <a href=\"https://spraakbanken.gu.se/resurser/flair\">Flair</a>. Marmot, however, yields very similar results, but works much faster and does not require a GPU. We provide two models for Marmot.</p>\n<p><b><code>marmot_eval</code></b> is trained on <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> and <a href=\"https://spraakbanken.gu.se/en/resources/talbanken\">Talbanken_SBX_dev</a>, using <a href=\"https://spraakbanken.gu.se/en/resources/saldo\">Saldo</a> as dictionary. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href=\"https://spraakbanken.gu.se/en/resources/sic2\">SIC2</a>. The evaluation results are reported in the table below.</p> \n\n<table style=\"width:25\">\n  <tr>\n    <th>Test set</th>\n    <th>Exact match</th>\n    <th>POS</th>\n    <th>MSD</th>\n  </tr>\n  <tr>\n    <td>Talbanken_SBX_test</td>\n    <td>0.973</td>\n    <td>0.982</td>\n    <td>0.988</td>\n  </tr>\n  <tr>\n    <td>SIC2</td>\n    <td>0.921</td>\n    <td>0.934</td>\n    <td>0.958</td>\n  </tr>\n</table>\n\n<p> Read more about the evaluation <a href=\"https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging\">here</a>.</p>\n\n<p><b><code>marmot_full</code></b> is trained on SUC3 + Talbanken_SBX_test + Talbanken_SBX_dev + SIC2 (with Saldo as dictionary). We cannot evaluate the performance of this model, but we expect it to perform better than <code>marmot_eval</code>, or at least not worse.</p>\n\n<h2>Tagging and training</h2>\n<p>Download <a href=\"http://cistern.cis.lmu.de/marmot/\">Marmot</a> and the necessary dependencies. Download SALDO (converted to the necessary format) <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/saldo_marmot.txt\">here</a>. Download our scripts from this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>. \nThe scripts use a tab-separated three-column format: token, POS (without MSD), MSD. Use <code>conllu_to_tab.rb</code> to convert CONLL(U) to the two-column format (install Ruby 1.9+ and run <code>ruby conllu_to_tab 2 n</code>, where <code>n</code> is the number of the column you want to use (if you are converting our CONLLU files, use 4). Run <code>ruby convert_col2_to_marmot.rb</code> to convert the resulting col2 file to Marmot's col3). \n<p>\n\n<h3>Tagging</h3>\n<p>Use <code>java -cp marmot.jar marmot.morph.cmd.Annotator --model-file model_name.marmot --test-file form-index=0,test_corpus.col1 --pred-file output_name.conll</code> to tag a corpus using a pretrained model. The output corpus will be in a CONLL format with a somewhat unusual order of columns, use <code>convert_marmot_to_conllu.rb</code> to convert it to a usual CONLLU.</p>\n\n<h3>Training your own models</h3>\n<p>Run <code>Marmot: java -Xmx5G -cp marmot.jar marmot.morph.cmd.Trainer -train-file form-index=0,tag-index=1,morph-index=2,corpus.col3 -tag-morph true -model-file model_name.marmot  subtag-separator \".\" -type-dict saldo_marmot.txt,indexes=[2,3]</code><p>"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_full.marmot",
+      "type": "marmot_full.marmot",
+      "format": "marmot"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/saldo_marmot.txt",
+      "type": "saldo_marmot.txt",
+      "format": "txt"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/marmot.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {},
+  "long_description_en": "<h2>Model</h2>\n<p>The most accurate results for Swedish POS-tagging can be obtained with <a href=\"https://spraakbanken.gu.se/resurser/flair\">Flair</a>. Marmot, however, yields very similar results, but works much faster and does not require a GPU. We provide two models for Marmot.</p>\n<p><b><code>marmot_eval</code></b> is trained on <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> and <a href=\"https://spraakbanken.gu.se/en/resources/talbanken\">Talbanken_SBX_dev</a>, using <a href=\"https://spraakbanken.gu.se/en/resources/saldo\">Saldo</a> as dictionary. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href=\"https://spraakbanken.gu.se/en/resources/sic2\">SIC2</a>. The evaluation results are reported in the table below.</p> \n\n<table style=\"width:25\">\n  <tr>\n    <th>Test set</th>\n    <th>Exact match</th>\n    <th>POS</th>\n    <th>MSD</th>\n  </tr>\n  <tr>\n    <td>Talbanken_SBX_test</td>\n    <td>0.973</td>\n    <td>0.982</td>\n    <td>0.988</td>\n  </tr>\n  <tr>\n    <td>SIC2</td>\n    <td>0.921</td>\n    <td>0.934</td>\n    <td>0.958</td>\n  </tr>\n</table>\n\n<p> Read more about the evaluation <a href=\"https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging\">here</a>.</p>\n\n<p><b><code>marmot_full</code></b> is trained on SUC3 + Talbanken_SBX_test + Talbanken_SBX_dev + SIC2 (with Saldo as dictionary). We cannot evaluate the performance of this model, but we expect it to perform better than <code>marmot_eval</code>, or at least not worse.</p>\n\n<h2>Tagging and training</h2>\n<p>Download <a href=\"http://cistern.cis.lmu.de/marmot/\">Marmot</a> and the necessary dependencies. Download SALDO (converted to the necessary format) <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/saldo_marmot.txt\">here</a>. Download our scripts from this <a href=\"https://github.com/spraakbanken/golddatatools\">repository</a>. \nThe scripts use a tab-separated three-column format: token, POS (without MSD), MSD. Use <code>conllu_to_tab.rb</code> to convert CONLL(U) to the two-column format (install Ruby 1.9+ and run <code>ruby conllu_to_tab 2 n</code>, where <code>n</code> is the number of the column you want to use (if you are converting our CONLLU files, use 4). Run <code>ruby convert_col2_to_marmot.rb</code> to convert the resulting col2 file to Marmot's col3). \n<p>\n\n<h3>Tagging</h3>\n<p>Use <code>java -cp marmot.jar marmot.morph.cmd.Annotator --model-file model_name.marmot --test-file form-index=0,test_corpus.col1 --pred-file output_name.conll</code> to tag a corpus using a pretrained model. The output corpus will be in a CONLL format with a somewhat unusual order of columns, use <code>convert_marmot_to_conllu.rb</code> to convert it to a usual CONLLU.</p>\n\n<h3>Training your own models</h3>\n<p>Run <code>Marmot: java -Xmx5G -cp marmot.jar marmot.morph.cmd.Trainer -train-file form-index=0,tag-index=1,morph-index=2,corpus.col3 -tag-morph true -model-file model_name.marmot  subtag-separator \".\" -type-dict saldo_marmot.txt,indexes=[2,3]</code><p>",
+  "language_codes": [
+    "swe"
+  ]
 }

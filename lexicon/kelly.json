@@ -1,63 +1,59 @@
 {
-    "id": "kelly",
-    "type": "lexicon",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Kelly",
-    "name_en": "Kelly",
-    "description_sv": "Nyckelord för språkinlärning för unga och vuxna",
-    "description_en": "Keywords for Language Learning for Young and adults alike",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml",
-            "type": "lexicon",
-            "format": "LMF"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls",
-            "type": "Swedish-Kelly_M3_CEFR.xls",
-            "format": "xls"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/kelly.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/karp/#?resources=kelly"
-        }
-    ],
-    "contact_info": {
-        "surname": "Volodina",
-        "givenName": "Elena",
-        "email": "elena.volodina@gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "kelly",
+  "type": "lexicon",
+  "trainingdata": false,
+  "name_sv": "Kelly",
+  "name_en": "Kelly",
+  "description_sv": "Nyckelord för språkinlärning för unga och vuxna",
+  "description_en": "Keywords for Language Learning for Young and adults alike",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml",
+      "type": "lexicon",
+      "format": "LMF"
     },
-    "size": {
-        "entries": "8425"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls",
+      "type": "Swedish-Kelly_M3_CEFR.xls",
+      "format": "xls"
     },
-    "long_description_sv": "<p>Mer information om Kelly finns på <a href=\"http://spraakbanken.gu.se/swe/kelly\">projektsidan</a>.</p>\n<p><b>Other Kelly languages</b></p>\n<ul>\n<li><a href=\"https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/\">Greek</a></li>\n <li><a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">Arabic, Chinese, English, Italian, Russian</a></li>\n<li><a href=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls\">Norwegian</a></li>\n<!--<p>For a selection of other languages, please look into <a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">this page</a></p>-->\n</ul>\n<br/>\n\n<p>If you use any of the Kelly list, please, cite the following reference:</p>\n<p>Kilgarriff, Adam; Charalabopoulou, Frieda; Gavrilidou, Maria; Johannessen, Janne Bondi; Khalil, Saussan; Kokkinakis, Sofie Johansson; Lew, Robert; Sharoff, Serge; Vadlapudi, Ravikiran & Volodina, Elena. 2014. <i>Corpus-based vocabulary lists for language learners for nine languages</i>. Language Resources and Evaluation, 48:121–163, DOI 10.1007/s10579-013-9251-2.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-list_eng.txt}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-resources_eng.txt}\n",
-    "long_description_en": "<p>More information about Kelly is available from the <a href=\"http://spraakbanken.gu.se/eng/kelly\">project page</a>.</p>\n\n<p><b>Other Kelly languages</b></p>\n<ul>\n<li><a href=\"https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/\">Greek</a></li>\n <li><a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">Arabic, Chinese, English, Italian, Russian</a></li>\n<li><a href=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls\">Norwegian</a></li>\n<!--<p>For a selection of other languages, please look into <a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">this page</a></p>-->\n</ul>\n<br/>\n\n<p>If you use any of the Kelly list, please, cite the following reference:</p>\n<p>Kilgarriff, Adam; Charalabopoulou, Frieda; Gavrilidou, Maria; Johannessen, Janne Bondi; Khalil, Saussan; Kokkinakis, Sofie Johansson; Lew, Robert; Sharoff, Serge; Vadlapudi, Ravikiran & Volodina, Elena. 2014. <i>Corpus-based vocabulary lists for language learners for nine languages</i>. Language Resources and Evaluation, 48:121–163, DOI 10.1007/s10579-013-9251-2.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-list_eng.txt}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-resources_eng.txt}\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/kelly.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/karp/#?resources=kelly"
+    }
+  ],
+  "contact_info": {
+    "surname": "Volodina",
+    "givenName": "Elena",
+    "email": "elena.volodina@gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "entries": "8425"
+  },
+  "long_description_sv": "<p>Mer information om Kelly finns på <a href=\"http://spraakbanken.gu.se/swe/kelly\">projektsidan</a>.</p>\n<p><b>Other Kelly languages</b></p>\n<ul>\n<li><a href=\"https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/\">Greek</a></li>\n <li><a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">Arabic, Chinese, English, Italian, Russian</a></li>\n<li><a href=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls\">Norwegian</a></li>\n<!--<p>For a selection of other languages, please look into <a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">this page</a></p>-->\n</ul>\n<br/>\n\n<p>If you use any of the Kelly list, please, cite the following reference:</p>\n<p>Kilgarriff, Adam; Charalabopoulou, Frieda; Gavrilidou, Maria; Johannessen, Janne Bondi; Khalil, Saussan; Kokkinakis, Sofie Johansson; Lew, Robert; Sharoff, Serge; Vadlapudi, Ravikiran & Volodina, Elena. 2014. <i>Corpus-based vocabulary lists for language learners for nine languages</i>. Language Resources and Evaluation, 48:121–163, DOI 10.1007/s10579-013-9251-2.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-list_eng.txt}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-resources_eng.txt}\n",
+  "long_description_en": "<p>More information about Kelly is available from the <a href=\"http://spraakbanken.gu.se/eng/kelly\">project page</a>.</p>\n\n<p><b>Other Kelly languages</b></p>\n<ul>\n<li><a href=\"https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/\">Greek</a></li>\n <li><a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">Arabic, Chinese, English, Italian, Russian</a></li>\n<li><a href=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls\">Norwegian</a></li>\n<!--<p>For a selection of other languages, please look into <a href=\"http://corpus.leeds.ac.uk/serge/kelly/\">this page</a></p>-->\n</ul>\n<br/>\n\n<p>If you use any of the Kelly list, please, cite the following reference:</p>\n<p>Kilgarriff, Adam; Charalabopoulou, Frieda; Gavrilidou, Maria; Johannessen, Janne Bondi; Khalil, Saussan; Kokkinakis, Sofie Johansson; Lew, Robert; Sharoff, Serge; Vadlapudi, Ravikiran & Volodina, Elena. 2014. <i>Corpus-based vocabulary lists for language learners for nine languages</i>. Language Resources and Evaluation, 48:121–163, DOI 10.1007/s10579-013-9251-2.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-list_eng.txt}\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/Kelly-resources_eng.txt}\n",
+  "language_codes": [
+    "swe"
+  ]
 }

@@ -1,73 +1,69 @@
 {
-    "id": "familjeliv-allmanna-sandladan",
-    "type": "corpus",
-    "trainingdata": false,
-    "in_collections": [
-        "familjeliv"
-    ],
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Familjeliv: General Threads – Sandbox",
-    "name_sv": "Familjeliv: Allmänna rubriker – Sandlådan",
-    "description_en": "Material from the Familjeliv internet forum.",
-    "description_sv": "Material från diskussionsforumet Familjeliv.",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-allmanna-sandladan.xml.bz2",
-            "type": "corpus",
-            "format": "XML",
-            "info": "this file contains a scrambled version of the corpus"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-allmanna-sandladan.csv",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-allmanna-sandladan.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-allmanna-sandladan"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "familjeliv-allmanna-sandladan",
+  "type": "corpus",
+  "trainingdata": false,
+  "in_collections": [
+    "familjeliv"
+  ],
+  "name_en": "Familjeliv: General Threads – Sandbox",
+  "name_sv": "Familjeliv: Allmänna rubriker – Sandlådan",
+  "description_en": "Material from the Familjeliv internet forum.",
+  "description_sv": "Material från diskussionsforumet Familjeliv.",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-allmanna-sandladan.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus"
     },
-    "size": {
-        "tokens": "44374231",
-        "sentences": "5441743"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-allmanna-sandladan.csv",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": false
-    },
-    "export": {
-        "stats_export": true,
-        "xml_export": "scrambled"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/familjeliv-allmanna-sandladan.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=familjeliv-allmanna-sandladan"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "44374231",
+    "sentences": "5441743"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": false
+  },
+  "export": {
+    "stats_export": true,
+    "xml_export": "scrambled"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

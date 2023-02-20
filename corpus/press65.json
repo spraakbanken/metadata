@@ -1,63 +1,59 @@
 {
-    "id": "press65",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "Press 65",
-    "name_en": "Press 65",
-    "description_sv": "Svensk press 1965",
-    "description_en": "Swedish press 1965",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press65.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS65.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press65.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=press65"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "press65",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "Press 65",
+  "name_en": "Press 65",
+  "description_sv": "Svensk press 1965",
+  "description_en": "Swedish press 1965",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press65.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "1119449",
-        "sentences": "53624"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS65.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "<p>\nKorpusen består av artiklar insamlade från fem morgontidningar år 1965,\nnämligen :<br />\n\n<table width=\"60%\">\n<tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>\n<tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>\n<tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>\n<tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>\n<tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>\n</table>\n</p>\n\n<p>\nMaterialet omfattar något över en miljon ord. \nSyftet med insamlingen var främst att utföra kvantitativa undersökningar av svenskans vokabulär. \nResultaten av undersökningarna finns redovisade i detalj i <strong>Nusvensk frekvensordbok</strong>\n<em>(NFO)</em> <strong>1 - 4</strong> (1970 - 1980), av vilka delarna 1 och 2 ägnas åt orden, del\n3 åt ordförbindelser (flerordsuttryck) och del 4 åt ordleden\n(morfemen).\n</p>\n<p>\nMaterialet insamlades under fem fjortondagarsperioder per tidning och \ninskränktes till sådana artiklar som fanns tillgängliga på hålremsa och\ndärmed var maskinläsbara i 1960-talets teknik. Därvid uteslöts på\nförhand anonyma artiklar, artiklar från nyhetsbyråer, artiklar från\nsportsidorna, kåserier, insändare och annonser. I efterhand uteslöts\näven artiklar med metaspråkligt innehåll, artiklar med utländsk\nförfattare samt artiklar innehållande längre citat. Syftet med\nuteslutningarna var att göra materialet mer homogent. Det slutliga\nurvalet omfattade noga räknat <strong>1 000 669 löpande ord</strong> i \n<strong>1 387 artiklar</strong> av <strong>569 författare</strong>. \nEn fullständig förteckning över författare och artiklar, med angivande av \npubliceringsdatum, internt författarnummer m.m., finns i appendix till <strong>NFO 4</strong>.\n</p>\n<p>\nMaterialet indelades med avseende på typ av källa i tre s.k. genrer:\n<table width=\"60%\">\n<tr><td>U</td><td> utrikeskorrespondenters rapporter       </td></tr>\n<tr><td>K</td><td> kulturartiklar jämte recensioner        </td></tr>\n<tr><td>A</td><td> allmänt reportage                       </td></tr>\n</table>\n</p>\n<p>\nMed avseende på innehåll indelades materialet även i sex ämnesområden, nämligen :\n<table width=\"60%\">\n<tr><td>Na</td><td> (naturvetenskap etc.)         </td></tr>\n<tr><td>Ku</td><td> (kulturvetenskap etc.)        </td></tr>\n<tr><td>Po</td><td> (politik och samhälle)        </td></tr>\n<tr><td>Nä</td><td> (näringsliv och samfärdsel)   </td></tr>\n<tr><td>Mä</td><td> (människa och miljö)          </td></tr>\n<tr><td>Ko</td><td> (konstnärlig verksamhet).     </td></tr>\n</table>\n</p>\n<p>\nMaterialets fördelning över tidningar, genrer och ämnen finns beskriven i inledningen till <strong>NFO 1</strong>.        \n</p>\n<p>\nI konkordansen identifieras raderna med en kombination av\nförkortningarna för <STRONG>Tidning</STRONG> och <STRONG>Ämne</STRONG>, enligt mönstren <STRONG>SvDKu</STRONG> eller <STRONG>DN_Mä</STRONG>. <br />\n\nOBS att meningsgränser är särskilt markerade genom tillägg av plustecken <CODE>\"+\"</CODE> efter s.k. stort skiljetecken.         \n</p>\n\n<p>Jerker Järborg</p>\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/press65.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=press65"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1119449",
+    "sentences": "53624"
+  },
+  "long_description_sv": "<p>\nKorpusen består av artiklar insamlade från fem morgontidningar år 1965,\nnämligen :<br />\n\n<table width=\"60%\">\n<tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>\n<tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>\n<tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>\n<tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>\n<tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>\n</table>\n</p>\n\n<p>\nMaterialet omfattar något över en miljon ord. \nSyftet med insamlingen var främst att utföra kvantitativa undersökningar av svenskans vokabulär. \nResultaten av undersökningarna finns redovisade i detalj i <strong>Nusvensk frekvensordbok</strong>\n<em>(NFO)</em> <strong>1 - 4</strong> (1970 - 1980), av vilka delarna 1 och 2 ägnas åt orden, del\n3 åt ordförbindelser (flerordsuttryck) och del 4 åt ordleden\n(morfemen).\n</p>\n<p>\nMaterialet insamlades under fem fjortondagarsperioder per tidning och \ninskränktes till sådana artiklar som fanns tillgängliga på hålremsa och\ndärmed var maskinläsbara i 1960-talets teknik. Därvid uteslöts på\nförhand anonyma artiklar, artiklar från nyhetsbyråer, artiklar från\nsportsidorna, kåserier, insändare och annonser. I efterhand uteslöts\näven artiklar med metaspråkligt innehåll, artiklar med utländsk\nförfattare samt artiklar innehållande längre citat. Syftet med\nuteslutningarna var att göra materialet mer homogent. Det slutliga\nurvalet omfattade noga räknat <strong>1 000 669 löpande ord</strong> i \n<strong>1 387 artiklar</strong> av <strong>569 författare</strong>. \nEn fullständig förteckning över författare och artiklar, med angivande av \npubliceringsdatum, internt författarnummer m.m., finns i appendix till <strong>NFO 4</strong>.\n</p>\n<p>\nMaterialet indelades med avseende på typ av källa i tre s.k. genrer:\n<table width=\"60%\">\n<tr><td>U</td><td> utrikeskorrespondenters rapporter       </td></tr>\n<tr><td>K</td><td> kulturartiklar jämte recensioner        </td></tr>\n<tr><td>A</td><td> allmänt reportage                       </td></tr>\n</table>\n</p>\n<p>\nMed avseende på innehåll indelades materialet även i sex ämnesområden, nämligen :\n<table width=\"60%\">\n<tr><td>Na</td><td> (naturvetenskap etc.)         </td></tr>\n<tr><td>Ku</td><td> (kulturvetenskap etc.)        </td></tr>\n<tr><td>Po</td><td> (politik och samhälle)        </td></tr>\n<tr><td>Nä</td><td> (näringsliv och samfärdsel)   </td></tr>\n<tr><td>Mä</td><td> (människa och miljö)          </td></tr>\n<tr><td>Ko</td><td> (konstnärlig verksamhet).     </td></tr>\n</table>\n</p>\n<p>\nMaterialets fördelning över tidningar, genrer och ämnen finns beskriven i inledningen till <strong>NFO 1</strong>.        \n</p>\n<p>\nI konkordansen identifieras raderna med en kombination av\nförkortningarna för <STRONG>Tidning</STRONG> och <STRONG>Ämne</STRONG>, enligt mönstren <STRONG>SvDKu</STRONG> eller <STRONG>DN_Mä</STRONG>. <br />\n\nOBS att meningsgränser är särskilt markerade genom tillägg av plustecken <CODE>\"+\"</CODE> efter s.k. stort skiljetecken.         \n</p>\n\n<p>Jerker Järborg</p>\n",
+  "language_codes": [
+    "swe"
+  ]
 }

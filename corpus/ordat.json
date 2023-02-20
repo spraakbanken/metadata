@@ -1,69 +1,65 @@
 {
-    "id": "ordat",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "ORDAT",
-    "name_en": "ORDAT",
-    "description_sv": "Svenska Dagbladets årsbok 1923 - 1958",
-    "description_en": "Yearbook of Svenska Dagbladet 1923 - 1958",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "info": "this file contains a scrambled version of the corpus",
-            "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ordat.xml.bz2",
-            "type": "corpus",
-            "format": "XML"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ORDAT.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ordat.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=ordat"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/ORDAT/"
-        }
-    ],
-    "contact_info": {
-        "surname": "Forsberg",
-        "givenName": "Markus",
-        "email": "sb-info@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Språkbanken",
-            "email": "sb-info@svenska.gu.se"
-        }
+  "id": "ordat",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "ORDAT",
+  "name_en": "ORDAT",
+  "description_sv": "Svenska Dagbladets årsbok 1923 - 1958",
+  "description_en": "Yearbook of Svenska Dagbladet 1923 - 1958",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "info": "this file contains a scrambled version of the corpus",
+      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ordat.xml.bz2",
+      "type": "corpus",
+      "format": "XML"
     },
-    "size": {
-        "tokens": "1528935",
-        "sentences": "71484"
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ORDAT.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "long_description_sv": "<p>\nMaterialet i ORDAT-korpusen utgörs av 25 årgångar av Svenska Dagbladets årsbok, nämligen årgångarna 1923-45, 1948 och 1958. Vissa partier, särskilt finstilta partier, är dock inte med. Totalt innehåller korpusen ca 1,5 miljoner ord.\n</p>\n<p>\nÅrsböckerna innehåller översikter över det gångna årets händelser, uppdelade på olika ämnesområden. De ger en ganska bred ämnesmässig täckning. Korpusen ger därför troligen - även om den är ganska liten ­ en hygglig bild av svensk sakprosa under 1900-talets förra hälft. \n</p>\n\n"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ordat.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=ordat"
+    },
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/ORDAT/"
+    }
+  ],
+  "contact_info": {
+    "surname": "Forsberg",
+    "givenName": "Markus",
+    "email": "sb-info@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Språkbanken",
+      "email": "sb-info@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1528935",
+    "sentences": "71484"
+  },
+  "long_description_sv": "<p>\nMaterialet i ORDAT-korpusen utgörs av 25 årgångar av Svenska Dagbladets årsbok, nämligen årgångarna 1923-45, 1948 och 1958. Vissa partier, särskilt finstilta partier, är dock inte med. Totalt innehåller korpusen ca 1,5 miljoner ord.\n</p>\n<p>\nÅrsböckerna innehåller översikter över det gångna årets händelser, uppdelade på olika ämnesområden. De ger en ganska bred ämnesmässig täckning. Korpusen ger därför troligen - även om den är ganska liten ­ en hygglig bild av svensk sakprosa under 1900-talets förra hälft. \n</p>\n\n",
+  "language_codes": [
+    "swe"
+  ]
 }

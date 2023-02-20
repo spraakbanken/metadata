@@ -1,52 +1,44 @@
 {
-    "id": "espc",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        },
-        {
-            "code": "eng",
-            "name_en": "English",
-            "name_sv": "engelska"
-        }
-    ],
-    "name_sv": "The English-Swedish Parallel Corpus (ESPC)",
-    "name_en": "The English-Swedish Parallel Corpus (ESPC)",
-    "description_sv": "",
-    "description_en": "",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/espc.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=espc-sv"
-        }
-    ],
-    "contact_info": {
-        "surname": "Fredriksson",
-        "givenName": "Anna-Lena",
-        "email": "espc@sprak.gu.se",
-        "affiliation": {
-            "organisation": "Institutionen för språk och litteraturer",
-            "email": "espc@sprak.gu.se"
-        }
-    },
-    "size": {
-        "tokens": "1518759",
-        "sentences": "89779"
-    },
-    "long_description_sv": "<p>Mer information om ESPC finns på <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC är en skyddad korpus och kan därför inte göras tillgänglig för nedladdning. Om du vill få tillgång till att söka i korpusen via Korp, vänligen kontakta <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
-    "long_description_en": "<p>You can find more information about ESPC at <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC is a protected corpus and is therefore not available for download. If you want to be able to search the corpus via Korp please contact <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n"
+  "id": "espc",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "The English-Swedish Parallel Corpus (ESPC)",
+  "name_en": "The English-Swedish Parallel Corpus (ESPC)",
+  "description_sv": "",
+  "description_en": "",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/espc.xml",
+      "type": "metadata",
+      "format": "METASHARE"
+    }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=espc-sv"
+    }
+  ],
+  "contact_info": {
+    "surname": "Fredriksson",
+    "givenName": "Anna-Lena",
+    "email": "espc@sprak.gu.se",
+    "affiliation": {
+      "organisation": "Institutionen för språk och litteraturer",
+      "email": "espc@sprak.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "1518759",
+    "sentences": "89779"
+  },
+  "long_description_sv": "<p>Mer information om ESPC finns på <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC är en skyddad korpus och kan därför inte göras tillgänglig för nedladdning. Om du vill få tillgång till att söka i korpusen via Korp, vänligen kontakta <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
+  "long_description_en": "<p>You can find more information about ESPC at <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC is a protected corpus and is therefore not available for download. If you want to be able to search the corpus via Korp please contact <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
+  "language_codes": [
+    "swe",
+    "eng"
+  ]
 }

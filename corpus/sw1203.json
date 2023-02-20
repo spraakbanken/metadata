@@ -1,53 +1,49 @@
 {
-    "id": "sw1203",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_sv": "SW1203-uppsatser",
-    "name_en": "SW1203-essays",
-    "description_sv": "Essays written by L2 Swedish language learners, university courses",
-    "description_en": "Essays written by L2 Swedish language learners, university courses",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SW1203.txt",
-            "type": "token frequencies",
-            "format": "CSV"
-        },
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sw1203.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "other",
-            "restriction": "other",
-            "access": "https://spraakbanken.gu.se/korp/#corpus=sw1203"
-        }
-    ],
-    "contact_info": {
-        "surname": "Ingegerd",
-        "givenName": "Enström",
-        "email": "ingegerd.enstroem@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
-            "email": "svenska.exp@svenska.gu.se"
-        }
+  "id": "sw1203",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_sv": "SW1203-uppsatser",
+  "name_en": "SW1203-essays",
+  "description_sv": "Essays written by L2 Swedish language learners, university courses",
+  "description_en": "Essays written by L2 Swedish language learners, university courses",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SW1203.txt",
+      "type": "token frequencies",
+      "format": "CSV"
     },
-    "size": {
-        "tokens": "51972",
-        "sentences": "3241"
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sw1203.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "other",
+      "restriction": "other",
+      "access": "https://spraakbanken.gu.se/korp/#corpus=sw1203"
+    }
+  ],
+  "contact_info": {
+    "surname": "Ingegerd",
+    "givenName": "Enström",
+    "email": "ingegerd.enstroem@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
+      "email": "svenska.exp@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "51972",
+    "sentences": "3241"
+  },
+  "language_codes": [
+    "swe"
+  ]
 }

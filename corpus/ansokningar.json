@@ -1,55 +1,51 @@
 {
-    "id": "ansokningar",
-    "type": "corpus",
-    "trainingdata": false,
-    "lang": [
-        {
-            "code": "swe",
-            "name_en": "Swedish",
-            "name_sv": "svenska"
-        }
-    ],
-    "name_en": "Applications",
-    "name_sv": "Ansökningar",
-    "description_en": "Anonymised job applications",
-    "description_sv": "Anonymiserade jobbansökningar",
-    "downloads": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ansokningar.xml",
-            "type": "metadata",
-            "format": "METASHARE"
-        }
-    ],
-    "interface": [
-        {
-            "licence": "CC BY 4.0",
-            "restriction": "attribution",
-            "access": "https://spraakbanken.gu.se/korp/#?corpus=ansokningar"
-        }
-    ],
-    "contact_info": {
-        "surname": "Rogström",
-        "givenName": "Lena",
-        "email": "lena.rogstroem@svenska.gu.se",
-        "affiliation": {
-            "organisation": "Institutionen för svenska språket",
-            "email": "svenska.exp@svenska.gu.se"
-        }
-    },
-    "size": {
-        "tokens": "26228",
-        "sentences": "1353"
-    },
-    "korp_info": {
-        "modes": [
-            "default"
-        ],
-        "protected": true
-    },
-    "export": {
-        "stats_export": false,
-        "xml_export": false
+  "id": "ansokningar",
+  "type": "corpus",
+  "trainingdata": false,
+  "name_en": "Applications",
+  "name_sv": "Ansökningar",
+  "description_en": "Anonymised job applications",
+  "description_sv": "Anonymiserade jobbansökningar",
+  "downloads": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ansokningar.xml",
+      "type": "metadata",
+      "format": "METASHARE"
     }
+  ],
+  "interface": [
+    {
+      "licence": "CC BY 4.0",
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=ansokningar"
+    }
+  ],
+  "contact_info": {
+    "surname": "Rogström",
+    "givenName": "Lena",
+    "email": "lena.rogstroem@svenska.gu.se",
+    "affiliation": {
+      "organisation": "Institutionen för svenska språket",
+      "email": "svenska.exp@svenska.gu.se"
+    }
+  },
+  "size": {
+    "tokens": "26228",
+    "sentences": "1353"
+  },
+  "korp_info": {
+    "modes": [
+      "default"
+    ],
+    "protected": true
+  },
+  "export": {
+    "stats_export": false,
+    "xml_export": false
+  },
+  "language_codes": [
+    "swe"
+  ]
 }
