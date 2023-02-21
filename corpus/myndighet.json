@@ -2,13 +2,6 @@
   "id": "myndighet",
   "type": "corpus",
   "trainingdata": false,
-  "lang": [
-    {
-      "code": "sv-FI",
-      "name_en": "Finland Swedish",
-      "name_sv": "finlandssvenska"
-    }
-  ],
   "name_sv": "Myndighetsprosa 1990–2000",
   "name_en": "Myndighetsprosa 1990–2000",
   "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
@@ -50,5 +43,12 @@
     "tokens": "482998",
     "sentences": "33219"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-myndighetsprosa_1990-2000.html}\n"
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-myndighetsprosa_1990-2000.html}\n",
+  "languages": [
+    {
+      "code": "sv-FI",
+      "name_en": "Finland Swedish",
+      "name_sv": "finlandssvenska"
+    }
+  ]
 }

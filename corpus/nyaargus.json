@@ -2,13 +2,6 @@
   "id": "nyaargus",
   "type": "corpus",
   "trainingdata": false,
-  "lang": [
-    {
-      "code": "sv-FI",
-      "name_en": "Finland Swedish",
-      "name_sv": "finlandssvenska"
-    }
-  ],
   "name_sv": "Nya Argus 2010–2011",
   "name_en": "Nya Argus 2010–2011",
   "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
@@ -50,5 +43,12 @@
     "tokens": "229452",
     "sentences": "11504"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-nyaargus.html}\n"
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-nyaargus.html}\n",
+  "languages": [
+    {
+      "code": "sv-FI",
+      "name_en": "Finland Swedish",
+      "name_sv": "finlandssvenska"
+    }
+  ]
 }

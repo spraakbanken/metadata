@@ -2,13 +2,6 @@
   "id": "vasabladet2012",
   "type": "corpus",
   "trainingdata": false,
-  "lang": [
-    {
-      "code": "sv-FI",
-      "name_en": "Finland Swedish",
-      "name_sv": "finlandssvenska"
-    }
-  ],
   "name_sv": "Vasabladet 2012",
   "name_en": "Vasabladet 2012",
   "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
@@ -49,5 +42,12 @@
   "size": {
     "tokens": "88720"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-vasabladet.html}\n"
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-vasabladet.html}\n",
+  "languages": [
+    {
+      "code": "sv-FI",
+      "name_en": "Finland Swedish",
+      "name_sv": "finlandssvenska"
+    }
+  ]
 }

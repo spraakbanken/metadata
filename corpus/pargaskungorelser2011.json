@@ -2,13 +2,6 @@
   "id": "pargaskungorelser2011",
   "type": "corpus",
   "trainingdata": false,
-  "lang": [
-    {
-      "code": "sv-FI",
-      "name_en": "Finland Swedish",
-      "name_sv": "finlandssvenska"
-    }
-  ],
   "name_sv": "Pargas Kungörelser 2011",
   "name_en": "Pargas Kungörelser 2011",
   "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
@@ -50,5 +43,12 @@
     "tokens": "86725",
     "sentences": "5303"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-pargaskungorelser.html}\n"
+  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-pargaskungorelser.html}\n",
+  "languages": [
+    {
+      "code": "sv-FI",
+      "name_en": "Finland Swedish",
+      "name_sv": "finlandssvenska"
+    }
+  ]
 }
