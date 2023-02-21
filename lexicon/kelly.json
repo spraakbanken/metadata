@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls",
       "type": "Swedish-Kelly_M3_CEFR.xls",
       "format": "xls"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/kelly.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

@@ -6,15 +6,7 @@
   "name_en": "Questions about the Swedish Language",
   "description_sv": "Spåkrådets rådgivningsmejl",
   "description_en": "Counselling mails of the Language Council of Sweden",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sprakfragor.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "other",

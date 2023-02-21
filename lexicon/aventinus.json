@@ -6,15 +6,7 @@
   "name_en": "Aventinus",
   "description_sv": "Narkotikarelaterad terminologi",
   "description_en": "Drug related terminology",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/aventinus.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [],
   "contact_info": {
     "surname": "Forsberg",

@@ -15,13 +15,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",
       "type": "semeval2020t1_documentation_sheet.tsv",
       "format": "tsv"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/semeval2020t1-superlim.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

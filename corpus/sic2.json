@@ -24,13 +24,6 @@
     {
       "licence": "CC BY 4.0",
       "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sic2.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
       "download": "http://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.zip",
       "type": "corpus",
       "format": "XML"

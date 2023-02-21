@@ -30,13 +30,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/saldo_marmot.txt",
       "type": "saldo_marmot.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/marmot.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

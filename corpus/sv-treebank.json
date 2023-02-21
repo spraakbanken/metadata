@@ -6,15 +6,7 @@
   "name_en": "Swedish treebank",
   "description_sv": "En svensk trädbank med återanvändning av existerande resurser",
   "description_en": "A Swedish treebank built from recycled language resources",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sv-treebank.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [],
   "contact_info": {
     "surname": "Forsberg",

@@ -14,13 +14,6 @@
       "download": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
       "type": "vocationTerms150120.utf.txt.gz",
       "format": "gz"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/vocation-list.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

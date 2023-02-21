@@ -23,13 +23,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-carlscronaswekoblad-1810.csv",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist2-carlscronaswekoblad-1810.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

@@ -6,15 +6,7 @@
   "name_en": "Votic (paradigms)",
   "description_sv": "Morfologiskt lexikon för votiska",
   "description_en": "Morphological lexicon of Votic",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/votiskaparadigms.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "CC BY 4.0",

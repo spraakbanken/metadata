@@ -6,15 +6,7 @@
   "name_sv": "Ansökningar",
   "description_en": "Anonymised job applications",
   "description_sv": "Anonymiserade jobbansökningar",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/ansokningar.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "CC BY 4.0",

@@ -14,13 +14,6 @@
       "download": "https://zenodo.org/record/3730550/files/semeval2020_ulscd_swe.zip",
       "type": "semeval2020_ulscd_swe.zip",
       "format": "zip"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/semeval2020.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

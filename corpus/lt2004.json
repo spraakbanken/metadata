@@ -23,13 +23,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LT2004.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/lt2004.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt",
       "type": "PAROLE_usyn_descr.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/parolelex.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

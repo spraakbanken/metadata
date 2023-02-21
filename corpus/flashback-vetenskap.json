@@ -24,13 +24,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-vetenskap.csv",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/flashback-vetenskap.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

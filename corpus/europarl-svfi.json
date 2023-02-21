@@ -42,13 +42,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-FI.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/europarl-svfi.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

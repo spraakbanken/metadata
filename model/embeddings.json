@@ -6,15 +6,7 @@
   "name_en": "Pretrained embeddings",
   "description_sv": "En lista över förtränade inbäddningar för svenska",
   "description_en": "A list of pretrained embeddings for Swedish",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/embeddings.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [],
   "contact_info": {
     "surname": "Forsberg",

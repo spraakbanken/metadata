@@ -24,13 +24,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-POSTOCHINRIKESTIDNING-1840.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist-postochinrikestidning-1840.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "contact_info": {

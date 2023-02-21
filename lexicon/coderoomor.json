@@ -38,13 +38,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx",
       "type": "CodeRoomor_v01_morphemeView.xlsx",
       "format": "xlsx"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/coderoomor.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

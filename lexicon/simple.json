@@ -30,13 +30,6 @@
       "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html",
       "type": "simple_adj.html",
       "format": "html"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/simple.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

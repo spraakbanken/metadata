@@ -6,15 +6,7 @@
   "name_en": "The English-Swedish Parallel Corpus (ESPC)",
   "description_sv": "",
   "description_en": "",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/espc.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "other",

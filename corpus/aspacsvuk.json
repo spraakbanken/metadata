@@ -42,13 +42,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVUK-UK.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/aspacsvuk.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

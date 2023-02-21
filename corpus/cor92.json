@@ -22,13 +22,6 @@
       "download": "https://spraakbanken.gu.se/konk/rom2/Info.COR92.html",
       "type": "Info.COR92.html",
       "format": "html"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/cor92.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

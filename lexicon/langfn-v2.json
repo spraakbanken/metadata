@@ -6,15 +6,7 @@
   "name_en": "LangFN-V2",
   "description_sv": "",
   "description_en": "",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/langfn-v2.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "CC BY 4.0",

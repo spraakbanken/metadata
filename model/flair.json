@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/flair_full.zip",
       "type": "flair_full.zip",
       "format": "zip"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/flair.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

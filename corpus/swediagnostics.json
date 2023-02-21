@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv",
       "type": "swediagnostics-v1.0.csv",
       "format": "csv"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swediagnostics.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

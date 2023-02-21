@@ -89,15 +89,6 @@
       "restriction": "attribution",
       "size": "15478",
       "type": "imm_absabank.rb"
-    },
-    {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/absabank-imm.xml",
-      "format": "METASHARE",
-      "last-modified": "2022-05-28",
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "size": "6039",
-      "type": "metadata"
     }
   ],
   "interface": [],

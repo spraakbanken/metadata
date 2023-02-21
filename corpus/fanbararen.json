@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FANBARAREN.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fanbararen.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

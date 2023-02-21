@@ -46,13 +46,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip",
       "type": "TalbankenSTB_original_parts.zip",
       "format": "zip"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/talbanken-stb.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

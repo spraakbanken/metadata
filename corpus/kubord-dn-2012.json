@@ -13,13 +13,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2012.csv",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubord-dn-2012.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

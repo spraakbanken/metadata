@@ -65,13 +65,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb",
       "type": "imm_absabank.rb",
       "format": "rb"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/absabank-imm.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

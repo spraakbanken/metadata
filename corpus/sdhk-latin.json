@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SDHK-LATIN.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sdhk-latin.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

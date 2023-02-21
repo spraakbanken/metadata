@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv",
       "type": "lexicon",
       "format": "LMF"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sentimentlex.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

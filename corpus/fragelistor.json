@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_fragelistor.csv",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fragelistor.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

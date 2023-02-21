@@ -14,13 +14,6 @@
       "download": "https://zenodo.org/record/4301658",
       "type": "other",
       "format": null
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/historical-embeddings.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

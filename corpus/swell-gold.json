@@ -6,15 +6,7 @@
   "name_en": "SweLL-gold",
   "description_sv": "",
   "description_en": "Essays written by adult learners of Swedish",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swell-gold.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [],
   "contact_info": {
     "surname": "Volodina",

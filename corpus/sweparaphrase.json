@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase_documentation.tsv",
       "type": "sweparaphrase_documentation.tsv",
       "format": "tsv"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sweparaphrase.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

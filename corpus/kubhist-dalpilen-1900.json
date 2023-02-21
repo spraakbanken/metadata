@@ -24,13 +24,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1900.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist-dalpilen-1900.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "contact_info": {

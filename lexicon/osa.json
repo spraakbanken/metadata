@@ -6,15 +6,7 @@
   "name_en": "OSA (SAOB)",
   "description_sv": "Svenska Akademiens ordbok på nätet",
   "description_en": "The Swedish Academy Dictionary online",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/osa.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [],
   "contact_info": {
     "surname": "Forsberg",

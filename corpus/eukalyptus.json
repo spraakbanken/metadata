@@ -21,13 +21,6 @@
       "download": "http://demo.spraakdata.gu.se/gerlof/Eukalyptus_betas",
       "type": "other",
       "format": null
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/eukalyptus.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

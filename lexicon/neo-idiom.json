@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml",
       "type": "neo_idiom_m_alternativformer.xml",
       "format": "xml"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/neo-idiom.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

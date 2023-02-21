@@ -24,13 +24,6 @@
       "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd_documentation_sheet.txt",
       "type": "swewinograd_documentation_sheet.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewinograd.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

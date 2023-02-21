@@ -23,13 +23,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv",
       "type": "dalaj_documentation.tsv",
       "format": "tsv"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/dalaj.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

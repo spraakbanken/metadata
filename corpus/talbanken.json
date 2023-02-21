@@ -46,13 +46,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_syntsplit20200610.zip",
       "type": "TalbankenSBX_syntsplit20200610.zip",
       "format": "zip"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/talbanken.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

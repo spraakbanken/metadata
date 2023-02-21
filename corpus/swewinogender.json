@@ -22,13 +22,6 @@
       "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender_documentation_sheet.txt",
       "type": "swewinogender_documentation_sheet.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewinogender.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

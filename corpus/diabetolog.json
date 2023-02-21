@@ -6,15 +6,7 @@
   "name_sv": "DiabetologNytt (1996–1999)",
   "description_en": "The paper DiabetologNytt (Diabetologynews) 1996-1999",
   "description_sv": "Tidningen DiabetologNytt 1996-1999",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/diabetolog.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "CC BY 4.0",

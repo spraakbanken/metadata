@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/fsvm/fsvm.xml",
       "type": "lexicon",
       "format": "LMF"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/fsvm.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

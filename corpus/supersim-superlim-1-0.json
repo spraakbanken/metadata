@@ -25,13 +25,6 @@
       "download": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt",
       "type": "supersim-superlim_documentation_sheet.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/supersim-superlim.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

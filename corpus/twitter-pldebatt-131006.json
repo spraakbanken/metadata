@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-PLDEBATT-131006.txt",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/twitter-pldebatt-131006.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

@@ -6,15 +6,7 @@
   "name_en": "lingfn-thesis",
   "description_sv": "",
   "description_en": "",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/lingfn-thesis.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "CC BY 4.0",

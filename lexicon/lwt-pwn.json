@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/lwt-pwn/lwt-pwn.txt",
       "type": "lwt-pwn.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/lwt-pwn.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

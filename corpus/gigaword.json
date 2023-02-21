@@ -69,13 +69,6 @@
       "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-2010-15.tar",
       "type": "corpus",
       "format": "XML"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/gigaword.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

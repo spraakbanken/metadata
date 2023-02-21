@@ -31,13 +31,6 @@
       "download": "https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html",
       "type": "Info.ONE71.html",
       "format": "html"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/one71.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

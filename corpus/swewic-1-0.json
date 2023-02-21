@@ -25,13 +25,6 @@
       "download": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt",
       "type": "swewic_documentation_sheet.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewic.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

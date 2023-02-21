@@ -30,13 +30,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip",
       "type": "stanza_pretrain.zip",
       "format": "zip"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/stanza_synt.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

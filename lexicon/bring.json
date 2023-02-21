@@ -14,13 +14,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt",
       "type": "bring.txt",
       "format": "txt"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bring.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

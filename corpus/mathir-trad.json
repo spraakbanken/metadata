@@ -14,13 +14,6 @@
       "download": "http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz",
       "type": "mathir_trees_v0.1.tgz",
       "format": "tgz"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/mathir-trad.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

@@ -6,15 +6,7 @@
   "name_en": "TISUS texts",
   "description_sv": "Essays written by L2 Swedish learners as part of a TISUS exam",
   "description_en": "Essays written by L2 Swedish learners as part of a TISUS exam",
-  "downloads": [
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/tisus.xml",
-      "type": "metadata",
-      "format": "METASHARE"
-    }
-  ],
+  "downloads": [],
   "interface": [
     {
       "licence": "other",

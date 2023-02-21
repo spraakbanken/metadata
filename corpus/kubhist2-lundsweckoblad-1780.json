@@ -23,13 +23,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-lundsweckoblad-1780.csv",
       "type": "token frequencies",
       "format": "CSV"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist2-lundsweckoblad-1780.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

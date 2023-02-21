@@ -14,13 +14,6 @@
       "type": "corpus",
       "format": "XML",
       "info": "this file contains a scrambled version of the corpus"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-ah-2010-19.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [

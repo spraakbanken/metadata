@@ -22,13 +22,6 @@
       "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv",
       "type": "swefracas_documentation_sheet.tsv",
       "format": "tsv"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swefracas.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [],

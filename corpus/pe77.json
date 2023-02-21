@@ -23,13 +23,6 @@
       "download": "https://spraakbanken.gu.se/konk/rom2/Info.PE77.html",
       "type": "Info.PE77.html",
       "format": "html"
-    },
-    {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/pe77.xml",
-      "type": "metadata",
-      "format": "METASHARE"
     }
   ],
   "interface": [
