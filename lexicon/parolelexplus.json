@@ -3,12 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/parolelexplus/parolelexplus.xml",
+      "type": "lexicon",
+      "format": "LMF",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/parolelexplus/parolelexplus.xml",
-      "type": "lexicon",
-      "format": "LMF"
+      "restriction": "attribution"
     }
   ],
   "interface": [

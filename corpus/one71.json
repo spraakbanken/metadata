@@ -3,29 +3,31 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains a scrambled version of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/one71.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/one71.xml.bz2",
       "type": "corpus",
-      "format": "XML"
-    },
-    {
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/konk/rom2/",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/konk/rom2/",
       "type": "other",
-      "format": ""
-    },
-    {
+      "format": "",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html",
       "type": "Info.ONE71.html",
-      "format": "html"
+      "format": "html",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

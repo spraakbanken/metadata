@@ -3,28 +3,31 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/pub/reskit/LEXIN.zip",
+      "url": "https://spraakbanken.gu.se/pub/reskit/LEXIN.zip",
       "type": "LEXIN.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lexin/",
-      "type": "other",
-      "format": ""
+      "restriction": "attribution"
     },
     {
+      "url": "https://spraakbanken.gu.se/lexin/",
+      "type": "other",
+      "format": "",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lexin/",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/lexin/",
       "type": "other",
-      "format": ""
+      "format": "",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

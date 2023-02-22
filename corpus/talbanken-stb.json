@@ -3,44 +3,49 @@
   "trainingdata": true,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip",
       "type": "TalbankenSTB.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt",
       "type": "TalbankenSTB_README.txt",
-      "format": "txt"
-    },
-    {
+      "format": "txt",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip",
       "type": "TalbankenSTB_documentation.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip",
       "type": "TalbankenSTB_datasplit.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip",
       "type": "TalbankenSTB_original_parts.zip",
-      "format": "zip"
+      "format": "zip",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [],

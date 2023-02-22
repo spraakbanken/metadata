@@ -3,12 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
+      "type": "vocationTerms150120.utf.txt.gz",
+      "format": "gz",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
-      "type": "vocationTerms150120.utf.txt.gz",
-      "format": "gz"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

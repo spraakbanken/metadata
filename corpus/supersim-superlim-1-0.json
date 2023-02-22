@@ -4,22 +4,22 @@
   "unlisted": true,
   "downloads": [
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip",
+      "type": "supersim-superlim.zip",
+      "format": "zip",
+      "info": null,
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": null,
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip",
-      "type": "supersim-superlim.zip",
-      "format": "zip"
+      "restriction": "attribution"
     },
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt",
+      "type": "supersim-superlim_documentation_sheet.txt",
+      "format": "txt",
+      "info": null,
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": null,
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt",
-      "type": "supersim-superlim_documentation_sheet.txt",
-      "format": "txt"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

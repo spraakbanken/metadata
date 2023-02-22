@@ -4,20 +4,22 @@
   "unlisted": true,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv",
+      "type": "datasetDaLAJsplit.csv",
+      "format": "csv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv",
-      "type": "datasetDaLAJsplit.csv",
-      "format": "csv"
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv",
+      "type": "dalaj_documentation.tsv",
+      "format": "tsv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv",
-      "type": "dalaj_documentation.tsv",
-      "format": "tsv"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

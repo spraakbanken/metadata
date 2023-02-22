@@ -3,18 +3,22 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip",
+      "type": "OpenEDGeS_v1.01.zip",
+      "format": "zip",
+      "info": "",
       "licence": "CC BY-NC-SA 4.0",
       "licence_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "restriction": "attribution, non-commercial, share-alike",
-      "download": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip",
-      "type": "OpenEDGeS_v1.01.zip",
-      "format": "zip"
+      "restriction": "attribution, non-commercial, share-alike"
     },
     {
-      "licence": "For license details of the previous versions, see the 'Read me.txt' file in the download.",
-      "download": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions",
+      "url": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions",
       "type": "other",
-      "format": ""
+      "format": "",
+      "info": "",
+      "licence": "For license details of the previous versions, see the 'Read me.txt' file in the download.",
+      "licence_url": "",
+      "restriction": ""
     }
   ],
   "interface": [],

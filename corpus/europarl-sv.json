@@ -3,21 +3,22 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2",
-      "type": "corpus",
-      "format": "XML"
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt",
+      "type": "token frequencies",
+      "format": "CSV",
+      "info": "this file contains statistics on the Swedish part of the corpus",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains statistics on the Swedish part of the corpus",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt",
-      "type": "token frequencies",
-      "format": "CSV"
+      "restriction": "attribution"
     }
   ],
   "interface": [

@@ -3,19 +3,22 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2",
       "type": "corpus",
       "format": "XML",
-      "info": "this file contains a scrambled version of the corpus"
+      "info": "this file contains a scrambled version of the corpus",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     },
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_vivill.csv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_vivill.csv",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     }
   ],
   "interface": [

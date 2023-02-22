@@ -4,12 +4,13 @@
   "unlisted": true,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv",
+      "type": "swediagnostics-v1.0.csv",
+      "format": "csv",
+      "info": "",
       "licence": "CC BY 1.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv",
-      "type": "swediagnostics-v1.0.csv",
-      "format": "csv"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

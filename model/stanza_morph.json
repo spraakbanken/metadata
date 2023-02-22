@@ -3,28 +3,31 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/morph_stanza_eval.zip",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/morph_stanza_eval.zip",
       "type": "morph_stanza_eval.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/morph_stanza_full2.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/morph_stanza_full2.zip",
       "type": "morph_stanza_full2.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip",
       "type": "stanza_pretrain.zip",
-      "format": "zip"
+      "format": "zip",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [],

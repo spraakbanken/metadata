@@ -3,32 +3,40 @@
   "trainingdata": true,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.xml.bz2",
       "type": "corpus",
-      "format": "XML"
+      "format": "XML",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     },
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     },
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "http://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.zip",
+      "url": "http://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.zip",
       "type": "corpus",
-      "format": "XML"
+      "format": "XML",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     },
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/sic2/readme.txt",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/sic2/readme.txt",
       "type": "readme",
-      "format": "txt"
+      "format": "txt",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     }
   ],
   "interface": [

@@ -4,20 +4,22 @@
   "unlisted": true,
   "downloads": [
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender.zip",
+      "type": "swewinogender.zip",
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender.zip",
-      "type": "swewinogender.zip",
-      "format": "zip"
+      "restriction": "attribution"
     },
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender_documentation_sheet.txt",
+      "type": "swewinogender_documentation_sheet.txt",
+      "format": "txt",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender_documentation_sheet.txt",
-      "type": "swewinogender_documentation_sheet.txt",
-      "format": "txt"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

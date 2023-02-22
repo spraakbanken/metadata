@@ -3,36 +3,40 @@
   "trainingdata": true,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv",
       "type": "CodeRoomor_v01_lemgramView.csv",
-      "format": "csv"
-    },
-    {
+      "format": "csv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv",
       "type": "CodeRoomor_v01_morphemeView.csv",
-      "format": "csv"
-    },
-    {
+      "format": "csv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx",
       "type": "CodeRoomor_v01_lemgramView.xlsx",
-      "format": "xlsx"
-    },
-    {
+      "format": "xlsx",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx",
       "type": "CodeRoomor_v01_morphemeView.xlsx",
-      "format": "xlsx"
+      "format": "xlsx",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

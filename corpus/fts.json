@@ -3,13 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains a scrambled version of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2",
-      "type": "corpus",
-      "format": "XML"
+      "restriction": "attribution"
     }
   ],
   "interface": [

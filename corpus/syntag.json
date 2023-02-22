@@ -3,20 +3,22 @@
   "trainingdata": true,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.txt",
+      "type": "syntag.txt",
+      "format": "txt",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.txt",
-      "type": "syntag.txt",
-      "format": "txt"
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.html",
+      "type": "syntag.html",
+      "format": "html",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.html",
-      "type": "syntag.html",
-      "format": "html"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

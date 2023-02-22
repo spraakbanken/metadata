@@ -3,29 +3,31 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains a scrambled version of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romg.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romg.xml.bz2",
       "type": "corpus",
-      "format": "XML"
-    },
-    {
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/konk/info/romg.phtml",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/konk/info/romg.phtml",
       "type": "romg.phtml",
-      "format": "phtml"
-    },
-    {
+      "format": "phtml",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

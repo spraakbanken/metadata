@@ -16,74 +16,67 @@
   },
   "downloads": [
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv",
+      "type": "absabank-imm_documentation_sheet.tsv",
       "format": "tsv",
-      "last-modified": "2021-05-23",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "10670",
-      "type": "absabank-imm_documentation_sheet.tsv"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv",
+      "type": "D_annotation.tsv",
       "format": "tsv",
-      "last-modified": "2021-04-21",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "55391",
-      "type": "D_annotation.tsv"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv",
+      "type": "P_annotation.tsv",
       "format": "tsv",
-      "last-modified": "2021-04-22",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "1687679",
-      "type": "P_annotation.tsv"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip",
+      "type": "datasplit.zip",
       "format": "zip",
-      "last-modified": "2021-05-17",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "5120289",
-      "type": "datasplit.zip"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/documents.zip",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/documents.zip",
+      "type": "documents.zip",
       "format": "zip",
-      "last-modified": "2021-01-20",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "4974088",
-      "type": "documents.zip"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf",
+      "type": "annoteringsinstruktioner.pdf",
       "format": "pdf",
-      "last-modified": "2021-01-20",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "164247",
-      "type": "annoteringsinstruktioner.pdf"
+      "restriction": "attribution"
     },
     {
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb",
+      "type": "imm_absabank.rb",
       "format": "rb",
-      "last-modified": "2021-04-21",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "size": "15478",
-      "type": "imm_absabank.rb"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

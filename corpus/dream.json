@@ -3,12 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/dream.zip.bz2",
+      "type": "corpus",
+      "format": "XML",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/dream.zip.bz2",
-      "type": "corpus",
-      "format": "XML"
+      "restriction": "attribution"
     }
   ],
   "interface": [

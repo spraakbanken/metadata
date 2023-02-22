@@ -3,29 +3,31 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains a scrambled version of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2",
       "type": "corpus",
-      "format": "XML"
-    },
-    {
+      "format": "XML",
+      "info": "this file contains a scrambled version of the corpus",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/pub/reskit/parole.zip",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/pub/reskit/parole.zip",
       "type": "parole.zip",
-      "format": "zip"
-    },
-    {
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

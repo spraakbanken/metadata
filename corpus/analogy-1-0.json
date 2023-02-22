@@ -7,20 +7,22 @@
   ],
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt",
+      "type": "sv-analogi.txt",
+      "format": "txt",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt",
-      "type": "sv-analogi.txt",
-      "format": "txt"
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv",
+      "type": "analogy_documentation_sheet.tsv",
+      "format": "tsv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv",
-      "type": "analogy_documentation_sheet.tsv",
-      "format": "tsv"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

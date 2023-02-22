@@ -3,11 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-afb-2019.csv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-afb-2019.csv",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     }
   ],
   "interface": [

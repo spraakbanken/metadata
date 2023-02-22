@@ -3,22 +3,22 @@
   "trainingdata": true,
   "downloads": [
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz",
+      "type": "swewic.jsonl.gz",
+      "format": "gz",
+      "info": null,
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": null,
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz",
-      "type": "swewic.jsonl.gz",
-      "format": "gz"
+      "restriction": "attribution"
     },
     {
+      "url": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt",
+      "type": "swewic_documentation_sheet.txt",
+      "format": "txt",
+      "info": null,
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": null,
-      "download": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt",
-      "type": "swewic_documentation_sheet.txt",
-      "format": "txt"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

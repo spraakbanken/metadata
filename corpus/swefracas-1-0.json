@@ -4,20 +4,22 @@
   "unlisted": true,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv",
+      "type": "swefracas.tsv",
+      "format": "tsv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv",
-      "type": "swefracas.tsv",
-      "format": "tsv"
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv",
+      "type": "swefracas_documentation_sheet.tsv",
+      "format": "tsv",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv",
-      "type": "swefracas_documentation_sheet.tsv",
-      "format": "tsv"
+      "restriction": "attribution"
     }
   ],
   "interface": [],

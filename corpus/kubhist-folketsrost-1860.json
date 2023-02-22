@@ -6,19 +6,22 @@
   ],
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-folketsrost-1860.xml.bz2",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-folketsrost-1860.xml.bz2",
       "type": "corpus",
-      "format": "XML"
+      "format": "XML",
+      "info": "",
+      "licence": "CC BY 4.0",
+      "licence_url": "",
+      "restriction": "attribution"
     },
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-FOLKETSROST-1860.txt",
+      "type": "token frequencies",
+      "format": "CSV",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-FOLKETSROST-1860.txt",
-      "type": "token frequencies",
-      "format": "CSV"
+      "restriction": "attribution"
     }
   ],
   "contact_info": {

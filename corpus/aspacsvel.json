@@ -3,40 +3,40 @@
   "trainingdata": false,
   "downloads": [
     {
-      "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-sv.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
       "info": "this file contains a scrambled version of the Swedish part of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-sv.xml.bz2",
-      "type": "corpus",
-      "format": "XML"
-    },
-    {
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-el.xml.bz2",
+      "type": "corpus",
+      "format": "XML",
       "info": "this file contains a scrambled version of the Greek part of the corpus",
-      "download": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-el.xml.bz2",
-      "type": "corpus",
-      "format": "XML"
-    },
-    {
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-SV.txt",
+      "type": "token frequencies",
+      "format": "CSV",
       "info": "this file contains statistics on the Swedish part of the corpus",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-SV.txt",
-      "type": "token frequencies",
-      "format": "CSV"
-    },
-    {
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "info": "this file contains statistics on the Greek part of the corpus",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-EL.txt",
+      "restriction": "attribution"
+    },
+    {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-EL.txt",
       "type": "token frequencies",
-      "format": "CSV"
+      "format": "CSV",
+      "info": "this file contains statistics on the Greek part of the corpus",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "interface": [

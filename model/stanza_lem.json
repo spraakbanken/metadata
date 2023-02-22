@@ -3,12 +3,13 @@
   "trainingdata": false,
   "downloads": [
     {
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip",
+      "type": "lem_stanza.zip",
+      "format": "zip",
+      "info": "",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "download": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip",
-      "type": "lem_stanza.zip",
-      "format": "zip"
+      "restriction": "attribution"
     }
   ],
   "interface": [],
