@@ -8,14 +8,14 @@
       "restriction": "attribution",
       "download": "http://demo.spraakdata.gu.se/gerlof/Eukalyptus/",
       "type": "other",
-      "format": null
+      "format": ""
     },
     {
       "licence": "Mixed",
       "restriction": "see license.txt",
       "download": "http://demo.spraakdata.gu.se/gerlof/Eukalyptus_betas",
       "type": "other",
-      "format": null
+      "format": ""
     }
   ],
   "interface": [],
