@@ -1,6 +1,17 @@
 {
+  "name": {
+    "swe": "Svenska historiska inbäddningar (word embeddings)",
+    "eng": "Swedish Diachronic Word Embeddings"
+  },
+  "short_description": {
+    "swe": "Förtränade inbäddningar (word embeddings) för historisk svenska",
+    "eng": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data"
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://zenodo.org/record/4301658",
@@ -21,14 +32,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "name": {
-    "swe": "Svenska historiska inbäddningar (word embeddings)",
-    "eng": "Swedish Diachronic Word Embeddings"
-  },
-  "short_description": {
-    "swe": "Förtränade inbäddningar (word embeddings) för historisk svenska",
-    "eng": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data"
   }
 }

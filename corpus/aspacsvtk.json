@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-turkmeniska",
+    "eng": "ASPAC – Swedish-Turkmen"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "tuk"
+  ],
+  "size": {
+    "tokens": "31397",
+    "sentences": "3324"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvtk-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "31397",
-    "sentences": "3324"
-  },
-  "language_codes": [
-    "swe",
-    "tuk"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-turkmeniska",
-    "eng": "ASPAC – Swedish-Turkmen"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

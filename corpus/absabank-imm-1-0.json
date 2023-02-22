@@ -1,19 +1,24 @@
 {
+  "name": {
+    "swe": "Svensk ABSAbank-Imm 1.0",
+    "eng": "Swedish ABSAbank-Imm 1.0"
+  },
+  "short_description": {
+    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)",
+    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)"
+  },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "241000"
+  },
   "in_collections": [
     "superlim"
   ],
-  "contact_info": {
-    "affiliation": {
-      "email": "sb-info@svenska.gu.se",
-      "organisation": "Språkbanken"
-    },
-    "email": "aleksandrs.berdicevskis@gu.se",
-    "givenName": "Aleksandrs",
-    "surname": "Berdicevskis"
-  },
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv",
@@ -80,19 +85,14 @@
     }
   ],
   "interface": [],
-  "size": {
-    "tokens": "241000"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk ABSAbank-Imm 1.0",
-    "eng": "Swedish ABSAbank-Imm 1.0"
-  },
-  "short_description": {
-    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)",
-    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)"
+  "contact_info": {
+    "affiliation": {
+      "email": "sb-info@svenska.gu.se",
+      "organisation": "Språkbanken"
+    },
+    "email": "aleksandrs.berdicevskis@gu.se",
+    "givenName": "Aleksandrs",
+    "surname": "Berdicevskis"
   },
   "description": {
     "swe": "",

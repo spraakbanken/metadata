@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SweLL-pilot",
+    "eng": "SweLL-pilot"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": "Essays written by adult learners of Swedish"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "texts": "502"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [],
   "contact_info": {
@@ -11,20 +27,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "texts": "502"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweLL-pilot",
-    "eng": "SweLL-pilot"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": "Essays written by adult learners of Swedish"
   },
   "description": {
     "swe": "",

@@ -1,6 +1,19 @@
 {
+  "name": {
+    "swe": "Ordklasstaggningsmodell: Marmot",
+    "eng": "POS-tagging model: Marmot"
+  },
+  "short_description": {
+    "swe": "Förtränade modeller för ordklasstaggning.",
+    "eng": "Pretrained models for POS-tagging."
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/marmot/marmot_eval.marmot",
@@ -39,18 +52,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ordklasstaggningsmodell: Marmot",
-    "eng": "POS-tagging model: Marmot"
-  },
-  "short_description": {
-    "swe": "Förtränade modeller för ordklasstaggning.",
-    "eng": "Pretrained models for POS-tagging."
   },
   "description": {
     "swe": "",

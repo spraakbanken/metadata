@@ -1,7 +1,21 @@
 {
+  "name": {
+    "swe": "Vanliga frågor (randomiserad) 1.0",
+    "eng": "Swedish FAQ (mismatched) 1.0"
+  },
+  "short_description": {
+    "swe": "Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning",
+    "eng": "Frequently asked questions from Swedish authorities' websites with shuffled answers"
+  },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "Q-APairs": "513"
+  },
   "in_collections": [
     "superlim"
   ],
@@ -34,20 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "Q-APairs": "513"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Vanliga frågor (randomiserad) 1.0",
-    "eng": "Swedish FAQ (mismatched) 1.0"
-  },
-  "short_description": {
-    "swe": "Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning",
-    "eng": "Frequently asked questions from Swedish authorities' websites with shuffled answers"
   },
   "description": {
     "swe": "",

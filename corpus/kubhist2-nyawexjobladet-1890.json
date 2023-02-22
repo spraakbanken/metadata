@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Nya Wexjöbladet 1890-talet",
+    "eng": "Nya Wexjöbladet 1890's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "14706831",
+    "sentences": "1061289"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "14706831",
-    "sentences": "1061289"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Nya Wexjöbladet 1890-talet",
-    "eng": "Nya Wexjöbladet 1890's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

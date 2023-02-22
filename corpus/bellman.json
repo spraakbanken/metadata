@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Bellman",
+    "eng": "Bellman"
+  },
+  "short_description": {
+    "swe": "C.M. Bellmans samlade verk",
+    "eng": "Collected works of C.M. Bellman"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "452030",
+    "sentences": "33000"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/bellman.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "452030",
-    "sentences": "33000"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bellman",
-    "eng": "Bellman"
-  },
-  "short_description": {
-    "swe": "C.M. Bellmans samlade verk",
-    "eng": "Collected works of C.M. Bellman"
   }
 }

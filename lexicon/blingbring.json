@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Blingbring",
+    "eng": "Blingbring"
+  },
+  "short_description": {
+    "swe": "Blingbring, en SALDO-länkad och moderniserad version av Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930)",
+    "eng": "Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "126910"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt",
@@ -37,20 +53,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "126910"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Blingbring",
-    "eng": "Blingbring"
-  },
-  "short_description": {
-    "swe": "Blingbring, en SALDO-länkad och moderniserad version av Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930)",
-    "eng": "Blingbring, an enhanced and modernized version of Bring's thesaurus (1930)"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-bara.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-pub.html}\n",

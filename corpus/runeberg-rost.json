@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Rösträtt för kvinnor",
+    "eng": "Rösträtt för kvinnor"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1873503",
+    "sentences": "128326"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-rost.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1873503",
-    "sentences": "128326"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Rösträtt för kvinnor",
-    "eng": "Rösträtt för kvinnor"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

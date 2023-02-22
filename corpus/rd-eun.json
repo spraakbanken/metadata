@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - EUN",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Dokument från EU-nämnden, bland annat möteskallelser, föredragningslistor, protokoll och skriftliga samråd med regeringen",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "722016",
+    "sentences": "110625"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "722016",
-    "sentences": "110625"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - EUN",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "Dokument från EU-nämnden, bland annat möteskallelser, föredragningslistor, protokoll och skriftliga samråd med regeringen",
-    "eng": ""
   }
 }

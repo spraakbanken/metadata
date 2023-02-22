@@ -1,7 +1,21 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data",
+    "eng": "Riksdagens öppna data"
+  },
+  "short_description": {
+    "swe": "Data från data.riksdagen.se",
+    "eng": "Data from the Swedish parliament collected from data.riksdagen.se"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/#?corpus=governmental.rd",
@@ -18,17 +32,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data",
-    "eng": "Riksdagens öppna data"
-  },
-  "short_description": {
-    "swe": "Data från data.riksdagen.se",
-    "eng": "Data from the Swedish parliament collected from data.riksdagen.se"
   },
   "description": {
     "swe": "Datan är insamlat 2022 från <a href=\"https://data.riksdagen.se/data/dokument/\">data.riksdagen.se/data/dokument/</a> och kommer att uppdateras någorlunda regelbundet.",

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Stockholms Dagblad 1860-talet",
+    "eng": "Stockholms Dagblad 1860's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "110424960",
+    "sentences": "8369930"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "110424960",
-    "sentences": "8369930"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Stockholms Dagblad 1860-talet",
-    "eng": "Stockholms Dagblad 1860's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

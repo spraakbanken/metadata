@@ -1,7 +1,21 @@
 {
+  "name": {
+    "swe": "SemEval 2020 Task 1 (repackaged for SuperLim)",
+    "eng": "SemEval 2020 Task 1 (repackaged for SuperLim)"
+  },
+  "short_description": {
+    "swe": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+    "eng": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection"
+  },
   "type": "corpus",
   "trainingdata": false,
   "unlisted": true,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",
@@ -22,21 +36,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SemEval 2020 Task 1 (repackaged for SuperLim)",
-    "eng": "SemEval 2020 Task 1 (repackaged for SuperLim)"
-  },
-  "short_description": {
-    "swe": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection",
-    "eng": "Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection"
   },
   "description": {
     "swe": "",

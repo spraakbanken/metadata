@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "TalbankenSTB",
+    "eng": "TalbankenSTB"
+  },
+  "short_description": {
+    "swe": "Talbanken är en svensk trädbank.",
+    "eng": "Talbanken is a Swedish treebank."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "96346",
+    "sentences": "6160"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip",
@@ -57,21 +74,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "96346",
-    "sentences": "6160"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "TalbankenSTB",
-    "eng": "TalbankenSTB"
-  },
-  "short_description": {
-    "swe": "Talbanken är en svensk trädbank.",
-    "eng": "Talbanken is a Swedish treebank."
   },
   "description": {
     "swe": "",

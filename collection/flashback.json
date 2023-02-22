@@ -1,7 +1,21 @@
 {
+  "name": {
+    "swe": "Flashback",
+    "eng": "Flashback"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback",
+    "eng": "Material from the Flashback internet forum"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.flashback",
@@ -18,17 +32,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Flashback",
-    "eng": "Flashback"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Flashback",
-    "eng": "Material from the Flashback internet forum"
   },
   "description": {
     "swe": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.flashback.org/\">Flashback</a>. Samlingen uppdateras ca en gång per år.",

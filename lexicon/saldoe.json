@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SALDO: exempel",
+    "eng": "SALDO: examples"
+  },
+  "short_description": {
+    "swe": "Exempelmeningar för SALDO-betydelser",
+    "eng": "Example sentences for senses in SALDO"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "3334"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldoe/saldoe.xml",
@@ -28,19 +44,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "3334"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SALDO: exempel",
-    "eng": "SALDO: examples"
-  },
-  "short_description": {
-    "swe": "Exempelmeningar för SALDO-betydelser",
-    "eng": "Example sentences for senses in SALDO"
   }
 }

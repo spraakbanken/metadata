@@ -1,6 +1,15 @@
 {
+  "name": {
+    "swe": "SuperLim",
+    "eng": "SuperLim"
+  },
+  "short_description": {
+    "swe": "A standardized suite for evaluation and analysis of Swedish natural language understanding systems.",
+    "eng": "A standardized suite for evaluation and analysis of Swedish natural language understanding systems."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
   "collection": true,
   "hide_resources": true,
   "resources": [
@@ -18,6 +27,12 @@
     "supersim-superlim",
     "swewic"
   ],
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
+  "interface": [],
   "contact_info": {
     "surname": "Berdicevskis",
     "givenName": "Aleksandrs",
@@ -26,17 +41,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SuperLim",
-    "eng": "SuperLim"
-  },
-  "short_description": {
-    "swe": "A standardized suite for evaluation and analysis of Swedish natural language understanding systems.",
-    "eng": "A standardized suite for evaluation and analysis of Swedish natural language understanding systems."
   },
   "description": {
     "swe": "",

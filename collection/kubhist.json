@@ -1,7 +1,22 @@
 {
+  "name": {
+    "swe": "Kubhist",
+    "eng": "Kubhist"
+  },
+  "short_description": {
+    "swe": "Diakronisk samling av historisk tidsskriftstext på svenska från perioden 1749–1926",
+    "eng": "Diachronic collection of Swedish historical newspaper texts from the period of 1749–1926"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
+  "interface": [],
   "contact_info": {
     "surname": "Forsberg",
     "givenName": "Markus",
@@ -10,17 +25,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Kubhist",
-    "eng": "Kubhist"
-  },
-  "short_description": {
-    "swe": "Diakronisk samling av historisk tidsskriftstext på svenska från perioden 1749–1926",
-    "eng": "Diachronic collection of Swedish historical newspaper texts from the period of 1749–1926"
   },
   "description": {
     "swe": "<p>Korpussamlingen Kubhist är ett resultat av projektet <a href=\"http://feedback.blogg.kb.se/forums/topic/digidailyprojekten-2010-2014/\">Digidaily</a> som var ett utvecklingsprojekt där Riksarkivet tillsammans med Kungliga biblioteket och Mittuniversitetet utvecklade rationella metoder och processer för massdigitalisering och texttolkning av dagstidningar. Projektet löpte mellan 2010 och 2014.</p> <p>Samlingen är uppdelad efter tidning och årtionde.</p> <p>På grund av brist på utrymme på våra servrar går det just nu inte att ladda ner XML-filerna med meningsmängder till korpusarna i Kubhist-samlingen. Vänligen kontakta sb-info@svenska.gu.se om du behöver få tillgång till meningsmängderna.</p>",

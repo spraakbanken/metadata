@@ -1,7 +1,24 @@
 {
+  "name": {
+    "swe": "SweFraCas 1.0",
+    "eng": "SweFraCas 1.0"
+  },
+  "short_description": {
+    "swe": "Textual inference/entailment problem set",
+    "eng": "Textual inference/entailment problem set"
+  },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "Problems": "305"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv",
@@ -31,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "Problems": "305"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweFraCas 1.0",
-    "eng": "SweFraCas 1.0"
-  },
-  "short_description": {
-    "swe": "Textual inference/entailment problem set",
-    "eng": "Textual inference/entailment problem set"
   },
   "description": {
     "swe": "",

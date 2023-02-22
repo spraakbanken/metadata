@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "InterFra taggad",
+    "eng": "InterFra tagged"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "fra"
+  ],
+  "size": {
+    "tokens": "425771",
+    "sentences": "46644"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra-tagged.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "425771",
-    "sentences": "46644"
-  },
-  "language_codes": [
-    "fra"
-  ],
-  "name": {
-    "swe": "InterFra taggad",
-    "eng": "InterFra tagged"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

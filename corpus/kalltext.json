@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Källtext",
+    "eng": "Källtext"
+  },
+  "short_description": {
+    "swe": "Medeltidstexter",
+    "eng": "Collection of medieval text"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1096244"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/ktext/",
@@ -30,19 +46,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1096244"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Källtext",
-    "eng": "Källtext"
-  },
-  "short_description": {
-    "swe": "Medeltidstexter",
-    "eng": "Collection of medieval text"
   }
 }

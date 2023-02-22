@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Gustav Vasas brevproduktion",
+    "eng": "Gustav Vasa's letter production"
+  },
+  "short_description": {
+    "swe": "Konung Gustaf den förstes registratur",
+    "eng": "King Gustav I's registry"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "253642",
+    "sentences": "14557"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vasabrev.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "253642",
-    "sentences": "14557"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Gustav Vasas brevproduktion",
-    "eng": "Gustav Vasa's letter production"
-  },
-  "short_description": {
-    "swe": "Konung Gustaf den förstes registratur",
-    "eng": "King Gustav I's registry"
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Besvarade Språkfrågor",
+    "eng": "Questions about the Swedish Language"
+  },
+  "short_description": {
+    "swe": "Spåkrådets rådgivningsmejl",
+    "eng": "Counselling mails of the Language Council of Sweden"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "20083415",
+    "sentences": "1671088"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [
     {
@@ -18,20 +35,5 @@
       "organisation": "Institutet för språk och folkminnen",
       "email": "registrator@sprakochfolkminnen.se"
     }
-  },
-  "size": {
-    "tokens": "20083415",
-    "sentences": "1671088"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Besvarade Språkfrågor",
-    "eng": "Questions about the Swedish Language"
-  },
-  "short_description": {
-    "swe": "Spåkrådets rådgivningsmejl",
-    "eng": "Counselling mails of the Language Council of Sweden"
   }
 }

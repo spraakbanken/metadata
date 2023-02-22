@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Lawline",
+    "eng": "Lawline"
+  },
+  "short_description": {
+    "swe": "Frågor och svar kring juridisk rådgivning från lawline.",
+    "eng": "Questions and answers about law counseling."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "12002288",
+    "sentences": "657420"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LAWLINE.txt",
@@ -28,20 +45,5 @@
       "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
       "email": "svenska.exp@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "12002288",
-    "sentences": "657420"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Lawline",
-    "eng": "Lawline"
-  },
-  "short_description": {
-    "swe": "Frågor och svar kring juridisk rådgivning från lawline.",
-    "eng": "Questions and answers about law counseling."
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Bloggmix 2015",
+    "eng": "Bloggmix 2015"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "27835518",
+    "sentences": "1680711"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix2015.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "27835518",
-    "sentences": "1680711"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bloggmix 2015",
-    "eng": "Bloggmix 2015"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

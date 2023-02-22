@@ -1,6 +1,19 @@
 {
+  "name": {
+    "swe": "Ordklasstaggningsmodell: Flair",
+    "eng": "POS-tagging model: Flair"
+  },
+  "short_description": {
+    "swe": "Förtränade modeller för ordklasstaggning.",
+    "eng": "Pretrained models for POS-tagging."
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/flair_eval.zip",
@@ -30,18 +43,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ordklasstaggningsmodell: Flair",
-    "eng": "POS-tagging model: Flair"
-  },
-  "short_description": {
-    "swe": "Förtränade modeller för ordklasstaggning.",
-    "eng": "Pretrained models for POS-tagging."
   },
   "description": {
     "swe": "",

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Läkartidningen 2002",
+    "eng": "Läkartidningen medical journal 2002"
+  },
+  "short_description": {
+    "swe": "Del av Korpus för vårdens och omsorgens fackspråk",
+    "eng": "Part of the corpus for health care technical language"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "2009521",
+    "sentences": "110830"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt2002.xml.bz2",
@@ -43,20 +60,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "2009521",
-    "sentences": "110830"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Läkartidningen 2002",
-    "eng": "Läkartidningen medical journal 2002"
-  },
-  "short_description": {
-    "swe": "Del av Korpus för vårdens och omsorgens fackspråk",
-    "eng": "Part of the corpus for health care technical language"
   }
 }

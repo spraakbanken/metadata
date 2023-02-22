@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SUC 2.0",
+    "eng": "SUC 2.0"
+  },
+  "short_description": {
+    "swe": "Stockholm-Umeå-korpus 2.0",
+    "eng": "Stockholm-Umeå corpus 2.0"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1166593",
+    "sentences": "74243"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt",
@@ -21,21 +38,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1166593",
-    "sentences": "74243"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SUC 2.0",
-    "eng": "SUC 2.0"
-  },
-  "short_description": {
-    "swe": "Stockholm-Umeå-korpus 2.0",
-    "eng": "Stockholm-Umeå corpus 2.0"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",

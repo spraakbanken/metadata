@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Familjeliv: Svårt att få barn",
+    "eng": "Familjeliv: Difficult to get children"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "172829832",
+    "sentences": "11853108"
+  },
   "in_collections": [
     "familjeliv"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "172829832",
-    "sentences": "11853108"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Familjeliv: Svårt att få barn",
-    "eng": "Familjeliv: Difficult to get children"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Familjeliv.",
-    "eng": "Material from the Familjeliv internet forum."
   }
 }

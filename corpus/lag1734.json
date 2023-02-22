@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "1734 års lag",
+    "eng": "Laws of 1734"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "98120",
+    "sentences": "6237"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lag1734.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "98120",
-    "sentences": "6237"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "1734 års lag",
-    "eng": "Laws of 1734"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

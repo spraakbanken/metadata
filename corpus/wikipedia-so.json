@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Somaliska Wikipedia",
+    "eng": "Somali Wikipedia"
+  },
+  "short_description": {
+    "swe": "Korpus av somaliska Wikipedia",
+    "eng": "Corpus of Somali Wikipedia"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "869335",
+    "sentences": "42514"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/wikipedia-so.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "869335",
-    "sentences": "42514"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Somaliska Wikipedia",
-    "eng": "Somali Wikipedia"
-  },
-  "short_description": {
-    "swe": "Korpus av somaliska Wikipedia",
-    "eng": "Corpus of Somali Wikipedia"
   }
 }

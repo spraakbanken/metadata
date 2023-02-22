@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Xisaab 2001 Soomaaliya",
+    "eng": "Xisaab 2001 Soomaaliya"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "50361",
+    "sentences": "4615"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-xisaab-2001-nayroobi.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "50361",
-    "sentences": "4615"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Xisaab 2001 Soomaaliya",
-    "eng": "Xisaab 2001 Soomaaliya"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

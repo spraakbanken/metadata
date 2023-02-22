@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Läkartidningen 2004",
+    "eng": "Läkartidningen medical journal 2004"
+  },
+  "short_description": {
+    "swe": "Del av Korpus för vårdens och omsorgens fackspråk",
+    "eng": "Part of the corpus for health care technical language"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1831732",
+    "sentences": "103881"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt2004.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1831732",
-    "sentences": "103881"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Läkartidningen 2004",
-    "eng": "Läkartidningen medical journal 2004"
-  },
-  "short_description": {
-    "swe": "Del av Korpus för vårdens och omsorgens fackspråk",
-    "eng": "Part of the corpus for health care technical language"
   }
 }

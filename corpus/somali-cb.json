@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Cilmiga bulshada 1971–1980",
+    "eng": "Cilmiga bulshada 1971–1980"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "79005",
+    "sentences": "6094"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-cb.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "79005",
-    "sentences": "6094"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Cilmiga bulshada 1971–1980",
-    "eng": "Cilmiga bulshada 1971–1980"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

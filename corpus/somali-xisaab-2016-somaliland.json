@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Xisaab 2016 Somaliland",
+    "eng": "Xisaab 2016 Somaliland"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "41922",
+    "sentences": "3317"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-xisaab-2016-somaliland.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "41922",
-    "sentences": "3317"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Xisaab 2016 Somaliland",
-    "eng": "Xisaab 2016 Somaliland"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

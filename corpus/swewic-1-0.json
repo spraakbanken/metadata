@@ -1,7 +1,24 @@
 {
+  "name": {
+    "swe": "SweWiC",
+    "eng": "SweWiC"
+  },
+  "short_description": {
+    "swe": "En svensk ord-i-sammanhang utvarderingsmängd.",
+    "eng": "A Swedish Word-in-Context test set."
+  },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "items": "624"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz",
@@ -31,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "items": "624"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweWiC",
-    "eng": "SweWiC"
-  },
-  "short_description": {
-    "swe": "En svensk ord-i-sammanhang utvarderingsmängd.",
-    "eng": "A Swedish Word-in-Context test set."
   },
   "description": {
     "swe": "",

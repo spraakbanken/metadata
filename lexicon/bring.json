@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Bring",
+    "eng": "Bring"
+  },
+  "short_description": {
+    "swe": "Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930) i digital version",
+    "eng": "A digital version of Bring's thesaurus (1930)"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "148815"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt",
@@ -21,20 +37,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "148815"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bring",
-    "eng": "Bring"
-  },
-  "short_description": {
-    "swe": "Brings \"Svenskt ordförråd ordnat i begreppsklasser\" (1930) i digital version",
-    "eng": "A digital version of Bring's thesaurus (1930)"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-bara.html}\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-pub.html}\n",

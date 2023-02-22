@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Sentimentlexikon",
+    "eng": "Sentiment Lexicon"
+  },
+  "short_description": {
+    "swe": "Sentimentlexikon för svenska baserad på SALDO",
+    "eng": "Sentiment lexicon for Swedish based on SALDO"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "2067"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml",
@@ -30,20 +46,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "2067"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Sentimentlexikon",
-    "eng": "Sentiment Lexicon"
-  },
-  "short_description": {
-    "swe": "Sentimentlexikon för svenska baserad på SALDO",
-    "eng": "Sentiment lexicon for Swedish based on SALDO"
   },
   "description": {
     "swe": "<p>Vänligen använd följande artikel som referens för lexikonet:<br/>\n\nNusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex\">Building a Sentiment Lexicon for Swedish</a> <a href=\"http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf\"><img src=\"https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png\" /></a></p>\n",

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "LangFN-V2",
+    "eng": "LangFN-V2"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "169"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [
     {
@@ -18,19 +34,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "169"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "LangFN-V2",
-    "eng": "LangFN-V2"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

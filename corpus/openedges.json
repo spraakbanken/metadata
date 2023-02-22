@@ -1,6 +1,25 @@
 {
+  "name": {
+    "swe": "OpenEDGeS",
+    "eng": "OpenEDGeS"
+  },
+  "short_description": {
+    "swe": "En delmängd av korpusen EDGeS Diachronic Bible Corpus, som tillhandahålls under en publik licens. EDGeS är en diakron och synkron parallelkorpus med bibelöversättningar från 1300-talet till nutid.",
+    "eng": "The public license subset of the EDGeS Diachronic Bible Corpus, a diachronically and synchronically parallel corpus of Bible translations in Dutch,English, German and Swedish, with texts from the 14th century until today."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "eng",
+    "deu",
+    "nld"
+  ],
+  "size": {
+    "tokens": "19399149"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip",
@@ -30,22 +49,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "19399149"
-  },
-  "language_codes": [
-    "swe",
-    "eng",
-    "deu",
-    "nld"
-  ],
-  "name": {
-    "swe": "OpenEDGeS",
-    "eng": "OpenEDGeS"
-  },
-  "short_description": {
-    "swe": "En delmängd av korpusen EDGeS Diachronic Bible Corpus, som tillhandahålls under en publik licens. EDGeS är en diakron och synkron parallelkorpus med bibelöversättningar från 1300-talet till nutid.",
-    "eng": "The public license subset of the EDGeS Diachronic Bible Corpus, a diachronically and synchronically parallel corpus of Bible translations in Dutch,English, German and Swedish, with texts from the 14th century until today."
   }
 }

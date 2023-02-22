@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Svensk-finska ordlistor",
+    "eng": "Swedish-Finnish word lists"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "9607"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [
     {
@@ -18,19 +34,5 @@
       "organisation": "Institutet för språk och folkminnen",
       "email": "registrator@sprakochfolkminnen.se"
     }
-  },
-  "size": {
-    "entries": "9607"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk-finska ordlistor",
-    "eng": "Swedish-Finnish word lists"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

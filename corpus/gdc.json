@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Gothenburg Dialogue Corpus (GDC)",
+    "eng": "Gothenburg Dialogue Corpus (GDC)"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1473608",
+    "sentences": "107700"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt",
@@ -28,20 +45,5 @@
       "organisation": "Institutionen för filosofi, lingvistik och vetenskapsteori",
       "email": "data@flov.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1473608",
-    "sentences": "107700"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Gothenburg Dialogue Corpus (GDC)",
-    "eng": "Gothenburg Dialogue Corpus (GDC)"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

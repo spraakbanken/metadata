@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Bloggmix 2001",
+    "eng": "Blog mix 2001"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "326659",
+    "sentences": "20762"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix2001.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "326659",
-    "sentences": "20762"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bloggmix 2001",
-    "eng": "Blog mix 2001"
-  },
-  "short_description": {
-    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
-    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Sheekooyin Carruureed (Turjuman)",
+    "eng": "Sheekooyin Carruureed (Turjuman)"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "13865",
+    "sentences": "1321"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooyin-carruureed.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "13865",
-    "sentences": "1321"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Sheekooyin Carruureed (Turjuman)",
-    "eng": "Sheekooyin Carruureed (Turjuman)"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

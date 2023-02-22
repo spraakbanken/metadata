@@ -1,6 +1,15 @@
 {
+  "name": {
+    "swe": "Finlandsvenska",
+    "eng": "Finland Swedish"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
   "resources": [
     "abounderrattelser2012",
@@ -60,6 +69,11 @@
     "vasabladet2014",
     "vastranyland"
   ],
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/#?corpus=fisk",
@@ -76,17 +90,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Finlandsvenska",
-    "eng": "Finland Swedish"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   },
   "description": {
     "swe": "Den här samlingen innehåller moderna finlandsvenska texter och ingår i språkbanken för finlandssvenska inom projektet Svenskan i Finland -- i dag och i går. Läs mer hos <a href=\"https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017\">Svenska litteratursällskapet i Finland</a>",

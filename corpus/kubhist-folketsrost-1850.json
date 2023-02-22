@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Folkets röst 1850-talet",
+    "eng": "Folkets röst 1850's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "21192929",
+    "sentences": "1413800"
+  },
   "in_collections": [
     "kubhist"
   ],
@@ -24,6 +40,7 @@
       "restriction": "attribution"
     }
   ],
+  "interface": [],
   "contact_info": {
     "surname": "Forsberg",
     "givenName": "Markus",
@@ -32,20 +49,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "21192929",
-    "sentences": "1413800"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Folkets röst 1850-talet",
-    "eng": "Folkets röst 1850's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist",
-    "eng": "Part of the collection Kubhist"
   }
 }

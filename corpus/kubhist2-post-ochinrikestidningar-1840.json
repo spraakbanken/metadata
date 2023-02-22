@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Post- och Inrikes Tidningar 1840-talet",
+    "eng": "Post- och Inrikes Tidningar 1840's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "42668692",
+    "sentences": "2319556"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "42668692",
-    "sentences": "2319556"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Post- och Inrikes Tidningar 1840-talet",
-    "eng": "Post- och Inrikes Tidningar 1840's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

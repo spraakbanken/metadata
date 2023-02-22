@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Nysvenska lagar – Fornsvenska textbankens material",
+    "eng": "Nysvenska lagar – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "22701"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvensklagar.xml.bz2",
@@ -28,19 +44,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "22701"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Nysvenska lagar – Fornsvenska textbankens material",
-    "eng": "Nysvenska lagar – Fornsvenska textbankens material"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

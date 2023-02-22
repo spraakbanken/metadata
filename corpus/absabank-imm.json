@@ -1,6 +1,21 @@
 {
+  "name": {
+    "swe": "Svensk ABSAbank-Imm 1.0",
+    "eng": "Swedish ABSAbank-Imm 1.0"
+  },
+  "short_description": {
+    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)",
+    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "241000"
+  },
   "in_collections": [
     "superlim"
   ],
@@ -78,20 +93,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "241000"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk ABSAbank-Imm 1.0",
-    "eng": "Swedish ABSAbank-Imm 1.0"
-  },
-  "short_description": {
-    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)",
-    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)"
   },
   "description": {
     "swe": "",

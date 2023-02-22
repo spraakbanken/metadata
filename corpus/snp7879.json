@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SNP 1978-79",
+    "eng": "SNP 1978-79"
+  },
+  "short_description": {
+    "swe": "Riksdagens snabbprotokoll 1978-1979",
+    "eng": "Swedish parliament proceedings"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "4865138",
+    "sentences": "243173"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/snp7879.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "4865138",
-    "sentences": "243173"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SNP 1978-79",
-    "eng": "SNP 1978-79"
-  },
-  "short_description": {
-    "swe": "Riksdagens snabbprotokoll 1978-1979",
-    "eng": "Swedish parliament proceedings"
   }
 }

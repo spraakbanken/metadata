@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SVT nyheter 2010",
+    "eng": "SVT news 2010"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från svt.se",
+    "eng": "News texts from svt.se"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "9873332",
+    "sentences": "679277"
+  },
   "in_collections": [
     "svt"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "9873332",
-    "sentences": "679277"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SVT nyheter 2010",
-    "eng": "SVT news 2010"
-  },
-  "short_description": {
-    "swe": "Nyhetstexter från svt.se",
-    "eng": "News texts from svt.se"
   }
 }

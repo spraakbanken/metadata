@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Biblioteksbladet",
+    "eng": "Biblioteksbladet"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "4595593",
+    "sentences": "493890"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-biblblad.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "4595593",
-    "sentences": "493890"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Biblioteksbladet",
-    "eng": "Biblioteksbladet"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

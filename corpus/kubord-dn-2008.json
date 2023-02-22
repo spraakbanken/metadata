@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ordfrekvenser Dagens Nyheter 2008",
+    "eng": "Word frequencies Dagens Nyheter 2008"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "54312565",
+    "sentences": "356"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2008.csv",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "54312565",
-    "sentences": "356"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ordfrekvenser Dagens Nyheter 2008",
-    "eng": "Word frequencies Dagens Nyheter 2008"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
   }
 }

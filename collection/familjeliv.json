@@ -1,7 +1,21 @@
 {
+  "name": {
+    "swe": "Familjeliv",
+    "eng": "Familjeliv"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv",
+    "eng": "Material from the Familjeliv internet forum"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.familjeliv",
@@ -18,17 +32,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Familjeliv",
-    "eng": "Familjeliv"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Familjeliv",
-    "eng": "Material from the Familjeliv internet forum"
   },
   "description": {
     "swe": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. Samlingen uppdateras ca en gång per år.",

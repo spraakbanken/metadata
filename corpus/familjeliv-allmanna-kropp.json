@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Familjeliv: Allmänna rubriker – Kropp & själ",
+    "eng": "Familjeliv: General Threads – Body & Soul"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "139379460",
+    "sentences": "9467120"
+  },
   "in_collections": [
     "familjeliv"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "139379460",
-    "sentences": "9467120"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Familjeliv: Allmänna rubriker – Kropp & själ",
-    "eng": "Familjeliv: General Threads – Body & Soul"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Familjeliv.",
-    "eng": "Material from the Familjeliv internet forum."
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ordfrekvenser Aftonbladet 2020",
+    "eng": "Word frequencies Aftonbladet 2020"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "37509826",
+    "sentences": "365"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-afb-2020.csv",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "37509826",
-    "sentences": "365"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ordfrekvenser Aftonbladet 2020",
-    "eng": "Word frequencies Aftonbladet 2020"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
   }
 }

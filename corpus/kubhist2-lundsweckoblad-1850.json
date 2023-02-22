@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Lunds Weckoblad 1850-talet",
+    "eng": "Lunds Weckoblad 1850's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "4817608",
+    "sentences": "329723"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "4817608",
-    "sentences": "329723"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Lunds Weckoblad 1850-talet",
-    "eng": "Lunds Weckoblad 1850's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

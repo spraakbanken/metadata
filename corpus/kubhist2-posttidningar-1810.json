@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Posttidningar 1810-talet",
+    "eng": "Posttidningar 1810's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "9534194",
+    "sentences": "575948"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "9534194",
-    "sentences": "575948"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Posttidningar 1810-talet",
-    "eng": "Posttidningar 1810's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

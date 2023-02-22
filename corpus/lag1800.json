@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Lagar från 1800-talet",
+    "eng": "Laws from the 1800's"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "446438",
+    "sentences": "24428"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lag1800.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "446438",
-    "sentences": "24428"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Lagar från 1800-talet",
-    "eng": "Laws from the 1800's"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

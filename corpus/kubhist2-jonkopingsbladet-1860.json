@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Jönköpingsbladet 1860-talet",
+    "eng": "Jönköpingsbladet 1860's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "16117729",
+    "sentences": "1082854"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "16117729",
-    "sentences": "1082854"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Jönköpingsbladet 1860-talet",
-    "eng": "Jönköpingsbladet 1860's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

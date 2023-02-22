@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Yrkesbeteckningar",
+    "eng": "Vocation list"
+  },
+  "short_description": {
+    "swe": "En lista över yrkesbeteckningar på svenska",
+    "eng": "A list of vocations in Swedish"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "13833"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz",
@@ -21,19 +37,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "13833"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Yrkesbeteckningar",
-    "eng": "Vocation list"
-  },
-  "short_description": {
-    "swe": "En lista över yrkesbeteckningar på svenska",
-    "eng": "A list of vocations in Swedish"
   }
 }

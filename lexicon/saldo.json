@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Saldo",
+    "eng": "Saldo"
+  },
+  "short_description": {
+    "swe": "SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt lexikon för modernt svenskt skriftspråk för språkteknologi.",
+    "eng": "SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language."
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "131020"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml",
@@ -28,20 +44,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "131020"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Saldo",
-    "eng": "Saldo"
-  },
-  "short_description": {
-    "swe": "SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt lexikon för modernt svenskt skriftspråk för språkteknologi.",
-    "eng": "SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource for modern Swedish written language."
   },
   "description": {
     "swe": "<center>\n<p>\n<img src=\"https://spraakbanken.gu.se/cms/sites/default/files/d7/img/saldo/saldo.gif\" align=\"top\" alt=\"SALDO\" />\n</p>\n<p>\n<a href=\"https://spraakbanken.gu.se/personal/lars/\">Lars Borin</a>,\n<a href=\"https://spraakbanken.gu.se/personal/markus/\">Markus Forsberg</a> och \n<a href=\"http://www.hum.uit.no/a/lonngren/\">Lennart Lönngren</a>\n</p>\n\n<div id=\"random\"></div>\n<script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>\n<script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/tidbits/tidbits_swe.js'></script>\n\n<script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/lid/json+render/rnd'></script>\n\n<p>Ladda om sidan för nytt slumpmässigt ord.</p>\n\n<p>Följ utvecklingen via <a href=\"http://spraakbanken.gu.se/rss/saldo_dev.xml\"><img src=\"http://clt.gu.se/misc/feed.png\" />RSS</a>.</p>\n</center>\n\n<h2>Introduktion</h2>\n\n<p>\nSALDO (Svenskt associationslexikon 2) är en omfattande elektronisk lexikonresurs för modernt svenskt skriftspråk. Den är avsedd för användning i språkteknologisk forskning och utveckling av språkteknologiska applikationer. Den avviker därför från vad man förväntar sig att finna i traditionella lexikon avsedda för mänskligt bruk. Lexikonet är inte normativt, utan är tänkt att vara maximalt deskriptivt. Dessutom distribueras SALDO i ett format som är avsett för användning som en komponent i datorprogram. SALDO bygger på Svenskt associationslexikon (SAL), ett semantiskt lexikon för svenska. Man kan betrakta SALDO som baslexikonresursen i en svensk BLARK (Basic LAnguage Resource Kit).\n</p>\n\n<p>\nSALDO omfattar idag (i) ett semantiskt lexikon, som är en sorts lexikalt-semantiskt nätverk, (ii) ett morfologiskt lexikon, som innehåller fullständig information om ordklass och böjningsmönster för alla ingångar, samt (iii) en datormorfologisk beskrivning, definierad med verktyget Funktionell Morfologi (FM). Alla delar är tillgängliga med en Creative Commons Erkännande-licens (CC-BY). SALDO kan laddas ned både i de släppta versionerna och i en utvecklingsversion. Det finns även tillgängligt genom fyra webbtjänster: en inkrementell tjänst för fullformsuppslagning, ett böjningsverktyg, en sammansättningsanalysator, samt en experimentell semantisk visualisering. Webbtjänsterna uppdateras dagligen med den senaste utvecklingsversionen av SALDO. \n</p>\n\n<h2>Nedladdning</h2>\n\n<p>SALDO tillhandahålls under licensen<br /><a href=\"http://creativecommons.org/licenses/by/3.0/\"><img alt=\"Creative Commons BY\" style=\"border-width:0\" src=\"http://i.creativecommons.org/l/by/3.0/88x31.png\" /> </a>\n</p>\n\n<div id=\"version\"></div>\n\n<script type='text/javascript'>\nfunction version(v){\n document.getElementById('version').innerHTML = '<table border=\"1\"><tr><th>versionsnummer</th><th>ändringsdatum</th></tr><tr><td>' + v['version'] + '</td><td>' + v['date'] + '</td></tr></table>' ; \n}\n</script>\n<script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/version/json+version/'></script>\n\n<ul> \n <li>Dokumentation för sökgränssnittet: <a href=\"https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_instruktion.pdf\">saldo_instruktion.pdf</a> (2011-10-21)</li>\n<!--\n <li>Ladda ned utvecklingsversionen av <a href=\"https://spraakbanken.gu.se/sblex/resources#saldo\">SALDOs grundmaterial</a></li>\n <li>Ladda ned utvecklingsversionen av <a href=\"https://spraakbanken.gu.se/sblex/resources#saldom\">SALDOs morfologiska lexikon</a></a>\n-->\n <li>\n Ladda ned <a href=\"https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.3.tgz\">SALDO v2.3</a> (publicerad 2015-03-04)\n </li>\n <li>\n Ladda ned <a href=\"https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.0.tgz\">SALDO v2.0</a> (publicerad 2010-11-08)\n </li>\n <li>Ladda ned <a href=\"https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_1.0.tgz\">SALDO v1.0</a> (publicerad 2008-05-07).\n </li>\n</ul>\n\n<h2>Publikationer</h2>\n\n<h4>2013</h4>\n<p>{publication 188604}</p>\n\n<h4>2009</h4>\n\n<p>{publication 102212}</p>\n\n<h4>2008</h4>\n\n<p>{publication 72504}</p>\n\n<p>L. Borin, M. Forsberg, L. L&ouml;nngren. SALDO 1.0 (Svenskt associationslexikon version 2). Spr&aring;kbanken,\nG&ouml;teborgs universitet, 2008-05-07<br />\nDownload: <a href=\"https://spraakbanken.gu.se/personal/markus/publications/saldo_1.0.pdf\">saldo_1.0.pdf</a>\n</p>\n\n<h4>2005</h4>\n\n<p>{publication 33865}</p>\n \n<!--\n<h2>Licens</h2>\n\n<p>\nResursen sprids under friprogramvarulicensen\n<a href=\"http://www.gnu.org/licenses/lgpl.html\">LGPL 3.0</a> eller\n<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/2.5\">\nCreative Commons Erkännande 2.5 Generisk</a>.\n </p>\n-->\n",

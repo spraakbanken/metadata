@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Sakprosa 1700–1749",
+    "eng": "Non-fiction 1700–1749"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "84220",
+    "sentences": "5011"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1700-1749.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "84220",
-    "sentences": "5011"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Sakprosa 1700–1749",
-    "eng": "Non-fiction 1700–1749"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   }
 }

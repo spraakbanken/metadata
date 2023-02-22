@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Konstruktikon",
+    "eng": "Constructicon"
+  },
+  "short_description": {
+    "swe": "Ett svenskt konstruktikon",
+    "eng": "A Swedish Constructicon"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "441"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon/konstruktikon.xml",
@@ -28,20 +44,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "441"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Konstruktikon",
-    "eng": "Constructicon"
-  },
-  "short_description": {
-    "swe": "Ett svenskt konstruktikon",
-    "eng": "A Swedish Constructicon"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb/fnplusplus/pub/constructicon/sv_constructicon_info.txt}\n\n<p>\nMer information finns på <a href=\"http://spraakbanken.gu.se/swe/swecxn\">projektsidan</a>.\n</p>\n<p>\n<a href=\"konstruktikon/utvecklingsversion\">Utvecklingsversion</a>\n</p>\n",

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SVT nyheter 2022",
+    "eng": "SVT news 2022"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från svt.se",
+    "eng": "News texts from svt.se"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "13993693",
+    "sentences": "912273"
+  },
   "in_collections": [
     "svt"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "13993693",
-    "sentences": "912273"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SVT nyheter 2022",
-    "eng": "SVT news 2022"
-  },
-  "short_description": {
-    "swe": "Nyhetstexter från svt.se",
-    "eng": "News texts from svt.se"
   }
 }

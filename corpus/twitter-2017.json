@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svensk Twitter 2017",
+    "eng": "Swedish Twitter 2017"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
+    "eng": "Material collected from a selection of Swedish speaking twitter users from 2017"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "505017012",
+    "sentences": "49022194"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-2017.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "505017012",
-    "sentences": "49022194"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk Twitter 2017",
-    "eng": "Swedish Twitter 2017"
-  },
-  "short_description": {
-    "swe": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
-    "eng": "Material collected from a selection of Swedish speaking twitter users from 2017"
   }
 }

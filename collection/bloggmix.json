@@ -1,6 +1,15 @@
 {
+  "name": {
+    "swe": "Bloggmix",
+    "eng": "Blog mix"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
   "resources": [
     "bloggmix1998",
@@ -25,6 +34,11 @@
     "bloggmix2017",
     "bloggmixodat"
   ],
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.gp",
@@ -41,17 +55,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bloggmix",
-    "eng": "Blog mix"
-  },
-  "short_description": {
-    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
-    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",

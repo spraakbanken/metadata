@@ -1,6 +1,19 @@
 {
+  "name": {
+    "swe": "Dependensparsningsmodell: Stanza",
+    "eng": "Dependency parsing model: Stanza"
+  },
+  "short_description": {
+    "swe": "Förtränade modeller för dependensparsning.",
+    "eng": "Pretrained models for dependency parsing."
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/synt_stanza_eval.zip",
@@ -39,18 +52,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Dependensparsningsmodell: Stanza",
-    "eng": "Dependency parsing model: Stanza"
-  },
-  "short_description": {
-    "swe": "Förtränade modeller för dependensparsning.",
-    "eng": "Pretrained models for dependency parsing."
   },
   "description": {
     "swe": "",

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Suugaan 2",
+    "eng": "Suugaan 2"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "2827328",
+    "sentences": "151099"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -29,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "2827328",
-    "sentences": "151099"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Suugaan 2",
-    "eng": "Suugaan 2"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SweSAT Högskoleprovet ordförståelse",
+    "eng": "SweSAT Swedish Scholastic Aptitude Test Synonyms"
+  },
+  "short_description": {
+    "swe": "Högskoleprovet ordförståelse",
+    "eng": "Swedish Scholastic Aptitude Test Synonyms"
+  },
   "type": "lexicon",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "782"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt",
@@ -30,20 +46,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "782"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweSAT Högskoleprovet ordförståelse",
-    "eng": "SweSAT Swedish Scholastic Aptitude Test Synonyms"
-  },
-  "short_description": {
-    "swe": "Högskoleprovet ordförståelse",
-    "eng": "Swedish Scholastic Aptitude Test Synonyms"
   },
   "description": {
     "swe": "",

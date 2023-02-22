@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Swedbergs Swensk ordabok (morfologi, f.n. rudimentär)",
+    "eng": "Swedberg's Swensk Ordabok (morphology, rudimentary)"
+  },
+  "short_description": {
+    "swe": "Swedbergs Swensk Ordabok (morfologi, f.n. rudimentär)",
+    "eng": "Swedberg's Swensk Ordabok (morphology, rudimentary)"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "17565"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swedbergm/swedbergm.xml",
@@ -28,19 +44,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "17565"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Swedbergs Swensk ordabok (morfologi, f.n. rudimentär)",
-    "eng": "Swedberg's Swensk Ordabok (morphology, rudimentary)"
-  },
-  "short_description": {
-    "swe": "Swedbergs Swensk Ordabok (morfologi, f.n. rudimentär)",
-    "eng": "Swedberg's Swensk Ordabok (morphology, rudimentary)"
   }
 }

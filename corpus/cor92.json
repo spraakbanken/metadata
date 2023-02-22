@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Corpus Oral de Referencia del Español Contemporáneo (SOL)",
+    "eng": "Corpus Oral de Referencia del Español Contemporáneo (SOL)"
+  },
+  "short_description": {
+    "swe": "Del av SOL - Spanska Online",
+    "eng": "Part of SOL - Spanish Online"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "spa"
+  ],
+  "size": {
+    "tokens": "1200830",
+    "sentences": "0"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/cor92.xml.bz2",
@@ -43,20 +60,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1200830",
-    "sentences": "0"
-  },
-  "language_codes": [
-    "spa"
-  ],
-  "name": {
-    "swe": "Corpus Oral de Referencia del Español Contemporáneo (SOL)",
-    "eng": "Corpus Oral de Referencia del Español Contemporáneo (SOL)"
-  },
-  "short_description": {
-    "swe": "Del av SOL - Spanska Online",
-    "eng": "Part of SOL - Spanish Online"
   }
 }

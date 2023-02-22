@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-rumänska",
+    "eng": "ASPAC – Swedish-Romanian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "ron"
+  ],
+  "size": {
+    "tokens": "93861",
+    "sentences": "7177"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvro-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "93861",
-    "sentences": "7177"
-  },
-  "language_codes": [
-    "swe",
-    "ron"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-rumänska",
-    "eng": "ASPAC – Swedish-Romanian"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ateneum 1898–1899",
+    "eng": "Ateneum 1898–1899"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "128856",
+    "sentences": "5232"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ATENEUM-1800TAL.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "128856",
-    "sentences": "5232"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ateneum 1898–1899",
-    "eng": "Ateneum 1898–1899"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   }
 }

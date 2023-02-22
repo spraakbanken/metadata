@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SUCX 2.0",
+    "eng": "SUCX 2.0"
+  },
+  "short_description": {
+    "swe": "Stockholm-Umeå-korpus 2.0 omkastad",
+    "eng": "Stockholm-Umeå corpus 2.0 scrambled"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1166593",
+    "sentences": "74243"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc2.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1166593",
-    "sentences": "74243"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SUCX 2.0",
-    "eng": "SUCX 2.0"
-  },
-  "short_description": {
-    "swe": "Stockholm-Umeå-korpus 2.0 omkastad",
-    "eng": "Stockholm-Umeå corpus 2.0 scrambled"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUCX 2.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_swe.html}\n",

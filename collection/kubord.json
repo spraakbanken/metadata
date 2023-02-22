@@ -1,6 +1,15 @@
 {
+  "name": {
+    "swe": "Kubord",
+    "eng": "Kubord"
+  },
+  "short_description": {
+    "swe": "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket",
+    "eng": "Word frequencies from modern newspaper texts from the National Library of Sweden"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
   "collection": true,
   "resources": [
     "kubord-dn-2000",
@@ -88,6 +97,11 @@
     "kubord-svd-2020",
     "kubord-svd-2021"
   ],
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
+  "downloads": [],
   "interface": [
     {
       "access": "https://spraakbanken.gu.se/korp/?mode=kubord",
@@ -104,16 +118,5 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Kubord",
-    "eng": "Kubord"
-  },
-  "short_description": {
-    "swe": "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket",
-    "eng": "Word frequencies from modern newspaper texts from the National Library of Sweden"
   }
 }

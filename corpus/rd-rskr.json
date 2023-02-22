@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - Riksdagsskrivelse",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Skrivelser från riksdagen till regeringen",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "236335",
+    "sentences": "40203"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "236335",
-    "sentences": "40203"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - Riksdagsskrivelse",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "Skrivelser från riksdagen till regeringen",
-    "eng": ""
   }
 }

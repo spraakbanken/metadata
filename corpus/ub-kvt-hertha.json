@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Hertha",
+    "eng": "Hertha"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Hertha",
+    "eng": "A corpus with texts from the women's newspaper Hertha"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "3842984",
+    "sentences": "291135"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-hertha.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "3842984",
-    "sentences": "291135"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Hertha",
-    "eng": "Hertha"
-  },
-  "short_description": {
-    "swe": "En korpus med texter från kvinnotidningen Hertha",
-    "eng": "A corpus with texts from the women's newspaper Hertha"
   }
 }

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SVT nyheter okänt datum",
+    "eng": "SVT news unknown date"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från svt.se",
+    "eng": "News texts from svt.se"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "36783",
+    "sentences": "2923"
+  },
   "in_collections": [
     "svt"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "36783",
-    "sentences": "2923"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SVT nyheter okänt datum",
-    "eng": "SVT news unknown date"
-  },
-  "short_description": {
-    "swe": "Nyhetstexter från svt.se",
-    "eng": "News texts from svt.se"
   }
 }

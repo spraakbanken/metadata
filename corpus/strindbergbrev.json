@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "August Strindbergs brev",
+    "eng": "August Strindberg's letters"
+  },
+  "short_description": {
+    "swe": "Del av August Strindbergs samlade verk",
+    "eng": "Part of the collected works of August Strindberg"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1507958",
+    "sentences": "138623"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/strindbergbrev.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1507958",
-    "sentences": "138623"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "August Strindbergs brev",
-    "eng": "August Strindberg's letters"
-  },
-  "short_description": {
-    "swe": "Del av August Strindbergs samlade verk",
-    "eng": "Part of the collected works of August Strindberg"
   },
   "description": {
     "swe": "<p>\nAugust Strindbergs brev sammanställdes av Kerstin Dahlbäck. De omfattar samtliga tryckta och otryckta brev som var tillgängliga 1 augusti 1991. Materialet är att betrakta som ett arbetsmaterial, då det ännu inte är tillfredsställande kontrollerat (korrekturfel kan inte uteslutas, de brev som kodats in direkt från handskrivet manuskript kan rymma feltolkningar och bör korrigeras, felaktigheter hos Eklund har visserligen rättats men en systematisk genomgång har inte företagits). Vidare har breven från de sista åren preliminära beteckningar och skall omnumreras i överensstämmelse med delarna XVII-XX i utgåvan av Augusts Strindbergs brev.\n</p>\n\n<!--\n<p>\nFör information om utgivningen av Samlade Verk, se <a href=\"http://www.littvet.su.se/strb/index.htm\">Strindbergsprojektets hemsida</a>. Se även <a href=\"http://k2xx.spraakdata.gu.se/strindberg/sbgsok.shtml\">frekvens- och ordförklaringssökning</a>.\n</p>\n-->\n",

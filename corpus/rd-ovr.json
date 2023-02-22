@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - Övrigt",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "21916385",
+    "sentences": "1775009"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "21916385",
-    "sentences": "1775009"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - Övrigt",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag",
-    "eng": ""
   }
 }

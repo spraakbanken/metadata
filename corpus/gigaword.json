@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "The Swedish Culturomics Gigaword Corpus",
+    "eng": "The Swedish Culturomics Gigaword Corpus"
+  },
+  "short_description": {
+    "swe": "En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
+    "eng": "One billion Swedish words from 1950 and onwards. Code to extract data from the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1015635151",
+    "sentences": "59736642"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1950-59.tar",
@@ -75,21 +92,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1015635151",
-    "sentences": "59736642"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "The Swedish Culturomics Gigaword Corpus",
-    "eng": "The Swedish Culturomics Gigaword Corpus"
-  },
-  "short_description": {
-    "swe": "En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/",
-    "eng": "One billion Swedish words from 1950 and onwards. Code to extract data from the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/"
   },
   "description": {
     "swe": "<p>En miljard ord ur svenska korpusar från 1950 och framåt.</p>\n\n<p>Vänligen använd följande artikel som referens för datasetet:<br/>\nStian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>\n<a href=\"https://spraakbanken.gu.se/publication/19894/bibtex\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png\" /></a>\n<a href=\"http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf\"><img src=\"https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png\" /></a></p>\n\n<p>Kod för att extrahera data från korpusen, samt\n användningsinstruktioner, kan laddas ner från\n <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/\">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}\n",

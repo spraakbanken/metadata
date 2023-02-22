@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "sv-COVID-19",
+    "eng": "sv-COVID-19"
+  },
+  "short_description": {
+    "swe": "Blandade artiklar relaterade till corona.",
+    "eng": "Miscellaneous articles related to corona."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "7777898",
+    "sentences": "468460"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/sv-covid-19.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "7777898",
-    "sentences": "468460"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "sv-COVID-19",
-    "eng": "sv-COVID-19"
-  },
-  "short_description": {
-    "swe": "Blandade artiklar relaterade till corona.",
-    "eng": "Miscellaneous articles related to corona."
   }
 }

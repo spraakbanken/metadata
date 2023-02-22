@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "TalbankenSBX",
+    "eng": "TalbankenSBX"
+  },
+  "short_description": {
+    "swe": "Talbanken är en svensk trädbank. Detta är Språkbanken Texts version av Talbanken.",
+    "eng": "Talbanken is a Swedish treebank. This is the Språkbanken Text version of Talbanken."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "96346",
+    "sentences": "6160"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/talbanken.xml.bz2",
@@ -64,21 +81,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "96346",
-    "sentences": "6160"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "TalbankenSBX",
-    "eng": "TalbankenSBX"
-  },
-  "short_description": {
-    "swe": "Talbanken är en svensk trädbank. Detta är Språkbanken Texts version av Talbanken.",
-    "eng": "Talbanken is a Swedish treebank. This is the Språkbanken Text version of Talbanken."
   },
   "description": {
     "swe": "",

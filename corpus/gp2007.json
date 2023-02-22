@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "GP 2007",
+    "eng": "GP 2007"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från Göteborgsposten",
+    "eng": "A corpus with texts from Göteborgsposten"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "18604742",
+    "sentences": "1167927"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2007.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "18604742",
-    "sentences": "1167927"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "GP 2007",
-    "eng": "GP 2007"
-  },
-  "short_description": {
-    "swe": "En korpus med texter från Göteborgsposten",
-    "eng": "A corpus with texts from Göteborgsposten"
   }
 }

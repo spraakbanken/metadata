@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - KOM",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "44678107",
+    "sentences": "4785808"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "44678107",
-    "sentences": "4785808"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - KOM",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument",
-    "eng": ""
   }
 }

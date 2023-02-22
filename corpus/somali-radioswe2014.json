@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Raadiyaha Iswiidhan 2014",
+    "eng": "Raadiyaha Iswiidhan 2014"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "235911",
+    "sentences": "13784"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-radioswe2014.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "235911",
-    "sentences": "13784"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Raadiyaha Iswiidhan 2014",
-    "eng": "Raadiyaha Iswiidhan 2014"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

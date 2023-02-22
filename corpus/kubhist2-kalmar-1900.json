@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Kalmar 1900-talet",
+    "eng": "Kalmar 1900's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "32782996",
+    "sentences": "2667173"
+  },
   "in_collections": [
     "kubhist2"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "32782996",
-    "sentences": "2667173"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Kalmar 1900-talet",
-    "eng": "Kalmar 1900's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist2",
-    "eng": "Part of the collection Kubhist2"
   }
 }

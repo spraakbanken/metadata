@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - Statens offentliga utredningar",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Olika utredningars förslag till regeringen",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "273083646",
+    "sentences": "21158995"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "273083646",
-    "sentences": "21158995"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - Statens offentliga utredningar",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "Olika utredningars förslag till regeringen",
-    "eng": ""
   }
 }

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Webbnyheter 2013",
+    "eng": "Web News 2013"
+  },
+  "short_description": {
+    "swe": "Nyheter från svenska dagstidningars webbplatser",
+    "eng": "News from Swedish newspapers' websites"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "22648638",
+    "sentences": "1303258"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -38,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "22648638",
-    "sentences": "1303258"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Webbnyheter 2013",
-    "eng": "Web News 2013"
-  },
-  "short_description": {
-    "swe": "Nyheter från svenska dagstidningars webbplatser",
-    "eng": "News from Swedish newspapers' websites"
   }
 }

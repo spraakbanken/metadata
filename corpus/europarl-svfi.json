@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "Europarl – svenska-finska",
+    "eng": "Europarl – Swedish-Finnish"
+  },
+  "short_description": {
+    "swe": "Del av European Parliament Proceedings Parallel Corpus",
+    "eng": "Part of European Parliament Proceedings Parallel Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "fin"
+  ],
+  "size": {
+    "tokens": "59633364",
+    "sentences": "2872696"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "59633364",
-    "sentences": "2872696"
-  },
-  "language_codes": [
-    "swe",
-    "fin"
-  ],
-  "name": {
-    "swe": "Europarl – svenska-finska",
-    "eng": "Europarl – Swedish-Finnish"
-  },
-  "short_description": {
-    "swe": "Del av European Parliament Proceedings Parallel Corpus",
-    "eng": "Part of European Parliament Proceedings Parallel Corpus"
   }
 }

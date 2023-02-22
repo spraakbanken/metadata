@@ -1,7 +1,25 @@
 {
+  "name": {
+    "swe": "SweDiagnostics",
+    "eng": "SweDiagnostics"
+  },
+  "short_description": {
+    "swe": "Svenska versionen av (Super)GLUE diagnostik",
+    "eng": "Swedish version (Super)GLUE Diagnostic "
+  },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
+  "language_codes": [
+    "swe",
+    "eng"
+  ],
+  "size": {
+    "entries": "1106"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv",
@@ -22,24 +40,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "1106"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe",
-    "eng"
-  ],
-  "name": {
-    "swe": "SweDiagnostics",
-    "eng": "SweDiagnostics"
-  },
-  "short_description": {
-    "swe": "Svenska versionen av (Super)GLUE diagnostik",
-    "eng": "Swedish version (Super)GLUE Diagnostic "
   },
   "description": {
     "swe": "\n<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"></head><body><p>\nSuperGLUE diagnostik på svenska.\n</p>\n\n<p>\nFärdig preliminär översättning av SuperGLUE diagnostik. Datan innehåller alla ursprungliga annoterade satspar från SuperGLUE tillsammans med deras svenska översättningar.\n</p>\n\n<p>\nLicense: Creative Commons CC-BY 4.0 International <http: creativecommons.org=\"\" licenses=\"\" by=\"\" 4.0=\"\"> (please refer to Språkbanken, University of Gothenburg, Sweden).\n</http:></p>\n\n<table style=\"widht:100%;\">\n    <tr>\n      \n      <td>I. IDENTIFYING INFORMATION</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Title*</td>\n      <td>SweDiagnostics</td>\n    </tr>\n    <tr>\n      \n      <td>Subtitle</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Created by*</td>\n      <td>Felix Morger, Gothenburg University (felix.morger@gu.se)</td>\n    </tr>\n    <tr>\n      \n      <td>Publisher(s)*</td>\n      <td>Språkbanken Text (sb-info@svenska.gu.se)</td>\n    </tr>\n    <tr>\n      \n      <td>Link(s) / permanent identifier(s)*</td>\n      <td>https://spraakbanken.gu.se/en/resources/superlim</td>\n    </tr>\n    <tr>\n      \n      <td>License(s)*</td>\n      <td>CC BY 4.0</td>\n    </tr>\n    <tr>\n      \n      <td>Abstract*</td>\n      <td>Manual Swedish translation of all 1106 sentence pairs of the SuperGLUE diagnostic dataset.</td>\n    </tr>\n    <tr>\n      \n      <td>Funded by*</td>\n      <td>Vinnova (grant no. 2020-02523)</td>\n    </tr>\n    <tr>\n      \n      <td>Cite as</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Related datasets</td>\n      <td>SuperLim, SuperGLUE diagnostic dataset, FraCaS test suite</td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>II. USAGE</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Key applications</td>\n      <td>Fine-grained analysis of system performance on a broad range of linguistic phenomena.</td>\n    </tr>\n    <tr>\n      \n      <td>Intended task(s)/usage(s)</td>\n      <td>Natural language inference.</td>\n    </tr>\n    <tr>\n      \n      <td>Recommended evaluation measures</td>\n      <td>Matthew's correlation coefficient.</td>\n    </tr>\n    <tr>\n      \n      <td>Dataset function(s)</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Recommended split(s)</td>\n      <td>No split.</td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>III. DATA</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Primary data*</td>\n      <td>Text</td>\n    </tr>\n    <tr>\n      \n      <td>Language*</td>\n      <td>Swedish</td>\n    </tr>\n    <tr>\n      \n      <td>Dataset in numbers*</td>\n      <td>1106</td>\n    </tr>\n    <tr>\n      \n      <td>Nature of the content*</td>\n      <td>Pairs of sentences annotated according with their inference relation and the linguistic phenomena that account for their differencs</td>\n    </tr>\n    <tr>\n      \n      <td>Format*</td>\n      <td>Comma-separated</td>\n    </tr>\n    <tr>\n      \n      <td>Data source(s)*</td>\n      <td>SuperGLUE Diagnostic Dataset: Pruksachatkun, Yada &amp; Nangia, Nikita &amp; Singh, Amanpreet &amp; Michael, Julian &amp; Hill, Felix &amp; Levy, Omer &amp; Bowman, Samuel. (2019). SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems.</td>\n    </tr>\n    <tr>\n      \n      <td>Data collection method(s)*</td>\n      <td>See original source.</td>\n    </tr>\n    <tr>\n      \n      <td>Data selection and filtering*</td>\n      <td>See original source.</td>\n    </tr>\n    <tr>\n      \n      <td>Data preprocessing*</td>\n      <td>See original source.</td>\n    </tr>\n    <tr>\n      \n      <td>Data labeling*</td>\n      <td>Some data labels (annotations) were changed to fit with Swedish example, but in general the aim was to keep such changes to a minimum.</td>\n    </tr>\n    <tr>\n      \n      <td>Annotator characteristics</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>IV. ETHICS AND CAVEATS</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Ethical considerations</td>\n      <td>See original data source.</td>\n    </tr>\n    <tr>\n      \n      <td>Things to watch out for</td>\n      <td>See original data source.</td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>V. ABOUT DOCUMENTATION</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Data last updated*</td>\n      <td>2021-06-04, v1.0</td>\n    </tr>\n    <tr>\n      \n      <td>Which changes have been made, compared to the previous version*</td>\n      <td>Full translation coverage.</td>\n    </tr>\n    <tr>\n      \n      <td>Access to previous versions</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>This document created*</td>\n      <td>2021-06-04, Felix Morger.</td>\n    </tr>\n    <tr>\n      \n      <td>This document last updated*</td>\n      <td>2021-06-04, Felix Morger.</td>\n    </tr>\n    <tr>\n      \n      <td>Where to look for further details</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Documentation template version*</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>VI. OTHER</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>Related projects</td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      \n      <td>References</td>\n      <td></td>\n    </tr>\n</table>\n\n</body></html>\n",

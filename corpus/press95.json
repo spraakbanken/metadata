@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Press 95",
+    "eng": "Press 95"
+  },
+  "short_description": {
+    "swe": "Svensk press 1995",
+    "eng": "Swedish press 1995"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "7671700",
+    "sentences": "505815"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/press95.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "7671700",
-    "sentences": "505815"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Press 95",
-    "eng": "Press 95"
-  },
-  "short_description": {
-    "swe": "Svensk press 1995",
-    "eng": "Swedish press 1995"
   },
   "description": {
     "swe": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n<ul>\n<li>6 (6 feb-12 feb)</li>\n<li>20 (15 maj-21 maj)</li>\n<li>34 (21 aug-27 aug)</li>\n<li>48 (27 nov-3 dec)</li>\n</ul>\n</p>\n\n<p>\nIngående tidningar är <B>Arbetet, Dagens Nyheter, Göteborgs-Posten, Svenska Dagbladet och\nSydsvenskan</B>. Arbetet och Sydsvenskan saknas dock från den fjärde perioden.\n</p>\n<p>\nVi tackar tidningarna som hela tiden bemött oss mycket\nvänligt och som, trots det extraarbete som våra önskemål\nmedfört för dem, inte tvekat att ställa upp.\n</p>\n\n<p>Göteborg i mars 1997.</p>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",

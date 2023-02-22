@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Idun",
+    "eng": "Idun"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Idun",
+    "eng": "A corpus with texts from the women's newspaper Idun"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "44944172",
+    "sentences": "2011318"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-idun.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "44944172",
-    "sentences": "2011318"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Idun",
-    "eng": "Idun"
-  },
-  "short_description": {
-    "swe": "En korpus med texter från kvinnotidningen Idun",
-    "eng": "A corpus with texts from the women's newspaper Idun"
   }
 }

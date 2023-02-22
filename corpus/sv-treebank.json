@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Svensk trädbank",
+    "eng": "Swedish treebank"
+  },
+  "short_description": {
+    "swe": "En svensk trädbank med återanvändning av existerande resurser",
+    "eng": "A Swedish treebank built from recycled language resources"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "0"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [],
   "contact_info": {
@@ -11,20 +27,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "0"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk trädbank",
-    "eng": "Swedish treebank"
-  },
-  "short_description": {
-    "swe": "En svensk trädbank med återanvändning av existerande resurser",
-    "eng": "A Swedish treebank built from recycled language resources"
   },
   "description": {
     "swe": "<script language=\"JavaScript\">\nfunction kontakt(sprk) {\n    var lbhost = \"http://litteraturbanken.se\";\n    var host = \"http://spraakbanken.gu.se\";\n    var baseuri = host + \"/stb\";\n    if (!top.kontaktF || top.kontaktF.closed){\n\tvar wi = 800;\n\tvar he = 600;\n\tvar sw = 100;\n\tvar params = sprk == \"eng\" ?\n\t    \"&name=Your%20name&email=Your%20email%20address&message=Your%20message&send=Send&cancel=Cancel%20and%20close&lang=eng\" :\n\t    \"&name=Ditt%20namn&email=Din%20e-postadress&message=Ditt%20meddelande&send=Skicka&cancel=Avbryt%20och%20st%C3%A4ng&lang=swe\";\n\tvar url = baseuri + \"/app/stb-kontakt.phtml?machine=\" + lbhost + params;\n\ttop.kontaktF=window.open(url,\"kontaktF\",\",status=0,width=\"+wi+\",height=\"+he+\",screenX=\"+sw+\",left=\"+sw+\",screenY=200,top=200,dependent=no,resizable=yes,scrollbars=yes\");\n    } else {\n\ttop.kontaktF.focus();\n    }\n}\n\n</script>\n\t     <h3>En svensk trädbank med återanvändning av existerande resurser</h3>\n\n\t     <img src=\"/sites/spraakbanken.gu.se/files/img/stb/tack.png\" width=\"380\" height=\"180\" alt=\"SUC-träd\" class=\"right photo\" />\n\t     <p>Den svenska trädbanken\n\t       är resultatet av ett arbete som har utförts av forskare vid universiteten i \n\t       Uppsala (<a href=\"http://stp.lingfil.uu.se/\">Datorlingvistik, Institutionen för lingvistik och filologi</a>) och Växjö \n\t       (<a href=\"http://cs.msi.vxu.se/competences.php/id=20\">Språkteknologigruppen vid \n\t\t Matematiska och systemtekniska institutionen</a>). Trädbanken är resultatet av en harmonisering \n\t       av den lingvistiska informationen i två befintliga \n\t       svenska språkresurser:</p>\n\t     <p>&nbsp;</p>\n\t     <ol>\n\n\t       <li><strong>Talbanken</strong>, en korpus med svenskt skriftspråk och transkriberat \n\t\t talspråk från 1970-talet, som är försedd med manuellt utförda syntaktiska analyser \n\t\t enligt en traditionell nordistisk modell (en slags utvidgad fältanalys à la \n\t\t Diderichsen)</li>\n\t       <li><strong>SUC</strong> (Stockholm Umeå Corpus), en morfosyntaktiskt analyserad \n\t\t (försedd med ordklassetiketter och grundformer på alla korpusens ord) balanserad \n\t\t korpus över publicerat svenskt skriftspråk från 1990-talet</li>\n\t     </ol>\n\t     <p>I korthet har harmoniseringen gått till så att Talbanken försetts med SUC:s \n\t       ordklassetiketter i en halvautomatisk process, och både Talbanken och SUC har \n\t       försetts med en frasstrukturversion av Talbankens syntaktiska annotation. \n\t       Den senare processen har varit helautomatisk, vilket innebär att man kan \n\t       förvänta sig felaktigheter i den syntaktiska annotationen, särskilt i SUC-korpusen. \n\t       En preliminär utvärdering av annotationen presenterad vid \n\t       <a href=\"http://stp.lingfil.uu.se/~bea/sltc-treebank/\">en workshop i samband med \n\t\t SLTC 2008</a> visar att den syntaktiska annotationen ändå är till mycket god hjälp vid \n\t       korpuslingvistiska undersökningar.</p>\n\n\n\t     <h2>Format, licens och distribution</h2>\n\t     <h3>Format</h3>\n\t     <p>Den svenska trädbanken distribueras i ett format som kallas TIGER-XML, så att den \n\t       ska kunna användas med det fritt tillgängliga sökverktyget TIGERSearch, som kan \n\t       laddas ner \n\t       från <a href=\"http://www.ims.uni-stuttgart.de/projekte/TIGER/TIGERSearch/\">Institut \n\t\t für Maschinelle Sprachverarbeitung</a> vid universitetet i Stuttgart.</p>\n\n\n\t     <h3>Licens</h3>\n\t     <p><strong>Trädbanksdelen</strong> - d.v.s. de nytillagda syntaktiska annotationerna - av \n\t       den svenska trädbanken är helt fri, med en öppen källkodslicens.</p> \n\t     <p><strong>Talbanken</strong> är fritt tillgänglig för forskning och undervisning. Den kan laddas ned <a href=\"https://spraakbanken.gu.se/resources/talbanken-stb\">här</a></p>\n\n\t     <p><strong>SUC</strong> kräver att varje användare tecknar en individuell licens med \n\t       Institutionen för lingvistik vid Stockholms universitet. Från och med den 1/12 2008 \n\t       är licensieringen \n\t       av SUC delegerad till Språkbanken vid Göteborgs universitet. SUC-licensavtalet kan laddas \n\t       ner <a href=\"https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf\">i pdf-format här</a>. Läs mer om SUC2 och SUC3 <a href=\"https://spraakbanken.gu.se/resources/suc3\">här</a></p>\n\t     <p>För att erhålla SUC (och därmed den svenska trädbanken) behöver du skriva ut och skriva under\n\t       licensavtalet och sedan skicka det till</p>\n\t     <p><strong>\n\t\t SUC-licens<br />\n\t\t Språkbanken<br />\n\n\t\t Institutionen för svenska, flerspråkighet och språkteknologi<br />\n\t\t Göteborgs universitet<br />\n\t\t Box 200<br />\n\t\t 405 30 Göteborg\n\t     </strong></p>\n\n\n\t     <p>Därefter återkommer vi per epost med nerladdningsinstruktioner.</p>\n\n\t     <h3>Distribution</h3>\n\t     <p>Den svenska trädbanken distribueras av Språkbanken. Se instruktioner i föregående \n\t       avsnitt eller kontakta oss för mer information genom att använda detta \n\t       <a href=\"javascript:kontakt('swe')\">kontaktformulär</a>.</p> \n\n\t     <p class=\"box\">Den som redan har skrivit \n\t       på en SUC-licens får direkt nedladdningsadress och lösenord från oss. \n\t       Använd <a href=\"javascript:kontakt('swe')\">kontaktformuläret</a>. Övriga behöver först \n\t       skriva under ett licensavtal för SUC (se ovan).</p>\n\n\t\t <h2>Referenser</h2>\n\n         <p>Om du vill citera Svensk trädbank i en artikel rekommenderar vi att du använder följande referens:\n\n\t\t   <ul>\n\t\t\t <li>Joakim Nivre, Beáta Megyesi, Sofia Gustafson-Capková, Filip Salomonsson and Bengt Dahlqvist (2008) Cultivating a Swedish Treebank\n\t\t\t   In: Nivre, Dahllöf, and Megyesi (Eds), <i>Resourceful Language Technology: Festschrift in Honor of Anna Sågvall Hein</i>, pp111–120.\n\t\t\t   Uppsala: Acta Universitatis Upsaliensis.\n\t\t\t   <a href=\"http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933\">http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933</a>\n\t\t\t </li>\n\t\t   </ul>\n\n\t\t   Ange gärna den här sidan på Språkbanken som nedladdningssajt.\n</p>\n\n</div>\n",

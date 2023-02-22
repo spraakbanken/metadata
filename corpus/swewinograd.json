@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "SweWinograd",
+    "eng": "SweWinograd"
+  },
+  "short_description": {
+    "swe": "En svensk utvärderingsmängd för pronomentolkning.",
+    "eng": "A Swedish test set for pronoun resolution."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "items": "624"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://demo.spraakbanken.gu.se/gerlof/SweWinograd/swewinograd.jsonl.gz",
@@ -30,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "items": "624"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweWinograd",
-    "eng": "SweWinograd"
-  },
-  "short_description": {
-    "swe": "En svensk utvärderingsmängd för pronomentolkning.",
-    "eng": "A Swedish test set for pronoun resolution."
   },
   "description": {
     "swe": "",

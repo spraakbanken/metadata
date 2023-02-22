@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "August Strindbergs romaner",
+    "eng": "August Strindberg's novels"
+  },
+  "short_description": {
+    "swe": "Del av August Strindbergs samlade verk",
+    "eng": "Part of the collected works of August Strindberg"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "4309037",
+    "sentences": "321759"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/strindbergromaner.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "4309037",
-    "sentences": "321759"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "August Strindbergs romaner",
-    "eng": "August Strindberg's novels"
-  },
-  "short_description": {
-    "swe": "Del av August Strindbergs samlade verk",
-    "eng": "Part of the collected works of August Strindberg"
   },
   "description": {
     "swe": "<p>\nAugust Strindbergs romaner och dramer har utgivits som Nationalupplagan av August Strindbergs samlade verk av Stockholms universitet och Norstedts.\n</p>\n\n<p>\nMaterialet i databaserna är ej korrekturläst av utgivarna, smärre felaktigheter och avvikelser från de tryckta volymerna kan därför förekomma. För mer information om utgivningen av Samlade Verk, se <a href=\"http://www.littvet.su.se/strb/index.htm\">Strindbergsprojektets hemsida</a>. Se även <a href=\"http://k2xx.spraakdata.gu.se/strindberg/sbgsok.shtml\">frekvens- och ordförklaringssökning</a>.\n</p>\n",

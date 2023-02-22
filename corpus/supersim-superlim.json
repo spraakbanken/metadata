@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "SuperSim (paketterat för Superlim)",
+    "eng": "SuperSim (repackaged for Superlim)"
+  },
+  "short_description": {
+    "swe": "En test mängd för betydelsemässig likhet och koppling mellan svenska ord.",
+    "eng": "A test set for word similarity and relatedness in Swedish"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "items": "624"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip",
@@ -30,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "items": "624"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SuperSim (paketterat för Superlim)",
-    "eng": "SuperSim (repackaged for Superlim)"
-  },
-  "short_description": {
-    "swe": "En test mängd för betydelsemässig likhet och koppling mellan svenska ord.",
-    "eng": "A test set for word similarity and relatedness in Swedish"
   },
   "description": {
     "swe": "",

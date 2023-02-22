@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Typograftidning 1889–1890",
+    "eng": "Typograftidning 1889–1890"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "63394",
+    "sentences": "2995"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TYPOGRAFTIDNING.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "63394",
-    "sentences": "2995"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Typograftidning 1889–1890",
-    "eng": "Typograftidning 1889–1890"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   }
 }

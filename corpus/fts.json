@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "FTS - Färöisk textsamling",
+    "eng": "FTS - Faroese text collection"
+  },
+  "short_description": {
+    "swe": "Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/",
+    "eng": "Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "fao"
+  ],
+  "size": {
+    "tokens": "1142289"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2",
@@ -34,19 +50,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1142289"
-  },
-  "language_codes": [
-    "fao"
-  ],
-  "name": {
-    "swe": "FTS - Färöisk textsamling",
-    "eng": "FTS - Faroese text collection"
-  },
-  "short_description": {
-    "swe": "Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/",
-    "eng": "Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/"
   }
 }

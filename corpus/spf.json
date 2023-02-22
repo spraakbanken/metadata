@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svensk prosafiktion 1800–1900",
+    "eng": "Swedish Prose Fiction 1800–1900"
+  },
+  "short_description": {
+    "swe": "All svensk skönlitteratur som trycktes första gången åren 1800, 1820, 1840, 1860, 1880 och 1900",
+    "eng": "All Swedish fiction published for the first time during the years 1800, 1820, 1840, 1860, 1880 and 1900"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "16275130",
+    "sentences": "750965"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/spf.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "16275130",
-    "sentences": "750965"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk prosafiktion 1800–1900",
-    "eng": "Swedish Prose Fiction 1800–1900"
-  },
-  "short_description": {
-    "swe": "All svensk skönlitteratur som trycktes första gången åren 1800, 1820, 1840, 1860, 1880 och 1900",
-    "eng": "All Swedish fiction published for the first time during the years 1800, 1820, 1840, 1860, 1880 and 1900"
   }
 }

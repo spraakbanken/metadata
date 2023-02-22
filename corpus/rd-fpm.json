@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - Faktapromemoria",
+    "eng": null
+  },
+  "short_description": {
+    "swe": "Regeringens faktapromemorior om EU-kommissionens förslag",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "3373261",
+    "sentences": "216685"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "3373261",
-    "sentences": "216685"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - Faktapromemoria",
-    "eng": null
-  },
-  "short_description": {
-    "swe": "Regeringens faktapromemorior om EU-kommissionens förslag",
-    "eng": ""
   }
 }

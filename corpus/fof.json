@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Forskning & Framsteg",
+    "eng": "Forskning & Framsteg"
+  },
+  "short_description": {
+    "swe": "En korpus av populärvetenskapliga artiklar från Forskning & Framsteg",
+    "eng": "A corpus of popular science articles from Forskning & Framsteg"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "743831",
+    "sentences": "44533"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/fof.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "743831",
-    "sentences": "44533"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Forskning & Framsteg",
-    "eng": "Forskning & Framsteg"
-  },
-  "short_description": {
-    "swe": "En korpus av populärvetenskapliga artiklar från Forskning & Framsteg",
-    "eng": "A corpus of popular science articles from Forskning & Framsteg"
   },
   "description": {
     "swe": "<p>\nArtiklar från tidskriften <B>Forskning &amp; Framsteg</B>, \nnummer 7, 1992 till och med nummer 8, 1996. \n</p>\n<p>\nMaterialet i konkordansen över Forskning &amp; Framsteg\när inte helt identiskt med det som publicerats i\npappersutgåvan beroende på att vissa ändringar har\nutförts i senare produktionsled. Dessutom finns enstaka\nartiklar i konkordansen som inte alls publicerats eller som\nkommit att publiceras i ett senare nummer av tidskriften \nän vad som här anges. Vissa texter som tryckts\ni tidningen saknas i konkordansen.\n</p>\n<p>\nVi tackar Forskning &amp; Framsteg för det alltid\nlika vänliga tillmötesgåendet, år från år.\n</p>\n",

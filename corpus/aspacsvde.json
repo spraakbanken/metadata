@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-tyska",
+    "eng": "ASPAC – Swedish-German"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "deu"
+  ],
+  "size": {
+    "tokens": "1580660",
+    "sentences": "97542"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvde-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1580660",
-    "sentences": "97542"
-  },
-  "language_codes": [
-    "swe",
-    "deu"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-tyska",
-    "eng": "ASPAC – Swedish-German"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

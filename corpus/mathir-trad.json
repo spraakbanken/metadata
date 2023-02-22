@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "MAÞiR Träd",
+    "eng": "MAÞiR Trees"
+  },
+  "short_description": {
+    "swe": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
+    "eng": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. "
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "33721"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz",
@@ -21,19 +37,5 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "33721"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "MAÞiR Träd",
-    "eng": "MAÞiR Trees"
-  },
-  "short_description": {
-    "swe": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
-    "eng": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. "
   }
 }

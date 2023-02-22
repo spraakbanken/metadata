@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Twittermix",
+    "eng": "Twitter Mix"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish Twitter users. Is regularly updated."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "499986353",
+    "sentences": "52338086"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -29,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "499986353",
-    "sentences": "52338086"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Twittermix",
-    "eng": "Twitter Mix"
-  },
-  "short_description": {
-    "swe": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
-    "eng": "Material from a selection of Swedish Twitter users. Is regularly updated."
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Åkerbruk",
+    "eng": "Agriculture"
+  },
+  "short_description": {
+    "swe": "Handböcker om åkerbruk: \"Engelska Åker-Mannen\" och \"En Grundelig Kundskap Om Swenska Åkerbruket\"",
+    "eng": "Agricultural manuals: \"Engelska Åker-Mannen\" and \"En Grundelig Kundskap Om Swenska Åkerbruket\""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "90767",
+    "sentences": "3007"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/akerbruk.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "90767",
-    "sentences": "3007"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Åkerbruk",
-    "eng": "Agriculture"
-  },
-  "short_description": {
-    "swe": "Handböcker om åkerbruk: \"Engelska Åker-Mannen\" och \"En Grundelig Kundskap Om Swenska Åkerbruket\"",
-    "eng": "Agricultural manuals: \"Engelska Åker-Mannen\" and \"En Grundelig Kundskap Om Swenska Åkerbruket\""
   }
 }

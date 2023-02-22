@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "CoDeRooMor, v.01",
+    "eng": "CoDeRooMor, v.01"
+  },
+  "short_description": {
+    "swe": "Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet",
+    "eng": "Morphological dataset (word-building morphology), Swedish L2 profiles project, "
+  },
   "type": "lexicon",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "words": "16230",
+    "other": "4986"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv",
@@ -55,21 +72,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "words": "16230",
-    "other": "4986"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "CoDeRooMor, v.01",
-    "eng": "CoDeRooMor, v.01"
-  },
-  "short_description": {
-    "swe": "Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet",
-    "eng": "Morphological dataset (word-building morphology), Swedish L2 profiles project, "
   },
   "description": {
     "swe": "",

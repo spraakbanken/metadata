@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svensk Twitter 2015",
+    "eng": "Swedish Twitter 2015"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenskspråkiga Twitteranvändare från 2015",
+    "eng": "Material collected from a selection of Swedish speaking twitter users from 2015"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "412663140",
+    "sentences": "42280764"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-2015.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "412663140",
-    "sentences": "42280764"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk Twitter 2015",
-    "eng": "Swedish Twitter 2015"
-  },
-  "short_description": {
-    "swe": "Material från ett urval av svenskspråkiga Twitteranvändare från 2015",
-    "eng": "Material collected from a selection of Swedish speaking twitter users from 2015"
   }
 }

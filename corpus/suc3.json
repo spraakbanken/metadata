@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SUC 3.0",
+    "eng": "SUC 3.0"
+  },
+  "short_description": {
+    "swe": "Stockholm-Umeå-korpus 3.0",
+    "eng": "Stockholm-Umeå corpus 3.0"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1166593",
+    "sentences": "74245"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1166593",
-    "sentences": "74245"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SUC 3.0",
-    "eng": "SUC 3.0"
-  },
-  "short_description": {
-    "swe": "Stockholm-Umeå-korpus 3.0",
-    "eng": "Stockholm-Umeå corpus 3.0"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",

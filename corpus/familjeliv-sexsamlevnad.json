@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Familjeliv: Sex & samlevnad",
+    "eng": "Familjeliv: Sex & Relationships"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "165635620",
+    "sentences": "10837903"
+  },
   "in_collections": [
     "familjeliv"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "165635620",
-    "sentences": "10837903"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Familjeliv: Sex & samlevnad",
-    "eng": "Familjeliv: Sex & Relationships"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Familjeliv.",
-    "eng": "Material from the Familjeliv internet forum."
   }
 }

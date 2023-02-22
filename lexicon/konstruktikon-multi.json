@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Flerspråkigt Konstruktikon",
+    "eng": "Multilingual Constructicon"
+  },
+  "short_description": {
+    "swe": "Ett flerspråkigt konstruktikon",
+    "eng": "A multilingual constructicon"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "rus"
+  ],
+  "size": {
+    "entries": "740"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon-multi/konstruktikon-multi.xml",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "740"
-  },
-  "language_codes": [
-    "swe",
-    "rus"
-  ],
-  "name": {
-    "swe": "Flerspråkigt Konstruktikon",
-    "eng": "Multilingual Constructicon"
-  },
-  "short_description": {
-    "swe": "Ett flerspråkigt konstruktikon",
-    "eng": "A multilingual constructicon"
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Tidevarvet",
+    "eng": "Tidevarvet"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Tidevarvet",
+    "eng": "A corpus with texts from the women's newspaper Tidevarvet"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "6813909",
+    "sentences": "313752"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-tidevarvet.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "6813909",
-    "sentences": "313752"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Tidevarvet",
-    "eng": "Tidevarvet"
-  },
-  "short_description": {
-    "swe": "En korpus med texter från kvinnotidningen Tidevarvet",
-    "eng": "A corpus with texts from the women's newspaper Tidevarvet"
   }
 }

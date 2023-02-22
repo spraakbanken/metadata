@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Bonniersromaner I (1976/77)",
+    "eng": "Bonnier novels I (1976/77)"
+  },
+  "short_description": {
+    "swe": "En korpus av 69 Bonniersromaner från 1976-77",
+    "eng": "A corpus of 69 Bonnier novels from 1976-77"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "6578675",
+    "sentences": "462625"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/romi.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "6578675",
-    "sentences": "462625"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Bonniersromaner I (1976/77)",
-    "eng": "Bonnier novels I (1976/77)"
-  },
-  "short_description": {
-    "swe": "En korpus av 69 Bonniersromaner från 1976-77",
-    "eng": "A corpus of 69 Bonnier novels from 1976-77"
   }
 }

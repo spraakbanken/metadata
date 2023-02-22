@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Rösträtt för Kvinnor",
+    "eng": "Rösträtt för Kvinnor"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Rösträtt för Kvinnor",
+    "eng": "A corpus with texts from the women's newspaper Rösträtt för Kvinnor"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "2202776",
+    "sentences": "117961"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-rostratt.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "2202776",
-    "sentences": "117961"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Rösträtt för Kvinnor",
-    "eng": "Rösträtt för Kvinnor"
-  },
-  "short_description": {
-    "swe": "En korpus med texter från kvinnotidningen Rösträtt för Kvinnor",
-    "eng": "A corpus with texts from the women's newspaper Rösträtt för Kvinnor"
   }
 }

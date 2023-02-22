@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "SweWinogender",
+    "eng": "SweWinogender"
+  },
+  "short_description": {
+    "swe": "En svensk utvärderingsmängd för koreferens och könsbias.",
+    "eng": "A Swedish test set for coreference and gender bias."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "items": "624"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender.zip",
@@ -30,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "items": "624"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SweWinogender",
-    "eng": "SweWinogender"
-  },
-  "short_description": {
-    "swe": "En svensk utvärderingsmängd för koreferens och könsbias.",
-    "eng": "A Swedish test set for coreference and gender bias."
   },
   "description": {
     "swe": "",

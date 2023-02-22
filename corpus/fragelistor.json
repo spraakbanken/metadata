@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Etnologiska frågelistor",
+    "eng": "Ethnological question lists"
+  },
+  "short_description": {
+    "swe": "Nordiska museets etnologiska frågelistor",
+    "eng": "Question lists of the Nordic Museum"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "57606576",
+    "sentences": "4320485"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -29,20 +45,5 @@
       "organisation": "Nordiska museet",
       "email": "info@nordiskamuseet.se"
     }
-  },
-  "size": {
-    "tokens": "57606576",
-    "sentences": "4320485"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Etnologiska frågelistor",
-    "eng": "Ethnological question lists"
-  },
-  "short_description": {
-    "swe": "Nordiska museets etnologiska frågelistor",
-    "eng": "Question lists of the Nordic Museum"
   }
 }

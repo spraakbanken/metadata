@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-serbiska (kyrilliskt)",
+    "eng": "ASPAC – Swedish-Serbian (cyrillic)"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "sbc"
+  ],
+  "size": {
+    "tokens": "577094",
+    "sentences": "37212"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsbc-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "577094",
-    "sentences": "37212"
-  },
-  "language_codes": [
-    "swe",
-    "sbc"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-serbiska (kyrilliskt)",
-    "eng": "ASPAC – Swedish-Serbian (cyrillic)"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

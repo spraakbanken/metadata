@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Jubileumsarkivet (pilot)",
+    "eng": "Jubilee Archive (pilot)"
+  },
+  "short_description": {
+    "swe": "Delar av Göteborgs universitetsbiblioteks digitaliserade samling av tidningsklipp som handlar om Jubileumsutställningen i Göteborg 2023",
+    "eng": "Parts of the Gothenburg University Library's digitized collection of newspaper clippings about the Gothenburg Tercentennial Jubilee Exposition in 2023"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1293755",
+    "sentences": "76407"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -38,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1293755",
-    "sentences": "76407"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Jubileumsarkivet (pilot)",
-    "eng": "Jubilee Archive (pilot)"
-  },
-  "short_description": {
-    "swe": "Delar av Göteborgs universitetsbiblioteks digitaliserade samling av tidningsklipp som handlar om Jubileumsutställningen i Göteborg 2023",
-    "eng": "Parts of the Gothenburg University Library's digitized collection of newspaper clippings about the Gothenburg Tercentennial Jubilee Exposition in 2023"
   },
   "description": {
     "swe": "Korpusen har skapats inom projektet <a href=\"https://www.gu.se/forskning/jubileumsarkivet-inledande-inventering-digitalisering-och-analys-av-goteborgs-universitetsbiblioteks-samling-om-stadens-300-arsjubileum-1923\" target=\"_blank\">\n\"Jubileumsarkivet: Inledande inventering, digitalisering och analys av Göteborgs universitetsbiblioteks samling om stadens 300-årsjubileum 1923\"</a>.\n",

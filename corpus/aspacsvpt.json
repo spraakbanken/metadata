@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-portugisiska",
+    "eng": "ASPAC – Swedish-Portuguese"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "por"
+  ],
+  "size": {
+    "tokens": "270241",
+    "sentences": "14842"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvpt-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "270241",
-    "sentences": "14842"
-  },
-  "language_codes": [
-    "swe",
-    "por"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-portugisiska",
-    "eng": "ASPAC – Swedish-Portuguese"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

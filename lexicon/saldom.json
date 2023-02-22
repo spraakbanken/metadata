@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "SALDOs morfologi",
+    "eng": "SALDO's morphology"
+  },
+  "short_description": {
+    "swe": "Semantiskt och morfologiskt lexikon för språkteknologi",
+    "eng": "Semantic and morphological lexicon for language technology"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "128036"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldom/saldom.xml",
@@ -28,19 +44,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "128036"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SALDOs morfologi",
-    "eng": "SALDO's morphology"
-  },
-  "short_description": {
-    "swe": "Semantiskt och morfologiskt lexikon för språkteknologi",
-    "eng": "Semantic and morphological lexicon for language technology"
   }
 }

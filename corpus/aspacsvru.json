@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-ryska",
+    "eng": "ASPAC – Swedish-Russian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "rus"
+  ],
+  "size": {
+    "tokens": "1466745",
+    "sentences": "93430"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvru-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1466745",
-    "sentences": "93430"
-  },
-  "language_codes": [
-    "swe",
-    "rus"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-ryska",
-    "eng": "ASPAC – Swedish-Russian"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

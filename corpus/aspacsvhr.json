@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-kroatiska",
+    "eng": "ASPAC – Swedish-Croatian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "hrv"
+  ],
+  "size": {
+    "tokens": "992471",
+    "sentences": "75324"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhr-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "992471",
-    "sentences": "75324"
-  },
-  "language_codes": [
-    "swe",
-    "hrv"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-kroatiska",
-    "eng": "ASPAC – Swedish-Croatian"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

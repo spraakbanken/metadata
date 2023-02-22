@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Betänkande angående likformig uppställning av grammatiska läroböcker",
+    "eng": "Betänkande angående likformig uppställning av grammatiska läroböcker"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "41521",
+    "sentences": "3284"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/betankande.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "41521",
-    "sentences": "3284"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Betänkande angående likformig uppställning av grammatiska läroböcker",
-    "eng": "Betänkande angående likformig uppställning av grammatiska läroböcker"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

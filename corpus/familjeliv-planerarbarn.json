@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Familjeliv: Planerar barn",
+    "eng": "Familjeliv: Family Planning"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "195053654",
+    "sentences": "13783636"
+  },
   "in_collections": [
     "familjeliv"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "195053654",
-    "sentences": "13783636"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Familjeliv: Planerar barn",
-    "eng": "Familjeliv: Family Planning"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Familjeliv.",
-    "eng": "Material from the Familjeliv internet forum."
   }
 }

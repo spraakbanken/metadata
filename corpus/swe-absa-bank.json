@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svensk ABSAbank",
+    "eng": "Swedish ABSAbank"
+  },
+  "short_description": {
+    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys",
+    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1574226",
+    "sentences": "108132"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/swe-absa-bank.zip",
@@ -30,20 +47,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1574226",
-    "sentences": "108132"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk ABSAbank",
-    "eng": "Swedish ABSAbank"
-  },
-  "short_description": {
-    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys",
-    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis"
   }
 }

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Flashback: Fordon & trafik",
+    "eng": "Flashback: Vehicles & Traffic"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback.",
+    "eng": "Material from the Flashback internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "80469283",
+    "sentences": "5216307"
+  },
   "in_collections": [
     "flashback"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "80469283",
-    "sentences": "5216307"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Flashback: Fordon & trafik",
-    "eng": "Flashback: Vehicles & Traffic"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Flashback.",
-    "eng": "Material from the Flashback internet forum."
   }
 }

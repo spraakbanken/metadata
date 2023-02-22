@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "KVAH",
+    "eng": "KVAH"
+  },
+  "short_description": {
+    "swe": "Kungl. Vetenskapsakademiens Handlingar",
+    "eng": "Kungl. Vetenskapsakademiens Handlingar"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "27878",
+    "sentences": "915"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/kvah.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "27878",
-    "sentences": "915"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "KVAH",
-    "eng": "KVAH"
-  },
-  "short_description": {
-    "swe": "Kungl. Vetenskapsakademiens Handlingar",
-    "eng": "Kungl. Vetenskapsakademiens Handlingar"
   }
 }

@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "COCTAILL",
+    "eng": "COCTAILL"
+  },
+  "short_description": {
+    "swe": "Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.",
+    "eng": "Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "710251",
+    "sentences": "89086"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "710251",
-    "sentences": "89086"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "COCTAILL",
-    "eng": "COCTAILL"
-  },
-  "short_description": {
-    "swe": "Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.",
-    "eng": "Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated."
   }
 }

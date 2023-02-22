@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SIC2 - Stockholm Internet Corpus",
+    "eng": "SIC2 - Stockholm Internet Corpus"
+  },
+  "short_description": {
+    "swe": "Korpusen Stockholm Internet Corpus (SIC2) innehåller svenska bloggar som är annoterade med ordklasstaggar, morfologiska särdrag och namnentiteter.",
+    "eng": "The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities."
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "13562",
+    "sentences": "892"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.xml.bz2",
@@ -55,21 +72,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "13562",
-    "sentences": "892"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "SIC2 - Stockholm Internet Corpus",
-    "eng": "SIC2 - Stockholm Internet Corpus"
-  },
-  "short_description": {
-    "swe": "Korpusen Stockholm Internet Corpus (SIC2) innehåller svenska bloggar som är annoterade med ordklasstaggar, morfologiska särdrag och namnentiteter.",
-    "eng": "The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities."
   },
   "description": {
     "swe": "",

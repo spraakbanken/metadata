@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Parole",
+    "eng": "Parole"
+  },
+  "short_description": {
+    "swe": "Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information",
+    "eng": "The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "29298"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt",
@@ -21,20 +37,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "29298"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Parole",
-    "eng": "Parole"
-  },
-  "short_description": {
-    "swe": "Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information",
-    "eng": "The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information"
   },
   "description": {
     "swe": "<p>\nPAROLE-lexikonet ger valensinformation för svenska för närmare 30 000 lexikala enheter. Det har utvecklats i LE PAROLE-projektet.\n<!-- , dokumenterat på hemsidan för PAROLE SIMPLE (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).\n-->\nSe även <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_verb_types_2009.txt\">textfilen som förklarar valenskoderna</a>.\n</p>\n",

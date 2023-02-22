@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "DiabetologNytt (1996–1999)",
+    "eng": "DiabetologNytt (1996–1999)"
+  },
+  "short_description": {
+    "swe": "Tidningen DiabetologNytt 1996-1999",
+    "eng": "The paper DiabetologNytt (Diabetologynews) 1996-1999"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "228313",
+    "sentences": "14129"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [
     {
@@ -18,20 +35,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "228313",
-    "sentences": "14129"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "DiabetologNytt (1996–1999)",
-    "eng": "DiabetologNytt (1996–1999)"
-  },
-  "short_description": {
-    "swe": "Tidningen DiabetologNytt 1996-1999",
-    "eng": "The paper DiabetologNytt (Diabetologynews) 1996-1999"
   }
 }

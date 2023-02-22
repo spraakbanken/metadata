@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Sportanglicismer",
+    "eng": "Sports anglicisms"
+  },
+  "short_description": {
+    "swe": "Engelska lånord i svenska sportspalter",
+    "eng": "English loan-words in the Swedish sports press"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "0"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/sporting/",
@@ -30,19 +46,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "0"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Sportanglicismer",
-    "eng": "Sports anglicisms"
-  },
-  "short_description": {
-    "swe": "Engelska lånord i svenska sportspalter",
-    "eng": "English loan-words in the Swedish sports press"
   }
 }

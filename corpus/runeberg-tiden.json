@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Tiden",
+    "eng": "Tiden"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "7106662",
+    "sentences": "350752"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-tiden.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "7106662",
-    "sentences": "350752"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Tiden",
-    "eng": "Tiden"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

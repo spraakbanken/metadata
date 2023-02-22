@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "ASPAC – svenska-serbiska (latin)",
+    "eng": "ASPAC – Swedish-Serbian (latin)"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "srp"
+  ],
+  "size": {
+    "tokens": "505216",
+    "sentences": "33946"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsr-sv.xml.bz2",
@@ -55,21 +73,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "505216",
-    "sentences": "33946"
-  },
-  "language_codes": [
-    "swe",
-    "srp"
-  ],
-  "name": {
-    "swe": "ASPAC – svenska-serbiska (latin)",
-    "eng": "ASPAC – Swedish-Serbian (latin)"
-  },
-  "short_description": {
-    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
   }
 }

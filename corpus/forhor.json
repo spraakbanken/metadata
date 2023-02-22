@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Förhör",
+    "eng": "Hearings"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "49299",
+    "sentences": "2997"
+  },
+  "in_collections": [],
   "downloads": [],
   "interface": [
     {
@@ -18,20 +35,5 @@
       "organisation": "Institutionen för svenska, flerspråkighet och språkteknologi",
       "email": "svenska.exp@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "49299",
-    "sentences": "2997"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Förhör",
-    "eng": "Hearings"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

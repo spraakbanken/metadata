@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Sibirientyska kvinnor",
+    "eng": "Sibirientyska kvinnor"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "16208",
+    "sentences": "1788"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SIBERIANGERMANWOMEN.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "16208",
-    "sentences": "1788"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Sibirientyska kvinnor",
-    "eng": "Sibirientyska kvinnor"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

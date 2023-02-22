@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Typografiskt minnesblad 1891",
+    "eng": "Typografiskt minnesblad 1891"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "10234",
+    "sentences": "521"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TYPOGRAFISKTMINNESBLAD.txt",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "10234",
-    "sentences": "521"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Typografiskt minnesblad 1891",
-    "eng": "Typografiskt minnesblad 1891"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   }
 }

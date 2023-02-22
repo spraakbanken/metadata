@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Hellquists Svensk etymologisk ordbok",
+    "eng": "Hellquist's Swedish etymology"
+  },
+  "short_description": {
+    "swe": "Hellquists Svensk etymologisk ordbok",
+    "eng": "Hellquist's Swedish etymology"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "12368"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/hellqvist/hellqvist.xml",
@@ -28,19 +44,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "12368"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Hellquists Svensk etymologisk ordbok",
-    "eng": "Hellquist's Swedish etymology"
-  },
-  "short_description": {
-    "swe": "Hellquists Svensk etymologisk ordbok",
-    "eng": "Hellquist's Swedish etymology"
   }
 }

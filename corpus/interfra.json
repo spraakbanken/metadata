@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "InterFra",
+    "eng": "InterFra"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "fra"
+  ],
+  "size": {
+    "tokens": "1132307",
+    "sentences": "129113"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra.xml.bz2",
@@ -37,21 +54,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1132307",
-    "sentences": "129113"
-  },
-  "language_codes": [
-    "fra"
-  ],
-  "name": {
-    "swe": "InterFra",
-    "eng": "InterFra"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   },
   "description": {
     "swe": "",

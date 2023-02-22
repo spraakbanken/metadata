@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Riksdagens öppna data - Utredningar",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Kommittédirektiv och kommittéberättelser för utredningar som regeringen tillsätter",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1548660",
+    "sentences": "287064"
+  },
   "in_collections": [
     "rd"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1548660",
-    "sentences": "287064"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Riksdagens öppna data - Utredningar",
-    "eng": ""
-  },
-  "short_description": {
-    "swe": "Kommittédirektiv och kommittéberättelser för utredningar som regeringen tillsätter",
-    "eng": ""
   }
 }

@@ -1,6 +1,19 @@
 {
+  "name": {
+    "swe": "Förtränade inbäddningar",
+    "eng": "Pretrained embeddings"
+  },
+  "short_description": {
+    "swe": "En lista över förtränade inbäddningar för svenska",
+    "eng": "A list of pretrained embeddings for Swedish"
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
   "downloads": [],
   "interface": [],
   "contact_info": {
@@ -11,18 +24,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Förtränade inbäddningar",
-    "eng": "Pretrained embeddings"
-  },
-  "short_description": {
-    "swe": "En lista över förtränade inbäddningar för svenska",
-    "eng": "A list of pretrained embeddings for Swedish"
   },
   "description": {
     "swe": "",

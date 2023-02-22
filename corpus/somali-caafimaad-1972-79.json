@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Caafimaad 1972–79",
+    "eng": "Caafimaad 1972–79"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "13550",
+    "sentences": "736"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-caafimaad-1972-79.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "13550",
-    "sentences": "736"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Caafimaad 1972–79",
-    "eng": "Caafimaad 1972–79"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

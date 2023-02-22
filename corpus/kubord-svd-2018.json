@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ordfrekvenser Svenska Dagbladet 2018",
+    "eng": "Word frequencies Svenska Dagbladet 2018"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "30465330",
+    "sentences": "354"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-svd-2018.csv",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "30465330",
-    "sentences": "354"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ordfrekvenser Svenska Dagbladet 2018",
-    "eng": "Word frequencies Svenska Dagbladet 2018"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
   }
 }

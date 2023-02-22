@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Medeltidsbrev - Svenska",
+    "eng": "Medieval letters - Swedish"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "967228",
+    "sentences": "29689"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/sdhk-svenska.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "967228",
-    "sentences": "29689"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Medeltidsbrev - Svenska",
-    "eng": "Medieval letters - Swedish"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

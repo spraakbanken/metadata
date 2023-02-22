@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Saynis 1980–89",
+    "eng": "Saynis 1980–89"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "33034",
+    "sentences": "2130"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-saynis-1980-89.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "33034",
-    "sentences": "2130"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Saynis 1980–89",
-    "eng": "Saynis 1980–89"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

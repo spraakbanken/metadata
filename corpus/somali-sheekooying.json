@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Sheekooyin Gaagaaban",
+    "eng": "Sheekooyin Gaagaaban"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "180852",
+    "sentences": "16490"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooying.xml.bz2",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "180852",
-    "sentences": "16490"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Sheekooyin Gaagaaban",
-    "eng": "Sheekooyin Gaagaaban"
-  },
-  "short_description": {
-    "swe": null,
-    "eng": null
   }
 }

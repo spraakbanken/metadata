@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Swesaurus",
+    "eng": "Swesaurus"
+  },
+  "short_description": {
+    "swe": "Ett svenskt ordnät",
+    "eng": "A Swedish WordNet"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "15010"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swesaurus/swesaurus.xml",
@@ -28,20 +44,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "15010"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Swesaurus",
-    "eng": "Swesaurus"
-  },
-  "short_description": {
-    "swe": "Ett svenskt ordnät",
-    "eng": "A Swedish WordNet"
   },
   "description": {
     "swe": "<h2>Introduktion</h2>\n\n<p>\nSwesaurus är ett fritt svenskt ordnät, som bygger på så kallade luddiga synonymmängder (även luddiga synsets). Det återanvänder information om lexikalisk-semantiska relationer från flera fritt tillgängliga lexikala resurser för svenska.\n<ul>\n<li><a href=\"http://spraakbanken.gu.se/saldo\">SALDO</a> - en lexikalisk-semantisk resurs för svenska</li>\n<li><a href=\"http://folkets2.nada.kth.se/synlex.html\">Synlex</a> - en svensk synonymlista med grad av synonymi</li>\n<li>SDB (Semantisk databas) - en lexikalisk databas</li>\n<li><a href=\"http://sv.wiktionary.org\">Wiktionary</a> - ett webbaserat projekt för att kollaborativt skapa ett fritt lexikon</li>\n<li><a href=\"http://wordnet.princeton.edu/\">Princeton Core WordNet</a></li>\n</ul>\n</p>\n\n<p>\nVi har utforskat två sätt att koppla synonympar från Synlex till ord i SALDO med olika betydelser. Det första handlar om det transitiva höljet. En transitiv relation betyder att om något gäller för A och B, och för B och C, så gäller det också för A och C. Om vi till exempel veta att en elefant är större än en kamel och att en kamel är större än en katt, så vet vi också automatiskt att en elefant är större än en katt. Synonymi är en transitiv relation, vilket innebär att om vi vet att A är synonymt med B och B med C, så följer med automatik att A är synonymt med C. Med andra ord, synonymparet A-C kan härledas från de explicit angivna synonymparen A-B och B-C. Den mängd objekt man får om man räknar ut alla transitivitetsrelationer för något eller några av orden kallas det transitiva höljet. I vårt fall kan man tänka på det transitiva höljet som en ’kedja’ av ordbetydelser där varje länk i kedjan ges av ett synonympar. Till exempel, det transitiva höljet för synonymparen barn-parvel, parvel-pys och pys-knatte är synonymmängden {barn, parvel, pys, knatte}. Resultatet blir en uppsättning av rimliga synonymmängder, men också en återstående ensam synonymmängd med flera tusen ordbetydelser. Vi minskade den största synonymmängden genom kravet att en synonymmängd endast får bestå av ord i samma ordklass, men antalet ordbetydelser i den kan fortfarande räknas i tusental.\n</p>\n\n<p>\nDen andra metoden för att koppla ihop synonympar är klickar. En klick är en mängd ord där alla är synonymer till varandra. Beräkningen av klickar gav inga onormalt stora synonymmängder, men däremot andra problem. Till exempel förekommer ordbetydelser ibland i fler än en synonymmängd, vilket strider mot vad man i ordnätssammanhang brukar mena med ordbetydelse. Vi experimenterar med olika sätt att hantera detta. Vi kan till exempel utgå från de klickar som har en eller flera gemensamma ordbetydelser och härleda saknade synonympar som, om de existerade, skulle förena klickarna till en klick. Detta ger par av god kvalitet.\n</p>\n\n<h2>Resurser</h2>\n\n<p>Ladda ner <a href=\"http://spraakbanken.gu.se/swe/sblex/resources#swesaurus\">utvecklingsversionen av Swesaurus</a></p>\n\n<!--\n<p>\nHär finns synonymmängderna från experimenten med SALDO och Synlex. Synlex kom till efter att användare av ett nätlexikon fick bedöma synonympar, där 0 betydde att de inte var synonymer, och 5 betydde att de hade samma betydelse. 60% nedan betyder att ordparen i genomsnitt fick betyget 3 eller högre, och 100% betyder att ordparen fick betyget 5 i genomsnitt. \n</p>\n\n<ul>\n <li> luddiga synonymmängder, utan begränsning: \n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_60.html\">60 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_70.html\">70 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_80.html\">80 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_90.html\">90 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_100.html\">100 %</a>\n </li>\n <li> luddiga synonymmängder, ordklassbegränsade:\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_60.html\">60 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_70.html\">70 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_80.html\">80 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_90.html\">90 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_100.html\">100 %</a>\n </li> \n <li> luddiga synonymmängder, klickar: \n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_60.html\">60 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_70.html\">70 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_80.html\">80 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_90.html\">90 %</a>,\n      <a href=\"https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_100.html\">100 %</a>\n  </li>\n</ul>\n-->\n",

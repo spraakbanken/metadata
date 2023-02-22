@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "8 Sidor",
+    "eng": "8 Sidor"
+  },
+  "short_description": {
+    "swe": "Nyhetsartiklar från 8 SIDOR.",
+    "eng": "News articles from 8 SIDOR."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "4516949",
+    "sentences": "427550"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/attasidor.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "4516949",
-    "sentences": "427550"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "8 Sidor",
-    "eng": "8 Sidor"
-  },
-  "short_description": {
-    "swe": "Nyhetsartiklar från 8 SIDOR.",
-    "eng": "News articles from 8 SIDOR."
   }
 }

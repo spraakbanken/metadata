@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svenska partiprogram och valmanifest",
+    "eng": "Swedish party programs and election manifestos"
+  },
+  "short_description": {
+    "swe": "Svenska partiprogram och valmanifest 1887–2022",
+    "eng": "Swedish political party programs and election manifestos 1887–2022"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "2099602",
+    "sentences": "128219"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "2099602",
-    "sentences": "128219"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svenska partiprogram och valmanifest",
-    "eng": "Swedish party programs and election manifestos"
-  },
-  "short_description": {
-    "swe": "Svenska partiprogram och valmanifest 1887–2022",
-    "eng": "Swedish political party programs and election manifestos 1887–2022"
   }
 }

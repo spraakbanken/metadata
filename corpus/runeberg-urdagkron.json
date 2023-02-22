@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ur Dagens Krönika",
+    "eng": "Ur Dagens Krönika"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "1995149",
+    "sentences": "82905"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-urdagkron.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "1995149",
-    "sentences": "82905"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ur Dagens Krönika",
-    "eng": "Ur Dagens Krönika"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

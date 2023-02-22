@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Domar",
+    "eng": "Judgements"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "32206334",
+    "sentences": "1892369"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/moderntdv.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "32206334",
-    "sentences": "1892369"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Domar",
-    "eng": "Judgements"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

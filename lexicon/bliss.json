@@ -1,6 +1,20 @@
 {
+  "name": {
+    "swe": "Bliss",
+    "eng": "Bliss"
+  },
+  "short_description": {
+    "swe": "Bliss är ett konstruerat symbolspråk som främst används av personer med grava kommunikativa och fysiska funktionsnedsättningar. Det består av ca 5000 grafiska symboler.",
+    "eng": "Blissymbolics is a constructed symbol language which is mainly used by people with severe communicative and phsyical disabilities. It consists of around 5000 graphical symbols."
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [],
+  "size": {
+    "entries": "5596"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/bliss.xml",
@@ -28,16 +42,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "5596"
-  },
-  "name": {
-    "swe": "Bliss",
-    "eng": "Bliss"
-  },
-  "short_description": {
-    "swe": "Bliss är ett konstruerat symbolspråk som främst används av personer med grava kommunikativa och fysiska funktionsnedsättningar. Det består av ca 5000 grafiska symboler.",
-    "eng": "Blissymbolics is a constructed symbol language which is mainly used by people with severe communicative and phsyical disabilities. It consists of around 5000 graphical symbols."
   }
 }

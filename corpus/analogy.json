@@ -1,6 +1,24 @@
 {
+  "name": {
+    "swe": "Svensk analogi testmängd v1.0",
+    "eng": "Swedish analogy test set v1.0"
+  },
+  "short_description": {
+    "swe": "Svensk semantisk och syntaktisk likhet: testmängd",
+    "eng": "Swedish semantic and syntactic similarity: test set"
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "analogies": "20638"
+  },
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt",
@@ -30,23 +48,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "analogies": "20638"
-  },
-  "in_collections": [
-    "superlim"
-  ],
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk analogi testmängd v1.0",
-    "eng": "Swedish analogy test set v1.0"
-  },
-  "short_description": {
-    "swe": "Svensk semantisk och syntaktisk likhet: testmängd",
-    "eng": "Swedish semantic and syntactic similarity: test set"
   },
   "description": {
     "swe": "",

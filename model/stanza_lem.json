@@ -1,6 +1,19 @@
 {
+  "name": {
+    "swe": "Lemmatiseringsmodell: Stanza",
+    "eng": "Lemmatization model: Stanza"
+  },
+  "short_description": {
+    "swe": "Förtränad modell för lemmatisering.",
+    "eng": "Pretrained model for lemmatization."
+  },
   "type": "model",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip",
@@ -21,18 +34,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {},
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Lemmatiseringsmodell: Stanza",
-    "eng": "Lemmatization model: Stanza"
-  },
-  "short_description": {
-    "swe": "Förtränad modell för lemmatisering.",
-    "eng": "Pretrained model for lemmatization."
   },
   "description": {
     "swe": "",

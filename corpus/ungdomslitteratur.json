@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Finlandssvensk Ungdomslitteratur",
+    "eng": "Finland Swedish Youth Literature"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "483702",
+    "sentences": "36400"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_UNGDOMSLITTERATUR.txt",
@@ -28,21 +45,6 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "483702",
-    "sentences": "36400"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Finlandssvensk Ungdomslitteratur",
-    "eng": "Finland Swedish Youth Literature"
-  },
-  "short_description": {
-    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
   },
   "description": {
     "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-ungdomslitteratur.html}\n",

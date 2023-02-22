@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Simple+",
+    "eng": "Simple+"
+  },
+  "short_description": {
+    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO",
+    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "8630"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/simpleplus/simpleplus.xml",
@@ -55,19 +71,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "8630"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Simple+",
-    "eng": "Simple+"
-  },
-  "short_description": {
-    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO",
-    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses"
   }
 }

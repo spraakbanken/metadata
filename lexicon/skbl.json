@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "SKBL",
+    "eng": "SKBL"
+  },
+  "short_description": {
+    "swe": "Svenskt kvinnobiografiskt lexikon",
+    "eng": "The Biographical Dictionary of Swedish Women"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe",
+    "eng"
+  ],
+  "size": {
+    "entries": "1411"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json",
@@ -28,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "1411"
-  },
-  "language_codes": [
-    "swe",
-    "eng"
-  ],
-  "name": {
-    "swe": "SKBL",
-    "eng": "SKBL"
-  },
-  "short_description": {
-    "swe": "Svenskt kvinnobiografiskt lexikon",
-    "eng": "The Biographical Dictionary of Swedish Women"
   }
 }

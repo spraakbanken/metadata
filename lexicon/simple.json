@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Simple lexikon",
+    "eng": "Simple lexicon"
+  },
+  "short_description": {
+    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
+    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish"
+  },
   "type": "lexicon",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "entries": "11624"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html",
@@ -39,19 +55,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "entries": "11624"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Simple lexikon",
-    "eng": "Simple lexicon"
-  },
-  "short_description": {
-    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
-    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish"
   }
 }

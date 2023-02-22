@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Af-Soomaali 2001 Soomaaliya",
+    "eng": "Af-Soomaali 2001 Soomaaliya"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "129947",
+    "sentences": "13422"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -29,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "129947",
-    "sentences": "13422"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Af-Soomaali 2001 Soomaaliya",
-    "eng": "Af-Soomaali 2001 Soomaaliya"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

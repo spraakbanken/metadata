@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Ekeblads brev",
+    "eng": "Ekeblad's letters"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "52253",
+    "sentences": "586"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ekeblad.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "52253",
-    "sentences": "586"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Ekeblads brev",
-    "eng": "Ekeblad's letters"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Kubord 2 - Ordrelationer Svenska Dagbladet 2015",
+    "eng": "Kubord 2 - Word relations Svenska Dagbladet 2015"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord 2",
+    "eng": "Part of the collection Kubord 2"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "31155970",
+    "sentences": "354"
+  },
   "in_collections": false,
   "downloads": [
     {
@@ -29,20 +45,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "31155970",
-    "sentences": "354"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Kubord 2 - Ordrelationer Svenska Dagbladet 2015",
-    "eng": "Kubord 2 - Word relations Svenska Dagbladet 2015"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubord 2",
-    "eng": "Part of the collection Kubord 2"
   }
 }

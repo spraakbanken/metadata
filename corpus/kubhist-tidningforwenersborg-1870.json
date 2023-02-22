@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Tidning för Wernersborgs stad och län 1870-talet",
+    "eng": "Tidning för Wernersborgs stad och län 1870's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "16655662",
+    "sentences": "1208719"
+  },
   "in_collections": [
     "kubhist"
   ],
@@ -24,6 +40,7 @@
       "restriction": "attribution"
     }
   ],
+  "interface": [],
   "contact_info": {
     "surname": "Forsberg",
     "givenName": "Markus",
@@ -32,20 +49,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "16655662",
-    "sentences": "1208719"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Tidning för Wernersborgs stad och län 1870-talet",
-    "eng": "Tidning för Wernersborgs stad och län 1870's"
-  },
-  "short_description": {
-    "swe": "Del av samlingen Kubhist",
-    "eng": "Part of the collection Kubhist"
   }
 }

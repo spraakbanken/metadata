@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Svenskt frasnät (SweFN)",
+    "eng": "Swedish framenet (SweFN)"
+  },
+  "short_description": {
+    "swe": "En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade med språklig information.",
+    "eng": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the corpus examples, automatically enriched with linguistic information."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "137770",
+    "sentences": "9018"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-ex.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "137770",
-    "sentences": "9018"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svenskt frasnät (SweFN)",
-    "eng": "Swedish framenet (SweFN)"
-  },
-  "short_description": {
-    "swe": "En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade med språklig information.",
-    "eng": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the corpus examples, automatically enriched with linguistic information."
   }
 }

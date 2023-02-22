@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Smittskydd",
+    "eng": "Smittskydd"
+  },
+  "short_description": {
+    "swe": "Smittskyddsinstitutets tidning Smittskydd",
+    "eng": "The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "691716",
+    "sentences": "41066"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/smittskydd.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "691716",
-    "sentences": "41066"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Smittskydd",
-    "eng": "Smittskydd"
-  },
-  "short_description": {
-    "swe": "Smittskyddsinstitutets tidning Smittskydd",
-    "eng": "The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)"
   }
 }

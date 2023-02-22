@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Raadiyaha Denmark 2014",
+    "eng": "Raadiyaha Denmark 2014"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "som"
+  ],
+  "size": {
+    "tokens": "199173",
+    "sentences": "8959"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-radioden2014.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "199173",
-    "sentences": "8959"
-  },
-  "language_codes": [
-    "som"
-  ],
-  "name": {
-    "swe": "Raadiyaha Denmark 2014",
-    "eng": "Raadiyaha Denmark 2014"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

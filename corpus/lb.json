@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "Litteraturbanken",
+    "eng": "The Swedish Literature Bank"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "193507532",
+    "sentences": "10978218"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/lb.xml.bz2",
@@ -37,20 +54,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "193507532",
-    "sentences": "10978218"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Litteraturbanken",
-    "eng": "The Swedish Literature Bank"
-  },
-  "short_description": {
-    "swe": "",
-    "eng": ""
   }
 }

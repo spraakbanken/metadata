@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Svensk fraktur 1626-1816",
+    "eng": "Swedish fraktur 1626-1816"
+  },
+  "short_description": {
+    "swe": "Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.",
+    "eng": "A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB). For OCR analysis. "
+  },
   "type": "corpus",
   "trainingdata": true,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "47924"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz",
@@ -21,20 +37,6 @@
       "organisation": "Språkbanken Text",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "47924"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Svensk fraktur 1626-1816",
-    "eng": "Swedish fraktur 1626-1816"
-  },
-  "short_description": {
-    "swe": "Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.",
-    "eng": "A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB). For OCR analysis. "
   },
   "description": {
     "swe": "<p>\n  Svensk fraktur 1626 – 1816 innehåller ett urval av digitaliserade versioner av äldre frakturtryck från 1626 till 1816 med motsvarande manuell transkribering. Materialet digitaliserades av Göteborgs universitetsbibliotek, och de digitaliserade versionerna transkriberades manuellt av <a href=\"http://www.grepect.de/\" target=\"_blank\">GREPECT</a> genom en s.k. double-keying metod.\n</p>\n<p>\n   Materialet har tagits fram under projektet <a href=\"https://spraakbanken.gu.se/projekt/ocr-cloud\" target=\"_blank\">En fri molntjänst för OCR</a> för att förbättra OCR-tolkningen av tryckta fraktur texter.  \n</p>\n<p>\nAntalet digitaliserade sidor är 199 och de transkriberade texterna innehåller 47924 ord totalt. Listan över titlarna, libris-id:s och publiceringslänkar finns tillgängligt <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx\">här</a>.\n</p>\n",

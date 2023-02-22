@@ -1,6 +1,22 @@
 {
+  "name": {
+    "swe": "Flashback: Övrigt",
+    "eng": "Flashback: Other"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback.",
+    "eng": "Material from the Flashback internet forum."
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "135563435",
+    "sentences": "9798908"
+  },
   "in_collections": [
     "flashback"
   ],
@@ -40,20 +56,5 @@
       "organisation": "Språkbanken",
       "email": "sb-info@svenska.gu.se"
     }
-  },
-  "size": {
-    "tokens": "135563435",
-    "sentences": "9798908"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "Flashback: Övrigt",
-    "eng": "Flashback: Other"
-  },
-  "short_description": {
-    "swe": "Material från diskussionsforumet Flashback.",
-    "eng": "Material from the Flashback internet forum."
   }
 }

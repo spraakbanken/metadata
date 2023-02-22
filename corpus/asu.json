@@ -1,6 +1,23 @@
 {
+  "name": {
+    "swe": "ASU",
+    "eng": "ASU"
+  },
+  "short_description": {
+    "swe": "Andraspråkets strukturutveckling",
+    "eng": "Structural development of the second language"
+  },
   "type": "corpus",
   "trainingdata": false,
+  "unlisted": false,
+  "language_codes": [
+    "swe"
+  ],
+  "size": {
+    "tokens": "643949",
+    "sentences": "46705"
+  },
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv",
@@ -28,20 +45,5 @@
       "organisation": "Institutionen för lingvistik, Stockholms universitet",
       "email": "exp@ling.su.se"
     }
-  },
-  "size": {
-    "tokens": "643949",
-    "sentences": "46705"
-  },
-  "language_codes": [
-    "swe"
-  ],
-  "name": {
-    "swe": "ASU",
-    "eng": "ASU"
-  },
-  "short_description": {
-    "swe": "Andraspråkets strukturutveckling",
-    "eng": "Structural development of the second language"
   }
 }
