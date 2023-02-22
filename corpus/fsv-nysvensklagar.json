@@ -1,11 +1,6 @@
 {
-  "id": "fsv-nysvensklagar",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Nysvenska lagar – Fornsvenska textbankens material",
-  "name_en": "Nysvenska lagar – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Nysvenska lagar – Fornsvenska textbankens material",
+    "eng": "Nysvenska lagar – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "sic2",
   "type": "corpus",
   "trainingdata": true,
-  "name_en": "SIC2 - Stockholm Internet Corpus",
-  "name_sv": "SIC2 - Stockholm Internet Corpus",
-  "description_en": "The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities.",
-  "description_sv": "Korpusen Stockholm Internet Corpus (SIC2) innehåller svenska bloggar som är annoterade med ordklasstaggar, morfologiska särdrag och namnentiteter.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -66,8 +61,19 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "long_description_en": "<p>The Stockholm Internet Corpus 2 (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities. Annotation was done by Robert Östling, Johan Sjons and Johannes Bjerva. Version 2 was created by Aleksandrs Berdicevskis by making minor changes in the annotation and the format (see below). The original version 1 can be found <a href=\"https://www.ling.su.se/english/nlp/corpora-and-resources/sic\">here</a>. Version 2 uses <a href=\"https://universaldependencies.org/ext-format.html\">an extended CoNLL-U format</a>. See more in the readme. The corpus is distributed under the Creative Commons Attribution-ShareAlike 3.0 Unported <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">license</a>.</p>",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SIC2 - Stockholm Internet Corpus",
+    "eng": "SIC2 - Stockholm Internet Corpus"
+  },
+  "short_description": {
+    "swe": "Korpusen Stockholm Internet Corpus (SIC2) innehåller svenska bloggar som är annoterade med ordklasstaggar, morfologiska särdrag och namnentiteter.",
+    "eng": "The Stockholm Internet Corpus (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities."
+  },
+  "description": {
+    "swe": "",
+    "eng": "<p>The Stockholm Internet Corpus 2 (SIC2) contains Swedish blog posts, annotated with part of speech, morphological features, and named entities. Annotation was done by Robert Östling, Johan Sjons and Johannes Bjerva. Version 2 was created by Aleksandrs Berdicevskis by making minor changes in the annotation and the format (see below). The original version 1 can be found <a href=\"https://www.ling.su.se/english/nlp/corpora-and-resources/sic\">here</a>. Version 2 uses <a href=\"https://universaldependencies.org/ext-format.html\">an extended CoNLL-U format</a>. See more in the readme. The corpus is distributed under the Creative Commons Attribution-ShareAlike 3.0 Unported <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">license</a>.</p>"
+  }
 }

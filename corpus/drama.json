@@ -1,11 +1,6 @@
 {
-  "id": "drama",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Dramawebben (demo)",
-  "name_en": "Dramawebben (demo)",
-  "description_sv": "Texter från Dramawebben, ett digitalt arkiv över fri svensk dramatik.",
-  "description_en": "Texts from Dramawebben, a digital archive of free Swedish drama.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -52,5 +47,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dramawebben (demo)",
+    "eng": "Dramawebben (demo)"
+  },
+  "short_description": {
+    "swe": "Texter från Dramawebben, ett digitalt arkiv över fri svensk dramatik.",
+    "eng": "Texts from Dramawebben, a digital archive of free Swedish drama."
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "ekeblad",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Ekeblads brev",
-  "name_en": "Ekeblad's letters",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ekeblads brev",
+    "eng": "Ekeblad's letters"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "kvah",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "KVAH",
-  "name_en": "KVAH",
-  "description_sv": "Kungl. Vetenskapsakademiens Handlingar",
-  "description_en": "Kungl. Vetenskapsakademiens Handlingar",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "KVAH",
+    "eng": "KVAH"
+  },
+  "short_description": {
+    "swe": "Kungl. Vetenskapsakademiens Handlingar",
+    "eng": "Kungl. Vetenskapsakademiens Handlingar"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "fsvm",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Fornsvensk morfologi",
-  "name_en": "Old Swedish morphology",
-  "description_sv": "Fornsvensk morfologi ur Söderwall och Schlyter",
-  "description_en": "Old Swedish morphology from Söderwall and Schlyter",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Fornsvensk morfologi",
+    "eng": "Old Swedish morphology"
+  },
+  "short_description": {
+    "swe": "Fornsvensk morfologi ur Söderwall och Schlyter",
+    "eng": "Old Swedish morphology from Söderwall and Schlyter"
+  }
 }

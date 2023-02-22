@@ -1,12 +1,7 @@
 {
-  "id": "flashback-samhalle",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Flashback: Society",
-  "name_sv": "Flashback: Samhälle",
-  "description_en": "Material from the Flashback internet forum.",
-  "description_sv": "Material från diskussionsforumet Flashback.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +51,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Flashback: Samhälle",
+    "eng": "Flashback: Society"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback.",
+    "eng": "Material from the Flashback internet forum."
+  }
 }

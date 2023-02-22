@@ -1,11 +1,6 @@
 {
-  "id": "kubord-dn-2003",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Word frequencies Dagens Nyheter 2003",
-  "name_sv": "Ordfrekvenser Dagens Nyheter 2003",
-  "description_en": "Part of the collection Kubord",
-  "description_sv": "Del av samlingen Kubord",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -50,5 +45,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ordfrekvenser Dagens Nyheter 2003",
+    "eng": "Word frequencies Dagens Nyheter 2003"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  }
 }

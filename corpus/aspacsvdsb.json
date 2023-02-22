@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvdsb",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-logsorbiska",
-  "name_en": "ASPAC – Swedish-Lower Sorbian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "dsb"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-logsorbiska",
+    "eng": "ASPAC – Swedish-Lower Sorbian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

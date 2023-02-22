@@ -1,11 +1,6 @@
 {
-  "id": "lsilex",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "lsilex",
-  "name_en": "lsilex",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "lsilex",
+    "eng": "lsilex"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-gotlandstidning-1880",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Gotlands tidning 1880-talet",
-  "name_en": "Gotlands tidning 1880's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Gotlands tidning 1880-talet",
+    "eng": "Gotlands tidning 1880's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

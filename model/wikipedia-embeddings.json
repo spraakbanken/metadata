@@ -1,11 +1,6 @@
 {
-  "id": "wikipedia-embeddings",
   "type": "model",
   "trainingdata": false,
-  "name_sv": "Engelska inbäddningar (word embeddings)",
-  "name_en": "Word Embeddings trained on English Wikipedia",
-  "description_sv": "Förtränade inbäddningar (word embeddings) för engelska wikipedia",
-  "description_en": "Word Embeddings trained on English Wikipedia",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -29,5 +24,13 @@
   "size": {},
   "language_codes": [
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "Engelska inbäddningar (word embeddings)",
+    "eng": "Word Embeddings trained on English Wikipedia"
+  },
+  "short_description": {
+    "swe": "Förtränade inbäddningar (word embeddings) för engelska wikipedia",
+    "eng": "Word Embeddings trained on English Wikipedia"
+  }
 }

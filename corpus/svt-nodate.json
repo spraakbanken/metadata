@@ -1,14 +1,9 @@
 {
-  "id": "svt-nodate",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "svt"
   ],
-  "name_en": "SVT news unknown date",
-  "name_sv": "SVT nyheter okänt datum",
-  "description_en": "News texts from svt.se",
-  "description_sv": "Nyhetstexter från svt.se",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SVT nyheter okänt datum",
+    "eng": "SVT news unknown date"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från svt.se",
+    "eng": "News texts from svt.se"
+  }
 }

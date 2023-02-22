@@ -1,11 +1,6 @@
 {
-  "id": "vivill",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Swedish party programs and election manifestos",
-  "name_sv": "Svenska partiprogram och valmanifest",
-  "description_en": "Swedish political party programs and election manifestos 1887–2022",
-  "description_sv": "Svenska partiprogram och valmanifest 1887–2022",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svenska partiprogram och valmanifest",
+    "eng": "Swedish party programs and election manifestos"
+  },
+  "short_description": {
+    "swe": "Svenska partiprogram och valmanifest 1887–2022",
+    "eng": "Swedish political party programs and election manifestos 1887–2022"
+  }
 }

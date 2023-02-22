@@ -1,11 +1,6 @@
 {
-  "id": "somali-radioswe2014",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Raadiyaha Iswiidhan 2014",
-  "name_en": "Raadiyaha Iswiidhan 2014",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Raadiyaha Iswiidhan 2014",
+    "eng": "Raadiyaha Iswiidhan 2014"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

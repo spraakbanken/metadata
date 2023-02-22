@@ -1,11 +1,6 @@
 {
-  "id": "runeberg-rost",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Rösträtt för kvinnor",
-  "name_en": "Rösträtt för kvinnor",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Rösträtt för kvinnor",
+    "eng": "Rösträtt för kvinnor"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

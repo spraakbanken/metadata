@@ -1,11 +1,6 @@
 {
-  "id": "dalin",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Dalin Ordbok Öfver Svenska Språket",
-  "name_en": "Dalin Dictionary",
-  "description_sv": "Dalins ordbok - Ordbok över 1800-talsspråket",
-  "description_en": "Dalin's Dictionary of 19th century Swedish",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,9 +31,19 @@
   "size": {
     "entries": "62975"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_swe.html}",
-  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_eng.html}",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dalin Ordbok Öfver Svenska Språket",
+    "eng": "Dalin Dictionary"
+  },
+  "short_description": {
+    "swe": "Dalins ordbok - Ordbok över 1800-talsspråket",
+    "eng": "Dalin's Dictionary of 19th century Swedish"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_swe.html}",
+    "eng": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_eng.html}"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "gdc",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Gothenburg Dialogue Corpus (GDC)",
-  "name_en": "Gothenburg Dialogue Corpus (GDC)",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Gothenburg Dialogue Corpus (GDC)",
+    "eng": "Gothenburg Dialogue Corpus (GDC)"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

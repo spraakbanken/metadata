@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-nyttochgammalt-1790",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Nytt och Gammalt 1790's",
-  "name_sv": "Nytt och Gammalt 1790-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Nytt och Gammalt 1790-talet",
+    "eng": "Nytt och Gammalt 1790's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

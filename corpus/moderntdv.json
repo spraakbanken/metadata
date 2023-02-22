@@ -1,11 +1,6 @@
 {
-  "id": "moderntdv",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Domar",
-  "name_en": "Judgements",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Domar",
+    "eng": "Judgements"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

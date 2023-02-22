@@ -1,14 +1,9 @@
 {
-  "id": "familjeliv-pappagrupp",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "familjeliv"
   ],
-  "name_en": "Familjeliv: Daddy Group",
-  "name_sv": "Familjeliv: Pappagrupp",
-  "description_en": "Material from the Familjeliv internet forum.",
-  "description_sv": "Material från diskussionsforumet Familjeliv.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Familjeliv: Pappagrupp",
+    "eng": "Familjeliv: Daddy Group"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  }
 }

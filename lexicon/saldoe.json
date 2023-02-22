@@ -1,11 +1,6 @@
 {
-  "id": "saldoe",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "SALDO: exempel",
-  "name_en": "SALDO: examples",
-  "description_sv": "Exempelmeningar för SALDO-betydelser",
-  "description_en": "Example sentences for senses in SALDO",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SALDO: exempel",
+    "eng": "SALDO: examples"
+  },
+  "short_description": {
+    "swe": "Exempelmeningar för SALDO-betydelser",
+    "eng": "Example sentences for senses in SALDO"
+  }
 }

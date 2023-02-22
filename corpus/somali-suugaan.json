@@ -1,11 +1,6 @@
 {
-  "id": "somali-suugaan",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Suugaan",
-  "name_en": "Suugaan",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Suugaan",
+    "eng": "Suugaan"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

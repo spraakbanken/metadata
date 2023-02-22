@@ -1,11 +1,6 @@
 {
-  "id": "propositioner",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Propositioner 1993–2013",
-  "name_en": "Proposals 1993–2013",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,8 +31,19 @@
     "tokens": "1586427",
     "sentences": "65257"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-propositioner.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Propositioner 1993–2013",
+    "eng": "Proposals 1993–2013"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-propositioner.html}\n",
+    "eng": ""
+  }
 }

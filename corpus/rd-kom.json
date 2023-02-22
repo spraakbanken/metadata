@@ -1,13 +1,9 @@
 {
-  "id": "rd-kom",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - KOM",
-  "description_sv": "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - KOM",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "EU-kommissionens förslag och redogörelser, så kallade KOM-dokument",
+    "eng": ""
+  }
 }

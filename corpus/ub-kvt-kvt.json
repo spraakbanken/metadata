@@ -1,11 +1,6 @@
 {
-  "id": "ub-kvt-kvt",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Kvinnornas Tidning",
-  "name_en": "Kvinnornas Tidning",
-  "description_sv": "En korpus med texter från Kvinnornas Tidning",
-  "description_en": "A corpus with texts from the women's newspaper Kvinnornas Tidning",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Kvinnornas Tidning",
+    "eng": "Kvinnornas Tidning"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från Kvinnornas Tidning",
+    "eng": "A corpus with texts from the women's newspaper Kvinnornas Tidning"
+  }
 }

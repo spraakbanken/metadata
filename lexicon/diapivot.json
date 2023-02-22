@@ -1,11 +1,6 @@
 {
-  "id": "diapivot",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Diakronisk pivot",
-  "name_en": "Diachronic pivot",
-  "description_sv": "Diakronisk pivotresurs",
-  "description_en": "Diachronic pivot resource",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Diakronisk pivot",
+    "eng": "Diachronic pivot"
+  },
+  "short_description": {
+    "swe": "Diakronisk pivotresurs",
+    "eng": "Diachronic pivot resource"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "lag1800",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Lagar från 1800-talet",
-  "name_en": "Laws from the 1800's",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Lagar från 1800-talet",
+    "eng": "Laws from the 1800's"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

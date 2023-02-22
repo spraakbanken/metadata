@@ -1,11 +1,6 @@
 {
-  "id": "hanken",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Hanken",
-  "name_en": "Hanken",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,12 +31,23 @@
     "tokens": "123780",
     "sentences": "7306"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-hanken.html}\n",
   "languages": [
     {
       "code": "sv-FI",
       "name_en": "Finland Swedish",
       "name_sv": "finlandssvenska"
     }
-  ]
+  ],
+  "name": {
+    "swe": "Hanken",
+    "eng": "Hanken"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-hanken.html}\n",
+    "eng": ""
+  }
 }

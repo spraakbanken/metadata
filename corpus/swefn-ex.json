@@ -1,11 +1,6 @@
 {
-  "id": "swefn-ex",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Swedish framenet (SweFN)",
-  "name_sv": "Svenskt frasnät (SweFN)",
-  "description_en": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the corpus examples, automatically enriched with linguistic information.",
-  "description_sv": "En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade med språklig information.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,5 +49,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svenskt frasnät (SweFN)",
+    "eng": "Swedish framenet (SweFN)"
+  },
+  "short_description": {
+    "swe": "En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade med språklig information.",
+    "eng": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the corpus examples, automatically enriched with linguistic information."
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "asu",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "ASU",
-  "name_sv": "ASU",
-  "description_en": "Structural development of the second language",
-  "description_sv": "Andraspråkets strukturutveckling",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "ASU",
+    "eng": "ASU"
+  },
+  "short_description": {
+    "swe": "Andraspråkets strukturutveckling",
+    "eng": "Structural development of the second language"
+  }
 }

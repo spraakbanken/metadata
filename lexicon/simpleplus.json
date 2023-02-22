@@ -1,11 +1,6 @@
 {
-  "id": "simpleplus",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Simple+",
-  "name_en": "Simple+",
-  "description_sv": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO",
-  "description_en": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -62,5 +57,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Simple+",
+    "eng": "Simple+"
+  },
+  "short_description": {
+    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO",
+    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses"
+  }
 }

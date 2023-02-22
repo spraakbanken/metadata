@@ -1,11 +1,6 @@
 {
-  "id": "sdhk-svenska",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Medeltidsbrev - Svenska",
-  "name_en": "Medieval letters - Swedish",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Medeltidsbrev - Svenska",
+    "eng": "Medieval letters - Swedish"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

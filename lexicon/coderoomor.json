@@ -1,11 +1,6 @@
 {
-  "id": "coderoomor",
   "type": "lexicon",
   "trainingdata": true,
-  "name_sv": "CoDeRooMor, v.01",
-  "name_en": "CoDeRooMor, v.01",
-  "description_sv": "Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet",
-  "description_en": "Morphological dataset (word-building morphology), Swedish L2 profiles project, ",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -61,8 +56,19 @@
     "words": "16230",
     "other": "4986"
   },
-  "long_description_en": "<p>The CoDeRooMor dataset (version 1.0) contains 16 230 lemgrams generated from COCTAILL (course book corpus) and SweLL-pilot  (learner essay corpus) to represent vocabulary relevant for learners of Swedish as a second language, and hypothetically containing most frequent vocabulary in Swedish. The lemgrams in CoDeRooMor have been manually analysed for roots, prefixes, suffixes, infixes/binding morphemes (sv: fogemorfem) and other morpheme types, e.g. o-är-lig:\n\n\t<ul>\n\t\t<li>\"o\" prefix,</li>\n\t\t<li>\"är\" root ,</li>\n\t\t<li>\"lig\" suffix</li>\n\t</ul>\n</p>\n\n<p>The dataset represents 4 429 unique roots, 259 unique derivational suffixes, 155 unique prefixes, 12 unique binding morphemes (infixes), and a few inflectional morphemes that have been analyzed as a part of lexicalized forms or similar.</p>\n\n<p>Each lemgram has an associated word formation mechanism, such as derivation, compounding, root lexeme.</p>\n\n<p>Morphological annotation scheme follows principles outlined in Swedish Academy Grammar (SAG) and SAOL/SO.</p>\n\n<p>Given the ”gold” nature of the resource, it is possible to use it for empirical studies as well as to develop linguistically-aware algorithms for morpheme segmentation and labeling.</p>\n\n<p>For details about the list, the annotation process and reasoning around it, see <a target=\"_blank\" href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf\">the article on CoDeRooMor</a>.</p>\n\n<p>For a short summary, see <a target=\"_blank\" href=\"https://spraakbanken.gu.se/blogg/index.php/2021/04/14/swedish-derivational-morphology-with-coderoomor/\">this blog</a>.</p>\n\n<p>The dataset can be downloaded in csv or excel file format. Two versions are available: organized either by morpheme or by lemgram.</p>\n\n<p>This work has been supported by a grant from the Swedish Riksbankens Jubileumsfond (<a target=\"_blank\" href=\"https://spraakbanken.gu.se/en/projects/l2profiles\">Development of lexical and grammatical competences in immigrant Swedish, project P17-0716:1</a>).</p>\n\n<small>To cite this resource:</br>\nVolodina, Elena, Yousuf Ali Mohammed, and Therese Lindström Tiedemann. 2021. CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish. In The 23rd Nordic Conference on Computational Linguistics. 2021.</small>",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "CoDeRooMor, v.01",
+    "eng": "CoDeRooMor, v.01"
+  },
+  "short_description": {
+    "swe": "Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet",
+    "eng": "Morphological dataset (word-building morphology), Swedish L2 profiles project, "
+  },
+  "description": {
+    "swe": "",
+    "eng": "<p>The CoDeRooMor dataset (version 1.0) contains 16 230 lemgrams generated from COCTAILL (course book corpus) and SweLL-pilot  (learner essay corpus) to represent vocabulary relevant for learners of Swedish as a second language, and hypothetically containing most frequent vocabulary in Swedish. The lemgrams in CoDeRooMor have been manually analysed for roots, prefixes, suffixes, infixes/binding morphemes (sv: fogemorfem) and other morpheme types, e.g. o-är-lig:\n\n\t<ul>\n\t\t<li>\"o\" prefix,</li>\n\t\t<li>\"är\" root ,</li>\n\t\t<li>\"lig\" suffix</li>\n\t</ul>\n</p>\n\n<p>The dataset represents 4 429 unique roots, 259 unique derivational suffixes, 155 unique prefixes, 12 unique binding morphemes (infixes), and a few inflectional morphemes that have been analyzed as a part of lexicalized forms or similar.</p>\n\n<p>Each lemgram has an associated word formation mechanism, such as derivation, compounding, root lexeme.</p>\n\n<p>Morphological annotation scheme follows principles outlined in Swedish Academy Grammar (SAG) and SAOL/SO.</p>\n\n<p>Given the ”gold” nature of the resource, it is possible to use it for empirical studies as well as to develop linguistically-aware algorithms for morpheme segmentation and labeling.</p>\n\n<p>For details about the list, the annotation process and reasoning around it, see <a target=\"_blank\" href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf\">the article on CoDeRooMor</a>.</p>\n\n<p>For a short summary, see <a target=\"_blank\" href=\"https://spraakbanken.gu.se/blogg/index.php/2021/04/14/swedish-derivational-morphology-with-coderoomor/\">this blog</a>.</p>\n\n<p>The dataset can be downloaded in csv or excel file format. Two versions are available: organized either by morpheme or by lemgram.</p>\n\n<p>This work has been supported by a grant from the Swedish Riksbankens Jubileumsfond (<a target=\"_blank\" href=\"https://spraakbanken.gu.se/en/projects/l2profiles\">Development of lexical and grammatical competences in immigrant Swedish, project P17-0716:1</a>).</p>\n\n<small>To cite this resource:</br>\nVolodina, Elena, Yousuf Ali Mohammed, and Therese Lindström Tiedemann. 2021. CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish. In The 23rd Nordic Conference on Computational Linguistics. 2021.</small>"
+  }
 }

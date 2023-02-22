@@ -1,11 +1,6 @@
 {
-  "id": "europarl-svda",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Europarl – svenska-danska",
-  "name_en": "Europarl – Swedish-Danish",
-  "description_sv": "Del av European Parliament Proceedings Parallel Corpus",
-  "description_en": "Part of European Parliament Proceedings Parallel Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "dan"
-  ]
+  ],
+  "name": {
+    "swe": "Europarl – svenska-danska",
+    "eng": "Europarl – Swedish-Danish"
+  },
+  "short_description": {
+    "swe": "Del av European Parliament Proceedings Parallel Corpus",
+    "eng": "Part of European Parliament Proceedings Parallel Corpus"
+  }
 }

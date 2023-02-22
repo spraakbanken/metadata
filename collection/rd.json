@@ -1,12 +1,7 @@
 {
-  "id": "rd",
   "type": "corpus",
   "trainingdata": false,
   "collection": true,
-  "name_sv": "Riksdagens öppna data",
-  "name_en": "Riksdagens öppna data",
-  "description_sv": "Data från data.riksdagen.se",
-  "description_en": "Data from the Swedish parliament collected from data.riksdagen.se",
   "interface": [
     {
       "licence": "CC BY 4.0",
@@ -23,9 +18,19 @@
       "email": "sb-info@svenska.gu.se"
     }
   },
-  "long_description_sv": "Datan är insamlat 2022 från <a href=\"https://data.riksdagen.se/data/dokument/\">data.riksdagen.se/data/dokument/</a> och kommer att uppdateras någorlunda regelbundet.",
-  "long_description_en": "The data was collected 2022 from <a href=\"https://data.riksdagen.se/data/dokument/\">data.riksdagen.se/data/dokument/</a> and is subject to updates.",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data",
+    "eng": "Riksdagens öppna data"
+  },
+  "short_description": {
+    "swe": "Data från data.riksdagen.se",
+    "eng": "Data from the Swedish parliament collected from data.riksdagen.se"
+  },
+  "description": {
+    "swe": "Datan är insamlat 2022 från <a href=\"https://data.riksdagen.se/data/dokument/\">data.riksdagen.se/data/dokument/</a> och kommer att uppdateras någorlunda regelbundet.",
+    "eng": "The data was collected 2022 from <a href=\"https://data.riksdagen.se/data/dokument/\">data.riksdagen.se/data/dokument/</a> and is subject to updates."
+  }
 }

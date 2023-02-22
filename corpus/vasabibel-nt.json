@@ -1,11 +1,6 @@
 {
-  "id": "vasabibel-nt",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Gustav Vasas bibel - Nya testamentet",
-  "name_en": "Gustav Vasa's bible - New testament",
-  "description_sv": "Nya Testamentet i Gustav Vasas bibel /under jämförelse med texten av år 1526 utgivet av Natan Lindqvist 1941",
-  "description_en": "The new testament in Gustav Vasa's Bible published by Natan Lidqvist in 1941",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Gustav Vasas bibel - Nya testamentet",
+    "eng": "Gustav Vasa's bible - New testament"
+  },
+  "short_description": {
+    "swe": "Nya Testamentet i Gustav Vasas bibel /under jämförelse med texten av år 1526 utgivet av Natan Lindqvist 1941",
+    "eng": "The new testament in Gustav Vasa's Bible published by Natan Lidqvist in 1941"
+  }
 }

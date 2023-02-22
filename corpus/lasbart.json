@@ -1,11 +1,6 @@
 {
-  "id": "lasbart",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "LäSBarT",
-  "name_en": "LäSBarT",
-  "description_sv": "LäSBarT - Lättläst svenska och barnbokstext",
-  "description_en": "LäSBarT - Easy to read Swedish and texts from children's books",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "LäSBarT",
+    "eng": "LäSBarT"
+  },
+  "short_description": {
+    "swe": "LäSBarT - Lättläst svenska och barnbokstext",
+    "eng": "LäSBarT - Easy to read Swedish and texts from children's books"
+  }
 }

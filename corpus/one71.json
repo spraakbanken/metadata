@@ -1,11 +1,6 @@
 {
-  "id": "one71",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)",
-  "name_en": "Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)",
-  "description_sv": "Del av SOL - Spanska Online",
-  "description_en": "Part of SOL - Spanish Online",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -55,5 +50,13 @@
   },
   "language_codes": [
     "spa"
-  ]
+  ],
+  "name": {
+    "swe": "Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)",
+    "eng": "Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)"
+  },
+  "short_description": {
+    "swe": "Del av SOL - Spanska Online",
+    "eng": "Part of SOL - Spanish Online"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "ub-kvt-dagny",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Dagny",
-  "name_en": "Dagny",
-  "description_sv": "En korpus med texter från kvinnotidningen Dagny",
-  "description_en": "A corpus with texts from the women's newspaper Dagny",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dagny",
+    "eng": "Dagny"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Dagny",
+    "eng": "A corpus with texts from the women's newspaper Dagny"
+  }
 }

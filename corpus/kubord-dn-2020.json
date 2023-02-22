@@ -1,11 +1,6 @@
 {
-  "id": "kubord-dn-2020",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Word frequencies Dagens Nyheter 2020",
-  "name_sv": "Ordfrekvenser Dagens Nyheter 2020",
-  "description_en": "Part of the collection Kubord",
-  "description_sv": "Del av samlingen Kubord",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ordfrekvenser Dagens Nyheter 2020",
+    "eng": "Word frequencies Dagens Nyheter 2020"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  }
 }

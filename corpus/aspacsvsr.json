@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvsr",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-serbiska (latin)",
-  "name_en": "ASPAC – Swedish-Serbian (latin)",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "srp"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-serbiska (latin)",
+    "eng": "ASPAC – Swedish-Serbian (latin)"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

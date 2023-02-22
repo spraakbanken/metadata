@@ -1,11 +1,6 @@
 {
-  "id": "ub-kvt-rostratt",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Rösträtt för Kvinnor",
-  "name_en": "Rösträtt för Kvinnor",
-  "description_sv": "En korpus med texter från kvinnotidningen Rösträtt för Kvinnor",
-  "description_en": "A corpus with texts from the women's newspaper Rösträtt för Kvinnor",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Rösträtt för Kvinnor",
+    "eng": "Rösträtt för Kvinnor"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Rösträtt för Kvinnor",
+    "eng": "A corpus with texts from the women's newspaper Rösträtt för Kvinnor"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "lb",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Litteraturbanken",
-  "name_en": "The Swedish Literature Bank",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Litteraturbanken",
+    "eng": "The Swedish Literature Bank"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

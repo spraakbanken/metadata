@@ -1,13 +1,9 @@
 {
-  "id": "rd-rskr",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - Riksdagsskrivelse",
-  "description_sv": "Skrivelser från riksdagen till regeringen",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Riksdagsskrivelse",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Skrivelser från riksdagen till regeringen",
+    "eng": ""
+  }
 }

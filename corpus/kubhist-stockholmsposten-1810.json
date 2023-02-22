@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-stockholmsposten-1810",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Gothenburgsposten 1810-talet",
-  "name_en": "Gothenburgsposten 1810's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Gothenburgsposten 1810-talet",
+    "eng": "Gothenburgsposten 1810's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

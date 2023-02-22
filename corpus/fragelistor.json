@@ -1,12 +1,7 @@
 {
-  "id": "fragelistor",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Ethnological question lists",
-  "name_sv": "Etnologiska frågelistor",
-  "description_en": "Question lists of the Nordic Museum",
-  "description_sv": "Nordiska museets etnologiska frågelistor",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Etnologiska frågelistor",
+    "eng": "Ethnological question lists"
+  },
+  "short_description": {
+    "swe": "Nordiska museets etnologiska frågelistor",
+    "eng": "Question lists of the Nordic Museum"
+  }
 }

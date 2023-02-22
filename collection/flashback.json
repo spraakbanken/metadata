@@ -1,12 +1,7 @@
 {
-  "id": "flashback",
   "type": "corpus",
   "trainingdata": false,
   "collection": true,
-  "name_sv": "Flashback",
-  "name_en": "Flashback",
-  "description_sv": "Material från diskussionsforumet Flashback",
-  "description_en": "Material from the Flashback internet forum",
   "interface": [
     {
       "licence": "CC BY 4.0",
@@ -23,9 +18,19 @@
       "email": "sb-info@svenska.gu.se"
     }
   },
-  "long_description_sv": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.flashback.org/\">Flashback</a>. Samlingen uppdateras ca en gång per år.",
-  "long_description_en": "The texts have been collected from the internet forum <a href=\"https://www.flashback.org/\">Flashback</a>. The collection is updated about once per year.",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Flashback",
+    "eng": "Flashback"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback",
+    "eng": "Material from the Flashback internet forum"
+  },
+  "description": {
+    "swe": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.flashback.org/\">Flashback</a>. Samlingen uppdateras ca en gång per år.",
+    "eng": "The texts have been collected from the internet forum <a href=\"https://www.flashback.org/\">Flashback</a>. The collection is updated about once per year."
+  }
 }

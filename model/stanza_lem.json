@@ -1,11 +1,6 @@
 {
-  "id": "stanza_lem",
   "type": "model",
   "trainingdata": false,
-  "name_sv": "Lemmatiseringsmodell: Stanza",
-  "name_en": "Lemmatization model: Stanza",
-  "description_sv": "Förtränad modell för lemmatisering.",
-  "description_en": "Pretrained model for lemmatization.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -27,8 +22,19 @@
     }
   },
   "size": {},
-  "long_description_en": "<h2>Models</h2>\n<p>We provide a model that enables lemmatization of Swedish text following the <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> standard. Note that SUC3 lemmatization does not exactly match the <a href=\"https://spraakbanken.gu.se/resurser/saldo\">SALDO</a> standard that is used in our <a href=\"https://spraakbanken.gu.se/korp/\">Korp</a> resources.</p>\n\n<p>SUC3 was randomly split into training, validation and test sets (80:10:10). The model was trained for 30 epochs using the default Stanza settings. The accuracy on the test set is 99.18.</p> \n\n<h2>Lemmatizing and training</h2>\n<p>Clone <a href=\"https://stanfordnlp.github.io/stanza/installation_usage.html\">Stanza</a> and install the necessary dependencies. We improved some of the shell scripts that are used to launch Stanza, and we strongly recommend that you download them from <a href=\"https://github.com/spraakbanken/golddatatools/tree/master/stanza\">here</a> and put them in stanza/scripts (replacing the original scripts if necessary).\nStanza was created for parsing UD treebanks in the first place and it assumes that corpora names follow the UD conventions (even if they do not follow the UD annotation scheme). For this reason, your files have to be placed in the folder stanza/corpora/UD_Language-Treebank, where <code>Language</code> is the language name and <code>Treebank</code> is the treebank name (e.g. UD_Swedish-Suc). The files have to be named lang_treebank-ud-set.conllu, where <code>lang</code> is a two-letter code for language (sv), and <code>set</code> is train, dev or test (e.g. sv_suc-ud-train.conllu).\nUse a Linux-like environment. GPU is strongly recommended.<p>\n\n<h3>Lemmatizing</h3>\n<p>Unzip the model and place the .pt file in stanza/saved_models/lemma. Run <code>bash scripts/lemma.sh UD_Swedish-Suc</code> to lemmatize a test set using a pretrained model. The output file will be created in the stanza/corpora folder.</p>\n\n<h3>Training your own models</h3>\n<p>Run <code>bash scripts/run_lemma.sh UD_Swedish-Suc gold</code>.<p>",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Lemmatiseringsmodell: Stanza",
+    "eng": "Lemmatization model: Stanza"
+  },
+  "short_description": {
+    "swe": "Förtränad modell för lemmatisering.",
+    "eng": "Pretrained model for lemmatization."
+  },
+  "description": {
+    "swe": "",
+    "eng": "<h2>Models</h2>\n<p>We provide a model that enables lemmatization of Swedish text following the <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> standard. Note that SUC3 lemmatization does not exactly match the <a href=\"https://spraakbanken.gu.se/resurser/saldo\">SALDO</a> standard that is used in our <a href=\"https://spraakbanken.gu.se/korp/\">Korp</a> resources.</p>\n\n<p>SUC3 was randomly split into training, validation and test sets (80:10:10). The model was trained for 30 epochs using the default Stanza settings. The accuracy on the test set is 99.18.</p> \n\n<h2>Lemmatizing and training</h2>\n<p>Clone <a href=\"https://stanfordnlp.github.io/stanza/installation_usage.html\">Stanza</a> and install the necessary dependencies. We improved some of the shell scripts that are used to launch Stanza, and we strongly recommend that you download them from <a href=\"https://github.com/spraakbanken/golddatatools/tree/master/stanza\">here</a> and put them in stanza/scripts (replacing the original scripts if necessary).\nStanza was created for parsing UD treebanks in the first place and it assumes that corpora names follow the UD conventions (even if they do not follow the UD annotation scheme). For this reason, your files have to be placed in the folder stanza/corpora/UD_Language-Treebank, where <code>Language</code> is the language name and <code>Treebank</code> is the treebank name (e.g. UD_Swedish-Suc). The files have to be named lang_treebank-ud-set.conllu, where <code>lang</code> is a two-letter code for language (sv), and <code>set</code> is train, dev or test (e.g. sv_suc-ud-train.conllu).\nUse a Linux-like environment. GPU is strongly recommended.<p>\n\n<h3>Lemmatizing</h3>\n<p>Unzip the model and place the .pt file in stanza/saved_models/lemma. Run <code>bash scripts/lemma.sh UD_Swedish-Suc</code> to lemmatize a test set using a pretrained model. The output file will be created in the stanza/corpora folder.</p>\n\n<h3>Training your own models</h3>\n<p>Run <code>bash scripts/run_lemma.sh UD_Swedish-Suc gold</code>.<p>"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "konstruktikon-multi",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Flerspråkigt Konstruktikon",
-  "name_en": "Multilingual Constructicon",
-  "description_sv": "Ett flerspråkigt konstruktikon",
-  "description_en": "A multilingual constructicon",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "swe",
     "rus"
-  ]
+  ],
+  "name": {
+    "swe": "Flerspråkigt Konstruktikon",
+    "eng": "Multilingual Constructicon"
+  },
+  "short_description": {
+    "swe": "Ett flerspråkigt konstruktikon",
+    "eng": "A multilingual constructicon"
+  }
 }

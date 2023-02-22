@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-tidningforwenersborg-1840",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Tidning för Wernersborgs stad och län 1840-talet",
-  "name_en": "Tidning för Wernersborgs stad och län 1840's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Tidning för Wernersborgs stad och län 1840-talet",
+    "eng": "Tidning för Wernersborgs stad och län 1840's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

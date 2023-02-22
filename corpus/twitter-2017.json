@@ -1,11 +1,6 @@
 {
-  "id": "twitter-2017",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Svensk Twitter 2017",
-  "name_en": "Swedish Twitter 2017",
-  "description_sv": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
-  "description_en": "Material collected from a selection of Swedish speaking twitter users from 2017",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svensk Twitter 2017",
+    "eng": "Swedish Twitter 2017"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenskspråkiga Twitteranvändare från 2017",
+    "eng": "Material collected from a selection of Swedish speaking twitter users from 2017"
+  }
 }

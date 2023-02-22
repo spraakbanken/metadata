@@ -1,11 +1,6 @@
 {
-  "id": "somali-cb",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Cilmiga bulshada 1971–1980",
-  "name_en": "Cilmiga bulshada 1971–1980",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Cilmiga bulshada 1971–1980",
+    "eng": "Cilmiga bulshada 1971–1980"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

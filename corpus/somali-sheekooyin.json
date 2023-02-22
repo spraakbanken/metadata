@@ -1,11 +1,6 @@
 {
-  "id": "somali-sheekooyin",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Sheekooyin Carruureed",
-  "name_sv": "Sheekooyin Carruureed",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Sheekooyin Carruureed",
+    "eng": "Sheekooyin Carruureed"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

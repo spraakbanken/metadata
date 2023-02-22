@@ -1,11 +1,6 @@
 {
-  "id": "vasabrev",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Gustav Vasas brevproduktion",
-  "name_en": "Gustav Vasa's letter production",
-  "description_sv": "Konung Gustaf den förstes registratur",
-  "description_en": "King Gustav I's registry",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Gustav Vasas brevproduktion",
+    "eng": "Gustav Vasa's letter production"
+  },
+  "short_description": {
+    "swe": "Konung Gustaf den förstes registratur",
+    "eng": "King Gustav I's registry"
+  }
 }

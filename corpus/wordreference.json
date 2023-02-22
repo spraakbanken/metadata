@@ -1,11 +1,6 @@
 {
-  "id": "wordreference",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "WordReference",
-  "name_en": "WordReference",
-  "description_sv": "En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i fyra språk.",
-  "description_en": "A large corpus of native and non-native written speech in four languages.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -30,11 +25,22 @@
     "tokens": "170000000",
     "speakers": "97500"
   },
-  "long_description_en": "<p>The WordReference corpus is a very large corpus (170M+ words) of native and non-native natural written production in four languages: English, Spanish, French and Italian. It has been scraped from <a href=\"https://forum.wordreference.com/\">WordReference</a> forums.</p>\n\n<p>The corpus consists of four tab-separated files (one per language), each containing seven tab-separated columns: message id, poster's nickname, poster' native language(s), the text of the message (post) itself, the id of the topic in response to which the message has been posted (0 if this message is the topic, i.e. the first in the thread), topicstarter's nickname (\"topicstarter\" if the poster is the topicstarter), native language of the topicstarter. These are the \"raw\" data with as little processing as possible (but http links and explicit quotes of other users' posts are removed during the download).</p>\n\n<p> Several useful scripts for working with the corpus (including the one which labels all participants as L1 or L2-speakers in the respective subforum) can be found in this <a href=\"https://github.com/AleksandrsBerdicevskis/word-reference-corpus\">repository</a>.</p>\n\n<p> For a more detailed description of the corpus, its creation and examples of how it can be used, see the following <a href=\"https://www.aclweb.org/anthology/2020.nlpcss-1.18/\">paper</a>: {publication 297766}. Please cite the paper if you are using the corpus.</p>.\n",
   "language_codes": [
     "eng",
     "spa",
     "fra",
     "ita"
-  ]
+  ],
+  "name": {
+    "swe": "WordReference",
+    "eng": "WordReference"
+  },
+  "short_description": {
+    "swe": "En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i fyra språk.",
+    "eng": "A large corpus of native and non-native written speech in four languages."
+  },
+  "description": {
+    "swe": "",
+    "eng": "<p>The WordReference corpus is a very large corpus (170M+ words) of native and non-native natural written production in four languages: English, Spanish, French and Italian. It has been scraped from <a href=\"https://forum.wordreference.com/\">WordReference</a> forums.</p>\n\n<p>The corpus consists of four tab-separated files (one per language), each containing seven tab-separated columns: message id, poster's nickname, poster' native language(s), the text of the message (post) itself, the id of the topic in response to which the message has been posted (0 if this message is the topic, i.e. the first in the thread), topicstarter's nickname (\"topicstarter\" if the poster is the topicstarter), native language of the topicstarter. These are the \"raw\" data with as little processing as possible (but http links and explicit quotes of other users' posts are removed during the download).</p>\n\n<p> Several useful scripts for working with the corpus (including the one which labels all participants as L1 or L2-speakers in the respective subforum) can be found in this <a href=\"https://github.com/AleksandrsBerdicevskis/word-reference-corpus\">repository</a>.</p>\n\n<p> For a more detailed description of the corpus, its creation and examples of how it can be used, see the following <a href=\"https://www.aclweb.org/anthology/2020.nlpcss-1.18/\">paper</a>: {publication 297766}. Please cite the paper if you are using the corpus.</p>.\n"
+  }
 }

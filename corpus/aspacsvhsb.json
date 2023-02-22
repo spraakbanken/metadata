@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvhsb",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-högsorbiska",
-  "name_en": "ASPAC – Swedish-Upper Sorbian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "hsb"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-högsorbiska",
+    "eng": "ASPAC – Swedish-Upper Sorbian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

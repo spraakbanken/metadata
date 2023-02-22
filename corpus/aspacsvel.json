@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvel",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-grekiska",
-  "name_en": "ASPAC – Swedish-Greek",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "ell"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-grekiska",
+    "eng": "ASPAC – Swedish-Greek"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

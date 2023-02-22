@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvru",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-ryska",
-  "name_en": "ASPAC – Swedish-Russian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "rus"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-ryska",
+    "eng": "ASPAC – Swedish-Russian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

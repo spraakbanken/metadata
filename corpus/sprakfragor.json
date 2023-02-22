@@ -1,11 +1,6 @@
 {
-  "id": "sprakfragor",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Besvarade Språkfrågor",
-  "name_en": "Questions about the Swedish Language",
-  "description_sv": "Spåkrådets rådgivningsmejl",
-  "description_en": "Counselling mails of the Language Council of Sweden",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Besvarade Språkfrågor",
+    "eng": "Questions about the Swedish Language"
+  },
+  "short_description": {
+    "swe": "Spåkrådets rådgivningsmejl",
+    "eng": "Counselling mails of the Language Council of Sweden"
+  }
 }

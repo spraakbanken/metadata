@@ -1,11 +1,6 @@
 {
-  "id": "fsv-nysvenskkronikor",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Nysvenska krönikor – Fornsvenska textbankens material",
-  "name_en": "Nysvenska krönikor – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Nysvenska krönikor – Fornsvenska textbankens material",
+    "eng": "Nysvenska krönikor – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "osterbottenstidning2012",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Österbottens tidning 2012",
-  "name_en": "Österbottens tidning 2012",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -35,12 +30,23 @@
   "size": {
     "tokens": "217453"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-osterbottenstidning.html}\n",
   "languages": [
     {
       "code": "sv-FI",
       "name_en": "Finland Swedish",
       "name_sv": "finlandssvenska"
     }
-  ]
+  ],
+  "name": {
+    "swe": "Österbottens tidning 2012",
+    "eng": "Österbottens tidning 2012"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-osterbottenstidning.html}\n",
+    "eng": ""
+  }
 }

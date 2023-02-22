@@ -1,13 +1,9 @@
 {
-  "id": "rd-utr",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - Utredningar",
-  "description_sv": "Kommittédirektiv och kommittéberättelser för utredningar som regeringen tillsätter",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Utredningar",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Kommittédirektiv och kommittéberättelser för utredningar som regeringen tillsätter",
+    "eng": ""
+  }
 }

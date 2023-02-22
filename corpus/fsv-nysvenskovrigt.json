@@ -1,11 +1,6 @@
 {
-  "id": "fsv-nysvenskovrigt",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Nysvenska, övrigt – Fornsvenska textbankens material",
-  "name_en": "Nysvenska, övrigt – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Nysvenska, övrigt – Fornsvenska textbankens material",
+    "eng": "Nysvenska, övrigt – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

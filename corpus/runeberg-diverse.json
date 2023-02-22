@@ -1,11 +1,6 @@
 {
-  "id": "runeberg-diverse",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Diverse tidningar",
-  "name_en": "Diverse tidningar",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Diverse tidningar",
+    "eng": "Diverse tidningar"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "historical-embeddings",
   "type": "model",
   "trainingdata": false,
-  "name_sv": "Svenska historiska inbäddningar (word embeddings)",
-  "name_en": "Swedish Diachronic Word Embeddings",
-  "description_sv": "Förtränade inbäddningar (word embeddings) för historisk svenska",
-  "description_en": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -26,5 +21,13 @@
       "email": "sb-info@svenska.gu.se"
     }
   },
-  "size": {}
+  "size": {},
+  "name": {
+    "swe": "Svenska historiska inbäddningar (word embeddings)",
+    "eng": "Swedish Diachronic Word Embeddings"
+  },
+  "short_description": {
+    "swe": "Förtränade inbäddningar (word embeddings) för historisk svenska",
+    "eng": "Swedish Diachronic Word Embedding Models Trained on Historical Newspaper Data"
+  }
 }

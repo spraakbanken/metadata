@@ -1,11 +1,6 @@
 {
-  "id": "snp7879",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "SNP 1978-79",
-  "name_en": "SNP 1978-79",
-  "description_sv": "Riksdagens snabbprotokoll 1978-1979",
-  "description_en": "Swedish parliament proceedings",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SNP 1978-79",
+    "eng": "SNP 1978-79"
+  },
+  "short_description": {
+    "swe": "Riksdagens snabbprotokoll 1978-1979",
+    "eng": "Swedish parliament proceedings"
+  }
 }

@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-faluposten-1890",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Faluposten 1890's",
-  "name_sv": "Faluposten 1890-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Faluposten 1890-talet",
+    "eng": "Faluposten 1890's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

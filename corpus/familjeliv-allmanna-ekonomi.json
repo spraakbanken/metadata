@@ -1,14 +1,9 @@
 {
-  "id": "familjeliv-allmanna-ekonomi",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "familjeliv"
   ],
-  "name_en": "Familjeliv: General Threads – Economics & Law",
-  "name_sv": "Familjeliv: Allmänna rubriker – Ekonomi & juridik",
-  "description_en": "Material from the Familjeliv internet forum.",
-  "description_sv": "Material från diskussionsforumet Familjeliv.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Familjeliv: Allmänna rubriker – Ekonomi & juridik",
+    "eng": "Familjeliv: General Threads – Economics & Law"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  }
 }

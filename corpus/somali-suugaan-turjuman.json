@@ -1,11 +1,6 @@
 {
-  "id": "somali-suugaan-turjuman",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Suugaan (Turjuman)",
-  "name_sv": "Suugaan (Turjuman)",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Suugaan (Turjuman)",
+    "eng": "Suugaan (Turjuman)"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

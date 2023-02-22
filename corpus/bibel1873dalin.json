@@ -1,11 +1,6 @@
 {
-  "id": "bibel1873dalin",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bibeln 1873",
-  "name_en": "Swedish Bible 1873",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bibeln 1873",
+    "eng": "Swedish Bible 1873"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

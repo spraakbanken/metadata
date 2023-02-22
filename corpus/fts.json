@@ -1,11 +1,6 @@
 {
-  "id": "fts",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "FTS - Färöisk textsamling",
-  "name_en": "FTS - Faroese text collection",
-  "description_sv": "Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/",
-  "description_en": "Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -43,5 +38,13 @@
   },
   "language_codes": [
     "fao"
-  ]
+  ],
+  "name": {
+    "swe": "FTS - Färöisk textsamling",
+    "eng": "FTS - Faroese text collection"
+  },
+  "short_description": {
+    "swe": "Färöisk TextSamling, i samarbete med Färöarnas universitet, Fróðskaparsetur Føroya, http://www.setur.fo/",
+    "eng": "Faroese text collection, in cooperation with University of Faroe Islands, Fróðskaparsetur Føroya, http://www.setur.fo/"
+  }
 }

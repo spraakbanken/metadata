@@ -1,11 +1,6 @@
 {
-  "id": "lsi",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "LSI",
-  "name_en": "LSI",
-  "description_sv": "Linguistic Survey of India",
-  "description_en": "Linguistic Survey of India",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   },
   "language_codes": [
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "LSI",
+    "eng": "LSI"
+  },
+  "short_description": {
+    "swe": "Linguistic Survey of India",
+    "eng": "Linguistic Survey of India"
+  }
 }

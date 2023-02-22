@@ -1,11 +1,6 @@
 {
-  "id": "swefn",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Svenskt frasnät (SweFN)",
-  "name_en": "Swedish FrameNet (SweFN)",
-  "description_sv": "En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. ",
-  "description_en": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. ",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svenskt frasnät (SweFN)",
+    "eng": "Swedish FrameNet (SweFN)"
+  },
+  "short_description": {
+    "swe": "En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. ",
+    "eng": "A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. "
+  }
 }

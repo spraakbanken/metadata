@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-malmoallehanda-1830",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Malmö Allehanda 1830's",
-  "name_sv": "Malmö Allehanda 1830-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Malmö Allehanda 1830-talet",
+    "eng": "Malmö Allehanda 1830's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

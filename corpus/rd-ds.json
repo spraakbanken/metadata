@@ -1,13 +1,9 @@
 {
-  "id": "rd-ds",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - Departementsserien",
-  "description_sv": "Utredningar från regeringens departement",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Departementsserien",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Utredningar från regeringens departement",
+    "eng": ""
+  }
 }

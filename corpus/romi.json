@@ -1,11 +1,6 @@
 {
-  "id": "romi",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bonniersromaner I (1976/77)",
-  "name_en": "Bonnier novels I (1976/77)",
-  "description_sv": "En korpus av 69 Bonniersromaner från 1976-77",
-  "description_en": "A corpus of 69 Bonnier novels from 1976-77",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bonniersromaner I (1976/77)",
+    "eng": "Bonnier novels I (1976/77)"
+  },
+  "short_description": {
+    "swe": "En korpus av 69 Bonniersromaner från 1976-77",
+    "eng": "A corpus of 69 Bonnier novels from 1976-77"
+  }
 }

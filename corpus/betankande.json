@@ -1,11 +1,6 @@
 {
-  "id": "betankande",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Betänkande angående likformig uppställning av grammatiska läroböcker",
-  "name_en": "Betänkande angående likformig uppställning av grammatiska läroböcker",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Betänkande angående likformig uppställning av grammatiska läroböcker",
+    "eng": "Betänkande angående likformig uppställning av grammatiska läroböcker"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

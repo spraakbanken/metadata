@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-fahluweckoblad-1780",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Fahlu weckoblad 1780-talet",
-  "name_en": "Fahlu weckoblad 1780's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Fahlu weckoblad 1780-talet",
+    "eng": "Fahlu weckoblad 1780's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

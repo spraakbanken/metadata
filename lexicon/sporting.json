@@ -1,11 +1,6 @@
 {
-  "id": "sporting",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Sportanglicismer",
-  "name_en": "Sports anglicisms",
-  "description_sv": "Engelska lånord i svenska sportspalter",
-  "description_en": "English loan-words in the Swedish sports press",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Sportanglicismer",
+    "eng": "Sports anglicisms"
+  },
+  "short_description": {
+    "swe": "Engelska lånord i svenska sportspalter",
+    "eng": "English loan-words in the Swedish sports press"
+  }
 }

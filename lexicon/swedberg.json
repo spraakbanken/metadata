@@ -1,11 +1,6 @@
 {
-  "id": "swedberg",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Swedbergs Swensk ordabok",
-  "name_en": "Swedberg's Swensk Ordabok",
-  "description_sv": "Swedbergs Swensk Ordabok",
-  "description_en": "Swedberg's Swensk Ordabok",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "swe",
     "lat"
-  ]
+  ],
+  "name": {
+    "swe": "Swedbergs Swensk ordabok",
+    "eng": "Swedberg's Swensk Ordabok"
+  },
+  "short_description": {
+    "swe": "Swedbergs Swensk Ordabok",
+    "eng": "Swedberg's Swensk Ordabok"
+  }
 }

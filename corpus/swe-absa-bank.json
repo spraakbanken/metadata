@@ -1,11 +1,6 @@
 {
-  "id": "swe-absa-bank",
   "type": "corpus",
   "trainingdata": true,
-  "name_sv": "Svensk ABSAbank",
-  "name_en": "Swedish ABSAbank",
-  "description_sv": "Svensk annoterad korpus för aspektbaserad attitydanalys",
-  "description_en": "An annotated Swedish corpus for aspect-based sentiment analysis",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -40,5 +35,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svensk ABSAbank",
+    "eng": "Swedish ABSAbank"
+  },
+  "short_description": {
+    "swe": "Svensk annoterad korpus för aspektbaserad attitydanalys",
+    "eng": "An annotated Swedish corpus for aspect-based sentiment analysis"
+  }
 }

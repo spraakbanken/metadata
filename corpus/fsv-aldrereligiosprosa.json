@@ -1,11 +1,6 @@
 {
-  "id": "fsv-aldrereligiosprosa",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Äldre religiös prosa – Fornsvenska textbankens material",
-  "name_en": "Äldre religiös prosa – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Äldre religiös prosa – Fornsvenska textbankens material",
+    "eng": "Äldre religiös prosa – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

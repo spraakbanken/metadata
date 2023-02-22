@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-postochinrikestidning-1860",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Post- och Inrikes Tidningar 1860-talet",
-  "name_en": "Post- och Inrikes Tidningar 1860's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Post- och Inrikes Tidningar 1860-talet",
+    "eng": "Post- och Inrikes Tidningar 1860's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

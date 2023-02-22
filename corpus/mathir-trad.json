@@ -1,11 +1,6 @@
 {
-  "id": "mathir-trad",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "MAÞiR Träd",
-  "name_en": "MAÞiR Trees",
-  "description_sv": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
-  "description_en": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. ",
   "downloads": [
     {
       "licence": "CC BY-NC 4.0",
@@ -31,5 +26,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "MAÞiR Träd",
+    "eng": "MAÞiR Trees"
+  },
+  "short_description": {
+    "swe": "En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.",
+    "eng": "An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. "
+  }
 }

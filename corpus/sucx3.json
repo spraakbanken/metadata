@@ -1,11 +1,6 @@
 {
-  "id": "sucx3",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "SUCX 3.0",
-  "name_en": "SUCX 3.0",
-  "description_sv": "Stockholm-Umeå-korpus 3.0 omkastad",
-  "description_en": "Stockholm-Umeå corpus 3.0 scrambled",
   "downloads": [
     {
       "licence": "CC BY-SA 4.0",
@@ -45,9 +40,19 @@
     "tokens": "1166593",
     "sentences": "74245"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUCX 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_swe.html}\n",
-  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUCX 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_eng.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SUCX 3.0",
+    "eng": "SUCX 3.0"
+  },
+  "short_description": {
+    "swe": "Stockholm-Umeå-korpus 3.0 omkastad",
+    "eng": "Stockholm-Umeå corpus 3.0 scrambled"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUCX 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_swe.html}\n",
+    "eng": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUCX 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/sucx_eng.html}\n"
+  }
 }

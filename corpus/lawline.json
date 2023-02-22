@@ -1,11 +1,6 @@
 {
-  "id": "lawline",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Lawline",
-  "name_en": "Lawline",
-  "description_sv": "Frågor och svar kring juridisk rådgivning från lawline.",
-  "description_en": "Questions and answers about law counseling.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Lawline",
+    "eng": "Lawline"
+  },
+  "short_description": {
+    "swe": "Frågor och svar kring juridisk rådgivning från lawline.",
+    "eng": "Questions and answers about law counseling."
+  }
 }

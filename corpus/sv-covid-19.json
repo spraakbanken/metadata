@@ -1,11 +1,6 @@
 {
-  "id": "sv-covid-19",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "sv-COVID-19",
-  "name_sv": "sv-COVID-19",
-  "description_en": "Miscellaneous articles related to corona.",
-  "description_sv": "Blandade artiklar relaterade till corona.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -55,5 +50,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "sv-COVID-19",
+    "eng": "sv-COVID-19"
+  },
+  "short_description": {
+    "swe": "Blandade artiklar relaterade till corona.",
+    "eng": "Miscellaneous articles related to corona."
+  }
 }

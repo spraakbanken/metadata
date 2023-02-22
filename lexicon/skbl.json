@@ -1,11 +1,6 @@
 {
-  "id": "skbl",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "SKBL",
-  "name_en": "SKBL",
-  "description_sv": "Svenskt kvinnobiografiskt lexikon",
-  "description_en": "The Biographical Dictionary of Swedish Women",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "swe",
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "SKBL",
+    "eng": "SKBL"
+  },
+  "short_description": {
+    "swe": "Svenskt kvinnobiografiskt lexikon",
+    "eng": "The Biographical Dictionary of Swedish Women"
+  }
 }

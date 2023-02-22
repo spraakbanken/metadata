@@ -1,11 +1,6 @@
 {
-  "id": "europarl-sv",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Europarl – svenska",
-  "name_en": "Europarl – Swedish",
-  "description_sv": "Svenska delen av European Parliament Proceedings Parallel Corpus",
-  "description_en": "The Swedish part of European Parliament Proceedings Parallel Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Europarl – svenska",
+    "eng": "Europarl – Swedish"
+  },
+  "short_description": {
+    "swe": "Svenska delen av European Parliament Proceedings Parallel Corpus",
+    "eng": "The Swedish part of European Parliament Proceedings Parallel Corpus"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "hellqvist",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Hellquists Svensk etymologisk ordbok",
-  "name_en": "Hellquist's Swedish etymology",
-  "description_sv": "Hellquists Svensk etymologisk ordbok",
-  "description_en": "Hellquist's Swedish etymology",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Hellquists Svensk etymologisk ordbok",
+    "eng": "Hellquist's Swedish etymology"
+  },
+  "short_description": {
+    "swe": "Hellquists Svensk etymologisk ordbok",
+    "eng": "Hellquist's Swedish etymology"
+  }
 }

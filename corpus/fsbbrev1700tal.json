@@ -1,11 +1,6 @@
 {
-  "id": "fsbbrev1700tal",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Brev 1700-tal",
-  "name_en": "Letters 1700-tal",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Brev 1700-tal",
+    "eng": "Letters 1700-tal"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

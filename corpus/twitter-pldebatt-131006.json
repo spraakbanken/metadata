@@ -1,11 +1,6 @@
 {
-  "id": "twitter-pldebatt-131006",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Twitter: Party Leader Debate October 2013",
-  "name_en": "Twitter: Partiledardebatt oktober 2013",
-  "description_sv": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
-  "description_en": "Material from a selection of Swedish Twitter users. Is regularly updated.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Twitter: Party Leader Debate October 2013",
+    "eng": "Twitter: Partiledardebatt oktober 2013"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish Twitter users. Is regularly updated."
+  }
 }

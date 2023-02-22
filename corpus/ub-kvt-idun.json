@@ -1,11 +1,6 @@
 {
-  "id": "ub-kvt-idun",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Idun",
-  "name_en": "Idun",
-  "description_sv": "En korpus med texter från kvinnotidningen Idun",
-  "description_en": "A corpus with texts from the women's newspaper Idun",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Idun",
+    "eng": "Idun"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Idun",
+    "eng": "A corpus with texts from the women's newspaper Idun"
+  }
 }

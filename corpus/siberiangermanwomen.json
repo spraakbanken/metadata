@@ -1,11 +1,6 @@
 {
-  "id": "siberiangermanwomen",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Sibirientyska kvinnor",
-  "name_en": "Sibirientyska kvinnor",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Sibirientyska kvinnor",
+    "eng": "Sibirientyska kvinnor"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

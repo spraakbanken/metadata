@@ -1,11 +1,6 @@
 {
-  "id": "bibel1917",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bibeln 1917",
-  "name_en": "Swedish Bible 1917",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bibeln 1917",
+    "eng": "Swedish Bible 1917"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

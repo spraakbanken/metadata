@@ -1,12 +1,7 @@
 {
-  "id": "familjeliv",
   "type": "corpus",
   "trainingdata": false,
   "collection": true,
-  "name_sv": "Familjeliv",
-  "name_en": "Familjeliv",
-  "description_sv": "Material från diskussionsforumet Familjeliv",
-  "description_en": "Material from the Familjeliv internet forum",
   "interface": [
     {
       "licence": "CC BY 4.0",
@@ -23,9 +18,19 @@
       "email": "sb-info@svenska.gu.se"
     }
   },
-  "long_description_sv": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. Samlingen uppdateras ca en gång per år.",
-  "long_description_en": "The texts have been collected from the internet forum <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. The collection is updated about once per year.",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Familjeliv",
+    "eng": "Familjeliv"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv",
+    "eng": "Material from the Familjeliv internet forum"
+  },
+  "description": {
+    "swe": "Texterna har samlats in från diskussionsforumet <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. Samlingen uppdateras ca en gång per år.",
+    "eng": "The texts have been collected from the internet forum <a href=\"https://www.familjeliv.se/\">Familjeliv</a>. The collection is updated about once per year."
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "saldom",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "SALDOs morfologi",
-  "name_en": "SALDO's morphology",
-  "description_sv": "Semantiskt och morfologiskt lexikon för språkteknologi",
-  "description_en": "Semantic and morphological lexicon for language technology",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SALDOs morfologi",
+    "eng": "SALDO's morphology"
+  },
+  "short_description": {
+    "swe": "Semantiskt och morfologiskt lexikon för språkteknologi",
+    "eng": "Semantic and morphological lexicon for language technology"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "ivip-demo",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "IVIP demo",
-  "name_sv": "IVIP demo",
-  "description_en": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish. This is an open sub set of the IVIP corpus.",
-  "description_sv": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska. Detta är en öppen delmängd av IVIP-korusen.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +51,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "IVIP demo",
+    "eng": "IVIP demo"
+  },
+  "short_description": {
+    "swe": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska. Detta är en öppen delmängd av IVIP-korusen.",
+    "eng": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish. This is an open sub set of the IVIP corpus."
+  }
 }

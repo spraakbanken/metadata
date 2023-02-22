@@ -1,11 +1,6 @@
 {
-  "id": "votiskacandidates",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Votiska (kandidater)",
-  "name_en": "Votic (candidates)",
-  "description_sv": "Morfologiskt lexikon för votiska",
-  "description_en": "Morphological lexicon of Votic",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Votiska (kandidater)",
+    "eng": "Votic (candidates)"
+  },
+  "short_description": {
+    "swe": "Morfologiskt lexikon för votiska",
+    "eng": "Morphological lexicon of Votic"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "ub-kvt-tidevarvet",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Tidevarvet",
-  "name_en": "Tidevarvet",
-  "description_sv": "En korpus med texter från kvinnotidningen Tidevarvet",
-  "description_en": "A corpus with texts from the women's newspaper Tidevarvet",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Tidevarvet",
+    "eng": "Tidevarvet"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från kvinnotidningen Tidevarvet",
+    "eng": "A corpus with texts from the women's newspaper Tidevarvet"
+  }
 }

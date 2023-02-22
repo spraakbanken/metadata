@@ -1,11 +1,6 @@
 {
-  "id": "interfra-sv",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "InterFra svenska",
-  "name_en": "InterFra Swedish",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "InterFra svenska",
+    "eng": "InterFra Swedish"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

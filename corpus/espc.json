@@ -1,11 +1,6 @@
 {
-  "id": "espc",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "The English-Swedish Parallel Corpus (ESPC)",
-  "name_en": "The English-Swedish Parallel Corpus (ESPC)",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -27,10 +22,20 @@
     "tokens": "1518759",
     "sentences": "89779"
   },
-  "long_description_sv": "<p>Mer information om ESPC finns på <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC är en skyddad korpus och kan därför inte göras tillgänglig för nedladdning. Om du vill få tillgång till att söka i korpusen via Korp, vänligen kontakta <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
-  "long_description_en": "<p>You can find more information about ESPC at <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC is a protected corpus and is therefore not available for download. If you want to be able to search the corpus via Korp please contact <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
   "language_codes": [
     "swe",
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "The English-Swedish Parallel Corpus (ESPC)",
+    "eng": "The English-Swedish Parallel Corpus (ESPC)"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  },
+  "description": {
+    "swe": "<p>Mer information om ESPC finns på <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC är en skyddad korpus och kan därför inte göras tillgänglig för nedladdning. Om du vill få tillgång till att söka i korpusen via Korp, vänligen kontakta <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n",
+    "eng": "<p>You can find more information about ESPC at <a href=\"https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc\">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.\n</p>\n\n<p>\nESPC is a protected corpus and is therefore not available for download. If you want to be able to search the corpus via Korp please contact <a href=\"mailto:espc@sprak.gu.se\">Anna-Lena Fredriksson</a>.\n</p>\n"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "sw1203",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "SW1203-uppsatser",
-  "name_en": "SW1203-essays",
-  "description_sv": "Essays written by L2 Swedish language learners, university courses",
-  "description_en": "Essays written by L2 Swedish language learners, university courses",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SW1203-uppsatser",
+    "eng": "SW1203-essays"
+  },
+  "short_description": {
+    "swe": "Essays written by L2 Swedish language learners, university courses",
+    "eng": "Essays written by L2 Swedish language learners, university courses"
+  }
 }

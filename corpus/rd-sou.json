@@ -1,13 +1,9 @@
 {
-  "id": "rd-sou",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - Statens offentliga utredningar",
-  "description_sv": "Olika utredningars förslag till regeringen",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Statens offentliga utredningar",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "Olika utredningars förslag till regeringen",
+    "eng": ""
+  }
 }

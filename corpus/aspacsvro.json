@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvro",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-rumänska",
-  "name_en": "ASPAC – Swedish-Romanian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "ron"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-rumänska",
+    "eng": "ASPAC – Swedish-Romanian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

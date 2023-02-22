@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-wermlandstidningen-1840",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Wermlandstidningen 1840's",
-  "name_sv": "Wermlandstidningen 1840-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Wermlandstidningen 1840-talet",
+    "eng": "Wermlandstidningen 1840's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

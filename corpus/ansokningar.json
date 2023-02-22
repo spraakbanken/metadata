@@ -1,11 +1,6 @@
 {
-  "id": "ansokningar",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Applications",
-  "name_sv": "Ansökningar",
-  "description_en": "Anonymised job applications",
-  "description_sv": "Anonymiserade jobbansökningar",
   "downloads": [],
   "interface": [
     {
@@ -39,5 +34,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ansökningar",
+    "eng": "Applications"
+  },
+  "short_description": {
+    "swe": "Anonymiserade jobbansökningar",
+    "eng": "Anonymised job applications"
+  }
 }

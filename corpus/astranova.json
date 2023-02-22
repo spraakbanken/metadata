@@ -1,11 +1,6 @@
 {
-  "id": "astranova",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Astra Nova 2008-2010",
-  "name_en": "Astra Nova 2008-2010",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,8 +31,19 @@
     "tokens": "203317",
     "sentences": "11514"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-astranova.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Astra Nova 2008-2010",
+    "eng": "Astra Nova 2008-2010"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-astranova.html}\n",
+    "eng": ""
+  }
 }

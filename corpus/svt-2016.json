@@ -1,14 +1,9 @@
 {
-  "id": "svt-2016",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "svt"
   ],
-  "name_en": "SVT news 2016",
-  "name_sv": "SVT nyheter 2016",
-  "description_en": "News texts from svt.se",
-  "description_sv": "Nyhetstexter från svt.se",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SVT nyheter 2016",
+    "eng": "SVT news 2016"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från svt.se",
+    "eng": "News texts from svt.se"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "borgabladet2",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Borgåbladet 1885",
-  "name_en": "Borgåbladet 1885",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Borgåbladet 1885",
+    "eng": "Borgåbladet 1885"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

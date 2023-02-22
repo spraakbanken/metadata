@@ -1,11 +1,6 @@
 {
-  "id": "osa",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "OSA (SAOB)",
-  "name_en": "OSA (SAOB)",
-  "description_sv": "Svenska Akademiens ordbok på nätet",
-  "description_en": "The Swedish Academy Dictionary online",
   "downloads": [],
   "interface": [],
   "contact_info": {
@@ -22,5 +17,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "OSA (SAOB)",
+    "eng": "OSA (SAOB)"
+  },
+  "short_description": {
+    "swe": "Svenska Akademiens ordbok på nätet",
+    "eng": "The Swedish Academy Dictionary online"
+  }
 }

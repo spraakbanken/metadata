@@ -1,11 +1,6 @@
 {
-  "id": "wordnet-saldo",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "WordNet-SALDO",
-  "name_en": "WordNet-SALDO",
-  "description_sv": "En länkning mellan SALDO och Core WordNet",
-  "description_en": "A linking between SALDO senses and Core WordNet",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "swe",
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "WordNet-SALDO",
+    "eng": "WordNet-SALDO"
+  },
+  "short_description": {
+    "swe": "En länkning mellan SALDO och Core WordNet",
+    "eng": "A linking between SALDO senses and Core WordNet"
+  }
 }

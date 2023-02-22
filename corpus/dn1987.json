@@ -1,12 +1,7 @@
 {
-  "id": "dn1987",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "DN 1987",
-  "name_sv": "DN 1987",
-  "description_en": "Dagens Nyheter 1987",
-  "description_sv": "Dagens Nyheter 1987",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -54,8 +49,19 @@
     "stats_export": true,
     "xml_export": "scrambled"
   },
-  "long_description_sv": "<p>\nKorpusen består av ett antal artiklar ur Dagens Nyheter som insamlades\nunder fjortondagars­perioder i februari, maj, augusti och november\n1987. Materialet omfattar c:a 4,3 miljoner löpande ord och levererades\nsom magnetband. Syftet var att komplettera föregångarna Press 65 och\nPress 76 efter ytterligare ett elvaårsintervall. (Den tekniska\nutvecklingen möjliggjorde småningom tätare insamlingar, varför\nelvaårsintervallen frångicks.)\n</p>\n<p>\nI konkordansen identifieras raderna med en fembokstavsförkortning, av\nvilken de två första bokstäverna anger tidningen och de tre senare\navdelning, enligt tidningens egen klassifikation: sålunda DnSPO (Dagens\nNyheter, sportsidorna). De c:a tjugo avdelningarna, med förklaringar,\nfinns listade nedan i en för modernare (fr. -87) tidningsmaterial gemensam förteckning.\n</p>\n<p>Jerker Järborg</p>\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "DN 1987",
+    "eng": "DN 1987"
+  },
+  "short_description": {
+    "swe": "Dagens Nyheter 1987",
+    "eng": "Dagens Nyheter 1987"
+  },
+  "description": {
+    "swe": "<p>\nKorpusen består av ett antal artiklar ur Dagens Nyheter som insamlades\nunder fjortondagars­perioder i februari, maj, augusti och november\n1987. Materialet omfattar c:a 4,3 miljoner löpande ord och levererades\nsom magnetband. Syftet var att komplettera föregångarna Press 65 och\nPress 76 efter ytterligare ett elvaårsintervall. (Den tekniska\nutvecklingen möjliggjorde småningom tätare insamlingar, varför\nelvaårsintervallen frångicks.)\n</p>\n<p>\nI konkordansen identifieras raderna med en fembokstavsförkortning, av\nvilken de två första bokstäverna anger tidningen och de tre senare\navdelning, enligt tidningens egen klassifikation: sålunda DnSPO (Dagens\nNyheter, sportsidorna). De c:a tjugo avdelningarna, med förklaringar,\nfinns listade nedan i en för modernare (fr. -87) tidningsmaterial gemensam förteckning.\n</p>\n<p>Jerker Järborg</p>\n",
+    "eng": ""
+  }
 }

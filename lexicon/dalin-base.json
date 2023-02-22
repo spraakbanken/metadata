@@ -1,11 +1,6 @@
 {
-  "id": "dalin-base",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Dalin Ordbok Öfver Svenska Språket - basmaterial",
-  "name_en": "Dalin Dictionary - Base Material",
-  "description_sv": "Dalins ordbok - Ordbok över 1800-talsspråket",
-  "description_en": "Dalin's Dictionary of 19th century Swedish - base material",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dalin Ordbok Öfver Svenska Språket - basmaterial",
+    "eng": "Dalin Dictionary - Base Material"
+  },
+  "short_description": {
+    "swe": "Dalins ordbok - Ordbok över 1800-talsspråket",
+    "eng": "Dalin's Dictionary of 19th century Swedish - base material"
+  }
 }

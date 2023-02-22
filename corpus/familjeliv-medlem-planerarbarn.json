@@ -1,14 +1,9 @@
 {
-  "id": "familjeliv-medlem-planerarbarn",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "familjeliv"
   ],
-  "name_en": "Familjeliv: Member Threads – Family Planning",
-  "name_sv": "Familjeliv: Medlemstrådar – Planerar barn",
-  "description_en": "Material from the Familjeliv internet forum.",
-  "description_sv": "Material från diskussionsforumet Familjeliv.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Familjeliv: Medlemstrådar – Planerar barn",
+    "eng": "Familjeliv: Member Threads – Family Planning"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Familjeliv.",
+    "eng": "Material from the Familjeliv internet forum."
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "litterartidskrift-helsingfors",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Litterär tidskrift utgifven i Helsingfors",
-  "name_en": "Literary magazine published in Helsingfors",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Litterär tidskrift utgifven i Helsingfors",
+    "eng": "Literary magazine published in Helsingfors"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

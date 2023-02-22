@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvit",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-italienska",
-  "name_en": "ASPAC – Swedish-Italian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "ita"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-italienska",
+    "eng": "ASPAC – Swedish-Italian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

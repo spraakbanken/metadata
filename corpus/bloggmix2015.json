@@ -1,11 +1,6 @@
 {
-  "id": "bloggmix2015",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bloggmix 2015",
-  "name_en": "Bloggmix 2015",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bloggmix 2015",
+    "eng": "Bloggmix 2015"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

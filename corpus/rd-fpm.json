@@ -1,13 +1,9 @@
 {
-  "id": "rd-fpm",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": null,
-  "name_sv": "Riksdagens öppna data - Faktapromemoria",
-  "description_sv": "Regeringens faktapromemorior om EU-kommissionens förslag",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Faktapromemoria",
+    "eng": null
+  },
+  "short_description": {
+    "swe": "Regeringens faktapromemorior om EU-kommissionens förslag",
+    "eng": ""
+  }
 }

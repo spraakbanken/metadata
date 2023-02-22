@@ -1,11 +1,6 @@
 {
-  "id": "fsv-nysvenskbibel",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Nysvenska bibelböcker – Fornsvenska textbankens material",
-  "name_en": "Nysvenska bibelböcker – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Nysvenska bibelböcker – Fornsvenska textbankens material",
+    "eng": "Nysvenska bibelböcker – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

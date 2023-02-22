@@ -1,11 +1,6 @@
 {
-  "id": "kubord-svd-2021",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Word frequencies Svenska Dagbladet 2021",
-  "name_sv": "Ordfrekvenser Svenska Dagbladet 2021",
-  "description_en": "Part of the collection Kubord",
-  "description_sv": "Del av samlingen Kubord",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ordfrekvenser Svenska Dagbladet 2021",
+    "eng": "Word frequencies Svenska Dagbladet 2021"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  }
 }

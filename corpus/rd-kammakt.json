@@ -1,12 +1,9 @@
 {
-  "id": "rd-kammakt",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "rd"
   ],
-  "name_en": "",
-  "name_sv": "Riksdagens öppna data - Kammaraktiviteter",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -53,9 +50,15 @@
     "stats_export": true,
     "xml_export": "original"
   },
-  "description_sv": "",
-  "description_en": "",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Riksdagens öppna data - Kammaraktiviteter",
+    "eng": ""
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

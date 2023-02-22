@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvmk",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-makedonska",
-  "name_en": "ASPAC – Swedish-Macedonian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "mkd"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-makedonska",
+    "eng": "ASPAC – Swedish-Macedonian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

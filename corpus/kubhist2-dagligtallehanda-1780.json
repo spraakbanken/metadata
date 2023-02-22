@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-dagligtallehanda-1780",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Dagligt Allehanda 1780's",
-  "name_sv": "Dagligt Allehanda 1780-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dagligt Allehanda 1780-talet",
+    "eng": "Dagligt Allehanda 1780's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

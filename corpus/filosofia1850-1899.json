@@ -1,11 +1,6 @@
 {
-  "id": "filosofia1850-1899",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Filosofia.fi 1850–1899",
-  "name_en": "Filosofia.fi 1850–1899",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Filosofia.fi 1850–1899",
+    "eng": "Filosofia.fi 1850–1899"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

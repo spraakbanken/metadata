@@ -1,11 +1,6 @@
 {
-  "id": "votiska",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Votiska",
-  "name_en": "Votic",
-  "description_sv": "Morfologiskt lexikon för votiska",
-  "description_en": "Morphological lexicon of Votic",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Votiska",
+    "eng": "Votic"
+  },
+  "short_description": {
+    "swe": "Morfologiskt lexikon för votiska",
+    "eng": "Morphological lexicon of Votic"
+  }
 }

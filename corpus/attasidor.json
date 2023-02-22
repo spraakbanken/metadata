@@ -1,11 +1,6 @@
 {
-  "id": "attasidor",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "8 Sidor",
-  "name_sv": "8 Sidor",
-  "description_en": "News articles from 8 SIDOR.",
-  "description_sv": "Nyhetsartiklar från 8 SIDOR.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -55,5 +50,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "8 Sidor",
+    "eng": "8 Sidor"
+  },
+  "short_description": {
+    "swe": "Nyhetsartiklar från 8 SIDOR.",
+    "eng": "News articles from 8 SIDOR."
+  }
 }

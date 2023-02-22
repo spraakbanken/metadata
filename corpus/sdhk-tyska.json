@@ -1,11 +1,6 @@
 {
-  "id": "sdhk-tyska",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Medeltidsbrev - Tyska",
-  "name_en": "Medieval letters - German",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Medeltidsbrev - Tyska",
+    "eng": "Medieval letters - German"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

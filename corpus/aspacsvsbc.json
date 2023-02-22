@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvsbc",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-serbiska (kyrilliskt)",
-  "name_en": "ASPAC – Swedish-Serbian (cyrillic)",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "sbc"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-serbiska (kyrilliskt)",
+    "eng": "ASPAC – Swedish-Serbian (cyrillic)"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

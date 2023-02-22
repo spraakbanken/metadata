@@ -1,10 +1,7 @@
 {
-  "id": "somali-1993-94",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Af Soomaali 1993-94",
-  "name_sv": "Af Soomaali 1993-94",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +44,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Af Soomaali 1993-94",
+    "eng": "Af Soomaali 1993-94"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

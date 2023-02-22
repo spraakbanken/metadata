@@ -1,11 +1,6 @@
 {
-  "id": "somali-as-2016",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Af-Soomaali 2016 Somaliland",
-  "name_sv": "Af-Soomaali 2016 Somaliland",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Af-Soomaali 2016 Somaliland",
+    "eng": "Af-Soomaali 2016 Somaliland"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

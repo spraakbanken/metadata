@@ -1,11 +1,6 @@
 {
-  "id": "eukalyptus",
   "type": "corpus",
   "trainingdata": true,
-  "name_sv": "Eukalyptus skriven svenska",
-  "name_en": "Eukalyptus Treebank of Written Swedish",
-  "description_sv": "En trädbank som innnehåller skriven svenska, uppmärkt med ordklasser, syntax i stil med TIGER-trädbanken, flerordsenheter och ordbetydelser",
-  "description_en": "A treebank with written Swedish data, with parts-of-speech, TIGER-style syntax, multiword expressions and sense annotation",
   "downloads": [
     {
       "licence": "CC BY-SA 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Eukalyptus skriven svenska",
+    "eng": "Eukalyptus Treebank of Written Swedish"
+  },
+  "short_description": {
+    "swe": "En trädbank som innnehåller skriven svenska, uppmärkt med ordklasser, syntax i stil med TIGER-trädbanken, flerordsenheter och ordbetydelser",
+    "eng": "A treebank with written Swedish data, with parts-of-speech, TIGER-style syntax, multiword expressions and sense annotation"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "fsv-verser",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Verser – Fornsvenska textbankens material",
-  "name_en": "Verser – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Verser – Fornsvenska textbankens material",
+    "eng": "Verser – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

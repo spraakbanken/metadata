@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvpl",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-polska",
-  "name_en": "ASPAC – Swedish-Polish",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "pol"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-polska",
+    "eng": "ASPAC – Swedish-Polish"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

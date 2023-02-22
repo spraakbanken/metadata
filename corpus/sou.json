@@ -1,11 +1,6 @@
 {
-  "id": "sou",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Statens offentliga utredningar",
-  "name_en": "Statens offentliga utredningar",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Statens offentliga utredningar",
+    "eng": "Statens offentliga utredningar"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

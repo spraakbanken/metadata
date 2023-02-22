@@ -1,11 +1,6 @@
 {
-  "id": "lt1996",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Läkartidningen 1996",
-  "name_en": "Läkartidningen medical journal 1996",
-  "description_sv": "Del av Korpus för vårdens och omsorgens fackspråk",
-  "description_en": "Part of the corpus for health care technical language",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -52,5 +47,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Läkartidningen 1996",
+    "eng": "Läkartidningen medical journal 1996"
+  },
+  "short_description": {
+    "swe": "Del av Korpus för vårdens och omsorgens fackspråk",
+    "eng": "Part of the corpus for health care technical language"
+  }
 }

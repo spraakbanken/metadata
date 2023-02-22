@@ -1,11 +1,6 @@
 {
-  "id": "aventinus",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Aventinus",
-  "name_en": "Aventinus",
-  "description_sv": "Narkotikarelaterad terminologi",
-  "description_en": "Drug related terminology",
   "downloads": [],
   "interface": [],
   "contact_info": {
@@ -20,9 +15,19 @@
   "size": {
     "entries": "0"
   },
-  "long_description_sv": "<p>Mer information hittas på <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">Aventinus Projektsida</a>.</p>",
-  "long_description_en": "<p>You can find more information on <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">the Aventinus project page</a>.</p>",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Aventinus",
+    "eng": "Aventinus"
+  },
+  "short_description": {
+    "swe": "Narkotikarelaterad terminologi",
+    "eng": "Drug related terminology"
+  },
+  "description": {
+    "swe": "<p>Mer information hittas på <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">Aventinus Projektsida</a>.</p>",
+    "eng": "<p>You can find more information on <a href=\"http://spraakdata.gu.se/av/info.html\" target=\"_blank\">the Aventinus project page</a>.</p>"
+  }
 }

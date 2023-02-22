@@ -1,11 +1,6 @@
 {
-  "id": "runeberg-urdagkron",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Ur Dagens Krönika",
-  "name_en": "Ur Dagens Krönika",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ur Dagens Krönika",
+    "eng": "Ur Dagens Krönika"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

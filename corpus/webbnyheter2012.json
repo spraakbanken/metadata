@@ -1,12 +1,7 @@
 {
-  "id": "webbnyheter2012",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Web News 2012",
-  "name_sv": "Webbnyheter 2012",
-  "description_en": "News from Swedish newspapers' websites",
-  "description_sv": "Nyheter från svenska dagstidningars webbplatser",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +51,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Webbnyheter 2012",
+    "eng": "Web News 2012"
+  },
+  "short_description": {
+    "swe": "Nyheter från svenska dagstidningars webbplatser",
+    "eng": "News from Swedish newspapers' websites"
+  }
 }

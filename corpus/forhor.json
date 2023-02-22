@@ -1,11 +1,6 @@
 {
-  "id": "forhor",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Förhör",
-  "name_en": "Hearings",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Förhör",
+    "eng": "Hearings"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

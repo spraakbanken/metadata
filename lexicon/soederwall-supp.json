@@ -1,11 +1,6 @@
 {
-  "id": "soederwall-supp",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Söderwall Supplement",
-  "name_en": "Söderwall Supplement",
-  "description_sv": "Ordbok över svenska medeltidsspråket",
-  "description_en": "Dictionary of Old Swedish",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,9 +31,19 @@
   "size": {
     "entries": "19172"
   },
-  "long_description_sv": "<p>\nLexikonet består av K.F. Söderwalls Ordbok Öfver svenska medeltids-språket. Supplement. Vol IV—V. (Lund 1953—1973), med ca 21.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden och övriga delar av ordboksartiklarna är inte kontrollästa efter inkodningen.\n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
-  "long_description_en": "<p>\nThe lexicon consists of K.F. Söderwall's Ordbok Öfver svenska medeltids-språket. Supplement. Vol IV—V. (Lund 1953—1973), with about 21,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entries have not been proofread after encoding.\n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Söderwall Supplement",
+    "eng": "Söderwall Supplement"
+  },
+  "short_description": {
+    "swe": "Ordbok över svenska medeltidsspråket",
+    "eng": "Dictionary of Old Swedish"
+  },
+  "description": {
+    "swe": "<p>\nLexikonet består av K.F. Söderwalls Ordbok Öfver svenska medeltids-språket. Supplement. Vol IV—V. (Lund 1953—1973), med ca 21.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden och övriga delar av ordboksartiklarna är inte kontrollästa efter inkodningen.\n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n",
+    "eng": "<p>\nThe lexicon consists of K.F. Söderwall's Ordbok Öfver svenska medeltids-språket. Supplement. Vol IV—V. (Lund 1953—1973), with about 21,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entries have not been proofread after encoding.\n<!--\nSvenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).\n-->\n</p>\n"
+  }
 }

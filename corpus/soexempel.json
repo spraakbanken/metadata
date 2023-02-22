@@ -1,11 +1,6 @@
 {
-  "id": "soexempel",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Språkprov SO 2009",
-  "name_en": "Språkprov SO 2009",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Språkprov SO 2009",
+    "eng": "Språkprov SO 2009"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

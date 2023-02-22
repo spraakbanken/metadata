@@ -1,11 +1,6 @@
 {
-  "id": "coctaill",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "COCTAILL",
-  "name_en": "COCTAILL",
-  "description_sv": "Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.",
-  "description_en": "Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "COCTAILL",
+    "eng": "COCTAILL"
+  },
+  "short_description": {
+    "swe": "Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga annoteringar.",
+    "eng": "Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for text structure and pedagogical/didactical categories; automatically linguistically annotated."
+  }
 }

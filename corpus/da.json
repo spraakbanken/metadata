@@ -1,12 +1,7 @@
 {
-  "id": "da",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Dagens Arena 2007–2022",
-  "name_sv": "Dagens Arena 2007–2022",
-  "description_en": "News texts from dagensarena.se",
-  "description_sv": "Nyhetstexter från dagensarena.se",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +51,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dagens Arena 2007–2022",
+    "eng": "Dagens Arena 2007–2022"
+  },
+  "short_description": {
+    "swe": "Nyhetstexter från dagensarena.se",
+    "eng": "News texts from dagensarena.se"
+  }
 }

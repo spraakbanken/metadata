@@ -1,11 +1,6 @@
 {
-  "id": "simple",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Simple lexikon",
-  "name_en": "Simple lexicon",
-  "description_sv": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
-  "description_en": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Simple lexikon",
+    "eng": "Simple lexicon"
+  },
+  "short_description": {
+    "swe": "Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information",
+    "eng": "The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish"
+  }
 }

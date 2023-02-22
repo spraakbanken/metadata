@@ -1,11 +1,6 @@
 {
-  "id": "fsv-nysvenskdalin",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Dalin: then swänska argus – Fornsvenska textbankens material",
-  "name_en": "Dalin: then swänska argus – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Dalin: then swänska argus – Fornsvenska textbankens material",
+    "eng": "Dalin: then swänska argus – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

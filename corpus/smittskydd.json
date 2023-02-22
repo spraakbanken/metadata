@@ -1,11 +1,6 @@
 {
-  "id": "smittskydd",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Smittskydd",
-  "name_en": "Smittskydd",
-  "description_sv": "Smittskyddsinstitutets tidning Smittskydd",
-  "description_en": "The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Smittskydd",
+    "eng": "Smittskydd"
+  },
+  "short_description": {
+    "swe": "Smittskyddsinstitutets tidning Smittskydd",
+    "eng": "The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)"
+  }
 }

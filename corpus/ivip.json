@@ -1,11 +1,6 @@
 {
-  "id": "ivip",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "IVIP",
-  "name_sv": "IVIP",
-  "description_en": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish\n",
-  "description_sv": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska\n",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -50,5 +45,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "IVIP",
+    "eng": "IVIP"
+  },
+  "short_description": {
+    "swe": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska\n",
+    "eng": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish\n"
+  }
 }

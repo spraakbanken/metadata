@@ -1,11 +1,6 @@
 {
-  "id": "lwt",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "LWT",
-  "name_en": "LWT",
-  "description_sv": "Lånordstypologi",
-  "description_en": "Loan Word Typology list",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "swe",
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "LWT",
+    "eng": "LWT"
+  },
+  "short_description": {
+    "swe": "Lånordstypologi",
+    "eng": "Loan Word Typology list"
+  }
 }

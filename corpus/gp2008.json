@@ -1,11 +1,6 @@
 {
-  "id": "gp2008",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "GP 2008",
-  "name_en": "GP 2008",
-  "description_sv": "En korpus med texter från Göteborgsposten",
-  "description_en": "A corpus with texts from Göteborgsposten",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "GP 2008",
+    "eng": "GP 2008"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från Göteborgsposten",
+    "eng": "A corpus with texts from Göteborgsposten"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "psalmboken",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Psalmboken (1937)",
-  "name_en": "Psalm book (1937)",
-  "description_sv": "Psalmboken från 1937",
-  "description_en": "The Swedish psalm book from 1937",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Psalmboken (1937)",
+    "eng": "Psalm book (1937)"
+  },
+  "short_description": {
+    "swe": "Psalmboken från 1937",
+    "eng": "The Swedish psalm book from 1937"
+  }
 }

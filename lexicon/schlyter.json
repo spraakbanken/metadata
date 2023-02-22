@@ -1,11 +1,6 @@
 {
-  "id": "schlyter",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Schlyter",
-  "name_en": "Schlyter",
-  "description_sv": "Ordbok över svenska medeltidsspråket",
-  "description_en": "Dictionary of Old Swedish",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,9 +31,19 @@
   "size": {
     "entries": "10067"
   },
-  "long_description_sv": "<p>\nLexikonet består av C.J. Schlyters Ordbok till Samlingen af Sweriges Gamla Lagar, Saml. af Sweriges Gamla Lagar 13. (Lund 1877), med ca 10.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden och övriga delar av ordboksartiklarna är inte kontrollästa efter inkodningen. Schlyters ordbok omfattas inte längre av upphovsrättbestämmelserna, då författaren varit död i mer än 70 år (C.J. Schlyter 1795–1888).\n</p>\n\n\n",
-  "long_description_en": "<p>\nThe lexicon consists of C.J. Schlyter's Ordbok till Samlingen af Sweriges Gamla Lagar, Saml. af Sweriges Gamla Lagar 13. (Lund 1877), with about 10,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entries have not been proofread after encoding. Schlyter's dictionary is no longer affected by copyright law, as the author has been dead for more than 70 years (C.J. Schlyter 1795–1888).\n</p>\n\n\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Schlyter",
+    "eng": "Schlyter"
+  },
+  "short_description": {
+    "swe": "Ordbok över svenska medeltidsspråket",
+    "eng": "Dictionary of Old Swedish"
+  },
+  "description": {
+    "swe": "<p>\nLexikonet består av C.J. Schlyters Ordbok till Samlingen af Sweriges Gamla Lagar, Saml. af Sweriges Gamla Lagar 13. (Lund 1877), med ca 10.000 uppslagsord.\n</p>\n\n<p>\nOrdboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden och övriga delar av ordboksartiklarna är inte kontrollästa efter inkodningen. Schlyters ordbok omfattas inte längre av upphovsrättbestämmelserna, då författaren varit död i mer än 70 år (C.J. Schlyter 1795–1888).\n</p>\n\n\n",
+    "eng": "<p>\nThe lexicon consists of C.J. Schlyter's Ordbok till Samlingen af Sweriges Gamla Lagar, Saml. af Sweriges Gamla Lagar 13. (Lund 1877), with about 10,000 entries.\n</p>\n\n<p>\nThe dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entries have not been proofread after encoding. Schlyter's dictionary is no longer affected by copyright law, as the author has been dead for more than 70 years (C.J. Schlyter 1795–1888).\n</p>\n\n\n"
+  }
 }

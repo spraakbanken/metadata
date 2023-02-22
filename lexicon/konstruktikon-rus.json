@@ -1,11 +1,6 @@
 {
-  "id": "konstruktikon-rus",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Rysk Konstruktikon",
-  "name_en": "Russian Constructicon",
-  "description_sv": "Ett ryskt konstruktikon",
-  "description_en": "A Russian Constructicon",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   "language_codes": [
     "rus",
     "eng"
-  ]
+  ],
+  "name": {
+    "swe": "Rysk Konstruktikon",
+    "eng": "Russian Constructicon"
+  },
+  "short_description": {
+    "swe": "Ett ryskt konstruktikon",
+    "eng": "A Russian Constructicon"
+  }
 }

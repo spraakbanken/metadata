@@ -1,11 +1,6 @@
 {
-  "id": "interfra-tagged",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "InterFra taggad",
-  "name_en": "InterFra tagged",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "fra"
-  ]
+  ],
+  "name": {
+    "swe": "InterFra taggad",
+    "eng": "InterFra tagged"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

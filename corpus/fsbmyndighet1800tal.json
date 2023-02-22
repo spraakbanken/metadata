@@ -1,11 +1,6 @@
 {
-  "id": "fsbmyndighet1800tal",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Protokoll vid lantdagen i Borgå år 1809",
-  "name_en": "Protokoll vid lantdagen i Borgå år 1809",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Protokoll vid lantdagen i Borgå år 1809",
+    "eng": "Protokoll vid lantdagen i Borgå år 1809"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

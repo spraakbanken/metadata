@@ -1,14 +1,9 @@
 {
-  "id": "kubhist-jonkopingsbladet-1850",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist"
   ],
-  "name_sv": "Jönkopingsbladet 1850-talet",
-  "name_en": "Jönkopingsbladet 1850's",
-  "description_en": "Part of the collection Kubhist",
-  "description_sv": "Del av samlingen Kubhist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,5 +40,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Jönkopingsbladet 1850-talet",
+    "eng": "Jönkopingsbladet 1850's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist",
+    "eng": "Part of the collection Kubhist"
+  }
 }

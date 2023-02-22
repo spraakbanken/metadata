@@ -1,11 +1,6 @@
 {
-  "id": "term-swefin",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Svensk-finska ordlistor",
-  "name_en": "Swedish-Finnish word lists",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svensk-finska ordlistor",
+    "eng": "Swedish-Finnish word lists"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

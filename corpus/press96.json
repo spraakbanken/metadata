@@ -1,11 +1,6 @@
 {
-  "id": "press96",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Press 96",
-  "name_en": "Press 96",
-  "description_sv": "Svensk press 1996",
-  "description_en": "Swedish press 1996",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,8 +40,19 @@
     "tokens": "6516030",
     "sentences": "447582"
   },
-  "long_description_sv": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n\n<ul>\n<li>10-11 (4 mar-12 mar)</li>\n<li>23-24 (3 jul-21 jul)</li>\n<li>36-37 (2 sep-27 sep)</li>\n<li>49-50 (2 dec-3 dec)</li>\n</ul>\n</p>\n\n<P>\nIngående tidningar är <B>Göteborgs-Posten och Svenska Dagbladet</B>.\n</P>\n<P>\nVi tackar som vanligt de deltagande tidningarna som - som\nvanligt - bemött oss mycket vänligt och som, trots det\nextraarbete som våra önskemål medfört för dem, inte tvekat\natt ställa upp.\n</P>\n<P>Göteborg i mars 1997.</P>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Press 96",
+    "eng": "Press 96"
+  },
+  "short_description": {
+    "swe": "Svensk press 1996",
+    "eng": "Swedish press 1996"
+  },
+  "description": {
+    "swe": "<p>\nKorpusen består av tidningsartiklar insamlade under följande veckor\n\n<ul>\n<li>10-11 (4 mar-12 mar)</li>\n<li>23-24 (3 jul-21 jul)</li>\n<li>36-37 (2 sep-27 sep)</li>\n<li>49-50 (2 dec-3 dec)</li>\n</ul>\n</p>\n\n<P>\nIngående tidningar är <B>Göteborgs-Posten och Svenska Dagbladet</B>.\n</P>\n<P>\nVi tackar som vanligt de deltagande tidningarna som - som\nvanligt - bemött oss mycket vänligt och som, trots det\nextraarbete som våra önskemål medfört för dem, inte tvekat\natt ställa upp.\n</P>\n<P>Göteborg i mars 1997.</P>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}",
+    "eng": ""
+  }
 }

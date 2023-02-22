@@ -1,11 +1,6 @@
 {
-  "id": "aspacsvuk",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "ASPAC – svenska-ukrainska",
-  "name_en": "ASPAC – Swedish-Ukrainian",
-  "description_sv": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
-  "description_en": "Part of The Amsterdam Slavic Parallel Aligned Corpus",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -67,5 +62,13 @@
   "language_codes": [
     "swe",
     "ukr"
-  ]
+  ],
+  "name": {
+    "swe": "ASPAC – svenska-ukrainska",
+    "eng": "ASPAC – Swedish-Ukrainian"
+  },
+  "short_description": {
+    "swe": "Del av The Amsterdam Slavic Parallel Aligned Corpus",
+    "eng": "Part of The Amsterdam Slavic Parallel Aligned Corpus"
+  }
 }

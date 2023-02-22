@@ -1,11 +1,6 @@
 {
-  "id": "langfn-v2",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "LangFN-V2",
-  "name_en": "LangFN-V2",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "LangFN-V2",
+    "eng": "LangFN-V2"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

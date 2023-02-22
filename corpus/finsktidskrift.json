@@ -1,11 +1,6 @@
 {
-  "id": "finsktidskrift",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Finsk tidskrift 2011–2012",
-  "name_en": "Finsk tidskrift 2011–2012",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,8 +31,19 @@
     "tokens": "160549",
     "sentences": "7392"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-finsktidskrift.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Finsk tidskrift 2011–2012",
+    "eng": "Finsk tidskrift 2011–2012"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-finsktidskrift.html}\n",
+    "eng": ""
+  }
 }

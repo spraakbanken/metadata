@@ -1,11 +1,6 @@
 {
-  "id": "runeberg-svtidskr",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Svensk Tidskrift",
-  "name_en": "Svensk Tidskrift",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svensk Tidskrift",
+    "eng": "Svensk Tidskrift"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

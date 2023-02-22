@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-nlk-1870",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Norrländska Korrespondenten 1870's",
-  "name_sv": "Norrländska Korrespondenten 1870-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Norrländska Korrespondenten 1870-talet",
+    "eng": "Norrländska Korrespondenten 1870's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

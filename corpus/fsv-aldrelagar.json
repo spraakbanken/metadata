@@ -1,11 +1,6 @@
 {
-  "id": "fsv-aldrelagar",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Äldre lagar – Fornsvenska textbankens material",
-  "name_en": "Äldre lagar – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Äldre lagar – Fornsvenska textbankens material",
+    "eng": "Äldre lagar – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

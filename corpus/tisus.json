@@ -1,11 +1,6 @@
 {
-  "id": "tisus",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "TISUS-texter",
-  "name_en": "TISUS texts",
-  "description_sv": "Essays written by L2 Swedish learners as part of a TISUS exam",
-  "description_en": "Essays written by L2 Swedish learners as part of a TISUS exam",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "TISUS-texter",
+    "eng": "TISUS texts"
+  },
+  "short_description": {
+    "swe": "Essays written by L2 Swedish learners as part of a TISUS exam",
+    "eng": "Essays written by L2 Swedish learners as part of a TISUS exam"
+  }
 }

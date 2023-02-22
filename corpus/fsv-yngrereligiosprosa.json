@@ -1,11 +1,6 @@
 {
-  "id": "fsv-yngrereligiosprosa",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Yngre religiös prosa – Fornsvenska textbankens material",
-  "name_en": "Yngre religiös prosa – Fornsvenska textbankens material",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,5 +32,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Yngre religiös prosa – Fornsvenska textbankens material",
+    "eng": "Yngre religiös prosa – Fornsvenska textbankens material"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

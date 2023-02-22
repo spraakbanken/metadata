@@ -1,11 +1,6 @@
 {
-  "id": "akerbruk",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Åkerbruk",
-  "name_en": "Agriculture",
-  "description_sv": "Handböcker om åkerbruk: \"Engelska Åker-Mannen\" och \"En Grundelig Kundskap Om Swenska Åkerbruket\"",
-  "description_en": "Agricultural manuals: \"Engelska Åker-Mannen\" and \"En Grundelig Kundskap Om Swenska Åkerbruket\"",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Åkerbruk",
+    "eng": "Agriculture"
+  },
+  "short_description": {
+    "swe": "Handböcker om åkerbruk: \"Engelska Åker-Mannen\" och \"En Grundelig Kundskap Om Swenska Åkerbruket\"",
+    "eng": "Agricultural manuals: \"Engelska Åker-Mannen\" and \"En Grundelig Kundskap Om Swenska Åkerbruket\""
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "kubord-ogc-2021",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Word frequencies Östgöta Correspondenten 2021",
-  "name_sv": "Ordfrekvenser Östgöta Correspondenten 2021",
-  "description_en": "Part of the collection Kubord",
-  "description_sv": "Del av samlingen Kubord",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -50,5 +45,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Ordfrekvenser Östgöta Correspondenten 2021",
+    "eng": "Word frequencies Östgöta Correspondenten 2021"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord",
+    "eng": "Part of the collection Kubord"
+  }
 }

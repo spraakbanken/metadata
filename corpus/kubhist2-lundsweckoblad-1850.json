@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-lundsweckoblad-1850",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Lunds Weckoblad 1850's",
-  "name_sv": "Lunds Weckoblad 1850-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Lunds Weckoblad 1850-talet",
+    "eng": "Lunds Weckoblad 1850's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "gp1994",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "GP 1994",
-  "name_en": "GP 1994",
-  "description_sv": "En korpus med texter från Göteborgsposten",
-  "description_en": "A corpus with texts from Göteborgsposten",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "GP 1994",
+    "eng": "GP 1994"
+  },
+  "short_description": {
+    "swe": "En korpus med texter från Göteborgsposten",
+    "eng": "A corpus with texts from Göteborgsposten"
+  }
 }

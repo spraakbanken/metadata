@@ -1,11 +1,6 @@
 {
-  "id": "romii",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bonniersromaner II (1980/81)",
-  "name_en": "Bonniers novels II (1980/81)",
-  "description_sv": "En korpus av 60 Bonniersromaner från 1980-81",
-  "description_en": "A corpus of 60 Bonnier novels from 1980-81",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bonniersromaner II (1980/81)",
+    "eng": "Bonniers novels II (1980/81)"
+  },
+  "short_description": {
+    "swe": "En korpus av 60 Bonniersromaner från 1980-81",
+    "eng": "A corpus of 60 Bonnier novels from 1980-81"
+  }
 }

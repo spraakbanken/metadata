@@ -1,11 +1,6 @@
 {
-  "id": "kalltext",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Källtext",
-  "name_en": "Källtext",
-  "description_sv": "Medeltidstexter",
-  "description_en": "Collection of medieval text",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -39,5 +34,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Källtext",
+    "eng": "Källtext"
+  },
+  "short_description": {
+    "swe": "Medeltidstexter",
+    "eng": "Collection of medieval text"
+  }
 }

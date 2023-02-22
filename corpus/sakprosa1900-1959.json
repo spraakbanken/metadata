@@ -1,11 +1,6 @@
 {
-  "id": "sakprosa1900-1959",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Sakprosa 1900–1959",
-  "name_en": "Non-fiction 1900–1959",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Sakprosa 1900–1959",
+    "eng": "Non-fiction 1900–1959"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

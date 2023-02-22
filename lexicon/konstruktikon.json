@@ -1,11 +1,6 @@
 {
-  "id": "konstruktikon",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Konstruktikon",
-  "name_en": "Constructicon",
-  "description_sv": "Ett svenskt konstruktikon",
-  "description_en": "A Swedish Constructicon",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -36,9 +31,19 @@
   "size": {
     "entries": "441"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb/fnplusplus/pub/constructicon/sv_constructicon_info.txt}\n\n<p>\nMer information finns på <a href=\"http://spraakbanken.gu.se/swe/swecxn\">projektsidan</a>.\n</p>\n<p>\n<a href=\"konstruktikon/utvecklingsversion\">Utvecklingsversion</a>\n</p>\n",
-  "long_description_en": "konstruktikon\t{include https://svn.spraakdata.gu.se/sb/fnplusplus/pub/constructicon/en_constructicon_info.txt}\n\n<p>\nMore information is available from <a href=\"http://spraakbanken.gu.se/eng/swecxn\">the project page</a>.\n</p>\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Konstruktikon",
+    "eng": "Constructicon"
+  },
+  "short_description": {
+    "swe": "Ett svenskt konstruktikon",
+    "eng": "A Swedish Constructicon"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb/fnplusplus/pub/constructicon/sv_constructicon_info.txt}\n\n<p>\nMer information finns på <a href=\"http://spraakbanken.gu.se/swe/swecxn\">projektsidan</a>.\n</p>\n<p>\n<a href=\"konstruktikon/utvecklingsversion\">Utvecklingsversion</a>\n</p>\n",
+    "eng": "konstruktikon\t{include https://svn.spraakdata.gu.se/sb/fnplusplus/pub/constructicon/en_constructicon_info.txt}\n\n<p>\nMore information is available from <a href=\"http://spraakbanken.gu.se/eng/swecxn\">the project page</a>.\n</p>\n"
+  }
 }

@@ -1,5 +1,4 @@
 {
-  "id": "kubord",
   "type": "corpus",
   "trainingdata": false,
   "collection": true,
@@ -89,10 +88,6 @@
     "kubord-svd-2020",
     "kubord-svd-2021"
   ],
-  "name_en": "Kubord",
-  "name_sv": "Kubord",
-  "description_en": "Word frequencies from modern newspaper texts from the National Library of Sweden",
-  "description_sv": "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket",
   "interface": [
     {
       "licence": "CC BY 4.0",
@@ -111,5 +106,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Kubord",
+    "eng": "Kubord"
+  },
+  "short_description": {
+    "swe": "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket",
+    "eng": "Word frequencies from modern newspaper texts from the National Library of Sweden"
+  }
 }

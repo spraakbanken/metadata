@@ -1,11 +1,6 @@
 {
-  "id": "saldompparadigms",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Saldo: morfologi II",
-  "name_en": "Saldo: morphology II",
-  "description_sv": "Experimentell morfologisk resurs för Saldo",
-  "description_en": "Experimental morphological resource for Saldo",
   "downloads": [],
   "interface": [
     {
@@ -29,5 +24,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Saldo: morfologi II",
+    "eng": "Saldo: morphology II"
+  },
+  "short_description": {
+    "swe": "Experimentell morfologisk resurs för Saldo",
+    "eng": "Experimental morphological resource for Saldo"
+  }
 }

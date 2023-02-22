@@ -1,12 +1,7 @@
 {
-  "id": "twitter",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Twitter Mix",
-  "name_sv": "Twittermix",
-  "description_en": "Material from a selection of Swedish Twitter users. Is regularly updated.",
-  "description_sv": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Twittermix",
+    "eng": "Twitter Mix"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish Twitter users. Is regularly updated."
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "sfs",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Svensk författningssamling",
-  "name_en": "Swedish statute book",
-  "description_sv": "Svensk författningssamling",
-  "description_en": "Swedish statute book",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svensk författningssamling",
+    "eng": "Swedish statute book"
+  },
+  "short_description": {
+    "swe": "Svensk författningssamling",
+    "eng": "Swedish statute book"
+  }
 }

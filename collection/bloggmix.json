@@ -1,5 +1,4 @@
 {
-  "id": "bloggmix",
   "type": "corpus",
   "trainingdata": false,
   "collection": true,
@@ -26,10 +25,6 @@
     "bloggmix2017",
     "bloggmixodat"
   ],
-  "name_en": "Blog mix",
-  "name_sv": "Bloggmix",
-  "description_sv": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
-  "description_en": "Material from a selection of Swedish blogs. Is updated regularly.",
   "interface": [
     {
       "licence": "CC BY 4.0",
@@ -46,9 +41,19 @@
       "email": "sb-info@svenska.gu.se"
     }
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
-  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bloggmix",
+    "eng": "Blog mix"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
+    "eng": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n"
+  }
 }

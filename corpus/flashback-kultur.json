@@ -1,14 +1,9 @@
 {
-  "id": "flashback-kultur",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "flashback"
   ],
-  "name_en": "Flashback: Culture & Media",
-  "name_sv": "Flashback: Kultur & media",
-  "description_en": "Material from the Flashback internet forum.",
-  "description_sv": "Material från diskussionsforumet Flashback.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -58,5 +53,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Flashback: Kultur & media",
+    "eng": "Flashback: Culture & Media"
+  },
+  "short_description": {
+    "swe": "Material från diskussionsforumet Flashback.",
+    "eng": "Material from the Flashback internet forum."
+  }
 }

@@ -1,14 +1,9 @@
 {
-  "id": "kubhist2-karlshamnsallehanda-1860",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": [
     "kubhist2"
   ],
-  "name_en": "Karlshamns Allehanda 1860's",
-  "name_sv": "Karlshamns Allehanda 1860-talet",
-  "description_en": "Part of the collection Kubhist2",
-  "description_sv": "Del av samlingen Kubhist2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -57,5 +52,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Karlshamns Allehanda 1860-talet",
+    "eng": "Karlshamns Allehanda 1860's"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubhist2",
+    "eng": "Part of the collection Kubhist2"
+  }
 }

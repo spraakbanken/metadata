@@ -1,11 +1,6 @@
 {
-  "id": "suc3",
   "type": "corpus",
   "trainingdata": true,
-  "name_en": "SUC 3.0",
-  "name_sv": "SUC 3.0",
-  "description_en": "Stockholm-Umeå corpus 3.0",
-  "description_sv": "Stockholm-Umeå-korpus 3.0",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -53,9 +48,19 @@
     "stats_export": true,
     "xml_export": "scrambled"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",
-  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "SUC 3.0",
+    "eng": "SUC 3.0"
+  },
+  "short_description": {
+    "swe": "Stockholm-Umeå-korpus 3.0",
+    "eng": "Stockholm-Umeå corpus 3.0"
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}\n",
+    "eng": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}\n\n<h2>SUC 3.0</h2>\n\n{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}\n"
+  }
 }

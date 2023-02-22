@@ -1,11 +1,6 @@
 {
-  "id": "dagbladet1866-1886",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Helsingfors Dagblad 1866–1886",
-  "name_en": "Helsingfors Dagblad 1866–1886",
-  "description_sv": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
-  "description_en": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Helsingfors Dagblad 1866–1886",
+    "eng": "Helsingfors Dagblad 1866–1886"
+  },
+  "short_description": {
+    "swe": "Del av finlandssvensk språkbank över svenskan i Finland i dag och i går",
+    "eng": "Part of the Finland Swedish language bank over Swedish in Finland today and yesterday"
+  }
 }

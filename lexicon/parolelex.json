@@ -1,11 +1,6 @@
 {
-  "id": "parolelex",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Parole",
-  "name_en": "Parole",
-  "description_sv": "Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information",
-  "description_en": "The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -29,9 +24,19 @@
   "size": {
     "entries": "29298"
   },
-  "long_description_sv": "<p>\nPAROLE-lexikonet ger valensinformation för svenska för närmare 30 000 lexikala enheter. Det har utvecklats i LE PAROLE-projektet.\n<!-- , dokumenterat på hemsidan för PAROLE SIMPLE (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).\n-->\nSe även <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_verb_types_2009.txt\">textfilen som förklarar valenskoderna</a>.\n</p>\n",
-  "long_description_en": "<p>\nParole lexicon provides valency information for Swedish for almost 30 000 lexical units. It has been elaborated in LE PAROLE project.\n<!-- documented at the PAROLE SIMPLE webpage (a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).\n-->\nA <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_verb_types_2009.txt\">read me document</a> explains the valency codes. \n</p>\n\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Parole",
+    "eng": "Parole"
+  },
+  "short_description": {
+    "swe": "Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information",
+    "eng": "The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information"
+  },
+  "description": {
+    "swe": "<p>\nPAROLE-lexikonet ger valensinformation för svenska för närmare 30 000 lexikala enheter. Det har utvecklats i LE PAROLE-projektet.\n<!-- , dokumenterat på hemsidan för PAROLE SIMPLE (<a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).\n-->\nSe även <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_verb_types_2009.txt\">textfilen som förklarar valenskoderna</a>.\n</p>\n",
+    "eng": "<p>\nParole lexicon provides valency information for Swedish for almost 30 000 lexical units. It has been elaborated in LE PAROLE project.\n<!-- documented at the PAROLE SIMPLE webpage (a href=\"http://www.ub.edu/gilcub/SIMPLE/simple.html\">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).\n-->\nA <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_verb_types_2009.txt\">read me document</a> explains the valency codes. \n</p>\n\n"
+  }
 }

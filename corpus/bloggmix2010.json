@@ -1,11 +1,6 @@
 {
-  "id": "bloggmix2010",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Bloggmix 2010",
-  "name_en": "Blog mix 2010",
-  "description_sv": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
-  "description_en": "Material from a selection of Swedish blogs. Is updated regularly.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -45,9 +40,19 @@
     "tokens": "97435693",
     "sentences": "6329583"
   },
-  "long_description_sv": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
-  "long_description_en": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Bloggmix 2010",
+    "eng": "Blog mix 2010"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska bloggar. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish blogs. Is updated regularly."
+  },
+  "description": {
+    "swe": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}\n",
+    "eng": "{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}\n"
+  }
 }

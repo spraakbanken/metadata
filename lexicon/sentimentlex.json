@@ -1,11 +1,6 @@
 {
-  "id": "sentimentlex",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Sentimentlexikon",
-  "name_en": "Sentiment Lexicon",
-  "description_sv": "Sentimentlexikon för svenska baserad på SALDO",
-  "description_en": "Sentiment lexicon for Swedish based on SALDO",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -37,9 +32,19 @@
   "size": {
     "entries": "2067"
   },
-  "long_description_sv": "<p>Vänligen använd följande artikel som referens för lexikonet:<br/>\n\nNusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex\">Building a Sentiment Lexicon for Swedish</a> <a href=\"http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf\"><img src=\"https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png\" /></a></p>\n",
-  "long_description_en": "<p>Please reference the lexicon using the following reference:<br/>\n\nNusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href=\"http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf\">Building a Sentiment Lexicon for Swedish</a> <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex\"><img src=\"https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png\" /></a>\n",
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Sentimentlexikon",
+    "eng": "Sentiment Lexicon"
+  },
+  "short_description": {
+    "swe": "Sentimentlexikon för svenska baserad på SALDO",
+    "eng": "Sentiment lexicon for Swedish based on SALDO"
+  },
+  "description": {
+    "swe": "<p>Vänligen använd följande artikel som referens för lexikonet:<br/>\n\nNusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex\">Building a Sentiment Lexicon for Swedish</a> <a href=\"http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf\"><img src=\"https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png\" /></a></p>\n",
+    "eng": "<p>Please reference the lexicon using the following reference:<br/>\n\nNusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href=\"http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf\">Building a Sentiment Lexicon for Swedish</a> <a href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex\"><img src=\"https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png\" /></a>\n"
+  }
 }

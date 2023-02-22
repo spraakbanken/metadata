@@ -1,11 +1,6 @@
 {
-  "id": "somali-caafimaad-1972-79",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Caafimaad 1972–79",
-  "name_sv": "Caafimaad 1972–79",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Caafimaad 1972–79",
+    "eng": "Caafimaad 1972–79"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

@@ -1,11 +1,6 @@
 {
-  "id": "ao",
   "type": "lexicon",
   "trainingdata": false,
-  "name_sv": "Akademisk ordlista",
-  "name_en": "Academic wordlist",
-  "description_sv": "Akademisk ordlista",
-  "description_en": "Academic wordlist",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Akademisk ordlista",
+    "eng": "Academic wordlist"
+  },
+  "short_description": {
+    "swe": "Akademisk ordlista",
+    "eng": "Academic wordlist"
+  }
 }

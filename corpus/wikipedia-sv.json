@@ -1,11 +1,6 @@
 {
-  "id": "wikipedia-sv",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Svenska Wikipedia",
-  "name_en": "Swedish Wikipedia",
-  "description_sv": "Korpus av svenskspråkiga Wikipedia",
-  "description_en": "Corpus of Swedish Wikipedia",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -46,5 +41,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Svenska Wikipedia",
+    "eng": "Swedish Wikipedia"
+  },
+  "short_description": {
+    "swe": "Korpus av svenskspråkiga Wikipedia",
+    "eng": "Corpus of Swedish Wikipedia"
+  }
 }

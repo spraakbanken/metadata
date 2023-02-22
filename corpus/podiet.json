@@ -1,12 +1,7 @@
 {
-  "id": "podiet",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Podiet",
-  "name_sv": "Podiet",
-  "description_en": "Articles from the consert magazine Podiet",
-  "description_sv": "Artiklar från Konsertmagasinet Podiet",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -56,5 +51,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Podiet",
+    "eng": "Podiet"
+  },
+  "short_description": {
+    "swe": "Artiklar från Konsertmagasinet Podiet",
+    "eng": "Articles from the consert magazine Podiet"
+  }
 }

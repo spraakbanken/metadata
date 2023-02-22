@@ -1,11 +1,6 @@
 {
-  "id": "somali-cb-2001-03-soomaaliya",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Cilmiga Bulshada 2001-03 Soomaaliya",
-  "name_sv": "Cilmiga Bulshada 2001-03 Soomaaliya",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Cilmiga Bulshada 2001-03 Soomaaliya",
+    "eng": "Cilmiga Bulshada 2001-03 Soomaaliya"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

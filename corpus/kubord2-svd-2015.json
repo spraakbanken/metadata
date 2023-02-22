@@ -1,12 +1,7 @@
 {
-  "id": "kubord2-svd-2015",
   "type": "corpus",
   "trainingdata": false,
   "in_collections": false,
-  "name_en": "Kubord 2 - Word relations Svenska Dagbladet 2015",
-  "name_sv": "Kubord 2 - Ordrelationer Svenska Dagbladet 2015",
-  "description_en": "Part of the collection Kubord 2",
-  "description_sv": "Del av samlingen Kubord 2",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Kubord 2 - Ordrelationer Svenska Dagbladet 2015",
+    "eng": "Kubord 2 - Word relations Svenska Dagbladet 2015"
+  },
+  "short_description": {
+    "swe": "Del av samlingen Kubord 2",
+    "eng": "Part of the collection Kubord 2"
+  }
 }

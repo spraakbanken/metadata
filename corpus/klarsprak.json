@@ -1,11 +1,6 @@
 {
-  "id": "klarsprak",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Förvaltningsmyndigheters texter",
-  "name_en": "Förvaltningsmyndigheters texter",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -47,5 +42,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Förvaltningsmyndigheters texter",
+    "eng": "Förvaltningsmyndigheters texter"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }

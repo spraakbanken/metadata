@@ -1,11 +1,6 @@
 {
-  "id": "twitter-pldebatt-140504",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Twitter: Party Leader Debate May 2014",
-  "name_en": "Twitter: Partiledardebatt maj 2014",
-  "description_sv": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
-  "description_en": "Material from a selection of Swedish Twitter users. Is regularly updated.",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Twitter: Party Leader Debate May 2014",
+    "eng": "Twitter: Partiledardebatt maj 2014"
+  },
+  "short_description": {
+    "swe": "Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.",
+    "eng": "Material from a selection of Swedish Twitter users. Is regularly updated."
+  }
 }

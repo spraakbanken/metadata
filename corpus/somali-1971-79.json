@@ -1,11 +1,6 @@
 {
-  "id": "somali-1971-79",
   "type": "corpus",
   "trainingdata": false,
-  "name_en": "Af Soomaali 1971-79",
-  "name_sv": "Af Soomaali 1971-79",
-  "description_en": null,
-  "description_sv": null,
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -48,5 +43,13 @@
   },
   "language_codes": [
     "som"
-  ]
+  ],
+  "name": {
+    "swe": "Af Soomaali 1971-79",
+    "eng": "Af Soomaali 1971-79"
+  },
+  "short_description": {
+    "swe": null,
+    "eng": null
+  }
 }

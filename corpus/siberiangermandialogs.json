@@ -1,11 +1,6 @@
 {
-  "id": "siberiangermandialogs",
   "type": "corpus",
   "trainingdata": false,
-  "name_sv": "Sibirientyska",
-  "name_en": "Sibirian-German",
-  "description_sv": "",
-  "description_en": "",
   "downloads": [
     {
       "licence": "CC BY 4.0",
@@ -38,5 +33,13 @@
   },
   "language_codes": [
     "swe"
-  ]
+  ],
+  "name": {
+    "swe": "Sibirientyska",
+    "eng": "Sibirian-German"
+  },
+  "short_description": {
+    "swe": "",
+    "eng": ""
+  }
 }
