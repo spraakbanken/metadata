@@ -23,15 +23,16 @@
   ],
   "interface": [
     {
-      "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/korp/?mode=spanish#corpus=pe77"
-    },
-    {
+      "access": "https://spraakbanken.gu.se/korp/?mode=spanish#corpus=pe77",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/konk/rom2/"
+      "restriction": "attribution"
+    },
+    {
+      "access": "https://spraakbanken.gu.se/konk/rom2/",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "contact_info": {

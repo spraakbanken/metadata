@@ -4,9 +4,10 @@
   "downloads": [],
   "interface": [
     {
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=diabetolog",
       "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/korp/#?corpus=diabetolog"
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "contact_info": {

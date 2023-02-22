@@ -4,10 +4,10 @@
   "downloads": [],
   "interface": [
     {
+      "access": "https://spraakbanken.gu.se/karp/#?mode=term-swefin&resources=term-swefin",
       "licence": "CC BY 4.0",
       "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-      "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/karp/#?mode=term-swefin&resources=term-swefin"
+      "restriction": "attribution"
     }
   ],
   "contact_info": {

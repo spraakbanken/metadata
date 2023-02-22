@@ -41,9 +41,10 @@
   ],
   "interface": [
     {
-      "licence": "other",
-      "restriction": "other",
-      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-da"
+      "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-da",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "contact_info": {

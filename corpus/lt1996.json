@@ -23,14 +23,16 @@
   ],
   "interface": [
     {
-      "licence": "other",
-      "restriction": "other",
-      "access": "https://spraakbanken.gu.se/korp/#corpus=lt1996"
+      "access": "https://spraakbanken.gu.se/korp/#corpus=lt1996",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     },
     {
+      "access": "http://www.medicinskkorpus.se/login.phtml",
       "licence": "other",
-      "restriction": "other",
-      "access": "http://www.medicinskkorpus.se/login.phtml"
+      "licence_url": "",
+      "restriction": "other"
     }
   ],
   "contact_info": {

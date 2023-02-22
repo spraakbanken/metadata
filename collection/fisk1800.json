@@ -48,9 +48,10 @@
   ],
   "interface": [
     {
+      "access": "https://spraakbanken.gu.se/korp/?mode=fisk1800",
       "licence": "CC BY 4.0",
-      "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/korp/?mode=fisk1800"
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "restriction": "attribution"
     }
   ],
   "contact_info": {
