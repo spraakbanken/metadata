@@ -40,16 +40,6 @@
     "tokens": "21877349",
     "sentences": "1379429"
   },
-  "korp_info": {
-    "modes": [
-      "kubhist"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": "original"
-  },
   "language_codes": [
     "swe"
   ],

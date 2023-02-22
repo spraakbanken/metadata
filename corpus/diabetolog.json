@@ -22,16 +22,6 @@
     "tokens": "228313",
     "sentences": "14129"
   },
-  "korp_info": {
-    "modes": [
-      "default"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": false
-  },
   "language_codes": [
     "swe"
   ],

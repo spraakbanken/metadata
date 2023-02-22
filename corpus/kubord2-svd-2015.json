@@ -31,16 +31,6 @@
     "tokens": "31155970",
     "sentences": "354"
   },
-  "korp_info": {
-    "modes": [
-      "kubord"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": false
-  },
   "language_codes": [
     "swe"
   ],

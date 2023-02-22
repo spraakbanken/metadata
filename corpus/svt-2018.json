@@ -41,16 +41,6 @@
     "tokens": "18817638",
     "sentences": "1231355"
   },
-  "korp_info": {
-    "modes": [
-      "default"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": "scrambled"
-  },
   "language_codes": [
     "swe"
   ],

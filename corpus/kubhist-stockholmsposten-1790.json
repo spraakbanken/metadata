@@ -34,10 +34,6 @@
     "tokens": "7585051",
     "sentences": "462482"
   },
-  "export": {
-    "stats_export": true,
-    "xml_export": "original"
-  },
   "language_codes": [
     "swe"
   ],

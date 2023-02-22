@@ -30,19 +30,6 @@
     "tokens": "15599927",
     "sentences": "278"
   },
-  "korp_info": {
-    "modes": [
-      {
-        "name": "kubord",
-        "folder": "ogc"
-      }
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": false
-  },
   "language_codes": [
     "swe"
   ],

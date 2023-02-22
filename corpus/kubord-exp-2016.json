@@ -30,16 +30,6 @@
     "tokens": "40171274",
     "sentences": "366"
   },
-  "korp_info": {
-    "modes": [
-      "kubord"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": true,
-    "xml_export": false
-  },
   "language_codes": [
     "swe"
   ],

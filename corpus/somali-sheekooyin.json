@@ -31,16 +31,6 @@
     "tokens": "26003",
     "sentences": "1400"
   },
-  "korp_info": {
-    "modes": [
-      "somali"
-    ],
-    "protected": false
-  },
-  "export": {
-    "stats_export": false,
-    "xml_export": "scrambled"
-  },
   "language_codes": [
     "som"
   ],
