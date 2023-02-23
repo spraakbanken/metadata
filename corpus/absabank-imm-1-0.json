@@ -80,13 +80,12 @@
   ],
   "interface": [],
   "contact_info": {
+    "name": "Aleksandrs Berdicevskis",
+    "email": "aleksandrs.berdicevskis@gu.se",
     "affiliation": {
       "email": "sb-info@svenska.gu.se",
       "organisation": "Språkbanken"
-    },
-    "email": "aleksandrs.berdicevskis@gu.se",
-    "givenName": "Aleksandrs",
-    "surname": "Berdicevskis"
+    }
   },
   "description": {
     "swe": "",
