@@ -18,7 +18,9 @@
     "tokens": "758321276",
     "sentences": "48467522"
   },
-  "in_collections": false,
+  "in_collections": [
+    "flashback"
+  ],
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/flashback-samhalle.xml.bz2",
