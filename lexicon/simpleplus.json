@@ -24,7 +24,6 @@
       "format": "LMF",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -33,7 +32,6 @@
       "format": "html",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -42,7 +40,6 @@
       "format": "html",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -51,7 +48,6 @@
       "format": "html",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],
@@ -59,7 +55,6 @@
     {
       "access": "https://spraakbanken.gu.se/karp/#lexicon=simpleplus",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],

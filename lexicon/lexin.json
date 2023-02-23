@@ -37,7 +37,6 @@
       "format": "zip",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -46,7 +45,6 @@
       "format": "",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -55,7 +53,6 @@
       "format": "",
       "info": "",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],
@@ -63,7 +60,6 @@
     {
       "access": "https://spraakbanken.gu.se/karp/",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],

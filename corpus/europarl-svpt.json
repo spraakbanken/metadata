@@ -26,7 +26,6 @@
       "format": "XML",
       "info": "this file contains a scrambled version of the Swedish part of the corpus",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -35,7 +34,6 @@
       "format": "XML",
       "info": "this file contains a scrambled version of the Portuguese part of the corpus",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -44,7 +42,6 @@
       "format": "CSV",
       "info": "this file contains statistics on the Swedish part of the corpus",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     },
     {
@@ -53,7 +50,6 @@
       "format": "CSV",
       "info": "this file contains statistics on the Portuguese part of the corpus",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],
@@ -61,7 +57,6 @@
     {
       "access": "https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-pt",
       "licence": "CC BY 4.0",
-      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
       "restriction": "attribution"
     }
   ],
