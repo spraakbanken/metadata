@@ -4,8 +4,8 @@
     "eng": "IVIP demo"
   },
   "short_description": {
-    "swe": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska. Detta är en öppen delmängd av IVIP-korusen.",
-    "eng": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish. This is an open sub set of the IVIP corpus."
+    "swe": "Interaktion och variation i pluricentriska språk – Kommunikativa mönster i sverigesvenska och finlandssvenska.",
+    "eng": "Interaction and Variation in Pluricentric Languages – Communicative Patterns in Sweden Swedish and Finland Swedish."
   },
   "type": "corpus",
   "trainingdata": false,
@@ -18,7 +18,7 @@
     "tokens": "572",
     "sentences": "114"
   },
-  "in_collections": [],
+  "in_collections": false,
   "downloads": [
     {
       "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo.xml.bz2",
@@ -39,7 +39,7 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode={'name': 'default'}#corpus=ivip-demo",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=ivip-demo",
       "licence": "CC BY 4.0",
       "restriction": "attribution"
     }
@@ -51,5 +51,9 @@
       "organisation": "Institutet för språk och folkminnen (Isof)",
       "email": "registrator@isof.se"
     }
+  },
+  "description": {
+    "swe": "Detta är en öppen delmängd av IVIP-korusen.",
+    "eng": "This is an open sub set of the IVIP corpus."
   }
 }
