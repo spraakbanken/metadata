@@ -4,22 +4,22 @@
     "eng": "SweParaphrase"
   },
   "short_description": {
-    "swe": "En delmängd av referensdatan för semantisk textjämförelse (STS Benchmark). ",
-    "eng": "A subset of the Semantic Textual Similarity reference data \n(STS Benchmark).  "
+    "swe": "En delmängd av referensdatan för semantisk textjämförelse (STS Benchmark).",
+    "eng": "A subset of the Semantic Textual Similarity reference data (STS Benchmark)."
   },
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "sweparaphrase"
+  ],
   "language_codes": [
     "swe"
   ],
   "size": {
     "Sentence pairs": "165"
   },
-  "in_collections": [
-    "superlim"
-  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv",

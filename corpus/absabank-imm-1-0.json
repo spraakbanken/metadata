@@ -10,16 +10,16 @@
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "absabank-imm"
+  ],
   "language_codes": [
     "swe"
   ],
   "size": {
     "tokens": "241000"
   },
-  "in_collections": [
-    "superlim"
-  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv",

@@ -10,13 +10,13 @@
   "type": "corpus",
   "trainingdata": false,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "semeval2020t1-superlim"
+  ],
   "language_codes": [
     "swe"
   ],
-  "in_collections": [
-    "superlim"
-  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv",

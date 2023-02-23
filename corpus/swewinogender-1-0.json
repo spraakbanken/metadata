@@ -10,16 +10,16 @@
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "swewinogender"
+  ],
   "language_codes": [
     "swe"
   ],
   "size": {
     "items": "624"
   },
-  "in_collections": [
-    "superlim"
-  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://demo.spraakbanken.gu.se/gerlof/SweWinogender/swewinogender.zip",

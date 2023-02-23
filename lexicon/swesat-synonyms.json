@@ -17,7 +17,9 @@
   "size": {
     "entries": "782"
   },
-  "in_collections": [],
+  "in_collections": [
+    "superlim"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt",

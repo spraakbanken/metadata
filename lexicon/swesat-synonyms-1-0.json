@@ -10,7 +10,9 @@
   "type": "lexicon",
   "trainingdata": true,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "swesat-synonyms"
+  ],
   "language_codes": [
     "swe"
   ],

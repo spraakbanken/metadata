@@ -10,7 +10,9 @@
   "type": "corpus",
   "trainingdata": true,
   "unlisted": true,
-  "successors": [],
+  "successors": [
+    "swediagnostics"
+  ],
   "language_codes": [
     "swe",
     "eng"
@@ -18,9 +20,7 @@
   "size": {
     "entries": "1106"
   },
-  "in_collections": [
-    "superlim"
-  ],
+  "in_collections": [],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv",
