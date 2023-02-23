@@ -10,6 +10,7 @@
   "type": "lexicon",
   "trainingdata": false,
   "unlisted": false,
+  "successors": [],
   "language_codes": [],
   "size": {
     "entries": "5596"

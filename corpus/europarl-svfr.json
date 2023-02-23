@@ -10,6 +10,7 @@
   "type": "corpus",
   "trainingdata": false,
   "unlisted": false,
+  "successors": [],
   "language_codes": [
     "swe",
     "fra"

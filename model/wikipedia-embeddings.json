@@ -10,6 +10,7 @@
   "type": "model",
   "trainingdata": false,
   "unlisted": false,
+  "successors": [],
   "language_codes": [
     "eng"
   ],

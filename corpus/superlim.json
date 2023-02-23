@@ -10,6 +10,7 @@
   "type": "corpus",
   "trainingdata": true,
   "unlisted": false,
+  "successors": [],
   "collection": true,
   "hide_resources": true,
   "resources": [

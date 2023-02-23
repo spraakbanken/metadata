@@ -10,6 +10,7 @@
   "type": "corpus",
   "trainingdata": false,
   "unlisted": false,
+  "successors": [],
   "collection": true,
   "resources": [
     "gp1994",
