@@ -42,7 +42,7 @@
   "downloads": [],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/#?corpus=newstexts.gp",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=socialmedia.bloggmix",
       "licence": "CC BY 4.0",
       "restriction": "attribution"
     }
