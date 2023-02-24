@@ -1,11 +1,11 @@
 {
   "name": {
-    "swe": "Svenska partiprogram och valmanifest",
-    "eng": "Swedish party programs and election manifestos"
+    "eng": "Kubord 2 - Word relations Svenska Dagbladet 2010",
+    "swe": "Kubord 2 - Ordrelationer Svenska Dagbladet 2010"
   },
   "short_description": {
-    "swe": "Svenska partiprogram och valmanifest 1887–2022",
-    "eng": "Swedish political party programs and election manifestos 1887–2022"
+    "eng": "Part of the collection Kubord 2",
+    "swe": "Del av samlingen Kubord 2"
   },
   "type": "corpus",
   "trainingdata": false,
@@ -15,21 +15,13 @@
     "swe"
   ],
   "size": {
-    "tokens": "2099602",
-    "sentences": "128219"
+    "tokens": "35569612",
+    "sentences": "352"
   },
   "in_collections": false,
   "downloads": [
     {
-      "url": "https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2",
-      "type": "corpus",
-      "format": "XML",
-      "info": "",
-      "licence": "CC BY 4.0",
-      "restriction": "attribution"
-    },
-    {
-      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_vivill.csv",
+      "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-svd-2010.csv",
       "type": "token frequencies",
       "format": "CSV",
       "info": "",
@@ -41,7 +33,7 @@
     {
       "licence": "CC BY 4.0",
       "restriction": "attribution",
-      "access": "https://spraakbanken.gu.se/korp/#?corpus=vivill"
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord2-svd-2010"
     }
   ],
   "contact_info": {
