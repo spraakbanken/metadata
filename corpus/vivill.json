@@ -39,7 +39,7 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode={'name': 'default'}#corpus=vivill",
+      "access": "https://spraakbanken.gu.se/korp/#?corpus=vivill",
       "licence": "CC BY 4.0",
       "restriction": "attribution"
     }
