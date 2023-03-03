@@ -105,7 +105,7 @@
   "downloads": [],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode=kubord",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord",
       "licence": "CC BY 4.0",
       "restriction": "attribution"
     }
