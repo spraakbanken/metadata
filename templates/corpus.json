@@ -11,9 +11,7 @@
   "trainingdata": false,
   "unlisted": false,
   "successors": [],
-  "language_codes": [
-    "swe"
-  ],
+  "language_codes": [],
   "size": {
     "tokens": "0",
     "sentences": "0"
