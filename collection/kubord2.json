@@ -4,8 +4,8 @@
     "eng": "Kubord 2"
   },
   "short_description": {
-    "swe": "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket",
-    "eng": "Word frequencies from modern newspaper texts from the National Library of Sweden"
+    "swe": "Ordrelationer från moderna tidningstexter från Kungliga biblioteket",
+    "eng": "Word relations from modern newspaper texts from the National Library of Sweden"
   },
   "type": "corpus",
   "trainingdata": false,
