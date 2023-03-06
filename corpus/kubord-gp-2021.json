@@ -1,11 +1,11 @@
 {
   "name": {
-    "swe": "Ordfrekvenser Göteborgsposten 2021",
-    "eng": "Word frequencies Göteborgsposten 2021"
+    "eng": "Kubord - Word frequencies Göteborgsposten 2021",
+    "swe": "Kubord - Ordfrekvenser Göteborgsposten 2021"
   },
   "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
+    "eng": "Part of the collection Kubord",
+    "swe": "Del av samlingen Kubord"
   },
   "type": "corpus",
   "trainingdata": false,
@@ -18,7 +18,7 @@
     "tokens": "26926136",
     "sentences": "354"
   },
-  "in_collections": [],
+  "in_collections": false,
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-gp-2021.csv",
@@ -31,9 +31,9 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2021",
       "licence": "CC BY 4.0",
-      "restriction": "attribution"
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2021"
     }
   ],
   "contact_info": {

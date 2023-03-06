@@ -1,11 +1,11 @@
 {
   "name": {
-    "swe": "Ordfrekvenser Aftonbladet 2014",
-    "eng": "Word frequencies Aftonbladet 2014"
+    "eng": "Kubord - Word frequencies Aftonbladet 2014",
+    "swe": "Kubord - Ordfrekvenser Aftonbladet 2014"
   },
   "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
+    "eng": "Part of the collection Kubord",
+    "swe": "Del av samlingen Kubord"
   },
   "type": "corpus",
   "trainingdata": false,
@@ -18,7 +18,7 @@
     "tokens": "45092126",
     "sentences": "365"
   },
-  "in_collections": [],
+  "in_collections": false,
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-afb-2014.csv",
@@ -31,9 +31,9 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-afb-2014",
       "licence": "CC BY 4.0",
-      "restriction": "attribution"
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-afb-2014"
     }
   ],
   "contact_info": {

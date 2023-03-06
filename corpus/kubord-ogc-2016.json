@@ -1,11 +1,11 @@
 {
   "name": {
-    "swe": "Ordfrekvenser Östgöta Correspondenten 2016",
-    "eng": "Word frequencies Östgöta Correspondenten 2016"
+    "eng": "Kubord - Word frequencies Östgöta Correspondenten 2016",
+    "swe": "Kubord - Ordfrekvenser Östgöta Correspondenten 2016"
   },
   "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
+    "eng": "Part of the collection Kubord",
+    "swe": "Del av samlingen Kubord"
   },
   "type": "corpus",
   "trainingdata": false,
@@ -18,7 +18,7 @@
     "tokens": "20956989",
     "sentences": "305"
   },
-  "in_collections": [],
+  "in_collections": false,
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-ogc-2016.csv",
@@ -31,9 +31,9 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode={'name': 'kubord', 'folder': 'ogc'}#corpus=kubord-ogc-2016",
       "licence": "CC BY 4.0",
-      "restriction": "attribution"
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-ogc-2016"
     }
   ],
   "contact_info": {

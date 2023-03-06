@@ -1,11 +1,11 @@
 {
   "name": {
-    "swe": "Ordfrekvenser Göteborgsposten 2020",
-    "eng": "Word frequencies Göteborgsposten 2020"
+    "eng": "Kubord - Word frequencies Göteborgsposten 2020",
+    "swe": "Kubord - Ordfrekvenser Göteborgsposten 2020"
   },
   "short_description": {
-    "swe": "Del av samlingen Kubord",
-    "eng": "Part of the collection Kubord"
+    "eng": "Part of the collection Kubord",
+    "swe": "Del av samlingen Kubord"
   },
   "type": "corpus",
   "trainingdata": false,
@@ -18,7 +18,7 @@
     "tokens": "27617825",
     "sentences": "355"
   },
-  "in_collections": [],
+  "in_collections": false,
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-gp-2020.csv",
@@ -31,9 +31,9 @@
   ],
   "interface": [
     {
-      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2020",
       "licence": "CC BY 4.0",
-      "restriction": "attribution"
+      "restriction": "attribution",
+      "access": "https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2020"
     }
   ],
   "contact_info": {
