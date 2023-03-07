@@ -18,7 +18,9 @@
     "tokens": "30769811",
     "sentences": "355"
   },
-  "in_collections": false,
+  "in_collections": [
+    "kubord"
+  ],
   "downloads": [
     {
       "url": "https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-svd-2016.csv",
