@@ -1,0 +1,40 @@
+name:
+  swe: Göteborgs Handels- och Sjöfartstidning 1830-talet
+  eng: Göteborgs Handels- och Sjöfartstidning 1830's
+short_description:
+  swe: Del av samlingen Kubhist2
+  eng: Part of the collection Kubhist2
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '9123316'
+  sentences: '831884'
+in_collections:
+  - kubhist2
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-ghost-1830.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-ghost-1830.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-ghost-1830
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

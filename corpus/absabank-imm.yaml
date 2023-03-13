@@ -1,0 +1,345 @@
+name:
+  swe: Svensk ABSAbank-Imm 1.0
+  eng: Swedish ABSAbank-Imm 1.0
+short_description:
+  swe: Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)
+  eng: An annotated Swedish corpus for aspect-based sentiment analysis (a version
+    of Absabank)
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '241000'
+in_collections:
+  - superlim
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv
+    type: absabank-imm_documentation_sheet.tsv
+    format: tsv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv
+    type: D_annotation.tsv
+    format: tsv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv
+    type: P_annotation.tsv
+    format: tsv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip
+    type: datasplit.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/documents.zip
+    type: documents.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf
+    type: annoteringsinstruktioner.pdf
+    format: pdf
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb
+    type: imm_absabank.rb
+    format: rb
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Aleksandrs Berdicevskis
+  email: aleksandrs.berdicevskis@gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <table style="width:100%">
+    <tr>
+    <td>I. IDENTIFYING INFORMATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Title*</td>
+    <td>Swedish ABSAbank-Imm v1.0
+    </td>
+    </tr>
+    <tr>
+    <td>Subtitle</td>
+    <td>An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)
+    </td>
+    </tr>
+    <tr>
+    <td>Created by*</td>
+    <td>Aleksandrs Berdicevskis (aleksandrs.berdicevskis@gu.se)
+    </td>
+    </tr>
+    <tr>
+    <td>Publisher(s)*</td>
+    <td>Språkbanken Text (sb-info@svenska.gu.se)
+    </td>
+    </tr>
+    <tr>
+    <td>Link(s) / permanent identifier(s)*</td>
+    <td>https://spraakbanken.gu.se/en/resources/superlim
+    </td>
+    </tr>
+    <tr>
+    <td>License(s)*</td>
+    <td>CC BY 4.0
+    </td>
+    </tr>
+    <tr>
+    <td>Abstract*</td>
+    <td>Absabank-Imm (where ABSA stands for "Aspect-Based Sentiment Analysis" and Imm for "Immigration") is a subset of the Swedish ABSAbank, created to be a part of the SuperLim collection. In Absabank-Imm, texts and paragraphs are manually labelled according to the sentiment (on 1--5 scale) that the author expresses towards immigration in Sweden (this task is known as aspect-based sentiment analysis or stance analysis). To create Absabank-Imm, the original Absabank has been substantially reformatted, but no changes to the annotation were made. The dataset contains 4872 short texts.
+    </td>
+    </tr>
+    <tr>
+    <td>Funded by*</td>
+    <td>Vinnova (grant no. 2020-02523)
+    </td>
+    </tr>
+    <tr>
+    <td>Cite as</td>
+    <td>Consider citing [1]
+    </td>
+    </tr>
+    <tr>
+    <td>Related datasets</td>
+    <td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim); derived from ABSAbank (https://spraakbanken.gu.se/en/resources/swe-absa-bank)
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>II. USAGE</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Key applications</td>
+    <td>Machine Learning, Aspect-based Sentiment Analysis, Stance classification, Evaluation of language models
+    </td>
+    </tr>
+    <tr>
+    <td>Intended task(s)/usage(s)</td>
+    <td>(1) Evaluate models on the following task: given a text or a paragraph, label the sentiment that the author of text expresses towards immigration in Sweden
+    </td>
+    </tr>
+    <tr>
+    <td>Recommended evaluation measures</td>
+    <td>(1) Krippendorff's alpha. Alternatively, Spearman's rho or another correlation coefficient
+    </td>
+    </tr>
+    <tr>
+    <td>Dataset function(s)</td>
+    <td>Training, testing
+    </td>
+    </tr>
+    <tr>
+    <td>Recommended split(s)</td>
+    <td>Paragraph level: 10-fold cross-validation. If cross-validation is impossible, use the 00 fold as the standard split. The split is random at the document level (the documents are randomly shuffled), but consecutive at the paragraph level. The reason is that if paragraphs from the same document end up in both train and test, this will make the task easier and the estimates of how well the model generalizes to new data will be less reliable (the border between test and dev or dev and train, however, may split the document in two halves. The effect of that is presumably negligible);
+    <br> Document level: test data only.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>III. DATA</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Primary data*</td>
+    <td>Text
+    </td>
+    </tr>
+    <tr>
+    <td>Language*</td>
+    <td>Swedish
+    </td>
+    </tr>
+    <tr>
+    <td>Dataset in numbers*</td>
+    <td>At the document level: 852 texts, 241K tokens. At the paragraph level: 4872 texts, 199K tokens.
+    </td>
+    </tr>
+    <tr>
+    <td>Nature of the content*</td>
+    <td>The original Swedish ABSAbank contains two layers of annotation: one at token level and one at text level. Only the text-level annotation is preserved in Absabank-IMM. The text-level annotation consists of two sublayers: paragraph-level and document-level annotation, both are preserved. A document consists of one or more paragraphs. In this readme, we will use "text" as a cover term for both document and paragraph. When creating the original ABSAbank, the annotators had to label every document (paragraph) whose subject matter was immigration (and only those) with a sentiment value on the scale from 1 (very negative) to 5 (very positive). Note that the text-level annotation is not as rich as the token-level annotation in the original ABSabank, which contains, inter alia, "source" (who expresses the sentiment) and "target" (what the sentiment is about) fields. At text level, these features are redundant (source is always the text author; target is always immigration) and thus not provided.
+    </td>
+    </tr>
+    <tr>
+    <td>Format*</td>
+    <td>The annotation for the whole corpus is provided in tab-separated files (see below about the format of the datasplit). At the document level ("D_annotation.tsv"), the columns are the following:
+    <br> "doc": document id (contains only the annotated documents);
+    <br> "n_opinions": number of annotators that provided a non-blank value (if 0, the document is not listed);
+    <br> "min": minimum value;
+    <br> "max": maximum value;
+    <br> "average": average value (this is the value that has to be predicted);
+    <br> "sd": standard deviation;
+    <br> "simplified": a simplified aggregation of annotator opinions (-1 if average is less than 3, 0 if average is 3, 1 if average is greather than 3). Can be used instead of average;
+    <br> 10 columns with integer headers: individual labels provided by all annotators. Note that missing labels are difficult to interpret: it is not known whether the label is missing because the annotator did not work with this text at all, because they deemed it as not expressing any sentiment about immigration or by mistake (mistakes are possible, since the main focus in the original Absabank was on the token-level annotation, and text-level annotation might have been perceived as secondary by the annotators)
+    <br> "sign_conflict?": whether individual judgments contain both positive (4 or 5) or negative (1 or 2) values
+    <br> The documents themselves are provided in the documents.zip archive. The archive contains all the documents from the original Absabank, including those that do not have any text-level annotation.
+    <br>
+    <br> At the paragraph level ("P_annotation.tsv"), there are the same columns, but in addition also:
+    <br> "par": paragraph id (its consecutive number within a document)
+    <br> "title?": whether the paragraph is the text title (in most cases, paragraph 1 is the title, but some documents do not have titles)
+    <br> "text": the paragraph itself (if you choose to open the tsv file in OpenOffice or other spreadsheet-viewing software, set "Text delimiter" to ', not ").
+    <br>
+    <br> Note that if a text did not receive a single sentiment value, it is not listed in the respective tsv file. It means that there might be cases when paragraphs from a document are present in "P_annotation.tsv", but the documents itself is absent from "D_annotation.tsv", or, vice versa, that a document is present, but some (or even all) of the paragraphs it contains are absent.
+    <br>
+    <br> The tsv files in the datasplit are simplified: they contain only "doc", "par", "text" and "label" (="average) columns. Other information can be extracted from the main file, if necessary, using the document and paragraph ids.
+    </td>
+    </tr>
+    <tr>
+    <td>Data source(s)*</td>
+    <td>In the original Absabank: editorials and opinion pieces from Svenska Dagbladet (http://www.svd.se/), a daily newspaper with a daily circulation of 143,400 (2013); editorials and opinion pieces from Aftonbladet (http://www.aftonbladet.se/); a daily newspaper with a daily circulation of 154,900 (2014); posts from Flashback (https://www.flashback.org/), a Swedish-speaking Internet forum, with an Alexa ranking of 9,978, the 42nd in Sweden (2018). See more in [1]
+    </td>
+    </tr>
+    <tr>
+    <td>Data collection method(s)*</td>
+    <td>In the original Absabank: the timestamps of the articles and posts extracted date back to the year 2000. The documents have been sampled from those containing one among a list of 60 terms related to immigration. See more in [1] and [2].
+    </td>
+    </tr>
+    <tr>
+    <td>Data selection and filtering*</td>
+    <td>In the original Absabank: see [1], [2]. In Absabank-Imm: the original annotation shows whether the expressed sentiment is ironic, but since the value for this feature is "true" for 0 documents and for 3 paragraphs, this information is not preserved. All the three ironic paragraphs belong to the same document (z01240_flashback-56154591), annotated by a single annotator (user10). Since it is unrealistic to teach a model to recognize irony on three examples and unclear how to treat ironic values without doing that, this text is fully excluded from Absabank-Imm.
+    </td>
+    </tr>
+    <tr>
+    <td>Data preprocessing*</td>
+    <td>In the original Absabank: see [1], [2]. In Absabank-Imm: in the source files that contain the original documents, redundant markup and line breaks were removed. Note also that paragraphs as annonation units (listed in the "P_annotation.tsv") and paragraphs in technical sense (CRLF-delimited lines in the source files) are not exactly identical: there are a few cases when a paragraph-as-an-annotation-unit is split by an additional CRLF.
+    </td>
+    </tr>
+    <tr>
+    <td>Data labeling*</td>
+    <td>As in the original Absabank at the text level: the annotators had to label every document (paragraph) whose subject matter was immigration (and only those) with a sentiment value on the scale from 1 (very negative) to 5 (very positive).
+    <br> For the original Absanank, the following inter-annotator agreement was reported [1]: "A total of 40 documents were annotated by all annotators, so inter-annotator agreements could be calculated. Krippendorff’s alpha using an interval metric was 0.34 for document-level annotations and 0.44 for paragraph-level annotations". Since it is not known which 40 documents were annotated by all annotators, I cannot reproduce these results. At the paragraph level, the following measurements may be helpful: if we take the largest set of documents that are labelled by the same seven annotators (16 documents, annotators 1;6;7;8;9;10;11; for eight annotators, there are only three such documents; for nine, zero), Krippendorff’s alpha (interval) is 0.61. For all paragraphs, alpha is 0.64, but keep in mind that most paragraphs are labelled by only one annotator.
+    </td>
+    </tr>
+    <tr>
+    <td>Annotator characteristics</td>
+    <td>Nine annotators (all had at least undergraduate background in linguistics) were employed (see more in [1]). Annotator 4 did not produce any labels at the paragraph level. In addition, labels produced by one of the supervisors (PhD in linguistics; annotator 0, user "lars" in the original Absabank) are included.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>IV. ETHICS AND CAVEATS</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Ethical considerations</td>
+    <td>The dataset may contain offensive language and strong opinions on immigration and related subjects. The texts were not moderated in any way.
+    </td>
+    </tr>
+    <tr>
+    <td>Things to watch out for</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>V. ABOUT DOCUMENTATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Data last updated*</td>
+    <td>2021-05-17, v1.0
+    </td>
+    </tr>
+    <tr>
+    <td>Which changes have been made, compared to the previous version*</td>
+    <td>This is the first official version
+    </td>
+    </tr>
+    <tr>
+    <td>Access to previous versions</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>This document created*</td>
+    <td>2021-05-12, Aleksandrs Berdicevskis
+    </td>
+    </tr>
+    <tr>
+    <td>This document last updated*</td>
+    <td>2021-05-19, Aleksandrs Berdicevskis
+    </td>
+    </tr>
+    <tr>
+    <td>Where to look for further details</td>
+    <td>[1], [2]
+    </td>
+    </tr>
+    <tr>
+    <td>Documentation template version*</td>
+    <td>v1.0
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>VI. OTHER</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Related projects</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>References</td>
+    <td>[1] Jacobo Rouces, Lars Borin, Nina Tahmasebi (2020): Creating an Annotated Corpus for Aspect-Based Sentiment Analysis in Swedish, in Proceedings of the 5th conference in Digital Humanities in the Nordic Countries, Riga, Latvia, October 21-23, 2020. http://ceur-ws.org/Vol-2612/short18.pdf
+    <br> [2] Kulturomikprojektet (Lars Borin, Jacobo Rouces, Nina Tahmasebi, Stian Rødven Eide). Instruktioner för attityduppmärkning av svensk text med WebAnno. Språkbanken, Inst. för svenska språket, Göteborgs universitet. https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf [In Swedish]
+    </td>
+    </tr>
+    </table>
+
+
+    <!--
+    <p>Absabank-Imm (where ABSA stands for "Aspect-Based Sentiment Analysis" and Imm for "Immigration") is a subset of the Swedish <a href="https://spraakbanken.gu.se/en/resources/swe-absa-bank">ABSAbank</a>, created to be a part of the <a href="https://spraakbanken.gu.se/en/resources/swedishglue">SuperLim</a> collection. In Absabank-Imm, texts and paragraphs are labelled according to the sentiment (on 1--5 scale) that the author expresses towards immigration in Sweden (this task is known as aspect-based sentiment analysis or stance analysis). To create Absabank-Imm, the original Absabank has been substantially reformatted, but no changes to the annotation were made. See <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/readme.txt">readme.txt</a> for detailed information.</p>
+    <p>Contact person: <a href="https://spraakbanken.gu.se/en/about/staff/sasha">Sasha Berdicevskis</a></p>
+    -->

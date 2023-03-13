@@ -1,0 +1,40 @@
+name:
+  swe: Riksdagens öppna data - Faktapromemoria
+  eng: null
+short_description:
+  swe: Regeringens faktapromemorior om EU-kommissionens förslag
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '3373261'
+  sentences: '216685'
+in_collections:
+  - rd
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-fpm.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-fpm.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=rd-fpm
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

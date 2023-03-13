@@ -1,0 +1,44 @@
+name:
+  swe: WordReference
+  eng: WordReference
+short_description:
+  swe: En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i
+    fyra språk.
+  eng: A large corpus of native and non-native written speech in four languages.
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - eng
+  - spa
+  - fra
+  - ita
+size:
+  tokens: '170000000'
+  speakers: '97500'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <p>The WordReference corpus is a very large corpus (170M+ words) of native and non-native natural written production in four languages: English, Spanish, French and Italian. It has been scraped from <a href="https://forum.wordreference.com/">WordReference</a> forums.</p>
+
+    <p>The corpus consists of four tab-separated files (one per language), each containing seven tab-separated columns: message id, poster's nickname, poster' native language(s), the text of the message (post) itself, the id of the topic in response to which the message has been posted (0 if this message is the topic, i.e. the first in the thread), topicstarter's nickname ("topicstarter" if the poster is the topicstarter), native language of the topicstarter. These are the "raw" data with as little processing as possible (but http links and explicit quotes of other users' posts are removed during the download).</p>
+
+    <p> Several useful scripts for working with the corpus (including the one which labels all participants as L1 or L2-speakers in the respective subforum) can be found in this <a href="https://github.com/AleksandrsBerdicevskis/word-reference-corpus">repository</a>.</p>
+
+    <p> For a more detailed description of the corpus, its creation and examples of how it can be used, see the following <a href="https://www.aclweb.org/anthology/2020.nlpcss-1.18/">paper</a>: {publication 297766}. Please cite the paper if you are using the corpus.</p>.

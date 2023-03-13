@@ -1,0 +1,33 @@
+name:
+  swe: Af-Soomaali 2001 Somaliland
+  eng: Af-Soomaali 2001 Somaliland
+short_description:
+  swe: null
+  eng: null
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - som
+size:
+  tokens: '35043'
+  sentences: '3206'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-as-2001.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-as-2001
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

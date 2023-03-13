@@ -1,0 +1,77 @@
+name:
+  swe: InterFra
+  eng: InterFra
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - fra
+size:
+  tokens: '1132307'
+  sentences: '129113'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_INTERFRA.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=interfra#corpus=interfra
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: "<h3><a href=\"http://www.su.se/romklass/interfra\">The InterFra project</a></h3>\n\
+    <p>\n  <ul>\n\t<li>\n\t\t<a href='http://www.su.se/romklass/interfra/outline'>Outline</a>\n\
+    \t</li>\n\t<li>\n\t\t<a href='http://www.su.se/romklass/interfra/brief-description-of-corpora'>Brief\
+    \ description of corpora</a>\n\t</li>\n\t<li>\n\t\t<a href='http://www.su.se/romklass/interfra/team'>Team</a>\n\
+    \t</li>\n\t<li>\n\t\t<a href='http://www.su.se/romklass/interfra/publications'>Publications</a>\n\
+    \t</li>\n</ul>\n</p>\n\n<h3>Downloadables</h3>\n<p>\n        <ul>\n          \
+    \  <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/files.html\">Transcription\
+    \ files and audio</a></li>\n            <li>InterFra 1B: <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/1b_txt.zip\"\
+    >text</a> <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/1b_audio.zip\"\
+    >audio</a></li>\n            <li>InterFra 2: <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/2_txt.zip\"\
+    >text</a> <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/2_audio.zip\"\
+    >audio</a></li>\n            <li>InterFra 1A: <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/1a_txt.zip\"\
+    >text</a> <a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/zip/1a_audio.zip\"\
+    >audio</a><br>&nbsp;</li>\n\n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Manual\
+    \ for Metadata In English.docx\">Manual for Metadata In English.docx</a></li>\n\
+    \            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Shortlist\
+    \ Tagging In English.doc\">Shortlist Tagging In English.doc</a></li>\n       \
+    \     <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Transcription\
+    \ Principles In English.docx\">Transcription Principles In English.docx</a><br>&nbsp;</li>\n\
+    \n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(C)\
+    \ Erasmus Exchange Control Group.xls\">(C) Erasmus Exchange Control Group.xls</a></li>\n\
+    \            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(D).xlsx\"\
+    >(D).xlsx</a></li>\n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(G)\
+    \ Secondary School Students.xls\">(G) Secondary School Students.xls</a></li>\n\
+    \            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(J)\
+    \ (F) (K) (M).xls\">(J) (F) (K) (M).xls</a></li>\n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(L)\
+    \ University Students.xls\">(L) University Students.xls</a></li>\n           \
+    \ <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(N) Beginners.xls\"\
+    >(N) Beginners.xls</a></li>\n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(R)\
+    \ (Q) (S).xls\">(R) (Q) (S).xls</a></li>\n            <li><a href=\"http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(T)\
+    \ University Students.xls\">(T) University Students.xls</a></li>\n        </ul>\n\
+    </p>\n\n<h3>For the use of the corpus</h3>\n<p>\nPublications reference: Researchers\
+    \ using this database are asked to acknowledge\nthe authors of the corpus (Inge\
+    \ Bartning and Fanny Forsberg Lundell) and the link\nto InterFra at Språkbanken\
+    \ and Korp, <a href=\"https://spraakbanken.gu.se/swe/resurs/interfra\">https://spraakbanken.gu.se/swe/resurs/interfra</a>,\n\
+    in any publication arising from their work.\n</p>"

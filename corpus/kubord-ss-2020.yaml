@@ -1,0 +1,34 @@
+name:
+  eng: Kubord - Word frequencies Sydsvenskan 2020
+  swe: Kubord - Ordfrekvenser Sydsvenskan 2020
+short_description:
+  eng: Part of the collection Kubord
+  swe: Del av samlingen Kubord
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '38070630'
+  sentences: '355'
+in_collections:
+  - kubord
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-ss-2020.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-ss-2020
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

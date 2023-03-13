@@ -1,0 +1,39 @@
+name:
+  swe: LäSBarT
+  eng: LäSBarT
+short_description:
+  swe: LäSBarT - Lättläst svenska och barnbokstext
+  eng: LäSBarT - Easy to read Swedish and texts from children's books
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '1129083'
+  sentences: '104058'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lasbart.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LASBART.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=lasbart
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

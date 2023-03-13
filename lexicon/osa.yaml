@@ -1,0 +1,23 @@
+name:
+  swe: OSA (SAOB)
+  eng: OSA (SAOB)
+short_description:
+  swe: Svenska Akademiens ordbok på nätet
+  eng: The Swedish Academy Dictionary online
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '0'
+in_collections: []
+downloads: []
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

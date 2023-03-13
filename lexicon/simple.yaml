@@ -1,0 +1,42 @@
+name:
+  swe: Simple lexikon
+  eng: Simple lexicon
+short_description:
+  swe: Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information
+  eng: The Swedish SIMPLE Lexicon - A language technology resource with access to
+    semantic information in Swedish
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '11624'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html
+    type: simple_n.html
+    format: html
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html
+    type: simple_v.html
+    format: html
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html
+    type: simple_adj.html
+    format: html
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

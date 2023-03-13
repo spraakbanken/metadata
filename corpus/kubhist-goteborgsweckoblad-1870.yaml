@@ -1,0 +1,37 @@
+name:
+  swe: Göteborgs weckoblad 1870-talet
+  eng: Göteborgs weckoblad 1870's
+short_description:
+  swe: Del av samlingen Kubhist
+  eng: Part of the collection Kubhist
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '4786295'
+  sentences: '328289'
+in_collections:
+  - kubhist
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-goteborgsweckoblad-1870.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-GOTEBORGSWECKOBLAD-1870.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

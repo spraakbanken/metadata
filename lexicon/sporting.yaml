@@ -1,0 +1,35 @@
+name:
+  swe: Sportanglicismer
+  eng: Sports anglicisms
+short_description:
+  swe: Engelska lånord i svenska sportspalter
+  eng: English loan-words in the Swedish sports press
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '0'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/sporting/
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/sporting/
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

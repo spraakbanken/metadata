@@ -1,0 +1,40 @@
+name:
+  swe: Gustav Vasas bibel - Nya testamentet
+  eng: Gustav Vasa's bible - New testament
+short_description:
+  swe: Nya Testamentet i Gustav Vasas bibel /under jämförelse med texten av år 1526
+    utgivet av Natan Lindqvist 1941
+  eng: The new testament in Gustav Vasa's Bible published by Natan Lidqvist in 1941
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '469706'
+  sentences: '43232'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/vasabibel-nt.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VASABIBEL-NT.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=vasabibel-nt
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,34 @@
+name:
+  swe: Sakprosa 1700–1749
+  eng: Non-fiction 1700–1749
+short_description:
+  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  eng: Part of the Finland Swedish language bank over Swedish in Finland today and
+    yesterday
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '84220'
+  sentences: '5011'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1700-1749.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=sakprosa1700-1749
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

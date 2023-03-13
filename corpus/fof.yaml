@@ -1,0 +1,60 @@
+name:
+  swe: Forskning & Framsteg
+  eng: Forskning & Framsteg
+short_description:
+  swe: En korpus av populärvetenskapliga artiklar från Forskning & Framsteg
+  eng: A corpus of popular science articles from Forskning & Framsteg
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '743831'
+  sentences: '44533'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fof.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FOF.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=fof
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Artiklar från tidskriften <B>Forskning &amp; Framsteg</B>,
+    nummer 7, 1992 till och med nummer 8, 1996.
+    </p>
+    <p>
+    Materialet i konkordansen över Forskning &amp; Framsteg
+    är inte helt identiskt med det som publicerats i
+    pappersutgåvan beroende på att vissa ändringar har
+    utförts i senare produktionsled. Dessutom finns enstaka
+    artiklar i konkordansen som inte alls publicerats eller som
+    kommit att publiceras i ett senare nummer av tidskriften
+    än vad som här anges. Vissa texter som tryckts
+    i tidningen saknas i konkordansen.
+    </p>
+    <p>
+    Vi tackar Forskning &amp; Framsteg för det alltid
+    lika vänliga tillmötesgåendet, år från år.
+    </p>
+  eng: ''

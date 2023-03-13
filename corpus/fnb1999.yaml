@@ -1,0 +1,42 @@
+name:
+  swe: FNB 1999
+  eng: FNB 1999
+short_description:
+  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  eng: Part of the Finland Swedish language bank over Swedish in Finland today and
+    yesterday
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes: []
+languages:
+  - code: sv-FI
+    name_en: Finland Swedish
+    name_sv: finlandssvenska
+size:
+  tokens: '3413880'
+  sentences: '269763'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FNB1999.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=fnb1999
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-fnb.html}
+
+    '
+  eng: ''

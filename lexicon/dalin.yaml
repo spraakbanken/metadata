@@ -1,0 +1,35 @@
+name:
+  swe: Dalin Ordbok Öfver Svenska Språket
+  eng: Dalin Dictionary
+short_description:
+  swe: Dalins ordbok - Ordbok över 1800-talsspråket
+  eng: Dalin's Dictionary of 19th century Swedish
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '62975'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalin/dalin.xml
+    type: lexicon
+    format: LMF
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/karp/#lexicon=dalin
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_swe.html}'
+  eng: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_eng.html}'

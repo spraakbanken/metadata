@@ -1,0 +1,39 @@
+name:
+  swe: Kitaabka Quduuska Ah
+  eng: Kitaabka Quduuska Ah
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - som
+size:
+  tokens: '841187'
+  sentences: '34563'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-kqa.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOMALI-KQA.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-kqa
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,30 @@
+name:
+  swe: Riksdagens öppna data
+  eng: Riksdagens öppna data
+short_description:
+  swe: Data från data.riksdagen.se
+  eng: Data from the Swedish parliament collected from data.riksdagen.se
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=governmental.rd
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: Datan är insamlat 2022 från <a href="https://data.riksdagen.se/data/dokument/">data.riksdagen.se/data/dokument/</a>
+    och kommer att uppdateras någorlunda regelbundet.
+  eng: The data was collected 2022 from <a href="https://data.riksdagen.se/data/dokument/">data.riksdagen.se/data/dokument/</a>
+    and is subject to updates.

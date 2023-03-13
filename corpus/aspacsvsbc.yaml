@@ -1,0 +1,52 @@
+name:
+  swe: ASPAC – svenska-serbiska (kyrilliskt)
+  eng: ASPAC – Swedish-Serbian (cyrillic)
+short_description:
+  swe: Del av The Amsterdam Slavic Parallel Aligned Corpus
+  eng: Part of The Amsterdam Slavic Parallel Aligned Corpus
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - sbc
+size:
+  tokens: '577094'
+  sentences: '37212'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsbc-sv.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsbc-sbc.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Serbian part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSBC-SV.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSBC-SBC.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the Serbian part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvsbc-sv
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

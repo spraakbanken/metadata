@@ -1,0 +1,30 @@
+name:
+  swe: SVT nyheter
+  eng: SVT news
+short_description:
+  swe: Nyhetstexter från svt.se
+  eng: News texts from svt.se
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: Texterna har samlats in från nyhetsartiklar på <a href="https://www.svt.se/">svt.se</a>.
+    Samlingen är uppdelad årsvis och uppdateras ca två gånger om året.
+  eng: The texts have been collected from news articles on <a href="https://www.svt.se/">svt.se</a>.
+    The collection is divided into years and the data is updated about twice per year.

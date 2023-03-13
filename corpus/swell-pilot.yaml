@@ -1,0 +1,47 @@
+name:
+  swe: SweLL-pilot
+  eng: SweLL-pilot
+short_description:
+  swe: ''
+  eng: Essays written by adult learners of Swedish
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  texts: '502'
+in_collections: []
+downloads: []
+interface: []
+contact_info:
+  name: Elena Volodina
+  email: swell@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <p>SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2016, and contains 502 essays that have been anonymized and graded with CEFR labels.</p>
+
+    <p>There are three subcorpora in the SweLL-pilot collection:</p>
+
+    <ul>
+        <li>SpIn - 256 essays collected from Language Introduction course (mid-term exams) for newly arrived refugees. Some of the students are recurrent.</li>
+        <li>Sw1203 - 141 essays collected from university students in exam setting, most of who wrote three essays each</li>
+        <li>TISUS - 105 essays written as a part of a Test In Swedish for University Studies. All essays are on the same topic “Stress” and of argumentative genre</li>
+    </ul>
+
+    <h2>Links</h2>
+
+    <ul>
+        <li><a href="https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot">SweLL-pilot ReadMe</a></li>
+        <li><a href="https://spraakbanken.gu.se/en/projects/swell/">About the SweLL project</a></li>
+        <li><a href="https://sunet.artologik.net/gu/swell">Application for access</a></li>
+    </ul>
+
+    <h2>Cite as</h2>
+
+    <p>{publication 248141}</p>

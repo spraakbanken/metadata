@@ -1,0 +1,126 @@
+name:
+  swe: SALT – svenska-nederländska
+  eng: SALT – Swedish-Dutch
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - nld
+size:
+  tokens: '2845857'
+  sentences: '188143'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-sv.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-nl.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Dutch part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains corpus statistics for the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains corpus statistics for the Dutch part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#corpus=saltnld-sv
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>Salt är en nederländsk-svensk parallellkorpus. Korpusen innehåller följande texter.</p>
+
+    <table>
+    <tr>
+    <td>Författare</td><td>Titel</td><td>Utg.år</td>
+    </tr>
+    <tr>
+    <td>Bergman, Ingmar</td><td>Laterna Magica / Laterna Magica</td><td>1987 / 1987</td>
+    </tr>
+    <tr>
+    <td>Claus, Hugo</td><td>De geruchten / Rykten</td><td>1997 / 1997</td>
+    </tr>
+    <tr>
+    <td>Ekman, Kerstin</td><td>Händelser vid vatten / Zwart water</td><td>1996 / 1996</td>
+    </tr>
+    <tr>
+    <td>Guillou, Jan</td><td>Fiendens fiende / De vijand van de vijand</td><td>1989 / 1992</td>
+    </tr>
+    <tr>
+    <td>Gustafsson, Lars</td><td>En kakelsättares eftermiddag / De namiddag van een tegelzetter</td><td>1991 / 1994</td>
+    </tr>
+    <tr>
+    <td>Krabbé, Tim</td><td>Het gouden ei / De försvunna</td><td>1999 / 1993</td>
+    </tr>
+    <tr>
+    <td>Mankell, Henning</td><td>Mördare utan ansikte / Moordenaar zonder gezicht</td><td>1998 / 1998</td>
+    </tr>
+    <tr>
+    <td>Mulisch, Harry</td><td>De Aanslag / Överfallet</td><td>1983 / 1986</td>
+    </tr>
+    <tr>
+    <td>Sjöwall-Wahlöö</td><td>Brandbilen som försvann / De brandweerauto die verdween</td><td>1969 / 1973</td>
+    </tr>
+    <tr>
+    <td>Tunström, Göran</td><td>Tjuven / De dief</td><td>1986 / </td>
+    </tr>
+    <tr>
+    <td>van Paemel, Monika</td><td>De eerste steen / Den första stenen</td><td>1992 / 1994</td>
+    </tr>
+    <tr>
+    <td>Wolkers, Jan</td><td>Turks Fruit / Turkisk konfekt</td><td>2000 / 1973</td>
+    </tr>
+    <tr>
+    <td>Dekker Rudolf, van de Pol Lotte</td><td>Vrouwen in mannenkleren / Kvinnor i manskläder</td><td>1989 / 1995</td>
+    </tr>
+    <tr>
+    <td>Johanisson, Karin</td><td>Den mörka kontinenten. Kvinnan, medicinen och fin-de-siècle / Het duistere continent. Dokters en vrouwen in het fin-de-siècle</td><td>1994 / 1996</td>
+    </tr>
+    <tr>
+    <td>Nilson Peter</td><td>Hem till jorden / Terug naar de aarde</td><td>1994 / 1996</td>
+    </tr>
+    <tr>
+    <td>Svenska Institutet</td><td>Sverige och Belgien / Zweden en België</td><td>2000 / 2000</td>
+    </tr>
+    <tr>
+    <td>Swartz Richard</td><td>Roomservice / Roomservice</td><td>1996 / 2000</td>
+    </tr>
+    </table>
+
+    <p>Följande texter ingår i korpusen, men har ännu ej länkats och finns inte tillgängliga via Språkbanken.</p>
+
+    <table>
+    <tr>
+    <td>Enquist, Anna</td><td>Het meesterstuk / Mästarprovet</td><td>1994 / 1998</td>
+    </tr>
+    <tr>
+    <td>Cullberg Johan</td><td>Dynamisk psykiatri i teori och praksis / Moderne psychiatrie</td><td>1984 / 1986</td>
+    </tr>
+    </table>
+
+    <p>För mer information om korpusen, se Rawoens, Gudrun (2008). Kausativa verbkonstruktioner i svenskan och nederländskan. En korpusbaserad syntaktisk-semantisk undersökning. (Göteborgsstudier i nordisk språkvetenskap 11) Göteborg: Göteborgs universitet.</p>
+  eng: ''

@@ -1,0 +1,63 @@
+name:
+  swe: Press 98
+  eng: Press 98
+short_description:
+  swe: Svensk press 1998
+  eng: Swedish press 1998
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '10740849'
+  sentences: '801905'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press98.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS98.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=press98
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>Korpusen består av tidningsartiklar från <B>DN, Göteborgs-Posten
+    och Svenska Dagbladet</B>. Denna gång har vi medvetet
+    valt att variera insamlingsperioderna mellan de olika
+    tidningarna. Följande insamlingsperioder gäller (observera
+    att hittills endast tre av fyra perioder insamlats):
+
+    </p>
+    <p>Insamlingen omfattar följande dagar:
+    <ul>
+    <li><i>DN:   3/2-12/2, 19/5-28/5,  9/6-3/7 </i>
+    <li><i>GP:  12/1- 1/2,  6/4-26/4,  6/7-26/7</i>
+    <li><i>SvD:  2/2-22/2, 27/4-17/5,  3/8-23/8</i>
+    </ul>
+    </p>
+    <p>Det kan inte nog sägas: Ett stort tack till DN, GP och SvD för
+    det mycket vänliga bemötandet och den hjälpsamhet som ni visat
+    trots er ändå stora arbetsbörda. Tack Anders, tack Kjell, tack Lena.</p>
+
+    <p>Språkbanken, oktober 1998.</p>
+
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}
+  eng: ''

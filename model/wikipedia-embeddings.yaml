@@ -1,0 +1,27 @@
+name:
+  swe: Engelska inbäddningar (word embeddings)
+  eng: Word Embeddings trained on English Wikipedia
+short_description:
+  swe: Förtränade inbäddningar (word embeddings) för engelska wikipedia
+  eng: Word Embeddings trained on English Wikipedia
+type: model
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - eng
+in_collections: []
+downloads:
+  - url: https://zenodo.org/record/6542975
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Simon Hengchen
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

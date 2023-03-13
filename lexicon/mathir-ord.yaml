@@ -1,0 +1,31 @@
+name:
+  swe: MAÞiR Ord
+  eng: MAÞiR Words
+short_description:
+  swe: Fornsvensk lexikal resurs baserad på Söderwalls ordbok, lämpligt för bl a konstruktion
+    av lemmatiseringsmodeller.
+  eng: Old Swedish lexical resource based upon Söderwall's dictionary, suitable for
+    creating lemmatizers, amonst other things.
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '28357'
+in_collections: []
+downloads:
+  - url: https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz
+    type: mathir_words_v1.0.tgz
+    format: tgz
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Gerlof Bouma
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

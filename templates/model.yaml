@@ -1,0 +1,32 @@
+name:
+  swe: ''
+  eng: ''
+short_description:
+  swe: ''
+  eng: ''
+type: model
+trainingdata: false
+unlisted: false
+successors: []
+language_codes: []
+in_collections: []
+downloads:
+  - url: ''
+    type: ''
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: ''
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: ''

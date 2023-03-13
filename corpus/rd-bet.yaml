@@ -1,0 +1,41 @@
+name:
+  swe: Riksdagens öppna data - Betänkande
+  eng: ''
+short_description:
+  swe: Utskottens betänkanden och utlåtanden, inklusive rksdagens beslut, en sammanfattning
+    av voteringsresultaten och Beslut i korthet
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '203229298'
+  sentences: '11105994'
+in_collections:
+  - rd
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-bet.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-bet.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=rd-bet
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

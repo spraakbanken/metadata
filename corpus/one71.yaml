@@ -1,0 +1,45 @@
+name:
+  swe: Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)
+  eng: Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)
+short_description:
+  swe: Del av SOL - Spanska Online
+  eng: Part of SOL - Spanish Online
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - spa
+size:
+  tokens: '1248184'
+  sentences: '69270'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/one71.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/konk/rom2/
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html
+    type: Info.ONE71.html
+    format: html
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=spanish#corpus=one71
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

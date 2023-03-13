@@ -1,0 +1,33 @@
+name:
+  swe: LSI
+  eng: LSI
+short_description:
+  swe: Linguistic Survey of India
+  eng: Linguistic Survey of India
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - eng
+size:
+  tokens: '1193437'
+  sentences: '72669'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lsi.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=lsi
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Shafqat Virk
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

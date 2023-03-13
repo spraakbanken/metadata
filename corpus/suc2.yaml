@@ -1,0 +1,43 @@
+name:
+  swe: SUC 2.0
+  eng: SUC 2.0
+short_description:
+  swe: Stockholm-Umeå-korpus 2.0
+  eng: Stockholm-Umeå corpus 2.0
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '1166593'
+  sentences: '74243'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}
+
+    <h2>SUC 2.0</h2>
+
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}
+  eng: |-
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}
+
+    <h2>SUC 2.0</h2>
+
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}

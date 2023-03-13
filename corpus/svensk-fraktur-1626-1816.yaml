@@ -1,0 +1,52 @@
+name:
+  swe: Svensk fraktur 1626-1816
+  eng: Swedish fraktur 1626-1816
+short_description:
+  swe: Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna
+    på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.
+  eng: 'A selection of fraktur texts printed between 1626 and 1816 from the collections
+    of the University Library of University of Gothenburg (UB). For OCR analysis. '
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '47924'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Dana Dannélls
+  email: dana.dannells@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+      Svensk fraktur 1626 – 1816 innehåller ett urval av digitaliserade versioner av äldre frakturtryck från 1626 till 1816 med motsvarande manuell transkribering. Materialet digitaliserades av Göteborgs universitetsbibliotek, och de digitaliserade versionerna transkriberades manuellt av <a href="http://www.grepect.de/" target="_blank">GREPECT</a> genom en s.k. double-keying metod.
+    </p>
+    <p>
+       Materialet har tagits fram under projektet <a href="https://spraakbanken.gu.se/projekt/ocr-cloud" target="_blank">En fri molntjänst för OCR</a> för att förbättra OCR-tolkningen av tryckta fraktur texter.
+    </p>
+    <p>
+    Antalet digitaliserade sidor är 199 och de transkriberade texterna innehåller 47924 ord totalt. Listan över titlarna, libris-id:s och publiceringslänkar finns tillgängligt <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">här</a>.
+    </p>
+  eng: |-
+    <p>
+      Svensk fraktur 1626 – 1816 contains a selection of digitized versions of older fraktur prints from 1626 to 1816 with their corresponding manual transcriptions. The material was digitized by the Gothenburg University Library, and the digitized versions were manually transcribed by <a href="http://www.grepect.de/" target="_blank">GREPECT</a> using double-keying.
+    </p>
+    <p>
+    The material was produced as a part of the project <a href="https://spraakbanken.gu.se/en/projects/ocr-cloud" target="_blank">A free cloud service for OCR</a> with the aim to improve the OCR interpretation of printed fraktur texts.
+    </p>
+    <p>
+    The number of digitized pages is 199 and the transcribed texts contain 47924 words in total. The list of titles, libris-ids and publishing links is available <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">here</a>.
+    </p>

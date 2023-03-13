@@ -1,0 +1,55 @@
+name:
+  swe: Söderwall
+  eng: Söderwall
+short_description:
+  swe: Ordbok över svenska medeltidsspråket
+  eng: Dictionary of Old Swedish
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '22572'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/soederwall/soederwall.xml
+    type: lexicon
+    format: LMF
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/karp/#?mode=oldswedish&resources=soederwall
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Lexikonet består av K.F. Söderwalls Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), med ca 23.000 uppslagsord.
+    </p>
+
+    <p>
+    Ordboken har kodats in manuellt vid Språkbanken, Göteborgs universitet. Uppslagsorden är kontrollästa efter inkodningen, doch inte övriga delar av ordboksartiklarna.
+    <!--
+    Svenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).
+    -->
+    </p>
+  eng: |-
+    <p>
+    The lexicon consists of K.F. Söderwall's Ordbok Öfver svenska medeltids-språket. Vol I-III. (Lund 1884—1918), with about 23,000 entries.
+    </p>
+
+    <p>
+    The dictionary has been manually encoded at Språkbanken, University of Gothenburg. The entry words have been proofread after encoding, but not the other parts of the entry articles.
+    <!--
+     Svenska Fornskriftssällskapet innehar upphovsrätten till K.F. Söderwalls ordbok samt till supplementet. Språkbanken har Svenska Fornskriftssällskapets medgivande att publicera en digital databas över Söderwalls ordbok (inkl. supplement).
+    -->
+    </p>

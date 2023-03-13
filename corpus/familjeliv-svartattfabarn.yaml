@@ -1,0 +1,40 @@
+name:
+  swe: 'Familjeliv: Svårt att få barn'
+  eng: 'Familjeliv: Difficult to get children'
+short_description:
+  swe: Material från diskussionsforumet Familjeliv.
+  eng: Material from the Familjeliv internet forum.
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '172829832'
+  sentences: '11853108'
+in_collections:
+  - familjeliv
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/familjeliv-svartattfabarn.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-svartattfabarn.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=familjeliv-svartattfabarn
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

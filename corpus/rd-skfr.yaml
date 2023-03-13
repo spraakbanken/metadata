@@ -1,0 +1,40 @@
+name:
+  swe: Riksdagens öppna data - Skriftliga frågor
+  eng: ''
+short_description:
+  swe: Skriftliga frågor från ledamöterna till regeringen och svaren på dessa
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '14599076'
+  sentences: '827163'
+in_collections:
+  - rd
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-skfr.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-skfr.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=rd-skfr
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

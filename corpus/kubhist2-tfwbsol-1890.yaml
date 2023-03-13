@@ -1,0 +1,40 @@
+name:
+  swe: Tidning för Wenersborgs stad och län 1890-talet
+  eng: Tidning för Wenersborgs stad och län 1890's
+short_description:
+  swe: Del av samlingen Kubhist2
+  eng: Part of the collection Kubhist2
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '19088057'
+  sentences: '1315745'
+in_collections:
+  - kubhist2
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-tfwbsol-1890.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-tfwbsol-1890.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-tfwbsol-1890
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

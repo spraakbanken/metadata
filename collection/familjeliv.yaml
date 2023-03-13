@@ -1,0 +1,30 @@
+name:
+  swe: Familjeliv
+  eng: Familjeliv
+short_description:
+  swe: Material från diskussionsforumet Familjeliv
+  eng: Material from the Familjeliv internet forum
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.familjeliv
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+description:
+  swe: Texterna har samlats in från diskussionsforumet <a href="https://www.familjeliv.se/">Familjeliv</a>.
+    Samlingen uppdateras ca en gång per år.
+  eng: The texts have been collected from the internet forum <a href="https://www.familjeliv.se/">Familjeliv</a>.
+    The collection is updated about once per year.

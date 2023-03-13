@@ -1,0 +1,72 @@
+name:
+  swe: Press 76
+  eng: Press 76
+short_description:
+  swe: Svensk press 1976
+  eng: Swedish press 1976
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '1348122'
+  sentences: '88919'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press76.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS76.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=press76
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Korpusen består av blandat tidningsmaterial på c.a 1,3 miljoner löpande ord från fem tidningar år 1976.
+    Följande tidningar ingår:
+    <br />
+
+    <table width="60%">
+    <tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>
+    <tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>
+    <tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>
+    <tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>
+    <tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>
+    </table>
+    </p>
+
+    <p>
+    Materialet är insamlat på hålremsa under perioder som motsvarar dem som användes för
+    Press 65.
+    </p>
+    <p>
+    Syftet med insamlingen var att komplettera Press 65 med en
+    likartad korpus efter ett lämpligt tidsintervall, främst för att kunna
+    studera kortsiktiga vokabulärförändringar. Materialet är inte rättat
+    och innehåller korrekturfel. Dess närmare komposition (i fråga om ämnen
+    etc.) skulle, vid behov, kunna rekonstrueras utifrån Språkbankens källmaterial.
+    </p>
+    <p>
+    I konkordansen identifieras raderna enbart med förkortningarna för Tidning enligt ovan.
+    </p>
+
+    <p>Jerker Järborg</p>
+  eng: ''

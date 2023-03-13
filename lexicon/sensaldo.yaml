@@ -1,0 +1,42 @@
+name:
+  swe: SenSALDO
+  eng: SenSALDO
+short_description:
+  swe: SenSALDO, SALDO-ingångar och textord med attitydinformation
+  eng: SenSALDO, SALDO entries and text word forms with sentiment information (prior
+    polarity)
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '12287'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip
+    type: sensaldo-v02.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip
+    type: sensaldo.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Lars Borin
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}
+  eng: "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n\
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}"

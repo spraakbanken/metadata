@@ -1,0 +1,78 @@
+name:
+  swe: 'Ordklasstaggningsmodell: Flair'
+  eng: 'POS-tagging model: Flair'
+short_description:
+  swe: Förtränade modeller för ordklasstaggning.
+  eng: Pretrained models for POS-tagging.
+type: model
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/flair_eval.zip
+    type: flair_eval.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/flair_full.zip
+    type: flair_full.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <h2>Models</h2>
+    <p>We provide two models.</p>
+    <p><b><code>flair_eval</code></b> is trained on <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC3</a> with <a href="https://spraakbanken.gu.se/en/resources/talbanken">Talbanken_SBX_dev</a> as dev set. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://spraakbanken.gu.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
+
+    <table style="width:25">
+      <tr>
+        <th>Test set</th>
+        <th>Exact match</th>
+        <th>POS</th>
+        <th>MSD</th>
+      </tr>
+      <tr>
+        <td>Talbanken_SBX_test</td>
+        <td>0.978</td>
+        <td>0.987</td>
+        <td>0.990</td>
+      </tr>
+      <tr>
+        <td>SIC2</td>
+        <td>0.926</td>
+        <td>0.940</td>
+        <td>0.964</td>
+      </tr>
+    </table>
+
+    <p> Read more about the evaluation <a href="https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging">here</a>.</p>
+
+    <p><b><code>flair_full</code></b> is trained on SUC3 + Talbanken_SBX_test + SIC2 with Talbanken_SBX_dev as dev set. We cannot evaluate the performance of this model, but we expect it to perform better than <code>flair_eval</code>, or at least not worse.</p>
+
+    <h2>Tagging and training</h2>
+    <p>Install <a href="https://github.com/flairNLP/flair">Flair</a> and the necessary dependencies.
+    Download our scripts from this <a href="https://github.com/spraakbanken/golddatatools">repository</a>.
+    If necessary, change the path to your data and the names on training, dev and test sets in the scripts.
+    The scripts use a tab-separated two-column format: token, POS. Use <code>conllu_to_tab.rb</code> to convert CONLL(U) to the two-column format (install Ruby 1.9+ and run <i>ruby conllu_to_tab 2 n</i>, where <i>n</i> is the number of the column you want to use (if you are converting our CONLLU files, use 4)).
+    Run the scripts with Python3; GPU is strongly recommended (training is extremely slow on CPU).<p>
+
+    <h3>Tagging</h3>
+    <p>Use <code>tag_flair_p.py</code> to tag a corpus using a pretrained model. By default, the <code>flair_full</code> model will be used.
+    The output corpus will be created as a tab-separated three-column file: token, POS, confidence score.</p>
+
+    <h3>Training your own models</h3>
+    <p>Use <code>train_flair_p.py</code>. <code>Replace user_model</code> with the name for your model. By default, Flair's own embeddings will be used (our experiments show that they provide the best results), but you may use <a href="https://spraakbanken.gu.se/resurser/embeddings">other embeddings</a> instead (or combine them).<p>

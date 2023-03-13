@@ -1,0 +1,26 @@
+name:
+  swe: lingfn-thesis
+  eng: lingfn-thesis
+short_description:
+  swe: ''
+  eng: ''
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '16'
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/karp/#?mode=fn_cxn&resources=lingfn-thesis
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,28 @@
+name:
+  swe: Aventinus
+  eng: Aventinus
+short_description:
+  swe: Narkotikarelaterad terminologi
+  eng: Drug related terminology
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '0'
+in_collections: []
+downloads: []
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: <p>Mer information hittas på <a href="http://spraakdata.gu.se/av/info.html"
+    target="_blank">Aventinus Projektsida</a>.</p>
+  eng: <p>You can find more information on <a href="http://spraakdata.gu.se/av/info.html"
+    target="_blank">the Aventinus project page</a>.</p>

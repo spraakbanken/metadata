@@ -1,0 +1,40 @@
+name:
+  swe: Göteborgsposten
+  eng: Göteborgsposten
+short_description:
+  swe: A corpus with texts from the newspaper "Göteborgsposten"
+  eng: En samling med texter från tidningen "Göteborgsposten"
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - gp1994
+  - gp2001
+  - gp2002
+  - gp2003
+  - gp2004
+  - gp2005
+  - gp2006
+  - gp2007
+  - gp2008
+  - gp2009
+  - gp2010
+  - gp2011
+  - gp2012
+  - gp2013
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=newstexts.gp
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

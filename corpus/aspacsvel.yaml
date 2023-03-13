@@ -1,0 +1,52 @@
+name:
+  swe: ASPAC – svenska-grekiska
+  eng: ASPAC – Swedish-Greek
+short_description:
+  swe: Del av The Amsterdam Slavic Parallel Aligned Corpus
+  eng: Part of The Amsterdam Slavic Parallel Aligned Corpus
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - ell
+size:
+  tokens: '303518'
+  sentences: '20054'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-sv.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvel-el.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Greek part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-SV.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEL-EL.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the Greek part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvel-sv
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,60 @@
+name:
+  swe: August Strindbergs brev
+  eng: August Strindberg's letters
+short_description:
+  swe: Del av August Strindbergs samlade verk
+  eng: Part of the collected works of August Strindberg
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '1507958'
+  sentences: '138623'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/strindbergbrev.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_STRINDBERGBREV.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=strindbergbrev
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    August Strindbergs brev sammanställdes av Kerstin Dahlbäck. De omfattar samtliga tryckta och otryckta brev som var tillgängliga 1 augusti 1991. Materialet är att betrakta som ett arbetsmaterial, då det ännu inte är tillfredsställande kontrollerat (korrekturfel kan inte uteslutas, de brev som kodats in direkt från handskrivet manuskript kan rymma feltolkningar och bör korrigeras, felaktigheter hos Eklund har visserligen rättats men en systematisk genomgång har inte företagits). Vidare har breven från de sista åren preliminära beteckningar och skall omnumreras i överensstämmelse med delarna XVII-XX i utgåvan av Augusts Strindbergs brev.
+    </p>
+
+    <!--
+    <p>
+    För information om utgivningen av Samlade Verk, se <a href="http://www.littvet.su.se/strb/index.htm">Strindbergsprojektets hemsida</a>. Se även <a href="http://k2xx.spraakdata.gu.se/strindberg/sbgsok.shtml">frekvens- och ordförklaringssökning</a>.
+    </p>
+    -->
+  eng: |-
+    <p>
+    August Strindberg's letters were compiled by Kerstin Dahlbäck. They include all published and unpublished letters available on 1 August 1991. The material should be considered a working material, as it has not yet been satisfactorily proof-read. Additionally, the letters from the last years have preliminary designations and need to be renumbered in accordance with parts XVII-XX of the published letters of August Strindberg.
+    </p>
+
+    <!--
+    <p>
+    For more information about the publication of the Collected Works, see the homepage of <a href="http://www.littvet.su.se/strb/index.htm">the Strindberg project</a>. See also the <a href="http://k2xx.spraakdata.gu.se/strindberg/sbgsok.shtml">frequency and word explanation query</a>.
+    </p>
+    -->

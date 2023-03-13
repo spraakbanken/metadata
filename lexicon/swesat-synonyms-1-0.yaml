@@ -1,0 +1,241 @@
+name:
+  swe: SweSAT Högskoleprovet ordförståelse
+  eng: SweSAT Swedish Scholastic Aptitude Test Synonyms
+short_description:
+  swe: Högskoleprovet ordförståelse
+  eng: Swedish Scholastic Aptitude Test Synonyms
+type: lexicon
+trainingdata: true
+unlisted: true
+successors:
+  - swesat-synonyms
+language_codes:
+  - swe
+size:
+  entries: '782'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt
+    type: swesat-synonyms.txt
+    format: txt
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/swesat-synonyms_documentation_sheet.tsv
+    type: swesat-synonyms_documentation_sheet.tsv
+    format: tsv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Yvonne Adesam
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <table style="width:100%">
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>I. IDENTIFYING INFORMATION</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Title*</td>
+    <td>SweSAT Synonyms</td>
+    </tr>
+    <tr>
+    <td>Subtitle</td>
+    <td>Högskoleprovet Ordförståelse, Swedish Scholastic Aptitude Test Synonyms</td>
+    </tr>
+    <tr>
+    <td>Created by*</td>
+    <td>Yvonne Adesam (yvonne.adesam@gu.se), Lars Borin (lars.borin@gu.se)</td>
+    </tr>
+    <tr>
+    <td>Publisher(s)*</td>
+    <td>Språkbanken Text</td>
+    </tr>
+    <tr>
+    <td>Link(s) / permanent identifier(s)*</td>
+    <td>https://spraakbanken.gu.se/en/resources/swesat-synonyms</td>
+    </tr>
+    <tr>
+    <td>License(s)*</td>
+    <td>CC BY 4.0</td>
+    </tr>
+    <tr>
+    <td>Abstract*</td>
+    <td>The dataset provides a gold standard for Swedish word synonymy/definition. The test items are collected from the Swedish Scholastic Aptitude Test (högskoleprovet), currently spanning the years 2006--2021 and 822 vocabulary test items. The task for the tested system is to determine which synonym or definition of five alternatives is correct for each test item.</td>
+    </tr>
+    <tr>
+    <td>Funded by*</td>
+    <td>Vinnova (grant no. 2019-02996), Språkbanken Text</td>
+    </tr>
+    <tr>
+    <td>Cite as</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Related datasets</td>
+    <td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>II. USAGE</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Key applications</td>
+    <td>Evaluation of word meaning through synonymy.</td>
+    </tr>
+    <tr>
+    <td>Intended task(s)/usage(s)</td>
+    <td>For each test item, predict the synonym out of five alternatives.</td>
+    </tr>
+    <tr>
+    <td>Recommended evaluation measures</td>
+    <td>Accuracy</td>
+    </tr>
+    <tr>
+    <td>Dataset function(s)</td>
+    <td>Testing</td>
+    </tr>
+    <tr>
+    <td>Recommended split(s)</td>
+    <td>Test split only</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>III. DATA</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Primary data*</td>
+    <td>Text</td>
+    </tr>
+    <tr>
+    <td>Language*</td>
+    <td>Swedish</td>
+    </tr>
+    <tr>
+    <td>Dataset in numbers*</td>
+    <td>822 test items with one focus word and five answer alternatives each.</td>
+    </tr>
+    <tr>
+    <td>Nature of the content*</td>
+    <td>Each test item contains one focus word, which may be a single word or a phrase or expression. The answer alternatives may also be a single word or a phrase or expression. Only one alternative is marked as correct. There may be other possible meanings of the focus word, which are not possible alternatives.</td>
+    </tr>
+    <tr>
+    <td>Format*</td>
+    <td>The test items are listed in a tab-separated file, one item per line, where the first column is an item id ("h"+year+"a"|"b"|"c"("a"|"b")+item number ("00" is a practice item), the second item is the target item, and columns 3-7 are the answer alternatives A-E, each ending with "/0|1|2", where 0=incorrect and 1=correct. For four items in total 2=correct, but the item is marked "excluded" in the answer key, because they were leaked on the internet immediately before the 2012 spring test.</td>
+    </tr>
+    <tr>
+    <td>Data source(s)*</td>
+    <td>The data has been collected from https://www.studera.nu/hogskoleprov/infor-hogskoleprovet/ova-pa-gamla-hogskoleprov/</td>
+    </tr>
+    <tr>
+    <td>Data collection method(s)*</td>
+    <td>Copy and reformat.</td>
+    </tr>
+    <tr>
+    <td>Data selection and filtering*</td>
+    <td>None</td>
+    </tr>
+    <tr>
+    <td>Data preprocessing*</td>
+    <td>None</td>
+    </tr>
+    <tr>
+    <td>Data labeling*</td>
+    <td>The correct synonym is marked with 1 or 2, the incorrect with 0. This is gold data from the Swedish Scolastic Aptitude Test.</td>
+    </tr>
+    <tr>
+    <td>Annotator characteristics</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>IV. ETHICS AND CAVEATS</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Ethical considerations</td>
+    <td>None</td>
+    </tr>
+    <tr>
+    <td>Things to watch out for</td>
+    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on https://spraakbanken.gu.se/resurser/superlim.</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>V. ABOUT DOCUMENTATION</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Data last updated*</td>
+    <td>20210618, v1.0</td>
+    </tr>
+    <tr>
+    <td>Which changes have been made, compared to the previous version*</td>
+    <td>First release of the data.</td>
+    </tr>
+    <tr>
+    <td>Access to previous versions</td>
+    <td>First release of the data.</td>
+    </tr>
+    <tr>
+    <td>This document created*</td>
+    <td>20210618 Yvonne Adesam (yvonne.adesam@gu.se)</td>
+    </tr>
+    <tr>
+    <td>This document last updated*</td>
+    <td>20210618 Yvonne Adesam (yvonne.adesam@gu.se)</td>
+    </tr>
+    <tr>
+    <td>Where to look for further details</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Documentation template version*</td>
+    <td>v1.0</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>VI. OTHER</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>Related projects</td>
+    <td></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>References</td>
+    <td></td>
+    </tr>
+    </table>

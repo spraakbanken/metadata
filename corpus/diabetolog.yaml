@@ -1,0 +1,27 @@
+name:
+  swe: DiabetologNytt (1996–1999)
+  eng: DiabetologNytt (1996–1999)
+short_description:
+  swe: Tidningen DiabetologNytt 1996-1999
+  eng: The paper DiabetologNytt (Diabetologynews) 1996-1999
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '228313'
+  sentences: '14129'
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=diabetolog
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,190 @@
+name:
+  swe: Äldre svenska romaner
+  eng: Older Swedish novels
+short_description:
+  swe: En samling med fler än 50 äldre svenska romaner av 14 olika författare
+  eng: A collection of more than 50 older Swedish novels by 14 different authors
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '4347047'
+  sentences: '279704'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/romg.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/konk/info/romg.phtml
+    type: romg.phtml
+    format: phtml
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=romg
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Spr&aring;kbanken har genom samarbete med Textalk AB, M&ouml;lndal
+    erh&aring;llit ett antal optiskt inl&auml;sta &auml;ldre svenska romaner.
+    Texterna &auml;r stavningskontrollerade med hj&auml;lp av ett vid
+    Spr&aring;kbanken utvecklat system och d&auml;refter manuellt
+    korrigerade av Textalk AB.
+    </p>
+    <!--<p>
+    Vi hoppas dessutom att s&aring; sm&aring;ningom kunna utvidga
+    materialet med n&aring;gra fler romaner fr&aring;n Textalk AB,
+    men &auml;ven kunna komplettera med liknande texter fr&aring;n
+    andra k&auml;llor.
+    </p>
+    -->
+    <p>
+    Korpusen best&aring;r av f&ouml;ljande verk:
+    </p>
+    <p>
+    <b>Almqvist, Carl Jonas Love:</b>
+    <ul>
+      <li>almq_detg: Det g&aring;r an</li>
+      <li>almq_tref: Tre fruar i Sm&aring;land</li>
+      <li>almq_gabr: Gabri&egrave;le Mimanso</li>
+      <li>almq_kape: Kapellet</li>
+    </ul>
+    </p>
+    <p>
+    <b>Andersson, Dan:</b>
+    <ul>
+      <li>ande_detk: Det kallas vidskepelse
+      </li><li>ande_deth: De tre heml&ouml;sa
+      </li><li>ande_kola: Kolarhistorier
+    </li>
+    </ul></p>
+    <p>
+    <b>Benedictsson, Victoria: </b>
+    <ul>
+      <li>bene_denb: Den bergtagna
+      </li><li>bene_frum: Fru Marianne
+      </li><li>bene_fsk&aring;: Fr&aring;n Sk&aring;ne
+      </li><li>bene_peng: Pengar
+    </li>
+    </ul></p>
+    <p>
+    <b>Bergman, Hjalmar:</b>
+    <ul>
+      <li>berg_chef: Chefen fru Ingeborg
+      </li><li>berg_clow: Clownen Jack
+      </li><li>berg_endm: En d&ouml;ds memoarer
+      </li><li>berg_fovh: Farmor och v&aring;r Herre
+      </li><li>berg_fgph: Fru Gunhild p&aring; Hviskingeholm
+      </li><li>berg_hans: Hans n&aring;ds testamente
+      </li><li>berg_hvha: Herr von Hancken
+      </li><li>berg_mark: Markurells i Wadk&ouml;ping
+      </li><li>berg_misu: Mor i Sutre
+    </li>
+    </ul></p>
+    <p>
+    <b>Boye, Karin:</b>
+    <ul>
+      <li>boye_kall: Kallocain
+    </li>
+    </ul></p><p>
+    <b>Bremer, Fredrika</b>
+    <ul>
+      <li>brem_famh: Familjen H***
+    </li>
+    </ul></p><p>
+    <b>Carl&eacute;n, Emile:</b>
+    <ul>
+      <li>carl_rpti: Rosen p&aring; Tistel&ouml;n
+    </li>
+    </ul></p><p>
+    <b>von Heidenstam, Verner: </b>
+    <ul>
+      <li>heid_folk: Folke Filbyter
+      </li><li>heid_bjal: Bj&auml;lboarvet
+      </li><li>heid_karo: Karolinerna
+    </li>
+    </ul></p><p>
+    <b>Koch, Martin:</b>
+    <ul>
+      <li>koch_arbe: Arbetare
+      </li><li>koch_elle: Ellen
+      </li><li>koch_gud1: Guds vackra v&auml;rld 1
+      </li><li>koch_gud2: Guds vackra v&auml;rld 2
+    </li>
+    </ul></p><p>
+    <b>von Krusenstjerna, Agnes:</b>
+    <ul>
+      <li>krus_avsa: Av samma blod
+      </li><li>krus_dbru: Den bl&aring; gardinen
+      </li><li>krus_kvin: Kvinnogatan
+      </li><li>krus_h&ouml;sk: H&ouml;stens skuggor
+      </li><li>krus_povj: Porten vid Johannes
+      </li><li>krus_tonl: Tonys l&auml;ro&aring;r
+      </li><li>krus_tons: Tonys sista l&auml;ro&aring;r
+    </li>
+    </ul></p><p>
+    <b>Lagerl&ouml;f, Selma:</b>
+    <ul>
+      <li>lage_ansv: Anna Sv&auml;rd
+      </li><li>lage_chl&ouml;: Charlotte L&ouml;wensk&ouml;ld
+      </li><li>lage_gost: G&ouml;sta Berlings saga
+      </li><li>lage_ingm: Ingmars-s&ouml;nerna
+      </li><li>lage_jer1: Jerusalem 1
+      </li><li>lage_jer2: Jerusalem 2
+      </li><li>lage_julb: Julber&auml;ttelser
+      </li><li>lage_kejs: Kejsaren av Portugallien
+      </li><li>lage_nils: Nils Holgerssons underbara resa
+    </li>
+    </ul></p><p>
+    <b>Nordstr&ouml;m, Ludvig:</b>
+    <ul>
+      <li>nord_plan: Planeten Markattan
+      </li><li>nord_tola: Tomas Lack och hans familj
+    </li>
+    </ul></p><p>
+    <b>Rydberg, Viktor:</b>
+    <ul>
+      <li>rydb_sing: Singoalla
+      </li><li>rydb_vape: Vapensmeden
+    </li>
+    </ul></p><p>
+    <b>S&ouml;derberg, Hjalmar:</b>
+    <ul>
+      <li>sode_dale: Den allvarsamma leken
+      </li><li>sode_dokt: Doktor Glas
+      </li><li>sode_forv: F&ouml;rvillelser
+      </li><li>sode_hjor: Hj&auml;rtats oro
+      </li><li>sode_sbaf: Sista boken / Aforismer
+      </li><li>sode_mbun: Martin Bircks ungdom
+    </li>
+    </ul></p>
+    <!--<p>
+    Vi vill ocks&aring; p&aring;peka att materialen inte &auml;r 100% perfekta.
+    F&ouml;rhoppningsvis kan de &auml;nd&aring; ge tillr&auml;ckligt av spr&aring;kvetenskapligt
+    intresse f&ouml;r att v&auml;l motivera en plats i Spr&aring;kbankens allm&auml;nt
+    tillg&auml;ngliga arkiv.
+    </p>
+
+    -->
+  eng: ''

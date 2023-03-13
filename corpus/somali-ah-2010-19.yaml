@@ -1,0 +1,33 @@
+name:
+  swe: Afka Hooyo 2010–19 Iswiidhan
+  eng: Afka Hooyo 2010–19 Iswiidhan
+short_description:
+  swe: null
+  eng: null
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - som
+size:
+  tokens: '21542'
+  sentences: '1639'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-ah-2010-19.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-ah-2010-19
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,107 @@
+name:
+  swe: Press 65
+  eng: Press 65
+short_description:
+  swe: Svensk press 1965
+  eng: Swedish press 1965
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '1119449'
+  sentences: '53624'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press65.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS65.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=press65
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Korpusen består av artiklar insamlade från fem morgontidningar år 1965,
+    nämligen :<br />
+
+    <table width="60%">
+    <tr><td>Göteborgs Handels- och Sjöfartstidning    </td><td>(GHT)</td></tr>
+    <tr><td>Svenska Dagbladet                         </td><td>(SvD)</td></tr>
+    <tr><td>Stockholmstidningen                       </td><td>(ST) </td></tr>
+    <tr><td>Dagens Nyheter                            </td><td>(DN) </td></tr>
+    <tr><td>Sydsvenska Dagbladet - Snällposten        </td><td>(SDS)</td></tr>
+    </table>
+    </p>
+
+    <p>
+    Materialet omfattar något över en miljon ord.
+    Syftet med insamlingen var främst att utföra kvantitativa undersökningar av svenskans vokabulär.
+    Resultaten av undersökningarna finns redovisade i detalj i <strong>Nusvensk frekvensordbok</strong>
+    <em>(NFO)</em> <strong>1 - 4</strong> (1970 - 1980), av vilka delarna 1 och 2 ägnas åt orden, del
+    3 åt ordförbindelser (flerordsuttryck) och del 4 åt ordleden
+    (morfemen).
+    </p>
+    <p>
+    Materialet insamlades under fem fjortondagarsperioder per tidning och
+    inskränktes till sådana artiklar som fanns tillgängliga på hålremsa och
+    därmed var maskinläsbara i 1960-talets teknik. Därvid uteslöts på
+    förhand anonyma artiklar, artiklar från nyhetsbyråer, artiklar från
+    sportsidorna, kåserier, insändare och annonser. I efterhand uteslöts
+    även artiklar med metaspråkligt innehåll, artiklar med utländsk
+    författare samt artiklar innehållande längre citat. Syftet med
+    uteslutningarna var att göra materialet mer homogent. Det slutliga
+    urvalet omfattade noga räknat <strong>1 000 669 löpande ord</strong> i
+    <strong>1 387 artiklar</strong> av <strong>569 författare</strong>.
+    En fullständig förteckning över författare och artiklar, med angivande av
+    publiceringsdatum, internt författarnummer m.m., finns i appendix till <strong>NFO 4</strong>.
+    </p>
+    <p>
+    Materialet indelades med avseende på typ av källa i tre s.k. genrer:
+    <table width="60%">
+    <tr><td>U</td><td> utrikeskorrespondenters rapporter       </td></tr>
+    <tr><td>K</td><td> kulturartiklar jämte recensioner        </td></tr>
+    <tr><td>A</td><td> allmänt reportage                       </td></tr>
+    </table>
+    </p>
+    <p>
+    Med avseende på innehåll indelades materialet även i sex ämnesområden, nämligen :
+    <table width="60%">
+    <tr><td>Na</td><td> (naturvetenskap etc.)         </td></tr>
+    <tr><td>Ku</td><td> (kulturvetenskap etc.)        </td></tr>
+    <tr><td>Po</td><td> (politik och samhälle)        </td></tr>
+    <tr><td>Nä</td><td> (näringsliv och samfärdsel)   </td></tr>
+    <tr><td>Mä</td><td> (människa och miljö)          </td></tr>
+    <tr><td>Ko</td><td> (konstnärlig verksamhet).     </td></tr>
+    </table>
+    </p>
+    <p>
+    Materialets fördelning över tidningar, genrer och ämnen finns beskriven i inledningen till <strong>NFO 1</strong>.
+    </p>
+    <p>
+    I konkordansen identifieras raderna med en kombination av
+    förkortningarna för <STRONG>Tidning</STRONG> och <STRONG>Ämne</STRONG>, enligt mönstren <STRONG>SvDKu</STRONG> eller <STRONG>DN_Mä</STRONG>. <br />
+
+    OBS att meningsgränser är särskilt markerade genom tillägg av plustecken <CODE>"+"</CODE> efter s.k. stort skiljetecken.
+    </p>
+
+    <p>Jerker Järborg</p>
+  eng: ''

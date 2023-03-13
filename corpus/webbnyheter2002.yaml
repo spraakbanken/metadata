@@ -1,0 +1,39 @@
+name:
+  swe: Webbnyheter 2002
+  eng: Web News 2002
+short_description:
+  swe: Nyheter från svenska dagstidningars webbplatser
+  eng: News from Swedish newspapers' websites
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '17426173'
+  sentences: '994279'
+in_collections: false
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/webbnyheter2002.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_webbnyheter2002.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=webbnyheter2002
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

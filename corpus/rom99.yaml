@@ -1,0 +1,70 @@
+name:
+  swe: Norstedtsromaner (1999)
+  eng: Norstedts novels (1999)
+short_description:
+  swe: En samling med 23 romaner utgivna 1999 på Norstedts förlag
+  eng: A collection of 23 novels issued by Norstedts publishing house in 1999
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '2533209'
+  sentences: '176246'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rom99.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROM99.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=rom99
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Norstedtsromaner innehåller 23 romaner utgivna år 1999.
+    <ul>
+    <li>Andhé, Stefan - Oj vilka loja lejon</li>
+    <li>Brundtland, Gro Harlem - Dramatiska år : 1986-1996</li>
+    <li>Claeson, Stewe - Stämma i havet : bidrag till allmänna köldläran</li>
+    <li>Connelly, Michael - Svart eko</li>
+    <li>Drakulic, Slavenka - Som om jag inte vore där</li>
+    <li>Edelfeldt, Inger - Det hemliga namnet</li>
+    <li>Ehnmark, Anders - Minnets hemlighet : en bok om Erik Gustaf Geijer</li>
+    <li>Francis, Clare - Mörk passion</li>
+    <li>Greer, Germaine - Kvinnan i sin helhet</li>
+    <li>Guterson, David - Öster om bergen</li>
+    <li>Hasselmark, Nils-Åke - Vindarna kring Arholma</li>
+    <li>James, Erica - Kärlek eller förnuft</li>
+    <li>Larsen, Michael - Ormen i Sydney</li>
+    <li>Lindgren, Torgny - I brokiga blads vatten</li>
+    <li>McBain, Ed - Den vindögda björnen</li>
+    <li>Mosley, Walter - En liten gul hund</li>
+    <li>Márky, Ildikó - Första kontingenten</li>
+    <li>Odensten, Per - En lampa som gör mörker</li>
+    <li>Schulze, Ingo - Simple storys</li>
+    <li>Swartz, Richard - Ett hus i Istrien</li>
+    <li>Valdés, Zoé - Jag skänkte dig mitt liv</li>
+    <li>Wassmo, Herbjørg - Karnas arv</li>
+    <li>Wolfe, Tom - En riktig man</li>
+    </ul>
+    </p>
+  eng: ''

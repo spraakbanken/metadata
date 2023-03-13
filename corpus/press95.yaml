@@ -1,0 +1,65 @@
+name:
+  swe: Press 95
+  eng: Press 95
+short_description:
+  swe: Svensk press 1995
+  eng: Swedish press 1995
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '7671700'
+  sentences: '505815'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press95.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS95.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=press95
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Korpusen består av tidningsartiklar insamlade under följande veckor
+    <ul>
+    <li>6 (6 feb-12 feb)</li>
+    <li>20 (15 maj-21 maj)</li>
+    <li>34 (21 aug-27 aug)</li>
+    <li>48 (27 nov-3 dec)</li>
+    </ul>
+    </p>
+
+    <p>
+    Ingående tidningar är <B>Arbetet, Dagens Nyheter, Göteborgs-Posten, Svenska Dagbladet och
+    Sydsvenskan</B>. Arbetet och Sydsvenskan saknas dock från den fjärde perioden.
+    </p>
+    <p>
+    Vi tackar tidningarna som hela tiden bemött oss mycket
+    vänligt och som, trots det extraarbete som våra önskemål
+    medfört för dem, inte tvekat att ställa upp.
+    </p>
+
+    <p>Göteborg i mars 1997.</p>
+
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}
+  eng: ''

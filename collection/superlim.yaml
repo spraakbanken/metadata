@@ -1,0 +1,206 @@
+name:
+  swe: SuperLim
+  eng: SuperLim
+short_description:
+  swe: A standardized suite for evaluation and analysis of Swedish natural language
+    understanding systems.
+  eng: A standardized suite for evaluation and analysis of Swedish natural language
+    understanding systems.
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+collection: true
+hide_resources: true
+resources:
+  - absabank-imm
+  - dalaj
+  - faq
+  - swesat-synonyms
+  - analogy
+  - semeval2020t1-superlim
+  - swefracas
+  - swewinograd
+  - swewinogender
+  - swediagnostics
+  - sweparaphrase
+  - supersim-superlim
+  - swewic
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface: []
+contact_info:
+  name: Aleksandrs Berdicevskis
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: "<h2>Overview</h2>\n\n<!-- <p>NB: Many resources in the suite were adapted\
+    \ from some other datasets. The column \"Comment\" indicates which dataset was\
+    \ used as a source. All changes from the source (if any) are documented on the\
+    \ resource page.</p> -->\n\n<table style=\"width:100%\">\n\n  <tr>\n    <th>Resource</th>\n\
+    \    <th>Task</th>\n    <th>Split</th>\n<!-- <th>Comment</th> -->\n    <th>Citation</th>\n\
+    \  </tr>\n\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/resurser/absabank-imm\"\
+    \ target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>\n   \
+    \ <td>Label the sentiment that the author of a text expressed towards immigration\
+    \ on the 1--5 scale</td>\n    <td>10-fold cross-validation, consecutive</td>\n\
+    <!--    <td>reformatted subset of the original dataset</td> -->\n    <td><a href=\"\
+    #Absabank-original\">[1]</a></td>\n  </tr>\n   <tr>\n\t<td><a href=\"https://spraakbanken.gu.se/en/resources/dalaj\"\
+    >DaLAJ</a></td>\n\t<td>Determine whether a sentence is correct Swedish or not</td>\n\
+    \t<td>Hold-out</td>\n<!--\t<td>new dataset</td> -->\n\t<td><a href=\"#DaLAJ\"\
+    >[2]</a></td>\n  </tr>\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/resurser/faq\"\
+    \ target=”_blank”>Swedish FAQ (mismatched)</a></td>\n    <td>Match the question\
+    \ with the answer within a category</td>\n    <td>Test only</td>\n<!--    <td>new\
+    \ dataset</td> -->\n    <td></td>\n  </tr>\n\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/en/resources/swesat-synonyms\"\
+    \ target=”_blank”>SweSAT synonyms</a></td>\n    <td>Select the correct synonym\
+    \ or description of a word or expression</td>\n    <td>Test only</td>\n<!--  \
+    \  <td>new dataset</td> -->\n    <td></td>\n  </tr>\n  <tr>\n    <td><a href=\"\
+    https://spraakbanken.gu.se/en/resources/analogy\" target=”_blank”>Swedish Analogy\
+    \ test set</a></td>\n    <td>Given two word pairs A:B and C:D, capture that the\
+    \ relation between A and B is the same as between C and D</td>\n    <td>Test only</td>\n\
+    <!--    <td>= original dataset</td> -->\n    <td><a href=\"#Analogy\">[3]</a></td>\n\
+    \  </tr>\n  <tr>\n    <td rowspan=\"2\"><a href=\"https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim\"\
+    \ target=”_blank”>Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical\
+    \ Semantic Change Detection</a></td>\n    <td>Determine whether a given word has\
+    \ changed its meaning during a hundred year period</td>\n    <td rowspan=\"2\"\
+    >Test only</td>\n<!--    <td rowspan=\"2\">= original dataset</td> -->\n    <td\
+    \ rowspan=\"2\"><a href=\"#LexSemChange\">[4]</a></td>\n  </tr>\n  <tr>\n    <td>Determine\
+    \ to what extent a given word has changed its meaning during a hundred year period</td>\n\
+    \  </tr>\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/en/resources/swefracas\"\
+    >SweFraCas</a></td>\n    <td>Given the question and the premises, choose the suitable\
+    \ answer</td>\n    <td>Test only</td>\n<!--    <td>Liberal translation/Swedification\
+    \ of the English FraCas</td> -->\n    <td></td>\n  </tr>\n  <tr>\n    <td><a href=\"\
+    https://spraakbanken.gu.se/en/resources/swewinograd\">SweWinograd</a></td>\n \
+    \   <td>Resolve pronouns to their antecedents in items constructed to require\
+    \ reasoning (Winograd Schemata)</td>\n    <td>Test only</td>\n<!--    <td>Translation\
+    \ of/inspired by the Winograd data in SuperGLUE</td> -->\n    <td></td>\n  </tr>\n\
+    \n\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/en/resources/swewinogender\"\
+    >SweWinogender</a></td>\n    <td>Find the correct antecedent of a personal pronoun,\
+    \ avoiding the gender bias</td>\n    <td>Test only</td>\n<!--    <td>Partial translation\
+    \ of the English Winogender data</td> -->\n    <td><a href=\"#Winogender\">[5]</a></td>\n\
+    \    </tr>\n    <tr>\n    <td><a href=\"https://spraakbanken.gu.se/resurser/swediagnostics\"\
+    \ target=”_blank”>SweDiagnostics</a></td>\n    <td>Determine the logical relation\
+    \ between the two sentences</td>\n    <td>Test only</td>\n<!--    <td>Translation\
+    \ of the (Super)GLUE diagnostic dataset</td> -->\n    <td></td>\n  </tr>\n  <tr>\n\
+    \    <td><a href=\"https://spraakbanken.gu.se/en/resources/sweparaphrase\" target=”_blank”>SweParaphrase</a></td>\n\
+    \    <td>Determine how similar two sentences are</td>\n    <td>Test only</td>\n\
+    <!--    <td>Automatic translation of (Super)GLUE Semantic Textual Similarity Benchmark</td>\
+    \ -->\n    <td></td>\n  </tr>\n\n  <tr>\n\t<td><a href=\"https://spraakbanken.gu.se/en/resources/supersim-superlim\"\
+    >SuperSim</a></td>\n\t<td>Predict semantic word similarity and/or relatedness\
+    \ between words out of context.</td>\n\t<td>Test only</td>\n<!--\t<td>= original\
+    \ dataset</td> -->\n\t<td><a href=\"#SuperSim\">[6]</a></td>\n  </tr>\n\n  <tr>\n\
+    \t<td><a href=\"https://spraakbanken.gu.se/en/resources/swewic\">SweWiC</a></td>\n\
+    \t<td>Say if instances of a word in two contexts represent the same word sense.</td>\n\
+    \t<td>Test only</td>\n<!--\t<td>newly constructed after English Word-in-Context\
+    \ design principles</td> -->\n\t<td></td>\n  </tr>\n</table>\n\n\n<h2>Frequently\
+    \ asked questions</h2>\n<div style=\"h3.font-size: 1.0625rem;\">\n<!-- <h3 style=\"\
+    font-size: 1.1rem;\">What is the status of the current version?</h3>\n<p> This\
+    \ is a pre-release version. Feel free to use it, but bear in mind that many datasets\
+    \ are not yet complete, the documentation is missing, some things may be changed\
+    \ soon. We plan to release Version 1.0 in June 2021.<p> -->\n\n<h3 style=\"font-size:\
+    \ 1.1rem;\">How do I cite SuperLim?</h3>\n\n<p>\n<ul>\n\t<li>To cite the suite\
+    \ as a whole, use the standard reference given below.</li>\n\t<li>If you discuss\
+    \ individual resources, for instance when reporting results on different SuperLim\
+    \ tasks, also cite the references for these resources – even if you discuss all\
+    \ of them! The references are given in the table above and in the documentation\
+    \ sheet for each resource.</li>\n</ul>\n</p>\n\n<p>\n  <dl>\n\t<dt>Standard reference\
+    \ SuperLim:</dt><dd>{publication 299130}</dd>\n\t<dt><a id=\"Absabank-original\"\
+    ></a>[1] Original Absabank:</dt><dd>{publication 290695}</dd>\n\t<dt><a id=\"\
+    DaLAJ\"></a>[2] DaLAJ:</dt><dd> Volodina, Elena, Yousuf Ali Mohammed, and Julia\
+    \ Klezl (2021). DaLAJ - a dataset for linguistic acceptability judgments for Swedish.\
+    \ In Proceedings of the 10th Workshop on Natural Language Processing for Computer\
+    \ Assisted Language Learning (NLP4CALL 2021). Linköping Electronic Conference\
+    \ Proceedings 177:3, s. 28-37. <a href=\"https://ep.liu.se/ecp/177/003/ecp2021177003.pdf\"\
+    >https://ep.liu.se/ecp/177/003/ecp2021177003.pdf</a>\n\t<dt><a id=\"Analogy\"\
+    ></a>[3] Analogy:</dt><dd>Tosin Adewumi, Foteini Liwicki, Markus Liwicki. (2020).\
+    \ Corpora compared: The case of the Swedish Gigaword &amp; Wikipedia corpora.\
+    \ In: Proceedings of the 8th SLTC, Gothenburg. arXiv preprint <a href=\"https://arxiv.org/abs/2011.03281\"\
+    >arXiv:2011.03281</a></dd>\n\t<dt><a id=\"LexSemChange\"></a>[4] Swedish Test\
+    \ Set for SemEval 2020 Task 1:</dt><dd>Unsupervised Lexical Semantic Change Detection:\
+    \ {publication 295463}</dd>\n\t<dt><a id=\"Winogender\"></a>[5] Winogender:</dt><dd>Saga\
+    \ Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma and Dana Dannélls\
+    \ (2021). The Swedish Winogender Dataset. In <i>The 23rd Nordic Conference on\
+    \ Computational Linguistics</i> (NoDaLiDa 2021), Reykjavik. </dd>\n\t<dt><a id=\"\
+    SuperSim\"></a>[6] SuperSim:</dt><dd>Hengchen, Simon and Tahmasebi, Nina (2021).\
+    \ SuperSim: a test set for word similarity and relatedness in Swedish. In The\
+    \ 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021), Reykjavik.\
+    \ arXiv preprint <a href=\"https://arxiv.org/abs/2104.05228\">arXiv:2014.05228</a></dd>\n\
+    \t</dd>\n</dl>\n\n<h3 style=\"font-size: 1.1rem;\">How do different models perform\
+    \ on the SuperLim tasks?</h3>\n\n<p> SuperLim does not currently have a leaderboard\
+    \ (though we do hope to create one). As a temporary solution, we will be  collecting\
+    \ the available information here. If you have evaluated your model on some of\
+    \ our data, please let us know, we will add your results! </p>\n\n<p>\n<ul>\n\t\
+    <li>Faton Rekathati's (KBLab) <a href=\"https://kb-labb.github.io/posts/2021-08-23-a-swedish-sentence-transformer/\"\
+    \ target=\"_blank\">evalution</a>: SweParaphrase, Swedish FAQ, SweSAT, SuperSim.</li>\n\
+    </ul>\n</p>\n\n\n<h3 style=\"font-size: 1.1rem;\">Most resources do not have any\
+    \ training data!</h3>\n\n<p> Yes, in its current version SuperLim is mostly a\
+    \ suite of test sets (however, splits into train, dev and test are provided for\
+    \ some of the larger resources). We strive to develop it further, which will hopefully\
+    \ result in training data appearing here as well.  </p>\n\n<h3 style=\"font-size:\
+    \ 1.1rem;\">I am using contextualized embeddings (aka dynamic embeddings, aka\
+    \ token embeddings). How should I apply my model to those of your tasks where\
+    \ there is no context (e.g. Analogy)?</h3>\n\n<p> There is currently no predefined\
+    \ answer, since we do not want to impose any unnecessary restrictions on how the\
+    \ models solve the tasks. We suggest that you devise the necessary method yourself\
+    \ (you can e.g. average across contextualized embeddings in order to generate\
+    \ \"classic/statis/type\" embeddings). It is important, however, that you document\
+    \ what you do very clearly (if you average: how exactly? If you use any additional\
+    \ corpora for that, which ones?), since that might affect comparability. </p>\n\
+    \n<h3 style=\"font-size: 1.1rem;\">I trained a system and want to submit its results.\
+    \ How do I do that?</h3>\n<p>Instructions will appear here later. But if you have\
+    \ already trained something (even if it's one task and not the whole set), drop\
+    \ us a line about how it went, it will really help us! </p>\n\n<h3 style=\"font-size:\
+    \ 1.1rem;\">I have a dataset that I think can become part of SuperLim.</h3>\n\n\
+    <p> Please contact us at <a href=\"mailto:sb-info@svenska.gu.se\">sb-info@svenska.gu.se</a>.\
+    \ Do the same if you have any other question not covered here. </p>\n\n<h3 style=\"\
+    font-size: 1.1rem;\">SuperLim or SwedishGlue?</h3>\n\n<p> The name of the collection\
+    \ is SuperLim. The initial work on it was funded by the <a href=\"https://spraakbanken.gu.se/en/projects/superlim-en-svensk-testmangd-for-sprakmodeller/\"\
+    >project</a>, which is called SuperLim in Swedish and SwedishGlue in English.\
+    \ </p>\n\n</div>\n\n<!-- Mall:\n\n  <tr>\n    <td>Resource</td>\n    <td>Identifier</td>\n\
+    \    <td>Task</td>\n    <td>Size</td>\n    <td>Measure</td>\n    <td>Status and\
+    \ date</td>\n    <td>Comment</td>\n    <td>Citation</td>\n  </tr>\n\n  Previous\
+    \ version:\n  <tr>\n    <th>Resource</th>\n    <th>Identifier</th>\n    <th>Task</th>\n\
+    \    <th>Size</th>\n    <th>Measure</th>\n    <th>Status and date</th>\n    <th>Comment</th>\n\
+    \    <th>Citation</th>\n  </tr>\n\n  <tr>\n    <td rowspan=\"2\"><a href=\"https://spraakbanken.gu.se/resurser/absabank-imm\"\
+    \ target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>\n   \
+    \ <td rowspan=\"2\">Absabank-Imm</td>\n    <td rowspan=\"2\">Label the sentiment\
+    \ that the author of a text expressed towards immigration on the 1--5 scale</td>\n\
+    \    <td>852 documents, 241K tokens</td>\n    <td rowspan=\"2\">Spearman correlation\
+    \ coefficient</td>\n    <td rowspan=\"2\">For internal review, 2021-03-04</td>\n\
+    \    <td rowspan=\"2\">reformatted subset of the original dataset</td>\n    <td\
+    \ rowspan=\"2\"><a href=\"#Absabank-original\">Original Absabank</a></td>\n  </tr>\n\
+    \  <tr>\n    <td>4872 paragraphs, 199K tokens</td>\n  </tr>\n\n  <tr>\n    <td><a\
+    \ href=\"https://spraakbanken.gu.se/resurser/faq\" target=”_blank”>Swedish FAQ\
+    \ (mismatched)</a></td>\n    <td>FAQ</td>\n    <td>Match the question with the\
+    \ answer within a category</td>\n    <td>513 QA pairs, 50 categories</td>\n  \
+    \  <td>Accuracy</td>\n    <td>Ready, 2021-04-16</td>\n    <td>new dataset</td>\n\
+    \    <td></td>\n  </tr>\n\n  <tr>\n    <td><a href=\"https://spraakbanken.gu.se/en/resources/hogskoleprovet-ord\"\
+    \ target=”_blank”>Högskoleprovet ordförståelse</a></td>\n   <td>HSP-Ord</td>\n\
+    \    <td>Select the correct synonym or description of a word or expression</td>\n\
+    \    <td>782 expressions</td>\n    <td>Accuracy</td>\n    <td>For internal review,\
+    \ 2020-12-16</td>\n    <td>new dataset</td>\n    <td></td>\n  </tr>\n\n  <tr>\n\
+    \    <td rowspan=\"2\"><a href=\"https://spraakbanken.gu.se/en/resources/semeval2020\"\
+    \ target=”_blank”>Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical\
+    \ Semantic Change Detection</a></td>\n   <td rowspan=\"2\">LexSemChange</td>\n\
+    \    <td>Determine whether a given word has changed its meaning during a hundred\
+    \ year period</td>\n    <td rowspan=\"2\">31 lemmas</td>\n    <td>Accuracy</td>\n\
+    \    <td rowspan=\"2\">For internal review, 2020-12-03</td>\n    <td rowspan=\"\
+    2\">= original dataset</td>\n    <td rowspan=\"2\"><a href=\"#LexSemChange\">SemEval\
+    \ 2020-1</a></td>\n  </tr>\n  <tr>\n    <td>Determine to what extent a given word\
+    \ has changed its meaning during a hundred year period</td>\n    <td>Spearman\
+    \ correlation coefficient</td>\n  </tr>\n\n    <tr>\n    <td><a href=\"https://spraakbanken.gu.se/en/resources/swewinogender\"\
+    >SweWinogender</a></td>\n    <td>SweWinogender</td>\n    <td>Coreference resolution\
+    \ and bias detection</td>\n    <td>624 pronouns</td>\n    <td></td>\n    <td>For\
+    \ internal review, 2021-03-08</td>\n    <td>Partial translation of the English\
+    \ Winogender data</td>\n    <td></td>\n    </tr>\n\n  <tr>\n    <td rowspan=\"\
+    2\"><a href=\"https://spraakbanken.gu.se/resurser/superlim-diagnostic\" target=”_blank”>SuperLim\
+    \ diagnostic dataset</a></td>\n   <td rowspan=\"2\">SuperLim Diagnostic</td>\n\
+    \    <td>Natural language inference of isolated linguistic phenomena.</td>\n \
+    \   <td rowspan=\"2\">1106 sentence pairs</td>\n    <td>R3</td>\n    <td rowspan=\"\
+    2\">Preliminary version, 40% translated, 2021-03-24</td>\n    <td rowspan=\"2\"\
+    >Swedish translation of original SuperGLUE Diagnostic Dataset</td>\n    <td></td>\n\
+    \  </tr>\n\n\n-->"

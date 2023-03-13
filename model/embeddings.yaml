@@ -1,0 +1,49 @@
+name:
+  swe: Förtränade inbäddningar
+  eng: Pretrained embeddings
+short_description:
+  swe: En lista över förtränade inbäddningar för svenska
+  eng: A list of pretrained embeddings for Swedish
+type: model
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+in_collections: []
+downloads: []
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <p>Embeddings (mappings of linguistic units, such as words, sentences, characters, to vectors of real numbers) are playing an extremely important role in modern language technology. Training the embedding models is often costly, which is why pretrained embeddings are widely used. On this page we provide lists of various pretrained embeddings for Swedish and of studies that focus on evaluating Swedish embeddings. If you have suggestions or comments, please contact <a href="mailto:aleksandrs.berdicevskis@gu.se">us</a>.</p>
+
+    <h2>Embeddings</h2>
+
+    <ul>
+      <li>Facebook FastText models: <a href="https://fasttext.cc/docs/en/crawl-vectors.html">Common Crawl + Wiki</a>, <a href="https://fasttext.cc/docs/en/pretrained-vectors.html">Wiki</a>, <a href="https://fasttext.cc/docs/en/aligned-vectors.html">Wiki with cross-lingual alignment</a></li>
+      <li><a href="http://vectors.nlpl.eu/repository/#">NLPL repository</a>: Word2Vec Continuous Skipgram (CoNLL17 corpus); ELMO (CoNLL17 corpus), ELMO (Wiki)</li>
+      <li><a href="https://www.ida.liu.se/divisions/hcs/nlplab/swectors/">NLPLAB at Linköping University</a>: a pretrained Word2Vec model (trained on a Göteborgs-Posten corpus); a script for training both cbow and sgns Word2Vec; a paper comparing Word2Vec and GloVe to Saldo</li>
+      <li>The National Library's (Kungliga bibliotekets) <a href="https://github.com/Kungbib/swedish-bert-models">models</a>: BERT, BERT fine-tuned for NER, ALBERT</li>
+      <li>The Public Employment Service's (Arbetsförmedlingens )<a href="https://github.com/af-ai-center/SweBERT">models</a>: BERT</li>
+      <li><a href="https://sites.google.com/site/rmyeid/projects/polyglot">Polyglot</a></li>
+      <li>Kyubyong Park's <a href="https://github.com/Kyubyong/wordvectors">models</a>: trained on Wiki, Word2Vec and FastText</li>
+      <li>Flair <a href="https://github.com/flairNLP/flair-lms">models</a>. See also our Flair <a href="https://spraakbanken.gu.se/resurser/flair">model</a> for Swedish POS tagging.</li>
+      <li>Språkbanken Text <a href="https://zenodo.org/record/4301658#.X8-mpPlKibg">diachronic embeddings</a>.</li>
+    </ul>
+
+    <h2>Evaluation studies</h2>
+
+    <ul>
+      <li>Sahlgren, Magnus, and Fredrik Olsson. 2016. <a href="https://www.aclweb.org/anthology/W19-6104/">Gender Bias in Pretrained Swedish Embeddings</a>. Proceedings of the 22nd Nordic Conference on Computational Linguistics.</li>
+      <li>Fallgren, Per, Jesper Segeblad, and Marco Kuhlmann. 2016. <a href="https://people.cs.umu.se/johanna/sltc2016/abstracts/SLTC_2016_paper_49.pdf">Towards a standard dataset of swedish word vectors</a>. Sixth Swedish Language Technology Conference (SLTC).</li>
+      <li>Holmer, Daniel. 2020. <a href="https://www.diva-portal.org/smash/get/diva2:1438484/FULLTEXT01.pdf">Context matters: Classifying Swedish texts using BERT's deep bidirectional word embeddings</a>. Bachelor thesis at Linköping University.</li>
+      <li>Adewumi, Tosin, Foteini Liwicki and Marcus Liwicki. 2020. <a href="https://arxiv.org/pdf/2007.16007.pdf">Exploring Swedish & English fastText Embeddings with the Transformer</a></li>
+      <li>Adewumi, Tosin, Foteini Liwicki and Marcus Liwicki. 2020. <a href="https://arxiv.org/pdf/2011.03281.pdf">Corpora Compared: The Case of the Swedish Gigaword & Wikipedia Corpora</a></li>
+    </ul>

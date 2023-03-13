@@ -1,0 +1,37 @@
+name:
+  swe: Kalmar 1900-talet
+  eng: Kalmar 1900's
+short_description:
+  swe: Del av samlingen Kubhist
+  eng: Part of the collection Kubhist
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '47226464'
+  sentences: '4811008'
+in_collections:
+  - kubhist
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-kalmar-1900.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-KALMAR-1900.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

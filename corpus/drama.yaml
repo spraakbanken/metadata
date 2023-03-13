@@ -1,0 +1,42 @@
+name:
+  swe: Dramawebben (demo)
+  eng: Dramawebben (demo)
+short_description:
+  swe: Texter från Dramawebben, ett digitalt arkiv över fri svensk dramatik.
+  eng: Texts from Dramawebben, a digital archive of free Swedish drama.
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '790456'
+  sentences: '108936'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/drama.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_DRAMA.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=drama
+    licence: CC BY 4.0
+    restriction: attribution
+  - access: http://www.dramawebben.se/
+    licence: other
+    restriction: other
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

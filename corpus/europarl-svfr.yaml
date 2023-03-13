@@ -1,0 +1,52 @@
+name:
+  swe: Europarl – svenska-franska
+  eng: Europarl – Swedish-French
+short_description:
+  swe: Del av European Parliament Proceedings Parallel Corpus
+  eng: Part of European Parliament Proceedings Parallel Corpus
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - fra
+size:
+  tokens: '73983862'
+  sentences: '2848956'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-fr.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the French part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the Swedish part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-FR.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains statistics on the French part of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#corpus=europarl-fr
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,295 @@
+name:
+  swe: SuperSim (paketterat för Superlim)
+  eng: SuperSim (repackaged for Superlim)
+short_description:
+  swe: En test mängd för betydelsemässig likhet och koppling mellan svenska ord.
+  eng: A test set for word similarity and relatedness in Swedish
+type: corpus
+trainingdata: true
+unlisted: true
+successors:
+  - supersim-superlim
+language_codes:
+  - swe
+size:
+  items: '624'
+in_collections: []
+downloads:
+  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip
+    type: supersim-superlim.zip
+    format: zip
+    info: null
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt
+    type: supersim-superlim_documentation_sheet.txt
+    format: txt
+    info: null
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Yvonne Adesam
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <table style="width:100%">
+    <tr style="vertical-align: baseline;">
+    <td>I. IDENTIFYING INFORMATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Title*</td>
+    <td>SuperSim (repackaged for Superlim) v1
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Subtitle</td>
+    <td>A test set for word similarity and relatedness in Swedish
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Created by*</td>
+    <td>Simon Hengchen (<a href="mailto:simon.hengchen@gu.se">simon.hengchen@gu.se</a>), Nina Tahmasebi (<a href="mailto:nina.tahmasebi@gu.se">nina.tahmasebi@gu.se</a>)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Publisher(s)*</td>
+    <td>Språkbanken Text
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Link(s) / permanent identifier(s)*</td>
+    <td><a href="https://spraakbanken.gu.se/en/resources/supersim-superlim">https://spraakbanken.gu.se/en/resources/supersim-superlim</a>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>License(s)*</td>
+    <td>CC BY 4.0
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Abstract*</td>
+    <td>SuperSim is a large-scale similarity and relatedness test set  for  Swedish  built  with  expert  human judgments. The test set is composed  of 1360 word-pairs independently judged for both relatedness and similarity by five annotators.
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Funded by*</td>
+    <td>Swedish Research Council (grant no. 2018-01184 to Nina Tahmasebi); Språkbanken Text
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Cite as</td>
+    <td>[1]
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Related datasets</td>
+    <td>See <a href="https://doi.org/10.5281/zenodo.4660084">https://doi.org/10.5281/zenodo.4660084</a> for the complete data set accompanying [1], including baseline models and corpus material. The data described in this documentation sheet is the gold data from this larger archive.
+    <br> This repackaging of the gold data was done in the context of the SuperLim collection. See <a href="https://spraakbanken.gu.se/en/resources/superlim">https://spraakbanken.gu.se/en/resources/superlim</a>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>II. USAGE</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Key applications</td>
+    <td>Evaluation of language models
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Intended task(s)/usage(s)</td>
+    <td>(1) Predict semantic similarity of word pairs from a language model
+    <br> (2) Predict semantic relatedness of word paris from a language model
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Recommended evaluation measures</td>
+    <td>(1) correlation with gold similarity scores (Spearman’s rho)
+    <br> (2) correlation with gold relatedness scores (Spearman’s rho)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Dataset function(s)</td>
+    <td>Testing
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Recommended split(s)</td>
+    <td>Test data only
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>III. DATA</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Primary data*</td>
+    <td>Text
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Language*</td>
+    <td>Swedish
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Dataset in numbers*</td>
+    <td>1360 word pairs with semantic similarity and semantic relatedness scores
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Nature of the content*</td>
+    <td>Semantic similarity refers to the extent to which two concepts share semantic properties. Synonymy is the culmination of this concept. Relatedness is a looser lexical conceptual relation that refers to the general (psychological) assocation that may arise for instance because there are causal or instrumental relations between two concepts, or because concepts co-occur frequently, etc, etc. Similarity and relatedness are given as scores between 0 and 10, these scores are in turn averages of judgements on an 11-point scale (0–10).
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Format*</td>
+    <td>The  data is split over two files, one for each score. The files are tab separated, and contain the following 8 columns:
+    <br> (1) word 1
+    <br> (2) word 2
+    <br> (3)–(7) individual annotator scores (integer valued)
+    <br> (8) average score (real valued)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data source(s)*</td>
+    <td>The word pairs were translated from SimLex-999 [2] and WordSim353 [3]. The complete set was manually checked and if needed pairs were adjusted (split into multiple or removed) depending on the lexical distinctions made in Swedish. The similarity and relatedness judgements were collected from five annotators, who were paid for the assignment. One of the annotators was also involved in translating the dataset. See discussion in [1].
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data collection method(s)*</td>
+    <td>Online collection of judgements from (paid) annotators. Annotators used written instructions from SimLex-999 [2]. See discussion in [1].
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data selection and filtering*</td>
+    <td>See discussion in [1]
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data preprocessing*</td>
+    <td>See discussion in [1]
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data labeling*</td>
+    <td>Both the similarity and relatedness scores are manual (gold standard).
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Annotator characteristics</td>
+    <td>All annotators are native speakers of Swedish who hold linguistic degrees. Two have prior lexicographic experience. See [1] for more details.
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>IV. ETHICS AND CAVEATS</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Ethical considerations</td>
+    <td>None to report.
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Things to watch out for</td>
+    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on <a href="https://spraakbanken.gu.se/resurser/superlim">https://spraakbanken.gu.se/resurser/superlim</a>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>V. ABOUT DOCUMENTATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Data last updated*</td>
+    <td>20210402 (v1)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Which changes have been made, compared to the previous version*</td>
+    <td>First version of the data.
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Access to previous versions</td>
+    <td>First version of the data.
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>This document created*</td>
+    <td>20210611, Gerlof Bouma (<a href="mailto:gerlof.bouma@gu.se">gerlof.bouma@gu.se</a>)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>This document last updated*</td>
+    <td>20210611, Gerlof Bouma (<a href="mailto:gerlof.bouma@gu.se">gerlof.bouma@gu.se</a>)
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Where to look for further details</td>
+    <td>-
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Documentation template version*</td>
+    <td>v1.0
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>VI. OTHER</td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>Related projects</td>
+    <td>SimLex-999 [2]; WordSim353 [3]
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr style="vertical-align: baseline;">
+    <td>References</td>
+    <td>[1] Hengchen and Tahmasebi (2021): SuperSim: a test set for word similarity and relatedness in Swedish. In Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). <a href="https://ep.liu.se/ecp/178/027/ecp2021178027.pdf">https://ep.liu.se/ecp/178/027/ecp2021178027.pdf</a>
+    <br> [2] Hill, Reichart and Korhonen (2015): SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4): 665–695. <a href="https://doi.org/10.1162/COLI_a_00237">https://doi.org/10.1162/COLI_a_00237</a>
+    <br> [3] Finkelstein, Gabrilovich, Matias, Rivlin, Solan, Wolfman and Ruppin (2002): Placing Search in Context: The Concept Revisited. ACM Transactions on Information Systems, 20(1):116-131. <a href="https://doi.org/10.1145/503104.503110">https://doi.org/10.1145/503104.503110</a>
+    </td>
+    </tr>
+    </table>

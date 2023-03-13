@@ -1,0 +1,143 @@
+name:
+  swe: SemEval2020 Task 1
+  eng: SemEval2020 Task 1
+short_description:
+  swe: 'Svensk testdata för SemEval 2020 Task 1: Unsupervised Lexical Semantic Change
+    Detection (utdrag ur Kubhist v2)'
+  eng: 'Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change
+    Detection (extracts from Kubhist v2)'
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '182000000'
+  sentences: null
+in_collections: []
+downloads:
+  - url: https://zenodo.org/record/3730550/files/semeval2020_ulscd_swe.zip
+    type: semeval2020_ulscd_swe.zip
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Nina Tahmasebi
+  email: nina.tahmasebi@gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body><p>
+    <p>Denna datamängd samlar den svenska testdatan för SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection:</p>
+
+    <p>
+    - Ett svenskt korpuspar (`corpus1/`, `corpus2/`)<br />
+    - 31 lemmas som har blivit annoterad med lexikosemantisk förändring mellan de två korpusarna (`targets.txt`)</p>
+
+    <p>Vi samplar ur Kubhist2, en samling med dagstidningar digitaliserade av KB, och tillgängliga via Språkbankens infrastruktur Korp (Borin et al., 2012). Korpusen är tillgänglig genom en CC BY (attribution licens. </p>
+
+    <p>Korpusen är lemmatiserad med hjälp av Korp. Varje ord har ersatts med ett lemma har ersatts om detta varit möjligt, annars har ordet behållts som det är (icke-lemmatiserat och utan att versaler har ändrade till gemener).
+    Kubhist-texterna innehåller en stor mängd OCR fel, speciellt den tidigare delkorpusen. Mer information om Kubhist och dess kvalité finns att finna i (Adesam et al., 2019).</p>
+
+    <p>Lars Borin, Markus Forsberg, and Johan Roxendal. Korp-the corpus infrastructure of Språkbanken. LREC. 2012.</p>
+
+    <p>Yvonne Adesam, Dana Dannélls, and Nina Tahmasebi. Exploring the Quality of the Digital Historical Newspaper Archive KubHist. DHN. 2019.</p>
+
+    <p>__Corpus 1__</p>
+
+    <p>
+    - baserad på: Kubhist2<br>
+    - språk: Swedish<br>
+    - tidsspann: 1790-1830<br>
+    - storlek: ~71 million tokens<br>
+    - format: lemmatiserat, meningslängd >=  9 (före rensning av skiljetecken), inga skiljetecken, meningsomkastad<br>
+    - encoding: UTF-8<br>
+    - kommentar: innehåller frekventa OCR fel</p>
+
+
+    __Corpus 2__
+    <p>
+    - baserad på: Kubhist2<br>
+    - språk: Swedish<br>
+    - tidsspann: 1895-1903<br>
+    - storlek: ~111 million tokens<br>
+    - format: lemmatiserat, meningslängd >=  9 (före rensning av skiljetecken), inga skiljetecken, meningsomkastad<br>
+    - encoding: UTF-8<br>
+    - kommentar: innehåller OCR fel<br>
+
+    <p>
+    Referera till detta testset genom:<br>
+    Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi.<br>
+    <a href="https://competitions.codalab.org/competitions/20948">SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a>. In Proceedings of the 14th International Workshop on Semantic Evaluation, Barcelona, Spain, 2020. Association for Computational Linguistics.<br>
+    </p>
+
+
+
+    <p>
+    Mer information finns att hitta på Zenodo: <a href="https://zenodo.org/record/3730550">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a> samt <a href="https://competitions.codalab.org/competitions/20948">SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a>
+    </p>
+
+
+
+    </body></html>
+  eng: |-
+    <html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body><p>
+    <p>This data collection contains the Swedish test data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection:</p>
+
+    <p>
+    - a Swedish text corpus pair (`corpus1/`, `corpus2/`)<br />
+    - 31 lemmas which have been annotated for their lexical semantic change between the two corpora (`targets.txt`)</p>
+
+    <p>We sample from the KubHist2 corpus, digitized by the National Library of Sweden, and available through the Språkbanken corpus infrastructure Korp (Borin et al., 2012). The full corpus is available through a CC BY (attribution) license.</p>
+
+    <p>Each word for which the lemmatizer in the Korp pipeline has found a lemma is replaced with the lemma. In cases where the lemmatizer cannot find a lemma, we leave the word as is (i.e., unlemmatized, no lower-casing). KubHist contains very frequent OCR errors, especially for the older data.More detail about the properties and quality of the Kubhist corpus can be found in (Adesam et al., 2019).</p>
+
+    <p>Lars Borin, Markus Forsberg, and Johan Roxendal. Korp-the corpus infrastructure of Språkbanken. LREC. 2012.</p>
+
+    <p>* Yvonne Adesam, Dana Dannélls, and Nina Tahmasebi. Exploring the Quality of the Digital Historical Newspaper Archive KubHist. DHN. 2019.</p>
+
+    <p>__Corpus 1__</p>
+
+    <p>- based on: Kubhist2<br>
+    - language: Swedish<br>
+    - time covered: 1790-1830<br>
+    - size: ~71 million tokens<br>
+    - format: lemmatized, sentence length  >=  9 (before removal of punctuation), no punctuation, sentences randomly shuffled<br>
+    - encoding: UTF-8<br>
+    - note: contains frequent OCR errors</p>
+
+
+    <p>__Corpus 2__</p>
+
+    <p>
+    - based on: Kubhist2<br>
+    - language: Swedish<br>
+    - time covered: 1895-1903<br>
+    - size: ~111 million tokens<br>
+    - format: lemmatized, sentence length >= 9 (before removal of punctuation), no punctuation, sentences randomly shuffled<br>
+    - encoding: UTF-8<br>
+    - note: contains OCR errors<br>
+
+    <p>
+    Reference this testset as:<br>
+
+    Dominik Schlechtweg, Barbara McGillivray, Simon Hengchen, Haim Dubossarsky and Nina Tahmasebi.<br>
+    <a href="https://competitions.codalab.org/competitions/20948">SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection:</a>.In Proceedings of the 14th International Workshop on Semantic Evaluation, Barcelona, Spain, 2020. Association for Computational Linguistics.<br>
+    </p>
+
+
+
+    <p>
+    More information can be found on <a href="https://zenodo.org/record/3730550">Swedish Test Data for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a> and <a href="https://competitions.codalab.org/competitions/20948">SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a>.
+    </p>
+
+
+
+    </body></html>

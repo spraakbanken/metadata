@@ -1,0 +1,40 @@
+name:
+  swe: SVT nyheter 2008
+  eng: SVT news 2008
+short_description:
+  swe: Nyhetstexter från svt.se
+  eng: News texts from svt.se
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '7693570'
+  sentences: '524746'
+in_collections:
+  - svt
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svt-2008.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_svt-2008.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=svt-2008
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

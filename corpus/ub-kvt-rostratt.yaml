@@ -1,0 +1,39 @@
+name:
+  swe: Rösträtt för Kvinnor
+  eng: Rösträtt för Kvinnor
+short_description:
+  swe: En korpus med texter från kvinnotidningen Rösträtt för Kvinnor
+  eng: A corpus with texts from the women's newspaper Rösträtt för Kvinnor
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '2202776'
+  sentences: '117961'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-rostratt.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_UB-KVT-ROSTRATT.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=ub-kvt-rostratt
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

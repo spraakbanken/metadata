@@ -1,0 +1,33 @@
+name:
+  swe: Rysk Konstruktikon
+  eng: Russian Constructicon
+short_description:
+  swe: Ett ryskt konstruktikon
+  eng: A Russian Constructicon
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - rus
+  - eng
+size:
+  entries: '715'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml
+    type: lexicon
+    format: LMF
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/karp/#/?resources=konstruktikon-rus
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

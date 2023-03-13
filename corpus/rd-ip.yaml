@@ -1,0 +1,40 @@
+name:
+  swe: Riksdagens öppna data - Interpellation
+  eng: ''
+short_description:
+  swe: Interpellationer från ledamöterna till regeringen
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '25969006'
+  sentences: '1346793'
+in_collections:
+  - rd
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-ip.xml.bz2
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_rd-ip.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=rd-ip
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se

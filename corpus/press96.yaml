@@ -1,0 +1,65 @@
+name:
+  swe: Press 96
+  eng: Press 96
+short_description:
+  swe: Svensk press 1996
+  eng: Swedish press 1996
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '6516030'
+  sentences: '447582'
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press96.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PRESS96.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#corpus=press96
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+    Korpusen består av tidningsartiklar insamlade under följande veckor
+
+    <ul>
+    <li>10-11 (4 mar-12 mar)</li>
+    <li>23-24 (3 jul-21 jul)</li>
+    <li>36-37 (2 sep-27 sep)</li>
+    <li>49-50 (2 dec-3 dec)</li>
+    </ul>
+    </p>
+
+    <P>
+    Ingående tidningar är <B>Göteborgs-Posten och Svenska Dagbladet</B>.
+    </P>
+    <P>
+    Vi tackar som vanligt de deltagande tidningarna som - som
+    vanligt - bemött oss mycket vänligt och som, trots det
+    extraarbete som våra önskemål medfört för dem, inte tvekat
+    att ställa upp.
+    </P>
+    <P>Göteborg i mars 1997.</P>
+
+    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}
+  eng: ''

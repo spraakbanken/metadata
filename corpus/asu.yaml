@@ -1,0 +1,33 @@
+name:
+  swe: ASU
+  eng: ASU
+short_description:
+  swe: Andraspråkets strukturutveckling
+  eng: Structural development of the second language
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: '643949'
+  sentences: '46705'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=asu
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Björn Hammarberg
+  email: ham@ling.su.se
+  affiliation:
+    organisation: Institutionen för lingvistik, Stockholms universitet
+    email: exp@ling.su.se

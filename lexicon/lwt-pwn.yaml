@@ -1,0 +1,31 @@
+name:
+  swe: LWT-PWN
+  eng: LWT-PWN
+short_description:
+  swe: LWT-PWN är IDS/LWT-begreppslistan med länkar till ordbetydelseidentifierare
+    i Princeton WordNet 3.0.
+  eng: LWT-PWN is the IDS/LWT concept list linked to Princeton WordNet 3.0 word sense
+    identifiers.
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: '1375'
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/lwt-pwn/lwt-pwn.txt
+    type: lwt-pwn.txt
+    format: txt
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Lars Borin
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
