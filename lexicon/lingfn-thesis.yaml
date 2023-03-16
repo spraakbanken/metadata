@@ -14,10 +14,6 @@ size:
   entries: '16'
 in_collections: []
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=fn_cxn&resources=lingfn-thesis
-    licence: CC BY 4.0
-    restriction: attribution
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
