@@ -27,7 +27,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?resources=kelly
+  - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=kelly
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
