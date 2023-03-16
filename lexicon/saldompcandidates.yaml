@@ -14,10 +14,7 @@ size:
   entries: 17565
 in_collections: []
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=external&resources=saldompcandidates
-    licence: CC BY 4.0
-    restriction: attribution
+interface: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
