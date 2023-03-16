@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '14908'
-  sentences: '816'
+  tokens: 14908
+  sentences: 816
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-mk-1972-79.xml.bz2

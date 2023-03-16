@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '41521'
-  sentences: '3284'
+  tokens: 41521
+  sentences: 3284
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/betankande.xml.bz2

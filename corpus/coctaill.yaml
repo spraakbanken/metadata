@@ -15,8 +15,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '710251'
-  sentences: '89086'
+  tokens: 710251
+  sentences: 89086
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill.xml.bz2

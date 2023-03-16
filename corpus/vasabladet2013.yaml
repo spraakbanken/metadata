@@ -15,7 +15,7 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '581027'
+  tokens: 581027
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VASABLADET2013.txt

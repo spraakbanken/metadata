@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '229452'
-  sentences: '11504'
+  tokens: 229452
+  sentences: 11504
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_NYAARGUS.txt

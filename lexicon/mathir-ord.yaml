@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: '28357'
+  entries: 28357
 in_collections: []
 downloads:
   - url: https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz

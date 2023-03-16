@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '33406922'
-  sentences: '1475195'
+  tokens: 33406922
+  sentences: 1475195
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2

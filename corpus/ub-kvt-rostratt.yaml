@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '2202776'
-  sentences: '117961'
+  tokens: 2202776
+  sentences: 117961
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-rostratt.xml.bz2

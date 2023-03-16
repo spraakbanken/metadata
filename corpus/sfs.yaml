@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '8058400'
-  sentences: '391761'
+  tokens: 8058400
+  sentences: 391761
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sfs.xml.bz2

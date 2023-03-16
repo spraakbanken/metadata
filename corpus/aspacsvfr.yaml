@@ -12,8 +12,8 @@ language_codes:
   - swe
   - fra
 size:
-  tokens: '341914'
-  sentences: '18276'
+  tokens: 341914
+  sentences: 18276
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-sv.xml.bz2

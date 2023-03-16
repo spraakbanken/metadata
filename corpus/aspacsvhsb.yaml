@@ -12,8 +12,8 @@ language_codes:
   - swe
   - hsb
 size:
-  tokens: '85146'
-  sentences: '8267'
+  tokens: 85146
+  sentences: 8267
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhsb-sv.xml.bz2

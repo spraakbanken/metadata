@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1873503'
-  sentences: '128326'
+  tokens: 1873503
+  sentences: 128326
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-rost.xml.bz2

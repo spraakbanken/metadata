@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '35028559'
-  sentences: '2212869'
+  tokens: 35028559
+  sentences: 2212869
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmixodat.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '26003'
-  sentences: '1400'
+  tokens: 26003
+  sentences: 1400
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooyin.xml.bz2

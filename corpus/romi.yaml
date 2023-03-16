@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '6578675'
-  sentences: '462625'
+  tokens: 6578675
+  sentences: 462625
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/romi.xml.bz2

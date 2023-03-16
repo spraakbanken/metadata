@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '604019'
-  sentences: '40215'
+  tokens: 604019
+  sentences: 40215
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix1999.xml.bz2

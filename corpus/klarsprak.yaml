@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '51366'
-  sentences: '3106'
+  tokens: 51366
+  sentences: 3106
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/klarsprak.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '773703'
-  sentences: '48609'
+  tokens: 773703
+  sentences: 48609
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsv.xml.bz2

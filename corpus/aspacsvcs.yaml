@@ -12,8 +12,8 @@ language_codes:
   - swe
   - ces
 size:
-  tokens: '1438880'
-  sentences: '106477'
+  tokens: 1438880
+  sentences: 106477
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvcs-sv.xml.bz2

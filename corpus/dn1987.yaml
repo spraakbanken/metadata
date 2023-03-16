@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '5129248'
-  sentences: '359878'
+  tokens: 5129248
+  sentences: 359878
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/dn1987.xml.bz2

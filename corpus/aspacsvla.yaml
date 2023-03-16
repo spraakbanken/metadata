@@ -12,8 +12,8 @@ language_codes:
   - swe
   - lat
 size:
-  tokens: '134180'
-  sentences: '12663'
+  tokens: 134180
+  sentences: 12663
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvla-sv.xml.bz2

@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '184059'
+  tokens: 184059
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-verser.xml.bz2

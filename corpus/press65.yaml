@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1119449'
-  sentences: '53624'
+  tokens: 1119449
+  sentences: 53624
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/press65.xml.bz2

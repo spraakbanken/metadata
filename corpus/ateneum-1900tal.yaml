@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '76934'
-  sentences: '3587'
+  tokens: 76934
+  sentences: 3587
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ATENEUM-1900TAL.txt

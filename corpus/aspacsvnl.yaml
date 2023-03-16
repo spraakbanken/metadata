@@ -12,8 +12,8 @@ language_codes:
   - swe
   - nld
 size:
-  tokens: '1549106'
-  sentences: '95077'
+  tokens: 1549106
+  sentences: 95077
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvnl-sv.xml.bz2

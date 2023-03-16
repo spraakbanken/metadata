@@ -12,8 +12,8 @@ language_codes:
   - swe
   - ita
 size:
-  tokens: '91166'
-  sentences: '6355'
+  tokens: 91166
+  sentences: 6355
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvit-sv.xml.bz2

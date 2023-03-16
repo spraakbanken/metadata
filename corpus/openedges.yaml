@@ -18,7 +18,7 @@ language_codes:
   - deu
   - nld
 size:
-  tokens: '19399149'
+  tokens: 19399149
 in_collections: []
 downloads:
   - url: http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip

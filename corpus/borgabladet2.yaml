@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '3020'
-  sentences: '162'
+  tokens: 3020
+  sentences: 162
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_BORGABLADET2.txt

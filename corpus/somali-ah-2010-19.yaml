@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '21542'
-  sentences: '1639'
+  tokens: 21542
+  sentences: 1639
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-ah-2010-19.xml.bz2

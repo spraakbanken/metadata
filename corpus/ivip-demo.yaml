@@ -13,8 +13,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '572'
-  sentences: '114'
+  tokens: 572
+  sentences: 114
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo.xml.bz2

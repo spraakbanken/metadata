@@ -13,8 +13,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1015635151'
-  sentences: '59736642'
+  tokens: 1015635151
+  sentences: 59736642
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gigaword-1950-59.tar

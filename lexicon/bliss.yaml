@@ -14,7 +14,7 @@ unlisted: false
 successors: []
 language_codes: []
 size:
-  entries: '5596'
+  entries: 5596
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/bliss/bliss.xml

@@ -12,8 +12,8 @@ language_codes:
   - swe
   - rus
 size:
-  tokens: '1466745'
-  sentences: '93430'
+  tokens: 1466745
+  sentences: 93430
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvru-sv.xml.bz2

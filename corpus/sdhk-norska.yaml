@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '27718'
-  sentences: '884'
+  tokens: 27718
+  sentences: 884
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sdhk-norska.xml.bz2

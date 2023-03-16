@@ -13,8 +13,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '21916385'
-  sentences: '1775009'
+  tokens: 21916385
+  sentences: 1775009
 in_collections:
   - rd
 downloads:

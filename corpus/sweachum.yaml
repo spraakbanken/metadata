@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '14454573'
-  sentences: '673820'
+  tokens: 14454573
+  sentences: 673820
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sweachum.xml.bz2

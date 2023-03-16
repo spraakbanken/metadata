@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '2195964'
-  sentences: '121895'
+  tokens: 2195964
+  sentences: 121895
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt1998.xml.bz2

@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '99913'
+  tokens: 99913
 in_collections: []
 downloads:
   - url: http://demo.spraakdata.gu.se/gerlof/Eukalyptus/

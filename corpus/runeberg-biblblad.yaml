@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '4595593'
-  sentences: '493890'
+  tokens: 4595593
+  sentences: 493890
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-biblblad.xml.bz2

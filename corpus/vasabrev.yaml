@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '253642'
-  sentences: '14557'
+  tokens: 253642
+  sentences: 14557
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/vasabrev.xml.bz2

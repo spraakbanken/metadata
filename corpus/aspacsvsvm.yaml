@@ -12,8 +12,8 @@ language_codes:
   - swe
   - svm
 size:
-  tokens: '35279'
-  sentences: '3384'
+  tokens: 35279
+  sentences: 3384
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsvm-sv.xml.bz2

@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '65278'
-  sentences: '3209'
+  tokens: 65278
+  sentences: 3209
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_DAGBLADET1866-1886.txt

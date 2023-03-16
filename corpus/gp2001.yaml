@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '17411332'
-  sentences: '1357675'
+  tokens: 17411332
+  sentences: 1357675
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2001.xml.bz2

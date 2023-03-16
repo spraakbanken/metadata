@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '39430'
-  sentences: '1110'
+  tokens: 39430
+  sentences: 1110
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sdhk-ovrigt.xml.bz2

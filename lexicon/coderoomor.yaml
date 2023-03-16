@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  words: '16230'
-  other: '4986'
+  words: 16230
+  other: 4986
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv

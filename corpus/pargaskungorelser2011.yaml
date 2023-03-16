@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '86725'
-  sentences: '5303'
+  tokens: 86725
+  sentences: 5303
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PARGASKUNGORELSER2011.txt

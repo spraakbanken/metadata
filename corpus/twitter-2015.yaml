@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '412663140'
-  sentences: '42280764'
+  tokens: 412663140
+  sentences: 42280764
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-2015.txt

@@ -12,7 +12,7 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: '11624'
+  entries: 11624
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html

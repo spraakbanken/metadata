@@ -12,7 +12,7 @@ language_codes:
   - swe
   - eng
 size:
-  entries: '1460'
+  entries: 1460
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/lwt/lwt.xml

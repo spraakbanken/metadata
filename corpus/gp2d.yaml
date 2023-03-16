@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1033747'
-  sentences: '82206'
+  tokens: 1033747
+  sentences: 82206
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2d.xml.bz2

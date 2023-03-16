@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1995149'
-  sentences: '82905'
+  tokens: 1995149
+  sentences: 82905
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-urdagkron.xml.bz2

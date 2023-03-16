@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - spa
 size:
-  tokens: '1248184'
-  sentences: '69270'
+  tokens: 1248184
+  sentences: 69270
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/one71.xml.bz2

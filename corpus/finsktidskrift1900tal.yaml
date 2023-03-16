@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '167814'
-  sentences: '7759'
+  tokens: 167814
+  sentences: 7759
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FINSKTIDSKRIFT1900TAL.txt

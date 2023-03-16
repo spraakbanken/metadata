@@ -15,8 +15,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '137770'
-  sentences: '9018'
+  tokens: 137770
+  sentences: 9018
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-ex.xml.bz2

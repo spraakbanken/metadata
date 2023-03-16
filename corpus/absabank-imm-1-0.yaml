@@ -13,7 +13,7 @@ successors:
 language_codes:
   - swe
 size:
-  tokens: '241000'
+  tokens: 241000
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv

@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  Sentence pairs: '165'
+  Sentence pairs: 165
 in_collections:
   - superlim
 downloads:

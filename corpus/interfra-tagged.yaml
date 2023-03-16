@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - fra
 size:
-  tokens: '425771'
-  sentences: '46644'
+  tokens: 425771
+  sentences: 46644
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra-tagged.xml.bz2

@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '597176'
-  sentences: '32424'
+  tokens: 597176
+  sentences: 32424
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_MEDDELANDEN.txt

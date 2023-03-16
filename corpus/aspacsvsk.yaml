@@ -12,8 +12,8 @@ language_codes:
   - swe
   - slk
 size:
-  tokens: '554510'
-  sentences: '37645'
+  tokens: 554510
+  sentences: 37645
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsk-sv.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - spa
 size:
-  tokens: '2166383'
-  sentences: '66530'
+  tokens: 2166383
+  sentences: 66530
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/pe77.xml.bz2

@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '22701'
+  tokens: 22701
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvensklagar.xml.bz2

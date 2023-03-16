@@ -12,7 +12,7 @@ language_codes:
   - swe
   - eng
 size:
-  entries: '1411'
+  entries: 1411
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json

@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '101329'
+  tokens: 101329
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/syntag.txt

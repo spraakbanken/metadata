@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '8638'
-  sentences: '1062'
+  tokens: 8638
+  sentences: 1062
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-1993-94.xml.bz2

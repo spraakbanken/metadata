@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '24303096'
-  sentences: '1625870'
+  tokens: 24303096
+  sentences: 1625870
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/parole.xml.bz2

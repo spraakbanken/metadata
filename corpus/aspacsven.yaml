@@ -12,8 +12,8 @@ language_codes:
   - swe
   - eng
 size:
-  tokens: '1516943'
-  sentences: '93870'
+  tokens: 1516943
+  sentences: 93870
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsven-sv.xml.bz2

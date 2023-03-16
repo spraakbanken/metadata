@@ -15,7 +15,7 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '217453'
+  tokens: 217453
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_OSTERBOTTENSTIDNING2012.txt

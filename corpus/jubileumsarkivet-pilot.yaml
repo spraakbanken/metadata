@@ -13,8 +13,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1293755'
-  sentences: '76407'
+  tokens: 1293755
+  sentences: 76407
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/jubileumsarkivet-pilot.xml.bz2

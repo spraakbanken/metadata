@@ -12,8 +12,8 @@ language_codes:
   - swe
   - dan
 size:
-  tokens: '68186074'
-  sentences: '2929573'
+  tokens: 68186074
+  sentences: 2929573
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/europarl-sv.xml.bz2

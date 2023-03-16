@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '177806'
-  sentences: '7494'
+  tokens: 177806
+  sentences: 7494
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sdhk-tyska.xml.bz2

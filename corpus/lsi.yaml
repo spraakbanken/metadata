@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - eng
 size:
-  tokens: '1193437'
-  sentences: '72669'
+  tokens: 1193437
+  sentences: 72669
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lsi.xml.bz2

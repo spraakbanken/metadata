@@ -12,8 +12,8 @@ language_codes:
   - swe
   - hrv
 size:
-  tokens: '992471'
-  sentences: '75324'
+  tokens: 992471
+  sentences: 75324
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhr-sv.xml.bz2

@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '6862608'
-  sentences: '524451'
+  tokens: 6862608
+  sentences: 524451
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FNB2000.txt

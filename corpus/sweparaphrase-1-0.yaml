@@ -12,7 +12,7 @@ successors:
 language_codes:
   - swe
 size:
-  Sentence pairs: '165'
+  Sentence pairs: 165
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv

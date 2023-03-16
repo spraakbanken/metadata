@@ -15,7 +15,7 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '40030'
+  tokens: 40030
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SYDOSTERBOTTEN2013.txt

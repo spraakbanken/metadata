@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '841187'
-  sentences: '34563'
+  tokens: 841187
+  sentences: 34563
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-kqa.xml.bz2

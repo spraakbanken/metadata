@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '163936'
-  sentences: '6285'
+  tokens: 163936
+  sentences: 6285
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_DAGBOCKER1700TAL.txt

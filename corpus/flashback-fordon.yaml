@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '80469283'
-  sentences: '5216307'
+  tokens: 80469283
+  sentences: 5216307
 in_collections:
   - flashback
 downloads:

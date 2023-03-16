@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '7777898'
-  sentences: '468460'
+  tokens: 7777898
+  sentences: 468460
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sv-covid-19.xml.bz2

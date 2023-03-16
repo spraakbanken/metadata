@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '7106662'
-  sentences: '350752'
+  tokens: 7106662
+  sentences: 350752
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-tiden.xml.bz2

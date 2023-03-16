@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '126449799'
-  sentences: '10348254'
+  tokens: 126449799
+  sentences: 10348254
 in_collections:
   - kubhist2
 downloads:

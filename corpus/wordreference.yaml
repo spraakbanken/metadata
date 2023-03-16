@@ -15,8 +15,8 @@ language_codes:
   - fra
   - ita
 size:
-  tokens: '170000000'
-  speakers: '97500'
+  tokens: 170000000
+  speakers: 97500
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip

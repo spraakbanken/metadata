@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '163574'
-  sentences: '10989'
+  tokens: 163574
+  sentences: 10989
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/psalmboken.xml.bz2

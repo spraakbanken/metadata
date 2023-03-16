@@ -12,8 +12,8 @@ language_codes:
   - swe
   - ukr
 size:
-  tokens: '453836'
-  sentences: '32911'
+  tokens: 453836
+  sentences: 32911
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvuk-sv.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '5468918'
-  sentences: '316452'
+  tokens: 5468918
+  sentences: 316452
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-kvt.xml.bz2

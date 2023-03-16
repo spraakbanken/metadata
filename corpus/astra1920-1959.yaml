@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '193687'
-  sentences: '10617'
+  tokens: 193687
+  sentences: 10617
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASTRA1920-1959.txt

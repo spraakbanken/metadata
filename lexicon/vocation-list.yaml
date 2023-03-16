@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: '13833'
+  entries: 13833
 in_collections: []
 downloads:
   - url: http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz

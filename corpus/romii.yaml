@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '4304271'
-  sentences: '298361'
+  tokens: 4304271
+  sentences: 298361
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/romii.xml.bz2

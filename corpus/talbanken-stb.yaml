@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '96346'
-  sentences: '6160'
+  tokens: 96346
+  sentences: 6160
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip

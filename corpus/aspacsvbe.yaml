@@ -12,8 +12,8 @@ language_codes:
   - swe
   - bel
 size:
-  tokens: '401158'
-  sentences: '29673'
+  tokens: 401158
+  sentences: 29673
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvbe-sv.xml.bz2

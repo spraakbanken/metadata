@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '79050'
-  sentences: '5596'
+  tokens: 79050
+  sentences: 5596
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBBREV1900TAL.txt

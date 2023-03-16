@@ -12,8 +12,8 @@ language_codes:
   - swe
   - deu
 size:
-  tokens: '1580660'
-  sentences: '97542'
+  tokens: 1580660
+  sentences: 97542
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvde-sv.xml.bz2

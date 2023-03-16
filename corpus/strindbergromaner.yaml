@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '4309037'
-  sentences: '321759'
+  tokens: 4309037
+  sentences: 321759
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/strindbergromaner.xml.bz2

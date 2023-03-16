@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '47924'
+  tokens: 47924
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz

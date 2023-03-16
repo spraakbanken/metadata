@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - fao
 size:
-  tokens: '1142289'
+  tokens: 1142289
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2

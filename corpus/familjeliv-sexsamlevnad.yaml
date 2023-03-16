@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '165635620'
-  sentences: '10837903'
+  tokens: 165635620
+  sentences: 10837903
 in_collections:
   - familjeliv
 downloads:

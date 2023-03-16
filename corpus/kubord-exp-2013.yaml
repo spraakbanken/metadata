@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '48539608'
-  sentences: '365'
+  tokens: 48539608
+  sentences: 365
 in_collections:
   - kubord
 downloads:

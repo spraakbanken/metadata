@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '2827328'
-  sentences: '151099'
+  tokens: 2827328
+  sentences: 151099
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-suugaan2.xml.bz2

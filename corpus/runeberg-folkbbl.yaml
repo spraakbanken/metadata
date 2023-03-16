@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '398330'
-  sentences: '28735'
+  tokens: 398330
+  sentences: 28735
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-folkbbl.xml.bz2

@@ -12,8 +12,8 @@ language_codes:
   - swe
   - bul
 size:
-  tokens: '667092'
-  sentences: '45008'
+  tokens: 667092
+  sentences: 45008
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvbg-sv.xml.bz2

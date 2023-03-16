@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '38959102'
-  sentences: '4191028'
+  tokens: 38959102
+  sentences: 4191028
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-PLDEBATT-130612.txt

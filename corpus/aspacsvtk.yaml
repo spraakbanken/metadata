@@ -12,8 +12,8 @@ language_codes:
   - swe
   - tuk
 size:
-  tokens: '31397'
-  sentences: '3324'
+  tokens: 31397
+  sentences: 3324
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvtk-sv.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '242723'
-  sentences: '17136'
+  tokens: 242723
+  sentences: 17136
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/bloggmix2002.xml.bz2

@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '227742'
-  sentences: '9115'
+  tokens: 227742
+  sentences: 9115
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1750-1799.txt

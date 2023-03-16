@@ -12,8 +12,8 @@ language_codes:
   - swe
   - por
 size:
-  tokens: '270241'
-  sentences: '14842'
+  tokens: 270241
+  sentences: 14842
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvpt-sv.xml.bz2

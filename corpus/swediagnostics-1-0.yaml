@@ -13,7 +13,7 @@ language_codes:
   - swe
   - eng
 size:
-  entries: '1106'
+  entries: 1106
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv

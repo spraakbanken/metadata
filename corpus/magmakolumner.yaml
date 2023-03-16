@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '56960'
-  sentences: '2698'
+  tokens: 56960
+  sentences: 2698
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_MAGMAKOLUMNER.txt

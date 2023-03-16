@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '8796'
-  sentences: '914'
+  tokens: 8796
+  sentences: 914
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-suugaan-turjuman.xml.bz2

@@ -12,7 +12,7 @@ successors:
 language_codes:
   - swe
 size:
-  analogies: '20638'
+  analogies: 20638
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt

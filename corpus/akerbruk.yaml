@@ -13,8 +13,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '90767'
-  sentences: '3007'
+  tokens: 90767
+  sentences: 3007
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/akerbruk.xml.bz2

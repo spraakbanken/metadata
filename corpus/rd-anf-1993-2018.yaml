@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '121987537'
-  sentences: '7036710'
+  tokens: 121987537
+  sentences: 7036710
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-anf-1993-2018.xml.bz2

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '17162039'
-  sentences: '1277141'
+  tokens: 17162039
+  sentences: 1277141
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2012.xml.bz2

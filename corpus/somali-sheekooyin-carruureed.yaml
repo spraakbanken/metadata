@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '13865'
-  sentences: '1321'
+  tokens: 13865
+  sentences: 1321
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooyin-carruureed.xml.bz2

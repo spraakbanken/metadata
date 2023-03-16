@@ -15,7 +15,7 @@ successors: []
 language_codes:
   - swe
 size:
-  Semantic frames: '1195'
+  Semantic frames: 1195
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip

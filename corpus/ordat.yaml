@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1528935'
-  sentences: '71484'
+  tokens: 1528935
+  sentences: 71484
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ordat.xml.bz2

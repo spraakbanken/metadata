@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '199173'
-  sentences: '8959'
+  tokens: 199173
+  sentences: 8959
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-radioden2014.xml.bz2

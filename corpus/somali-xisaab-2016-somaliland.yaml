@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '41922'
-  sentences: '3317'
+  tokens: 41922
+  sentences: 3317
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-xisaab-2016-somaliland.xml.bz2

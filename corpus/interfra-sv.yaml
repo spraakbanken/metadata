@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '50993'
-  sentences: '4406'
+  tokens: 50993
+  sentences: 4406
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra-sv.xml.bz2

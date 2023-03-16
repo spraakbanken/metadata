@@ -15,8 +15,8 @@ languages:
     name_en: Finland Swedish
     name_sv: finlandssvenska
 size:
-  tokens: '960872'
-  sentences: '69946'
+  tokens: 960872
+  sentences: 69946
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_JAKOBSTADSTIDNING1999.txt

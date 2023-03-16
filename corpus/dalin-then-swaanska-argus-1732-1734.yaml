@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '213399'
+  tokens: 213399
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz

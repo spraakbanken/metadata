@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '491605'
+  tokens: 491605
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-aldrereligiosprosa.xml.bz2

@@ -12,8 +12,8 @@ language_codes:
   - swe
   - eng
 size:
-  tokens: '1518759'
-  sentences: '89779'
+  tokens: 1518759
+  sentences: 89779
 in_collections: []
 downloads: []
 interface:

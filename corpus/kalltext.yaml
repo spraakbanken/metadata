@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1096244'
+  tokens: 1096244
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/ktext/

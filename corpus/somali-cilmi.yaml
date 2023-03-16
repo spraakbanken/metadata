@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '190429'
-  sentences: '9614'
+  tokens: 190429
+  sentences: 9614
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-cilmi.xml.bz2

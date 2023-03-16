@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '811321'
-  sentences: '29681'
+  tokens: 811321
+  sentences: 29681
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/bibel1873dalin.xml.bz2

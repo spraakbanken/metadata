@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '12002288'
-  sentences: '657420'
+  tokens: 12002288
+  sentences: 657420
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LAWLINE.txt

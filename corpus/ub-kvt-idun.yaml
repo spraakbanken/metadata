@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '44944172'
-  sentences: '2011318'
+  tokens: 44944172
+  sentences: 2011318
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-idun.xml.bz2

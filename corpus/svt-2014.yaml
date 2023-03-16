@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '16077222'
-  sentences: '1048942'
+  tokens: 16077222
+  sentences: 1048942
 in_collections:
   - svt
 downloads:

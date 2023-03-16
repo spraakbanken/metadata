@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '35043'
-  sentences: '3206'
+  tokens: 35043
+  sentences: 3206
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-as-2001.xml.bz2

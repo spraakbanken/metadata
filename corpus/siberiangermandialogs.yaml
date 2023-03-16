@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '34205'
-  sentences: '2104'
+  tokens: 34205
+  sentences: 2104
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SIBERIANGERMANDIALOGS.txt

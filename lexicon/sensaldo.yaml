@@ -12,7 +12,7 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: '12287'
+  entries: 12287
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip

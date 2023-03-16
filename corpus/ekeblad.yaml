@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '52253'
-  sentences: '586'
+  tokens: 52253
+  sentences: 586
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ekeblad.xml.bz2

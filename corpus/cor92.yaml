@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - spa
 size:
-  tokens: '1200830'
-  sentences: '0'
+  tokens: 1200830
+  sentences: 0
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/cor92.xml.bz2

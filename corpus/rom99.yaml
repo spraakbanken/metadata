@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '2533209'
-  sentences: '176246'
+  tokens: 2533209
+  sentences: 176246
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rom99.xml.bz2

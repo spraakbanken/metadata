@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - som
 size:
-  tokens: '79005'
-  sentences: '6094'
+  tokens: 79005
+  sentences: 6094
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-cb.xml.bz2

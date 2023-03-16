@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '16208'
-  sentences: '1788'
+  tokens: 16208
+  sentences: 1788
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SIBERIANGERMANWOMEN.txt

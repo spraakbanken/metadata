@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '27561804'
-  sentences: '1563256'
+  tokens: 27561804
+  sentences: 1563256
 in_collections: false
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/webbnyheter2008.xml.bz2

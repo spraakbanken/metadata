@@ -13,7 +13,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '337635'
+  tokens: 337635
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svenska-tidningar-1871-1906.tar.gz

@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '1166593'
-  sentences: '74245'
+  tokens: 1166593
+  sentences: 74245
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2

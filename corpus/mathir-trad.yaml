@@ -12,7 +12,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '33721'
+  tokens: 33721
 in_collections: []
 downloads:
   - url: http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz

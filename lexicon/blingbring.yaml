@@ -12,7 +12,7 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: '126910'
+  entries: 126910
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt

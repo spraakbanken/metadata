@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '939380'
-  sentences: '68549'
+  tokens: 939380
+  sentences: 68549
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_OSTERBOTTENSTIDNING2014.txt

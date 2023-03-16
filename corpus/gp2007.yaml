@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '18604742'
-  sentences: '1167927'
+  tokens: 18604742
+  sentences: 1167927
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2007.xml.bz2

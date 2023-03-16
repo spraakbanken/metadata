@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: '2738693'
-  sentences: '219815'
+  tokens: 2738693
+  sentences: 219815
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_HBL2014.txt
