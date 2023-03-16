@@ -14,8 +14,8 @@ size:
 in_collections: []  # ID(s) of the collections the resource is part of
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - url: ''  # URL to a downloadable file
-    type: corpus  # What's in the file?
-    format: XML  # The file format or standard
+    type: lexicon  # What's in the file?
+    format: LMF  # The file format or standard
     info: ''  # Additional info, if required
     licence: CC BY 4.0
     restriction: attribution
