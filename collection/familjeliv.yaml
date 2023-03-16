@@ -11,7 +11,6 @@ successors: []
 collection: true
 language_codes:
   - swe
-in_collections: []
 downloads: []
 interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=socialmedia.forum.familjeliv

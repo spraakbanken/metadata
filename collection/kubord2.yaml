@@ -12,7 +12,6 @@ collection: true
 resources: []
 language_codes:
   - swe
-in_collections: []
 downloads: []
 interface:
   - access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord2
