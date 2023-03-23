@@ -9,6 +9,7 @@ trainingdata: false
 unlisted: false
 successors: []
 collection: true
+resources: []
 language_codes:
   - swe
 downloads: []
