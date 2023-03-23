@@ -8,7 +8,7 @@ type: model  # Must be "model"
 trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
 unlisted: false  # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
-language_codes: []  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https:#iso639-3.sil.org/code_tables/639/data)
+language_codes: []  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
 in_collections: []  # ID(s) of the collections the resource is part of
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - url: ''  # URL to a downloadable file
