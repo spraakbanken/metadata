@@ -10,7 +10,10 @@ unlisted: false
 successors: []
 language_codes:
   - swe
-  - svm
+languages:
+  - code: svm
+    name_en: Slavomolisano
+    name_sv: moliseslaviska
 size:
   tokens: 35279
   sentences: 3384

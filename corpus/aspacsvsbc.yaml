@@ -10,7 +10,10 @@ unlisted: false
 successors: []
 language_codes:
   - swe
-  - sbc
+languages:
+  - code: sbc
+    name_en: Serbian (cyrillic)
+    name_sv: serbiska (kyrilliskt)
 size:
   tokens: 577094
   sentences: 37212
