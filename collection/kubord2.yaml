@@ -24,8 +24,8 @@ contact_info:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
-  swe: Kubord 2 är en uppdaterad version av Kubord och innehåller utöver ordfrekvenser
+  swe: Kubord 2 är en uppdaterad version av Kubord 1 och innehåller utöver ordfrekvenser
     även ordrelationer från moderna tidningstexter från Kungliga biblioteket.
-  eng: Kubord 2 is an updated version of Kubord and contains both token frequencies
+  eng: Kubord 2 is an updated version of Kubord 1 and contains both token frequencies
     and word relations from modern newspaper texts from the The National Library of
     Sweden.
