@@ -27,9 +27,6 @@ resources:
   - swewinograd
 language_codes:
   - swe  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
-size:
-  tokens: N/A
-  sentences: N/A
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.3.zip  # URL to a downloadable file
     type: an archive with the whole collection (datasets, documentation sheets, additional files) # What's in the file?
@@ -44,7 +41,8 @@ contact_info:  # Contact info of the person who can answer questions about the c
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |-      
-  eng: |-  
+  swe: |-
+     
+  eng: |-
     PAGE UNDER CONSTRUCTION, PLEASE DO NOT USE IT YET. See <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.# Longer description in English. May contain HTML and line breaks. Start writing in the next line but keep the indentation of 4 spaces on all lines.
     

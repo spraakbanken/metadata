@@ -12,7 +12,7 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: see documentation
+  tokens: 0
 in_collections:
   - superlim
 downloads:
