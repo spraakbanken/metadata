@@ -29,7 +29,9 @@ contact_info:  # Contact info of the person who can answer questions about the c
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |-  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the next line but keep the indentation of 4 spaces on all lines.
+  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the next line but keep the indentation of 4 spaces on all lines.
+  swe: |-
     
-  eng: |-  # Longer description in English. May contain HTML and line breaks. Start writing in the next line but keep the indentation of 4 spaces on all lines.
+  # Longer description in English. May contain HTML and line breaks. Start writing in the next line but keep the indentation of 4 spaces on all lines.
+  eng: |-
     
