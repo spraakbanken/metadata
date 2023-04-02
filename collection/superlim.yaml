@@ -13,8 +13,7 @@ resources:
   - absabank-imm
   - argumentation-sentences
   - dalaj-ged-superlim
-  - supersim-superlim-relatedness
-  - supersim-superlim-similarity
+  - supersim-superlim
   - sweanalogy
   - swediagnostics
   - swedn
@@ -28,7 +27,7 @@ resources:
 language_codes:
   - swe  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.3.zip  # URL to a downloadable file
+  - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.4.zip  # URL to a downloadable file
     type: an archive with the whole collection (datasets, documentation sheets, additional files) # What's in the file?
     format: zip  # The file format or standard
     info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
@@ -43,5 +42,5 @@ contact_info:  # Contact info of the person who can answer questions about the c
 description:
   swe: ""
   eng: |-
-    PAGE UNDER CONSTRUCTION, PLEASE DO NOT USE IT YET. See <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.
+    See a detailed description <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.
     

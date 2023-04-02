@@ -1,9 +1,9 @@
 name:
-  swe: SuperSim (paketterat för Superlim)
-  eng: SuperSim (repackaged for Superlim)
+  swe: SuperSim (paketterat för Superlim) 2.0
+  eng: SuperSim (repackaged for Superlim) 2.0
 short_description:
-  swe: En test mängd för betydelsemässig likhet och koppling mellan svenska ord.
-  eng: A test set for word similarity and relatedness in Swedish
+  swe: En datamängd för betydelsemässig likhet och koppling mellan svenska ord.
+  eng: A dataset for word similarity and relatedness in Swedish
 type: corpus
 trainingdata: true
 unlisted: false
@@ -11,19 +11,13 @@ successors: []
 language_codes:
   - swe
 size:
-  items: 624
+  tokens: 0
 in_collections:
   - superlim
 downloads:
-  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip
-    type: supersim-superlim.zip
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/supersim-superlim/1.1/supersim-superlim.zip
+    type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
-    info: null
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt
-    type: supersim-superlim_documentation_sheet.txt
-    format: txt
     info: null
     licence: CC BY 4.0
     restriction: attribution

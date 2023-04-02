@@ -1,9 +1,9 @@
 name:
-  swe: Svensk analogi testmängd v1.0
-  eng: Swedish analogy test set v1.0
+  swe: Svensk analogi 2.0
+  eng: Swedish analogy 2.0
 short_description:
-  swe: 'Svensk semantisk och syntaktisk likhet: testmängd'
-  eng: 'Swedish semantic and syntactic similarity: test set'
+  swe: Svensk semantisk och syntaktisk likhet
+  eng: Swedish semantic and syntactic similarity
 type: corpus
 trainingdata: true
 unlisted: false
@@ -11,19 +11,13 @@ successors: []
 language_codes:
   - swe
 size:
-  analogies: 20638
+  tokens: 0
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt
-    type: sv-analogi.txt
-    format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv
-    type: analogy_documentation_sheet.tsv
-    format: tsv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/1.1/sweanalogy.zip
+    type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
+    format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
@@ -45,7 +39,7 @@ description:
     </tr>
     <tr>
     <td>Title*</td>
-    <td>Swedish analogy test set v1.0
+    <td>Swedish analogy test set v1.1
     </td>
     </tr>
     <tr>
@@ -65,7 +59,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/analogy
+    <td>https://spraakbanken.gu.se/en/resources/superlim
     </td>
     </tr>
     <tr>
@@ -110,22 +104,22 @@ description:
     </tr>
     <tr>
     <td>Intended task(s)/usage(s)</td>
-    <td>
+    <td>Given a word pair A and B and a word C, find a word D such that A is to B as C is to D (A:B::C:D)
     </td>
     </tr>
     <tr>
     <td>Recommended evaluation measures</td>
-    <td>
+    <td>Accuracy
     </td>
     </tr>
     <tr>
     <td>Dataset function(s)</td>
-    <td>Testing
+    <td>Few-shot training ('prompting'), testing
     </td>
     </tr>
     <tr>
     <td>Recommended split(s)</td>
-    <td>Test set only
+    <td>A few-shot training set (aka 'prompt', 10%), test set (90%). The prompt was added with the GPT-like models in mind. For those models that do not need a prompt, it can be ignored.
     </td>
     </tr>
     <tr>
@@ -150,7 +144,7 @@ description:
     </tr>
     <tr>
     <td>Dataset in numbers*</td>
-    <td>Total of 20,638 samples; 10,381 semantic samples and 10,257 syntactic samples
+    <td>Total of 20,638 samples; 10,381 semantic samples and 10,257 syntactic samples. Those are split into 2045 train samples and 18,593 test samples. No effort was made to control the balance of syntactic and semantic samples in train and test, the split was random.
     </td>
     </tr>
     <tr>
@@ -160,7 +154,7 @@ description:
     </tr>
     <tr>
     <td>Format*</td>
-    <td>Each sample contains 2 pairs of words. Hence, there are 4 similar words per line.
+    <td>TSV/JSONL with 5 columns/objects: four words and a category. The word to be predicted is called 'label', the given words 'pair1_element1', 'pair1_element2', and 'pair2_element1'.
     </td>
     </tr>
     <tr>
@@ -170,12 +164,12 @@ description:
     </tr>
     <tr>
     <td>Data collection method(s)*</td>
-    <td>Two Swedish native speakers proof-read the finished version and the inter-agreement score calculated. This was after compilation from part of the English version (Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.), which was translated. Additional data source is en.wiktionary.org/wiki
+    <td>Two Swedish native speakers proof-read the finished version. The inter-agreement score was calculated. This was after compilation from part of the English version (Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.), which was translated. Additional data source is en.wiktionary.org/wiki 
     </td>
     </tr>
     <tr>
     <td>Data selection and filtering*</td>
-    <td>Does not apply
+    <td>The dataset was postprocessed and corrected by Lars Borin and Aleksandrs Berdicevskis
     </td>
     </tr>
     <tr>
@@ -225,17 +219,17 @@ description:
     </tr>
     <tr>
     <td>Data last updated*</td>
-    <td>2021-05-12
+    <td>2023-03-05, Gerlof Bouma
     </td>
     </tr>
     <tr>
     <td>Which changes have been made, compared to the previous version*</td>
-    <td>Some linguistic errors and typos in the previous version have been corrected by Lars Borin and Aleksandrs Berdicevskis
+    <td>Minor format changes
     </td>
     </tr>
     <tr>
     <td>Access to previous versions</td>
-    <td>None
+    <td>Work in progress
     </td>
     </tr>
     <tr>
@@ -245,17 +239,17 @@ description:
     </tr>
     <tr>
     <td>This document last updated*</td>
-    <td>2021-05-20, Tosin Adewumi
+    <td>2023-03-05, Gerlof Bouma
     </td>
     </tr>
     <tr>
     <td>Where to look for further details</td>
-    <td>[2],[1]
+    <td>[1],[2]
     </td>
     </tr>
     <tr>
     <td>Documentation template version*</td>
-    <td>v1.0
+    <td>v1.1
     </td>
     </tr>
     <tr>
@@ -280,7 +274,13 @@ description:
     </tr>
     <tr>
     <td>References</td>
-    <td>[1] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Corpora compared: The case of the swedish gigaword & wikipedia corpora. arXiv preprint arXiv:2011.03281. [2] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Exploring Swedish & English fastText Embeddings with the Transformer. arXiv preprint arXiv:2007.16007.
+    <td>[1] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Corpora compared: The case of the swedish gigaword & wikipedia corpora. arXiv preprint arXiv:2011.03281. 
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>[2] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Exploring Swedish & English fastText Embeddings with the Transformer. arXiv preprint arXiv:2007.16007.
     </td>
     </tr>
     </table>
+    

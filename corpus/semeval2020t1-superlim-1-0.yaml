@@ -13,7 +13,8 @@ successors:
   - semeval2020t1-superlim
 language_codes:
   - swe
-in_collections: []
+in_collections:
+  - superlim-1-0
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv
     type: semeval2020t1_documentation_sheet.tsv

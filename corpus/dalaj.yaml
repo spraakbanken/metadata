@@ -1,13 +1,9 @@
 name:
-  swe: DaLAJ v.1.0
-  eng: DaLAJ v.1.0
+  swe: DaLAJ-GED-Superlim 2.0
+  eng: DaLAJ-GED-SuperLim 2.0
 short_description:
-  swe: Dataset for Linguistic Acceptability Judgments (and more), v.1.0., is a collection
-    of sentences from SweLL (Swedish Learner Language) essays. Each DaLAJ sentence
-    contains one error only
-  eng: Dataset for Linguistic Acceptability Judgments (and more), v.1.0., is a collection
-    of sentences from SweLL (Swedish Learner Language) essays. Each DaLAJ sentence
-    contains one error only.
+  swe: Dataset for Linguistic Acceptability Judgments (and more), v.2.0
+  eng: Dataset for Linguistic Acceptability Judgments (and more), v.2.0
 type: corpus
 trainingdata: true
 unlisted: false
@@ -15,19 +11,13 @@ successors: []
 language_codes:
   - swe
 size:
-  Sentence pairs (original - corrected): 4730
+  tokens: 0
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
-    type: datasetDaLAJsplit.csv
-    format: csv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv
-    type: dalaj_documentation.tsv
-    format: tsv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip
+    type: an archive with the dataset in JSONL format and the documentation sheet
+    format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
@@ -42,261 +32,280 @@ description:
   swe: ''
   eng: |-
     <table style="width:100%">
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>I. IDENTIFYING INFORMATION</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Title*</td>
-    <td>DaLAJ v1.0
+    <td>Dalaj-ged-superlim v2.0
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Subtitle</td>
-    <td>A proof-of-concept version of a DAtaset for Linguistic Acceptability Judgments, based on the correction-annotated version of Swedish learner essays (SweLL corpus)
+    <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Created by*</td>
-    <td>Elena Volodina & Yousuf Ali Mohammed (<a href="mailto:elena.volodina@svenska.gu.se">elena.volodina@svenska.gu.se</a>)
+    <td>Elena Volodina, Yousuf Ali Mohammed, Språkbanken Text -- University of Gothenburg (name.surname@svenska.gu.se)
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Publisher(s)*</td>
-    <td>Språkbanken Text (<a href="mailto:sb-info@svenska.gu.se">sb-info@svenska.gu.se</a>)
+    <td>Språkbanken Text -- University of Gothenburg
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td><a href="https://spraakbanken.gu.se/en/resources/dalaj">https://spraakbanken.gu.se/en/resources/dalaj</a>; <a href="https://spraakbanken.gu.se/en/resources/superlim">https://spraakbanken.gu.se/en/resources/superlim</a>
+    <td>https://spraakbanken.gu.se/resurser/superlim
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>License(s)*</td>
-    <td>CC BY 4.0
+    <td>CC-BY 4.0
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Abstract*</td>
-    <td>DaLAJ 1.0 is a Dataset for Linguistic Acceptability Judgments for Swedish, comprising 9 596 sentences in its first version; The baseline for the dataset is 58% accuracy on a binary classification task (i.e. sentence either is correct or not) using BERT embeddings.
-    <br> DaLAJ is based on the SweLL second language learner data (Volodina et al., 2019), consisting of essays at different levels of proficiency. To make sure the dataset can be freely available despite the GDPR regulations, we have sentence-scrambled learner essays and removed part of the metadata about learners, keeping for each sentence only information about the mother tongue and the level of the course where the essay has been written. We use the normalized version of learner language as the basis for the DaLAJ sentences, and keep only one error per sentence. We repeat the same sentence for each individual correction tag used in the sentence. For DaLAJ 1.0 we have used four error categories (out of 35 available in SweLL), all connected to lexical or word-building choices, namely errors with compounding, word choices, use of foreign words,  use of wrong derivation pattern. Our baseline results for the binary classification show an accuracy of 58% for DaLAJ 1.0. The dataset is included in the SwedishGlue (Swe. SuperLim) benchmark. Description of the DaLAJ format, first experiments, our insights and the motivation for the chosen approach to data sharing are provided in <a href="https://arxiv.org/pdf/2105.06681.pdf">https://arxiv.org/pdf/2105.06681.pdf</a>.
+    <td>Dalaj v2.0 is an extension of Dalaj v1 [4], covering 30 error categories used in the SweLL-gold corpus [3]. Dalaj v2 is prepared for several sentence-level classification tasks, including linguistic acceptability (whether a sentence is grammatically correct or incorrect). The dataset contains ca 20K sentences written by non-native learners of Swedish, manipulated to contain one error per sentence and repeated for every new error. Each learner-written sentence is associated with information about the level of proficiency as assessed on an essay level and with mother tongue of the writer. Each incorrect (learner-written) sentence is paired with their manually corrected versions, which due to the one-error-per-sentence principle amounts to ca 6,5K unique correct sentences repeated multiple times times. To balance the number of incorrect sentences with equivalent number of correct ones, sentences from a course book corpus COCTAILL [2] have been extracted, keeping the same distribution into beginner-intermediate-advanced levels as among the incorrect sentences. Each COCTAILL sentence contains information about the (approximate) level of the coursebook at which the text is used for teaching. The dataset is split into training-validation-test sets. The test split has been manually proofread. Note that Dalaj-ged-superlim may be different from other version of Dalaj v2, see Section III for a description of changes.
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Funded by*</td>
-    <td>This work has been supported by Nationella Språkbanken – jointly funded by its 10 partner institutions and the Swedish Research Council (dnr 2017-00626), as well as partly supported by a grant from the Swedish Riksbankens Jubileumsfond (SweLL - research infrastructure for Swedish as a second language, dnr IN16-0464:1).
+    <td>Vinnova (grants no. 2020-02523, 2021-04165), Språkbanken Text
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Cite as</td>
-    <td>Consider citing [1,2]
+    <td>Currently: [1]
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Related datasets</td>
-    <td>Coming: full DaLAJ (v.2.0 or later)
+    <td>Dalaj v1. Part of the SuperLim collection
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td></td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>II. USAGE</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Key applications</td>
-    <td>Machine Learning, Neural networks; Linguistic Acceptability Judgments, Error detection; Error classification; First language identification; Classification by proficiency level; etc.
+    <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Intended task(s)/usage(s)</td>
-    <td>(1) Given a sentence, decide whether the sentence is correct or not; (2) Given a sentence (containing an error), find a string that is incorrect; (3) Given a sentence (containing an error), classify the error type; (4) Given a (group of?) sentence(s) (both correct and incorrect), identify the first language of the writer; (5) Given a (group of?) sentence(s) (both correct and incorrect), classify the level of proficiency of the writer (beginner, intermediate, advanced);
+    <td>1. Determine whether a sentence is grammatically correct (the official SuperLim task)
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
+    <td></td>
+    <td>2. Find a text span in need of correction, if there is one
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>3. Determine the error type
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>4. Find a text span in need of correction, if there is one, and suggest a correction.
+    </td>
+    </tr>
+    <tr>
     <td>Recommended evaluation measures</td>
-    <td>(1) Accuracy (2) F0.5-score (3) F0.5-score
+    <td>'Krippendorff''s Alpha (the official SuperLim measure), F0.5, accuracy'
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Dataset function(s)</td>
-    <td>Training, evaluation, testing
+    <td>Training, testing
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Recommended split(s)</td>
-    <td>80-10-10 (training-validation-texting) Recommended split of the sentences is provided in the data. Note that there are duplicates in the correct sentences.
+    <td>Train, dev, test (provided): 80:10:10. The test set has been manually proofread, train and dev have not.
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td></td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>III. DATA</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Primary data*</td>
-    <td>Sentences
+    <td>Text
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Language*</td>
     <td>Swedish
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Dataset in numbers*</td>
-    <td>4730 incorrect sentences; 4730 correct sentences (including duplicates); more statistics in [1,2]
+    <td>train: 36,554 sentences
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
+    <td></td>
+    <td>dev: 4,702 sentences
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>test: 4,371 sentences
+    </td>
+    </tr>
+    <tr>
     <td>Nature of the content*</td>
-    <td>see [1,2]
+    <td>Sentences written by second language learners and corrected by experts + correct sentences from course books
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Format*</td>
-    <td>csv format; 10 columns:
-    <br> (1) running number
-    <br> (2) original sentence (that contains an error)
-    <br> (3) correction sentence
-    <br> (4) error indices, i.e. start character index - end character index
-    <br> (5) correction indices, i.e. start character index - end character index
-    <br> (6) error-correction pair (two strings)
-    <br> (7) correction tag
-    <br> (8) mother tongue of the writer
-    <br> (9) approximate level of the writer - information derived from the course the learner has been taking when writing the essay
-    <br> (10) split used for the experiment:  train, valid, test
+    <td>JSONL file with one item per file. The item contains the following objects: sentence, label (correct or incorrect) and metadata. Metadata include error span (start and stop; numeration starts at 0; the range is half-open, start=stop denotes empty span (=a token has been omitted); empty if the sentence is correct); confusion pair (incorrect span and correction; empty if the sentence is correct); error label (empty if the sentence is correct); education level, l1 (native language), data source.
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Data source(s)*</td>
-    <td>SweLL learner essays, see [3]
+    <td>SweLL-gold essays
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
-    <td>Data collection method(s)*</td>
-    <td>SweLL learner written essays are collected in the SweLL project, from the test situations (2017-2020) provided learners signed consents, and filled in demographic metadata. Teacheers filled in Task metadata sheets, and where appropriate, grades for the essays. All metadata is registered in the SweLL portal.
-    </td>
-    </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Data selection and filtering*</td>
-    <td>Essays were manually pseudonymized, normalized and correct-annotated, see [3]. The selection of essays for manual annotation was subject to balancing the essays, where possible, after mother tongues (10 most frequent in Sweden), gender balance, course level balance, prior education level balance (which in the end was impossible to achieve)
+    <td>"All SweLL-gold sentences are used, except those containing "unintelligible" markup. Sentences with "consequence" (C) labels were partly deleted, partly converted to descriptive error-labels. When preparing the Superlim version, further filtering was applied: all sentences containing the * (the origin of this token was unclear), @ in the beginning of a sentence (denotes an omitted token) or $ (unintelligible symbol) were deleted. If @ occurred not in the beginning of sentence, the symbol itself was removed, but the sentence was preserved. The annotation was adjusted accordingly."
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Data preprocessing*</td>
-    <td>Manual transcription, pseudonymizarion, normalization, correction annotation, see [3]
+    <td>"Sentence order has been randomized, so that full essays cannot be restored. Learner metadata was dropped (except mother tongues and proficiencly level). Essay metadata was dropped. In Dalaj2-ged, all punctuation marks had added spaces both before and after, the extra spaces are removed in the Superlim version ("detokenization")."
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Data labeling*</td>
-    <td>see [3]
+    <td>Acceptability judgment; error identification; error correction; error tags (30 detailed categories), manually assigned
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Annotator characteristics</td>
-    <td>Krippendorff’s alpha on correction annotation task is 0,85% on the basis of 10% of essays that have been double-annotated.
+    <td>second language experts / linguists
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td></td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>IV. ETHICS AND CAVEATS</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Ethical considerations</td>
-    <td>SweLL dataset is subject to GDPR and Ethical Review Authority restrictions. The DaLAJ format allows to use the dataset openly, since (1) the demographic metadata is practically removed (apart from the information on mother tongue and level of the course), (2) the essays sentences are randomly scrambled and (3) all personal information in the sentences is pseudonymized (e.g. city names replaced with other city names)
+    <td>SweLL-gold corpus is under GDPR restrictions. Randomized sentences withour metadata exempt risks for reidentification, and therefore allow data to be freely shared
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Things to watch out for</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td></td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>V. ABOUT DOCUMENTATION</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Data last updated*</td>
-    <td>2021-05-26, v1.0
+    <td>20230122
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Which changes have been made, compared to the previous version*</td>
-    <td>This is the first official version
+    <td>Extensive changes, see I and III.
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Access to previous versions</td>
-    <td>
+    <td>NA
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>This document created*</td>
-    <td>2021-05-27, Elena Volodina
+    <td>20230123, Elena Volodina
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>This document last updated*</td>
-    <td>2021-06-19, Elena Volodina
+    <td>20230208, Aleksandrs Berdicevskis
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Where to look for further details</td>
-    <td>[1], [2]
+    <td>forthcoming
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>Documentation template version*</td>
-    <td>v1.0
+    <td>v1.1
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td></td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>VI. OTHER</td>
     <td>
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
-    <td>Related projects  </td>
-    <td>SweLL - research infrastructure for Swedish as a Second Language. <a href="https://spraakbanken.gu.se/en/projects/swell">https://spraakbanken.gu.se/en/projects/swell</a>
+    <tr>
+    <td>Related projects</td>
+    <td>SweLL
     </td>
     </tr>
-    <tr style="vertical-align: baseline;">
+    <tr>
     <td>References</td>
-    <td>[1] Volodina, Elena, Yousuf Ali Mohammed, and Julia Klezl.  (2021). DaLAJ - a dataset for linguistic acceptability judgments for Swedish: Format, baseline, sharing.  arXiv preprint arXiv:2105.06681.
-    <br> <a href="https://arxiv.org/pdf/2105.06681.pdf">https://arxiv.org/pdf/2105.06681.pdf</a>
-    <br> [2] Volodina, Elena, Yousuf Ali Mohammed, and Julia Klezl.  (2021). DaLAJ - a dataset for linguistic acceptability judgments for Swedish. In Proceedings of the 10th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2021). Linköping Electronic Conference Proceedings 177:3, s. 28-37.
-    <br> <a href="https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=177">https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=177</a>
-    <br> <a href="https://ep.liu.se/ecp/177/003/ecp2021177003.pdf">https://ep.liu.se/ecp/177/003/ecp2021177003.pdf</a>
-    <br> [3] Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
-    <br> <a href="https://nejlt.ep.liu.se/article/view/1374/1010">https://nejlt.ep.liu.se/article/view/1374/1010</a>
+    <td>[1] Julia Klezl, Yousuf Ali Mohammed, Elena Volodina. (2022). Exploring Linguistic Acceptability in Swedish Learners’ Language. Proceedings of the 11th Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL 2022), Belgium. NEALT Proceedings Series 47. [url]
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>[2] Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson (2014). You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. [pdf]
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>[3] Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue. [pdf]
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>[4] Elena Volodina, Yousuf Ali Mohammed, and Julia Klezl. (2021) DaLAJ - a dataset for linguistic acceptability judgments for Swedish.Proceedings of the 10th NLP4CALL workshop. Linköping Electronic University Press, Vol. 177:3. [pdf] [an extended version on arXiv]
     </td>
     </tr>
     </table>
+    
