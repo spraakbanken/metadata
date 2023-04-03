@@ -13,7 +13,8 @@ language_codes:
   - swe
 size:
   items: 624
-in_collections: []
+in_collections:
+  - superlim-1-0
 downloads:
   - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip
     type: supersim-superlim.zip

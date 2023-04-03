@@ -13,7 +13,8 @@ language_codes:
   - swe
 size:
   Sentence pairs: 165
-in_collections: []
+in_collections:
+  - superlim-1-0
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv
     type: sweparaphrase-dev-165.tsv

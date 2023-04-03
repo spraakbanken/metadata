@@ -12,12 +12,13 @@ type: corpus
 trainingdata: true
 unlisted: true
 successors:
-  - dalaj
+  - dalaj-ged-superlim
 language_codes:
   - swe
 size:
   Sentence pairs (original - corrected): 4730
-in_collections: []
+in_collections:
+  - superlim-1-0
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
     type: datasetDaLAJsplit.csv

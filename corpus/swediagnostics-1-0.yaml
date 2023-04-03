@@ -14,7 +14,8 @@ language_codes:
   - eng
 size:
   entries: 1106
-in_collections: []
+in_collections:
+  - superlim-1-0
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
     type: swediagnostics-v1.0.csv

@@ -1,30 +1,22 @@
 name:
-  swe: Vanliga frågor (randomiserad) 1.0
-  eng: Swedish FAQ (mismatched) 1.0
+  swe: SweFAQ 2.0
+  eng: SweFAQ 2.0
 short_description:
-  swe: Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad
-    ordning
-  eng: Frequently asked questions from Swedish authorities' websites with shuffled
-    answers
+  swe: Vanliga frågor från svenska myndigheters webbsidor med svar i randomiserad ordning
+  eng: Frequently asked questions from Swedish authorities' websites with shuffled answers
 type: corpus
 trainingdata: true
-unlisted: false
+unlisted: true
 successors: []
 language_codes:
   - swe
 size:
-  Q-APairs: 513
+  tokens: 0
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv
-    type: faq_mismatched.tsv
-    format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv
-    type: faq_documentation_sheet.tsv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/2.0/swefaq.zip
+    type: an archive with the dataset in JSONL format and the documentation sheet
     format: tsv
     info: ''
     licence: CC BY 4.0
@@ -39,7 +31,7 @@ contact_info:
 description:
   swe: ''
   eng: |-
-    <table style="width:100%">
+        <table style="width:100%">
     <tr>
     <td>I. IDENTIFYING INFORMATION</td>
     <td>
@@ -47,7 +39,7 @@ description:
     </tr>
     <tr>
     <td>Title*</td>
-    <td>Swedish FAQ (mismatched) v1.0
+    <td>Swedish FAQ v2.0
     </td>
     </tr>
     <tr>
@@ -67,7 +59,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/faq
+    <td>https://spraakbanken.gu.se/en/resources/superlim
     </td>
     </tr>
     <tr>
@@ -77,12 +69,12 @@ description:
     </tr>
     <tr>
     <td>Abstract*</td>
-    <td>This dataset contains questions and answers collected from FAQs on the websites of Swedish authorities (Försäkringskassan, Skatteverket, Vårdguiden). The dataset is a part of the SuperLim collection. Each QA pair belongs to a certain category (e.g. "Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor"). The are 513 QA pairs and 50 categories. The number of QA pairs in a category strongly varies. Within each category, the answers are randomly shuffled. The task is to match questions and answers.
+    <td>"This dataset contains questions and answers collected from FAQs on the websites of Swedish authorities. The dataset is a part of the SuperLim collection. Each QA pair belongs to a certain category (e.g. "Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor"). The are 976  QA pairs and 100 categories. The number of QA pairs in a category strongly varies. Within each category, the answers are randomly shuffled. The task is to match questions and answers."
     </td>
     </tr>
     <tr>
     <td>Funded by*</td>
-    <td>Vinnova (grant no. 2020-02523)
+    <td>Vinnova (grants no. 2020-02523, 2021-04165)
     </td>
     </tr>
     <tr>
@@ -112,22 +104,22 @@ description:
     </tr>
     <tr>
     <td>Intended task(s)/usage(s)</td>
-    <td>(1) Evaluate models on the following task: given the question, find the suitable answer, it it is present.
+    <td>Evaluate models on the following task: given the question, find the suitable answer within the same category
     </td>
     </tr>
     <tr>
     <td>Recommended evaluation measures</td>
-    <td>(1) Accuracy
+    <td>Krippendorff's pseudoalpha (the official SuperLim measure), a derived Krippendorff's alpha. For this dataset, pseudoalpha = (Accuracy - 109/2049) / (1940/2049), where accuracy is the proportion of questions correctly connected to their answer. Other possible measures: accuracy.
     </td>
     </tr>
     <tr>
     <td>Dataset function(s)</td>
-    <td>Testing
+    <td>Training, development and testing.
     </td>
     </tr>
     <tr>
     <td>Recommended split(s)</td>
-    <td>Test data only
+    <td>Provided. The split was created to facilitate cross-domain testing: the categories in train, dev and test do not overlap.
     </td>
     </tr>
     <tr>
@@ -152,34 +144,27 @@ description:
     </tr>
     <tr>
     <td>Dataset in numbers*</td>
-    <td>513 question-answer pairs; 50 categories; 3 sources; The number of QA pairs in a category strongly varies.
+    <td>976 question-answer pairs; 100 categories; 9 sources; The number of QA pairs in a category strongly varies, so does the number of categories per source
     </td>
     </tr>
     <tr>
     <td>Nature of the content*</td>
-    <td>Each QA pair belongs to a certain category (e.g. "Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor"). Within each category, the answers are randomly shuffled. Importantly, the shuffling always occurs only within categories. This is necessary, since many questions cannot be interpreted without the background provided by the category (e.g. "Måste bilen registreras i mitt namn?" from the category "Förälder :: Om ditt barn har en funktions­nedsättning :: Bilstöd för barn :: Vanliga frågor"). Moreover, different categories can potentially contain similar questions ("Hur mycket pengar får jag?")  with different answers.
+    <td>"Each QA pair belongs to a certain category (e.g. "Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor"). Within each category, the answers are randomly shuffled. Importantly, the shuffling always occurs only within categories. This is necessary, since many questions cannot be interpreted without the background provided by the category (e.g. "Måste bilen registreras i mitt namn?" from the category "Förälder :: Om ditt barn har en funktions­nedsättning :: Bilstöd för barn :: Vanliga frågor"). Moreover, different categories can potentially contain similar questions ("Hur mycket pengar får jag?")  with different answers."
     </td>
     </tr>
     <tr>
     <td>Format*</td>
-    <td>"Tab-separated, seven columns:
-    <br> "category id" -- unique integer id of the category;
-    <br> "source" -- the name of the authority from which the QAs were collected;
-    <br> "category";
-    <br> "question";
-    <br> "candidate_answer" -- the answer that was obtained by the random shuffling (if the shuffling is rerun, the "candidate_answer" is likely to be different);
-    <br> "correct_answer" -- the original, correct answer that matches the question; "candidate_answer" may or may not be the same as "correct_answer".
-    <br> "link" -- the url of the page from which questions and answers were collected. In most cases, there is one link per category; some categories share the link."
+    <td>JSON Lines, with one item per line. Each item contains a category id, a question, an array of all answers in this category (this value is the same for all items within a category) and a label index which indicates the correct answer (numbering starts at 0). Metadata included for each item (the title of the category, the source and the link to the page where the data were collected) are intended for analysis, and not for use by the question-answering system. The dataset is also available as a tsv with self-explanatory column names.
     </td>
     </tr>
     <tr>
     <td>Data source(s)*</td>
-    <td>Websites of the Swedish Social Insurance Agency (Försäkringskassan; https://www.forsakringskassan.se/), the central national infrastructure for Swedish healthcare online (Vårdguiden, https://www.1177.se/), The Swedish Tax Agency (Skatteverket, https://skatteverket.se/). Specific links can be found in the dataset.
+    <td>Websites of the Swedish Social Insurance Agency (Försäkringskassan; https://www.forsakringskassan.se/); the central national infrastructure for Swedish healthcare online (Vårdguiden, https://www.1177.se/); The Swedish Tax Agency (Skatteverket, https://skatteverket.se/); Swedish Government Offices (Regeringskansliet); National Board of Health and Welfare (Socialstyrelsen); Härryda municipality; Legal, Financial and Administrative Services Agency (Kammarkollegiet); Swedish Work Environment Authority (Arbetsmiljöverket); Västra Götaland Regional Council (Västra Götalandsregionen). Specific links can be found in the dataset.
     </td>
     </tr>
     <tr>
     <td>Data collection method(s)*</td>
-    <td>Questions and answers were collected manually from various pages of the aforementioned websites. The pages were found either by searching for "vanliga frågor" and "frågor och svar" on the websites or navigating using the websites' menu.
+    <td>"Questions and answers were collected manually from various pages of the aforementioned websites. The pages were found either by searching for "vanliga frågor" and "frågor och svar" on the websites or navigating using the websites'' menu.'"
     </td>
     </tr>
     <tr>
@@ -200,11 +185,6 @@ description:
     <tr>
     <td>Annotator characteristics</td>
     <td>PhD in linguistics; fluent non-native speaker of Swedish
-    </td>
-    </tr>
-    <tr>
-    <td>Inter-annotator agreement</td>
-    <td>
     </td>
     </tr>
     <tr>
@@ -239,17 +219,17 @@ description:
     </tr>
     <tr>
     <td>Data last updated*</td>
-    <td>2021-04-16, v1.0
+    <td>2022-09-20, v2.0, Aleksandrs Berdicevskis
     </td>
     </tr>
     <tr>
     <td>Which changes have been made, compared to the previous version*</td>
-    <td>This is the first official version
+    <td>The dataset was considerably expanded; errors were corrected; the format was improved; the datasplit was added
     </td>
     </tr>
     <tr>
     <td>Access to previous versions</td>
-    <td>
+    <td>https://spraakbanken.gu.se/en/resources/faq
     </td>
     </tr>
     <tr>
@@ -259,12 +239,17 @@ description:
     </tr>
     <tr>
     <td>This document last updated*</td>
-    <td>2021-05-19, Aleksandrs Berdicevskis
+    <td>2023-02-03, Aleksandrs Berdicevskis
     </td>
     </tr>
     <tr>
     <td>Where to look for further details</td>
     <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Documentation template version*</td>
+    <td>v1.1
     </td>
     </tr>
     <tr>
@@ -289,6 +274,7 @@ description:
     </tr>
     <tr>
     <td>References</td>
-    <td></td>
+    <td>
+    </td>
     </tr>
     </table>
