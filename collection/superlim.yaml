@@ -2,8 +2,8 @@ name:
   swe: SuperLim 2  # Human readable name in Swedish
   eng: SuperLim 2  # Human readable name in English
 short_description:
-  swe: A standardized suite for evaluation and analysis of Swedish natural language understanding systems, version 2.0.3.  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: A standardized suite for evaluation and analysis of Swedish natural language understanding systems, version 2.0.3.  # Short description in a few words or a sentence in English (plain text only)
+  swe: A standardized suite for evaluation and analysis of Swedish natural language understanding systems.  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: A standardized suite for evaluation and analysis of Swedish natural language understanding systems.  # Short description in a few words or a sentence in English (plain text only)
 type: corpus  # Must be "corpus", "lexicon" or "model"
 trainingdata: true  # If set to "true", the collection will be listed as "Training and evaluation data"
 unlisted: false  # If set to "true", the collection won't be listed, but it will be accessible via its URL
