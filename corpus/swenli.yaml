@@ -10,8 +10,6 @@ unlisted: false
 successors: []
 language_codes:
   - swe
-size:
-  tokens: 0
 in_collections:
   - superlim
 downloads:

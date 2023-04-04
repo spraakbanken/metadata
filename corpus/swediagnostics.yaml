@@ -3,24 +3,21 @@ name:
   eng: SweDiagnostics
 short_description:
   swe: Svenska versionen av (Super)GLUE diagnostik
-  eng: 'Swedish version (Super)GLUE Diagnostic '
+  eng: Swedish version of (Super)GLUE Diagnostic 
 type: corpus
 trainingdata: true
 unlisted: false
 successors: []
 language_codes:
   - swe
-  - eng
-size:
-  entries: 1106
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
-    type: swediagnostics-v1.0.csv
-    format: csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/1.1/swediagnostics.zip
+    type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
+    format: zip
     info: ''
-    licence: CC BY 1.0
+    licence: CC BY 4.0
     restriction: attribution
 interface: []
 contact_info:
@@ -40,7 +37,7 @@ description:
     </tr>
     <tr>
     <td>Title*</td>
-    <td>SuperLim Diagnostic Dataset
+    <td>SuperLim Diagnostic Dataset, v1.1
     </td>
     </tr>
     <tr>
@@ -220,12 +217,12 @@ description:
     </tr>
     <tr>
     <td>Data last updated*</td>
-    <td>2021-06-04, v1.0
+    <td>2023-03-01, v1.1
     </td>
     </tr>
     <tr>
     <td>Which changes have been made, compared to the previous version*</td>
-    <td>Full translation coverage.
+    <td>Minor format changes
     </td>
     </tr>
     <tr>
@@ -240,7 +237,7 @@ description:
     </tr>
     <tr>
     <td>This document last updated*</td>
-    <td>2023-02-03, Aleksandrs Berdicevskis.
+    <td>2023-04-02, Aleksandrs Berdicevskis.
     </td>
     </tr>
     <tr>
