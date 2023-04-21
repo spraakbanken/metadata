@@ -22,7 +22,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=law#corpus=moderntdv</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=law#?corpus=moderntdv</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=fredrikshamnstidning</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=fredrikshamnstidning</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

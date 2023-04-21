@@ -44,7 +44,7 @@
       <licence>other</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=parallel#corpus=saltnld-sv</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=saltnld-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

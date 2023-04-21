@@ -44,7 +44,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=parallel#corpus=aspacsvde-sv</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvde-sv</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

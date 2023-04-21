@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=typograftidning</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=typograftidning</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

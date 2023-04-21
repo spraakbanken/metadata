@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=borgabladet2</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=borgabladet2</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

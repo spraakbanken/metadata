@@ -22,7 +22,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=runeberg-folkbbl</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=runeberg-folkbbl</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

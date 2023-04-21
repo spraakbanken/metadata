@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=ateneum-1900tal</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=ateneum-1900tal</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

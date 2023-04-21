@@ -30,7 +30,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=faroe#corpus=fts</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts</executionLocation>
     </licenceInfo>
     <iprHolder>
       <personInfo>
