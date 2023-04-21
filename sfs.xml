@@ -25,7 +25,7 @@
       <licence>GFDL</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=sfs</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=sfs</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

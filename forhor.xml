@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=forhor</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=forhor</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

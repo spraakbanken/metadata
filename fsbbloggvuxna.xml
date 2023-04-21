@@ -17,7 +17,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=fsbbloggvuxna</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=fsbbloggvuxna</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

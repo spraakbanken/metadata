@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=fsbskonlit1960-1999</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=fsbskonlit1960-1999</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

@@ -16,7 +16,7 @@
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#corpus=abounderrattelser2012</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=abounderrattelser2012</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
