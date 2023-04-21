@@ -22,7 +22,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-as-2016
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-as-2016
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

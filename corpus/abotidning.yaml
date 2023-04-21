@@ -23,7 +23,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=fisk1800#corpus=abotidning
+  - access: https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=abotidning
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

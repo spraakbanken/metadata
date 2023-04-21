@@ -34,7 +34,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/#corpus=romg
+  - access: https://spraakbanken.gu.se/korp/#?corpus=romg
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

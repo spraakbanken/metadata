@@ -28,7 +28,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/#corpus=drama
+  - access: https://spraakbanken.gu.se/korp/#?corpus=drama
     licence: CC BY 4.0
     restriction: attribution
   - access: http://www.dramawebben.se/

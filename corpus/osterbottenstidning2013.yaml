@@ -25,7 +25,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/#corpus=osterbottenstidning2013
+  - access: https://spraakbanken.gu.se/korp/#?corpus=osterbottenstidning2013
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

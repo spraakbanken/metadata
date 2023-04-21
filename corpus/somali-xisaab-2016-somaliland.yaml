@@ -22,7 +22,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-xisaab-2016-somaliland
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-xisaab-2016-somaliland
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

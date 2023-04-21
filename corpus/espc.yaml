@@ -17,7 +17,7 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#corpus=espc-sv
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=espc-sv
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

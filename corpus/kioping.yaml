@@ -28,7 +28,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=kioping_books#corpus=kioping
+  - access: https://spraakbanken.gu.se/korp/?mode=kioping_books#?corpus=kioping
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

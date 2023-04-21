@@ -21,7 +21,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#corpus=fsv-aldrereligiosprosa
+  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-aldrereligiosprosa
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

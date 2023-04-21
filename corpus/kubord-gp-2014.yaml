@@ -25,7 +25,7 @@ downloads:
 interface:
   - licence: CC BY 4.0
     restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2014
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord-gp-2014
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

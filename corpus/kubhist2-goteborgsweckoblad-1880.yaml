@@ -29,7 +29,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=kubhist#corpus=kubhist2-goteborgsweckoblad-1880
+  - access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-goteborgsweckoblad-1880
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

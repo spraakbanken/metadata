@@ -26,7 +26,7 @@ interface:
   - access: https://spraakbanken.gu.se/FTS/search.phtml
     licence: other
     restriction: other
-  - access: https://spraakbanken.gu.se/korp/?mode=faroe#corpus=fts
+  - access: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
