@@ -22,7 +22,7 @@ contact_info:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
-  swe: <p>Korpussamlingen Kubhist är ett resultat av projektet <a href="http://feedback.blogg.kb.se/forums/topic/digidailyprojekten-2010-2014/">Digidaily</a>
+  swe: <p>Korpussamlingen Kubhist är ett resultat av projektet <a href="https://riksarkivet.se/digidaily">Digidaily</a>
     som var ett utvecklingsprojekt där Riksarkivet tillsammans med Kungliga biblioteket
     och Mittuniversitetet utvecklade rationella metoder och processer för massdigitalisering
     och texttolkning av dagstidningar. Projektet löpte mellan 2010 och 2014.</p> <p>Samlingen
@@ -30,7 +30,7 @@ description:
     våra servrar går det just nu inte att ladda ner XML-filerna med meningsmängder
     till korpusarna i Kubhist-samlingen. Vänligen kontakta sb-info@svenska.gu.se om
     du behöver få tillgång till meningsmängderna.</p>
-  eng: <p>The corpus collection Kubhist is a result of the project <a href="http://feedback.blogg.kb.se/forums/topic/digidailyprojekten-2010-2014/">Digidaily</a>
+  eng: <p>The corpus collection Kubhist is a result of the project <a href="https://riksarkivet.se/digidaily">Digidaily</a>
     which was run between 2010 and 2014.</p> <p>The collection is split into parts,
     by source periodical and decade.</p> <p>Due to a lack of disk space the download
     of the XML files containing the sentence sets for the Kubhist collection is currently
