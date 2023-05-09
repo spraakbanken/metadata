@@ -33,6 +33,12 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
     info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     licence: CC BY 4.0
     restriction: attribution
+  - url: http://demo.spraakdata.gu.se/sasha/SuperLim_maintenance.odt  # URL to a downloadable file
+    type: an internal instruction on how (not) to update the Superlim 2.0 # What's in the file?
+    format: odt  # The file format or standard
+    info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    licence: ''
+    restriction: ''
 contact_info:  # Contact info of the person who can answer questions about the collection
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
