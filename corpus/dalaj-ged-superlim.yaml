@@ -22,7 +22,7 @@ downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-tsv.zip
     type: an archive with the dataset in TSV format and the documentation sheet.
     format: zip
-    info: NB: the tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.
+    info: NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.
     licence: CC BY 4.0
     restriction: attribution
   - url: https://ecp.ep.liu.se/index.php/sltc/article/view/687/593
@@ -31,7 +31,6 @@ downloads:
     info: Elena Volodina, Yousuf Ali Mohammad, Aleksandrs Berdicevskis, Gerlof Bouma, Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish
     licence: CC BY 4.0
     restriction: attribution
-
 interface: []
 contact_info:
   name: Elena Volodina
