@@ -1,0 +1,31 @@
+name:
+  swe: Press
+  eng: Press
+short_description:
+  swe: Svensk press
+  eng: Swedish press
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - press65
+  - press76
+  - press95
+  - press96
+  - press97
+  - press98
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=newstexts.press
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

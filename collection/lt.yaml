@@ -1,0 +1,36 @@
+name:
+  swe: Läkartidningen
+  eng: Läkartidningen medical journal
+short_description:
+  swe: Korpus för vårdens och omsorgens fackspråk
+  eng: Corpus for health care technical language
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - lt1996
+  - lt1997
+  - lt1998
+  - lt1999
+  - lt2000
+  - lt2001
+  - lt2002
+  - lt2003
+  - lt2004
+  - lt2005
+  - lt2006
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=medical.ltd
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

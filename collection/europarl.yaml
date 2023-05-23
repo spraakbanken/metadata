@@ -1,0 +1,46 @@
+name:
+  swe: Europarl
+  eng: Europarl
+short_description:
+  swe: European Parliament Proceedings Parallel Corpus
+  eng: European Parliament Proceedings Parallel Corpus
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - europarl-sv
+  - europarl-svda
+  - europarl-svde
+  - europarl-svel
+  - europarl-sven
+  - europarl-sves
+  - europarl-svfi
+  - europarl-svfr
+  - europarl-svit
+  - europarl-svnl
+  - europarl-svpt
+language_codes:
+  - swe
+  - dan
+  - deu
+  - ell
+  - eng
+  - spa
+  - fin
+  - fra
+  - ita
+  - nld
+  - por
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=europarl
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

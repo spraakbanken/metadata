@@ -1,0 +1,50 @@
+name:
+  swe: Somaliska korpusar
+  eng: Somali corpora
+short_description:
+  swe: ""
+  eng: ""
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - somali-1971-79
+  - somali-1993-94
+  - somali-2001
+  - somali-ah-2010-19
+  - somali-as-2001
+  - somali-as-2016
+  - somali-caafimaad-1972-79
+  - somali-cb
+  - somali-cb-2001-03-soomaaliya
+  - somali-cb-2016
+  - somali-cilmi
+  - somali-kqa
+  - somali-mk-1972-79
+  - somali-radioden2014
+  - somali-radioswe2014
+  - somali-saynis-1980-89
+  - somali-sheekooyin
+  - somali-sheekooyin-carruureed
+  - somali-sheekooying
+  - somali-suugaan
+  - somali-suugaan-turjuman
+  - somali-suugaan2
+  - somali-tid-turjuman
+  - somali-xisaab-2001-nayroobi
+  - somali-xisaab-2016-- somaliland
+language_codes:
+  - som
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

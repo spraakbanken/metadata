@@ -1,0 +1,32 @@
+name:
+  swe: Kvinnotidningar
+  eng: Kvinnotidningar
+short_description:
+  swe: Svenska kvinnotidningar
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - ub-kvt-dagny
+  - ub-kvt-hertha
+  - ub-kvt-idun
+  - ub-kvt-kvt
+  - ub-kvt-morgonbris
+  - ub-kvt-rostratt
+  - ub-kvt-tidevarvet
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=ubkvt
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

@@ -1,0 +1,33 @@
+name:
+  swe: Medeltidsbrev
+  eng: Medieval letters
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - sdhk-latin
+  - sdhk-norska
+  - sdhk-ovrigt
+  - sdhk-svenska
+  - sdhk-tyska
+language_codes:
+  - lat
+  - deu
+  - nor
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=medeltid
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
