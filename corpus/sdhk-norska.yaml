@@ -9,7 +9,7 @@ trainingdata: false
 unlisted: false
 successors: []
 language_codes:
-  - swe
+  - nor
 size:
   tokens: 27718
   sentences: 884
