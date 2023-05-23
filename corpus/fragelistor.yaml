@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 57606576
   sentences: 4320485
-in_collections: false
+in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_fragelistor.csv
     type: token frequencies

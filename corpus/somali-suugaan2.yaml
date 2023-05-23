@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 2827328
   sentences: 151099
-in_collections: false
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-suugaan2.xml.bz2
     type: corpus

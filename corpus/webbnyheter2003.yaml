@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 12217288
   sentences: 650960
-in_collections: false
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/webbnyheter2003.xml.bz2
     type: corpus

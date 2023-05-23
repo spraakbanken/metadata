@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 5129248
   sentences: 359878
-in_collections: false
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/dn1987.xml.bz2
     type: corpus
