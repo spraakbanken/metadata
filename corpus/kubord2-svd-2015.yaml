@@ -13,7 +13,8 @@ language_codes:
 size:
   tokens: 31155970
   sentences: 354
-in_collections: []
+in_collections:
+  - kubord2
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-svd-2015.csv
     type: token frequencies
