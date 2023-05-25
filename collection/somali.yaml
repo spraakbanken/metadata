@@ -35,6 +35,7 @@ resources:
   - somali-tid-turjuman
   - somali-xisaab-2001-nayroobi
   - somali-xisaab-2016-somaliland
+  - wikipedia-so
 language_codes:
   - som
 downloads: []
