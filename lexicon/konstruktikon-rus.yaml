@@ -25,6 +25,8 @@ interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=konstruktikon-rus
     licence: CC BY 4.0
     restriction: attribution
+references:
+  - https://benjamins.com/catalog/cal.22.06jan
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
