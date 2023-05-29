@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 499986353
   sentences: 52338086
-in_collections: false
+in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_twitter.csv
     type: token frequencies

@@ -15,7 +15,7 @@ language_codes:
 size:
   tokens: 1293755
   sentences: 76407
-in_collections: false
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/jubileumsarkivet-pilot.xml.bz2
     type: corpus

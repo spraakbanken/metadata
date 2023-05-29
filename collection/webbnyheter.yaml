@@ -1,0 +1,38 @@
+name:
+  swe: Webbnyheter
+  eng: Web News
+short_description:
+  swe: Nyheter från svenska dagstidningars webbplatser
+  eng: News from Swedish newspapers' websites
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - webbnyheter2001
+  - webbnyheter2002
+  - webbnyheter2003
+  - webbnyheter2004
+  - webbnyheter2005
+  - webbnyheter2006
+  - webbnyheter2007
+  - webbnyheter2008
+  - webbnyheter2009
+  - webbnyheter2010
+  - webbnyheter2011
+  - webbnyheter2012
+  - webbnyheter2013
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=newstexts.webnews
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

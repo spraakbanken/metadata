@@ -1,0 +1,37 @@
+name:
+  swe: Fornsvenska textbankens material
+  eng: Fornsvenska textbankens material
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - fsv-aldrelagar
+  - fsv-aldrereligiosprosa
+  - fsv-nysvenskbibel
+  - fsv-nysvenskdalin
+  - fsv-nysvenskkronikor
+  - fsv-nysvensklagar
+  - fsv-nysvenskovrigt
+  - fsv-profanprosa
+  - fsv-verser
+  - fsv-yngrelagar
+  - fsv-yngrereligiosprosa
+  - fsv-yngretankebocker
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsvb
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

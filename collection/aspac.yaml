@@ -1,0 +1,78 @@
+name:
+  swe: ASPAC
+  eng: ASPAC
+short_description:
+  swe: The Amsterdam Slavic Parallel Aligned Corpus
+  eng: The Amsterdam Slavic Parallel Aligned Corpus
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - aspacsv
+  - aspacsvbe
+  - aspacsvbg
+  - aspacsvcs
+  - aspacsvde
+  - aspacsvdsb
+  - aspacsvel
+  - aspacsven
+  - aspacsves
+  - aspacsvfr
+  - aspacsvhr
+  - aspacsvhsb
+  - aspacsvit
+  - aspacsvla
+  - aspacsvmk
+  - aspacsvnl
+  - aspacsvpl
+  - aspacsvpt
+  - aspacsvro
+  - aspacsvru
+  - aspacsvsbc
+  - aspacsvsk
+  - aspacsvsl
+  - aspacsvsr
+  - aspacsvsvm
+  - aspacsvtk
+  - aspacsvuk
+language_codes:
+  - swe
+  - bel
+  - bul
+  - ces
+  - deu
+  - dsb
+  - ell
+  - eng
+  - spa
+  - fra
+  - hrv
+  - hsb
+  - vit
+  - lat
+  - mkd
+  - nld
+  - pol
+  - por
+  - ron
+  - rus
+  - sbc
+  - slk
+  - slv
+  - srp
+  - svm
+  - tuk
+  - ukr
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspac
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se

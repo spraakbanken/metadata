@@ -35,6 +35,8 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill
     licence: CC BY 4.0
     restriction: attribution
+references:
+  - http://www.ep.liu.se/ecp/107/010/ecp14107010.pdf
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se

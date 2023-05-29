@@ -15,7 +15,7 @@ language_codes:
 size:
   tokens: 374387
   sentences: 76423
-in_collections: false
+in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ivip.csv
     type: token frequencies

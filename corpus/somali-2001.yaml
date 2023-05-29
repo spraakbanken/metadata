@@ -13,7 +13,7 @@ language_codes:
 size:
   tokens: 129947
   sentences: 13422
-in_collections: false
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-2001.xml.bz2
     type: corpus
