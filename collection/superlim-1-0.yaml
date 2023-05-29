@@ -54,21 +54,21 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/absabank-imm" target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/absabank-imm-1-0" target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>
         <td>Label the sentiment that the author of a text expressed towards immigration on the 1--5 scale</td>
         <td>10-fold cross-validation, consecutive</td>
     <!--    <td>reformatted subset of the original dataset</td> -->
         <td><a href="#Absabank-original">[1]</a></td>
       </tr>
       <tr>
-      <td><a href="https://spraakbanken.gu.se/en/resources/dalaj">DaLAJ</a></td>
+      <td><a href="https://spraakbanken.gu.se/en/resources/dalaj-1-0">DaLAJ</a></td>
       <td>Determine whether a sentence is correct Swedish or not</td>
       <td>Hold-out</td>
     <!--	<td>new dataset</td> -->
       <td><a href="#DaLAJ">[2]</a></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/faq" target=”_blank”>Swedish FAQ (mismatched)</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/faq-1-0" target=”_blank”>Swedish FAQ (mismatched)</a></td>
         <td>Match the question with the answer within a category</td>
         <td>Test only</td>
     <!--    <td>new dataset</td> -->
@@ -76,14 +76,14 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/swesat-synonyms" target=”_blank”>SweSAT synonyms</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/swesat-synonyms-1-0" target=”_blank”>SweSAT synonyms</a></td>
         <td>Select the correct synonym or description of a word or expression</td>
         <td>Test only</td>
     <!--    <td>new dataset</td> -->
         <td></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/analogy" target=”_blank”>Swedish Analogy test set</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/analogy-1-0" target=”_blank”>Swedish Analogy test set</a></td>
         <td>Given two word pairs A:B and C:D, capture that the relation between A and B is the same as between C and D</td>
         <td>Test only</td>
     <!--    <td>= original dataset</td> -->
@@ -100,14 +100,14 @@ description:
         <td>Determine to what extent a given word has changed its meaning during a hundred year period</td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/swefracas">SweFraCas</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/swefracas-1-0">SweFraCas</a></td>
         <td>Given the question and the premises, choose the suitable answer</td>
         <td>Test only</td>
     <!--    <td>Liberal translation/Swedification of the English FraCas</td> -->
         <td></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/swewinograd">SweWinograd</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/swewinograd-1-0">SweWinograd</a></td>
         <td>Resolve pronouns to their antecedents in items constructed to require reasoning (Winograd Schemata)</td>
         <td>Test only</td>
     <!--    <td>Translation of/inspired by the Winograd data in SuperGLUE</td> -->
@@ -116,21 +116,21 @@ description:
 
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/swewinogender">SweWinogender</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/swewinogender-1-0">SweWinogender</a></td>
         <td>Find the correct antecedent of a personal pronoun, avoiding the gender bias</td>
         <td>Test only</td>
     <!--    <td>Partial translation of the English Winogender data</td> -->
         <td><a href="#Winogender">[5]</a></td>
         </tr>
         <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/swediagnostics" target=”_blank”>SweDiagnostics</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/swediagnostics-1-0" target=”_blank”>SweDiagnostics</a></td>
         <td>Determine the logical relation between the two sentences</td>
         <td>Test only</td>
     <!--    <td>Translation of the (Super)GLUE diagnostic dataset</td> -->
         <td></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/sweparaphrase" target=”_blank”>SweParaphrase</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/sweparaphrase-1-0" target=”_blank”>SweParaphrase</a></td>
         <td>Determine how similar two sentences are</td>
         <td>Test only</td>
     <!--    <td>Automatic translation of (Super)GLUE Semantic Textual Similarity Benchmark</td> -->
@@ -138,7 +138,7 @@ description:
       </tr>
 
       <tr>
-      <td><a href="https://spraakbanken.gu.se/en/resources/supersim-superlim">SuperSim</a></td>
+      <td><a href="https://spraakbanken.gu.se/en/resources/supersim-superlim-1-0">SuperSim</a></td>
       <td>Predict semantic word similarity and/or relatedness between words out of context.</td>
       <td>Test only</td>
     <!--	<td>= original dataset</td> -->
@@ -146,7 +146,7 @@ description:
       </tr>
 
       <tr>
-      <td><a href="https://spraakbanken.gu.se/en/resources/swewic">SweWiC</a></td>
+      <td><a href="https://spraakbanken.gu.se/en/resources/swewic-1-0">SweWiC</a></td>
       <td>Say if instances of a word in two contexts represent the same word sense.</td>
       <td>Test only</td>
     <!--	<td>newly constructed after English Word-in-Context design principles</td> -->
