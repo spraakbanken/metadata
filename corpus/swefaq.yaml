@@ -6,7 +6,7 @@ short_description:
   eng: Frequently asked questions from Swedish authorities' websites with shuffled answers
 type: corpus
 trainingdata: true
-unlisted: true
+unlisted: false
 successors: []
 language_codes:
   - swe
