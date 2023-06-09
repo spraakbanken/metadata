@@ -2,8 +2,8 @@ name:
   swe: Medeltidsbrev - Latin
   eng: Medieval letters - Latin
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Brev på latin, ur Svenskt Diplomatariums huvudkartotek (SDHK)'
+  eng: 'Charters written in Latin, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)'
 type: corpus
 trainingdata: false
 unlisted: false

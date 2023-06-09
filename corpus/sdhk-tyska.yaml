@@ -2,8 +2,8 @@ name:
   swe: Medeltidsbrev - Tyska
   eng: Medieval letters - German
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Brev på tyska, ur Svenskt Diplomatariums huvudkartotek (SDHK)'
+  eng: 'Charters written in German, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)'
 type: corpus
 trainingdata: false
 unlisted: false

@@ -2,8 +2,8 @@ name:
   swe: Medeltidsbrev - Övriga språk
   eng: Medieval letters - Other languages
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Brev på övriga språk, ur Svenskt Diplomatariums huvudkartotek (SDHK)'
+  eng: 'Charters written in other languages, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)'
 type: corpus
 trainingdata: false
 unlisted: false

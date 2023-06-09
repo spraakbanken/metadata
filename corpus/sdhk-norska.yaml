@@ -2,8 +2,8 @@ name:
   swe: Medeltidsbrev - Norska
   eng: Medieval letters - Norwegian
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Brev på norska, ur Svenskt Diplomatariums huvudkartotek (SDHK)'
+  eng: 'Charters written in Norwegian, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)'
 type: corpus
 trainingdata: false
 unlisted: false
