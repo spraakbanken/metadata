@@ -11,9 +11,15 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: 0
+  entries: 13803
 in_collections: []
-downloads: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/aventinus/aventinus.zip
+    type: lexicon
+    format: tsv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
 interface: []
 contact_info:
   name: Markus Forsberg
