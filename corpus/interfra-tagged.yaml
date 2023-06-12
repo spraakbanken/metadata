@@ -37,3 +37,54 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <h3>The InterFra project/h3>
+    <p>The goal of the <a href="http://www.su.se/romklass/interfra">The InterFra project</a> is to promote research in the field of French L2 second language acquisition in a developmental, interactional and variationist perspective. The HLP (High Level Proficiency in Second language use) project also investigates learners of other L2s such as Swedish, Spanish, English and Italian.</p>
+    <p>
+      <ul>
+      <li>
+        <a href='http://www.su.se/romklass/interfra/outline'>Outline</a>
+      </li>
+      <li>
+        <a href='http://www.su.se/romklass/interfra/brief-description-of-corpora'>Brief description of corpora</a>
+      </li>
+      <li>
+        <a href='http://www.su.se/romklass/interfra/team'>Team</a>
+      </li>
+      <li>
+        <a href='http://www.su.se/romklass/interfra/publications'>Publications</a>
+      </li>
+    </ul>
+    </p>
+
+    <h3>Downloadables</h3>
+    <p>
+      <ul>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/files.html">Transcription files and audio</a></li>
+          <li>InterFra 1B: <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/1b_txt.zip">text</a> <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/1b_audio.zip">audio</a></li>
+          <li>InterFra 2: <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/2_txt.zip">text</a> <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/2_audio.zip">audio</a></li>
+          <li>InterFra 1A: <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/1a_txt.zip">text</a> <a href="http://spraakbanken.gu.se/lb/resurser/interfra/zip/1a_audio.zip">audio</a><br>&nbsp;</li>
+
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Manual for Metadata In English.docx">Manual for Metadata In English.docx</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Shortlist Tagging In English.doc">Shortlist Tagging In English.doc</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/Transcription Principles In English.docx">Transcription Principles In English.docx</a><br>&nbsp;</li>
+
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(C) Erasmus Exchange Control Group.xls">(C) Erasmus Exchange Control Group.xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(D).xlsx">(D).xlsx</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(G) Secondary School Students.xls">(G) Secondary School Students.xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(J) (F) (K) (M).xls">(J) (F) (K) (M).xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(L) University Students.xls">(L) University Students.xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(N) Beginners.xls">(N) Beginners.xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(R) (Q) (S).xls">(R) (Q) (S).xls</a></li>
+          <li><a href="http://spraakbanken.gu.se/lb/resurser/interfra/metadata/(T) University Students.xls">(T) University Students.xls</a></li>
+      </ul>
+    </p>
+
+    <h3>For the use of the corpus</h3>
+    <p>
+    Publications reference: Researchers using this database are asked to acknowledge
+    the authors of the corpus (Inge Bartning and Fanny Forsberg Lundell) and the link
+    to InterFra at Språkbanken and Korp, <a href="https://spraakbanken.gu.se/swe/resurs/interfra">https://spraakbanken.gu.se/swe/resurs/interfra</a>, in any publication arising from their work.
+    </p>
