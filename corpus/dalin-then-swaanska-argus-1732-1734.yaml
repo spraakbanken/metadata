@@ -2,10 +2,8 @@ name:
   swe: 'Dalin: Then Swänska Argus 1732-1734'
   eng: 'Dalin: Then Swänska Argus 1732-1734'
 short_description:
-  swe: 'Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm,
-    1732–1734. För OCR analys. '
-  eng: 'Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734.
-    For OCR analysis. '
+  swe: 'Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. För OCR analys.'
+  eng: 'Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. For OCR analysis.'
 type: corpus
 trainingdata: true
 unlisted: false

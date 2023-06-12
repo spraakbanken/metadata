@@ -1,9 +1,9 @@
 name:
-  swe: 'Dalin: then swänska argus – Fornsvenska textbankens material'
-  eng: 'Dalin: then swänska argus – Fornsvenska textbankens material'
+  swe: Dalins Then Swänska Argus 1732-1734
+  eng: Dalin's Then Swänska Argus 1732-1734
 short_description:
-  swe: ''
-  eng: ''
+  swe: Fornsvenska textbankens digitalisering av Olof Dalins Thän Swänska Argus (1732–1734)
+  eng: Thän Swänska Argus (1732–1734) by Olof Dalins digitized by Fornsvenska textbanken
 type: corpus
 trainingdata: false
 unlisted: false
@@ -12,6 +12,7 @@ language_codes:
   - swe
 size:
   tokens: 260093
+  sentences: 10747
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2
@@ -30,3 +31,17 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>
+      Korpusen är <a href="http://project2.sol.lu.se/fornsvenska/navigationsgrejer/nysv_ram.html">Fornsvenska textbankens</a> digitalisering av Olof Dalins Thän Swänska Argus (1732–1734). Resursen är automatiskt annoterad med morfologisk och syntaktisk information.</p>
+    <p>
+      Det finns även en manuell transkription av denna korpus tillgänglig <a href="https://spraakbanken.gu.se/resurser/dalin-then-swaanska-argus-1732-1734">här</a>.
+    </p>
+  eng: |-
+    <p>
+      This corpus is the digitization by <a href="http://project2.sol.lu.se/fornsvenska/navigationsgrejer/nysv_ram.html">Fornsvenska textbankens</a> of Thän Swänska Argus (1732–1734) by Olof Dalin. The resource has been automatically annotated with morphological and syntactic information.
+    </p>
+    <p>
+      There is also a manual transcription of this corpus available <a href="https://spraakbanken.gu.se/en/resources/dalin-then-swaanska-argus-1732-1734">here</a>.
+    </p>
