@@ -12,7 +12,8 @@ type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
-language_codes: []
+language_codes:
+  - zbl
 size:
   entries: 5596
 in_collections: []
