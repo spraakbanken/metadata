@@ -8,13 +8,18 @@ type: corpus
 trainingdata: false
 unlisted: false
 successors: []
+collection: true
+resources:
+  - spinv1
+  - sw1203
+  - tisus
 language_codes:
   - swe
-size:
-  texts: 502
-in_collections: []
 downloads: []
-interface: []
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=spin-source,sw1203,tisus
+    licence: CC BY 4.0
+    restriction: attribution
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
