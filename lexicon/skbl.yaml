@@ -16,7 +16,7 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json
-    type: skbl.json
+    type: lexicon
     format: json
     info: ''
     licence: CC BY 4.0

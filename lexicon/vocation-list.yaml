@@ -15,7 +15,7 @@ size:
 in_collections: []
 downloads:
   - url: http://demo.spraakdata.gu.se/svedk/vocationTerms150120.utf.txt.gz
-    type: vocationTerms150120.utf.txt.gz
+    type: lexicon
     format: gz
     info: ''
     licence: CC BY 4.0

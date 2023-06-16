@@ -15,7 +15,7 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt
-    type: bring.txt
+    type: lexicon
     format: txt
     info: ''
     licence: CC BY 4.0

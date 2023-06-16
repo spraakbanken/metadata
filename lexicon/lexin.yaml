@@ -28,25 +28,16 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/pub/reskit/LEXIN.zip
-    type: LEXIN.zip
+    type: lexicon
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://spraakbanken.gu.se/lexin/
-    type: other
-    format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://spraakbanken.gu.se/lexin/
-    type: other
-    format: ''
     info: ''
     licence: CC BY 4.0
     restriction: attribution
 interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=lexin
+    licence: CC BY 4.0
+    restriction: attribution
+  - access: https://spraakbanken.gu.se/lexin/
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

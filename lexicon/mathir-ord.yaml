@@ -17,7 +17,7 @@ size:
 in_collections: []
 downloads:
   - url: https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_words_v1.0.tgz
-    type: mathir_words_v1.0.tgz
+    type: lexicon
     format: tgz
     info: ''
     licence: CC BY 4.0

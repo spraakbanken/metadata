@@ -16,13 +16,13 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip
-    type: sensaldo-v02.zip
+    type: lexicon
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip
-    type: sensaldo.zip
+    type: lexicon
     format: zip
     info: ''
     licence: CC BY 4.0
