@@ -1,14 +1,15 @@
 name:
-  swe: 'Detektiva avdelningen'
-  eng: 'Detective Department'  # Human readable name in English
+  swe: Detektiva avdelningen
+  eng: Detective Department
 short_description:
-  swe: '' Data från Detektiva avdelningen vid Göteborgs poliskammare, från slutet av 1800-talet till början av 1900-talet.
-  eng: 'Data from the Detective Department at the Gothenburg police, from late 1800s to early 1900s.'
+  swe: Data från Detektiva avdelningen vid Göteborgs poliskammare, från slutet av 1800-talet till början av 1900-talet.
+  eng: Data from the Detective Department at the Gothenburg police, from late 1800s to early 1900s.
 type: corpus
 trainingdata: false
 unlisted: false
 successors: []
-language_codes: [swe]
+language_codes:
+  - swe
 size:
   tokens: 0
   sentences: 0
@@ -17,14 +18,13 @@ downloads:
   - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/da/geocoords.txt'
     type: corpus
     format: tsv
-    info: 'geographical coordinates for Gothenburg addresses in 1888'
+    info: geographical coordinates for Gothenburg addresses in 1888
     licence: CC BY 4.0
     restriction: attribution
-downloads:
   - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/da/pixelcoords.txt'
     type: corpus
     format: tsv
-    info: 'pixel coordinates for addresses on Simon´s 1888 Gothenburg map'
+    info: pixel coordinates for addresses on Simon's 1888 Gothenburg map
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
@@ -34,5 +34,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |- <p>Projektet <i>Detektiva avdelningen</i> baseras på texter från Göteborgspolisen, från slutet av 1800-talet till början av 1900-talet. Texterna har transkriberats manuellt. Arbete pågår på Språkbanken med att vidareutveckla datan. Än så länge finns inte texterna här, men går att hitta hos <a href="https://riksarkivet.se/psidata/goteborgs-poliskammare">Riksarkivet</a>. En del av vårt projekt är att markera på en karta de platser som omnämns i texterna. Den adressdatan finns tillgänglig här, i två filer. Den ena filen innehåller geografiska koordinater, den andra koordinater i den <a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Simon%27s_1888_Gothenburg_map.jpg">kart-fil</a> vi har använt.</p>
-  eng: |- <p>The <i>Detective Department</i> project is based on texts from the Gothenburg police, from the late 1800s to the early 1900s. These texts have been transcribed manually. Work is in progress at Språkbanken to further develop this data. So far, the texts are not available here, but they can be found at <a href="https://riksarkivet.se/psidata/goteborgs-poliskammare">Riksarkivet</a>. One part of our project consists of finding on a map the places mentioned in the texts. This address data is available here, in two files. One file contains geographical coordinates, the other coordinates in the <a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Simon%27s_1888_Gothenburg_map.jpg">map file</a> we have used.</p>
+  swe: |-
+    <p>Projektet <i>Detektiva avdelningen</i> baseras på texter från Göteborgspolisen, från slutet av 1800-talet till början av 1900-talet. Texterna har transkriberats manuellt. Arbete pågår på Språkbanken med att vidareutveckla datan. Än så länge finns inte texterna här, men går att hitta hos <a href="https://riksarkivet.se/psidata/goteborgs-poliskammare">Riksarkivet</a>. En del av vårt projekt är att markera på en karta de platser som omnämns i texterna. Den adressdatan finns tillgänglig här, i två filer. Den ena filen innehåller geografiska koordinater, den andra koordinater i den <a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Simon%27s_1888_Gothenburg_map.jpg">kart-fil</a> vi har använt.</p>
+  eng: |-
+    <p>The <i>Detective Department</i> project is based on texts from the Gothenburg police, from the late 1800s to the early 1900s. These texts have been transcribed manually. Work is in progress at Språkbanken to further develop this data. So far, the texts are not available here, but they can be found at <a href="https://riksarkivet.se/psidata/goteborgs-poliskammare">Riksarkivet</a>. One part of our project consists of finding on a map the places mentioned in the texts. This address data is available here, in two files. One file contains geographical coordinates, the other coordinates in the <a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Simon%27s_1888_Gothenburg_map.jpg">map file</a> we have used.</p>
