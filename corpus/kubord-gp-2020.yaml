@@ -1,9 +1,9 @@
 name:
-  eng: Kubord - Word frequencies Göteborgsposten 2020
-  swe: Kubord - Ordfrekvenser Göteborgsposten 2020
+  eng: Kubord 1 - Word frequencies Göteborgsposten 2020
+  swe: Kubord 1 - Ordfrekvenser Göteborgsposten 2020
 short_description:
-  eng: Part of the collection Kubord
-  swe: Del av samlingen Kubord
+  eng: Part of the collection Kubord 1
+  swe: Del av samlingen Kubord 1
 type: corpus
 trainingdata: false
 unlisted: false
@@ -25,7 +25,7 @@ downloads:
 interface:
   - licence: CC BY 4.0
     restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord-gp-2020
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2020
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -1,0 +1,40 @@
+name:
+  eng: Kubord 2 - Word relations Aftonbladet 2019
+  swe: Kubord 2 - Ordrelationer Aftonbladet 2019
+short_description:
+  swe: Del av samlingen Kubord 2
+  eng: Part of the collection Kubord 2
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: 39024706
+  sentences: 365
+in_collections:
+  - kubord2
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-afb-2019.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord2-afb-2019
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: Kubord 2 är en uppdaterad version av Kubord och innehåller utöver ordfrekvenser
+    även ordrelationer från moderna tidningstexter från Kungliga biblioteket.
+  eng: Kubord 2 is an updated version of Kubord and contains both token frequencies
+    and word relations from modern newspaper texts from the The National Library of
+    Sweden.

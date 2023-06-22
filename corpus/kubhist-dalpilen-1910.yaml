@@ -1,9 +1,9 @@
 name:
-  swe: Dalpilen 1910-talet
-  eng: Dalpilen 1910's
+  eng: 'Kubhist: Dalpilen 1910''s'
+  swe: 'Kubhist: Dalpilen 1910-talet'
 short_description:
-  swe: Del av samlingen Kubhist
   eng: Part of the collection Kubhist
+  swe: Del av samlingen Kubhist
 type: corpus
 trainingdata: false
 unlisted: false
@@ -11,24 +11,45 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 24285154
-  sentences: 2590601
+  tokens: 25160282
+  sentences: 2594954
 in_collections:
   - kubhist
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
-    type: corpus
-    format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1910.txt
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
     type: token frequencies
     format: CSV
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-interface: []
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910-new.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains the corpus with updated annotations
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains an older version of the corpus which has the same format
+      as the remaining Kubhist corpora
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1910.txt
+    type: token frequencies
+    format: CSV
+    info: this file contains the token frequencies with updated annotations
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
+    type: token frequencies
+    format: CSV
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-dalpilen-1910
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

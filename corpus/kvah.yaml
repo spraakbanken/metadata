@@ -1,6 +1,6 @@
 name:
-  swe: KVAH
   eng: KVAH
+  swe: KVAH
 short_description:
   swe: Kungl. Vetenskapsakademiens Handlingar
   eng: Kungl. Vetenskapsakademiens Handlingar
@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 27878
-  sentences: 915
+  tokens: 97717
+  sentences: 6165
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kvah.xml.bz2
@@ -21,16 +21,16 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KVAH.txt
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kvah.csv
     type: token frequencies
     format: CSV
     info: ''
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=kvah
-    licence: CC BY 4.0
+  - licence: CC BY 4.0
     restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=all_hist#corpus=kvah
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -38,4 +38,5 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: 18 artiklar från kungliga vetenskapsakademiens handlingar. Alla artiklarna handlar om åkerbruk och gödsel. De är från 1740–1778.
+  swe: 18 artiklar från kungliga vetenskapsakademiens handlingar. Alla artiklarna
+    handlar om åkerbruk och gödsel. De är från 1740–1778.

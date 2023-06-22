@@ -1,9 +1,9 @@
 name:
-  eng: Kubord - Word frequencies Aftonbladet 2011
-  swe: Kubord - Ordfrekvenser Aftonbladet 2011
+  eng: Kubord 1 - Word frequencies Aftonbladet 2011
+  swe: Kubord 1 - Ordfrekvenser Aftonbladet 2011
 short_description:
-  eng: Part of the collection Kubord
-  swe: Del av samlingen Kubord
+  eng: Part of the collection Kubord 1
+  swe: Del av samlingen Kubord 1
 type: corpus
 trainingdata: false
 unlisted: false
@@ -25,7 +25,7 @@ downloads:
 interface:
   - licence: CC BY 4.0
     restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord-afb-2011
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-afb-2011
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

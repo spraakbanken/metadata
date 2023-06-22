@@ -1,9 +1,9 @@
 name:
-  eng: Kubord - Word frequencies Expressen 2013
-  swe: Kubord - Ordfrekvenser Expressen 2013
+  eng: Kubord 1 - Word frequencies Expressen 2013
+  swe: Kubord 1 - Ordfrekvenser Expressen 2013
 short_description:
-  eng: Part of the collection Kubord
-  swe: Del av samlingen Kubord
+  eng: Part of the collection Kubord 1
+  swe: Del av samlingen Kubord 1
 type: corpus
 trainingdata: false
 unlisted: false
@@ -25,7 +25,7 @@ downloads:
 interface:
   - licence: CC BY 4.0
     restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord-exp-2013
+    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-exp-2013
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

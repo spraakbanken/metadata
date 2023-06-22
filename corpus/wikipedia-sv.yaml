@@ -1,9 +1,9 @@
 name:
-  swe: Svenska Wikipedia
-  eng: Swedish Wikipedia
+  swe: Svenska Wikipedia (april 2022)
+  eng: Swedish Wikipedia (april 2022)
 short_description:
-  swe: Korpus av svenskspråkiga Wikipedia
-  eng: Corpus of Swedish Wikipedia
+  swe: Samtliga artikar från svenska Wikipedia. Uppdateras regelbundet.
+  eng: All articles from the Swedish Wikipedia. Updated regularly.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -11,26 +11,26 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 370211509
-  sentences: 29471436
+  tokens: 190149497
+  sentences: 12346636
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wikipedia-sv.xml.bz2
     type: corpus
     format: XML
-    info: ''
+    info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SV.txt
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_wikipedia-sv.csv
     type: token frequencies
     format: CSV
     info: ''
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=wikipedia-sv
-    licence: CC BY 4.0
+  - licence: CC BY 4.0
     restriction: attribution
+    access: https://spraakbanken.gu.se/korp/#?corpus=wikipedia-sv
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

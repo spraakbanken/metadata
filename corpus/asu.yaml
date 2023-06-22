@@ -22,14 +22,12 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=asu
-    licence: CC BY 4.0
+  - licence: CC BY 4.0
     restriction: attribution
-references:
-  - http://su.diva-portal.org/smash/get/diva2:778204/FULLTEXT01.pdf
+    access: https://spraakbanken.gu.se/korp/#?corpus=asu
 contact_info:
-  name: Björn Hammarberg
-  email: ham@ling.su.se
+  name: Niclas Abrahamsson
+  email: niclas.abrahamsson@biling.su.se
   affiliation:
     organisation: Institutionen för lingvistik, Stockholms universitet
     email: exp@ling.su.se
