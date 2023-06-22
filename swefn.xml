@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
     <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
-    <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This part of the resource contains the frames and the manually annotated semantic content. </description>
-    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt annoterade semantiska innehållet. </description>
+    <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet</description>
+    <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet</description>
     <resourceShortName lang="eng">swefn</resourceShortName>
     <resourceShortName lang="swe">swefn</resourceShortName>
     <metaShareId/>
@@ -22,8 +22,14 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/karp/</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/#?mode=DEFAULT&amp;resources=swefn</executionLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
