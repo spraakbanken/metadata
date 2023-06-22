@@ -3,11 +3,10 @@ name:
   eng: Swedish FrameNet (SweFN)
 short_description:
   swe: 'En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley
-    FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt
-    annoterade semantiska innehållet. '
+    FrameNet. Denna resurs är fullständig i den bemärkelse att den innehåller både
+    det semantiska och det syntaktiska innehållet.'
   eng: 'A lexical semantic resource based on the same principles as the English Berkeley
-    FrameNet. This part of the resource contains the frames and the manually annotated
-    semantic content. '
+    FrameNet.'
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -16,6 +15,7 @@ language_codes:
   - swe
 size:
   entries: 1195
+  Semantic Frames: 1195
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml
@@ -24,13 +24,316 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip
+    type: lexicon
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
 interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=swefn
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
-  name: Markus Forsberg
+  name: Dana Dannélls
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    The file <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml">swefn.xml</a> contains the frames and the manually annotated semantic content.
+    
+    The file <a href="https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip">swefn-full.zip</a> is the complete resource containing both the semantic and the syntactic content.
+
+    The SweFN corpus examples can be downloaded <a href="https://spraakbanken.gu.se/en/resources/swefn-ex">here</a>.
+
+    <table style="width:100%">
+    <tr>
+    <td>I. IDENTIFYING INFORMATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Title*</td>
+    <td>Swedish FrameNet v1.0
+    </td>
+    </tr>
+    <tr>
+    <td>Subtitle</td>
+    <td> Swedish FrameNet for describing and documenting Swedish lexical entries, containing sentences annotated manually with semantic information and automatically with morphosyntactic information.
+    </td>
+    </tr>
+    <tr>
+    <td>Created by*</td>
+    <td>Dana Dannélls (dana.dannells@svenska.gu.se), Maria Toporowska Gronostaj, Karin Friberg Heppin, and others.
+    </td>
+    </tr>
+    <tr>
+    <td>Publisher(s)*</td>
+    <td>Språkbanken Text (sb-info@svenska.gu.se)
+    </td>
+    </tr>
+    <tr>
+    <td>Link(s) / permanent identifier(s)*</td>
+    <td>https://spraakbanken.gu.se/en/resources/swefn-full
+    </td>
+    </tr>
+    <tr>
+    <td>License(s)*</td>
+    <td>CC BY 4.0
+    </td>
+    </tr>
+    <tr>
+    <td>Abstract*</td>
+    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5. In SweFN sentences are annotated manually with semantic information and automatically with morphosyntactic annotations. The resource contains 1,195 semantic frames, 39,212 lexical units linked to Saldo and 9,020 semantically and syntactically annotated sentences.
+    </td>
+    </tr>
+    <tr>
+    <td>Funded by*</td>
+    <td>The Swedish Research Council (grant no. 2010–06013) and several other <a href=" https://spraakbanken.gu.se/forskning/teman/swedish-framenet-plus-plus/bidragande-projekt">contributing projects</a>
+    </td>
+    </tr>
+    <tr>
+    <td>Cite as</td>
+    <td> [1], [2]
+    </td>
+    </tr>
+    <tr>
+    <td>Related datasets</td>
+    <td>SweFN has links to several lexical resources at Språkbanken Text: <a href="https://spraakbanken.gu.se/en/resources/dalin">Dalin</a>, <a href="https://spraakbanken.gu.se/en/resources/lwt">Loan Word Typology list</a>, <a href="https://spraakbanken.gu.se/en/resources/parolelexplus">Parole+</a>, <a href="https://spraakbanken.gu.se/en/resources/saldo">Saldo</a>, <a href="https://spraakbanken.gu.se/en/resources/simpleplus">Simple+</a>, <a href="https://spraakbanken.gu.se/en/resources/swesaurus">Swesaurus</a>.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>II. USAGE</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Key applications</td>
+    <td>Information retrieval, Machine translation, Natural language generation, Question answering, Semantic role labeling, Text classification, Textual entailment, Word sense disambiguation.
+    </td>
+    </tr>
+    <tr>
+    <td>Intended task(s)/usage(s)</td>
+    <td>Train and evaluate machine learning models, develop semantic role labeling systems.
+    </td>
+    </tr>
+    <tr>
+    <td>Recommended evaluation measures</td>
+    <td>Precision, Recall, F-score
+    </td>
+    </tr>
+    <tr>
+    <td>Dataset function(s)</td>
+    <td>Training, testing, development
+    </td>
+    </tr>
+    <tr>
+    <td>Recommended split(s)</td>
+    <td>10-fold cross-validation.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>III. DATA</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Primary data*</td>
+    <td>Text
+    </td>
+    </tr>
+    <tr>
+    <td>Language*</td>
+    <td>Swedish
+    </td>
+    </tr>
+    <tr>
+    <td>Dataset in numbers*</td>
+    <td>1,195 Frames, 39,210 Lexical Units and 9,020 semantically and syntactically annotated sentences.
+    </td>
+    </tr>
+    <tr>
+    <td>Nature of the content*</td>
+    <td>
+      Similarly to the Berkeley FrameNet, the Swedish FrameNet is build around semantic frames for describing and documenting Swedish lexical entries. It contains frame elements (FE) and lexical units (LU). A semantic frame represents factual information about concepts and situations in our world through frame elements. LU are words or multiword expressions are defined as a pairing of a word with a sense. They analyzed with frame elements and are documented with their syntactic relations with help av example sentences.
+    <br>
+      Swedish FrameNet contains several layers of annotations, divided into two xml files: (1) one containing information about the semantic properties of the LUs and the semantic analysis of the sentences in which they appear. That is the manual annotation. (2) one containing information about the frame, frame elements, domain, lexical units and the linguistic analysis automatically processed in Sprav pipeline, including the syntactic structure of each sentence, the morphological and other lexical descriptions (sense,sentiment score) of the lexical units.
+    </td>
+    </tr>
+    <tr>
+    <td>Format*</td>
+    <td>The format of both files (semantic and morphosyntatic annotations) are in XML. There are 20 data fields specified in the semantic file 'swefn.xml':
+    1.  The name of the frame,
+    2. Definition,
+    3. Core elements,
+    4. Peripheral elements,
+    5. SweCxn ID,
+    6. Semantic type,
+    7. Example sentences,
+    8. Compound patterns,
+    9. Compound examples,
+    10. Lexical units (LUs),
+    11. Suggestions for LUs,
+    12. Regular polysemy,
+    13. Domain,
+    14. Inheritance,
+    15. Berkeley Frame ID,
+    16. Berkeley LUs,
+    17. Created by,
+    18. Comment,
+    19. Status,
+    20. Modification date.
+    </td>
+    </tr>
+    <tr>
+    <td>Data source(s)*</td>
+    <td>Sentences in SweFN have been extracted from the Web and from corpus examples. They have been annotated with manually with semantic information and automatically with morphosyntactic information using Sparv v4.1. Lexical units have been linked to Saldo v2.3 using Karp editing interface.
+    </td>
+    </tr>
+    <tr>
+    <td>Data collection method(s)*</td>
+    <td>Sentences and lexical units have been extracted manually and semi-automatically. Frames in SweFN have been developed by taking two approaches: extension and merging.
+    </td>
+    </tr>
+    <tr>
+    <td>Data selection and filtering*</td>
+    <td>
+      As a result of the collection methods of frames, there are 59 frames in SweFN that do not have an exact match in BFN. Out of these, 20 are modified versions of BFN frames, revised mainly by splitting the original English frames into more specific ones [5].
+    </td>
+    </tr>
+    <tr>
+    <td>Data preprocessing*</td>
+    <td>
+      The majority of sentences have been annotated through Karp's editing interface. Some sentences may have been shortened. Each of the data files has been preprocessed seperatly, one in Karp v5 and one in Sparv v4.1.
+    </td>
+    </tr>
+    <tr>
+    <td>Data labeling*</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Annotator characteristics</td>
+    <td>Approximately 10 annotators have been involved in the semantic annotation work. Some had background in linguistics, some in computational linguistics and a few in lexicography. All annotators had at least undergraduate degree.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>IV. ETHICS AND CAVEATS</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Ethical considerations</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Things to watch out for</td>
+    <td> All frames are linked to Berkely FrameNet v1.7.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>V. ABOUT DOCUMENTATION</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Data last updated*</td>
+    <td>2021-12-21, v1.0
+    </td>
+    </tr>
+    <tr>
+    <td>Which changes have been made, compared to the previous version*</td>
+    <td>This is the first official version.
+    </td>
+    </tr>
+    <tr>
+    <td>Access to previous versions</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>This document created*</td>
+    <td>2021-12-21, Dana Dannélls
+    </td>
+    </tr>
+    <tr>
+    <td>This document last updated*</td>
+    <td>2021-12-21, Dana Dannélls
+    </td>
+    </tr>
+    <tr>
+    <td>Where to look for further details</td>
+    <td>[1], [2]
+    </td>
+    </tr>
+    <tr>
+    <td>Documentation template version*</td>
+    <td>v1.0
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>VI. OTHER</td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>Related projects</td>
+    <td> See complete list of <a href="https://spraakbanken.gu.se/en/research/themes/swedish-framenet-plus-plus/contributing-projects">contributing projects</a>.
+    </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>
+    </td>
+    </tr>
+    <tr>
+    <td>References</td>
+    <td>[1] Dana Dannélls, Lars Borin, Markus Forsberg, Karin Friberg Heppin, Maria Toporowska Gronostaj (2021): Swedish FrameNet. The Swedish FrameNet++. Harmonization, integration, method development and practical language technology applications, pages 37--66.
+      <br> [2] Dana Dannélls, Lars Borin, Karin Friberg Heppin (2021): The Swedish FrameNet++ Harmonization, integration, method development and practical language technology applications. John Benjamins: Amsterdam, Philadelphia. ISBN 978 90 272 5848 9.
+      <br> [3] Dana Dannélls, Karin Friberg Heppin, Anna Ehrlemark (2014): Using language technology resources and tools to construct Swedish FrameNet. In Proceedings of the Workshop on Lexical and Grammatical Resources for Language Processing, pages 8--17, Dublin: ACL.
+      <br> [4] Karin Friberg Heppin, Miriam R.L. Petruck (2014): Encoding of Compounds in Swedish FrameNet. In Proceedings of the 10th Workshop on Multiword Expressions (MWE 2014) Workshop at EACL 2014 (Gothenburg, Sweden). Association for Computational Linguistics, pages 67--71, Gothenburg: ACL.
+      <br> [5] Friberg Heppin, Karin & Maria Toporowska Gronostaj (2014). Exploiting FrameNet for Swedish: Mismatch? Constructions and Frames 6(1): 52–72.
+       <br> [6] Karin Friberg Heppin (2013): Search using semantic FrameNet frames as variables. In Proceedings of Sixth Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR 2013), held at CIKM 2013 in San Francisco, pages 25--28.
+       <br> [7] Kaarlo Voionmaa, Karin Friberg Heppin (2013): Use of support verbs in FrameNet annotations. In Electronic lexicography in the 21st century: thinking outside the paper. Proceedings of the eLex 2013 conference, Tallinn, Estonia.
+        <br> [8] Richard Johansson, Karin Friberg Heppin, Dimitrios Kokkinakis (2012): Semantic Role Labeling with the Swedish FrameNet. In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12); Istanbul, Turkey, pages 3697--3700.
+        <br> [9] Dana Dannélls, Lars Borin (2012): Toward language independent methodology for generating artwork descriptions – Exploring FrameNet information. In EACL 2012 workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH), pages 18–23. Avignon: ACL.
+         <br> [10] Karin Friberg Heppin, Kaarlo Voionmaa (2012): Practical aspects of transferring the English Berkeley FrameNet to other languages. In Proceedings of SLTC 2012, 28–29. Lund: Lund University.
+         <br> [11] Dimitrios Kokkinakis (2012): Initial Experiments of Medication Event Extraction Using Frame Semantics. In Scandinavian Conference on Health Informatics (SHI), volym Linköping Electronic Conference Proceedings, pages 41--47. Linköping: LiUEP.
+         <br> [12] Richard Johansson (2012): Non-atomic Classification to Improve a Semantic Role Labeler for a Low-resource Language. In Proceedings of the First Joint Conference on Lexical and Computational Semantics (*SEM), Montréal, Canada, pages 95--99.
+         <br> [13] Lyngfelt, Benjamin, Lars Borin, Markus Forsberg, Julia Prentice, Rudolf Rydstedt, Emma Sköldberg & Sofia Tingsell. 2012. Adding a constructicon to the Swedish resource network of Språkbanken. In Proceedings of KONVENS 2012 (LexSem 2012 workshop), 452–461. Vienna: ÖGAI.
+          <br> [14] Lars Borin, Markus Forsberg, Richard Johansson, Kristiina Muhonen, Tanja Purtonen, Kaarlo Voionmaa (2012): Transferring Frames: Utilization of Linked Lexical Resources. In Proceedings of the Workshop on Inducing Linguistic Structure Submission (WILS), pages 8--15. Montrèal: ACL.
+          <br> [15] Dimitrios Kokkinakis, Maria Toporowska Gronostaj (2010): Linking SweFN++ with Medical Resources, towards a MedFrameNet for Swedish. In Proceedings of Louhi at NAACL-HLT 2010, pages 68–71. Los Angeles: ACL.
+           <br> [16] Dana Dannélls (2010): Applying semantic frame theory to automate natural language templates generation from ontology statements. In Proceedings of INLG 2010, 179–184. Dublin: ACL.
+           <br> [17] Lars Borin, Dana Dannélls, Markus Forsberg, Maria Toporowska Gronostaj, Dimitrios Kokkinakis (2009): Thinking Green: Toward Swedish FrameNet++. Presentation at the FrameNet Masterclass and Workshop in connection with TLT 2009. Milan.
+    </td>
+    </tr>
+    </table>
