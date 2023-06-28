@@ -33,7 +33,25 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-alandstidningen.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Ålandstidningen 2012
+    </p>
+    -->
+
+    <p>
+    Ålandstidningen (http://www.alandstidningen.ax/) är en regional svenskspråkig dagstidning på Åland. Tidningen har grundades 1891 och utkommer sex dagar i veckan.
+    </p>
+
+
+    </html>
   eng: ''

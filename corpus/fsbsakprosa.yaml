@@ -36,7 +36,71 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-sakprosa_2006_2013.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+
+    <!--
+    <p>
+    Sakprosa 2006–2013
+    </p>
+    -->
+
+    <p>
+    Samlingen innehåller sakprosa utgiven av förlagen Artos förlag, Fontana Media, Förlaget Scriptum, Gidlunds förlag, Svenska litteratursällskapet i Finland, Söderströms förlag, Tankesmedjan Magma samt av Åbo Akademi. Författarna till verken är finlandssvenska.
+    </p>
+
+    <p>
+    Dessa verk ingår i samlingen:
+    </p>
+
+
+    <p>
+    <ul>
+    <li>"Enligt vårt förmenande", Ahlberg, Brandt, Djupsjöbacka, Häyry, Jakobsson, Norrback, Öling, 2012</li>
+    <li>Affärer eller business?, Barner-Rasmussen Wilhelm, 2011</li>
+    <li>Enligt lika grunder (Magma-studie), Björkstrand Gustav, 2012</li>
+    <li>Via svenskan, Creutz Karin, Helander Mika, 2012</li>
+    <li>Den obligatoriska svenskan i Finland, Geber Erik, 2010</li>
+    <li>10115 Berlin, Forsgård Nils Erik, 2005</li>
+    <li>Heartlands. Anteckningar från en resa genom USA, Forsgård Nils Erik, 2008</li>
+    <li>Om kristet motstånd, Hagman Patrik, 2011</li>
+    <li>Efter folkkyrkan, Hagman Patrik, 2013</li>
+    <li>En- eller tvåspråkiga lösningar, Henriksson Linnéa, 2011</li>
+    <li>Finlands okända historia, Holmén Janne, 2009</li>
+    <li>Svenskan på plats, Höckerstedt Leif, 2010</li>
+    <li>Kommunreformens konsekvenser för församlingarna, Klemets Bengt, 2010</li>
+    <li>På drömmarnas marknad. Ikoner, fantasibilder och klichéer i populärkulturen, Klinkmann Sven-Erik, 2006</li>
+    <li>Från Wantons till Wild Force. Nya sound i en gränsstad, Klinkmann Sven-Erik, 2010</li>
+    <li>I fänrikarnas, martallarnas och dixietigrarnas land. En resa genom det svenska i Finland, Klinkmann Sven-Erik, 2011</li>
+    <li>Från Lexå till Glitterscenen, Korsström Tuva, 2013</li>
+    <li>På spaning efter den nya finlandssvenska identiteten, Kovero Camilla, 2012</li>
+    <li>Den entusiastiske ingenjören Professor Lennart Forsens historia, Lindfors Lars-Eric, 2007</li>
+    <li>Finlands historia. Linjer, strukturer, vändpunkter, Meinander Henrik, 2006</li>
+    <li>Kekkografi och andra historiska spånor, Meinander Henrik, 2008</li>
+    <li>Finland 1944. Krig, samhälle, känslolandskap, Meinander Henrik, 2009</li>
+    <li>Det sammanhållande kittet, Moring Tom, Godenhjelm Sebastian, 2010</li>
+    <li>Svenskans ställning i metropolen, Mustajoki Marianne, 2009</li>
+    <li>Svenskan på offensiven eller på intensiven, Myntti Kenneth, 2010</li>
+    <li>Överlevnadsstrategier för minoritetsmedier, Olkinuora Hannu, Ingves Marit, Markelin Lia, 2012</li>
+    <li>Invandringens samhällsekonomiska konsekvenser, Saarela Jan, 2011</li>
+    <li>Varför irriterar finlandssvenskar?, Saukkonen Pasi (Johanna Westman), 2011</li>
+    <li>Borgå 1809. Ceremoni och fest, Tandefelt Henrika, 2009</li>
+    <li>Sarvlax. Hemgårdshistoria under 600 år, Tandefelt Henrika (red.), 2010</li>
+    <li>Svenskans ställning i Finland, Tankesmedjan Magma, 2008</li>
+    <li>Det svenska i Finland 2030, Tankesmedjan Magma, 2010</li>
+    <li>Religionens återkomst, Tankesmedjan Magma, 2010</li>
+    <li>Folkkyrka i en postmodern tid. Tjänsteproducent i välfärdssamhället eller engagerande gemenskap?, Vikström Björn, 2008</li>
+    <li>Språket på agendan i metropolen, Westman Johanna, 2011</li>
+    </ul>
+    </p>
+
+
+    </html>
   eng: ''

@@ -38,9 +38,27 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_swe.html}
+  swe: |-
+    <p>
+    Urvalet av bloggar för bloggmixen görs med hjälp av topplistorna på <a href="http://www.bloggportalen.se">bloggportalen.se</a>, både <i>Mest besökta privata bloggar</i>, <i>Mest besökta proffsbloggar</i> och de lokala topplistorna för olika regioner.
+    </p>
 
-    '
-  eng: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/bloggmix_eng.html}
+    <p>
+    Närmare information, som bloggarens ort och ålder, hämtas också från Bloggportalen. Materialet har inte kontrollerats manuellt, vilket betyder att det kan förekomma spam. Några engelskspråkiga bloggar har plockats bort då de upptäckts, och vissa bloggar har inte kunnat läsas in av tekniska skäl.
+    </p>
 
-    '
+    <p>
+    Tidsperioden sträcker sig från de första inläggen i de utvalda bloggarna till de senaste inläggen. Korpusen uppdateras regelbundet.
+    </p>
+  eng: |-
+    <p>
+    The blogs in the blogmix are selected through the lists <i>Most visited private  blogs</i>, <i>Most visited professional blogs</i>, and the local lists for different regions, at <a href="http://www.bloggportalen.se">bloggportalen.se</a>.
+    </p>
+
+    <p>
+    More information, such as the location and age of the blogger is also retrieved from Bloggportalen. The material has not been manually checked, which means that spam may occur. Some English blogs have been removed when discovered, and some blogs have not been added for technical reasons.
+    </p>
+
+    <p>
+    The time of the blogs ranges from the first to the latest entries of the selected blogs, and the corpus is continually updated.
+    </p>

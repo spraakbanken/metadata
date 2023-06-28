@@ -36,7 +36,48 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-essaistik.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Essäistisk litteratur 1963-2010
+    </p>
+    -->
+
+    <p>
+    Samlingen innehåller essäistisk litteratur utgiven av förlagen Schildts och Söderströms förlag och av Söderströms förlag. Författarna till verken är finlandssvenska.
+    </p>
+
+
+    <p>
+    Dessa verk ingår i samlingen:
+    </p>
+
+    <p>
+    Öppningen i taket, Enckell Mikael, 1997
+    Om konsten att älska skriften, Enckell Mikael, 2009
+    September 1808, Forsg�rd Nils Erik, 2008
+    Där man aldrig är ensam, Mazzarella Merete, 1999
+    Hem från festen, Mazzarella Merete, 1992
+    Resa med rabatt. Om konsten att vara pensionär, Mazzarella Merete, 2010
+    Levande och död tradition, Salminen Johannes, 1963
+    Middagsdemonerna, Salminen Johannes, 1975
+    Gr�nsland, Salminen Johannes, 1984
+    Undret i Bagdad, Salminen Johannes, 1997
+    Islams två ansikten, Salminen Johannes, 2010
+    Sofia vuxen - med sitt MBD, Tikkanen Märta, 1998
+    Hungrig. En bok om ätstörningar och Föräldraskap, Torvalds Sofia, 2013
+    Pianostämmarens dotter, Zilliacus Jutta, 2007
+    Frihetets frö, Östman Catharina, 2006
+    </p>
+
+
+    </html>
   eng: ''

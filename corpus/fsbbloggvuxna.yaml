@@ -33,7 +33,47 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-bloggtexter.html}
+  swe: |-
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+    <HTML><HEAD>
+    <META content="text/html; charset=utf-8" http-equiv=Content-Type>
+    <META name=GENERATOR content="MSHTML 9.00.8112.16526"></HEAD>
+    <BODY>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <P>Bloggtexter 2006-2013 </P>
+    -->
+    <P>Samlingen med bloggtexter i det finlandssvenska materialet består av samtliga
+    texter från den angivna tiden ur ett urval bloggar. Ämnesvalet i bloggarna är
+    varierande, bland annat sport, matlagning och bakning, livsstil, litteratur samt
+    inredning. Bloggskribenterna är finlandssvenska. </P>
+    <P>Dessa bloggar ingår i samlingen: </P>
+    <P>
+    <ul>
+    <li>Andrea Reuters blogg (http://andreareuter.blogspot.fi), 29.8.2006–10.3.2011</li>
+    <li>Andrea Reuters äventyr i Berlin (http://metrobloggen.se/andreareuter), 22.9.2008–13.1.2009 </li>
+    <li>Arbisbloggen (www.arbis.ratata.fi), 27.4.2011–31.12.2012 </li>
+    <li>Baka baka liten kaka (http://bakalitenkaka-tove.blogspot.com), 21.4.2008–31.12.2011 </li>
+    <li>Birgitta Marias blogg (http://bmstorgards.blogspot.fi), 6.10.2010–31.12.2013 </li>
+    <li>Dolor temporalis, gloria aeterna (http://rara-sara.blogspot.com), 21.4.2010–31.12.2011 </li>
+    <li Drömmar, fantasier och galenskap (http://turtschaninoff.blogspot.fi) 24.3.2010–31.12.2012 </li>
+    <li>En blogg som är liten och beige (http://kaj.ratata.fi), 19.4.2012–24.1.2012 </li>
+    <li>En gul apelsin (http://engulapelsin.blogspot.com), 11.2.2010–31.12.2011 </li>
+    <li>För att jag kan (http://jannegronroos.com), 20.9.2009–31.12.2011 </li>
+    <li>Författarens kattrealism (www.kattrealism.blogspot.com), 19.9.2011–31.12.2012 </li>
+    <li>Hannas virrvarr (http://hannasvirrvarr.blogspot.com), 3.5.2008–31.12.2011 </li>
+    <li>Linas blogg om träning, kitesurfing och fysioterapi (http://linabjorkskog.com), 1.12.2010–31.12.2012 </li>
+    <li>Nettis (http://bloggen.fi/netti), 1.6.2010–31.1.2011 </li>
+    <li>Medelmåttan Malin (http://malin.granberg.fi), 2.8.2010–31.12.2011 </li>
+    <li>Tidstjuven (http://tidstjuven.blogg.se), 6.3.2011–31.12.2012 </li>
+    <li>Topeliorden en död poets sällskap (http://www.topelius.ratata.fi), 1.5–30.6.2011 </li>
+    <li>Välkommen hem (http://blogg.vasabladet.fi/inredning), 3.6.2011–31.12.2012 </li>
+    </ul>
+    </P></BODY></HTML>
   eng: ''

@@ -33,7 +33,24 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-finsktidskrift.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Finsk tidskrift 2011–2012
+    </p>
+    -->
+
+    <p>
+    Finsk Tidskrift (http://www.abo.fi/public/finsktidskrift) är en tidskrift som strävar efter ingående reflektion inom ett brett område och vill ge djupare historisk, politisk och kulturell förståelse av den aktuella samtidsdebatten. Finsk Tidskrift är Nordens äldsta tidskrift, grundad 1875. Tidskriften utkommer med 18 nummer per år.
+    </p>
+
+    </html>
   eng: ''

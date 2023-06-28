@@ -29,10 +29,140 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-bara.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-pub.html}
+    <hr/>
+    <table>
+    <tr>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <p style="text-align: center; font-size: 115%">1902</p></td>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <p style="text-align: center; font-size: 115%">1930</p></td>
+    </tr>
+    </table>
+    <hr/>
+    <h2>Förordet till Sven Casper Brings <i>Svenskt ordförråd ordnat i begreppsklasser</i> (1930)</h2>
+    <p>Denna ordlista är en efterbildning av P. M. Rogets »Thesaurus of
+    English Words and Phrases». En sådan ordlista kan betraktas som ett
+    slags synonymlexikon. Men i varje begreppsklass sammanföras icke blott
+    egentliga synonymer, utan ord av alla slag, vilka utgöra det
+    huvudsakligaste ordförråd, som plägar komma till användning vid tal om
+    sådana ämnen, som kunna hänföras under klassbegreppet, fattat i
+    vidsträckt bemärkelse.</p>
+
+    <p>Vad Rogets klassificeringssystem angår, kan det ligga nära att
+    ifrågasätta både sammanslagning och uppdelning av åtskilliga
+    klasser. Men denna klassificering synes hava vunnit hävd genom många
+    upplagor av Rogets verk och genom tyska efterbildningar därav. Det
+    torde även få anses såsom en fördel att i dylika ordlistor använda
+    samma klassificering i olika språk.</p>
+
+    <p align="left">Uppsala i September 1930.</p>
+    <p align="right"><i>S. C. Bring</i></p>
+    <hr/>
+
+
+    <h2>Digitala Bring</h2>
+    <p>I början av 1990-talet efter att ha använt Bring under ett antal år
+    för olika typer av semantisk analys, påbörjade Jens Allwood vid
+    dåvarande institutionen för lingvistik, Göteborgs universitet, ett
+    samarbete med Samhall för digitalisering av Bring. Samhall skannade
+    ordboken och efter en manuell korrektion av OCR-fel blev den första
+    digitala versionen av Bring tillgänglig i form av en relationsdatabas
+    och som textfiler.</p>
+
+    <p>Arbetet med den digitala versionen återupptogs 2011, då Språkbanken
+    åtog sig att tillgängliggöra Bring under en öppen licens och att
+    införliva den i sin integrerade lexikonresurs för svensk
+    språkteknologi. Som en bieffekt av det arbetet (utfört av Lars Borin)
+    har i storleksordningen 1000 kvarvarande OCR-fel kunnat
+    korrigeras. Bring är nu delvis länkad till Språkbankens andra
+    lexikonresurser via SALDO-ordbetydelse-ID:n. Denna länkning
+    tillgängliggörs i form av en separat resurs, Blingbring, som är under
+    fortsatt utveckling.</p>
+
+    <p>Den resurs som beskrivs på denna sida &ndash; Bring version 1.1
+    &ndash; utgör en komplett digital version av det ursprungliga
+    innehållet i Brings <i>Svenskt ordförråd ordnat i begreppsklasser</i>
+    (1930), utan några förändringar eller tillägg, med undantag för att
+    Bringklasserna har försetts med länkar till sina motsvarigheter i
+    Rogets tesaurus. Bring kan användas under
+    licensen <a href="https://creativecommons.org/licenses/by/4.0/">Creative
+    Commons Attribution (CC BY) 4.0 International</a></p>
+    <p style="text-align: right;"><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY"/></a></p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 217351}</li>
+    <li>{publication 198549}</li>
+    </ol>
   eng: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam-eng.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-bara-eng.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-pub.html}
+    <hr/>
+    <table>
+    <tr>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <p style="text-align: center; font-size: 115%">1902</p></td>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <p style="text-align: center; font-size: 115%">1930</p></td>
+    </td>
+    </tr>
+    </table>
+    <hr/>
+    <h2>The preface of Sven Casper Bring's <i>Svenskt ordförråd ordnat i begreppsklasser</i> [The Swedish vocabulary arranged into conceptual classes](1930)</h2>
+    <p>This wordlist has been modelled on P. M. Roget's »Thesaurus of
+    English Words and Phrases». This kind of wordlist can be seen as a
+    synonym dictionary of sorts. But each conceptual class comprises not only
+    synonyms, but words of all kinds which are habitually used in discoursing on
+    the kind of topics which could be subsumed under the class label concept, understood in
+    a wide sense.</p>
+
+    <p>Regarding Roget's classification system, there are arguably a
+    number of classes which ought to be merged or split. But this
+    classification seems to have established itself solidly through many
+    editions of Roget's work as well as German copies of it. It should
+    also be considered an advantage that the same classification is used
+    in such dictionaries for different languages.</p>
+
+    <p align="left">Uppsala in September 1930.</p>
+    <p align="right"><i>S. C. Bring</i></p>
+    <hr/>
+
+
+    <h2>A digital version of Bring</h2>
+    <p>In the early 1990s, after having used Bring for several years in
+    doing various kinds of semantic analysis, Jens Allwood (then
+    Department of Linguistics, University of Gothenburg) made an agreement
+    with Samhall (a Swedish labor market organization that employed
+    persons with a handicap) for a collaborative project, in which Samhall
+    would scan Bring, so that it would be available electronically. After
+    checking the scanned version to correct OCR errors, it became
+    available in 1997, as a relational database file and in raw text
+    format.</p>
+
+    <p>The work on the digital version of Bring was resumed in 2011, when
+    Språkbanken agreed to make Bring available under an open-content
+    license and maintain it as a component of its integrated lexical
+    resource for Swedish language technology. As a result of this work,
+    undertaken by Lars Borin, about 1000 remaining OCR errors have been
+    corrected, and Bring has been partially mapped to the other lexical
+    resources through SALDO. This is the separate Blingbring resource
+    which is under continuous development.</p>
+
+    <p>The resource decribed here &ndash; Bring version 1.0 &ndash;
+    constitutes a digital version of the complete original content of
+    Bring's <i>Svenskt ordförråd ordnat i begreppsklasser</i> [The Swedish
+    vocabulary arranged into conceptual classes] (1930), with no added
+    information, except that explicit links to the corresponding heads in
+    Roget's <i>Thesaurus</i> have been provided. Bring can be used under
+    the
+    license <a href="https://creativecommons.org/licenses/by/4.0/">Creative
+    Commons Attribution (CC BY) 4.0 International</a></p>
+    <p style="text-align: right;"><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY"/></a></p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 217351}</li>
+    <li>{publication 198549}</li>
+    </ol>

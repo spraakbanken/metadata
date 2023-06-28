@@ -54,7 +54,7 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/absabank-imm-1-0" target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/absabank-imm-1-0" target="_blank">Aspect-Based Sentiment Analysis (Immigration)</a></td>
         <td>Label the sentiment that the author of a text expressed towards immigration on the 1--5 scale</td>
         <td>10-fold cross-validation, consecutive</td>
     <!--    <td>reformatted subset of the original dataset</td> -->
@@ -64,11 +64,11 @@ description:
       <td><a href="https://spraakbanken.gu.se/en/resources/dalaj-1-0">DaLAJ</a></td>
       <td>Determine whether a sentence is correct Swedish or not</td>
       <td>Hold-out</td>
-    <!--	<td>new dataset</td> -->
+    <!--<td>new dataset</td> -->
       <td><a href="#DaLAJ">[2]</a></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/faq-1-0" target=”_blank”>Swedish FAQ (mismatched)</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/faq-1-0" target="_blank">Swedish FAQ (mismatched)</a></td>
         <td>Match the question with the answer within a category</td>
         <td>Test only</td>
     <!--    <td>new dataset</td> -->
@@ -76,21 +76,21 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/swesat-synonyms-1-0" target=”_blank”>SweSAT synonyms</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/swesat-synonyms-1-0" target="_blank">SweSAT synonyms</a></td>
         <td>Select the correct synonym or description of a word or expression</td>
         <td>Test only</td>
     <!--    <td>new dataset</td> -->
         <td></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/analogy-1-0" target=”_blank”>Swedish Analogy test set</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/analogy-1-0" target="_blank">Swedish Analogy test set</a></td>
         <td>Given two word pairs A:B and C:D, capture that the relation between A and B is the same as between C and D</td>
         <td>Test only</td>
     <!--    <td>= original dataset</td> -->
         <td><a href="#Analogy">[3]</a></td>
       </tr>
       <tr>
-        <td rowspan="2"><a href="https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim" target=”_blank”>Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a></td>
+        <td rowspan="2"><a href="https://spraakbanken.gu.se/en/resources/semeval2020t1-superlim" target="_blank">Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a></td>
         <td>Determine whether a given word has changed its meaning during a hundred year period</td>
         <td rowspan="2">Test only</td>
     <!--    <td rowspan="2">= original dataset</td> -->
@@ -123,14 +123,14 @@ description:
         <td><a href="#Winogender">[5]</a></td>
         </tr>
         <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/swediagnostics-1-0" target=”_blank”>SweDiagnostics</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/swediagnostics-1-0" target="_blank">SweDiagnostics</a></td>
         <td>Determine the logical relation between the two sentences</td>
         <td>Test only</td>
     <!--    <td>Translation of the (Super)GLUE diagnostic dataset</td> -->
         <td></td>
       </tr>
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/sweparaphrase-1-0" target=”_blank”>SweParaphrase</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/sweparaphrase-1-0" target="_blank">SweParaphrase</a></td>
         <td>Determine how similar two sentences are</td>
         <td>Test only</td>
     <!--    <td>Automatic translation of (Super)GLUE Semantic Textual Similarity Benchmark</td> -->
@@ -141,7 +141,7 @@ description:
       <td><a href="https://spraakbanken.gu.se/en/resources/supersim-superlim-1-0">SuperSim</a></td>
       <td>Predict semantic word similarity and/or relatedness between words out of context.</td>
       <td>Test only</td>
-    <!--	<td>= original dataset</td> -->
+    <!--<td>= original dataset</td> -->
       <td><a href="#SuperSim">[6]</a></td>
       </tr>
 
@@ -149,7 +149,7 @@ description:
       <td><a href="https://spraakbanken.gu.se/en/resources/swewic-1-0">SweWiC</a></td>
       <td>Say if instances of a word in two contexts represent the same word sense.</td>
       <td>Test only</td>
-    <!--	<td>newly constructed after English Word-in-Context design principles</td> -->
+    <!--<td>newly constructed after English Word-in-Context design principles</td> -->
       <td></td>
       </tr>
     </table>
@@ -239,7 +239,7 @@ description:
       </tr>
 
       <tr>
-        <td rowspan="2"><a href="https://spraakbanken.gu.se/resurser/absabank-imm" target=”_blank”>Aspect-Based Sentiment Analysis (Immigration)</a></td>
+        <td rowspan="2"><a href="https://spraakbanken.gu.se/resurser/absabank-imm" target="_blank">Aspect-Based Sentiment Analysis (Immigration)</a></td>
         <td rowspan="2">Absabank-Imm</td>
         <td rowspan="2">Label the sentiment that the author of a text expressed towards immigration on the 1--5 scale</td>
         <td>852 documents, 241K tokens</td>
@@ -253,7 +253,7 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/resurser/faq" target=”_blank”>Swedish FAQ (mismatched)</a></td>
+        <td><a href="https://spraakbanken.gu.se/resurser/faq" target="_blank">Swedish FAQ (mismatched)</a></td>
         <td>FAQ</td>
         <td>Match the question with the answer within a category</td>
         <td>513 QA pairs, 50 categories</td>
@@ -264,7 +264,7 @@ description:
       </tr>
 
       <tr>
-        <td><a href="https://spraakbanken.gu.se/en/resources/hogskoleprovet-ord" target=”_blank”>Högskoleprovet ordförståelse</a></td>
+        <td><a href="https://spraakbanken.gu.se/en/resources/hogskoleprovet-ord" target="_blank">Högskoleprovet ordförståelse</a></td>
       <td>HSP-Ord</td>
         <td>Select the correct synonym or description of a word or expression</td>
         <td>782 expressions</td>
@@ -275,7 +275,7 @@ description:
       </tr>
 
       <tr>
-        <td rowspan="2"><a href="https://spraakbanken.gu.se/en/resources/semeval2020" target=”_blank”>Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a></td>
+        <td rowspan="2"><a href="https://spraakbanken.gu.se/en/resources/semeval2020" target="_blank">Swedish Test Set for SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection</a></td>
       <td rowspan="2">LexSemChange</td>
         <td>Determine whether a given word has changed its meaning during a hundred year period</td>
         <td rowspan="2">31 lemmas</td>
@@ -301,7 +301,7 @@ description:
         </tr>
 
       <tr>
-        <td rowspan="2"><a href="https://spraakbanken.gu.se/resurser/superlim-diagnostic" target=”_blank”>SuperLim diagnostic dataset</a></td>
+        <td rowspan="2"><a href="https://spraakbanken.gu.se/resurser/superlim-diagnostic" target="_blank">SuperLim diagnostic dataset</a></td>
       <td rowspan="2">SuperLim Diagnostic</td>
         <td>Natural language inference of isolated linguistic phenomena.</td>
         <td rowspan="2">1106 sentence pairs</td>

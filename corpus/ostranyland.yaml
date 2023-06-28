@@ -33,7 +33,26 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-ostranyland.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Östra Nyland 2012–2013
+    </p>
+    -->
+
+    <p>
+
+    Östra Nyland (www.ostnyland.fi) är en regional svenskspråkig dagstidning i Östra Nyland. Tidningen grundades 1881 och utkommer tre dagar i veckan.
+
+    </p>
+
+    </html>
   eng: ''

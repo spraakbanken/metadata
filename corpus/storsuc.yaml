@@ -39,10 +39,128 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/sucromaner_swe.html}
+    STORSUC är ett bonusmaterial som distribueras med SUC2.0 (se nedan). Materialet är inte formellt en del av SUC och följer inte korpusformatet. Det har inte annoterats, utan bara delats in i paragraf-liknande enheter. STORSUC är inte balanserat.
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc_swe.html}
+    <p>
+    Stockholm-Umeå-korpus (SUC) är en samling svenska texter från 1990-talet, med totalt en miljon ord. Korpusen är balanserad, vilket betyder att den innehåller olika texttyper och texter med olika stilnivåer. Texterna har märkts upp med ordklasstaggar, morfologisk analys och lemma (allt detta kan anses som <i>referensdata</i>), samt viss strukturell och funktionell information.
+    </p>
+
+    <p>
+    <i>Version 1.0</i> utvecklades i samarbete mellan Gunnel Källgren vid Stockholms Universitet och Eva Ejerhed vid Umeå universitet och gjordes tillgängligt 1997 av institutionen för lingvistik på Stockholms universitet. <i>Version 2.0</i> gjordes tillgänglig 2006 av Sofia Gustafson-Capková och Britt Hartmann vid institutionen för lingvistik på Stockholms universitet. Den innehåller samma texter som SUC 1.0 men är utökad med viss annotering. Dessutom innehåller SUC 2.0 två bonusmaterial. TigerSUC är SUC 2.0 konverterad till TIGER-XML av Martin Volk. StorSUC är ytterligare SUC-material om fyra miljoner ord. <i>Version 3.0</i> finns tillgänglig sedan 2012. Den innehåller förbättrad annotering, samt oannoterade texter om sju miljoner ord. (För TigerXML-versionen, Suc2c, Suc2d och DTD:erna hänvisar vi fortfarande till version 2.0.)
+    </p>
+
+    <p>
+    Ytterligare information om sammanställning och uppmärkning av SUC finns i <a href="http://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf">manualen för SUC 2.0 [PDF]</a></p>
+
+    <p>Språkbanken distribuerar SUC 2.0 och SUC 3.0 i två varianter.</p>
+
+    <h3>Officiella korpusen</h3>
+
+    <p>
+    SUC är fritt tillgänglig för forskning, men kräver att varje användare tecknar en individuell licens med Institutionen för lingvistik vid Stockholms universitet. Från och med den 1/12 2008 är licensieringen av SUC delegerad till Språkbanken Text vid Göteborgs universitet.
+    </p>
+
+    <p>Bilaga 3 av
+    <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">SUC-licensen [PDF]</a> ska skrivas ut, skrivas under och sedan skickas till
+
+    <address>
+    SUC-licens<br/>
+    Språkbanken Text<br/>
+    Institutionen för svenska, flerspråkighet och språkteknologi<br/>
+    Göteborgs universitet<br/>
+    Box 200<br />
+    405 30 Göteborg
+    </address>
+    </p>
+
+    <p>Efter att vi har mottagit och registrerat den underskrivna licensen, kommer vi att kontakta dig med en nedladdningslänk.</p>
+
+    <h3>Meningsomkastad, automatiskt vidare berikad korpus</h3>
+
+    <p>En andra variant går att ladda ner direkt under den öppna CC BY-SA-licensen här nedanför. Denna variant är meningsomkastad, och dessutom har extra uppmärkning lagts till automatiskt av Språkbankens textanalysverktyg. Korpusen distribueras i Språkbankens standard-XML-format.</p>
+
+    <p>Följande annoteringar är som i den officiella versionen:
+    <ul>
+      <li>ordklass (<code>pos</code>-attribut på ordelement)
+      <li>morfologiska särdrag (<code>msd</code>-attribut)</li>
+      <li>grundform (<code>lemma</code>-attribut)</li>
+      <li>namngivna entiteter (endast SUC 3.0; <code>&lt;name&gt;</code>-taggar, <b>inte</b> <code>&lt;ne&gt;</code>-taggarna)</li>
+    </ul>
+    All annan uppmärkning, till exempel länkningen mot SALDO,
+    dependensparsning och en alternativ uppmärkning med namngivna entiteter (<code>&lt;ne&gt;</code>-taggar), har skapats automatiskt
+    av <a href="https://spraakbanken.gu.se/verktyg/sparv/annotationer">Sparv</a>.</p>
+
+    <p>Det är också denna variant av SUC som går att utforska i Korp.</p>
+
   eng: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/sucromaner_eng.html}
+    STORSUC is a bonus material distributed with SUC2.0 (see below). The material is not formally included in SUC and does not adhere to the corpus format. It has not been annotated, but is only structured into paragraph-like segments. STORSUC is not balanced.
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc_eng.html}
+    <p>
+    The Stockholm-Umeå Corpus (SUC) is a collection of Swedish texts from
+    the 1990's, consisting of one million words in total. The corpus is
+    balanced, meaning that it contains various text types and stylistic
+    levels. The texts are annotated with part-of-speech tags,
+    morphological analysis and lemma (all that can be considered <i>gold standard data</i>), as well as some structural and functional information. 
+    </p>
+
+    <p>
+    <i>Version 1.0</i> was developed in co-operation between Gunnel
+    Källgren at Stockholm University and Eva Ejerhed at Umeå University
+    and was made available in 1997 by the department of linguistics at
+    Stockholm University. <i>Version 2.0</i> was made available in 2006 by
+    Sofia Gustafson-Capková and Britt Hartmann at the department of
+    linguistics at Stockholm University. It contains the same texts as SUC
+    1.0 but is extended with some annotation. Additionally, SUC 2.0
+    contains bonus materials. TigerSUC is SUC 2.0 converted to TIGER-XML
+    by Martin Volk. StorSUC is additional SUC material of four million
+    words. <i>Version 3.0</i> is available since 2012. It contains
+    improved annotations, and unannotated texts with seven million
+    words. (For the TigerXML-version, Suc2c, Suc2d, and the DTDs we still
+    refer to version 2.0.)
+    </p>
+
+    <p>
+    Additional information about the compilation and annotation of SUC can be found in the <a href="http://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf">SUC 2.0 manual [PDF]</a>.
+    </p>
+
+    <p>Språkbanken distributes SUC 2.0 and SUC 3.0 in two variants.</p>
+
+    <h3>The official corpus</h3>
+
+    <p>
+    SUC is freely available for research, but requires that every user
+    signs an individual license with the department of linguistics at
+    Stockholm University. Since December 1st 2008, SUC licensing is
+    delegated to Språkbanken Text at the University of Gothenburg.
+    </p>
+
+    <p>Appendix 3 of
+    <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">the SUC license [PDF]</a> needs to be printed, signed, and sent to
+
+    <address>
+    SUC-licens<br />
+    Språkbanken<br />
+    Institutionen för svenska, flerspråkighet och språkteknologi<br />
+    Göteborgs universitet<br />
+    Box 200<br />
+    405 30 Göteborg
+    </address>
+    </p>
+
+    <p>When we have received and registered the signed license, we will contact you with a download link.</p>
+
+    <h3>Scrambled corpus with additional automatic annotation</h3>
+
+    <p>A second variant can be downloaded directly under the open licence CC BY-SA, below. The order of the sentences in this version has been scrambled, and extra annotation has been added automatically by Språkbankens processing pipeline. The corpus is distributed in Språnkbankens default XML format.</p>
+
+    <p>The following annotation is taken from the official version:
+      <ul>
+        <li>Part of speech (<code>pos</code> attributes of word elements)</li>
+        <li>Morphology (<code>msd</code> attributes)</li>
+        <li>Lemma (<code>lemma</code> attributes)</li>
+        <li>Named entity (SUC 3.0 only; <code>&lt;name&gt;</code> tags, <b>not</b> the <code>&lt;ne&gt;</code> tags)</li>
+      </ul>
+    All other annotation, like the linking against Saldo, the dependency parses, and alternative named entity annotation (<code>&lt;ne&gt;</code> tags), was created automatically
+      by <a href="https://spraakbanken.gu.se/en/tools/sparv/annotations">Sparv</a>.</p>
+
+    <p>It is this variant of SUC that can be explored in Korp</p>

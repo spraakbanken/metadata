@@ -33,7 +33,267 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-propositioner.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Propositioner 1993–2013
+    </p>
+    -->
+
+    <p>
+    En proposition är ett förslag som ”kan gälla bl.a. lagar, statsbudgeten eller en tilläggsbudget, riksdagens samtycke till att staten tar upp lån, statlig borgen, godkännande av internationella fördrag eller komplettering av en tidigare proposition.” (http://www.eduskunta.fi/triphome/bin/vexhaku.sh?lyh=HE?kieli=ru). Mycket av materialet är ursprungligen skrivet på finska och översatt till svenska hos staten.
+    </p>
+
+
+    <p>
+    Följande propositioner ingår i samlingen:
+    </p>
+
+    <p>
+    1993:
+    Regeringens proposition till Riksdagen med förslag till lag om säkerhetskontroller inom flygtrafiken RP 281/1993
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 3 a § lagen om tryggande av landets utrikeshandel och ekonomiska tillväxt RP 324/1993
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 6 § lagen om försök med utbildning på ungdomsstadiet och med yrkeshögskolor RP 256/1993
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om enskilda vägar RP 327/1993
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av sjukförsäkringslagen RP 250/1993
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av sjölagen RP 329/1993
+    </p>
+
+
+
+
+    <p>
+    1994:
+    Regeringens proposition till Riksdagen med förslag till jordabalk och vissa lagar i samband med den (RP 120/1994)
+    Regeringens proposition till Riksdagen med förslag till kommunallag (RP 192/1994)
+    Regeringens proposition till Riksdagen med förslag till lag om upphävande av lagen om vägning av slaktkroppar RP 363/1994
+    Regeringens proposition till Riksdagen med förslag till lagstiftning om bostadsköp (HE 14/1994)
+    Regeringens proposition till Riksdagen med förslag till nya hyreslagar och till ändring av lagar i anslutning till dem (RP 304/1994)
+    Regeringens proposition till Riksdagen med förslag till ändring av riksdagsordningen och lagen om statsrådet med anledning av Finlands medlemskap i Europeiska unionen RP 318/1994
+    </p>
+
+
+    <p>
+    1995:
+    Regeringens proposition till Riksdagen med förslag till förvaltningsprocesslag och till lagstiftning som har samband med den (RP 217/1995)
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om lönegaranti för sjömän RP 126/1995
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om stöd för hemvård av barn RP 121/1995
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av ellagen RP 89/1995
+    Regeringens proposition till Riksdagen med förslag till lagstiftning om revision av rättegångsförfarandet i brottmål i underrätterna (RP 82/1995)
+    Regeringens proposition till Riksdagen med förslag till ändring av 3 § lagen om jaktvårdsavgift och jaktlicensavgift RP 88/1995
+    </p>
+
+
+    <p>
+    1996:
+    Regeringens proposition till Riksdagen med förslag till lag om indrivning av fordringar och lagar om ändring av vissa lagar som har samband med den (RP 199/1996)
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om oljeskyddsfonden RP 265/1996
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om transport av farliga ämnen RP 219/1996
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om försäkringsföreningar RP 196/1996
+    Regeringens proposition till Riksdagen med förslag till lagstiftning om finansiering av yrkesinriktad tilläggsutbildning RP 186/1996
+    Regeringens proposition till riksdagen med förslag till ändring av 47 § upphovsrättslagen RP 185/1996
+    </p>
+
+
+
+    <p>
+    1997:
+    Regeringens proposition till Riksdagen med förslag till bokföringslag samt till lagar om ändring av 11 och 12 kap. lagen om aktiebolag och 79 c § lagen om andelslag (RP 173/1997)
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 2 och 17 § lagen om försök med alterneringsledighet RP 203/1997
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om försvarsmaktens handräckning till polisen RP 225/1997
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av värnpliktslagen RP 184/1997
+    Regeringens proposition till Riksdagen med förslag till lagstiftning om pensionsskydd i kortvariga anställningsförhållanden inom staten RP 219/1997
+    Regeringens proposition till Riksdagen med förslag till ändring av kyrkolagen RP 196/1997
+    </p>
+
+
+
+    <p>
+    1998:
+    Regeringens proposition till Riksdagen med förslag till lagstiftning om borgen och tredjemanspant (RP 189/1998)
+    Regeringens proposition till Riksdagen med förslag till lag om offentlighet i myndigheternas verksamhet samt till lagar som har samband med den (RP 30/1998)
+    Regeringens proposition till Riksdagen med förslag till ny förmynderskapslagstiftning (RP 146/1998)
+    Regeringens proposition till Riksdagen med förslag till ny Regeringsform för Finland (RP 1/1998)
+    Regeringens proposition till Riksdagen med förslag till personuppgiftslag och till vissa lagar som har samband med den (RP 96/1998)
+    Regeringens proposition till Riksdagen med förslag till reform av byggnadslagstiftningen (RP 101/1998)
+    </p>
+
+
+    <p>
+    1999:
+    Regeringens proposition till Riksdagen om godkännande av vissa bestämmelser i överenskommelsen med Lettland om social trygghet RP 192/1999
+    Regeringens proposition till Riksdagen med förslag till lag om Nordiska projektexportfonden RP 182/1999
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 32 och 33 § mervärdesskattelagen RP 179/1999
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 37 kap. 12 § strafflagen RP 154/1999
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 53 § folkpensionslagen RP 191/1999
+    Regeringens proposition till Riksdagen med förslag till revidering av miljöskydds- och vattenlagstiftningen (RP 84/1999)
+    </p>
+
+
+    <p>
+    2000:
+    Regeringens proposition till Riksdagen med förslag till lagar om ändring av 14 och 49 § folkhälsolagen, 59 § lagen om specialiserad sjukvård och 34 § mentalvårdslagen RP 149/2000
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 17 § lagen om försök med alterneringsledighet RP 195/2000
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om folkhälsoinstitutet RP 209/2000
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om landsbygdsnäringsregistret RP 165/2000
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av lagen om transport av farliga ämnen RP 180/2000
+    Regeringens proposition till Riksdagen om godkännande av återtagandet av förklaringen till Wienkonventionen om traktaträtten RP 208/2000
+    </p>
+
+
+    <p>
+    2001:
+    Regeringens proposition till Riksdagen med förslag till lagar om ändring av trafikförsäkringslagen samt vissa lagar som har samband med den RP 190/2001
+    Regeringens proposition till Riksdagen med förslag till lag om försök med samarbete inom regioner RP 248/2001
+    Regeringens proposition till Riksdagen med förslag till lag om upphävande av 5 § 2 och 3 mom. lotterilagen RP 211/2001
+    Regeringens proposition till Riksdagen med förslag till lag om ändring av 13 § lagen om utkomstskydd för arbetslösa RP 247/2001
+    Regeringens proposition till Riksdagen med förslag till marknadsdomstolslag samt lagstiftning som har samband med den (RP 105/2001)
+    Regeringens proposition till Riksdagen om godkännande av överenskommelsen med Qatar om främjande av och skydd för investeringar samt med förslag till lag om ikraftträdande av de bestämmelser i överenskommelsen som hör till området för lagstiftningen RP 230/2001
+    </p>
+
+
+
+    <p>
+    2002:
+    Regeringens proposition till Riksdagen med förslag till en reform av lagstiftningen om preskription av skulder och offentlig stämning (RP 187/2002)
+    Regeringens proposition till Riksdagen med förslag till förvaltningslag och till lag om ändring av förvaltningsprocesslagen (RP 72/2002)
+    Regeringens proposition till Riksdagen med förslag till lag om statsrådet och vissa lagar i samband med den (RP 270/2002)
+    Regeringens proposition till Riksdagen med förslag till medborgarskapslag (RP 235/2002)
+    Regeringens proposition till Riksdagen med förslag till ny språklag och lagstiftning som har samband med den (RP 92/2002)
+    Regeringens proposition till Riksdagen med förslag till revidering av bestämmelserna för främjande av säkerheten på allmänna platser (RP 20/2002)
+    </p>
+
+
+    <p>
+    2003:
+    Regeringens proposition till riksdagen med förslag till lag om integritetsskydd i arbetslivet samt till ändring av vissa lagar som har samband med den RP 162/2003
+    Regeringens proposition till riksdagen med förslag till lag om sociala företag och vissa lagar som har samband med den RP 132/2003
+    Regeringens proposition till Riksdagen med förslag till lag om tryggande av jämlikhet samt ändring av vissa lagar som har samband med den (RP 44/2003)
+    Regeringens proposition till riksdagen med förslag till lag om ändring av avfallslagen och lag om ändring av 4 § lagen om flyttning av fordon och nedskrotning av skrotfordon RP 152/2003
+    Regeringens proposition till riksdagen med förslag till lag om ändring av skadeståndslagen och vissa lagar som har samband med den RP 167/2003
+    Regeringens proposition till Riksdagen med förslag till revidering av konkurslagstiftningen (RP 26/2003)
+    </p>
+
+    <p>
+    2004:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av fordonslagen och 9 § i bränsleavgiftslagen RP 235/2004
+    Regeringens proposition till riksdagen med förslag till ändringar i den lagstadgade olycksfallsförsäkringens indexsystem RP 250/2004
+    Regeringens proposition till riksdagen med förslag till lag om ändring av jaktlagen RP 278/2004
+    Regeringens proposition till riksdagen med förslag till lag om ändring av kommunindelningslagen RP 264/2004
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om främjande av invandrares integration samt mottagande av asylsökande RP 280/2004
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om ordningsvakter och till vissa lagar som har samband med det RP 265/2004
+    </p>
+
+
+    <p>
+    2005:
+    Regeringens proposition till riksdagen med förslag till de ändringar som inrättandet av Livsmedelssäkerhetsverket förutsätter i vissa lagar RP 203/2005
+    Regeringens proposition till riksdagen med förslag till folkpensionslag och lag om handikappförmåner samt vissa lagar som har samband med dem RP 209/2005
+    Regeringens proposition till riksdagen med förslag till sjömansservicelag RP 183/2005
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av kemikalielagen, miljöskyddslagen och 48 kap. 1 § i strafflagen RP 184/2005
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om ett förvaltningsförsök i Kajanaland RP 215/2005
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om registerförvaltningen och vissa lagar som innehåller bestämmelser om magistratens behörighet RP 229/2005
+    </p>
+
+
+    <p>
+    2006:
+    Regeringens proposition till riksdagen med förslag till barnskyddslag och vissa lagar som har samband med den RP 252/2006
+    Regeringens proposition till riksdagen med förslag till lag om främjande av användningen av biodrivmedel i trafiken RP 231/2006
+    Regeringens proposition till riksdagen med förslag till lag om försvarsmakten samt vissa lagar som har samband med den RP 264/2006
+    Regeringens proposition till riksdagen med förslag till lag om samarbete inom företag och till vissa lagar som har samband med den RP 254/2006
+    Regeringens proposition till riksdagen med förslag till lag om ändring av alkohollagen RP 232/2006
+    Regeringens proposition till riksdagen med förslag till strukturfondslag och till lagar om ändring av vissa bestämmelser om regionutveckling RP 242/2006
+    </p>
+
+
+    <p>
+    2007:
+    Regeringens proposition till riksdagen med förslag till lag om landsbygdsnäringsförvaltningens informationssystem RP 161/2007
+    Regeringens proposition till riksdagen med förslag till lag om säkerställande av patientsäkerheten vid arbetskonflikt inom hälso- och sjukvården RP 153/2007
+    Regeringens proposition till riksdagen med förslag till lag om ändring av bilskattelagen RP 147/2007
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om dataskydd vid elektronisk kommunikation RP 158/2007
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om skydd för växters sundhet RP 168/2007
+    Regeringens proposition till riksdagen med förslag till lag om ändring av utlänningslagen RP 167/2007
+    </p>
+
+
+    <p>
+    2008:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om Finansinspektionen och av vissa lagar som har samband med den RP 235/2008
+    Regeringens proposition till riksdagen med förslag till lag om gottgörelse för dröjsmål vid rättegång och till vissa lagar som har samband med den RP 233/2008
+    Regeringens proposition till riksdagen med förslag till lag om ändring av bilagan till lagen om accis på alkohol och alkoholdrycker RP 202/2008
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om åtgärder för inskränkande av tobaksrökning RP 227/2008
+    Regeringens proposition till riksdagen med förslag till lagstiftning om tullredovisningsbrott RP 197/2008
+    Regeringens proposition till riksdagen med förslag till ändring av lagstiftningen om gränsbevakning RP 219/2008
+    </p>
+
+
+    <p>
+    2009:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om användning av mänskliga organ, vävnader och celler för medicinska ändamål, 5 § i lagen om klientavgifter inom social- och hälsovården och 7 kap. 4 § i sjukförsäkringslagen RP 276/2009
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av skogslagen och 48 a kap. 3 § i strafflagen RP 266/2009
+    Regeringens proposition till riksdagen med förslag till lag om CE-märkningsförseelse RP 289/2009
+    Regeringens proposition till riksdagen med förslag till lag om nödcentralsverksamhet RP 262/2009
+    Regeringens proposition till riksdagen med förslag till punktskattelag och till lag om ändring av 27 § i lagen om undantag för landskapet Åland i fråga om mervärdesskatte- och accislagstiftningen RP 263/2009
+    Regeringens proposition till riksdagen med förslag till reform av vattenlagstiftningen RP 277/2009
+    </p>
+
+
+
+    <p>
+    2010:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om yrkesutbildade personer och av vissa andra lagar RP 326/2010
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av mentalvårdslagen och av 8 § i lagen om avbrytande av havandeskap RP 335/2010
+    Regeringens proposition till riksdagen med förslag till lag om flygplatsnät och flygplatsavgifter RP 313/2010
+    Regeringens proposition till riksdagen med förslag till lag om Sibbo storskogs nationalpark RP 324/2010
+    Regeringens proposition till riksdagen med förslag till lagstiftning om fångtransport RP 319/2010
+    Regeringens proposition till riksdagen med förslag till lagstiftning om ordnandet av uppgifter som gäller besiktning och enskilt godkännande av fordon RP 314/2010
+    </p>
+
+
+
+
+    <p>
+    2011:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om utkomstskydd för arbetslösa och temporär ändring av 4 § i lagen om finansiering av arbetslöshetsförmåner RP 131/2011
+    Regeringens proposition till riksdagen med förslag till lag om militär disciplin och vissa lagar som har samband med den RP 142/2011
+    Regeringens proposition till riksdagen med förslag till lag om ändring av 2 § i lagen om statsborgen för ett europeiskt finansiellt stabiliseringsinstrument RP 150/2011
+    Regeringens proposition till riksdagen med förslag till lag om ändring av kyrkolagen RP 120/2011
+    Regeringens proposition till riksdagen med förslag till lag om ändring av kärnenergilagen RP 145/2011
+    Regeringens proposition till riksdagen med förslag till lag om ändring av lagen om placeringsfonder och till vissa lagar som har samband med den RP 113/2011
+    </p>
+
+
+    <p>
+    2012:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av sjölagen och av 14 g § i lagen om tillsyn över fartygssäkerheten RP 205/2012
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av statistiklagen och av 2 och 3 § i lagen om landsbygdsnäringsstatistik RP 154/2012
+    Regeringens proposition till riksdagen med förslag till lagar om ändring och temporär ändring av lagen om skatteredovisning samt ändring och temporär ändring av inkomstskattelagen RP 149/2012 rd
+    Regeringens proposition till riksdagen med förslag till lag om mätning av virke RP 192/2012
+    Regeringens proposition till riksdagen med förslag till lag om skydd av djur som används för vetenskapliga ändamål eller undervisningsändamål och lag om ändring av djurskyddslagen RP 150/2012
+    Regeringens proposition till riksdagen med förslag till lag om ändring av jaktlagen RP 157/2012
+    </p>
+
+    <p>
+    2013:
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av 18 kap. i aktiebolagslagen och av 5 och 6 § i handelskammarlagen RP 71/2013
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om rättegång i brottmål och av vissa andra lagar RP 63/2013
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av lagen om tidsbegränsad ändring i vissa fall av villkoren för aravalån och av aravabegränsningslagen RP 42/2013
+    Regeringens proposition till riksdagen med förslag till lagar om ändring av polislagen och vissa lagar som har samband med den RP 16/2013
+    Regeringens proposition till riksdagen med förslag till lag om kosmetiska produkter och lag om ändring av 44 kap. 1 § i strafflagen RP 49/2013
+    Regeringens proposition till riksdagen med förslag till lag om ändring av vallagen RP 27/2013
+    </p>
+
+
+
+    </html>
   eng: ''

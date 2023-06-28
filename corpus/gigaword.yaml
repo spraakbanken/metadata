@@ -79,7 +79,291 @@ description:
      användningsinstruktioner, kan laddas ner från
      <a href="https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}
+    <table>
+        <tr>
+            <th colspan='6'>Sentences per year for each genre</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>fiction</th>
+            <th>government</th>
+            <th>news</th>
+            <th>science</th>
+            <th>socialmedia</th>
+        </tr>
+        <tr>
+            <td>1950</td>
+            <td align='right'>-</td>
+            <td align='right'>420 413</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1960</td>
+            <td align='right'>-</td>
+            <td align='right'>424 920</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1965</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>53 624</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1970</td>
+            <td align='right'>-</td>
+            <td align='right'>459 867</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1976</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>89 175</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1977</td>
+            <td align='right'>499 030</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1980</td>
+            <td align='right'>-</td>
+            <td align='right'>534 194</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1981</td>
+            <td align='right'>307 597</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1987</td>
+            <td align='right'>97 398</td>
+            <td align='right'>-</td>
+            <td align='right'>364 226</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1990</td>
+            <td align='right'>-</td>
+            <td align='right'>551 988</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1991</td>
+            <td align='right'>330 127</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1992</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>44 538</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1994</td>
+            <td align='right'>-</td>
+            <td align='right'>391 882</td>
+            <td align='right'>1 538 748</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1995</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>514 797</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1996</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>449 148</td>
+            <td align='right'>118 542</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1997</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>980 230</td>
+            <td align='right'>125 096</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1998</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>804 178</td>
+            <td align='right'>121 895</td>
+            <td align='right'>1 638</td>
+        </tr>
+        <tr>
+            <td>1999</td>
+            <td align='right'>194 699</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>113 568</td>
+            <td align='right'>40 099</td>
+        </tr>
+        <tr>
+            <td>2000</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>109 289</td>
+            <td align='right'>12 945</td>
+        </tr>
+        <tr>
+            <td>2001</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>1 393 257</td>
+            <td align='right'>115 012</td>
+            <td align='right'>20 006</td>
+        </tr>
+        <tr>
+            <td>2002</td>
+            <td align='right'>-</td>
+            <td align='right'>41 066</td>
+            <td align='right'>2 610 740</td>
+            <td align='right'>110 830</td>
+            <td align='right'>191 234</td>
+        </tr>
+        <tr>
+            <td>2003</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 095 700</td>
+            <td align='right'>96 778</td>
+            <td align='right'>16 382</td>
+        </tr>
+        <tr>
+            <td>2004</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 094 251</td>
+            <td align='right'>103 881</td>
+            <td align='right'>487 447</td>
+        </tr>
+        <tr>
+            <td>2005</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>3 013 787</td>
+            <td align='right'>85 023</td>
+            <td align='right'>985 094</td>
+        </tr>
+        <tr>
+            <td>2006</td>
+            <td align='right'>-</td>
+            <td align='right'>50 684</td>
+            <td align='right'>2 634 386</td>
+            <td align='right'>-</td>
+            <td align='right'>408 425</td>
+        </tr>
+        <tr>
+            <td>2007</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 530 808</td>
+            <td align='right'>523 102</td>
+            <td align='right'>1 638 311</td>
+        </tr>
+        <tr>
+            <td>2008</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 607 657</td>
+            <td align='right'>-</td>
+            <td align='right'>754 801</td>
+        </tr>
+        <tr>
+            <td>2009</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 795 855</td>
+            <td align='right'>-</td>
+            <td align='right'>605 194</td>
+        </tr>
+        <tr>
+            <td>2010</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 635 687</td>
+            <td align='right'>-</td>
+            <td align='right'>790 148</td>
+        </tr>
+        <tr>
+            <td>2011</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 973 928</td>
+            <td align='right'>-</td>
+            <td align='right'>957 017</td>
+        </tr>
+        <tr>
+            <td>2012</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 681 277</td>
+            <td align='right'>673 820</td>
+            <td align='right'>1 589 999</td>
+        </tr>
+        <tr>
+            <td>2013</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 501 426</td>
+            <td align='right'>-</td>
+            <td align='right'>594 982</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>590 146</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>12 293 254</td>
+            <td align='right'>187 253</td>
+        </tr>
+    </table>
   eng: |-
     <p>One billion Swedish words from 1950 and onwards.</p>
 
@@ -91,4 +375,288 @@ description:
     <p>Code to extract data from the corpus, as well as usage instructions,
      can be downloaded from <a href="https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/gigaword.html}
+    <table>
+        <tr>
+            <th colspan='6'>Sentences per year for each genre</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>fiction</th>
+            <th>government</th>
+            <th>news</th>
+            <th>science</th>
+            <th>socialmedia</th>
+        </tr>
+        <tr>
+            <td>1950</td>
+            <td align='right'>-</td>
+            <td align='right'>420 413</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1960</td>
+            <td align='right'>-</td>
+            <td align='right'>424 920</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1965</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>53 624</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1970</td>
+            <td align='right'>-</td>
+            <td align='right'>459 867</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1976</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>89 175</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1977</td>
+            <td align='right'>499 030</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1980</td>
+            <td align='right'>-</td>
+            <td align='right'>534 194</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1981</td>
+            <td align='right'>307 597</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1987</td>
+            <td align='right'>97 398</td>
+            <td align='right'>-</td>
+            <td align='right'>364 226</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1990</td>
+            <td align='right'>-</td>
+            <td align='right'>551 988</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1991</td>
+            <td align='right'>330 127</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1992</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>44 538</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1994</td>
+            <td align='right'>-</td>
+            <td align='right'>391 882</td>
+            <td align='right'>1 538 748</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1995</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>514 797</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1996</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>449 148</td>
+            <td align='right'>118 542</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1997</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>980 230</td>
+            <td align='right'>125 096</td>
+            <td align='right'>-</td>
+        </tr>
+        <tr>
+            <td>1998</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>804 178</td>
+            <td align='right'>121 895</td>
+            <td align='right'>1 638</td>
+        </tr>
+        <tr>
+            <td>1999</td>
+            <td align='right'>194 699</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>113 568</td>
+            <td align='right'>40 099</td>
+        </tr>
+        <tr>
+            <td>2000</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>109 289</td>
+            <td align='right'>12 945</td>
+        </tr>
+        <tr>
+            <td>2001</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>1 393 257</td>
+            <td align='right'>115 012</td>
+            <td align='right'>20 006</td>
+        </tr>
+        <tr>
+            <td>2002</td>
+            <td align='right'>-</td>
+            <td align='right'>41 066</td>
+            <td align='right'>2 610 740</td>
+            <td align='right'>110 830</td>
+            <td align='right'>191 234</td>
+        </tr>
+        <tr>
+            <td>2003</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 095 700</td>
+            <td align='right'>96 778</td>
+            <td align='right'>16 382</td>
+        </tr>
+        <tr>
+            <td>2004</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 094 251</td>
+            <td align='right'>103 881</td>
+            <td align='right'>487 447</td>
+        </tr>
+        <tr>
+            <td>2005</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>3 013 787</td>
+            <td align='right'>85 023</td>
+            <td align='right'>985 094</td>
+        </tr>
+        <tr>
+            <td>2006</td>
+            <td align='right'>-</td>
+            <td align='right'>50 684</td>
+            <td align='right'>2 634 386</td>
+            <td align='right'>-</td>
+            <td align='right'>408 425</td>
+        </tr>
+        <tr>
+            <td>2007</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 530 808</td>
+            <td align='right'>523 102</td>
+            <td align='right'>1 638 311</td>
+        </tr>
+        <tr>
+            <td>2008</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 607 657</td>
+            <td align='right'>-</td>
+            <td align='right'>754 801</td>
+        </tr>
+        <tr>
+            <td>2009</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 795 855</td>
+            <td align='right'>-</td>
+            <td align='right'>605 194</td>
+        </tr>
+        <tr>
+            <td>2010</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 635 687</td>
+            <td align='right'>-</td>
+            <td align='right'>790 148</td>
+        </tr>
+        <tr>
+            <td>2011</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 973 928</td>
+            <td align='right'>-</td>
+            <td align='right'>957 017</td>
+        </tr>
+        <tr>
+            <td>2012</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 681 277</td>
+            <td align='right'>673 820</td>
+            <td align='right'>1 589 999</td>
+        </tr>
+        <tr>
+            <td>2013</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>2 501 426</td>
+            <td align='right'>-</td>
+            <td align='right'>594 982</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>590 146</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>-</td>
+            <td align='right'>12 293 254</td>
+            <td align='right'>187 253</td>
+        </tr>
+    </table>

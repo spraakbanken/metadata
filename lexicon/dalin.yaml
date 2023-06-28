@@ -31,5 +31,28 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_swe.html}'
-  eng: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/dalinm_eng.html}'
+  swe: |-
+    <p>
+    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) är en ordbok digitaliserad vid Språkbanken. Vi har utvecklat en morfologi, ett fullformslexikon, för Dalins ordbok, som en del i <a href="http://spraakbanken.gu.se/swefn">SweFN++</a>.
+    </p>
+    <!--
+    <ul>
+    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Arbetsmaterial</a></li>
+    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Arbetsmaterial: supplementet</a></li>
+    <li>Morfologins utvecklingsversion: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">nedladdning</a></li>
+    <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistik</a></li>
+    </ul>
+    -->
+  eng: |-
+    <p>
+    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) is a 19th century dictionary digitized at Språkbanken. We have developed a morphology, a fullform lexicon, for this dictionary, as part of the <a href="http://spraakbanken.gu.se/swefn">Swedish Framenet++</a>.
+    </p>
+    <!--
+    <ul>
+    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Working material</a></li>
+    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Working material: the supplement</a></li>
+    <li>Development version of the morphology: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">download</a></li>
+    <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistics</a></li>
+    </ul>
+
+    -->

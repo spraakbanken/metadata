@@ -39,10 +39,113 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-bara.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-pub.html}
+    <hr/>
+    <table>
+    <tr>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <p style="text-align: center; font-size: 115%">1902</p></td>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <p style="text-align: center; font-size: 115%">1930</p></td>
+    </tr>
+    </table>
+    <hr/>
+    <h2>Förordet till Sven Casper Brings <i>Svenskt ordförråd ordnat i begreppsklasser</i> (1930)</h2>
+    <p>Denna ordlista är en efterbildning av P. M. Rogets »Thesaurus of
+    English Words and Phrases». En sådan ordlista kan betraktas som ett
+    slags synonymlexikon. Men i varje begreppsklass sammanföras icke blott
+    egentliga synonymer, utan ord av alla slag, vilka utgöra det
+    huvudsakligaste ordförråd, som plägar komma till användning vid tal om
+    sådana ämnen, som kunna hänföras under klassbegreppet, fattat i
+    vidsträckt bemärkelse.</p>
+
+    <p>Vad Rogets klassificeringssystem angår, kan det ligga nära att
+    ifrågasätta både sammanslagning och uppdelning av åtskilliga
+    klasser. Men denna klassificering synes hava vunnit hävd genom många
+    upplagor av Rogets verk och genom tyska efterbildningar därav. Det
+    torde även få anses såsom en fördel att i dylika ordlistor använda
+    samma klassificering i olika språk.</p>
+
+    <p align="left">Uppsala i September 1930.</p>
+    <p align="right"><i>S. C. Bring</i></p>
+    <hr/>
+
+
+    <h2>Blingbring</h2>
+    <p>Blingbring (version 0.2) bygger på innehållet i Brings <i>Svenskt
+    ordförråd ordnat i begreppsklasser</i> (1930). Ingångarna i
+    Blingbring har försetts med motsvarande SALDO-ordbetydelser. I
+    föreliggande version är ordbetydelselänkarna ibland flertydiga, något
+    som kommer att åtgärdas i framtida versioner.</p>
+
+    <p>Som en konsekvens av SALDO-länkningen har ungefär 13.000 ingångar i
+    Bring har tagits bort, antingen därför att de är föråldrade eller för
+    att de utgör kompositionella sammansättningar.</p>
+
+    <p>Blingbring kan användas under
+    licensen <a href="https://creativecommons.org/licenses/by/4.0/">Creative
+    Commons Attribution (CC BY) 4.0 International</a></p>
+    <p style="text-align: right;"><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY"/></a></p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 217351}</li>
+    <li>{publication 198549}</li>
+    </ol>
   eng: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-gemensam-eng.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-bara-eng.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring-pub.html}
+    <hr/>
+    <table>
+    <tr>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <p style="text-align: center; font-size: 115%">1902</p></td>
+    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <p style="text-align: center; font-size: 115%">1930</p></td>
+    </td>
+    </tr>
+    </table>
+    <hr/>
+    <h2>The preface of Sven Casper Bring's <i>Svenskt ordförråd ordnat i begreppsklasser</i> [The Swedish vocabulary arranged into conceptual classes](1930)</h2>
+    <p>This wordlist has been modelled on P. M. Roget's »Thesaurus of
+    English Words and Phrases». This kind of wordlist can be seen as a
+    synonym dictionary of sorts. But each conceptual class comprises not only
+    synonyms, but words of all kinds which are habitually used in discoursing on
+    the kind of topics which could be subsumed under the class label concept, understood in
+    a wide sense.</p>
+
+    <p>Regarding Roget's classification system, there are arguably a
+    number of classes which ought to be merged or split. But this
+    classification seems to have established itself solidly through many
+    editions of Roget's work as well as German copies of it. It should
+    also be considered an advantage that the same classification is used
+    in such dictionaries for different languages.</p>
+
+    <p align="left">Uppsala in September 1930.</p>
+    <p align="right"><i>S. C. Bring</i></p>
+    <hr/>
+
+
+    <h2>Blingbring</h2>
+    <p>Blingbring (version 0.2) is based on the content of
+    Bring's <i>Svenskt ordförråd ordnat i begreppsklasser</i> [The Swedish
+    vocabulary arranged into conceptual classes] (1930). The entries in
+    Blingbring have been linked to the corresponding SALDO word sense
+    entries. The linkages are ambiguous in many cases, but disambiguation
+    is planned for future versions of Blingbring.</p>
+
+    <p>In the process of linking Bring to SALDO, about 13,000 entries have
+    been removed, as either being obsolete or constituting compositional
+    compounds.</p>
+
+    <p>Blingbring can be used under the
+    license <a href="https://creativecommons.org/licenses/by/4.0/">Creative
+    Commons Attribution (CC BY) 4.0 International</a></p>
+    <p style="text-align: right;"><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY"/></a></p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 217351}</li>
+    <li>{publication 198549}</li>
+    </ol>

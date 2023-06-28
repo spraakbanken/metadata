@@ -38,7 +38,83 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-swe.html}
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}
-  eng: "sensaldo\t{include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-eng.html}\n\
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-pubs.html}"
+    <h2>SenSALDO</h2>
+    <h3>Ett svenskt attitydlexikon baserat på SALDO</h3>
+    <p><i>Jacobo Rouces, Lars Borin, Nina Tahmasebi, Stian Rødven Eide</i></p>
+    <p>SenSALDO är ett attitydlexikon för svenska som bygger på det
+      stora svenska semantiska språkteknologiska lexikonet
+      <a href="https://spraakbanken.gu.se/swe/resurs/saldo"
+    target="_">SALDO</a>.  SenSALDO har utvecklats inom det
+    VR-finansierade forskningsprogrammet <i>Mot kunskapsbaserad storskalig
+    kunskapsutvinning ur svensk text</i>, med stöd från
+    forskningsinfrastrukturen <a href="https://sweclarin.se"
+    target="_">Swe-Clarin</a>.</p>
+
+    <p>SenSALDO v. 0.2 innehåller 12.287 ordbetydelser ur SALDO 2.3 försedda
+    med någon av attitydetiketterna "-1" (negativ), "0" (neutral) eller
+    "1" (positiv). Etiketterna har tilldelats genom en process med
+    automatiska och manuella inslag, som beskrivs i de publikationer som
+      räknas upp nedan. Som sista steg i processen har alla de 12.287
+    ordbetydelserna korrigerats manuellt.</p>
+
+    <p>Förutom listan med attityduppmärkta ordbetydelser innehåller den
+      nedladdningsbara datamängden även en lista med attityduppmärkta
+      ordklassförsedda textord (nästan 85.000 ord).</p>
+
+    <p>SenSALDOS ordbetydelser har alltid bara en attitydetikett, men ett
+    textord kan ha fler än en i fall då det motsvarar mer än en
+      ordbetydelse med olika attitydvärden. Se informationen i filernas början.</p>
+
+    <p>Om du använder SenSALDO i forskning som resulterar i en
+    publikation, ber vi dig ange en eller flera av nedanstående
+    publikationer som referens.</p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 264720}</li>
+    <li>{publication 264719}</li>
+    <li>{publication 264721}</li>
+    </ol>
+  eng: |-
+    <h2>SenSALDO</h2>
+    <h3>A Swedish sentiment lexicon based on SALDO</h3>
+
+    <p><i>Jacobo Rouces, Lars Borin, Nina Tahmasebi, Stian Rødven Eide</i></p>
+    <p>SenSALDO is a sentiment lexicon for Swedish based on the full-scale
+      Swedish semantic lexicon for language technology applications,
+      <a href="https://spraakbanken.gu.se/eng/resource/saldo" target="_">SALDO</a>.
+      SenSALDO has been developed in the research
+      program <i>Towards a knowledge-based culturomics</i>, and with support
+      by the <a href="https://sweclarin.se" target="_">Swe-Clarin</a> research
+      infrastructure, both funded by the Swedish Research Council.</p>
+
+    <p>SenSALDO v. 0.2 contains 12,287 word senses from SALDO labeled for
+      sentiment (prior lexical polarity) with one of the sentiment labels
+      "-1" (negative), "0" (neutral), or "1" (positive). The sentiment
+      labels have been assigned in a partly automatic, partly manual
+      process described in the publications listed below. The final set of
+      word senses has been manually curated.</p>
+
+    <p>In addition to the list of sentiment-labeled word senses, the
+      downloadable dataset contains a list of sentiment labeled text words
+      with their parts of speech (almost 85,000 words).</p>
+
+    <p>The word senses in SenSALDOS can have only one sentiment label
+    each, but a text word may appear with more than one label, in the
+    cases where a text word corresponds to more than one word sense, with
+      different sentiment labels. See the information in the file header.</p>
+
+    <p>If you use SenSALDO in research resulting in a publication, please
+      cite one or more of the publications listed below among your
+      references.</p>
+
+    <hr/>
+
+    <h3>Publikationer &bull; Publications</h3>
+    <ol reversed=true>
+    <li>{publication 264720}</li>
+    <li>{publication 264719}</li>
+    <li>{publication 264721}</li>
+    </ol>

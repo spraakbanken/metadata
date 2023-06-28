@@ -61,5 +61,81 @@ description:
     </P>
     <P>Göteborg i mars 1997.</P>
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/press_avd_swe.html}
+    <h2>Avdelningsförkortningar</h2>
+    <p>Preliminär (28 okt 2008) förteckning över avdelningar i modernare tidningsmaterial (fr.o.m. 1987)</p>
+    <p>De följande förkortningarna anger i princip avdelning, sida etc. enligt vederbörande tidnings egen klassifikation. Några av förkortningarna har ännu inte kunnat tolkas.</p>
+    <br />
+    <table class="forktable">
+    <tr><td colspan="5"><hr /></td></tr>
+    <th colspan="5">Göteborgs-Posten</th>
+
+    <tr><td colspan="5"><hr /></td></tr>
+    <tr><td>GpALL</td><td>allmänt reportage                                     </td><td>|</td><td>GpSPO</td><td>sportavdelningen                                      </td></tr>
+    <tr><td>GpATT</td><td>"Attityd" (reportage m.m för äldre tonåringar)        </td><td>|</td><td>GpSÖN</td><td>"Söndag" (större specialreportage)                    </td></tr>
+    <tr><td>GpAVE</td><td> "Aveny" (nöjesreportage m.m. för unga vuxna)         </td><td>|</td><td>GpTVR</td><td>Tv-radioavdelningen (inkl. program)                   </td></tr>
+
+    <tr><td>GpBOH</td><td>? (Bohuslän?)                                         </td><td>|</td><td>GpTVÅ</td><td>"Två dagar" (blandade reportage - helgbilaga)         </td></tr>
+    <tr><td>GpDEB</td><td>debattartiklar                                        </td><td>|</td><td>GpUTE</td><td>?                                                     </td></tr>
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>GpEKO</td><td>ekonomiavdelningen                                    </td><td>|</td><td>GpUTL</td><td>utrikesnyheter                                        </td></tr>
+
+    <tr><td>GpETT</td><td>första sidan                                          </td><td>|</td><td>GpVAR</td><td>"Var dag" (specialreportage)                          </td></tr>
+    <tr><td>GpFRI</td><td>"Fria ord" (insändare)                                </td><td>|</td><td>GpVG </td><td>"Världens gång" (lätta sidan)                         </td></tr>
+    <tr><td>GpGBG</td><td>Göteborgsnyheter                                      </td><td>|</td><td>GpVSB</td><td>västsvenska nyheter (från olika orter eller länsdelar)</td></tr>
+
+    <tr><td>GpGPS</td><td>?                                                     </td><td>|</td><td>GpVSH</td><td>d:o                                                   </td></tr>
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>GpGRA</td><td>"Grafitti" (reportage för yngre tonåringar)           </td><td>|</td><td>GpVSL</td><td>d:o                                                   </td></tr>
+    <tr><td>GpGRÄ</td><td>"Gränslöst" (nöjesreportage m.m.)                     </td><td>|</td><td>GpVSM</td><td>d:o                                                   </td></tr>
+
+    <tr><td>GpGUI</td><td>"Guiden" (kommande evenemang)                         </td><td>|</td><td>GpVSR</td><td>d:o                                                   </td></tr>
+    <tr><td>GpKO </td><td>?                                                     </td><td>|</td><td>GpVSV</td><td>d:o                                                   </td></tr>
+    <tr><td>GpKUL</td><td>kulturavdelningen                                     </td><td>|</td><td>GpVSÄ</td><td>d:o                                                   </td></tr>
+
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>GpLED</td><td>ledaravdelningen (inkl. kolumnist)                    </td><td>|</td><td>GpVÄV</td><td>"Växande vetande" (populärvetenskap)                  </td></tr>
+    <tr><td>GpNAM</td><td>"Namnet" (presentation på familjeavdelningen)         </td><td>|</td><td>GpREP</td><td>?                                                     </td></tr>
+    <tr><td>GpNÖJ</td><td>nöjesavdelningen                                      </td><td>|</td><td>GpPOL</td><td>politiskt reportage                                   </td></tr>
+
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><th colspan="2">Svenska Dagbladet (ytterst prelimärt)                   </th><th>|</th><th colspan="2">Dagens Nyheter                                          </th></tr>
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>SvdBIL</td><td>?                                                    </td><td>|</td><td>DnDEB</td><td>debattartiklar                                        </td></tr>
+    <tr><td>SvdBRÄ</td><td>?                                                    </td><td>|</td><td>DnEKO</td><td>ekonomiavdelningen                                    </td></tr>
+
+    <tr><td>SvdCTY</td><td>"City"? (nöjen eller evenemang?)                     </td><td>|</td><td>DnETT</td><td>första sidan                                          </td></tr>
+    <tr><td>SvdDIA</td><td>?                                                    </td><td>|</td><td>DnFAM</td><td>familjeavdelningen (inkl. längre presentationer)      </td></tr>
+    <tr><td>SvdETT</td><td>första sidan                                         </td><td>|</td><td>DnINL</td><td>inrikesnyheter                                        </td></tr>
+
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>SvdFAM</td><td>familjeavdelningen                                   </td><td>|</td><td>DnINS</td><td>? (specialreportage)                                  </td></tr>
+    <tr><td>SvdIDA</td><td>?                                                    </td><td>|</td><td>DnJUS</td><td>"Just nu" (aktuellt specialreportage)                 </td></tr>
+    <tr><td>SvdINR</td><td>inrikesnyheter                                       </td><td>|</td><td>DnKOM</td><td>Stockholmsnyheter                                     </td></tr>
+
+    <tr><td>SvdINS</td><td>? (insändare?)                                       </td><td>|</td><td>DnKUL</td><td>kulturavdelningen                                     </td></tr>
+    <tr><td>SvdKAR</td><td>?                                                    </td><td>|</td><td>DnLED</td><td>ledaravdelningen (inkl. kolumnister)                  </td></tr>
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>SvdKUL</td><td>kulturavdelningen                                    </td><td>|</td><td>DnLOR</td><td>"Lorry"? (nöjesreportage?)                            </td></tr>
+
+    <tr><td>SvdLED</td><td>ledaravdelningen                                     </td><td>|</td><td>DnNON</td><td>"Namn och nytt" (lätta sidan)                         </td></tr>
+    <tr><td>SvdMAG</td><td>?                                                    </td><td>|</td><td>DnPJO</td><td>? (längre specialreportage)                           </td></tr>
+    <tr><td>SvdMAR</td><td>"Marginalen"? (lätta sidan)                          </td><td>|</td><td>DnPOL</td><td>politiskt reportage                                   </td></tr>
+
+    <tr><td>SvdMAT</td><td>?                                                    </td><td>|</td><td>DnRTV</td><td>TV-radioavdelningen                                   </td></tr>
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>SvdNÄR</td><td>ekonomiavdelningen                                   </td><td>|</td><td>DnSON</td><td>"Söndag"? (längre specialreportage)                   </td></tr>
+    <tr><td>SvdPOL</td><td>politiskt reportage                                  </td><td>|</td><td>DnSPO</td><td>sportavdelningen                                      </td></tr>
+
+    <tr><td>SvdSPO</td><td>sportavdelningen                                     </td><td>|</td><td>DnTEA</td><td>teateravdelningen (inkl. film, musik m.m.)            </td></tr>
+    <tr><td>SvdSTO</td><td>Stockholmsnyheter?                                   </td><td>|</td><td>DnTOR</td><td>"Torget" (konsumentupplysning)                        </td></tr>
+    <tr><td>SvdTID</td><td>?                                                    </td><td>|</td><td>DnTVE</td><td>programtablåer för TV-radio                           </td></tr>
+
+    <tr><td colspan="5"><hr />                                                                                                                                        </td></tr>
+    <tr><td>SvdTVR</td><td>TV-radioavdelningen (program?)                       </td><td>|</td><td>DnUTL</td><td>utrikesnyheter                                        </td></tr>
+    <tr><td>SvdUTL</td><td>? (utrikesnyheter?)                                  </td><td>|</td><td>     </td><td>                                                      </td></tr>
+    <tr><td>SvdUTR</td><td>? (utrikesnyheter?)                                  </td><td>|</td><td>     </td><td>                                                      </td></tr>
+
+    <tr><td>SvdVET</td><td>populärvetenskap (?)                                 </td><td>|</td><td>     </td><td>                                                      </td></tr>
+    <tr><td colspan="5"><hr />                                                                                                                               </td></tr>
+    </table> 
   eng: ''

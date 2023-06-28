@@ -36,7 +36,27 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-magmakolumner.html}
+  swe: |-
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+    <HTML><HEAD>
+    <META content="text/html; charset=utf-8" http-equiv=Content-Type>
+    <META name=GENERATOR content="MSHTML 9.00.8112.16526"></HEAD>
+    <BODY>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <P>Magmakolumner 2009-2012 </P>
+    -->
+    <P>Magma är en partipolitiskt obunden tankesmedja med syfte att bana väg för
+    nytänkande kring svenskans framtid i Finland. På Magmas hemsida
+    http://www.magma.fi publiceras det kolumner av gästande kolumnister. </P>
+    <P>Kolumnisterna i samlingen Magmakolumner 2009-2012 är Rurik Ahlberg, Jörn
+    Donner, Monika Fagerholm, Anna-Karin Friis, Peter Lodenius, Björn Månsson,
+    Andrea Reuter, Dennis Rundt, Marika Tandefelt och Nils Erik Villstrand.
+    Kolumnisterna är finlandssvenska. </P></BODY></HTML>
   eng: ''

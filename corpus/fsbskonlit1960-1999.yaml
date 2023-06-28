@@ -36,7 +36,75 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-skonlitteratur_1960_1999.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+    <!--
+    <p>
+    Skönlitteratur 1960–1999
+    </p>
+    -->
+
+    <p>
+    Samlingen innehåller skönlitteratur utgiven av förlagen Abacus förlag, Författarnas Andelslag och Söderströms förlag. Författarna till verken är finlandssvenska.
+    </p>
+
+
+    <p>
+    Dessa verk ingår i samlingen:
+    </p>
+
+    <p>
+    <ul>
+    <li>Den svarta porföljen, Bargum Johan, 1991</li>
+    <li>Stella och Florence, Boström Elsa, 1998</li>
+    <li>Varför finns jag till, Donner Jörn, 1998</li>
+    <li>Sham, Fagerholm Monika, 1987</li>
+    <li>Patricia, Fagerholm Monika, 1990</li>
+    <li>Underbara kvinnor vid vatten, Fagerholm Monika, 1994</li>
+    <li>Trolljus, Herrgård Elin, 1991</li>
+    <li>En junisöndag kvart över tolv, Karf Gösta, 1999</li>
+    <li>Se upp Salige!, Kihlman Christer, 1960</li>
+    <li>Chansen, Lindberg Ann-Mari, 1998</li>
+    <li>Till Världens ände, Londen Magnus, 1997</li>
+    <li>Charter, Londen Magnus, 1999</li>
+    <li>Leo. Ålandstrilogin del 1, Lundberg Ulla-Lena, 1989</li>
+    <li>Stora världen, Lundberg Ulla-Lena, 1991</li>
+    <li>Big Mama, Löthman Leo, 1999</li>
+    <li>Marons moské, von Martens Paul, 1991</li>
+    <li>Döden kom till rätta, von Martens Paul, 1997</li>
+    <li>För lag och rätt i rikets tjänst, Olsson Curt, 1999</li>
+    <li>Isränder, Packalén Bengt, 1991</li>
+    <li>Vargskallen, Petterson Torsten, 1991</li>
+    <li>Martina Dagers längtan, Ringbom Henrika, 1998</li>
+    <li>Åtta kroppar, Ringell Susanne, 1998</li>
+    <li>Doft av järn och syren, Sahlström Anna-Lisa, 1990</li>
+    <li>Civilia. Ett brev till läsaren, Sandell Tom, 1977</li>
+    <li>Dessa himlar kring oss städs, Strömberg Mikaela (f.d. Sundström), 1999</li>
+    <li>Slå tillsamman, Stürmer Wava, 1976</li>
+    <li>Väntans väg, Stürmer Wava, 1985</li>
+    <li>Colorado Avenue, Sund Lars, 1991</li>
+    <li>Brändövägen 8 Brändö. Tel 35, Tikkanen Henrik, 1975</li>
+    <li>Bävervägen 11 Hertonäs, Tikkanen Henrik, 1976</li>
+    <li>Mariegatan 26 Kronohagen, Tikkanen Henrik, 1977</li>
+    <li>Georgsgatan, Tikkanen Henrik, 1980</li>
+    <li>Henriksgatan, Tikkanen Henrik, 1982</li>
+    <li>Ingemansland, Tikkanen Märtta, 1972</li>
+    <li>Män kan inte våldtas, Tikkanen Märta, 1975</li>
+    <li>Sofias egen bok, Tikkanen Märtta, 1982</li>
+    <li>Rödluvan, Tikkanen Märtta, 1986</li>
+    <li>Fallet Bruus, Westö Kjell, 1992</li>
+    <li>Krona av järn, Winckelmann Barbara, 1992</li>
+    <li>Ske min vilja, Winckelmann Barbara, 1998</li>
+    </ul>
+    </p>
+
+
+    </html>
   eng: ''

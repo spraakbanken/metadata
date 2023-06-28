@@ -39,14 +39,144 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_swe.html}
+    <p>
+    Stockholm-Umeå-korpus (SUC) är en samling svenska texter från 1990-talet, med totalt en miljon ord.
+    Korpusen är balanserad, vilket betyder att den innehåller olika texttyper och texter med olika stilnivåer.
+    Texterna har märkts upp med ordklasstaggar, morfologisk analys och lemma (allt detta kan anses som <i>referensdata</i>), samt viss strukturell och funktionell information.
+    </p>
+
+    <p>
+    Version 1.0 utvecklades i samarbete mellan Gunnel Källgren vid Stockholms Universitet och Eva Ejerhed vid Umeå universitet och gjordes tillgängligt 1997 av institutionen för lingvistik på Stockholms universitet.
+    </p>
+
+    <p>
+    Version 2.0 gjordes tillgänglig 2006 av Sofia Gustafsson Capkova och Britt Hartmann vid institutionen för lingvistik på Stockholms universitet.
+    Den innehåller samma texter som SUC 1.0 men är utökad med viss annotering.
+    Dessutom innehåller SUC 2.0 två bonusmaterial.
+    TigerSUC är SUC 2.0 konverterad till TIGER-XML av Martin Volk.
+    StorSUC är ytterligare SUC-material om fyra miljoner ord.
+    </p>
+
+    <p>
+    Version 3.0 finns tillgänglig sedan 2012.
+    Den innehåller förbättrad annotering, samt oannoterade texter om sju miljoner ord.
+    (För TigerXML-versionen, Suc2c, Suc2d och DTD:erna hänvisar vi fortfarande till version 2.0.)
+    </p>
+
+    <p>
+    Ytterligare information om sammanställning och uppmärkning av SUC finns i
+    <a href="https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf">manualen för SUC 2.0 [PDF]</a>
+    </p>
+
+    <p>Språkbanken distribuerar SUC 2.0 och SUC 3.0 i två varianter:</p>
+
+    <ul>
+    <li>
+    <a href="https://spraakbanken.gu.se/resurser/suc2">SUC 2.0</a> och <a href="https://spraakbanken.gu.se/resurser/suc3">SUC 3.0</a>:
+    fritt tillgänglig för forskning; kräver individuell licens
+    </li>
+    <li>
+    <a href="https://spraakbanken.gu.se/resurser/sucx2">SUCX 2.0</a> och <a href="https://spraakbanken.gu.se/resurser/sucx3">SUCX 3.0</a>:
+    meningar i omkastad ordning; berikad med automatisk annotering; nedladdningsbar utan restriktioner
+    </li>
+    </ul>
+
 
     <h2>SUC 3.0</h2>
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_swe.html}
+    <p>
+    SUC är fritt tillgänglig för forskning, men kräver att varje användare tecknar en individuell licens med Institutionen för lingvistik vid Stockholms universitet.
+    Från och med den 1/12 2008 är licensieringen av SUC delegerad till Språkbanken Text vid Göteborgs universitet.
+    </p>
+
+    <p>
+    Bilaga 3 av <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">SUC-licensen [PDF]</a>
+    ska skrivas ut, skrivas under och sedan skickas till
+    </p>
+
+    <address>
+    SUC-licens<br/>
+    Språkbanken Text<br/>
+    Institutionen för svenska, flerspråkighet och språkteknologi<br/>
+    Göteborgs universitet<br/>
+    Box 200<br />
+    405 30 Göteborg
+    </address>
+
+    <p>Efter att vi har mottagit och registrerat den underskrivna licensen, kommer vi att kontakta dig med en nedladdningslänk.</p>
   eng: |-
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_intro_eng.html}
+    <p>
+    The Stockholm-Umeå Corpus (SUC) is a collection of Swedish texts from
+    the 1990's, consisting of one million words in total. The corpus is
+    balanced, meaning that it contains various text types and stylistic
+    levels. The texts are annotated with part-of-speech tags,
+    morphological analysis and lemma (all that can be considered <i>gold standard data</i>), as well as some structural and functional information.
+    </p>
+
+    <p>
+    Version 1.0 was developed in co-operation between Gunnel
+    Källgren at Stockholm University and Eva Ejerhed at Umeå University
+    and was made available in 1997 by the department of linguistics at
+    Stockholm University.
+    </p>
+
+    <p>
+    Version 2.0 was made available in 2006 by
+    Sofia Gustafsson Capkova and Britt Hartmann at the department of
+    linguistics at Stockholm University. It contains the same texts as SUC
+    1.0 but is extended with some annotation. Additionally, SUC 2.0
+    contains bonus materials. TigerSUC is SUC 2.0 converted to TIGER-XML
+    by Martin Volk. StorSUC is additional SUC material of four million
+    words.
+    </p>
+
+    <p>
+    Version 3.0 is available since 2012. It contains
+    improved annotations, and unannotated texts with seven million
+    words. (For the TigerXML-version, Suc2c, Suc2d, and the DTDs we still
+    refer to version 2.0.)
+    </p>
+
+    <p>
+    Additional information about the compilation and annotation of SUC can be found in the
+    <a href="https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf">SUC 2.0 manual [PDF]</a>.
+    </p>
+
+    <p>Språkbanken distributes SUC 2.0 and SUC 3.0 in two variations:</p>
+
+    <ul>
+    <li>
+    <a href="https://spraakbanken.gu.se/en/resources/suc2">SUC 2.0</a> and <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC 3.0</a>:
+    freely available for research; require a signed licence
+    </li>
+    <li>
+    <a href="https://spraakbanken.gu.se/en/resources/sucx2">SUCX 2.0</a> and <a href="https://spraakbanken.gu.se/en/resources/sucx3">SUCX 3.0</a>:
+    sentences in scrambled order; enriched with automatic annotations; downloadable without restrictions
+    </li>
+    </ul>
+
 
     <h2>SUC 3.0</h2>
 
-    {include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/suc-includes/suc_licence_eng.html}
+    <p>
+    SUC is freely available for research, but requires that every user
+    signs an individual license with the department of linguistics at
+    Stockholm University. Since December 1st 2008, SUC licensing is
+    delegated to Språkbanken Text at the University of Gothenburg.
+    </p>
+
+    <p>
+    Appendix 3 of <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">the SUC license [PDF]</a>
+    needs to be printed, signed, and sent to
+    </p>
+
+    <address>
+    SUC-licens<br />
+    Språkbanken Text<br />
+    Institutionen för svenska, flerspråkighet och språkteknologi<br />
+    Göteborgs universitet<br />
+    Box 200<br />
+    405 30 Göteborg
+    </address>
+
+    <p>When we have received and registered the signed license, we will contact you with a download link.</p>

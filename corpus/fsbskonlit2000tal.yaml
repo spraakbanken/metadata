@@ -36,7 +36,82 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: '{include https://svn.spraakdata.gu.se/sb-arkiv/pub/resurstext/fisk-includes/fisk-skonlitteratur_2000-2013.html}
+  swe: |-
+    <html>
 
-    '
+    <p>
+    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
+    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    </p>
+
+
+
+    <!--
+    <p>
+    Skönlitteratur 2000–2013
+    </p>
+    -->
+
+    <p>
+    Samlingen innehåller skönlitteratur utgiven av förlagen Fontana Media, Förlaget Scriptum, Schildts och Söderströms förlag samt av Söderströms förlag. Författarna till verken är finlandssvenska.
+    </p>
+
+
+    <p>
+    Dessa verk ingår i samlingen:
+    </p>
+
+
+    <p>
+    <ul>
+    <li>På bio. Berättelser och bekännelser om levande bilder, Ahlfors Bengt, 2008</li>
+    <li>Hemifrån hem. Berättelser om ett utvidgat hemland, Berggren Camilla, 2007</li>
+    <li>Ordet står ännu kvar. En bok om Jan-Magnus Jansson, Bergman Bengt, 2005</li>
+    <li>Som om jag var någons skuggsida. En flickas historia, Bruun Patricia & Näse Lotta, 2010</li>
+    <li>Islossning, Dahlberg Julia, 2011</li>
+    <li>Mammuten, Donner Jörn, 2013</li>
+    <li>Lolauppochner, Fagerholm Monika, 2012</li>
+    <li>6 olika noveller (främst julnoveller), Gleisner Marita, 2008-2012</li>
+    <li>Kvinnor utan land, Hellman Sonja, 2012</li>
+    <li>Camera Obscura, Holmström Johanna, 2009</li>
+    <li>Asfaltänglar, Holmström Johanna, 2013</li>
+    <li>Dagboksblad från Finland, Hästbacka Hans, 2010</li>
+    <li>Väckning 4.30 - Om yrkesfisket i Svenska Österbotten, Hästbacka Hans, 2012</li>
+    <li>Protokollsutdrag från subversiva möten, Jansson Henrik, 2007</li>
+    <li>Brev från bar Aurora, Jansson Henrik, 2010</li>
+    <li>Lika delar liv och luft, Jungersten Sara, 2013</li>
+    <li>Annanstans, Kivelä Malin, 2013</li>
+    <li>Tankar i väglöst landskap, Klingenberg Kristina, 2007</li>
+    <li>Se till mig som liten är, Korkea-Aho Kaj, 2009</li>
+    <li>Gräset är mörkare på andra sidan, Korkea-Aho Kaj, 2012</li>
+    <li>Mia Mia, Kummel-Myrskog Pia, 2008</li>
+    <li>Ta livet av mig, mamma!, Käcko Marianne, 2008</li>
+    <li>Minnenas planet, Lindberg Petter, 2006</li>
+    <li>Kalkutta 75, Lindberg Petter, 2008</li>
+    <li>Skandal i ankdammen, Linderborg Lena, 2010</li>
+    <li>Svindlare mot sin vilja, Lindqvist Frej, 2010</li>
+    <li>Jägarens leende. Resor i hällkonstens rymd, Lundberg Ulla-Lena, 2010</li>
+    <li>Lärarrummet, Luther Annika, 2013</li>
+    <li>Mitt livs reportage. Minnen från åren 1958–1973, Lönnfors Per-Erik, 2007</li>
+    <li>Vändpunkter. Mitt liv som drama, Lönnfors Per-Erik, 2010</li>
+    <li>Förlorat, Mickwitz Peter, 2010</li>
+    <li>Om du ännu fanns, Olsoni-Broman Mimma, 2011</li>
+    <li>Kom, Pemberton Emma, 2012</li>
+    <li>Vattnen, Ringell Susanne, 2010</li>
+    <li>De siamesiska kusinerna, Sandelin Annika, 2010</li>
+    <li>Stormskärets Anni, Steinby Ann-Gerd, 2009</li>
+    <li>Inte gjort något, Stürmer Wava, 2005</li>
+    <li>Till varje pris, Stürmer Wava, 2007</li>
+    <li>Betryggande avstånd, Sumelius Puck, 2006</li>
+    <li>En morgontrött fågelskådares bekännelser. Dagboksblad maj-december, Sund Lars, 2010</li>
+    <li>Bär den som en krona, Tahvanainen Sanna, 2013</li>
+    <li>Emma & Uno - visst var det kärlek, Tikkanen Märta, 2010</li>
+    <li>Äta vägens ris. Bilfärder i Shanghai, Tötterman Karin, 2009</li>
+    <li>Minnet av myrten och andra berättelser, Östman Catharina, 2002</li>
+    <li>Jag sökte en dröm, Östman Catharina, 2009</li>
+    </ul>
+    </p>
+
+
+    </html>
   eng: ''
