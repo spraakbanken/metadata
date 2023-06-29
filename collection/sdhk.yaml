@@ -2,8 +2,8 @@ name:
   swe: Medeltidsbrev
   eng: Medieval letters
 short_description:
-  swe: ''
-  eng: ''
+  swe: Svenskt Diplomatariums huvudkartotek över medeltidsbreven (SDHK)
+  eng: Swedish medieval charters from Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)
 type: corpus
 trainingdata: false
 unlisted: false
@@ -31,3 +31,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Riksarkivets samling Svenskt Diplomatariums huvudkartotek (SDHK) innehåller brev "som på något sätt berör Sverige och svenska förhållanden från år 817 fram till 1540" (<a href="https://riksarkivet.se/sdhk" target="_blank">Riksarkivet</a>).
+
+    Med Korp kan du söka i brevtexterna ur ett språkvetenskapligt perspektiv. Hos Riksarkivet kan du istället <a href="https://sok.riksarkivet.se/sdhk" target="_blank">söka fram brev på detaljerade metadata</a>.
+  eng: |-
+    The catalogue contains Swedish medieval charters (official letters granting privileges) from between the years 817 and 1540 (<a href="https://riksarkivet.se/sdhk" target="_blank">Riksarkivet</a>).
+
+    Use Korp to search the document texts and their linguistic features, or use the <a href="https://sok.riksarkivet.se/sdhk" target="_blank">Riksarkivet search tool</a> to find letters from metadata details.
