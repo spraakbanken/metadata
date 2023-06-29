@@ -1,11 +1,10 @@
 name:
-  swe: Saldo
-  eng: Saldo
+  swe: SALDO
+  eng: SALDO
 short_description:
-  swe: SALDO (Svenskt Associationslexikon version 2) är ett semantiskt och morfologiskt
-    lexikon för modernt svenskt skriftspråk för språkteknologi.
-  eng: SALDO (Swedish Associative Thesaurus version 2) is an extensive lexicon resource
-    for modern Swedish written language.
+  swe: SALDO är ett semantiskt och morfologiskt lexikon för modernt svenskt skriftspråk
+    för språkteknologi.
+  eng: SALDO is an extensive lexicon resource for modern Swedish written language.
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -222,3 +221,14 @@ description:
     Creative Commons 3.0 Generic</a>.
      </p>
     -->
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: Saldo 3 has been forthcoming for ages
+references:
+  - https://gup.ub.gu.se/publication/188604 , https://gup.ub.gu.se/publication/102212
+    , https://gup.ub.gu.se/publication/72504 , https://doi.org/10.1075/nlp.14

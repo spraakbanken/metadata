@@ -3,9 +3,9 @@ name:
   eng: Parole+
 short_description:
   swe: Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information,
-    kopplade till betydelser i SALDO
+    partiellt länkad till betydelser i SALDO
   eng: The Swedish PAROLE Lexicon - A language technology resource with access to
-    syntactic information, connected to SALDO senses
+    syntactic information, partially linked to SALDO senses
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -49,3 +49,12 @@ description:
     <p>
     The document in LMF format is subjected to uppdates. The syntactic codes have been changed to make the data more comprehensible. See the <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mapping document</a> for more information.
     </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

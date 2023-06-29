@@ -2,8 +2,10 @@ name:
   swe: Dalins morfologi
   eng: Dalin's morphology
 short_description:
-  swe: En morfologi från Dalins ordbok - Ordbok över 1800-talsspråket
-  eng: A morphology from Dalin's Dictionary of 19th century Swedish
+  swe: En morfologi från Dalins ordbok - Ordbok över 1800-talsspråket, som härleds
+    ur Dalins basmaterial.
+  eng: A morphology from Dalin's Dictionary of 19th century Swedish that is derived
+    from Dalin's base material.
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -56,3 +58,13 @@ description:
     </ul>
 
     -->
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/140686?lang=sv

@@ -2,8 +2,9 @@ name:
   swe: Diakronisk pivot
   eng: Diachronic pivot
 short_description:
-  swe: Diakronisk pivotresurs
-  eng: Diachronic pivot resource
+  swe: Diakronisk pivotresurs där historisk lexikal information länkas till SALDO
+  eng: Diachronic pivot resource where historical lexical information is linked to
+    SALDO
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -30,3 +31,13 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - 'https://gup.ub.gu.se/publication/144291?lang=sv  https://gup.ub.gu.se/publication/140686?lang=sv  '

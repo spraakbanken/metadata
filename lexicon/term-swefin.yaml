@@ -2,8 +2,8 @@ name:
   swe: Svensk-finska ordlistor
   eng: Swedish-Finnish word lists
 short_description:
-  swe: ''
-  eng: ''
+  swe: Svensk-finska ordlistor inom olika ämnesområden
+  eng: Swedish-Finnish word lists within various domains
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -24,3 +24,12 @@ contact_info:
   affiliation:
     organisation: Institutet för språk och folkminnen
     email: registrator@sprakochfolkminnen.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

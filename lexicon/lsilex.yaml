@@ -2,8 +2,8 @@ name:
   swe: lsilex
   eng: lsilex
 short_description:
-  swe: ''
-  eng: ''
+  swe: Ett lexikon framtaget inom LSI-projektet
+  eng: A lexicon developed within the LSI project
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -24,3 +24,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

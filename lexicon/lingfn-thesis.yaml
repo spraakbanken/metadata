@@ -1,9 +1,9 @@
 name:
-  swe: lingfn-thesis
-  eng: lingfn-thesis
+  swe: LingFN-thesis
+  eng: LingFN-thesis
 short_description:
-  swe: ''
-  eng: ''
+  swe: Ett domänspecifikt frasnät med lingvistiska termer
+  eng: A Framenet for the linguistic domain
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -21,3 +21,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

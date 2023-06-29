@@ -166,3 +166,15 @@ description:
     <li>{publication 217351}</li>
     <li>{publication 198549}</li>
     </ol>
+annotation:
+  swe: ''
+  eng: Only lemmas (citation forms)
+keywords:
+  - thesaurus
+  - Roget
+  - synonymy
+  - antonymy
+caveats:
+  swe: ''
+  eng: Most recent word attested in 1915.
+references: []

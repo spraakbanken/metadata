@@ -3,7 +3,7 @@ name:
   eng: CoDeRooMor, v.01
 short_description:
   swe: Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet
-  eng: 'Morphological dataset (word-building morphology), Swedish L2 profiles project, '
+  eng: Morphological dataset (word-building morphology), Swedish L2 profiles project
 type: lexicon
 trainingdata: true
 unlisted: false
@@ -79,3 +79,12 @@ description:
     \ Yousuf Ali Mohammed, and Therese Lindström Tiedemann. 2021. CoDeRooMor: A new\
     \ dataset for non-inflectional morphology studies of Swedish. In The 23rd Nordic\
     \ Conference on Computational Linguistics. 2021.</small>"
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

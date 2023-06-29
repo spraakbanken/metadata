@@ -3,7 +3,7 @@ name:
   eng: Multilingual Constructicon
 short_description:
   swe: Ett flerspråkigt konstruktikon
-  eng: A multilingual constructicon
+  eng: A multilingual Constructicon
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -31,3 +31,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references: []

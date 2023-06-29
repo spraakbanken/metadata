@@ -2,11 +2,12 @@ name:
   swe: Svenskt frasnät (SweFN)
   eng: Swedish FrameNet (SweFN)
 short_description:
-  swe: 'En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley
-    FrameNet. Denna resurs är fullständig i den bemärkelse att den innehåller både
-    det semantiska och det syntaktiska innehållet.'
-  eng: 'A lexical semantic resource based on the same principles as the English Berkeley
-    FrameNet.'
+  swe: En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley
+    FrameNet. Denna del av resursen innehåller de semantiska ramarna och det manuellt
+    annoterade semantiska innehållet.
+  eng: A lexical semantic resource based on the same principles as the English Berkeley
+    FrameNet. This part of the resource contains the frames and the manually annotated
+    semantic content.
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -44,7 +45,7 @@ description:
   swe: ''
   eng: |-
     The file <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml">swefn.xml</a> contains the frames and the manually annotated semantic content.
-    
+
     The file <a href="https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip">swefn-full.zip</a> is the complete resource containing both the semantic and the syntactic content.
 
     The SweFN corpus examples can be downloaded <a href="https://spraakbanken.gu.se/en/resources/swefn-ex">here</a>.
@@ -337,3 +338,13 @@ description:
     </td>
     </tr>
     </table>
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://doi.org/10.1075/nlp.14

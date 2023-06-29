@@ -2,7 +2,7 @@ name:
   swe: Dalin Ordbok Öfver Svenska Språket - basmaterial
   eng: Dalin Dictionary - Base Material
 short_description:
-  swe: Dalins ordbok - Ordbok över 1800-talsspråket
+  swe: Dalins ordbok - Ordbok över 1800-talsspråket - basmaterial
   eng: Dalin's Dictionary of 19th century Swedish - base material
 type: lexicon
 trainingdata: false
@@ -30,3 +30,13 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - ''
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/140686?lang=sv
