@@ -43,3 +43,8 @@ description:
 
     <h3>Training your own models</h3>
     <p>Run <code>bash scripts/run_lemma.sh UD_Swedish-Suc gold</code>.<p>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []

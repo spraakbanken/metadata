@@ -25,3 +25,17 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+keywords: []
+caveats:
+  swe: ''
+  eng: Machine learning models trained on uncurated data inevitably learn hidden or
+    obvious biases and as a result, the models shared with here might contain characteristics
+    including sexism, racism, antisemitism, homophobia, and other such types of unacceptable
+    biases. I encourage whoever is using these models to make sure such biases are
+    actually removed before using them in production settings (see eg https://aclanthology.org/N19-1061/)
+references:
+  - 'Hengchen, Simon. (2022). Word2vec models trained on English Wikipedia [Data set].
+    Zenodo. https://doi.org/10.5281/zenodo.6542975 '
+description:
+  swe: ''
+  eng: See <a href="https://zenodo.org/record/6542975">See https://zenodo.org/record/6542975</a>

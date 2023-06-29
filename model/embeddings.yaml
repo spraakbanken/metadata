@@ -47,3 +47,8 @@ description:
       <li>Adewumi, Tosin, Foteini Liwicki and Marcus Liwicki. 2020. <a href="https://arxiv.org/pdf/2007.16007.pdf">Exploring Swedish & English fastText Embeddings with the Transformer</a></li>
       <li>Adewumi, Tosin, Foteini Liwicki and Marcus Liwicki. 2020. <a href="https://arxiv.org/pdf/2011.03281.pdf">Corpora Compared: The Case of the Swedish Gigaword & Wikipedia Corpora</a></li>
     </ul>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []

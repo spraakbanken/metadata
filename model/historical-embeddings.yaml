@@ -25,3 +25,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - Hengchen, Simon, & Tahmasebi, Nina. (2020). A collection of Swedish diachronic
+    word embedding models trained on historical newspaper data. Journal of open humanities
+    data. https://doi.org/10.5281/zenodo.4301658
+description:
+  swe: ''
+  eng: See <a href="https://zenodo.org/record/4301658">See https://zenodo.org/record/4301658</a>

@@ -76,3 +76,8 @@ description:
 
     <h3>Training your own models</h3>
     <p>Use <code>train_flair_p.py</code>. <code>Replace user_model</code> with the name for your model. By default, Flair's own embeddings will be used (our experiments show that they provide the best results), but you may use <a href="https://spraakbanken.gu.se/resurser/embeddings">other embeddings</a> instead (or combine them).<p>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []

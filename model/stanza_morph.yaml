@@ -79,3 +79,8 @@ description:
 
     <h3>Training your own models</h3>
     <p>Run <code>bash scripts/run_pos.sh UD_Swedish-Talbanken</code>. The instructions for using pretrained embeddings are provided <a href="https://stanfordnlp.github.io/stanza/training.html#preparing-word-vector-data">here</a>.<p>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []

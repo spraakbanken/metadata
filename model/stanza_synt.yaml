@@ -57,3 +57,8 @@ description:
 
     <h3>Training your own models</h3>
     <p>Run <code>bash scripts/run_depparse.sh UD_Swedish-Talbanken gold</code>. Replace <code>gold</code> with <code>predicted</code> if you want to predict POS tags and not use the gold ones. This command assumes that a pretrained part-of-speech model is available, you can find one <a href="https://spraakbanken.gu.se/resurser/stanza_morph">here</a>. The instructions for using pretrained embeddings are provided <a href="https://stanfordnlp.github.io/stanza/training.html#preparing-word-vector-data">here</a>.<p>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []

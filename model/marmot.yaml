@@ -79,3 +79,8 @@ description:
 
     <h3>Training your own models</h3>
     <p>Run <code>Marmot: java -Xmx5G -cp marmot.jar marmot.morph.cmd.Trainer -train-file form-index=0,tag-index=1,morph-index=2,corpus.col3 -tag-morph true -model-file model_name.marmot  subtag-separator "." -type-dict saldo_marmot.txt,indexes=[2,3]</code><p>
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
