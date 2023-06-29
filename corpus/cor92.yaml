@@ -1,9 +1,9 @@
 name:
-  swe: Corpus Oral de Referencia del Español Contemporáneo (SOL)
-  eng: Corpus Oral de Referencia del Español Contemporáneo (SOL)
+  swe: Corpus Oral de Referencia del Español Contemporáneo
+  eng: Oral Copus for Reference of Contemporary Spanish
 short_description:
-  swe: Del av SOL - Spanska Online
-  eng: Part of SOL - Spanish Online
+  swe: Korpus med transkriptioner från inspelade ljudband från 1991 till 1992. Del av SOL - Spanska Online
+  eng: Corpus with transcriptions from recorded audio tapes from 1991 to 1992. Part of SOL - Spanish Online
 type: corpus
 trainingdata: false
 unlisted: false
@@ -40,3 +40,6 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: Korpusen sammanställdes mellan januari 1991 och februari 1992 vid Universidad Autónoma de Madrid (UAM) under ledningen av Dr. Francisco Marcos Marín. Texterna innehåller transkriptioner av inspelade ljudband av varierande karaktär (privata samtal, undervisning, radio- och tv-program, etc.). Korpusen ingår i samlingen SOL - Spanska Online.
+  eng: Compiled between January 1991 and February 1992 at the Universidad Autónoma de Madrid (UAM) under the leadership of Dr. Francisco Marcos Marín. It contains transcriptions of recorded audio tapes of a varied nature (private conversations, lectures, radio and television programmes, etc.). This corpus is part of SOL - Spanish Online.

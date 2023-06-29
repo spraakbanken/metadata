@@ -1,9 +1,9 @@
 name:
-  swe: Betänkande angående likformig uppställning av grammatiska läroböcker
-  eng: Betänkande angående likformig uppställning av grammatiska läroböcker
+  swe: Betänkande ang. läroböcker (1882)
+  eng: Betänkande ang. läroböcker (1882)
 short_description:
-  swe: ''
-  eng: ''
+  swe: Göteborgs universitetsbiblioteks OCR-lästa men ej korrekturlästa digitalisering av ett betänkande från 1882
+  eng: A report from 1882, digitized by the Gothenburg University Library
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,6 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: Göteborgs universitetsbiblioteks digitalisering av <a href="https://gupea.ub.gu.se/handle/2077/40979">Betänkande angående likformig uppställning af grammatiska för rikets allm. läroverk afsedda läroböcker jemte dertill hörande grammatiska utkast</a> (1882). Den tryckta utgåvan har skannats och OCR-lästs, men ej korrekturlästs.
+  eng: Digitization of <a href="https://gupea.ub.gu.se/handle/2077/40979">Betänkande angående likformig uppställning af grammatiska för rikets allm. läroverk afsedda läroböcker jemte dertill hörande grammatiska utkast</a> (1882) by the Gothenburg University Library. The printed edition has been scanned and OCR:ed but not corrected.

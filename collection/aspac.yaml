@@ -75,3 +75,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    The collection was compiled and donated to Språkbanken Text by Adriaan
+    Barentsen. Unfortunately, there is no documentation available and no
+    publication to refer to. The corpus contains, inter alia, translations of
+    fiction (e.g. Winnie-the-Pooh, Alice in Wonderland) into various
+    languages. This information about the translated books and the authors
+    should be available in the metadata of the specific corpus.
