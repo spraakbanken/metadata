@@ -1,0 +1,54 @@
+name:
+  swe: ScandiSent
+  eng: ScandiSent
+short_description:
+  swe: Sentimentkorpus för svenska, norska, danska, finska och engelska, insamlad från trustpilot.
+  eng: Sentiment Corpus for Swedish, Norwegian, Danish, Finnish and English crawled from trustpilot.
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - nob
+  - dan
+  - eng
+  - fin
+size:
+  tokens: 0
+  sentences: 0
+in_collections: []
+downloads:
+  - url: https://github.com/timpal0l/ScandiSent/blob/main/ScandiSent.zip
+    type: corpus
+    format: ''
+    info: raw data for each language
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://github.com/timpal0l/ScandiSent/blob/main/ScandiSent-mt.zip
+    type: corpus
+    format: ''
+    info: raw data from ScandiSent machine translated to English
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: 'No added annotation, but each text has an inherent label: how the user rates the product/service'
+keywords: []
+caveats: 
+  swe: ''
+  eng: ''
+references:
+  - https://ep.liu.se/konferensartikel.aspx?series=ecp&issue=178&Article_No=42
+description:
+  swe: |-
+    Mer information finns på projektets <a href="https://github.com/timpal0l/ScandiSent">GitHub-sida</a>.
+  eng: |-
+    You can find more information on the project's <a href="https://github.com/timpal0l/ScandiSent">GitHub page</a>.
