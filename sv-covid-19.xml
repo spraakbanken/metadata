@@ -4,8 +4,8 @@
   <identificationInfo>
     <resourceName lang="eng">sv-COVID-19</resourceName>
     <resourceName lang="swe">sv-COVID-19</resourceName>
-    <description lang="eng">Miscellaneous articles related to corona.</description>
-    <description lang="swe">Blandade artiklar relaterade till corona.</description>
+    <description lang="eng">A compilation of various articles related to the COVID-19 pandemic</description>
+    <description lang="swe">Blandade artiklar relaterade till coronaviruspandemin</description>
     <resourceShortName lang="eng">sv-covid-19</resourceShortName>
     <resourceShortName lang="swe">sv-covid-19</resourceShortName>
     <metaShareId />
@@ -67,7 +67,7 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2023-05-26</metadataCreationDate>
+    <metadataCreationDate>2023-08-01</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
     <samplesLocation>https://spraakbanken.gu.se/en/resources/sv-covid-19</samplesLocation>
