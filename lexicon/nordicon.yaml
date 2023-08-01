@@ -1,0 +1,45 @@
+name:
+  swe: NordiCon
+  eng: NordiCon
+short_description:
+  swe: NordiCon är en databas som samlar medeltida nordgermanska personnamn från källor utanför Skandinavien.
+  eng: NordiCon is a database that collects medieval North Germanic personal names in sources outside Scandinavia.
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - gmq
+  - eng
+size:
+  entries: 0
+in_collections: []
+downloads: []
+interface:
+  - access: https://spraakbanken.gu.se/karp/tng/?mode=nordicon&lexicon=nordicon
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - names
+  - medieval
+caveats: 
+  swe: ''
+  eng: ''
+references: 
+  - https://gup.ub.gu.se/publication/293332
+description:
+  eng: |-
+    NordiCon is a database that collects medieval North Germanic personal
+    names in sources outside Scandinavia. It combines formally interpreted
+    and richly interlinked onomastic data with digitized versions of the
+    medieval manuscripts from which the data originate and information on the
+    name tokens’ context.
