@@ -2,8 +2,8 @@ name:
   swe: Rösträtt för kvinnor
   eng: Rösträtt för kvinnor
 short_description:
-  swe: ''
-  eng: ''
+  swe: Årgångarna 1912–1918 av tidskriften Rösträtt för kvinnor
+  eng: Annual volumes 1912–1918 of the journal Rösträtt för kvinnor
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,10 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Tidskriften utgavs av Landsföreningen för kvinnans politiska rösträtt
+    (LKPR), och upphörde när kvinnlig rösträtt uppnåddes 1919. Den här resursen
+    innehåller de digitiserade texterna från <a
+    href="http://runeberg.org/rostrattkv/" target="_blank">Projekt Runeberg</a>,
+    där den sista årgången dock bara har scannats, och inte OCR-lästs.

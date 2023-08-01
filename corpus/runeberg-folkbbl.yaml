@@ -2,8 +2,8 @@ name:
   swe: Folkbiblioteksbladet
   eng: Folkbiblioteksbladet
 short_description:
-  swe: ''
-  eng: ''
+  swe: Årgångarna 1904–1908 av tidskriften Folkbiblioteksbladet
+  eng: Annual volumes 1904–1908 of the Folkbiblioteksbladet journal
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,9 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |
+    Folkbiblioteksbladet utgavs 1903–1911 av Folkbildningsförbundet och Föreningen
+    för folkbibliotek och läsestugor. Denna resurs innehåller de fem årgångarna
+    1904–1908, digitiserade av <a href="http://runeberg.org/folkbbl/"
+    target="_blank">Projekt Runeberg</a>.

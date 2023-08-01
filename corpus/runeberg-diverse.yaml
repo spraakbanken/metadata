@@ -2,8 +2,8 @@ name:
   swe: Diverse tidningar
   eng: Diverse tidningar
 short_description:
-  swe: ''
-  eng: ''
+  swe: Fjorton årgångar av åtta olika tidsskrifter (1810–1933) som digitiserats av Projekt Runeberg
+  eng: Fourteen annual volumes of eight different periodicals (1810–1933) digitized by Project Runeberg
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,49 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Tidskrifterna har digitiserats av Projekt Runeberg. <table>
+    <thead>
+      <tr>
+        <th>Titel</th>
+        <th>Årgång</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="http://runeberg.org/brandp/" target="_blank" rel="noopener noreferrer">Brand</a></td>
+        <td>1905</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/deungast/" target="_blank" rel="noopener noreferrer">De ungas tidning</a></td>
+        <td>1933</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/dns/" target="_blank" rel="noopener noreferrer">Det Nya Sverige</a></td>
+        <td>1907, 1908, 1910</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/elegant10/" target="_blank" rel="noopener noreferrer">Elegant</a></td>
+        <td>1810</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/hvar8dag/" target="_blank" rel="noopener noreferrer">Hvar 8 dag</a></td>
+        <td>1901/02, 1907/08, 1908/09, 1913/14, 1914/15 *</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/nyconvbl/" target="_blank" rel="noopener noreferrer">Nyare Conversations-Bladet</a></td>
+        <td>1827</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/sundtidn/" target="_blank" rel="noopener noreferrer">Sundsvalls tidning</a></td>
+        <td>1888</td>
+      </tr>
+      <tr>
+        <td><a href="http://runeberg.org/varia/" target="_blank" rel="noopener noreferrer">Varia</a></td>
+        <td>1904</td>
+      </tr>
+    </tbody>
+    </table>
+
+    * Årgångarna för <em>Hvar 8 dag</em> löper från oktober ett år till september året därpå. Datumattributen i datan är något missvisande, särskilt för årgången 1913/1914, som är uppmärkt med <code>date="1915" datefrom="19150101" dateto="19151231"</code>.

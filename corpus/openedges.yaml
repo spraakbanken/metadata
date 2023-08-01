@@ -41,3 +41,20 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    EDGeS Diachronic Bible Corpus är en korpus med parallelltexter i den diakrona såväl som den synkrona dimensionen. EDGeS innehåller bibelöversättningar på engelska, nederländska, svenska och tyska, från 1300-talet till idag. De 36 biblar som samlades valdes ut enligt följande önskelista: a) de ska vara första upplagor av kompletta översättningar och inte moderniserade upplagor, och b) de ska vara översättningar i snäv bemärkelse, inte parafraser, harmonier, osv. Dessutom c) måste de har lämnat avtryck, till exempel genom stor spridning. Till slut d) måste texterna finnas i elektronisk form, och länken till (det tryckta) originalet måste gå att följa. Dokumentationen och publikationen som beskriver EDGeS ger mer information om i vilken mån vi har lyckas uppnå dessa ideal för de valda bibelöversättningarna.
+
+    För alla biblar i korpusen finns iallafall Nya testamentet med, och för de flesta finns också Gamla testamentet. En mindre mängd biblar kommer med apokryfer.
+
+    Parallelltexterna har delats upp i bok-kapittel-vers enheter, och linjerats automatiskt på versnivå, där den nutida nederländska översättningen Nieuwe Bijbelvertaling fungerar som mellantext (pivå).
+
+    OpenEDGeS är den öppna delmängden av EDGeS som distribueras med en publik licens. OpenEDGeS omfattar 31 historiska bibelöversättningar.
+  eng: |-
+    The EDGeS Diachronic Bible Corpus is a diachronically and synchronically parallel corpus of Bible translations in Dutch, English, German and Swedish, with texts from the 14th century until today.  The wish list underlying the final compilation of 36 Bibles was: they should be a) first editions of complete Bible translations, and not modernizations; and b) translations in a narrow sense (not: harmonies, paraphrases, rhyming Bibles, etc.) into a language variety that was current at the time of publication. Furthermore they c) must have made a historical impact, typically through wide dissemination; and d) their text must be available electronically, with a traceable link to the original. The documentation included in the archive and the related publication give information about the extent these ideals were met for the final selection.
+
+    For all Bibles, we include at least the New Testament, and for most we also have the Old Testament. A smaller number of Bibles have Apocryphal books.
+
+    The parallel Bible texts were split into book-chapter-verse segments, and automatically aligned at verse level, using the contemporary Dutch Nieuwe Bijbelvertaling as a pivot. We also have compiled meta-information for each of the Bibles.
+
+    OpenEDGeS is the open subpart of EDGeS, distributed under a public license, made up of 31 historical Bibles.

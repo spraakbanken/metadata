@@ -2,8 +2,8 @@ name:
   swe: Litteraturbanken
   eng: The Swedish Literature Bank
 short_description:
-  swe: ''
-  eng: ''
+  swe: Samtliga e-texter och sökbara faksimiler från Litteraturbanken (litteraturbanken.se)
+  eng: All e-texts and searchable facsimiles fron the Swedish Literature Bank (litteraturbanken.se)
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,11 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Korpusen består av alla e-texter och sökbara faksimiler från <a href="http://litteraturbanken.se/">Litteraturbanken</a>,
+    en fritt tillgänglig samling av svenska skönlitterära texter från medeltiden till nutiden.
+  eng: |-
+    The corpus contains all e-texts and searchable facsimiles from <a href="http://litteraturbanken.se/">the Swedish
+    Literature Bank</a>, a freely available collection of
+    Swedish literary works, ranging from medieval to contemporary.

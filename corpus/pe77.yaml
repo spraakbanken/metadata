@@ -1,9 +1,9 @@
 name:
-  swe: Banco de Datos de Prensa Española 1977 (SOL)
-  eng: Banco de Datos de Prensa Española 1977 (SOL)
+  swe: Banco de Datos de Prensa Española 1977
+  eng: Databank of 1977 Spanish Press
 short_description:
-  swe: Del av SOL - Spanska Online
-  eng: Part of SOL - Spanish Online
+  swe: Texter från två spanska tidningar från 1977. Del av SOL - Spanska Online.
+  eng: Text from two Spanish newspapers from 1977. Part of SOL - Spanish Online.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -40,3 +40,17 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |
+    Korpusen innehåller texter från tidningarna "El País" och "Triunfo", utgivna
+    i Spanien. De inkluderade utgåvorna är från 1977 och innehåller
+    annotationer för författare, källa, genre/kategori och platsen där artikeln
+    publicerades. Korpusen innehåller ca 3 000 tidningsartiklar skrivna av över
+    400 olika författare. Korpusen ingår i samlingen SOL - Spanska Online.
+  eng: |-
+    This corpus contains texts from two different newspapers published in Spain,
+    namely "El País" and "Triunfo". The periodicals included are from 1977 and
+    include annotations for author, source, genre/section, as well as the
+    location of the article within its publication. It contains about 3,000
+    articles from periodicals by more than 400 different authors. This corpus
+    is part of SOL - Spanish Online.

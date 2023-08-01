@@ -1,9 +1,9 @@
 name:
-  swe: Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)
-  eng: Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)
+  swe: Banco de Datos de Once Novelas Españolas 1951–1971
+  eng: Databank of Eleven Spanish Novels 1951–1971
 short_description:
-  swe: Del av SOL - Spanska Online
-  eng: Part of SOL - Spanish Online
+  swe: Korpus med elva spanska romaner. Del av SOL - Spanska Online.
+  eng: Corpus consisting of 11 Spanish novels. Part of SOL - Spanish Online.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -43,3 +43,19 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Korpusen består av 11 romaner av spanska författare, skrivna mellan 1951
+    och 1971. Alla romaner är skriven av olika författare. Texterna som ingår
+    i korpusen hör till den första utgåvan av romanerna på spanska. Syftet
+    med korpusen var att skapa digitala texter av denna tidsperiod för att
+    underlätta studier av det spanska språket, och att skapa hjälpmedel för
+    lingvistiska och litterära studier. Texterna är på spanska. Korpusen
+    ingår i samlingen SOL - Spanska Online.
+  eng: |-
+    This corpus consists of 11 novels from Spanish authors, written between 1952
+    and 1971. Each novel was written by a different author and the text included
+    is that of the first edition in Spanish. The purpose of the corpus is to
+    create electronic texts of the period to facilitate the study of the Spanish
+    language, and also to create utilities for linguistic and literary studies.
+    This corpus is part of the collection SOL - Spanish Online.

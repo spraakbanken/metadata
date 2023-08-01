@@ -2,8 +2,8 @@ name:
   swe: Sæmundaredda
   eng: Sæmundaredda
 short_description:
-  swe: ''
-  eng: ''
+  swe: Forntida isländsk poesi även känd som The King's Book
+  eng: Ancient Icelandic poetry collection also known as The King's Book
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |
+    Kungens bok är också känd under namnet Sæmundaredda Lóðaedda och Edda
+    Sæmundar fróda, och tros ha skrivits någon gång mellan 1270-1280. Detta
+    isländska skönlitterära manuskript innehåller antik poesi som är indelad
+    i två kategorier, mytisk poesi och heroisk poesi.
+  eng: |
+    The King's book is also known under the name of Sæmundaredda Lóðaedda and
+    Edda Sæmundar fróda, and is believed to be have written sometime between
+    1270-1280. This Icelandic fiction manuscript contains ancient poetry that
+    is divided into two categories, mythic poetry and heroic poetry.

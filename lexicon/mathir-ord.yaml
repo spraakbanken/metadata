@@ -38,3 +38,16 @@ caveats:
   swe: ''
   eng: ''
 references: []
+description:
+  swe: |
+    Mathir Ord innehåller lemman extraherade från en digitaliserad version av
+    Söderwalls ordbok. Informationen består av lemma och ordklassinformation.
+    Resursen sammanställdes inom projektet Mathir, finansierat av Marcus och
+    Amalia Wallenbergs Minnesfon, nr. 2012.0146, av Gerlof Bouma och Yvonne
+    Adesam.
+  eng: |
+    Mathir Words contains lemmata extracted from digitized versions of
+    Söderwall's dictionary. The information consists of a lemma, with
+    part-of-speech indication. The resource was compiled as part of the
+    Mathir project, financed by the Marcus and Amalia Wallenberg Foundation,
+    no. 2012.0146, by Gerlof Bouma and Yvonne Adesam.

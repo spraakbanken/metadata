@@ -35,3 +35,17 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  eng: |-
+    The Eukalyptus Treebank of Written Swedish is a 100 000 token manually
+    annotated treebank, consisting of texts from five different genres: novels,
+    wikipedia, blogs, europarl, and news and community information. The
+    annotation consists of lemmas, word senses, and parts-of-speech (in part
+    based on the SUC tagset) and syntactic structures (mainly based on MAMBA and
+    SAG) which were developed together for the treebank. The Eukalyptus treebank
+    was developed for evaluation purposes a part of the project Koala - Korps
+    lingvistiska annotationer, att utveckla en infrastruktur för text-baserad
+    forskning med högkvalitativa annotationer [Koala – Korp's linguistic
+    annotations, developing an infrastructure for text-based research with high
+    quality annotations] funded by Riksbankens Jubileumsfond (2014–2017; nr
+    In13-0320:1 to Yvonne Adesam et al).

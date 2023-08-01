@@ -2,8 +2,8 @@ name:
   swe: The English-Swedish Parallel Corpus (ESPC)
   eng: The English-Swedish Parallel Corpus (ESPC)
 short_description:
-  swe: ''
-  eng: ''
+  swe: ESPC är en kombinerad jämförbar och parallell korpus lämplig för tvärspråkig forskning för olika typer.
+  eng: ESPC is a combined comparable and parallel corpus suitable for cross-language research for diffferent types.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -28,16 +28,22 @@ contact_info:
     email: espc@sprak.gu.se
 description:
   swe: |-
-    <p>Mer information om ESPC finns på <a href="https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.
-    </p>
-
-    <p>
-    ESPC är en skyddad korpus och kan därför inte göras tillgänglig för nedladdning. Om du vill få tillgång till att söka i korpusen via Korp, vänligen kontakta <a href="mailto:espc@sprak.gu.se">Anna-Lena Fredriksson</a>.
-    </p>
+    English-Swedish Parallel Corpus (ESPC) sammanställdes på 1990-talet i ett
+    gemensamt projekt vid Göteborgs universitet och Lunds universitet. Den
+    första versionen av denna korpus släpptes för forskning i början av 2000
+    och den består av cirka 2,8 miljoner ord inklusive både original och
+    översatta texter. Korpusen har två huvuddelar, skönlitteratur och
+    facklitteratur, som vidare delas in i ett antal texttyper eller
+    kategorier. Alla texter är skrivna texter publicerade mellan 1980 och
+    2000, och de allra flesta är utdrag av kompletta texter.
+    För åtkomst kontakta <a href="mailto:espc@sprak.gu.se">Anna-Lena Fredriksson</a>.
   eng: |-
-    <p>You can find more information about ESPC at <a href="https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc">https://sprak.gu.se/forskning/korpuslingvistik/korpusar-vid-spl/espc</a>.
-    </p>
-
-    <p>
-    ESPC is a protected corpus and is therefore not available for download. If you want to be able to search the corpus via Korp please contact <a href="mailto:espc@sprak.gu.se">Anna-Lena Fredriksson</a>.
-    </p>
+    English-Swedish Parallel Corpus (ESPC) was compiled in 1990's in a joint
+    project at the University of Gothenburg and University of Lund. The first
+    version of this corpus was released for research in early 2000 and it consist
+    of approximately 2.8 million words including both original and translated
+    texts.  The corpus have two main parts, fiction and non-fiction, which are
+    further divided into a number of text types or categories. All texts are
+    written texts published between 1980 and 2000, and the great majority are
+    extracts of complete texts.
+    For access please contact <a href="mailto:espc@sprak.gu.se">Anna-Lena Fredriksson</a>.

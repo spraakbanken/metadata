@@ -2,8 +2,8 @@ name:
   swe: Biblioteksbladet
   eng: Biblioteksbladet
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Projekt Runebergs elektroniska utgåva av de äldsta årgångarna av "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening", 1916–1940'
+  eng: 'The earliest volumes of "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening" from 1916–1940, digitized by Project Runeberg'
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Texten är hämtad från <a href="http://runeberg.org/biblblad/">Projekt
+    Runeberg: Biblioteksbladet</a>, där den har korrekturlästs delvis av
+    frivilliga användare.
+  eng: |-
+    The text is from <a href="http://runeberg.org/biblblad/">Project Runeberg:
+    Biblioteksbladet</a>, where it has partly been manually corrected by
+    volunteer users.

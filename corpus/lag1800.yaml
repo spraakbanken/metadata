@@ -2,7 +2,7 @@ name:
   swe: Lagar från 1800-talet
   eng: Laws from the 1800's
 short_description:
-  swe: ''
+  swe: Regeringsformen 1809 med ändringar 1809-1974
   eng: ''
 type: corpus
 trainingdata: false
@@ -37,3 +37,12 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <b>Regeringsformen 1809 med ändringar 1809-1974</b><br><br>
+    Författningssamling Låssa kyrkas arkiv 1800.
+    Korpusen består av regeringsformen 1809 med
+    ändringar 1809–1974. Denna bygger på en digitalisering av <a
+    href="https://libris.kb.se/bib/7609882">Sveriges konstitutionella
+    urkunder</a> (SNS 1999) som ger ett bearbetat intryck och tycks sakna de
+    slags fel som ofta kan förekomma i OCR-tolkningar.

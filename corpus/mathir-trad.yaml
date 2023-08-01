@@ -3,8 +3,7 @@ name:
   eng: MAÞiR Trees
 short_description:
   swe: En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.
-  eng: 'An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency
-    syntax. '
+  eng: An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -28,3 +27,35 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Mathir Träd innehåller 5 manuellt annoterade fornsvenska texter eller
+    textfragment: 'Här sigx aff abotum allum skemptan mykla', en satirisk
+    text om abbotar; första kapitlet av Äldre Västgötalagen, en lagtext från
+    1200-talet; de första ungefär 20 sidorna av Pentateuchparafrasen, en
+    parafrasering av moseböckerna; de första 5 kapitlen (samt några fragment)
+    av Östgötalagen, en lagtext från 1200-talet; del 1 av Tungulus, Visio
+    Tnugdali, den kortare versionen. Texterna består av mer än 33 000 token
+    och nära 2 500 meningar. Annoteringen finns i PROIEL-XML-filer. Den
+    morfosyntaktiska annoteringen i Mathir Träd följer Menotec-riktlinjerna
+    och är del av annoteringsriktlinjerna/trädbankerna inom PROIEL-familjen.
+    Lemmatiseringen bygger på Söderwalls ordbok och supplement. Resursen
+    sammanställdes inom projektet Mathir, finansierat av Marcus och Amalia
+    Wallenbergs Minnesfond, nr. 2012.0146, av Gerlof Bouma och Yvonne
+    Adesam.
+  eng: |-
+    Mathir Trees contains 5 manually annotated Old Swedish texts or text
+    fragments: 'Här sigx aff abotum allum skemptan mykla', a satirical text
+    about abbots; the first chapter of Äldre Västgötalagen, a 13th century
+    Västergötland provincial law; the first 20-something (edition) pages from
+    Pentateuchparafrasen, a paraphrase of the five books of Moses; the first
+    5 chapters (plus some fragments) of Östgötalagen, a 13th century
+    Östergötland provincial law; part 1 of Tungulus, Visio Tnugdali/Vision of
+    Tundale, the shorter version. The texts consist of more than 33 000
+    tokens and close to 2 500 sentences. The annotation is provided in PROIEL
+    XML files. The morpho-syntactic annotation in MAÞiR Trees follows the
+    Menotec guidelines and is part of the PROIEL family of annotation
+    guidelines/treebanks. Lemmatization is based on Söderwall's dictionary
+    and supplements. The resource was compiled as part of the Mathir project,
+    financed by the Marcus and Amalia Wallenberg Foundation, no. 2012.0146,
+    by Gerlof Bouma and Yvonne Adesam.

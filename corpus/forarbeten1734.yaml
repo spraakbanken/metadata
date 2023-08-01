@@ -1,8 +1,8 @@
 name:
-  swe: Förarbeten
-  eng: Preperatory work
+  swe: 1734 års förarbeten
+  eng: Preperatory work 1734
 short_description:
-  swe: ''
+  swe: Material från lagkommissionen till 1734 års lag
   eng: ''
 type: corpus
 trainingdata: false
@@ -37,3 +37,11 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Förarbetena till 1734 års lag utgörs av material från lagkommissionen till
+    1734 års lag. Materialet är från 1686–1735, utgivet av Vilhelsm Sjögren
+    1900–1909. Materialet utgörs av protokoll från sammanträdena (vol. 1–3);
+    lagkommissionens förslag (vol. 4–6); utlåtanden över lagkommissionens
+    förslag (vol. 7) samt riksdagshandlingar angående lagkommissionens
+    förslag (vol. 8). Materialet är OCR-skannat med manuell efterarbetning.
