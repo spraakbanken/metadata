@@ -1,14 +1,16 @@
 name:
-  swe: SuperLim 2  # Human readable name in Swedish
-  eng: SuperLim 2  # Human readable name in English
+  swe: SuperLim 2
+  eng: SuperLim 2
 short_description:
-  swe: A standardized suite for evaluation and analysis of Swedish natural language understanding systems.  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: A standardized suite for evaluation and analysis of Swedish natural language understanding systems.  # Short description in a few words or a sentence in English (plain text only)
-type: corpus  # Must be "corpus", "lexicon" or "model"
-trainingdata: true  # If set to "true", the collection will be listed as "Training and evaluation data"
-unlisted: false  # If set to "true", the collection won't be listed, but it will be accessible via its URL
-successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
-collection: true  # Needs to be true
+  swe: A standardized suite for evaluation and analysis of Swedish natural language
+    understanding systems.
+  eng: A standardized suite for evaluation and analysis of Swedish natural language
+    understanding systems.
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+collection: true
 resources:
   - absabank-imm
   - argumentation-sentences
@@ -25,28 +27,38 @@ resources:
   - swewinogender
   - swewinograd
 language_codes:
-  - swe  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
-downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.4.zip  # URL to a downloadable file
-    type: an archive with the whole collection (datasets, documentation sheets, additional files) # What's in the file?
-    format: zip  # The file format or standard
-    info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+  - swe
+downloads:
+  - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.4.zip
+    type: an archive with the whole collection (datasets, documentation sheets, additional
+      files)
+    format: zip
+    info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: http://demo.spraakdata.gu.se/sasha/SuperLim_maintenance.odt  # URL to a downloadable file
-    type: an internal instruction on how (not) to update the Superlim 2.0 # What's in the file?
-    format: odt  # The file format or standard
-    info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+  - url: http://demo.spraakdata.gu.se/sasha/SuperLim_maintenance.odt
+    type: an internal instruction on how (not) to update the Superlim 2.0
+    format: odt
+    info: ''
     licence: ''
     restriction: ''
-contact_info:  # Contact info of the person who can answer questions about the collection
+contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: ""
-  eng: |-
-    See a detailed description <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.
-    
+  swe: ''
+  eng: See a detailed description <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

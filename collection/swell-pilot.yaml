@@ -2,8 +2,12 @@ name:
   swe: SweLL-pilot
   eng: SweLL-pilot
 short_description:
-  swe: ''
-  eng: Essays written by adult learners of Swedish
+  swe: Uppsatser svrivna av vuxenstuderande i svenska, manuellt anonymiserade och
+    annoterade med felkategorier. Korpusen innehåller både originaltexten och en normaliserad
+    version av varje uppsats. Insamlingperiod 2006-2016.
+  eng: Essays written by adult learners of Swedish, manually anonymised and correction
+    annotated. The corpus contains both the original learner text and a corrected
+    version of each essay. Collection period 2017-2020.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -50,3 +54,36 @@ description:
     <h2>Cite as</h2>
 
     <p>{publication 248141}</p>
+annotation:
+  swe: ''
+  eng: Essays are manually transcribed and anonymized. They are also graded using
+    the CEFR scale by human teachers. In addition, the essays are also linguistically
+    annotated (POS tagging, lemmatization, dependency annotation) using Sparv.
+keywords:
+  - L2 Swedish
+  - second language
+  - language learning
+  - essays
+caveats:
+  swe: ''
+  eng: Data collection is limited to a small geographical area and a short period
+    of time. Although several language backgrounds are represented, the corpus is
+    very unbalanced in this sense and as a consequence not well suited for native
+    language identification tasks.The corpus consists of three subcorpora, each coming
+    from a different source, with different proficiency levels, and with different
+    colleciton periods. While the three subcorpora can be used simultaneously, care
+    should be taken into account to ensure that artifacts from these differences do
+    not leak into models.
+references:
+  - '[README]: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
+  - '[HOW TO CITE 1]: Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi,
+    Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish
+    Learner Language corpus for European Reference Level studies. Proceedings of LREC
+    2016, Slovenia. [http://arxiv.org/pdf/1604.06583v1.pdf]'
+  - '[HOW TO CITE 2]: Wirén Mats, Arild Matsson, Dan Rosén, Elena Volodina. 2019.
+    SVALA: Annotation of Second-Language Learner Text Based on Mostly Automatic Alignment
+    of Parallel Corpora. CLARIN-2018 post-conference volume. LiUP Press. [http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf]'
+intended_uses:
+  swe: ''
+  eng: Automated grading using the CEFR scale, anonymization, second language acquisiton
+    studies

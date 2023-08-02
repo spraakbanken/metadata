@@ -29,3 +29,14 @@ description:
   eng: Kubord 2 is an updated version of Kubord 1 and contains both token frequencies
     and word relations from modern newspaper texts from the The National Library of
     Sweden.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

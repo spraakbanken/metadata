@@ -2,8 +2,8 @@ name:
   swe: Göteborgsposten
   eng: Göteborgsposten
 short_description:
-  swe: A corpus with texts from the newspaper "Göteborgsposten"
-  eng: En samling med texter från tidningen "Göteborgsposten"
+  swe: En korpus med texter från Göteborgs-Posten
+  eng: A corpus with texts from the newspaper Göteborgs-Posten
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

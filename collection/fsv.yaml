@@ -2,8 +2,8 @@ name:
   swe: Fornsvenska textbankens material
   eng: Fornsvenska textbankens material
 short_description:
-  swe: ''
-  eng: ''
+  swe: En samling fornsvenska texter från Fornsvenska textbanken
+  eng: A collection of Old Swedish texts from Fornsvenska textbanken
 type: corpus
 trainingdata: false
 unlisted: false
@@ -35,3 +35,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

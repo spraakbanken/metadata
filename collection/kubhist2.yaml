@@ -2,10 +2,10 @@ name:
   swe: Kubhist 2
   eng: Kubhist 2
 short_description:
-  swe: Diakronisk samling av historisk tidsskriftstext på svenska från perioden 1645–1906.
+  swe: Diakronisk samling av historisk tidsskriftstext på svenska från perioden 1645–1926.
     Kubhist 2 är en uppdaterad version av Kubhist med förbättrad OCR och mer material.
   eng: Diachronic collection of Swedish historical newspaper texts from the period
-    of 1645–1906. Kubhist 2 is an updated version av Kubhist with improved OCR and
+    of 1645–1926. Kubhist 2 is an updated version av Kubhist with improved OCR and
     more material.
 type: corpus
 trainingdata: false
@@ -42,3 +42,14 @@ description:
     href="https://spraakbanken.gu.se/blogg/index.php/2019/09/15/the-kubhist-corpus-of-swedish-newspapers/">The
     Kubhist corpus of Swedish newspapers</a>.</p><p>The collection is split into parts,
     by source periodical and decade.</p>'
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
