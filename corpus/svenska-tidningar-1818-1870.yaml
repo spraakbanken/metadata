@@ -2,10 +2,10 @@ name:
   swe: Svenska tidningar 1818-1870
   eng: Swedish newspapers 1818-1870
 short_description:
-  swe: 'Ett urval av svenska tidningar tryckta mellan 1818 och 1870 från samlingarna
-    på Kungliga biblioteket (KB). För OCR analys. '
-  eng: 'A selection of Swedish newspapers printed between 1818 and 1870 from the collections
-    of Kungliga biblioteket (KB). For OCR analysis. '
+  swe: Ett urval av svenska tidningar tryckta mellan 1818 och 1870 från samlingarna
+    på Kungliga biblioteket (KB). För OCR analys.
+  eng: A selection of Swedish newspapers printed between 1818 and 1870 from the collections
+    of Kungliga biblioteket (KB). For OCR analysis.
 type: corpus
 trainingdata: true
 unlisted: false
@@ -50,3 +50,18 @@ description:
     <p>
       It was produced as a part of the project <a href="https://spraakbanken.gu.se/projekt/enhanced-ocr-process" target="_blank">Evaluation and refinement of an enhanced OCR-process for mass digitisation</a> financed by RJ (dnr IN18-0940:1) for the period of 2019-2020.
       </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - fraktur
+  - historical newspapers
+  - OCR
+  - 'reference text '
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

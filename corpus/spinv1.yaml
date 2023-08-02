@@ -3,7 +3,8 @@ name:
   eng: SpIn v1
 short_description:
   swe: ''
-  eng: 256 essays collected from Language Introduction course (mid-term exams) for newly arrived refugees. Some of the students are recurrent.
+  eng: 256 essays collected from Language Introduction course (mid-term exams) for
+    newly arrived refugees. Some of the students are recurrent.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -26,3 +27,13 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+intended_uses:
+  swe: ''
+  eng: ''

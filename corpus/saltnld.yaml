@@ -2,8 +2,8 @@ name:
   swe: SALT – svenska-nederländska
   eng: SALT – Swedish-Dutch
 short_description:
-  swe: ''
-  eng: ''
+  swe: Nederländsk-svensk parallellkorpus av 1900-talet skön- och facklitterära texter.
+  eng: Dutch-Swedish parallel corpus of 20th century fictional and nonfictional texts.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -195,3 +195,24 @@ description:
     </table>
 
     <p>For more information about the corpus, see Rawoens, Gudrun (2008). Kausativa verbkonstruktioner i svenskan och nederländskan. En korpusbaserad syntaktisk-semantisk undersökning. (Göteborgsstudier i nordisk språkvetenskap 11) Göteborg: Göteborgs universitet.</p>
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - fiction
+  - nonfiction
+  - bilingual
+  - parallel
+  - 1900s
+caveats:
+  swe: ''
+  eng: The part of the corpus dedicated to fictional texts is evenly divided between
+    Swedish to Dutch and Dutch to Swedish translations, while its nonfiction portion
+    contains 6 Swedish to Dutch translations and only one Dutch to Swedish translation.
+references:
+  - 'Rawoens, Gudrun (2008). Kausativa verbkonstruktioner i svenskan och nederländskan.
+    En korpusbaserad syntaktisk-semantisk undersökning. (Göteborgsstudier i nordisk
+    språkvetenskap 11) Göteborg: Göteborgs universitet.'
+intended_uses:
+  swe: ''
+  eng: Typological studies

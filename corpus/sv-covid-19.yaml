@@ -2,8 +2,8 @@ name:
   swe: sv-COVID-19
   eng: sv-COVID-19
 short_description:
-  swe: Blandade artiklar relaterade till corona.
-  eng: Miscellaneous articles related to corona.
+  swe: Blandade artiklar relaterade till coronaviruspandemin
+  eng: A compilation of various articles related to the COVID-19 pandemic
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,19 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - news texts
+  - social media
+  - scientific articles
+  - medical articles
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/307200?lang=sv
+intended_uses:
+  swe: ''
+  eng: ''

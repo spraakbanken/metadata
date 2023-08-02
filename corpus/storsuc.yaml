@@ -91,7 +91,6 @@ description:
     av <a href="https://spraakbanken.gu.se/verktyg/sparv/annotationer">Sparv</a>.</p>
 
     <p>Det är också denna variant av SUC som går att utforska i Korp.</p>
-
   eng: |-
     STORSUC is a bonus material distributed with SUC2.0 (see below). The material is not formally included in SUC and does not adhere to the corpus format. It has not been annotated, but is only structured into paragraph-like segments. STORSUC is not balanced.
 
@@ -100,7 +99,7 @@ description:
     the 1990's, consisting of one million words in total. The corpus is
     balanced, meaning that it contains various text types and stylistic
     levels. The texts are annotated with part-of-speech tags,
-    morphological analysis and lemma (all that can be considered <i>gold standard data</i>), as well as some structural and functional information. 
+    morphological analysis and lemma (all that can be considered <i>gold standard data</i>), as well as some structural and functional information.
     </p>
 
     <p>
@@ -164,3 +163,14 @@ description:
       by <a href="https://spraakbanken.gu.se/en/tools/sparv/annotations">Sparv</a>.</p>
 
     <p>It is this variant of SUC that can be explored in Korp</p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -61,3 +61,14 @@ description:
     Version 2 uses <a href="https://universaldependencies.org/ext-format.html">an
     extended CoNLL-U format</a>. See more in the readme. The corpus is distributed
     under the Creative Commons Attribution-ShareAlike 3.0 Unported <a href="http://creativecommons.org/licenses/by-sa/3.0/">license</a>.</p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

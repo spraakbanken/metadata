@@ -1,9 +1,9 @@
 name:
-  swe: Svenska Wikipedia (april 2022)
-  eng: Swedish Wikipedia (april 2022)
+  swe: Svenska Wikipedia
+  eng: Swedish Wikipedia
 short_description:
-  swe: Samtliga artikar från svenska Wikipedia. Uppdateras regelbundet.
-  eng: All articles from the Swedish Wikipedia. Updated regularly.
+  swe: Korpus av svenskspråkiga Wikipedia
+  eng: Corpus of Swedish Wikipedia
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -1,9 +1,11 @@
 name:
   swe: Förhör
-  eng: Hearings
+  eng: Interrogations
 short_description:
-  swe: ''
-  eng: ''
+  swe: Korpusen är skyddad, kontakta Ylva Burman (ylva.byrman@svenska.gu.se) för mer
+    information och åtkomst.
+  eng: The corpus is protected, contact Ylva Burman (ylva.byrman@svenska.gu.se) for
+    more information and access.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -25,3 +27,15 @@ contact_info:
   affiliation:
     organisation: Institutionen för svenska, flerspråkighet och språkteknologi
     email: svenska.exp@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gupea.ub.gu.se/handle/2077/54376
+intended_uses:
+  swe: ''
+  eng: ''

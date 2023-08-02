@@ -32,7 +32,7 @@ contact_info:
     organisation: Institutionen för filosofi, lingvistik och vetenskapsteori
     email: data@flov.gu.se
 description:
-  swe: |
+  swe: |-
     Gothenburg Dialogue Corpus (GDC) är en samling av 360 individuella dialoger
     transkriberade från inspelningar av cirka 25 olika sociala aktiviteter.
     Korpusen initierades i slutet av 1970-talet för att möta ett växande intresse
@@ -42,7 +42,7 @@ description:
     Korpusen består av både ljud (50%) och ljud/video (50%) inspelningar av
     naturligt förekommande interaktioner.<br><br>
     För åtkomst kontakta <a href="mailto:data@flov.gu.se">data@flov.gu.se</a>.
-  eng: |
+  eng: |-
     Gothenburg Dialogue Corpus (GDC) is a collection of 360 individual dialogues
     transcribed from recordings of about 25 different social activites. The
     corpus was initiated in the late 1970's to meet a growing interest in
@@ -52,3 +52,14 @@ description:
     The corpus consist of both audio (50%) and audio/video (50%) recordings of
     naturalistically occurring interactions.<br><br>
     For access please contact <a href="mailto:data@flov.gu.se">data@flov.gu.se</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

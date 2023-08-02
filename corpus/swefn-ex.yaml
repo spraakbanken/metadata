@@ -3,7 +3,7 @@ name:
   eng: Swedish framenet (SweFN)
 short_description:
   swe: En lexikalisk-semantisk resurs baserad på samma principer som engelska Berkeley
-    FrameNet. Denna del av resursen innehåller corpusexemplen, automatiskt annoterade
+    FrameNet. Denna del av resursen innehåller korpusexemplen, automatiskt annoterade
     med språklig information.
   eng: A lexical semantic resource based on the same principles as the English Berkeley
     FrameNet. This part of the resource contains the corpus examples, automatically
@@ -41,3 +41,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -38,13 +38,24 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |
+  swe: |-
     Kungens bok är också känd under namnet Sæmundaredda Lóðaedda och Edda
     Sæmundar fróda, och tros ha skrivits någon gång mellan 1270-1280. Detta
     isländska skönlitterära manuskript innehåller antik poesi som är indelad
     i två kategorier, mytisk poesi och heroisk poesi.
-  eng: |
+  eng: |-
     The King's book is also known under the name of Sæmundaredda Lóðaedda and
     Edda Sæmundar fróda, and is believed to be have written sometime between
     1270-1280. This Icelandic fiction manuscript contains ancient poetry that
     is divided into two categories, mythic poetry and heroic poetry.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

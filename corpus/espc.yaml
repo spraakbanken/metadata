@@ -2,8 +2,10 @@ name:
   swe: The English-Swedish Parallel Corpus (ESPC)
   eng: The English-Swedish Parallel Corpus (ESPC)
 short_description:
-  swe: ESPC är en kombinerad jämförbar och parallell korpus lämplig för tvärspråkig forskning för olika typer.
-  eng: ESPC is a combined comparable and parallel corpus suitable for cross-language research for diffferent types.
+  swe: ESPC är en kombinerad jämförbar och parallell korpus lämplig för tvärspråkig
+    forskning för olika typer.
+  eng: ESPC is a combined comparable and parallel corpus suitable for cross-language
+    research for diffferent types.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -47,3 +49,17 @@ description:
     written texts published between 1980 and 2000, and the great majority are
     extracts of complete texts.
     For access please contact <a href="mailto:espc@sprak.gu.se">Anna-Lena Fredriksson</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - parallel
+  - fiction
+  - non-fiction
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -2,8 +2,8 @@ name:
   swe: Ekeblads brev
   eng: Ekeblad's letters
 short_description:
-  swe: ''
-  eng: ''
+  swe: ' Ekeblads brev korpusen bygger på den digitala utgåvan Breven till Claes 1639–1655.'
+  eng: Ekeblad's letter corpus is based on the digital edition Breven till Claes 1639–1655.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -37,3 +37,15 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - letter
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -59,3 +59,24 @@ description:
     create electronic texts of the period to facilitate the study of the Spanish
     language, and also to create utilities for linguistic and literary studies.
     This corpus is part of the collection SOL - Spanish Online.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - novel
+  - Spanish
+  - Spain
+  - 20th century
+  - 1950s
+  - 1960s
+  - 1970s
+  - literature
+caveats:
+  swe: ''
+  eng: This corpus is intended mainly for linguistic studies, with a secondary focus
+    on literature studies. As such, it is intended to be a representative sample of
+    the literature of the period as opposed to an all-encompassing one.
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -2,8 +2,10 @@ name:
   swe: Biblioteksbladet
   eng: Biblioteksbladet
 short_description:
-  swe: 'Projekt Runebergs elektroniska utgåva av de äldsta årgångarna av "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening", 1916–1940'
-  eng: 'The earliest volumes of "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening" from 1916–1940, digitized by Project Runeberg'
+  swe: 'Projekt Runebergs elektroniska utgåva av de äldsta årgångarna av "Biblioteksbladet:
+    Organ för Sveriges allmänna biblioteksförening", 1916–1940'
+  eng: 'The earliest volumes of "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening"
+    from 1916–1940, digitized by Project Runeberg'
 type: corpus
 trainingdata: false
 unlisted: false
@@ -46,3 +48,18 @@ description:
     The text is from <a href="http://runeberg.org/biblblad/">Project Runeberg:
     Biblioteksbladet</a>, where it has partly been manually corrected by
     volunteer users.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - 1910s
+  - 1920s
+  - 1930s
+  - journal
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

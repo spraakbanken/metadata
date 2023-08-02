@@ -32,7 +32,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |
+  swe: |-
     Korpusen består av samtal med fyra kvinnor födda mellan 1927 och 1937
     i sovjetiska Volgarepubliken. Deras modersmål är en tysk varietet som har talats
     i Ryssland sedan andra halvan av 1700-talet. Kvinnorna lever sedan Andra världskrigets
@@ -51,7 +51,7 @@ description:
     {brackets}; all verb forms have got the attribute FINIT or INFINIT. More information
     on the research project see <a href="http://sprak.gu.se/kontakta-oss/larare/andersen-christiane/syntax-in-contact/"
     target="_blank">Syntax in contact</a>.
-  eng: |
+  eng: |-
     The corpus consists of dialogs between four women born in 1927 to 1937 in
     the Sovªiet Volga Republic. Their mother tongue is a German variety
     spoken in Russia since the second half of the 18th century. Since the end
@@ -63,3 +63,15 @@ description:
     More information on the research project see <a
     href="http://sprak.gu.se/kontakta-oss/larare/andersen-christiane/syntax-in-contact/"
     target="_blank">Syntax in contact</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/215757?lang=svv
+intended_uses:
+  swe: ''
+  eng: ''

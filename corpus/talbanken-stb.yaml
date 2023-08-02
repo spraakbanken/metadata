@@ -68,3 +68,14 @@ description:
 
     <h1>Formats and splits</h1>
     <p>TalbankenSTB is available in the CONLL and XML formats. A train-test split is available.</p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

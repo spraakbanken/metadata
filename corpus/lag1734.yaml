@@ -2,7 +2,9 @@ name:
   swe: 1734 års lag
   eng: Laws of 1734
 short_description:
-  swe: ''
+  swe: Materialet utgörs av balkarna i själva lagtexten, förordet samt domarreglerna.
+    Materialet är inskrivet för hand och korrekturläst, men en del fel finns fortfarande
+    kvar.
   eng: ''
 type: corpus
 trainingdata: false
@@ -37,3 +39,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

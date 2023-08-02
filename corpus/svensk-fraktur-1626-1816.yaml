@@ -4,8 +4,8 @@ name:
 short_description:
   swe: Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna
     på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.
-  eng: 'A selection of fraktur texts printed between 1626 and 1816 from the collections
-    of the University Library of University of Gothenburg (UB). For OCR analysis. '
+  eng: A selection of fraktur texts printed between 1626 and 1816 from the collections
+    of the University Library of University of Gothenburg (UB). For OCR analysis.
 type: corpus
 trainingdata: true
 unlisted: false
@@ -50,3 +50,18 @@ description:
     <p>
     The number of digitized pages is 199 and the transcribed texts contain 47924 words in total. The list of titles, libris-ids and publishing links is available <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">here</a>.
     </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - fraktur
+  - OCR
+  - reference text
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/233768?lang=sv
+intended_uses:
+  swe: ''
+  eng: ''

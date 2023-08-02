@@ -47,3 +47,14 @@ description:
     </p>
     <p>More information (in Swedish) about SynTag can be found in <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/syntag/NN-1986-Jarborg-syntag.pdf">this manual</a>.
     </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

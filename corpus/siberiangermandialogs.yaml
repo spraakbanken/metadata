@@ -2,8 +2,10 @@ name:
   swe: Sibirientyska
   eng: Sibirian-German
 short_description:
-  swe: Sibirientyska är nedtecknad talad tyska som talas idag av c:a 36 000 människor i regionen Krasnojarsk i Sibirien (Ryssland).
-  eng: Siberian German is transcribed German spoken of about 36 000 people in the region of Krasnoyarsk in Siberia (Russia).
+  swe: Sibirientyska är nedtecknad talad tyska som talas idag av c:a 36 000 människor
+    i regionen Krasnojarsk i Sibirien (Ryssland).
+  eng: Siberian German is transcribed German spoken of about 36 000 people in the
+    region of Krasnoyarsk in Siberia (Russia).
 type: corpus
 trainingdata: false
 unlisted: false
@@ -32,7 +34,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |
+  swe: |-
     Korpusen har c:a 34 000 ord. Ryska ord och alla verbformer har annoterats (ryska ord och hybrider står i
     parentes; böjda verbformer får attribut FINIT eller INFINIT). Sibirientyska ingår
     i ett <a href="http://sprak.gu.se/kontakta-oss/larare/andersen-christiane/syntax-in-contact/"
@@ -43,9 +45,21 @@ description:
     annotated (Russian words and hybrids are given in brackets; verb forms have the
     attribute FINIT or INFINIT). The SGC has been achieved in <a href="http://sprak.gu.se/kontakta-oss/larare/andersen-christiane/syntax-in-contact/"
     target="_blank">cooperation</a> with the Astafyev University in Krasnoyarsk.
-  eng: |
+  eng: |-
     The corpus consists of about 34 000 words. Russian words and all verb forms are annotated
     (Russian words and hybrids are given in brackets; verb forms have the
     attribute FINIT or INFINIT). The SGC has been achieved in <a
     href="http://sprak.gu.se/kontakta-oss/larare/andersen-christiane/syntax-in-contact/"
     target="_blank">cooperation</a> with the Astafyev University in Krasnoyarsk.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/215757?lang=sv
+intended_uses:
+  swe: ''
+  eng: ''

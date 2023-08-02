@@ -42,3 +42,14 @@ description:
     <p> Several useful scripts for working with the corpus (including the one which labels all participants as L1 or L2-speakers in the respective subforum) can be found in this <a href="https://github.com/AleksandrsBerdicevskis/word-reference-corpus">repository</a>.</p>
 
     <p> For a more detailed description of the corpus, its creation and examples of how it can be used, see the following <a href="https://www.aclweb.org/anthology/2020.nlpcss-1.18/">paper</a>: {publication 297766}. Please cite the paper if you are using the corpus.</p>.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

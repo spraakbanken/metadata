@@ -45,3 +45,16 @@ description:
     The corpus contains all e-texts and searchable facsimiles from <a href="http://litteraturbanken.se/">the Swedish
     Literature Bank</a>, a freely available collection of
     Swedish literary works, ranging from medieval to contemporary.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - literature
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - litteraturbanken.se
+intended_uses:
+  swe: ''
+  eng: ''

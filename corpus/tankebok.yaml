@@ -2,8 +2,10 @@ name:
   swe: Stockholms stads tänkeböcker
   eng: Stockholms stads tänkeböcker
 short_description:
-  swe: Stockholms stads tänkeböcker består av protokoll och minnesanteckningar från Stockholms rådhusrätt.
-  eng: The City of Stockholm's memory books consist of minutes and memorial notes from Stockholm City Hall.
+  swe: Stockholms stads tänkeböcker består av protokoll och minnesanteckningar från
+    Stockholms rådhusrätt.
+  eng: The City of Stockholm's memory books consist of minutes and memorial notes
+    from Stockholm City Hall.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -38,4 +40,17 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: Stockholms tänkeböcker innehåller protokoll över både civilmål och brottmål som togs upp i Stockholms rådhusrätt. Den första tänkeboken är troligen skriven på 1460-talet.
+  swe: Stockholms tänkeböcker innehåller protokoll över både civilmål och brottmål
+    som togs upp i Stockholms rådhusrätt. Den första tänkeboken är troligen skriven
+    på 1460-talet.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

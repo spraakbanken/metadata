@@ -2,8 +2,9 @@ name:
   swe: MAÞiR Träd
   eng: MAÞiR Trees
 short_description:
-  swe: En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.
-  eng: An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax.
+  swe: En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil med PROIEL-korpusarna.
+  eng: An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency
+    syntax.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -59,3 +60,18 @@ description:
     and supplements. The resource was compiled as part of the Mathir project,
     financed by the Marcus and Amalia Wallenberg Foundation, no. 2012.0146,
     by Gerlof Bouma and Yvonne Adesam.
+annotation:
+  swe: ''
+  eng: Manually annotated with lemma, and Menotec/PROIEL-style parts-of-speech and
+    dependency structures
+keywords:
+  - treebank
+  - historical
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - https://gup.ub.gu.se/publication/265108
+intended_uses:
+  swe: ''
+  eng: ''

@@ -75,3 +75,14 @@ description:
     You may resplit the Talbanken yourself using the script in this <a href="https://github.com/spraakbanken/golddatatools">repository</a>.</p>
 
     <p>SyntSplit used is for dependency parsing: the treebank is divided into the training, development and test sets. The training set is the same as the one in <a href="https://spraakbanken.gu.se/en/resources/talbanken-stb">TalbankenSTB</a>, whereas dev and test approximate dev and test in the <a href="https://github.com/UniversalDependencies/UD_Swedish-Talbanken/">UD version</a> as much as possible. The SyntSplit is provided only in the CONLLU format.</p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

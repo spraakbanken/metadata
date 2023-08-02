@@ -41,7 +41,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |
+  swe: |-
     Korpusen innehåller texter från tidningarna "El País" och "Triunfo", utgivna
     i Spanien. De inkluderade utgåvorna är från 1977 och innehåller
     annotationer för författare, källa, genre/kategori och platsen där artikeln
@@ -54,3 +54,22 @@ description:
     location of the article within its publication. It contains about 3,000
     articles from periodicals by more than 400 different authors. This corpus
     is part of SOL - Spanish Online.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - 1970s
+  - newspapers
+  - periodicals
+  - Spain
+  - Spanish
+caveats:
+  swe: ''
+  eng: This corpus contains text from two newspapers published nationwide in Spain.
+    As such, it might not necessarily be representative of news media both in Spain
+    and in other Spanish-speaking countries at that time. Moreover, it is not recommended
+    to use to study current news media in Spanish, regardless of the country.
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

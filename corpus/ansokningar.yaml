@@ -2,8 +2,10 @@ name:
   swe: Ansökningar
   eng: Applications
 short_description:
-  swe: Anonymiserade jobbansökningar
-  eng: Anonymised job applications
+  swe: Anonymiserade jobbansökningar. Korpusen är skyddad, kontakta Lena Rogström
+    (lena.rogstroem@svenska.gu.se) för mer information och åtkomst.
+  eng: Anonymised job applications. The corpus is protected, contact Lena Rogström
+    (lena.rogstroem@svenska.gu.se) for more information and access.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -25,3 +27,14 @@ contact_info:
   affiliation:
     organisation: Institutionen för svenska språket
     email: svenska.exp@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

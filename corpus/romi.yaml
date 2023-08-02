@@ -2,7 +2,7 @@ name:
   swe: Bonniersromaner I (1976/77)
   eng: Bonnier novels I (1976/77)
 short_description:
-  swe: En korpus av 69 Bonniersromaner från 1976-77
+  swe: En korpus med 69 Bonniersromaner från 1976-77
   eng: A corpus of 69 Bonnier novels from 1976-77
 type: corpus
 trainingdata: false
@@ -37,3 +37,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

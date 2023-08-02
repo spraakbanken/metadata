@@ -2,8 +2,10 @@ name:
   swe: 'Dalin: Then Swänska Argus 1732-1734'
   eng: 'Dalin: Then Swänska Argus 1732-1734'
 short_description:
-  swe: 'Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734. För OCR analys.'
-  eng: 'Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734. For OCR analysis.'
+  swe: Manuell transkription av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734.
+    För OCR analys.
+  eng: Manual transcription of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734.
+    For OCR analysis.
 type: corpus
 trainingdata: true
 unlisted: false
@@ -42,3 +44,14 @@ description:
     <p>
       The resource, automatically annotated with morphological and syntactic information, is also available in <a href="https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin">Korp</a> and can be downloaded <a href="http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2">here</a>.
       </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

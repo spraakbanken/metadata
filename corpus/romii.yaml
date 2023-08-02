@@ -2,7 +2,7 @@ name:
   swe: Bonniersromaner II (1980/81)
   eng: Bonniers novels II (1980/81)
 short_description:
-  swe: En korpus av 60 Bonniersromaner från 1980-81
+  swe: En korpus med 60 Bonniersromaner från 1980-81
   eng: A corpus of 60 Bonnier novels from 1980-81
 type: corpus
 trainingdata: false
@@ -37,3 +37,14 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

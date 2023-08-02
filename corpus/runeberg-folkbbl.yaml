@@ -38,8 +38,21 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |
+  swe: |-
     Folkbiblioteksbladet utgavs 1903–1911 av Folkbildningsförbundet och Föreningen
     för folkbibliotek och läsestugor. Denna resurs innehåller de fem årgångarna
     1904–1908, digitiserade av <a href="http://runeberg.org/folkbbl/"
     target="_blank">Projekt Runeberg</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - 1900s
+  - journal
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -2,8 +2,8 @@ name:
   swe: InterFra
   eng: InterFra
 short_description:
-  swe: ''
-  eng: ''
+  swe: Talspråkskorpus av franska talat av svenska elever och studenter
+  eng: Corpus of French spoken by Swedish students
 type: corpus
 trainingdata: false
 unlisted: false
@@ -88,3 +88,14 @@ description:
     the authors of the corpus (Inge Bartning and Fanny Forsberg Lundell) and the link
     to InterFra at Språkbanken and Korp, <a href="https://spraakbanken.gu.se/swe/resurs/interfra">https://spraakbanken.gu.se/swe/resurs/interfra</a>, in any publication arising from their work.
     </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

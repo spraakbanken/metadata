@@ -3,7 +3,10 @@ name:
   eng: InterFra tagged
 short_description:
   swe: ''
-  eng: ''
+  eng: To promote research in the field of French L2 second language acquisition in
+    a developmental, interactional and variationist perspective. The HLP (High Level
+    Proficiency in Second language use) project also investigates learners of other
+    L2s such as Swedish, Spanish, English and Italian.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -88,3 +91,14 @@ description:
     the authors of the corpus (Inge Bartning and Fanny Forsberg Lundell) and the link
     to InterFra at Språkbanken and Korp, <a href="https://spraakbanken.gu.se/swe/resurs/interfra">https://spraakbanken.gu.se/swe/resurs/interfra</a>, in any publication arising from their work.
     </p>
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''

@@ -58,3 +58,44 @@ description:
     The parallel Bible texts were split into book-chapter-verse segments, and automatically aligned at verse level, using the contemporary Dutch Nieuwe Bijbelvertaling as a pivot. We also have compiled meta-information for each of the Bibles.
 
     OpenEDGeS is the open subpart of EDGeS, distributed under a public license, made up of 31 historical Bibles.
+annotation:
+  swe: 'The parallel texts are supplied in two formats: a) as text files that contain
+    a complete bible each, one verse per line, without headings or verse numbers,
+    and b) as a collection of TSV files, one file per Bible book, which include headings
+    and book-chapter-verse (BCV) identifiers.  Alignment information is supplied in
+    TSV files, with each line listing aligned BCV identifiers.  To solve the problem
+    of different Bibles organising the text in different ways, we created a number
+    of virtual Bible books for a subset of the Bibles, before aligning verses. These
+    virtual books reorganize individual books to follow the divisions of the pivot
+    Nieuwe Bijbelvertaling. These virtual books are an additional annotation and the
+    link to the original division is completely transparent. They are supplied in
+    the archive to facilitate future alignment endeavours, and are formatted as TSV
+    files.'
+  eng: 'Paralleltexterna kommer i två format: a) som textfil som innehåller hela bibeltexterna,
+    en vers per rad, utan rubriker eller versnummer, och b) som en samling tsv-filer,
+    en fil per bibelbok, där rubriker och bok-kapittel-vers (bkv) identiferare finns
+    med.  Linjeringsinformationen levereras som tsv-filer, där varje rad innehåller
+    linjerade bkv-identifierare.  För att lösa problemet att olika biblar kan organisera
+    texten på olika sätt har vi ompaketerat enstaka böcker i såkallade virtuella böcker,
+    så att de följer pivån Nieuwe Bijbelvertalings indelning, innan linjering. Denna
+    omorganisering är en tilläggsannotation och länken till ursprungsindelningen är
+    helt transparant. De virtuella bibelböckerna finns med i resursen för att underlätta
+    eventuella framtida linjeringsinsatser, som tsv-filer.'
+keywords:
+  - Bible text
+  - parallel
+  - historical
+  - English
+  - Swedish
+  - Dutch
+  - German
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - Gerlof Bouma, Evie Coussé, Trude Dijkstra, and Nicoline van der Sijs. 2020. The
+    EDGeS Diachronic Bible Corpus. In <i>Proceedings of the 12th Conference on Language
+    Resources and Evaluation (LREC 2020)</i>, pages 5232–5239. http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.644.pdf
+intended_uses:
+  swe: ''
+  eng: ''

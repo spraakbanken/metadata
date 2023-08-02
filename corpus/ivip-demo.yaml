@@ -42,3 +42,15 @@ contact_info:
 description:
   swe: Detta är en öppen delmängd av IVIP-korusen.
   eng: This is an open sub set of the IVIP corpus.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - http://su.diva-portal.org/smash/get/diva2:1591792/FULLTEXT01.pdf
+intended_uses:
+  swe: ''
+  eng: ''
