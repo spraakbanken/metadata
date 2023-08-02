@@ -38,6 +38,9 @@ caveats:
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
 references: [] # List of references or links to publications describing the resource
+intended_uses:
+  swe: '' # The intended uses for this resource (in Swedish)
+  eng: '' # The intended uses for this resource (in English)
 description:
   # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
   swe: |-
