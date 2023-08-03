@@ -53,3 +53,24 @@ references:
 intended_uses:
   swe: ''
   eng: ''
+description:
+  swe: |
+    sv-covid-19 är en samling svenska nyhetestexter, vetenskapliga och
+    populärvetenskapliga artiklar och artiklar från vissa bloggar och
+    sociala medier, till exempel Flashback och Twitter, som började
+    publiceras i början av coronaviruspandemin (tidigt 2020). Korpusen
+    består av drygt åtta miljoner ord och 9000 artiklar. Korpusen
+    innehåller olika texttyper och texter med olika stilnivåer. Texterna
+    har märkts upp med ordklasstaggar, morfologisk analys och lemma, samt
+    viss strukturell och funktionell information, som till exempel
+    författarnamn.
+  eng: |
+    sv-covid-19 is a collection of Swedish news texts, scientific and
+    popular science articles and articles from certain blogs and social
+    media wuch as Flashback and Twitter, which started to be published at
+    the beginning of the coronavirus pandemic (early 2020). The latest
+    verision of the corpus consists of approximately eight million words
+    and 9000 articles. The corpus contains various text types and texts
+    with different stylistic levels. The texts have been marked up with
+    word class tags, morphological analysis and lemma, as well as some
+    structural and functional information, such as author names.

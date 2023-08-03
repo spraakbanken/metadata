@@ -2,8 +2,8 @@ name:
   swe: ORDAT
   eng: ORDAT
 short_description:
-  swe: Svenska Dagbladets årsbok 1923 - 1958
-  eng: Yearbook of Svenska Dagbladet 1923 - 1958
+  swe: Svenska Dagbladets årsbok 1923–1958
+  eng: Yearbook of Svenska Dagbladet 1923–1958
 type: corpus
 trainingdata: false
 unlisted: false

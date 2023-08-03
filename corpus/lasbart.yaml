@@ -2,8 +2,8 @@ name:
   swe: LäSBarT
   eng: LäSBarT
 short_description:
-  swe: LäSBarT - Lättläst svenska och barnbokstext
-  eng: LäSBarT - Easy to read Swedish and texts from children's books
+  swe: Lättläst svenska och barnbokstext
+  eng: Easy to read Swedish and texts from children's books
 type: corpus
 trainingdata: false
 unlisted: false

@@ -2,8 +2,8 @@ name:
   swe: Litteraturbanken
   eng: The Swedish Literature Bank
 short_description:
-  swe: Samtliga e-texter och sökbara faksimiler från Litteraturbanken (litteraturbanken.se)
-  eng: All e-texts and searchable facsimiles fron the Swedish Literature Bank (litteraturbanken.se)
+  swe: E-texter och sökbara faksimiler från Litteraturbanken (litteraturbanken.se)
+  eng: E-texts and searchable facsimiles from the Swedish Literature Bank (litteraturbanken.se)
 type: corpus
 trainingdata: false
 unlisted: false
@@ -39,10 +39,10 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    Korpusen består av alla e-texter och sökbara faksimiler från <a href="http://litteraturbanken.se/">Litteraturbanken</a>,
+    Korpusen består av alla e-texter och sökbara faksimiler som fanns tillgängliga i november 2020 på <a href="http://litteraturbanken.se/">Litteraturbanken</a>,
     en fritt tillgänglig samling av svenska skönlitterära texter från medeltiden till nutiden.
   eng: |-
-    The corpus contains all e-texts and searchable facsimiles from <a href="http://litteraturbanken.se/">the Swedish
+    The corpus contains all e-texts and searchable facsimiles which were available in November 2020 on <a href="http://litteraturbanken.se/">the Swedish
     Literature Bank</a>, a freely available collection of
     Swedish literary works, ranging from medieval to contemporary.
 annotation:

@@ -2,8 +2,8 @@ name:
   swe: Bloggmix 2015
   eng: Bloggmix 2015
 short_description:
-  swe: ''
-  eng: ''
+  swe: Material från ett urval av svenska bloggar. Uppdateras regelbundet.
+  eng: Material from a selection of Swedish blogs. Is updated regularly.
 type: corpus
 trainingdata: false
 unlisted: false

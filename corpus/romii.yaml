@@ -1,9 +1,9 @@
 name:
-  swe: Bonniersromaner II (1980/81)
-  eng: Bonniers novels II (1980/81)
+  swe: Bonniersromaner II (1980–81)
+  eng: Bonniers novels II (1980–81)
 short_description:
-  swe: En korpus med 60 Bonniersromaner från 1980-81
-  eng: A corpus of 60 Bonnier novels from 1980-81
+  swe: En korpus med 60 Bonniersromaner från 1980–81
+  eng: A corpus of 60 Bonnier novels from 1980–81
 type: corpus
 trainingdata: false
 unlisted: false

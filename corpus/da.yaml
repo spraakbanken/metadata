@@ -48,3 +48,6 @@ references: []
 intended_uses:
   swe: ''
   eng: ''
+description:
+    swe: Texterna i korpusen är hämtade från nyhetsartiklarna på <a href="https://www.dagensarena.se/">dagensarena.se</a>. Korpusen uppdateras ca. två gånger per år.
+    eng: The texts in this corpus are downloaded from the news articles on <a href="https://www.dagensarena.se/">dagensarena.se</a>. The corpus is updated about twice a year.

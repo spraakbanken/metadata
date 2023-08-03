@@ -2,8 +2,8 @@ name:
   swe: Svensk författningssamling
   eng: Swedish statute book
 short_description:
-  swe: Svensk författningssamling
-  eng: Swedish statute book
+  swe: Svensk författningssamling 1880-01-01 – 2012-08-16
+  eng: Swedish statute book 1880-01-01 – 2012-08-16
 type: corpus
 trainingdata: false
 unlisted: false

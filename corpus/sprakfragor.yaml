@@ -1,6 +1,6 @@
 name:
-  swe: Besvarade Språkfrågor
-  eng: Questions about the Swedish Language
+  swe: Besvarade språkfrågor
+  eng: Questions and answers about the Swedish language
 short_description:
   swe: Spåkrådets rådgivningsmejl
   eng: Counselling mails of the Language Council of Sweden
@@ -36,3 +36,6 @@ references: []
 intended_uses:
   swe: ''
   eng: ''
+description:
+  swe: För åtkomst kontakta <a href="mailto:per-anders.jande@sprakochfolkminnen.se">Per-Anders Jande</a>.
+  eng: For access please contact <a href="mailto:per-anders.jande@sprakochfolkminnen.se">Per-Anders Jande</a>.

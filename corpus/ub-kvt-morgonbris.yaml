@@ -2,7 +2,7 @@ name:
   swe: Morgonbris
   eng: Morgonbris
 short_description:
-  swe: En korpus med texter från kvinnotidningen Morgonbris
+  swe: En korpus med texter från kvinnotidningen Morgonbris, arbeterskornas tidning - utgiven av kvinnornas fackförbund
   eng: A corpus with texts from the women's newspaper Morgonbris
 type: corpus
 trainingdata: false

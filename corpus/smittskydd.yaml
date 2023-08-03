@@ -2,9 +2,9 @@ name:
   swe: Smittskydd
   eng: Smittskydd
 short_description:
-  swe: Smittskyddsinstitutets tidning Smittskydd
+  swe: Smittskyddsinstitutets tidskrift Smittskydd, årgångarna 2002–2010
   eng: The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable
-    Disease Control)
+    Disease Control) 2002–2010
 type: corpus
 trainingdata: false
 unlisted: false

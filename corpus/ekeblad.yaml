@@ -2,8 +2,8 @@ name:
   swe: Ekeblads brev
   eng: Ekeblad's letters
 short_description:
-  swe: ' Ekeblads brev korpusen bygger på den digitala utgåvan Breven till Claes 1639–1655.'
-  eng: Ekeblad's letter corpus is based on the digital edition Breven till Claes 1639–1655.
+  swe: Korpusen Ekeblads brev bygger på Sture Alléns digitala utgåva Breven till Claes 1639–1655.
+  eng: Ekeblad's letter corpus is based on the digital edition Breven till Claes 1639–1655 by Sture Allén.
 type: corpus
 trainingdata: false
 unlisted: false

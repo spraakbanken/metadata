@@ -1,9 +1,9 @@
 name:
-  swe: SNP 1978-79
-  eng: SNP 1978-79
+  swe: SNP 1978–79
+  eng: SNP 1978–79
 short_description:
-  swe: Riksdagens snabbprotokoll 1978-1979
-  eng: Swedish parliament proceedings
+  swe: Riksdagens snabbprotokoll 1978–1979
+  eng: Swedish parliament proceedings 1978–1979
 type: corpus
 trainingdata: false
 unlisted: false

@@ -1,9 +1,9 @@
 name:
-  swe: 'Twitter: Party Leader Debate May 2014'
-  eng: 'Twitter: Partiledardebatt maj 2014'
+  swe: 'Twitter: Partiledardebatt maj 2014'
+  eng: 'Twitter: Party Leader Debate May 2014'
 short_description:
-  swe: Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.
-  eng: Material from a selection of Swedish Twitter users. Is regularly updated.
+  swe: Material från Twitter, insamlat under partiledardebatten 4 maj 2014 samt några dagar före och efter
+  eng: Material from Twitter, collected during the party leader debate on May 4th 2013 and a few days before and after
 type: corpus
 trainingdata: false
 unlisted: false

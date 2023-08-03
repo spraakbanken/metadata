@@ -2,8 +2,8 @@ name:
   swe: Läkartidningen 1998
   eng: Läkartidningen medical journal 1998
 short_description:
-  swe: Del av Korpus för vårdens och omsorgens fackspråk
-  eng: Part of the corpus for health care technical language
+  swe: 'Läkartidningens publicerade artiklar under 1998.'
+  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false
@@ -40,3 +40,6 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: Del av Korpus för vårdens och omsorgens fackspråk
+  eng: Part of the corpus for health care technical language

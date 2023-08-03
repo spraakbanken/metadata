@@ -2,7 +2,7 @@ name:
   swe: Hertha
   eng: Hertha
 short_description:
-  swe: En korpus med texter från kvinnotidningen Hertha
+  swe: En korpus med texter från kvinnotidningen Hertha, tidskrift för den svenska kvinnorörelsen - utgiven av Fredrika-Bremer-Förbundet
   eng: A corpus with texts from the women's newspaper Hertha
 type: corpus
 trainingdata: false

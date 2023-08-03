@@ -1,9 +1,9 @@
 name:
-  swe: Akademiska texter – Samhällsvetenskap
-  eng: Academic texts – Social science
+  swe: "Akademiska texter: Samhällsvetenskap"
+  eng: "Academic texts: Social science"
 short_description:
-  swe: En korpus med akademiska texter.
-  eng: A corpus with academic texts.
+  swe: En korpus med akademiska texter
+  eng: A corpus with academic texts
 type: corpus
 trainingdata: false
 unlisted: false

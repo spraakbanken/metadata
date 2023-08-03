@@ -1,9 +1,9 @@
 name:
-  swe: LSI
-  eng: LSI
+  swe: Linguistic Survey of India (LSI)
+  eng: Linguistic Survey of India (LSI)
 short_description:
-  swe: Linguistic Survey of India
-  eng: Linguistic Survey of India
+  swe: ''
+  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false
@@ -42,3 +42,5 @@ references: []
 intended_uses:
   swe: ''
   eng: ''
+description:
+  eng: 'A digital version of the classic Grierson’s <i>Linguistic Survey of India</i> (LSI; 1903-1927) covering more than 250 varieties representing the four major South Asian language families.'

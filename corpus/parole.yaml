@@ -1,6 +1,6 @@
 name:
-  swe: Parole korpus
-  eng: Parole corpus
+  swe: PAROLE
+  eng: PAROLE
 short_description:
   swe: En korpus annoterad med morfologisk och syntaktisk information
   eng: A corpus annotated with morphological and syntactic information

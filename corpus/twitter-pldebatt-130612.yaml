@@ -1,9 +1,9 @@
 name:
-  swe: 'Twitter: Party Leader Debate June 2013'
-  eng: 'Twitter: Partiledardebatt juni 2013'
+  swe: 'Twitter: Partiledardebatt juni 2013'
+  eng: 'Twitter: Party Leader Debate June 2013'
 short_description:
-  swe: Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.
-  eng: Material from a selection of Swedish Twitter users. Is regularly updated.
+  swe: Material från Twitter, insamlat under partiledardebatten 12 juni 2013 samt några dagar före och efter
+  eng: Material from Twitter, collected during the party leader debate on June 12th 2013 and a few days before and after
 type: corpus
 trainingdata: false
 unlisted: false

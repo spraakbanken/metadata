@@ -2,7 +2,7 @@ name:
   swe: Idun
   eng: Idun
 short_description:
-  swe: En korpus med texter från kvinnotidningen Idun
+  swe: En korpus med texter från kvinnotidningen Idun, praktisk veckotidning för kvinnan och hemmet
   eng: A corpus with texts from the women's newspaper Idun
 type: corpus
 trainingdata: false

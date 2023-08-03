@@ -1,8 +1,8 @@
 name:
-  swe: Statens offentliga utredningar
-  eng: Statens offentliga utredningar
+  swe: KBs digitaliserade SOU:er (1922–1996)
+  eng: KBs digitaliserade SOU:er (1922–1996)
 short_description:
-  swe: ''
+  swe: Statens offentliga utredningar (SOU) i digitaliserat format från <a href="https://sou.kb.se" target="_blank">Kungliga biblioteket</a>. Samlingen är inte komplett.
   eng: ''
 type: corpus
 trainingdata: false

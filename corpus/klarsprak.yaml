@@ -48,3 +48,9 @@ references: []
 intended_uses:
   swe: ''
   eng: ''
+description:
+  swe: |-
+    Korpusen skapades i ett pilotprojekt om att studera effekterna av
+    myndigheternas klarspråksarbete. Mer info finns i <a
+    href="https://gup.ub.gu.se/publication/259902?lang=sv"
+    target="_blank">denna artikel</a>.
