@@ -1,9 +1,9 @@
 name:
-  swe: Götheborgska Nyheter 1770-talet
-  eng: Götheborgska Nyheter 1770's
+  swe: 'Kubhist 2: Götheborgska Nyheter 1770-talet'
+  eng: 'Kubhist 2: Götheborgska Nyheter 1770''s'
 short_description:
-  swe: Del av samlingen Kubhist2
-  eng: Part of the collection Kubhist2
+  swe: Del av samlingen Kubhist 2
+  eng: Part of the collection Kubhist 2
 type: corpus
 trainingdata: false
 unlisted: false

@@ -1,9 +1,9 @@
 name:
-  eng: Östgötaposten 1900's
-  swe: Östgötaposten 1900-talet
+  eng: 'Kubhist 2: Östgötaposten 1900''s'
+  swe: 'Kubhist 2: Östgötaposten 1900-talet'
 short_description:
-  eng: Part of the collection Kubhist2
-  swe: Del av samlingen Kubhist2
+  eng: Part of the collection Kubhist 2
+  swe: Del av samlingen Kubhist 2
 type: corpus
 trainingdata: false
 unlisted: false

@@ -1,9 +1,9 @@
 name:
-  swe: Götheborgs Allehanda 1790-talet
-  eng: Götheborgs Allehanda 1790's
+  swe: 'Kubhist 2: Götheborgs Allehanda 1790-talet'
+  eng: 'Kubhist 2: Götheborgs Allehanda 1790''s'
 short_description:
-  swe: Del av samlingen Kubhist2
-  eng: Part of the collection Kubhist2
+  swe: Del av samlingen Kubhist 2
+  eng: Part of the collection Kubhist 2
 type: corpus
 trainingdata: false
 unlisted: false
