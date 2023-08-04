@@ -2,7 +2,7 @@ name:
   swe: Nya Argus 2010–2011
   eng: Nya Argus 2010–2011
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Tidskrift som bevakar kultur, samhälle och debatt
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -37,24 +37,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-    Nya Argus 2010–2011
-    </p>
-    -->
-
-    <p>
-    Nya Argus (www.kolumbus.fi/nya.argus/) är en tidskrift som bevakar kultur, samhälle och debatt. Tidskriften grundades 1907 och utkommer med minst tio nummer per år.
-    </p>
-
-
-    </html>
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://www.kolumbus.fi/nya.argus/">Nya Argus</a> är en tidskrift som bevakar kultur, samhälle och debatt. Tidskriften grundades 1907 och utkommer med minst tio nummer per år. Artiklar skrivna av utländska skribenter är bortplockade.</p>
   eng: ''

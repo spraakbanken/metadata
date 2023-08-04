@@ -2,7 +2,7 @@ name:
   swe: Lagtexter 1990–2000
   eng: Lagtexter 1990–2000
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Material ur Finlands lag
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,61 +34,88 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-    <HTML><HEAD>
-    <META content="text/html; charset=utf-8" http-equiv=Content-Type>
-    <META name=GENERATOR content="MSHTML 9.00.8112.16526"></HEAD>
-    <BODY>
-
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p>Materialet består av följande lagar ur Finlands lag:</p>
     <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+        <ul>
+            <li>Andelsbankslag (Ha 24 a)</li>
+            <li>Beredskapslag (T 1)</li>
+            <li>Bingoförordning (B 38 a)</li>
+            <li>Bokföringslag 30.12.1997/1336</li>
+            <li>Civiltjänstförordning (K 15)</li>
+            <li>Civiltjänstlag (K 14)</li>
+            <li>Finlands grundlag 11.6.1999</li>
+            <li>Fordonsförordning (Ek 96)</li>
+            <li>Föreningslag (Ci 10)</li>
+            <li>Föreningsregisterförordning (Ci 10 a)</li>
+            <li>Föreningsregistret (Ci 10 b)</li>
+            <li>Förordning om enskilda skogar (Ek 43 a)</li>
+            <li>Förordning om hem- och postförsäljning (Ha 19 a)</li>
+            <li>Förordning om försöksverksamhet med samhällstjänst (St 17 a)</li>
+            <li>Förordning om konsumentklagonämnden (Ha 19 k)</li>
+            <li>Förordning om konsumentombudsmannen (Ha 19 g)</li>
+            <li>Förordning om länsrätterna (B 3)</li>
+            <li>Förordning om marknadsdomstolen (Ha 19 i)</li>
+            <li>Förordning om prisinformation vid marknadsföring av konsumtionsnyttigheter</li>
+            <li>Förordning om rehabiliteringspenning (S 38)</li>
+            <li>Förordning om statsbudgeten (Nr 1243)</li>
+            <li>Förordning om uppgifter som skall lämnas vid marknadsföring av bostäder (Ha 19 c)</li>
+            <li>Förordning om verkställighet av samhällstjänst (St 17 b)</li>
+            <li>Förordning om vissa spelautomater och andra spelanordningar (B 38 b)</li>
+            <li>Förvaltningslag 6.6.2003/434</li>
+            <li>Förvaltningsprocesslag 26.7.1996/586</li>
+            <li>Jordabalk 12.4.1995/540</li>
+            <li>Kommunallag 17.3.1995/365</li>
+            <li>Kommunallag (D 1)</li>
+            <li>Konkurslag 20.2.2004/120</li>
+            <li>Konsumentskyddslag (Ha 19)</li>
+            <li>Körkortsförordning (Ek 94)</li>
+            <li>Lag om aktiebolag (Ha 5)</li>
+            <li>Lag om anordnande av konsumentrådgivning i kommunerna (Nr 72)</li>
+            <li>Lag om avförande av vissa föreningar ur</li>
+            <li>Lag om borgen och tredjemanspant 19.3.1999/361</li>
+            <li>Lag om bostadsaktiebolag (Ha 7)</li>
+            <li>Lag om bostadsköp 23.9.1994</li>
+            <li>Lag om finansiering av undervisnings- och kulturverksamhet (Nr 705)</li>
+            <li>Lag om förmyndarverksamhet 1.4.1999/442</li>
+            <li>Lag om försvarstillstånd (K 49)</li>
+            <li>Lag om försäkringskassor (Nr 1164)</li>
+            <li>Lag om försöksverksamhet med samhällstjänst (St 17)</li>
+            <li>Lag om handelsrepresentanter och försäljare (Nr 417)</li>
+            <li>Lag om hyra av bostadslägenhet 31.3.1995</li>
+            <li>Lag om indrivning av fordringar 22.4.1999/513</li>
+            <li>Lag om konsumentklagonämnden (Ha 19 j)</li>
+            <li>Lag om konsumentombudsmannen (Ha 19 f)</li>
+            <li>Lag om konsumentskydd vid fastighetsförmedling (Ha 19 b)</li>
+            <li>Lag om likabehandling 20.1.2004/21</li>
+            <li>Lag om marknadsdomstolen (Ha 19 h)</li>
+            <li>Lag om offentlighet i myndigheternas verksamhet 21.5.1999/621</li>
+            <li>Lag om preskription av skulder 15.8.2003/728</li>
+            <li>Lag om rättegång i brottmål 11.7.1997/689</li>
+            <li>Lag om specialiserad sjukvård (I 37)</li>
+            <li>Lag om skiljeförfarande (Nr 967)</li>
+            <li>Lag om statsandelar till kommunerna (Nr 688)</li>
+            <li>Lag om statsrådet 28.2.2003/175</li>
+            <li>Lag om stöd för hemvård av barn (Nr 797)</li>
+            <li>Landsbygdsnäringsförordning (Ek 31 b)</li>
+            <li>Landsbygdsnäringslag (Ek 31 a)</li>
+            <li>Markanvändnings- och bygglag 5.2.1999/132</li>
+            <li>Marknadsdomstolslag 28.12.2001/1527</li>
+            <li>Medborgarskapslag 16.5.2003/359</li>
+            <li>Miljöskyddslag 4.2.2000/86</li>
+            <li>Namnlag (Ci 1)</li>
+            <li>Ordningslag 27.6.2003/612</li>
+            <li>Penningautomatförordning (B 38)</li>
+            <li>Personuppgiftslag 22.4.1999/523</li>
+            <li>Reglemente för statsrådet 3.4.2003/262</li>
+            <li>Självstyrelselag för Åland (A 41 a)</li>
+            <li>Sparbankslag (Ha 24)</li>
+            <li>Språklag 6.6.2003/423</li>
+            <li>Strålskyddsförordning (Ar 33)</li>
+            <li>Sysselsättningsförordning (Q 5)</li>
+            <li>Sysselsättningslag (Q 4)</li>
+            <li>Vägtrafiklag (Ek 92)</li>
+            <li>Utlänningslag (H 30)</li>
+        </ul>
     </p>
-
-
-    <!--
-    <P>Lagtexter 1990–2000 </P>
-    -->
-    <P>Materialet består av följande lagar ur Finlands lag: </P>
-    <P>Andelsbankslag (Ha 24 a) Beredskapslag (T 1) Bingof¨rordning (B 38 a)
-    Bokföringslag 30.12.1997/1336 Civiltjänstförordning (K 15) Civiltjänstlag (K 14)
-    Finlands grundlag 11.6.1999 Fordonsförordning (Ek 96) Föreningslag (Ci 10)
-    Föreningsregisterförordning (Ci 10 a) Föreningsregistret (Ci 10 b) Förordning om
-    enskilda skogar (Ek 43 a) Förordning om hem- och postförsäljning (Ha 19 a)
-    Förordning om försöksverksamhet med samhällstjänst (St 17 a) Förordning om
-    konsumentklagonämnden (Ha 19 k) Förordning om konsumentombudsmannen (Ha 19 g)
-    Förordning om länsrätterna (B 3) Förordning om marknadsdomstolen (Ha 19 i)
-    Förordning om prisinformation vid marknadsföring av konsumtionsnyttigheter
-    Förordning om rehabiliteringspenning (S 38) Förordning om statsbudgeten (Nr
-    1243) Förordning om uppgifter som skall lämnas vid marknadsföring av bostäder
-    (Ha 19 c) Förordning om verkställighet av samhällstjänst (St 17 b) Förordning om
-    vissa spelautomater och andra spelanordningar (B 38 b) Förvaltningslag
-    6.6.2003/434 Förvaltningsprocesslag 26.7.1996/586 Jordabalk 12.4.1995/540
-    Kommunallag 17.3.1995/365 Kommunallag (D 1) Konkurslag 20.2.2004/120
-    Konsumentskyddslag (Ha 19) Körkortsförordning (Ek 94) Lag om aktiebolag (Ha 5)
-    Lag om anordnande av konsumentrådgivning i kommunerna (Nr 72) Lag om avförande
-    av vissa föreningar ur Lag om borgen och tredjemanspant 19.3.1999/361 Lag om
-    bostadsaktiebolag (Ha 7) Lag om bostadsköp 23.9.1994 Lag om finansiering av
-    undervisnings- och kulturverksamhet (Nr 705) Lag om förmyndarverksamhet
-    1.4.1999/442 Lag om försvarstillstånd (K 49) Lag om försäkringskassor (Nr 1164)
-    Lag om försöksverksamhet med samhällstjänst (St 17) Lag om handelsrepresentanter
-    och försäljare (Nr 417) Lag om hyra av bostadslägenhet 31.3.1995 Lag om
-    indrivning av fordringar 22.4.1999/513 Lag om konsumentklagonämnden (Ha 19 j)
-    Lag om konsumentombudsmannen (Ha 19 f) Lag om konsumentskydd vid
-    fastighetsförmedling (Ha 19 b) Lag om likabehandling 20.1.2004/21 Lag om
-    marknadsdomstolen (Ha 19 h) Lag om offentlighet i myndigheternas verksamhet
-    21.5.1999/621 Lag om preskription av skulder 15.8.2003/728 Lag om rättegång i
-    brottmål 11.7.1997/689 Lag om specialiserad sjukvård (I 37) Lag om
-    skiljeförfarande (Nr 967) Lag om statsandelar till kommunerna (Nr 688) Lag om
-    statsrådet 28.2.2003/175 Lag om stöd för hemvård av barn (Nr 797)
-    Landsbygdsnäringsförordning (Ek 31 b) Landsbygdsnäringslag (Ek 31 a)
-    Markanvändnings- och bygglag 5.2.1999/132 Marknadsdomstolslag 28.12.2001/1527
-    Medborgarskapslag 16.5.2003/359 Miljöskyddslag 4.2.2000/86 Namnlag (Ci 1)
-    Ordningslag 27.6.2003/612 Penningautomatförordning (B 38) Personuppgiftslag
-    22.4.1999/523 Reglemente för statsrådet 3.4.2003/262 Självstyrelselag för Åland
-    (A 41 a) Sparbankslag (Ha 24) Språklag 6.6.2003/423 Strålskyddsförordning (Ar
-    33) Sysselsättningsförordning (Q 5) Sysselsättningslag (Q 4) This file is
-    composite of the newest legal texts, originally published in Finlands
-    författningssamling 1992 Vägtrafiklag (Ek 92) Utlänningslag (H 30)
-    </P></BODY></HTML>
   eng: ''

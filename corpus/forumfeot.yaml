@@ -2,7 +2,7 @@ name:
   swe: Forum för ekonomi och teknik 2008–2012
   eng: Forum för ekonomi och teknik 2008–2012
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Finlands enda svenskspråkiga affärsmagasin
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,24 +34,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-    Forum för ekonomi och teknik 2008–2012
-    </p>
-    -->
-
-    <p>
-    Forum för ekonomi och teknik (http://www.forummag.fi) är Finlands enda svenskspråkiga affärsmagasin och ger sina läsare information om näringsliv, ledarskap och teknologi. Tidskriften grundades 1967 och utkommer med elva nummer per år.
-    </p>
-
-
-    </html>
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://www.forummag.fi">Forum för ekonomi och teknik</a> är Finlands enda svenskspråkiga affärsmagasin och ger sina läsare information om näringsliv, ledarskap och teknologi. Tidskriften grundades 1967 och utkommer med elva nummer per år.</p>
   eng: ''

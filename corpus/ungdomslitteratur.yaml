@@ -2,7 +2,7 @@ name:
   swe: Finlandssvensk Ungdomslitteratur 1992–2012
   eng: Finland Swedish Youth Literature 1992–2012
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Material ur ungdomslitterära verk publicerade under 1992–2013
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,41 +34,17 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p>Samlingen innehåller ungdomslitteratur utgiven av förlagen Fontana Media, Schildts och Söderströms förlag samt av Söderströms förlag. Författarna till verken är finlandssvenska. Observera att samlingen är liten.</p>
+    <p>Dessa verk ingår i samlingen:
+        <ul>
+            <li>Tre dagar, Fontell Mats, 2001</li>
+            <li>Brev till världens ände, Luther Annika, 2005</li>
+            <li>De hemlösas stad, Luther Annika, 2011</li>
+            <li>Bryta mot lagen, Tikkanen Märta, 1992</li>
+            <li>Anaché, Turtschaninoff Maria, 2012</li>
+            <li>Arra, Turtschaninoff Maria, 2009</li>
+            <li>Underfors, Turtschaninoff Maria, 2011</li>
+        </ul>
     </p>
-
-
-    <!--
-    <p>
-    Ungdomslitteratur 1992–2012
-    </p>
-    -->
-
-    <p>
-    Samlingen innehåller ungdomslitteratur utgiven av förlagen Fontana Media, Schildts och Söderströms förlag samt av Söderströms förlag. Författarna till verken är finlandssvenska. Observera att samlingen är liten.
-    </p>
-
-    <p>
-    Dessa verk ingår i samlingen:
-    </p>
-
-
-
-    <p>
-    <ul>
-    <li>Tre dagar, Fontell Mats, 2001</li>
-    <li>Brev till världens ände, Luther Annika, 2005</li>
-    <li>De hemlösas stad, Luther Annika, 2011</li>
-    <li>Bryta mot lagen, Tikkanen Märta, 1992</li>
-    <li>Anaché, Turtschaninoff Maria, 2012</li>
-    <li>Arra, Turtschaninoff Maria, 2009</li>
-    <li>Underfors, Turtschaninoff Maria, 2011</li>
-    </ul>
-    </p>
-
-    </html>
   eng: ''

@@ -2,7 +2,7 @@ name:
   swe: Bullen 2010–2012
   eng: Bullen 2010–2012
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Åbo Akademis Studentkårs informationsbulletin
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,24 +34,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-    Bullen 2010–2012
-    </p>
-    -->
-
-
-    <p>
-    Bullen (http://www.karen.abo.fi/index.php?u[2]=0&u[3]=70) var Åbo Akademis Studentkårs informationsbulletin och innehöll information som var till nytta för studentkårens medlemmar. Tidskriften slutade publiceras år 2012.
-    </p>
-
-    </html>
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://www.karen.abo.fi/index.php?u[2]=0&u[3]=70">Bullen</a> var Åbo Akademis Studentkårs informationsbulletin och innehöll information som var till nytta för studentkårens medlemmar. Tidskriften slutade publiceras år 2012.</p>
   eng: ''

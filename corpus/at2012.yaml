@@ -2,7 +2,7 @@ name:
   swe: Ålandstidningen 2012
   eng: Ålandstidningen 2012
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Regional svenskspråkig dagstidning på Åland
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,24 +34,7 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://www.alandstidningen.ax/">Ålandstidningen</a> är en regional svenskspråkig dagstidning på Åland. Tidningen har grundades 1891 och utkommer sex dagar i veckan.
     </p>
-
-
-    <!--
-    <p>
-    Ålandstidningen 2012
-    </p>
-    -->
-
-    <p>
-    Ålandstidningen (http://www.alandstidningen.ax/) är en regional svenskspråkig dagstidning på Åland. Tidningen har grundades 1891 och utkommer sex dagar i veckan.
-    </p>
-
-
-    </html>
   eng: ''

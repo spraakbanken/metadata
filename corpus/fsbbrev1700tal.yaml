@@ -2,7 +2,8 @@ name:
   swe: Brev 1700-tal
   eng: Letters 1700-tal
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Privatkorrespondens, dagböcker, resejournaler och andra icke skönlitterära
+    texter såsom meddelanden och uppsatser
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -32,3 +33,7 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
+    i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska
+    litteratursällskapet i Finland</a></p>

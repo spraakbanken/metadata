@@ -2,7 +2,8 @@ name:
   swe: Finlandssvensk Myndighetsprosa 1990–2013
   eng: Finlandssvensk Myndighetsprosa 1990–2013
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Material ur bland annat Utbildningsstyrelsens, Undervisningsministeriets och
+    Länsstyrelsens publikationer.
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -37,48 +38,29 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-    <HTML><HEAD>
-    <META content="text/html; charset=utf-8" http-equiv=Content-Type>
-    <META name=GENERATOR content="MSHTML 9.00.8112.16526"></HEAD>
-    <BODY>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p>Samlingen består av material som är utgivet av städer, kommuner och offentliga myndigheter under tidsperioden1990-2000. En del av texterna är ursprungligen skrivna på finska och översatta till svenska av myndigheten i fråga.</p>
+    <p>Dessa texter ingår i samlingen:
+        <ul>
+            <li>Anvisningar för genomförande gemensam elevansökan 1993 Budget år 2000, 1999 (Mariehamns stad)</li>
+            <li>Budgeten 1993 - Personalplan - Utbildningsplan - ADB utvecklingsplan 1993 (YLE, Svenska enheten)</li>
+            <li>De allmänna bibliotekens verksamhet år 1991 i det svenskspråkiga inspektionsdistriktet i Nylands län, Vasa samt Åbo och Björneborgs län (Länsstyrelsen i Nylands län)</li>
+            <li>Elevernas språkkunskaper. Kartläggning av språksituationen i det svenskspråkiga inspektionsdistriktet våren 1990 (Länsstyrelsen i Nylands län)</li>
+            <li>Formal report from kyrkorådet ('church council') (Sjundeå församling)</li>
+            <li>Formal reports (Sw. 'utlåtande') (Svenska Finlands folkting)</li>
+            <li>Förslag till plan för utveckling av utbildningen under åren 1991-1996 (Länsstyrelsen i Nylands län)</li>
+            <li>Gemensam elevansökan i Nylands län (Länsstyrelsen i Nylands län)</li>
+            <li>Grunderna för grundskolans läroplan (Utbildningsstyrelsen)</li>
+            <li>Grunderna för gymnasiets läroplan (Utbildningsstyrelsen)</li>
+            <li>Medborgar- och arbetarinstituten samt folkhögskolorna i Nylands län. Verksamheten arbetsåret 1991-92 (Länsstyrelsen i Nylands län)</li>
+            <li>Modersmålsinriktad finska för grundskolans högstadium. Förslag till mål och innehåll i detalj (Utbildningsstyrelsen)</li>
+            <li>Professional letters (administration in a parish)</li>
+            <li>Promemoria av arbetsgruppen för svensk juristutbildning Promemoria av arbetsgruppen för den svenska läkarutbildningen 1990 (Undervisningsministeriet)</li>
+            <li>Sample circulars (YLE, Svenska enheten)</li>
+            <li>Sample minutes (YLE, Svenska enheten)</li>
+            <li>Utan studieplats 1991 - och vad hände sedan? Gemensam elevansökan 1992 (Länsstyrelsen i Nylands län)</li>
+            <li>Utvecklingen av den svenskspråkiga vuxenutbildningen i Nylands län. Plan för åren 1989-1994 (Länsstyrelsen i Nylands län)</li>
+            <li>Verksamhetsberättelse 1999, 2000 (Mariehamns stad) Årsberättelse 1998, 1999 (Mariehamns stad)</li>
+        </ul>
     </p>
-
-
-    <!--
-    <P>Myndighetsprosa 1990–2000 </P>
-    -->
-    <P>Samlingen består av material som är utgivet av städer, kommuner och
-    offentliga myndigheter under tidsperioden1990-2000. En del av texterna är
-    ursprungligen skrivna på finska och översatta till svenska av myndigheten i
-    fråga. </P>
-    <P>Dessa texter ingår i samlingen: </P>
-    <P>Anvisningar för genomförande gemensam elevansökan 1993 Budget år 2000, 1999
-    (Mariehamns stad) Budgeten 1993 - Personalplan - Utbildningsplan - ADB
-    utvecklingsplan 1993 (YLE, Svenska enheten) De allmänna bibliotekens verksamhet
-    år 1991 i det svenskspråkiga inspektionsdistriktet i Nylands län, Vasa samt Åbo
-    och Björneborgs län (Länsstyrelsen i Nylands län) Elevernas språkkunskaper.
-    Kartläggning av språksituationen i det svenskspråkiga inspektionsdistriktet
-    våren 1990 (Länsstyrelsen i Nylands län) Formal report from kyrkorådet ('church
-    council') (Sjundeå församling) Formal reports (Sw. 'utlåtande') (Svenska
-    Finlands folkting) Förslag till plan för utveckling av utbildningen under åren
-    1991-1996 (Länsstyrelsen i Nylands län) Gemensam elevansökan i Nylands län
-    (Länsstyrelsen i Nylands län) Grunderna för grundskolans läroplan
-    (Utbildningsstyrelsen) Grunderna för gymnasiets läroplan (Utbildningsstyrelsen)
-    Medborgar- och arbetarinstituten samt folkhögskolorna i Nylands län.
-    Verksamheten arbetsåret 1991-92 (Länsstyrelsen i Nylands län) Modersmålsinriktad
-    finska för grundskolans högstadium. Förslag till mål och innehåll i detalj
-    (Utbildningsstyrelsen) Professional letters (administration in a parish)
-    Promemoria av arbetsgruppen för svensk juristutbildning Promemoria av
-    arbetsgruppen för den svenska läkarutbildningen 1990 (Undervisningsministeriet)
-    Sample circulars (YLE, Svenska enheten) Sample minutes (YLE, Svenska enheten)
-    Utan studieplats 1991 - och vad hände sedan? Gemensam elevansökan 1992
-    (Länsstyrelsen i Nylands län) Utvecklingen av den svenskspråkiga
-    vuxenutbildningen i Nylands län. Plan för åren 1989-1994 (Länsstyrelsen i
-    Nylands län) Verksamhetsberättelse 1999, 2000 (Mariehamns stad) Årsberättelse
-    1998, 1999 (Mariehamns stad) </P></BODY></HTML>
   eng: ''

@@ -2,7 +2,7 @@ name:
   swe: Kommuners och städers informationstidningar 2001–2013
   eng: Kommuners och städers informationstidningar 2001–2013
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Material ur informationstidningar som ges ut av kommuner och städer.
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -37,28 +37,14 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-    <HTML><HEAD>
-    <META content="text/html; charset=utf-8" http-equiv=Content-Type>
-    <META name=GENERATOR content="MSHTML 9.00.8112.16526"></HEAD>
-    <BODY>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <P>Materialet i samlingen består av informationstidningar som ges ut av kommuner och städer. En del av texterna är ursprungligen skrivna på finska och översatta till svenska av kommunen eller staden i fråga.</p>
+    <p>Följande informationstidningar ingår i samlingen:
+        <ul>
+            <li>Espoo Esbo, 2011-2013 Infobladet (Saltvik), 2008-2013 Infotidningen Morjens</li>
+            <li>(Lovisa), 2010-2013 KorsnäsNytt, 2009-2013 Kvartti (Helsingfors), 2004-2013</li>
+            <li>Magasin Isla (Kimitoön), 2012 Nyt (Pargas), 2009-2013 Närpes info, 2010-2013</li>
+            <li>Vanda Nytt, 2010-2013 Vasa stads informationstidning, 2001-2013</li>
+        </ul>
     </p>
-
-
-    <!--
-    <P>Kommuners och städers informationstidningar 2001–2013 </P>
-    -->
-    <P>Materialet i samlingen består av informationstidningar som ges ut av kommuner
-    och städer. En del av texterna är ursprungligen skrivna på finska och översatta
-    till svenska av kommunen eller staden i fråga. </P>
-    <P>Följande informationstidningar ingår i samlingen: </P>
-    <P>Espoo Esbo, 2011-2013 Infobladet (Saltvik), 2008-2013 Infotidningen Morjens
-    (Lovisa), 2010-2013 KorsnäsNytt, 2009-2013 Kvartti (Helsingfors), 2004-2013
-    Magasin Isla (Kimitoön), 2012 Nyt (Pargas), 2009-2013 Närpes info, 2010-2013
-    Vanda Nytt, 2010-2013 Vasa stads informationstidning, 2001-2013
-    </P></BODY></HTML>
   eng: ''

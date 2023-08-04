@@ -2,7 +2,7 @@ name:
   swe: JFT 2000–2013
   eng: JFT 2000–2013
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Nordens äldsta utkommande rättsvetenskapliga tidskrift
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -37,24 +37,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-    JFT 2000–2013
-    </p>
-    -->
-
-    <p>
-    JFT (http://jff.fi/index.asp?page=5) publiceras av Juridiska Föreningen i Finland r.f. Tidskriften är Nordens äldsta utkommande rättsvetenskapliga tidskrift, grundad 1865. JFT utkommer med sex nummer per år.
-    </p>
-
-
-    </html>
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://jff.fi/index.asp?page=5">JFT</a> publiceras av Juridiska Föreningen i Finland r.f. Tidskriften är Nordens äldsta utkommande rättsvetenskapliga tidskrift, grundad 1865. JFT utkommer med sex nummer per år.</p>
   eng: ''

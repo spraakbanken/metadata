@@ -2,7 +2,7 @@ name:
   swe: Studentbladet 2011
   eng: Studentbladet 2011
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Tidskrift som bevakar samtliga svenskspråkiga studieorter på fastlandet i Finland
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -34,23 +34,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-    Studentbladet 2011
-    </p>
-    -->
-
-    <p>
-    Studentbladet (www.stbl.fi) är en tidskrift som bevakar samtliga svenskspråkiga studieorter på fastlandet i Finland. Tidskriften grundades 1911 och utkommer nio gånger om året.
-    </p>
-
-    </html>
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p><a target="_blank" href="http://www.stbl.fi">Studentbladet</a> är en tidskrift som bevakar samtliga svenskspråkiga studieorter på fastlandet i Finland. Tidskriften grundades 1911 och utkommer nio gånger om året.</p>
   eng: ''

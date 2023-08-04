@@ -2,7 +2,7 @@ name:
   swe: Barnlitteratur 1988–2012
   eng: Children's literature 1988–2012
 short_description:
-  swe: Del av finlandssvensk språkbank över svenskan i Finland i dag och i går
+  swe: Material ur barnlitterära verk publicerade under 2000–2013
   eng: Part of the Finland Swedish language bank over Swedish in Finland today and
     yesterday
 type: corpus
@@ -37,56 +37,20 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <html>
-
-    <p>
-    Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland -- i dag och i går</i>. Läs mer hos  <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a>
-    <!-- <a href="http://www.sls.fi/doc.php?category=5&docid=799">Svenska litteratursällskapet i Finland</a>. -->
-    </p>
-
-
-    <!--
-    <p>
-
-    Barnlitteratur 1988–2012
-
-    </p>
-    -->
-
-
-    <p>
-
-    Samlingen innehåller barnlitteratur utgiven av förlagen Fontana Media, Författarnas andelslag, Förlaget Scriptum, Skattkistan samt av Staden Jakobstad. Författarna till verken är finlandssvenska. Observera att samlingen är liten och att den främst innehåller verk som är utgivna under 2005-2012.
-
-    </p>
-
-
-    <p>
-
-    Dessa verk ingår i samlingen:
-
-    </p>
-
-
-
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska litteratursällskapet i Finland</a></p>
+    <p>Samlingen innehåller barnlitteratur utgiven av förlagen Fontana Media, Författarnas andelslag, Förlaget Scriptum, Skattkistan samt av Staden Jakobstad. Författarna till verken är finlandssvenska. Observera att samlingen är liten och att den främst innehåller verk som är utgivna under 2005-2012.</p>
+    <p>Dessa verk ingår i samlingen:</p>
     <p>
     <ul>
-    <li>Jims värld (berättelseserie), Fontell Mats, 2011</li>
-    <li>Arla och moster My, Storgårds Birgitta Maria, 2012</li>
-    <li>Anita Andersson, Stürmer Wava, 1988</li>
-    <li>Johan Ludvig. Jakobstadspojken som blev nationalskald, Stürmer Wava, 2002</li>
-    <li>Ellens annorlunda fest, Vikström-Jokela Monica, 2010</li>
-    <li>Ellens annorlunda resa, Vikström-Jokela Monica, 2005</li>
-    <li>Ellens annorlunda tävling, Vikström-Jokela Monica, 2006</li>
-    <li>Morris, Leia och papporna, Vikström-Jokela Monica, 2009</li>
-    <li>Morris och Leia, Vikström-Jokela Monica, 2008</li>
+       <li>Jims värld (berättelseserie), Fontell Mats, 2011</li>
+       <li>Arla och moster My, Storgårds Birgitta Maria, 2012</li>
+       <li>Anita Andersson, Stürmer Wava, 1988</li>
+       <li>Johan Ludvig. Jakobstadspojken som blev nationalskald, Stürmer Wava, 2002</li>
+       <li>Ellens annorlunda fest, Vikström-Jokela Monica, 2010</li>
+       <li>Ellens annorlunda resa, Vikström-Jokela Monica, 2005</li>
+       <li>Ellens annorlunda tävling, Vikström-Jokela Monica, 2006</li>
+       <li>Morris, Leia och papporna, Vikström-Jokela Monica, 2009</li>
+       <li>Morris och Leia, Vikström-Jokela Monica, 2008</li>
     </ul>
-
-
     </p>
-
-
-
-
-    </html>
   eng: ''
