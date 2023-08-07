@@ -13,23 +13,23 @@ collection: true
 resources:
   - abounderrattelser2012
   - abounderrattelser2013
+  - astra1960-1979
+  - astranova
   - at2012
   - barnlitteratur
   - borgabladet
   - bullen
-  - astra1960-1979
-  - astranova
+  - fanbararen
+  - finsktidskrift
+  - fnb1999
+  - fnb2000
   - forumfeot
   - fsbbloggvuxna
   - fsbessaistik
   - fsbsakprosa
-  - fanbararen
-  - finsktidskrift
-  - hankeiten
-  - fnb1999
-  - fnb2000
   - fsbskonlit1960-1999
   - fsbskonlit2000tal
+  - hankeiten
   - hanken
   - hbl1991
   - hbl1998
@@ -40,9 +40,8 @@ resources:
   - jakobstadstidning1999
   - jakobstadstidning2000
   - jft
-  - lagtexter
   - kallan
-  - propositioner
+  - lagtexter
   - magmakolumner
   - meddelanden
   - myndighet
@@ -54,6 +53,7 @@ resources:
   - ostranyland
   - pargaskungorelser2011
   - pargaskungorelser2012
+  - propositioner
   - studentbladet
   - svenskbygden
   - sydosterbotten2010
