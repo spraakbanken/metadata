@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SALDO: examples</resourceName>
+    <resourceName lang="swe">SALDO: exempel</resourceName>
+    <description lang="eng">Example sentences for senses in SALDO</description>
+    <description lang="swe">Exempelmeningar för SALDO-betydelser</description>
+    <resourceShortName lang="eng">saldoe</resourceShortName>
+    <resourceShortName lang="swe">saldoe</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/b66b8b62-dd3c-42d6-88ad-ff3ed3544819</identifier>
+    <identifier>saldoe</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldoe/saldoe.xml</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/karp/</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
+  <resourceDocumentationInfo>
+    <documentation>
+      <documentInfo>
+        <documentType>techReport</documentType>
+        <title>SALDO 1.0</title>
+        <author>Lars Borin</author>
+        <author>Markus Forsberg</author>
+        <author>Lennart Lönngren</author>
+        <year>2008</year>
+        <url>http://gup.ub.gu.se/publication/110525</url>
+        <documentLanguageName>Swedish</documentLanguageName>
+        <documentLanguageId>swe</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/saldoe</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceEncodingInfo>
+        <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>usage-Examples</linguisticInformation>
+        <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
+      </lexicalConceptualResourceEncodingInfo>
+      <creationInfo/>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>3334</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
+          <textFormatInfo>
+            <mimeType>other</mimeType>
+            <sizePerTextFormat>
+              <size>1262</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTextFormat>
+          </textFormatInfo>
+          <domainInfo>
+            <domain>general</domain>
+            <sizePerDomain>
+              <size>1262</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerDomain>
+          </domainInfo>
+          <timeCoverageInfo>
+            <timeCoverage>1980s-</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>1262</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>1262</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

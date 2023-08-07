@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Parole</resourceName>
+    <resourceName lang="swe">Parole</resourceName>
+    <description lang="eng">The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information</description>
+    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information</description>
+    <resourceShortName lang="eng">parolelex</resourceShortName>
+    <resourceShortName lang="swe">parolelex</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc635e3a2ada8.38652626</identifier>
+    <identifier>parolelex</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
+  <resourceDocumentationInfo>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+        <author>Dimitrios Kokkinakis</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Karin Warmenius</author>
+        <year>2007</year>
+        <publisher>Athens: ELRA</publisher>
+        <bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+      </documentInfo>
+    </documentation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/parolelex</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceEncodingInfo>
+        <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>lemma</linguisticInformation>
+        <linguisticInformation>partOfSpeech</linguisticInformation>
+        <linguisticInformation>other</linguisticInformation>
+        <linguisticInformation>syntax-SubcatFrame</linguisticInformation>
+        <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
+      </lexicalConceptualResourceEncodingInfo>
+      <creationInfo/>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <!-- languageCoding>ISO-639-3</languageCoding -->
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>29298</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
+          <textFormatInfo>
+            <mimeType>other</mimeType>
+            <sizePerTextFormat>
+              <size>29298</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTextFormat>
+          </textFormatInfo>
+          <domainInfo>
+            <domain>general</domain>
+            <sizePerDomain>
+              <size>29298</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerDomain>
+          </domainInfo>
+          <timeCoverageInfo>
+            <timeCoverage>1900s-</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>29298</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>29298</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
+</resourceInfo>
