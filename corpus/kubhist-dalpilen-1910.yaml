@@ -16,34 +16,29 @@ size:
 in_collections:
   - kubhist
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
-    type: token frequencies
-    format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910-new.xml.bz2
-    type: corpus
-    format: XML
-    info: this file contains the corpus with updated annotations
-    licence: CC BY 4.0
-    restriction: attribution
+  # - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910-new.xml.bz2
+  #   type: corpus
+  #   format: XML
+  #   info: this file contains the corpus with updated annotations
+  #   licence: CC BY 4.0
+  #   restriction: attribution
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
     type: corpus
     format: XML
-    info: this file contains an older version of the corpus which has the same format
-      as the remaining Kubhist corpora
+    info: this file contains the corpus with updated annotations
+    # info: this file contains an older version of the corpus which has the same format
+    #   as the remaining Kubhist corpora
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
+    type: token frequencies
+    format: CSV
     licence: CC BY 4.0
     restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1910.txt
     type: token frequencies
     format: CSV
     info: this file contains the token frequencies with updated annotations
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
-    type: token frequencies
-    format: CSV
     licence: CC BY 4.0
     restriction: attribution
 interface:
