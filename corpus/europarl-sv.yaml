@@ -1,6 +1,6 @@
 name:
-  swe: Europarl – svenska
-  eng: Europarl – Swedish
+  swe: 'Europarl: svenska'
+  eng: 'Europarl: Swedish'
 short_description:
   swe: Svenska delen av European Parliament Proceedings Parallel Corpus
   eng: The Swedish part of European Parliament Proceedings Parallel Corpus

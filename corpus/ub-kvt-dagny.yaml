@@ -1,8 +1,9 @@
 name:
-  swe: Dagny
-  eng: Dagny
+  swe: 'Kvinnotidningar: Dagny'
+  eng: 'Kvinnotidningar: Dagny'
 short_description:
-  swe: En korpus med texter från kvinnotidningen Dagny, tidskrift för sociala och literära intressen - utgiven av Frederika-Bremer-Förbundet
+  swe: En korpus med texter från kvinnotidningen Dagny, tidskrift för sociala och
+    literära intressen - utgiven av Frederika-Bremer-Förbundet
   eng: A corpus with texts from the women's newspaper Dagny
 type: corpus
 trainingdata: false

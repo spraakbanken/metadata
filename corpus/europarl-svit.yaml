@@ -1,6 +1,6 @@
 name:
-  swe: Europarl – svenska-italienska
-  eng: Europarl – Swedish-Italian
+  swe: 'Europarl: svenska-italienska'
+  eng: 'Europarl: Swedish-Italian'
 short_description:
   swe: Del av European Parliament Proceedings Parallel Corpus
   eng: Part of European Parliament Proceedings Parallel Corpus

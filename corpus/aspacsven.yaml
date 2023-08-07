@@ -1,6 +1,6 @@
 name:
-  swe: ASPAC – svenska-engelska
-  eng: ASPAC – Swedish-English
+  swe: 'ASPAC: svenska-engelska'
+  eng: 'ASPAC: Swedish-English'
 short_description:
   swe: Del av The Amsterdam Slavic Parallel Aligned Corpus
   eng: Part of The Amsterdam Slavic Parallel Aligned Corpus

@@ -1,6 +1,6 @@
 name:
-  swe: ASPAC – svenska-serbiska (kyrilliskt)
-  eng: ASPAC – Swedish-Serbian (cyrillic)
+  swe: 'ASPAC: svenska-serbiska (kyrilliskt)'
+  eng: 'ASPAC: Swedish-Serbian (cyrillic)'
 short_description:
   swe: Del av The Amsterdam Slavic Parallel Aligned Corpus
   eng: Part of The Amsterdam Slavic Parallel Aligned Corpus

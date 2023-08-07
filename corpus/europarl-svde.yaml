@@ -1,6 +1,6 @@
 name:
-  swe: Europarl – svenska-tyska
-  eng: Europarl – Swedish-German
+  swe: 'Europarl: svenska-tyska'
+  eng: 'Europarl: Swedish-German'
 short_description:
   swe: Del av European Parliament Proceedings Parallel Corpus
   eng: Part of European Parliament Proceedings Parallel Corpus

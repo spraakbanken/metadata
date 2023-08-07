@@ -1,8 +1,9 @@
 name:
-  swe: Rösträtt för Kvinnor
-  eng: Rösträtt för Kvinnor
+  swe: 'Kvinnotidningar: Rösträtt för Kvinnor'
+  eng: 'Kvinnotidningar: Rösträtt för Kvinnor'
 short_description:
-  swe: En korpus med texter från kvinnotidningen Rösträtt för Kvinnor, tidning utgiven av landsföreningen för kvinnans politiska rösträtt
+  swe: En korpus med texter från kvinnotidningen Rösträtt för Kvinnor, tidning utgiven
+    av landsföreningen för kvinnans politiska rösträtt
   eng: A corpus with texts from the women's newspaper Rösträtt för Kvinnor
 type: corpus
 trainingdata: false
