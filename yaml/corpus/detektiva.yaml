@@ -15,13 +15,13 @@ size:
   sentences: 0
 in_collections: []
 downloads:
-  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/da/geocoords.txt'
+  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/detektiva/geocoords.txt'
     type: corpus
     format: tsv
     info: geographical coordinates for Gothenburg addresses in 1888
     licence: CC BY 4.0
     restriction: attribution
-  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/da/pixelcoords.txt'
+  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/detektiva/pixelcoords.txt'
     type: corpus
     format: tsv
     info: pixel coordinates for addresses on Simon's 1888 Gothenburg map
