@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">WordReference</resourceName>
+    <resourceName lang="swe">WordReference</resourceName>
+    <description lang="eng">A large corpus of native and non-native written speech in four languages.</description>
+    <description lang="swe">En stor korpus av skriftligt tal av modersmåls- och icke-modersmålstalare i fyra språk.</description>
+    <resourceShortName lang="eng">wordreference</resourceShortName>
+    <resourceShortName lang="swe">wordreference</resourceShortName>
+    <metaShareId/>
+    <identifier>wordreference</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Språkbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2020-11-10</metadataCreationDate>
+    <metadataCreator>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/wordreference</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>multilingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>eng</languageId>
+            <languageName>English</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <languageInfo>
+            <languageId>spa</languageId>
+            <languageName>Spanish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <languageInfo>
+            <languageId>fra</languageId>
+            <languageName>French</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <languageInfo>
+            <languageId>ita</languageId>
+            <languageName>Italian</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>170000000</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>97500</size>
+            <sizeUnit>speakers</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

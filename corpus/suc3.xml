@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="swe">SUC 3.0</resourceName>
+    <resourceName lang="eng">SUC 3.0</resourceName>
+    <description lang="swe">Stockholm-Umeå-korpus 3.0</description>
+    <description lang="eng">Stockholm-Umeå corpus 3.0</description>
+    <resourceShortName lang="swe">suc3</resourceShortName>
+    <resourceShortName lang="eng">suc3</resourceShortName>
+    <metaShareId/>
+    <identifier>suc3</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC3.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Stockholms universitet</organizationName>
+        <organizationName lang="eng">Stockholm University</organizationName>
+        <departmentName lang="swe">Institutionen för lingvistik</departmentName>
+        <departmentName lang="eng">Department of Linguistics</departmentName>
+        <communicationInfo>
+          <email>exp@ling.su.se</email>
+          <url>https://www.su.se/institutionen-for-lingvistik/</url>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <documentation>https://spraakbanken.gu.se/en/resources/suc3</documentation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>1166593</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>74245</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

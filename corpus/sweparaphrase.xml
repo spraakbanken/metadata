@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SweParaphrase</resourceName>
+    <resourceName lang="swe">SveParafras</resourceName>
+    <description lang="eng">A subset of the Semantic Textual Similarity reference data 
+(STS Benchmark).  </description>
+    <description lang="swe">En delm&#xE4;ngd av referensdatan f&#xF6;r semantisk textj&#xE4;mf&#xF6;relse (STS Benchmark). </description>
+    <resourceShortName lang="eng">sweparaphrase</resourceShortName>
+    <resourceShortName lang="swe">sweparaphrase</resourceShortName>
+    <metaShareId/>
+    <identifier>sweparaphrase</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase_documentation.tsv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">G&#xF6;teborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Spr&#xE5;kbanken Text</departmentName>
+        <departmentName lang="eng">Spr&#xE5;kbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten plan 3</address>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Dann&#xE9;lls</surname>
+    <givenName>Dana</givenName>
+    <communicationInfo>
+      <email>dana.dannells@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Spr&#xE5;kbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-05-17</metadataCreationDate>
+    <metadataCreator>
+      <surname>Dann&#xE9;lls</surname>
+      <givenName>Dana</givenName>
+      <communicationInfo>
+        <email>dana.dannells@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Spr&#xE5;kbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sweparaphrase</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <languageScript/>
+          </languageInfo>
+          <sizeInfo>
+            <size>165</size>
+            <sizeUnit>Sentence pairs</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>Sentence-level semantic similarity</annotationType>
+            <annotationFormat>sentence</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

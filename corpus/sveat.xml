@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they will get overwritten. -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Swedish EAT: question classification</resourceName>
+    <resourceName lang="swe">Svensk EAT: frågeklassifikation</resourceName>
+    <description lang="eng">A translated version of the QAQC dataset for expected-answer-type classification.</description>
+    <description lang="swe">En översättning av QAQC datamängden för klassificering av typer av det förväntade svaret</description>
+    <resourceShortName lang="eng">sveat</resourceShortName>
+    <resourceShortName lang="swe">sveat</resourceShortName>
+    <metaShareId/>
+    <identifier>sveat</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/trec/swe_qaqc_train.csv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/trec/Swedish_EAT_v1.0.tsv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sveat.xml</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2023-08-01</metadataCreationDate>
+  </metadataInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sveat</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <sizeInfo>
+            <size>0</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>0</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

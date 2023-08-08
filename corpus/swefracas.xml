@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SweFraCas 1.0</resourceName>
+    <resourceName lang="swe">SweFraCas 1.0</resourceName>
+    <description lang="eng">Textual inference/entailment problem set</description>
+    <description lang="swe">Textual inference/entailment problem set</description>
+    <resourceShortName lang="eng">swefracas</resourceShortName>
+    <resourceShortName lang="swe">swefracas</resourceShortName>
+    <metaShareId/>
+    <identifier>swefracas</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten, Renströmsgatan 6</address>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Berdicevskis</surname>
+    <givenName>Aleksandrs</givenName>
+    <communicationInfo>
+      <email>aleksandrs.berdicevskis@gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-06-09</metadataCreationDate>
+    <metadataCreator>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/swefracas</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>305</size>
+            <sizeUnit>Problems</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

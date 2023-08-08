@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they will get overwritten. -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SpIn v1</resourceName>
+    <resourceName lang="swe">SpIn v1</resourceName>
+    <description lang="eng">256 essays collected from Language Introduction course (mid-term exams) for newly arrived refugees. Some of the students are recurrent.</description>
+    <description lang="swe"></description>
+    <resourceShortName lang="eng">spinv1</resourceShortName>
+    <resourceShortName lang="swe">spinv1</resourceShortName>
+    <metaShareId/>
+    <identifier>spinv1</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/spinv1.xml</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?cqp=%5B%5D&amp;corpus=spinv1</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Elena</surname>
+    <givenName>Volodina</givenName>
+    <communicationInfo>
+      <email>elena.volodina@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2023-06-12</metadataCreationDate>
+  </metadataInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/spinv1</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <sizeInfo>
+            <size>46911</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>4302</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Norstedts novels (1999)</resourceName>
+    <resourceName lang="swe">Norstedtsromaner (1999)</resourceName>
+    <description lang="eng">A collection of 23 novels issued by Norstedts publishing house in 1999</description>
+    <description lang="swe">En samling med 23 romaner utgivna 1999 på Norstedts förlag</description>
+    <resourceShortName lang="eng">rom99</resourceShortName>
+    <resourceShortName lang="swe">rom99</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4fc6350a33a774.18594414</identifier>
+    <identifier>rom99</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/rom99.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=rom99</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROM99.txt</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/rom99</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>2533209</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>176246</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">DaLAJ v.1.0</resourceName>
+    <resourceName lang="swe">DaLAJ v.1.0</resourceName>
+    <description lang="eng">Dataset for Linguistic Acceptability Judgments (and more), v.1.0., is a collection of sentences from SweLL (Swedish Learner Language) essays. Each DaLAJ sentence contains one error only.</description>
+    <description lang="swe">Dataset for Linguistic Acceptability Judgments (and more), v.1.0., is a collection of sentences from SweLL (Swedish Learner Language) essays. Each DaLAJ sentence contains one error only</description>
+    <resourceShortName lang="eng">dalaj_eng</resourceShortName>
+    <resourceShortName lang="swe">dalaj_eng</resourceShortName>
+    <metaShareId/>
+    <identifier>dalaj</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">G&#xF6;teborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Spr&#xE5;kbanken Text</departmentName>
+        <departmentName lang="eng">Spr&#xE5;kbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Humanisten plan 3</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Volodina</surname>
+    <givenName>Elena</givenName>
+    <communicationInfo>
+      <email>elena.volodina@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Spr&#xE5;kbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-05-27</metadataCreationDate>
+    <metadataCreator>
+      <surname>Volodina</surname>
+      <givenName>Elena</givenName>
+      <communicationInfo>
+        <email>elena.volodina@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Spr&#xE5;kbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/datasetDaLAJsplit.csv</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>sentences</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <languageScript/>
+          </languageInfo>
+          <sizeInfo>
+            <size>4730</size>
+            <sizeUnit>Sentence pairs (original - corrected)</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>Error correction detection (string), correction (to a new string), labeling of the correction type</annotationType>
+            <annotationFormat>sentence</annotationFormat>
+            <annotationMode>manual</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

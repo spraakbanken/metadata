@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="swe">TISUS-texter</resourceName>
+    <resourceName lang="eng">TISUS texts</resourceName>
+    <description lang="swe">Essays written by L2 Swedish learners as part of a TISUS exam</description>
+    <description lang="eng">Essays written by L2 Swedish learners as part of a TISUS exam</description>
+    <resourceShortName lang="swe">tisus</resourceShortName>
+    <resourceShortName lang="eng">tisus</resourceShortName>
+    <metaShareId/>
+    <identifier>tisus</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=tisus</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Elena</surname>
+    <givenName>Volodina</givenName>
+    <communicationInfo>
+      <email>elena.volodina@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2013-03-14</metadataCreationDate>
+    <metadataCreator>
+      <surname>Hammarstedt</surname>
+      <givenName>Martin</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/tisus</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <!--
+  <relationInfo>
+    <relationType></relationType>
+    <relatedResource>
+      <targetResourceNameURI></targetResourceNameURI>
+    </relatedResource>
+  </relationInfo>
+  -->
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>59639</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>3484</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>semanticAnnotation-namedEntities</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

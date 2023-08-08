@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Questions about the Swedish Language</resourceName>
+    <resourceName lang="swe">Besvarade Språkfrågor</resourceName>
+    <description lang="eng">Counselling mails of the Language Council of Sweden</description>
+    <description lang="swe">Spåkrådets rådgivningsmejl</description>
+    <resourceShortName lang="eng">sprakfragor</resourceShortName>
+    <resourceShortName lang="swe">sprakfragor</resourceShortName>
+    <metaShareId/>
+    <identifier>sprakfragor</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=frageladan</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Institutet för språk och folkminnen</organizationName>
+        <organizationName lang="eng">Institute for Language and Folklore</organizationName>
+        <communicationInfo>
+          <email>registrator@sprakochfolkminnen.se</email>
+          <url>http://www.sprakochfolkminnen.se</url>
+          <city>Uppsala</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Jande</surname>
+    <givenName>Per-Anders</givenName>
+    <communicationInfo>
+      <email>Per-Anders.Jande@sprakochfolkminnen.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Institutet för språk och folkminnen</organizationName>
+      <communicationInfo>
+        <email>registrator@sprakochfolkminnen.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2016-01-13</metadataCreationDate>
+    <metadataCreator>
+      <surname>Schumacher</surname>
+      <givenName>Anne</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/frageladan</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>20083415</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>1671088</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>segmentation</annotationType>
+            <segmentationLevel>sentence</segmentationLevel>
+            <segmentationLevel>word</segmentationLevel>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>lemmatization</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+          <annotationInfo>
+            <annotationType>morphosyntacticAnnotation-posTagging</annotationType>
+            <annotationFormat>text/xml</annotationFormat>
+            <annotationMode>automatic</annotationMode>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

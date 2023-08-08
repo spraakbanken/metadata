@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Sentiment Lexicon</resourceName>
+    <resourceName lang="swe">Sentimentlexikon</resourceName>
+    <description lang="eng">Sentiment lexicon for Swedish based on SALDO</description>
+    <description lang="swe">Sentimentlexikon för svenska baserad på SALDO</description>
+    <resourceShortName lang="eng">sentimentlex</resourceShortName>
+    <resourceShortName lang="swe">sentimentlex</resourceShortName>
+    <metaShareId/>
+    <identifier>sentimentlex</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Rouces</surname>
+    <givenName>Jacobo</givenName>
+    <communicationInfo>
+      <email>jacobo.rouces@gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2016-05-26</metadataCreationDate>
+    <metadataCreator>
+      <surname>Schumacher</surname>
+      <givenName>Anne</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <documentation>
+      <documentInfo>
+        <documentType>article</documentType>
+        <title>Building a Sentiment Lexicon for Swedish</title>
+        <author>Bianka Nusko</author>
+        <author>Nina Tahmasebi</author>
+        <author>Olof Mogren</author>
+        <year>2016</year>
+        <journal>Linköping Electronic Conference Proceedings</journal>
+        <volume>126:006</volume>
+        <pages>32----37</pages>
+        <url>http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/sentimentlex</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceEncodingInfo>
+        <encodingLevel>morphology</encodingLevel>
+        <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
+      </lexicalConceptualResourceEncodingInfo>
+      <creationInfo/>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>2067</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
+          <textFormatInfo>
+            <mimeType>other</mimeType>
+            <sizePerTextFormat>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTextFormat>
+          </textFormatInfo>
+          <domainInfo>
+            <domain>general</domain>
+            <sizePerDomain>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerDomain>
+          </domainInfo>
+          <timeCoverageInfo>
+            <timeCoverage>other</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>0</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

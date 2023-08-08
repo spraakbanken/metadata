@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they will get overwritten. -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Detective Department</resourceName>
+    <resourceName lang="swe">Detektiva avdelningen</resourceName>
+    <description lang="eng">Data from the Detective Department at the Gothenburg police, from late 1800s to early 1900s.</description>
+    <description lang="swe">Data från Detektiva avdelningen vid Göteborgs poliskammare, från slutet av 1800-talet till början av 1900-talet.</description>
+    <resourceShortName lang="eng">detektiva</resourceShortName>
+    <resourceShortName lang="swe">detektiva</resourceShortName>
+    <metaShareId/>
+    <identifier>detektiva</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/da/geocoords.txt</downloadLocation>
+      <attributionText>geographical coordinates for Gothenburg addresses in 1888</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/da/pixelcoords.txt</downloadLocation>
+      <attributionText>pixel coordinates for addresses on Simon's 1888 Gothenburg map</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/detektiva.xml</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Zechner</surname>
+    <givenName>Niklas</givenName>
+    <communicationInfo>
+      <email>niklas.zechner@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2023-06-20</metadataCreationDate>
+  </metadataInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/detektiva</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <sizeInfo>
+            <size>0</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>0</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

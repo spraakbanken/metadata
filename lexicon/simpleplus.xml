@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Simple+</resourceName>
+    <resourceName lang="swe">Simple+</resourceName>
+    <description lang="eng">The Swedish SIMPLE Lexicon - A language technology resource with access to semantic information in Swedish, connected to SALDO senses</description>
+    <description lang="swe">Svenskt SIMPLE lexikon - En språkteknologisk resurs med semantisk information, kopplade till betydelser i SALDO</description>
+    <resourceShortName lang="eng">simpleplus</resourceShortName>
+    <resourceShortName lang="swe">simpleplus</resourceShortName>
+    <metaShareId/>
+    <identifier>hdl:10794/4rc635e3b0adf2.42322260</identifier>
+    <identifier>simpleplus</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/simpleplus/simpleplus.xml</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/karp/#lexicon=simpleplus</executionLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <address>Lennart Torstenssonsgatan 8</address>
+          <zipCode>412 56</zipCode>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2012-05-30</metadataCreationDate>
+    <metadataCreator>
+      <surname>Uppström</surname>
+      <givenName>Jonatan</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <usageInfo>
+    <foreseenUseInfo>
+      <foreseenUse>nlpApplications</foreseenUse>
+    </foreseenUseInfo>
+  </usageInfo>
+  <resourceDocumentationInfo>
+    <documentation>
+      <documentInfo>
+        <documentType>inProceedings</documentType>
+        <title>Annotating, disambiguating and automatically extending the coverage of the Swedish SIMPLE lexicon</title>
+        <author>Dimitrios Kokkinakis</author>
+        <author>Maria Toporowska Gronostaj</author>
+        <author>Karin Warmenius</author>
+        <year>2007</year>
+        <publisher>Athens: ELRA</publisher>
+        <bookTitle>Proceedings of the Second Language Resources and Evaluation Conference (LREC)</bookTitle>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>other</documentType>
+        <title>The Swedish SIMPLE Lexicon</title>
+        <url>http://spraakdata.gu.se/simple/swedish.simple.lexicon.html</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <documentation>
+      <documentInfo>
+        <documentType>other</documentType>
+        <title>SIMPLE Semantic Information for Multifunctional Plurilingual LExicons An Overview</title>
+        <url>http://www.ub.edu/gilcub/SIMPLE/reports/simple/Site_simple.htm</url>
+        <documentLanguageName>English</documentLanguageName>
+        <documentLanguageId>eng</documentLanguageId>
+      </documentInfo>
+    </documentation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/simpleplus</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <lexicalConceptualResourceInfo>
+      <resourceType>lexicalConceptualResource</resourceType>
+      <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
+      <lexicalConceptualResourceEncodingInfo>
+        <encodingLevel>morphology</encodingLevel>
+        <linguisticInformation>semantics-QualiaStructure</linguisticInformation>
+        <conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
+      </lexicalConceptualResourceEncodingInfo>
+      <creationInfo/>
+      <lexicalConceptualResourceMediaType>
+        <lexicalConceptualResourceTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <modalityInfo>
+            <modalityType>writtenLanguage</modalityType>
+          </modalityInfo>
+          <sizeInfo>
+            <size>8630</size>
+            <sizeUnit>entries</sizeUnit>
+          </sizeInfo>
+          <textFormatInfo>
+            <mimeType>other</mimeType>
+            <sizePerTextFormat>
+              <size>6418</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTextFormat>
+          </textFormatInfo>
+          <domainInfo>
+            <domain>general</domain>
+            <sizePerDomain>
+              <size>6418</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerDomain>
+          </domainInfo>
+          <timeCoverageInfo>
+            <timeCoverage>1900s-</timeCoverage>
+            <sizePerTimeCoverage>
+              <size>6418</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerTimeCoverage>
+          </timeCoverageInfo>
+          <geographicCoverageInfo>
+            <geographicCoverage>other</geographicCoverage>
+            <sizePerGeographicCoverage>
+              <size>6418</size>
+              <sizeUnit>entries</sizeUnit>
+            </sizePerGeographicCoverage>
+          </geographicCoverageInfo>
+        </lexicalConceptualResourceTextInfo>
+      </lexicalConceptualResourceMediaType>
+    </lexicalConceptualResourceInfo>
+  </resourceComponentType>
+  <versionInfo>
+    <lastUpdated>2017-09-19</lastUpdated>
+  </versionInfo>
+</resourceInfo>

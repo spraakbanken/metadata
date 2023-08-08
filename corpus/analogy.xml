@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Swedish analogy test set v1.0</resourceName>
+    <resourceName lang="swe">Svensk analogi testmängd v1.0</resourceName>
+    <description lang="eng">Swedish semantic and syntactic similarity: test set</description>
+    <description lang="swe">Svensk semantisk och syntaktisk likhet: testmängd</description>
+    <resourceShortName lang="eng">analogy</resourceShortName>
+    <resourceShortName lang="swe">analogy</resourceShortName>
+    <metaShareId/>
+    <identifier>analogy</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <version>4.0</version>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Luleå tekniska universitet</organizationName>
+        <organizationName lang="eng">Luleå University of Technology</organizationName>
+        <departmentName lang="swe">Embedded Intelligent Systems LAB</departmentName>
+        <departmentName lang="eng">Embedded Intelligent Systems LAB</departmentName>
+        <communicationInfo>
+          <email>oluwatosin.adewumi@ltu.se</email>
+          <url>https://www.ltu.se/org/srt/Avdelningar/EISLAB?l=en</url>
+          <city>Luleå</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Berdicevskis</surname>
+    <givenName>Aleksandrs</givenName>
+    <communicationInfo>
+      <email>aleksandrs.berdicevskis@gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2021-05-23</metadataCreationDate>
+    <metadataCreator>
+      <surname>Berdicevskis</surname>
+      <givenName>Aleksandrs</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+    <source>META-NORD</source>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/analogy</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <!--languageCoding>ISO-639-3</languageCoding-->
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>20638</size>
+            <sizeUnit>analogies</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>

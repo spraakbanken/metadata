@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">MAÞiR Trees</resourceName>
+    <resourceName lang="swe">MAÞiR Träd</resourceName>
+    <description lang="eng">An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. </description>
+    <description lang="swe">En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.</description>
+    <resourceShortName lang="eng">mathir-trees</resourceShortName>
+    <resourceShortName lang="swe">mathir-trad</resourceShortName>
+    <metaShareId/>
+    <identifier>maþir-trees</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-restrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY-NC</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <restrictionsOfUse>academic-nonCommercialUse</restrictionsOfUse>
+      <distributionAccessMedium>other</distributionAccessMedium>
+      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken Text</departmentName>
+        <departmentName lang="eng">Spraakbanken Text</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>https://spraakbanken.gu.se/</url>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Bouma</surname>
+    <givenName>Gerlof</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken Text</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2019-04-23</metadataCreationDate>
+    <metadataCreator>
+      <surname>Bouma</surname>
+      <givenName>Gerlof</givenName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+      <affiliation>
+        <organizationName>Språkbanken Text</organizationName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+      </affiliation>
+    </metadataCreator>
+  </metadataInfo>
+  <validationInfo>
+    <validated>true</validated>
+    <validationType>formal</validationType>
+    <validationMode>automatic</validationMode>
+    <validationExtent>full</validationExtent>
+  </validationInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/resurser/mathir-trad</samplesLocation>
+    <toolDocumentationType>manual</toolDocumentationType>
+    <toolDocumentationType>online</toolDocumentationType>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+            <languageScript>Latn</languageScript>
+          </languageInfo>
+          <sizeInfo>
+            <size>33721</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <annotationInfo>
+            <annotationType>syntacticAnnotation-treebanks</annotationType>
+          </annotationInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
