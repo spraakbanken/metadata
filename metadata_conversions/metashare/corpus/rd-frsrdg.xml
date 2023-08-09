@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: Framställning/redogörelse</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Framställningar och redogörelser från organ som utsetts av riksdagen</description>
     <resourceShortName lang="eng">rd-frsrdg</resourceShortName>
     <resourceShortName lang="swe">rd-frsrdg</resourceShortName>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: Skriftliga frågor</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Skriftliga frågor från ledamöterna till regeringen och svaren på dessa</description>
     <resourceShortName lang="eng">rd-skfr</resourceShortName>
     <resourceShortName lang="swe">rd-skfr</resourceShortName>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: KOM</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">EU-kommissionens förslag och redogörelser, så kallade KOM-dokument</description>
     <resourceShortName lang="eng">rd-kom</resourceShortName>
     <resourceShortName lang="swe">rd-kom</resourceShortName>

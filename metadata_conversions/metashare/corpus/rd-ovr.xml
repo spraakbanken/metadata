@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: Övrigt</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag</description>
     <resourceShortName lang="eng">rd-ovr</resourceShortName>
     <resourceShortName lang="swe">rd-ovr</resourceShortName>

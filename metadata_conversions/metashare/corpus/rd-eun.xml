@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: EUN</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Dokument från EU-nämnden, bland annat möteskallelser, föredragningslistor, protokoll och skriftliga samråd med regeringen</description>
     <resourceShortName lang="eng">rd-eun</resourceShortName>
     <resourceShortName lang="swe">rd-eun</resourceShortName>

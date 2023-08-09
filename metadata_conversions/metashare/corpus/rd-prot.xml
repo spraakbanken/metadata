@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng"></resourceName>
+    <resourceName lang="eng"/>
     <resourceName lang="swe">Riksdagens öppna data: Protokoll</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Protokoll från kammarens sammanträden</description>
     <resourceShortName lang="eng">rd-prot</resourceShortName>
     <resourceShortName lang="swe">rd-prot</resourceShortName>
