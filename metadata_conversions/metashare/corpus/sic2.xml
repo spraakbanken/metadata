@@ -14,37 +14,37 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.zip</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/sic2/readme.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=sic2</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sic2.xml</downloadLocation>

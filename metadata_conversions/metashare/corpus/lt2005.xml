@@ -4,7 +4,7 @@
   <identificationInfo>
     <resourceName lang="eng">Läkartidningen medical journal 2005</resourceName>
     <resourceName lang="swe">Läkartidningen 2005</resourceName>
-    <description lang="eng"/>
+    <description lang="eng"></description>
     <description lang="swe">Läkartidningens publicerade artiklar under 2005.</description>
     <resourceShortName lang="eng">lt2005</resourceShortName>
     <resourceShortName lang="swe">lt2005</resourceShortName>
@@ -15,26 +15,26 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt2005.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_LT2005.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=lt2005</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/lt2005.xml</downloadLocation>

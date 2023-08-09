@@ -29,25 +29,25 @@
       </personInfo>
     </iprHolder>
   <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/blingbring/blingbring.xml</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/karp/#?mode=blingbring</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/blingbring.xml</downloadLocation>

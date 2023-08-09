@@ -20,7 +20,7 @@
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/mathir-trad.xml</downloadLocation>

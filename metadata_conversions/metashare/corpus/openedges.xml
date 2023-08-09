@@ -21,12 +21,12 @@
     </licenceInfo>
     <licenceInfo>
       <licence>For license details of the previous versions, see the 'Read me.txt' file in the download.</licence>
-      <restrictionsOfUse/>
+      <restrictionsOfUse></restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/OpenEDGeS/Previous_versions</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/openedges.xml</downloadLocation>

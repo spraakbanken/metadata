@@ -4,8 +4,8 @@
   <identificationInfo>
     <resourceName lang="eng">Somali: Af Soomaali 1993-94</resourceName>
     <resourceName lang="swe">Somaliska: Af Soomaali 1993-94</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-1993-94</resourceShortName>
     <resourceShortName lang="swe">somali-1993-94</resourceShortName>
     <metaShareId/>
@@ -14,20 +14,20 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-1993-94.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-1993-94</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-1993-94.xml</downloadLocation>

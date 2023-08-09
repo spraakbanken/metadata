@@ -4,8 +4,8 @@
   <identificationInfo>
     <resourceName lang="eng">Somali: Kitaabka Quduuska Ah</resourceName>
     <resourceName lang="swe">Somaliska: Kitaabka Quduuska Ah</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-kqa</resourceShortName>
     <resourceShortName lang="swe">somali-kqa</resourceShortName>
     <metaShareId/>
@@ -14,26 +14,26 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-kqa.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOMALI-KQA.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-kqa</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/somali-kqa.xml</downloadLocation>

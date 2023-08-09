@@ -4,7 +4,7 @@
   <identificationInfo>
     <resourceName lang="eng">Språkprov SO 2009</resourceName>
     <resourceName lang="swe">Språkprov SO 2009</resourceName>
-    <description lang="eng"/>
+    <description lang="eng"></description>
     <description lang="swe">De drygt 94 000 språkexemplen är hämtade ur Svensk ordbok utgiven av Svenska Akademien (2009). Exemplens uppgift är att stödja ordboksdefinitionerna och att ge information om uppslagsordens fraseologi. &lt;br&gt;&lt;br&gt;För åtkomst kontakta &lt;a href="mailto:emma.skoldberg@svenska.gu.se"&gt;Emma Sköldberg&lt;/a&gt;.</description>
     <resourceShortName lang="eng">soexempel</resourceShortName>
     <resourceShortName lang="swe">soexempel</resourceShortName>
@@ -14,13 +14,13 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=soexempel</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/soexempel.xml</downloadLocation>

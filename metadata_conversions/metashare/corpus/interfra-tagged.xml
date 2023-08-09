@@ -5,7 +5,7 @@
     <resourceName lang="eng">InterFra tagged</resourceName>
     <resourceName lang="swe">InterFra taggad</resourceName>
     <description lang="eng">To promote research in the field of French L2 second language acquisition in a developmental, interactional and variationist perspective. The HLP (High Level Proficiency in Second language use) project also investigates learners of other L2s such as Swedish, Spanish, English and Italian.</description>
-    <description lang="swe"/>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">interfra-tagged</resourceShortName>
     <resourceShortName lang="swe">interfra-tagged</resourceShortName>
     <metaShareId/>
@@ -14,25 +14,25 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/interfra-tagged.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_INTERFRA-TAGGED.txt</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=interfra#?corpus=interfra-tagged</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC BY 4.0</licence>
+      <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/interfra-tagged.xml</downloadLocation>
