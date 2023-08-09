@@ -120,32 +120,12 @@
             <languageId>swe</languageId>
             <languageName>Swedish</languageName>
             <languageScript>Latn</languageScript>
-            <sizePerLanguage>
-              <sizeInfo>
-                <size>773657</size>
-                <sizeUnit>tokens</sizeUnit>
-              </sizeInfo>
-              <sizeInfo>
-                <size>48731</size>
-                <sizeUnit>sentences</sizeUnit>
-              </sizeInfo>
-            </sizePerLanguage>
-          </languageInfo>
+            </languageInfo>
           <languageInfo>
             <languageId>deu</languageId>
             <languageName>German</languageName>
             <languageScript>Latn</languageScript>
-            <sizePerLanguage>
-              <sizeInfo>
-                <size>807003</size>
-                <sizeUnit>tokens</sizeUnit>
-              </sizeInfo>
-              <sizeInfo>
-                <size>48811</size>
-                <sizeUnit>sentences</sizeUnit>
-              </sizeInfo>
-            </sizePerLanguage>
-          </languageInfo>
+            </languageInfo>
           <sizeInfo>
             <size>1580660</size>
             <sizeUnit>tokens</sizeUnit>

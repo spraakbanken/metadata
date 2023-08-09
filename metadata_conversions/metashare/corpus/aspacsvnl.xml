@@ -129,33 +129,13 @@
             <languageName>Swedish</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
-            <sizePerLanguage>
-              <sizeInfo>
-                <size>773657</size>
-                <sizeUnit>tokens</sizeUnit>
-              </sizeInfo>
-              <sizeInfo>
-                <size>48731</size>
-                <sizeUnit>sentences</sizeUnit>
-              </sizeInfo>
-            </sizePerLanguage>
-          </languageInfo>
+            </languageInfo>
           <languageInfo>
             <languageId>nld</languageId>
             <languageName>Dutch</languageName>
             <!--languageCoding>ISO-639-3</languageCoding-->
             <languageScript>Latn</languageScript>
-            <sizePerLanguage>
-              <sizeInfo>
-                <size>775449</size>
-                <sizeUnit>tokens</sizeUnit>
-              </sizeInfo>
-              <sizeInfo>
-                <size>46346</size>
-                <sizeUnit>sentences</sizeUnit>
-              </sizeInfo>
-            </sizePerLanguage>
-          </languageInfo>
+            </languageInfo>
           <sizeInfo>
             <size>1549106</size>
             <sizeUnit>tokens</sizeUnit>
