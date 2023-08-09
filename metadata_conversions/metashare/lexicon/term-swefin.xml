@@ -25,12 +25,6 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/term-swefin.xml</downloadLocation>
     </licenceInfo>
-    <versionInfo>
-      <version/>
-      <revision/>
-      <lastDateUpdated>2017-04-07</lastDateUpdated>
-      <updateFrequency/>
-    </versionInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">-</organizationName>

@@ -65,11 +65,10 @@
     <toolServiceInfo>
       <resourceType>toolService</resourceType>
       <toolServiceType>other</toolServiceType>
-      <languageDependent>yes</languageDependent>
+      <languageDependent>true</languageDependent>
       <inputInfo>
         <mediaType>text</mediaType>
         <languageId>swe</languageId>
-        <languageName>Swedish</languageName>
       </inputInfo>
     </toolServiceInfo>
   </resourceComponentType>

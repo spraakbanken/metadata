@@ -6,6 +6,7 @@
     <resourceName lang="swe">SweLL-gold</resourceName>
     <description lang="eng">Essays written by adult learners of Swedish, manually pseudonymized and correction annotated. The corpus contains both the original learner text and a corrected version of each essay. Collection period 2017-2020.</description>
     <resourceShortName>swell-gold</resourceShortName>
+    <metaShareId/>
     <identifier>swell-gold</identifier>
   </identificationInfo>
   <distributionInfo>

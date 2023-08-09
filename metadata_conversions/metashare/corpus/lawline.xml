@@ -36,6 +36,7 @@
         <organizationName lang="swe">Göteborgs universitetsbibliotek</organizationName>
         <organizationName lang="eng">Gothenburg University Library</organizationName>
         <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
           <url>http://www.ub.gu.se/</url>
           <address>Box 222</address>
           <zipCode>40530</zipCode>

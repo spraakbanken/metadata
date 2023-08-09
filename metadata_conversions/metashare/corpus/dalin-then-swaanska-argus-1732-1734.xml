@@ -100,11 +100,6 @@
             <size>213399</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
-          <annotationInfo>
-            <annotationType>Manual transcription</annotationType>
-            <annotationFormat>text</annotationFormat>
-            <annotationMode>manual</annotationMode>
-          </annotationInfo>
         </corpusTextInfo>
       </corpusMediaType>
     </corpusInfo>

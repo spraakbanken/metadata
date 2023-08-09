@@ -14,13 +14,13 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC BY-SA 4.0</licence>
+      <licence>CC-BY-SA</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>Mixed</licence>
+      <licence>other</licence>
       <restrictionsOfUse>see license.txt</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus_betas</downloadLocation>
