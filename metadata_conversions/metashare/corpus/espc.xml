@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">The English-Swedish Parallel Corpus (ESPC)</resourceName>
     <resourceName lang="eng">The English-Swedish Parallel Corpus (ESPC)</resourceName>
-    <description lang="swe"/>
-    <description lang="eng"/>
+    <description lang="swe">ESPC är en kombinerad jämförbar och parallell korpus lämplig för tvärspråkig forskning för olika typer.</description>
+    <description lang="eng">ESPC is a combined comparable and parallel corpus suitable for cross-language research for diffferent types.</description>
     <resourceShortName lang="swe">espc-sv</resourceShortName>
     <resourceShortName lang="eng">espc-en</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Ur Dagens Krönika</resourceName>
     <resourceName lang="swe">Ur Dagens Krönika</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Eight annual volumes of the cultural journal Ur Dagens Krönika, 1881–1890</description>
+    <description lang="swe">Åtta årgångar av kulturtidskriften Ur Dagens Krönika, 1881–1890</description>
     <resourceShortName lang="eng">runeberg-urdagkron</resourceShortName>
     <resourceShortName lang="swe">runeberg-urdagkron</resourceShortName>
     <metaShareId/>

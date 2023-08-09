@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Spanska Flugan 1839–1841</resourceName>
-    <resourceName lang="swe">Spanska Flugan 1839–1841</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Spanska Flugan 1839–1841</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Spanska Flugan 1839–1841</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Spanska Flugan var en polemisk tidskrift, vars redaktör var J.V. Snellman.</description>
     <resourceShortName lang="eng">spanskaflugan</resourceShortName>
     <resourceShortName lang="swe">spanskaflugan</resourceShortName>
     <metaShareId/>

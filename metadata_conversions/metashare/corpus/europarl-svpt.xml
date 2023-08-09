@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Europarl – svenska-portugisiska</resourceName>
-    <resourceName lang="eng">Europarl – Swedish-Portuguese</resourceName>
+    <resourceName lang="swe">Europarl: svenska-portugisiska</resourceName>
+    <resourceName lang="eng">Europarl: Swedish-Portuguese</resourceName>
     <description lang="eng">Part of European Parliament Proceedings Parallel Corpus</description>
     <description lang="swe">Del av European Parliament Proceedings Parallel Corpus</description>
     <resourceShortName lang="swe">europarl-sv</resourceShortName>

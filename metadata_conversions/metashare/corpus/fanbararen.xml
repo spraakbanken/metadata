@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Fanbäraren 2011–2012</resourceName>
-    <resourceName lang="swe">Fanbäraren 2011–2012</resourceName>
+    <resourceName lang="eng">Finland Swedish: Fanbäraren 2011–2012</resourceName>
+    <resourceName lang="swe">Finlandssvenska: Fanbäraren 2011–2012</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Tidskrift som utges gemensamt av Nylands brigad och Nylands Brigads Gille</description>
     <resourceShortName lang="eng">fanbararen</resourceShortName>
     <resourceShortName lang="swe">fanbararen</resourceShortName>
     <metaShareId/>

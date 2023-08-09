@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Folkbiblioteksbladet</resourceName>
     <resourceName lang="swe">Folkbiblioteksbladet</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Annual volumes 1904–1908 of the Folkbiblioteksbladet journal</description>
+    <description lang="swe">Årgångarna 1904–1908 av tidskriften Folkbiblioteksbladet</description>
     <resourceShortName lang="eng">runeberg-folkbbl</resourceShortName>
     <resourceShortName lang="swe">runeberg-folkbbl</resourceShortName>
     <metaShareId/>

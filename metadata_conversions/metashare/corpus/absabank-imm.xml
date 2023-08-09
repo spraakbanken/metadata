@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish ABSAbank-Imm 1.0</resourceName>
-    <resourceName lang="swe">Svensk ABSAbank-Imm 1.0</resourceName>
+    <resourceName lang="eng">Swedish ABSAbank-Imm 1.1</resourceName>
+    <resourceName lang="swe">Svensk ABSAbank-Imm 1.1</resourceName>
     <description lang="eng">An annotated Swedish corpus for aspect-based sentiment analysis (a version of Absabank)</description>
     <description lang="swe">Svensk annoterad korpus för aspektbaserad attitydanalys (en version av Absabank)</description>
     <resourceShortName lang="eng">absabank-imm</resourceShortName>

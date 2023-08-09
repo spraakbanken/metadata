@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Hearings</resourceName>
+    <resourceName lang="eng">Interrogations</resourceName>
     <resourceName lang="swe">Förhör</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">The corpus is protected, contact Ylva Burman (ylva.byrman@svenska.gu.se) for more information and access.</description>
+    <description lang="swe">Korpusen är skyddad, kontakta Ylva Burman (ylva.byrman@svenska.gu.se) för mer information och åtkomst.</description>
     <resourceShortName lang="eng">forhor</resourceShortName>
     <resourceShortName lang="swe">forhor</resourceShortName>
     <metaShareId/>

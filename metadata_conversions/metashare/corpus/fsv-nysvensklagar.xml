@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Nysvenska lagar – Fornsvenska textbankens material</resourceName>
-    <resourceName lang="swe">Nysvenska lagar – Fornsvenska textbankens material</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Fornsvenska textbankens material: Nysvenska lagar</resourceName>
+    <resourceName lang="swe">Fornsvenska textbankens material: Nysvenska lagar</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">fsv-nysvensklagar</resourceShortName>
     <resourceShortName lang="swe">fsv-nysvensklagar</resourceShortName>
     <metaShareId/>

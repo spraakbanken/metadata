@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish Bible 1873</resourceName>
     <resourceName lang="swe">Bibeln 1873</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Swedish translation of the Bible from 1873</description>
+    <description lang="swe">Språkligt uppdaterad version från 1873 av den svenska Bibeln från 1703</description>
     <resourceShortName lang="eng">bibel1873dalin</resourceShortName>
     <resourceShortName lang="swe">bibel1873dalin</resourceShortName>
     <metaShareId/>

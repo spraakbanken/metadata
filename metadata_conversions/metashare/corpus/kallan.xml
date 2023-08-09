@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Källan 2008-2010</resourceName>
-    <resourceName lang="swe">Källan 2008-2010</resourceName>
+    <resourceName lang="eng">Finland Swedish: Källan 2008–2010</resourceName>
+    <resourceName lang="swe">Finlandssvenska: Källan 2008–2010</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Svenska litteratursällskapets tidskrift</description>
     <resourceShortName lang="eng">kallan</resourceShortName>
     <resourceShortName lang="swe">kallan</resourceShortName>
     <metaShareId/>

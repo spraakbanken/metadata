@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Dalin: then swänska argus – Fornsvenska textbankens material</resourceName>
-    <resourceName lang="swe">Dalin: then swänska argus – Fornsvenska textbankens material</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Fornsvenska textbankens material: Dalin's Then Swänska Argus 1732-1734</resourceName>
+    <resourceName lang="swe">Fornsvenska textbankens material: Dalins Then Swänska Argus 1732-1734</resourceName>
+    <description lang="eng">Thän Swänska Argus (1732–1734) by Olof Dalins digitized by Fornsvenska textbanken</description>
+    <description lang="swe">Fornsvenska textbankens digitalisering av Olof Dalins Thän Swänska Argus (1732–1734)</description>
     <resourceShortName lang="eng">fsv-nysvenskdalin</resourceShortName>
     <resourceShortName lang="swe">fsv-nysvenskdalin</resourceShortName>
     <metaShareId/>

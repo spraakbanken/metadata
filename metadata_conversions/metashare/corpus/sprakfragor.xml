@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Questions about the Swedish Language</resourceName>
-    <resourceName lang="swe">Besvarade Språkfrågor</resourceName>
+    <resourceName lang="eng">Questions and answers about the Swedish language</resourceName>
+    <resourceName lang="swe">Besvarade språkfrågor</resourceName>
     <description lang="eng">Counselling mails of the Language Council of Sweden</description>
     <description lang="swe">Spåkrådets rådgivningsmejl</description>
     <resourceShortName lang="eng">sprakfragor</resourceShortName>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Cilmiga bulshada 1971–1980</resourceName>
-    <resourceName lang="swe">Cilmiga bulshada 1971–1980</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Somali: Cilmiga Bulshada 1971–1980</resourceName>
+    <resourceName lang="swe">Somaliska: Cilmiga Bulshada 1971–1980</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-cb</resourceShortName>
     <resourceShortName lang="swe">somali-cb</resourceShortName>
     <metaShareId/>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Fahlu weckoblad 1810's</resourceName>
-    <resourceName lang="swe">Fahlu weckoblad 1810-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Fahlu weckoblad 1810's</resourceName>
+    <resourceName lang="swe">Kubhist: Fahlu weckoblad 1810-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-fahluweckoblad-1810</resourceShortName>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SuperSim (repackaged for Superlim)</resourceName>
-    <resourceName lang="swe">SuperSim (paketterat för Superlim)</resourceName>
-    <description lang="eng">A test set for word similarity and relatedness in Swedish</description>
-    <description lang="swe">En test mängd för betydelsemässig likhet och koppling mellan svenska ord.</description>
+    <resourceName lang="eng">SuperSim (repackaged for Superlim) 2.0</resourceName>
+    <resourceName lang="swe">SuperSim (paketterat för Superlim) 2.0</resourceName>
+    <description lang="eng">A dataset for word similarity and relatedness in Swedish</description>
+    <description lang="swe">En datamängd för betydelsemässig likhet och koppling mellan svenska ord.</description>
     <resourceShortName lang="eng">supersim-superlim</resourceShortName>
     <resourceShortName lang="swe">supersim-superlim</resourceShortName>
     <metaShareId/>

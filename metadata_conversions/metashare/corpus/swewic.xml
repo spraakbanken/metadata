@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SweWiC</resourceName>
-    <resourceName lang="swe">SweWiC</resourceName>
-    <description lang="eng">A Swedish Word-in-Context test set.</description>
-    <description lang="swe">En svensk ord-i-sammanhang utvarderingsmängd.</description>
+    <resourceName lang="eng">SweWiC 2.0</resourceName>
+    <resourceName lang="swe">SweWiC 2.0</resourceName>
+    <description lang="eng">A Swedish Word-in-Context dataset</description>
+    <description lang="swe">En svensk ord-i-sammanhang datamängd</description>
     <resourceShortName lang="eng">swewic</resourceShortName>
     <resourceShortName lang="swe">swewic</resourceShortName>
     <metaShareId/>

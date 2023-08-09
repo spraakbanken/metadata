@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">LangFN-V2</resourceName>
-    <resourceName lang="swe">LangFN-V2</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">LingFN-V2</resourceName>
+    <resourceName lang="swe">LingFN-V2</resourceName>
+    <description lang="eng">A Framenet for the linguistic domain</description>
+    <description lang="swe">Ett domänspecifikt frasnät med lingvistiska termer</description>
     <resourceShortName lang="eng">langfn-v2</resourceShortName>
     <resourceShortName lang="swe">langfn-v2</resourceShortName>
     <metaShareId/>

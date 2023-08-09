@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SweWinograd</resourceName>
-    <resourceName lang="swe">SweWinograd</resourceName>
-    <description lang="eng">A Swedish test set for pronoun resolution.</description>
-    <description lang="swe">En svensk utvärderingsmängd för pronomentolkning.</description>
+    <resourceName lang="eng">SweWinograd 2.0</resourceName>
+    <resourceName lang="swe">SweWinograd 2.0</resourceName>
+    <description lang="eng">A Swedish dataset for pronoun resolution</description>
+    <description lang="swe">En svensk datamängd för pronomentolkning</description>
     <resourceShortName lang="eng">swewinograd</resourceShortName>
     <resourceShortName lang="swe">swewinograd</resourceShortName>
     <metaShareId/>

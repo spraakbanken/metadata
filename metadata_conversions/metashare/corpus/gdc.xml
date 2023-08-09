@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Gothenburg Dialogue Corpus (GDC)</resourceName>
     <resourceName lang="swe">Gothenburg Dialogue Corpus (GDC)</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">GDC is a collection of 360 individual dialogues transcribed from recordings.</description>
+    <description lang="swe">GDC är en samling av 360 individuella dialoger transkriberade från inspelningar.</description>
     <resourceShortName lang="eng">gdc</resourceShortName>
     <resourceShortName lang="swe">gdc</resourceShortName>
     <metaShareId/>

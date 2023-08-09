@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Götheborgs weckolista 1740's</resourceName>
-    <resourceName lang="swe">Götheborgs weckolista 1740-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Götheborgs weckolista 1740's</resourceName>
+    <resourceName lang="swe">Kubhist: Götheborgs weckolista 1740-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-gotheborgsweckolista-1740</resourceShortName>

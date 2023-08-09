@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Medieval letters - Norwegian</resourceName>
-    <resourceName lang="swe">Medeltidsbrev - Norska</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Medieval letters: Norwegian</resourceName>
+    <resourceName lang="swe">Medeltidsbrev: Norska</resourceName>
+    <description lang="eng">Charters written in Norwegian, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)</description>
+    <description lang="swe">Brev på norska, ur Svenskt Diplomatariums huvudkartotek (SDHK)</description>
     <resourceShortName lang="eng">sdhk-norska</resourceShortName>
     <resourceShortName lang="swe">sdhk-norska</resourceShortName>
     <metaShareId/>

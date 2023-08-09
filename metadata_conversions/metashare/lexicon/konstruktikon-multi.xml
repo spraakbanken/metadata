@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">Flerspråkigt Konstruktikon</resourceName>
     <resourceName lang="eng">Multilingual Constructicon</resourceName>
-    <description lang="eng">A multilingual constructicon</description>
+    <description lang="eng">A multilingual Constructicon</description>
     <description lang="swe">Ett flerspråkigt konstruktikon</description>
     <resourceShortName lang="eng">konstruktikon-multi</resourceShortName>
     <resourceShortName lang="swe">konstruktikon-multi</resourceShortName>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Kommuners och städers informationstidningar 2001–2013</resourceName>
-    <resourceName lang="eng">Kommuners och städers informationstidningar 2001–2013</resourceName>
+    <resourceName lang="swe">Finlandssvenska: Kommuners och städers informationstidningar 2001–2013</resourceName>
+    <resourceName lang="eng">Finland Swedish: Kommuners och städers informationstidningar 2001–2013</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Material ur informationstidningar som ges ut av kommuner och städer.</description>
     <resourceShortName lang="eng">informationstidningar</resourceShortName>
     <resourceShortName lang="swe">informationstidningar</resourceShortName>
     <metaShareId/>

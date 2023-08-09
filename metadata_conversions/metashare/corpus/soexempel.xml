@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Språkprov SO 2009</resourceName>
     <resourceName lang="swe">Språkprov SO 2009</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe">De drygt 94 000 språkexemplen är hämtade ur Svensk ordbok utgiven av Svenska Akademien (2009). Exemplens uppgift är att stödja ordboksdefinitionerna och att ge information om uppslagsordens fraseologi. &lt;br&gt;&lt;br&gt;För åtkomst kontakta &lt;a href="mailto:emma.skoldberg@svenska.gu.se"&gt;Emma Sköldberg&lt;/a&gt;.</description>
     <resourceShortName lang="eng">soexempel</resourceShortName>
     <resourceShortName lang="swe">soexempel</resourceShortName>
     <metaShareId/>

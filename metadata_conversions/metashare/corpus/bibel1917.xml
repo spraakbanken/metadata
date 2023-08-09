@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish Bible 1917</resourceName>
     <resourceName lang="swe">Bibeln 1917</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Official Swedish translation of the Bible from 1917</description>
+    <description lang="swe">Officiell svensk översättning av Bibeln från 1917</description>
     <resourceShortName lang="eng">bibel1917</resourceShortName>
     <resourceShortName lang="swe">bibel1917</resourceShortName>
     <metaShareId/>

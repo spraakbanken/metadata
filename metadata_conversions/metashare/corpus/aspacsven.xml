@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-engelska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-English</resourceName>
+    <resourceName lang="swe">ASPAC: svenska-engelska</resourceName>
+    <resourceName lang="eng">ASPAC: Swedish-English</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsven-sv</resourceShortName>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Typograftidning 1889–1890</resourceName>
-    <resourceName lang="swe">Typograftidning 1889–1890</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Typograftidning 1889–1890</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Typograftidning 1889–1890</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Tidskrift ”utgifven af typografernes förening i Helsingfors”</description>
     <resourceShortName lang="eng">typograftidning</resourceShortName>
     <resourceShortName lang="swe">typograftidning</resourceShortName>
     <metaShareId/>

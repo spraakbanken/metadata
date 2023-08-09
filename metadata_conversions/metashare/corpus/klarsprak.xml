@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Förvaltningsmyndigheters texter</resourceName>
     <resourceName lang="swe">Förvaltningsmyndigheters texter</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">klarsprak</resourceShortName>
     <resourceShortName lang="swe">klarsprak</resourceShortName>
     <metaShareId/>

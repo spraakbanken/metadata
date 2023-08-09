@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Magma columns</resourceName>
-    <resourceName lang="swe">Magma kolumner</resourceName>
+    <resourceName lang="eng">Finland Swedish: Magma columns 2009–2012</resourceName>
+    <resourceName lang="swe">Finlandssvenska: Magma kolumner 2009–2012</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Material ur kolumner publicerade av Tankesmedjan Magma</description>
     <resourceShortName lang="eng">magmakolumner</resourceShortName>
     <resourceShortName lang="swe">magmakolumner</resourceShortName>
     <metaShareId/>

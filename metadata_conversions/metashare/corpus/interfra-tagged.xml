@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">InterFra tagged</resourceName>
     <resourceName lang="swe">InterFra taggad</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">To promote research in the field of French L2 second language acquisition in a developmental, interactional and variationist perspective. The HLP (High Level Proficiency in Second language use) project also investigates learners of other L2s such as Swedish, Spanish, English and Italian.</description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">interfra-tagged</resourceShortName>
     <resourceShortName lang="swe">interfra-tagged</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Rösträtt för Kvinnor</resourceName>
-    <resourceName lang="swe">Rösträtt för Kvinnor</resourceName>
+    <resourceName lang="eng">Kvinnotidningar: Rösträtt för Kvinnor</resourceName>
+    <resourceName lang="swe">Kvinnotidningar: Rösträtt för Kvinnor</resourceName>
     <description lang="eng">A corpus with texts from the women's newspaper Rösträtt för Kvinnor</description>
-    <description lang="swe">En korpus med texter från kvinnotidningen Rösträtt för Kvinnor</description>
+    <description lang="swe">En korpus med texter från kvinnotidningen Rösträtt för Kvinnor, tidning utgiven av landsföreningen för kvinnans politiska rösträtt</description>
     <resourceShortName lang="eng">ub-kvt-rostratt</resourceShortName>
     <resourceShortName lang="swe">ub-kvt-rostratt</resourceShortName>
     <metaShareId/>

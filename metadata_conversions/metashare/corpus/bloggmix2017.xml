@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Bloggmix 2017</resourceName>
     <resourceName lang="swe">Bloggmix 2017</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Material from a selection of Swedish blogs. Is updated regularly.</description>
+    <description lang="swe">Material från ett urval av svenska bloggar. Uppdateras regelbundet.</description>
     <resourceShortName lang="eng">bloggmix2017</resourceShortName>
     <resourceShortName lang="swe">bloggmix2017</resourceShortName>
     <metaShareId/>

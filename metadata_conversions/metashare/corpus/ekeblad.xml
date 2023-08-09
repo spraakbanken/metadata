@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Ekeblad's letters</resourceName>
     <resourceName lang="swe">Ekeblads brev</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Ekeblad's letter corpus is based on the digital edition Breven till Claes 1639–1655 by Sture Allén.</description>
+    <description lang="swe">Korpusen Ekeblads brev bygger på Sture Alléns digitala utgåva Breven till Claes 1639–1655.</description>
     <resourceShortName lang="eng">ekeblad</resourceShortName>
     <resourceShortName lang="swe">ekeblad</resourceShortName>
     <metaShareId/>

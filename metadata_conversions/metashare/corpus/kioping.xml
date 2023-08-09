@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Nils Matsson Kiöping's journeys</resourceName>
     <resourceName lang="swe">Nils Matsson Kiöpings resor</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe">Reseskildringar från 1674 och 1743</description>
     <resourceShortName lang="eng">kioping</resourceShortName>
     <resourceShortName lang="swe">kioping</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">SweWinogender</resourceName>
-    <resourceName lang="swe">SweWinogender</resourceName>
-    <description lang="eng">A Swedish test set for coreference and gender bias.</description>
-    <description lang="swe">En svensk utvärderingsmängd för koreferens och könsbias.</description>
+    <resourceName lang="eng">SweWinogender 2.0</resourceName>
+    <resourceName lang="swe">SweWinogender 2.0</resourceName>
+    <description lang="eng">A Swedish dataset for coreference and gender bias</description>
+    <description lang="swe">En svensk datamängd för koreferens och könsbias</description>
     <resourceShortName lang="eng">swewinogender</resourceShortName>
     <resourceShortName lang="swe">swewinogender</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Smittskydd</resourceName>
     <resourceName lang="swe">Smittskydd</resourceName>
-    <description lang="eng">The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control)</description>
-    <description lang="swe">Smittskyddsinstitutets tidning Smittskydd</description>
+    <description lang="eng">The newspaper Smittskydd by Smittskyddsinstitutet (Swedish Institute for Communicable Disease Control) 2002–2010</description>
+    <description lang="swe">Smittskyddsinstitutets tidskrift Smittskydd, årgångarna 2002–2010</description>
     <resourceShortName lang="eng">smittskydd</resourceShortName>
     <resourceShortName lang="swe">smittskydd</resourceShortName>
     <metaShareId/>

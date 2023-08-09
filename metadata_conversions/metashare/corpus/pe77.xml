@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Banco de Datos de Prensa Española 1977 (SOL)</resourceName>
-    <resourceName lang="swe">Banco de Datos de Prensa Española 1977 (SOL)</resourceName>
-    <description lang="eng">Part of SOL - Spanish Online</description>
-    <description lang="swe">Del av SOL - Spanska Online</description>
+    <resourceName lang="eng">Databank of 1977 Spanish Press</resourceName>
+    <resourceName lang="swe">Banco de Datos de Prensa Española 1977</resourceName>
+    <description lang="eng">Text from two Spanish newspapers from 1977. Part of SOL - Spanish Online.</description>
+    <description lang="swe">Texter från två spanska tidningar från 1977. Del av SOL - Spanska Online.</description>
     <resourceShortName lang="eng">pe77</resourceShortName>
     <resourceShortName lang="swe">pe77</resourceShortName>
     <metaShareId/>

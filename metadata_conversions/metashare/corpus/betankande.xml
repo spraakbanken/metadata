@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Betänkande angående likformig uppställning av grammatiska läroböcker</resourceName>
-    <resourceName lang="swe">Betänkande angående likformig uppställning av grammatiska läroböcker</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Betänkande ang. läroböcker (1882)</resourceName>
+    <resourceName lang="swe">Betänkande ang. läroböcker (1882)</resourceName>
+    <description lang="eng">A report from 1882, digitized by the Gothenburg University Library</description>
+    <description lang="swe">Göteborgs universitetsbiblioteks OCR-lästa men ej korrekturlästa digitalisering av ett betänkande från 1882</description>
     <resourceShortName lang="eng">betankande</resourceShortName>
     <resourceShortName lang="swe">betankande</resourceShortName>
     <metaShareId/>

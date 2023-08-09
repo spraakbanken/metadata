@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Dalpilen 1880's</resourceName>
-    <resourceName lang="swe">Dalpilen 1880-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Dalpilen 1880's</resourceName>
+    <resourceName lang="swe">Kubhist: Dalpilen 1880-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-dalpilen-1880</resourceShortName>

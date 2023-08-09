@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">lingfn-thesis</resourceName>
-    <resourceName lang="swe">lingfn-thesis</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">LingFN-thesis</resourceName>
+    <resourceName lang="swe">LingFN-thesis</resourceName>
+    <description lang="eng">A Framenet for the linguistic domain</description>
+    <description lang="swe">Ett domänspecifikt frasnät med lingvistiska termer</description>
     <resourceShortName lang="eng">lingfn-thesis</resourceShortName>
     <resourceShortName lang="swe">lingfn-thesis</resourceShortName>
     <metaShareId/>

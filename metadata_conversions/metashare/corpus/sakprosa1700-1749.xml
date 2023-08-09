@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Non-fiction 1700–1749</resourceName>
-    <resourceName lang="swe">Sakprosa 1700–1749</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Non-fiction 1700–1749</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Sakprosa 1700–1749</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Samling av facklitteratur, reseskildringar, resebroschyrer och dissertationer m.m.</description>
     <resourceShortName lang="eng">sakprosa1700-1749</resourceShortName>
     <resourceShortName lang="swe">sakprosa1700-1749</resourceShortName>
     <metaShareId/>

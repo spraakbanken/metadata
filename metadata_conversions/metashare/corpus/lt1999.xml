@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Läkartidningen medical journal 1999</resourceName>
     <resourceName lang="swe">Läkartidningen 1999</resourceName>
-    <description lang="eng">Part of the corpus for health care technical language</description>
-    <description lang="swe">Del av Korpus för vårdens och omsorgens fackspråk</description>
+    <description lang="eng"></description>
+    <description lang="swe">Läkartidningens publicerade artiklar under 1999.</description>
     <resourceShortName lang="eng">lt1999</resourceShortName>
     <resourceShortName lang="swe">lt1999</resourceShortName>
     <metaShareId/>

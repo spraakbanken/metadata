@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Medieval letters - German</resourceName>
-    <resourceName lang="swe">Medeltidsbrev - Tyska</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Medieval letters: German</resourceName>
+    <resourceName lang="swe">Medeltidsbrev: Tyska</resourceName>
+    <description lang="eng">Charters written in German, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)</description>
+    <description lang="swe">Brev på tyska, ur Svenskt Diplomatariums huvudkartotek (SDHK)</description>
     <resourceShortName lang="eng">sdhk-tyska</resourceShortName>
     <resourceShortName lang="swe">sdhk-tyska</resourceShortName>
     <metaShareId/>

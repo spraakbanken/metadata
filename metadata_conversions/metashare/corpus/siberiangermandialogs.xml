@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Sibirian-German</resourceName>
     <resourceName lang="swe">Sibirientyska</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Siberian German is transcribed German spoken of about 36 000 people in the region of Krasnoyarsk in Siberia (Russia).</description>
+    <description lang="swe">Sibirientyska är nedtecknad talad tyska som talas idag av c:a 36 000 människor i regionen Krasnojarsk i Sibirien (Ryssland).</description>
     <resourceShortName lang="eng">siberiangermandialogs</resourceShortName>
     <resourceShortName lang="swe">siberiangermandialogs</resourceShortName>
     <metaShareId/>

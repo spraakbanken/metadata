@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Finlandssvensk Ungdomslitteratur</resourceName>
-    <resourceName lang="eng">Finland Swedish Youth Literature</resourceName>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <resourceName lang="swe">Finlandssvenska: Ungdomslitteratur 1992–2012</resourceName>
+    <resourceName lang="eng">Finland Swedish: Youth Literature 1992–2012</resourceName>
+    <description lang="swe">Material ur ungdomslitterära verk publicerade under 1992–2013</description>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <resourceShortName lang="swe">ungdomslitteratur</resourceShortName>
     <resourceShortName lang="eng">ungdomslitteratur</resourceShortName>

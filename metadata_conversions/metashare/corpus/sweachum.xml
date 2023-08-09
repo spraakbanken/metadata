@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Academic texts – Humanities</resourceName>
-    <resourceName lang="swe">Akademiska texter – Humaniora</resourceName>
-    <description lang="eng">A corpus with academic texts.</description>
-    <description lang="swe">En korpus med akademiska texter.</description>
+    <resourceName lang="eng">Academic texts: Humanities</resourceName>
+    <resourceName lang="swe">Akademiska texter: Humaniora</resourceName>
+    <description lang="eng">A corpus with academic texts</description>
+    <description lang="swe">En korpus med akademiska texter</description>
     <resourceShortName lang="eng">sweachum</resourceShortName>
     <resourceShortName lang="swe">sweachum</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Medieval letters - Swedish</resourceName>
-    <resourceName lang="swe">Medeltidsbrev - Svenska</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Medieval letters: Swedish</resourceName>
+    <resourceName lang="swe">Medeltidsbrev: Svenska</resourceName>
+    <description lang="eng">Charters written in Swedish, from the Diplomatarium Suecanum (Svenskt Diplomatariums huvudkartotek, SDHK)</description>
+    <description lang="swe">Brev på svenska, ur Svenskt Diplomatariums huvudkartotek (SDHK)</description>
     <resourceShortName lang="eng">sdhk-svenska</resourceShortName>
     <resourceShortName lang="swe">sdhk-svenska</resourceShortName>
     <metaShareId/>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Bollnäs tidning 1880's</resourceName>
-    <resourceName lang="swe">Bollnäs tidning 1880-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Bollnäs tidning 1880's</resourceName>
+    <resourceName lang="swe">Kubhist: Bollnäs tidning 1880-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-bollnastidning-1880</resourceShortName>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Statens offentliga utredningar</resourceName>
-    <resourceName lang="swe">Statens offentliga utredningar</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">KBs digitaliserade SOU:er (1922–1996)</resourceName>
+    <resourceName lang="swe">KBs digitaliserade SOU:er (1922–1996)</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe">Statens offentliga utredningar (SOU) i digitaliserat format från &lt;a href="https://sou.kb.se" target="_blank"&gt;Kungliga biblioteket&lt;/a&gt;. Samlingen är inte komplett.</description>
     <resourceShortName lang="eng">sou</resourceShortName>
     <resourceShortName lang="swe">sou</resourceShortName>
     <metaShareId/>

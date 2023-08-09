@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish newspapers 1871-1906</resourceName>
     <resourceName lang="swe">Svenska tidningar 1871-1906</resourceName>
     <description lang="eng">A selection of Swedish newspapers printed between 1871 and 1906 from the collections of Kungliga biblioteket (KB). For OCR analysis.</description>
-    <description lang="swe">Ett urval av svenska tidningar tryckta mellan 1871 och 1906 från samlingarna på Kungliga biblioteket (KB). För OCR analys. </description>
+    <description lang="swe">Ett urval av svenska tidningar tryckta mellan 1871 och 1906 från samlingarna på Kungliga biblioteket (KB). För OCR analys.</description>
     <resourceShortName lang="eng">svenska-tidningar-1871-1906</resourceShortName>
     <resourceShortName lang="swe">svenska-tidningar-1871-1906</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Idun</resourceName>
-    <resourceName lang="swe">Idun</resourceName>
+    <resourceName lang="eng">Kvinnotidningar: Idun</resourceName>
+    <resourceName lang="swe">Kvinnotidningar: Idun</resourceName>
     <description lang="eng">A corpus with texts from the women's newspaper Idun</description>
-    <description lang="swe">En korpus med texter från kvinnotidningen Idun</description>
+    <description lang="swe">En korpus med texter från kvinnotidningen Idun, praktisk veckotidning för kvinnan och hemmet</description>
     <resourceShortName lang="eng">ub-kvt-idun</resourceShortName>
     <resourceShortName lang="swe">ub-kvt-idun</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Brev 1700-tal</resourceName>
-    <resourceName lang="eng">Letters 1700-tal</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Brev 1700-tal</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Letters 1700-tal</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Privatkorrespondens, dagböcker, resejournaler och andra icke skönlitterära texter såsom meddelanden och uppsatser</description>
     <resourceShortName lang="eng">fsbbrev1700tal</resourceShortName>
     <resourceShortName lang="swe">fsbbrev1700tal</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Twitter: Partiledardebatt maj 2014</resourceName>
-    <resourceName lang="swe">Twitter: Party Leader Debate May 2014</resourceName>
-    <description lang="eng">Material from a selection of Swedish Twitter users. Is regularly updated.</description>
-    <description lang="swe">Material från ett urval av svenska Twitteranvändare. Uppdateras regelbundet.</description>
+    <resourceName lang="eng">Twitter: Party Leader Debate May 2014</resourceName>
+    <resourceName lang="swe">Twitter: Partiledardebatt maj 2014</resourceName>
+    <description lang="eng">Material from Twitter, collected during the party leader debate on May 4th 2013 and a few days before and after</description>
+    <description lang="swe">Material från Twitter, insamlat under partiledardebatten 4 maj 2014 samt några dagar före och efter</description>
     <resourceShortName lang="eng">twitter-pldebatt-140504</resourceShortName>
     <resourceShortName lang="swe">twitter-pldebatt-140504</resourceShortName>
     <metaShareId/>

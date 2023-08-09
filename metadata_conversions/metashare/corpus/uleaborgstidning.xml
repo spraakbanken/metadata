@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Uleåborgs Tidning 1877–1887</resourceName>
-    <resourceName lang="swe">Uleåborgs Tidning 1877–1887</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Uleåborgs Tidning 1877–1887</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Uleåborgs Tidning 1877–1887</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Tidning som utkom i Uleåborg 1877–1891</description>
     <resourceShortName lang="eng">uleaborgstidning</resourceShortName>
     <resourceShortName lang="swe">uleaborgstidning</resourceShortName>
     <metaShareId/>

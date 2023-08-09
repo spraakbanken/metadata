@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">MAÞiR Trees</resourceName>
     <resourceName lang="swe">MAÞiR Träd</resourceName>
-    <description lang="eng">An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax. </description>
-    <description lang="swe">En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil met PROIEL-korpusarna.</description>
+    <description lang="eng">An Old Swedish treebank, with lemma, parts-of-speech, and PROIEL-style dependency syntax.</description>
+    <description lang="swe">En fornsvensk trädbank, med lemmata, ordklasser och syntax i stil med PROIEL-korpusarna.</description>
     <resourceShortName lang="eng">mathir-trees</resourceShortName>
     <resourceShortName lang="swe">mathir-trad</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Kitaabka Quduuska Ah</resourceName>
-    <resourceName lang="swe">Kitaabka Quduuska Ah</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Somali: Kitaabka Quduuska Ah</resourceName>
+    <resourceName lang="swe">Somaliska: Kitaabka Quduuska Ah</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-kqa</resourceShortName>
     <resourceShortName lang="swe">somali-kqa</resourceShortName>
     <metaShareId/>

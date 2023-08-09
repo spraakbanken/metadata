@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">The Riksdag's open data - Debates</resourceName>
-    <resourceName lang="swe">Riksdagens öppna data - Anföranden</resourceName>
+    <resourceName lang="swe">Riksdagens öppna data: Anföranden</resourceName>
     <description lang="eng">Debates from the Swedish parliament in the period 1993/94-2017/18</description>
     <description lang="swe">Alla riksdagens anföranden från och med riksmötet 1993/94 till och med riksmötet 2017/2018</description>
     <resourceShortName lang="eng">rd-anf-1993-2018</resourceShortName>

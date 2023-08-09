@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Parole+</resourceName>
     <resourceName lang="swe">Parole+</resourceName>
-    <description lang="eng">The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, connected to SALDO senses</description>
-    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, kopplade till betydelser i SALDO</description>
+    <description lang="eng">The Swedish PAROLE Lexicon - A language technology resource with access to syntactic information, partially linked to SALDO senses</description>
+    <description lang="swe">Svenskt PAROLE lexikon - En språkteknologisk resurs med syntaktisk information, partiellt länkad till betydelser i SALDO</description>
     <resourceShortName lang="eng">parolelexplus</resourceShortName>
     <resourceShortName lang="swe">parolelexplus</resourceShortName>
     <metaShareId/>

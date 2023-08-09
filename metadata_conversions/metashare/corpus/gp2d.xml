@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">GP – Två dagar</resourceName>
     <resourceName lang="swe">GP – Två dagar</resourceName>
-    <description lang="eng">A corpus with texts from Göteborgsposten</description>
-    <description lang="swe">En korpus med texter från Göteborgsposten</description>
+    <description lang="eng">Weekend appendix of Göteborgs-Posten</description>
+    <description lang="swe">Helgbilaga till Göteborgs-Posten</description>
     <resourceShortName lang="eng">gp2d</resourceShortName>
     <resourceShortName lang="swe">gp2d</resourceShortName>
     <metaShareId/>

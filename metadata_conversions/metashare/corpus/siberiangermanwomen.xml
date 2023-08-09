@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Sibirientyska kvinnor</resourceName>
     <resourceName lang="swe">Sibirientyska kvinnor</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Dialogs between four women born in 1927 to 1937 in the Soviet Volga Republic</description>
+    <description lang="swe">Samtal med fyra kvinnor födda mellan 1927 och 1937 i sovjetiska Volgarepubliken</description>
     <resourceShortName lang="eng">siberiangermanwomen</resourceShortName>
     <resourceShortName lang="swe">siberiangermanwomen</resourceShortName>
     <metaShareId/>

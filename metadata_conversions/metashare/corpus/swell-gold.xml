@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SweLL-gold</resourceName>
     <resourceName lang="swe">SweLL-gold</resourceName>
-    <description lang="eng">Essays written by adult learners of Swedish</description>
+    <description lang="eng">Essays written by adult learners of Swedish, manually pseudonymized and correction annotated. The corpus contains both the original learner text and a corrected version of each essay. Collection period 2017-2020.</description>
     <resourceShortName>swell-gold</resourceShortName>
     <identifier>swell-gold</identifier>
   </identificationInfo>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish-Finnish word lists</resourceName>
     <resourceName lang="swe">Svensk-finska ordlistor</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">Swedish-Finnish word lists within various domains</description>
+    <description lang="swe">Svensk-finska ordlistor inom olika ämnesområden</description>
     <resourceShortName lang="eng">term-swefin</resourceShortName>
     <resourceShortName lang="swe">term-swefin</resourceShortName>
     <metaShareId/>

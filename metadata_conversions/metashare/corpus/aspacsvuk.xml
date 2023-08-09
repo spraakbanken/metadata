@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">ASPAC – svenska-ukrainska</resourceName>
-    <resourceName lang="eng">ASPAC – Swedish-Ukrainian</resourceName>
+    <resourceName lang="swe">ASPAC: svenska-ukrainska</resourceName>
+    <resourceName lang="eng">ASPAC: Swedish-Ukrainian</resourceName>
     <description lang="eng">Part of The Amsterdam Slavic Parallel Aligned Corpus</description>
     <description lang="swe">Del av The Amsterdam Slavic Parallel Aligned Corpus</description>
     <resourceShortName lang="swe">aspacsvuk-sv</resourceShortName>

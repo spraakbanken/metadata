@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Dalin Dictionary - Base Material</resourceName>
     <resourceName lang="swe">Dalin Ordbok Öfver Svenska Språket - basmaterial</resourceName>
     <description lang="eng">Dalin's Dictionary of 19th century Swedish - base material</description>
-    <description lang="swe">Dalins ordbok - Ordbok över 1800-talsspråket</description>
+    <description lang="swe">Dalins ordbok - Ordbok över 1800-talsspråket - basmaterial</description>
     <resourceShortName lang="eng">dalin-base</resourceShortName>
     <resourceShortName lang="swe">dalin-base</resourceShortName>
     <metaShareId/>

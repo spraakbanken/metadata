@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Post- och Inrikes Tidningar 1830's</resourceName>
-    <resourceName lang="swe">Post- och Inrikes Tidningar 1830-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Post- och Inrikes Tidningar 1830's</resourceName>
+    <resourceName lang="swe">Kubhist: Post- och Inrikes Tidningar 1830-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-postochinrikestidning-1830</resourceShortName>

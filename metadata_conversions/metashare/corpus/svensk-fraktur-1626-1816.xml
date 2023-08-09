@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Swedish fraktur 1626-1816</resourceName>
     <resourceName lang="swe">Svensk fraktur 1626-1816</resourceName>
-    <description lang="eng">A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB). For OCR analysis. </description>
+    <description lang="eng">A selection of fraktur texts printed between 1626 and 1816 from the collections of the University Library of University of Gothenburg (UB). For OCR analysis.</description>
     <description lang="swe">Ett urval av svensk fraktur texter tryckta mellan 1626 och 1816 från samlingarna på Universitetsbiblioteket vid Göteborgs universitet (UB). För OCR analys.</description>
     <resourceShortName lang="eng">svensk-fraktur-1626-1816</resourceShortName>
     <resourceShortName lang="swe">svensk-fraktur-1626-1816</resourceShortName>

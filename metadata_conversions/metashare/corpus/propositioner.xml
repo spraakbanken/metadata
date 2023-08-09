@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="swe">Propositioner 1993–2013</resourceName>
-    <resourceName lang="eng">Proposals 1993–2013</resourceName>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <resourceName lang="swe">Finlandssvenska: Propositioner 1993–2013</resourceName>
+    <resourceName lang="eng">Finland Swedish: Proposals 1993–2013</resourceName>
+    <description lang="swe">Material ur regeringens propositioner</description>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
     <resourceShortName lang="swe">propositioner</resourceShortName>
     <resourceShortName lang="eng">propositioner</resourceShortName>

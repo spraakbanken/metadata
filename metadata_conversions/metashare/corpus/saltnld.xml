@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="swe">SALT – svenska-nederländska</resourceName>
     <resourceName lang="eng">SALT – Swedish-Dutch</resourceName>
-    <description lang="swe"/>
-    <description lang="eng"/>
+    <description lang="swe">Nederländsk-svensk parallellkorpus av 1900-talet skön- och facklitterära texter.</description>
+    <description lang="eng">Dutch-Swedish parallel corpus of 20th century fictional and nonfictional texts.</description>
     <resourceShortName lang="swe">saltnld-sv</resourceShortName>
     <resourceShortName lang="nld">saltnld-nl</resourceShortName>
     <metaShareId/>

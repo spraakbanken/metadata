@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Finsk Tidskrift 1900–1912</resourceName>
-    <resourceName lang="swe">Finsk Tidskrift 1900–1912</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Finsk Tidskrift 1900–1912</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Finsk Tidskrift 1900–1912</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Tidskrift som grundades 1875. Utkom med sitt första nummer 1876. Nordens äldsta fortsättningsvis utkommande tidskrift.</description>
     <resourceShortName lang="eng">finsktidskrift1900tal</resourceShortName>
     <resourceShortName lang="swe">finsktidskrift1900tal</resourceShortName>
     <metaShareId/>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Kalmar 1870's</resourceName>
-    <resourceName lang="swe">Kalmar 1870-talet</resourceName>
+    <resourceName lang="eng">Kubhist: Kalmar 1870's</resourceName>
+    <resourceName lang="swe">Kubhist: Kalmar 1870-talet</resourceName>
     <description lang="eng">Part of the collection Kubhist</description>
     <description lang="swe">Del av samlingen Kubhist</description>
     <resourceShortName lang="eng">kubhist-kalmar-1870</resourceShortName>

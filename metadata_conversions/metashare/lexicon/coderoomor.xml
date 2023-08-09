@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">CoDeRooMor, v.01</resourceName>
     <resourceName lang="swe">CoDeRooMor, v.01</resourceName>
-    <description lang="eng">Morphological dataset (word-building morphology), Swedish L2 profiles project, </description>
+    <description lang="eng">Morphological dataset (word-building morphology), Swedish L2 profiles project</description>
     <description lang="swe">Dataset för morfologistudier (ordbildningsmorfologi), Svenska L2 profil-projektet</description>
     <resourceShortName lang="eng">coderoomor</resourceShortName>
     <resourceShortName lang="swe">coderoomor</resourceShortName>

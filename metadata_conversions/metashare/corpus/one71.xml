@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)</resourceName>
-    <resourceName lang="swe">Banco de Datos de Once Novelas Españolas 1951—1971 (SOL)</resourceName>
-    <description lang="eng">Part of SOL - Spanish Online</description>
-    <description lang="swe">Del av SOL - Spanska Online</description>
+    <resourceName lang="eng">Databank of Eleven Spanish Novels 1951–1971</resourceName>
+    <resourceName lang="swe">Banco de Datos de Once Novelas Españolas 1951–1971</resourceName>
+    <description lang="eng">Corpus consisting of 11 Spanish novels. Part of SOL - Spanish Online.</description>
+    <description lang="swe">Korpus med elva spanska romaner. Del av SOL - Spanska Online.</description>
     <resourceShortName lang="eng">one71</resourceShortName>
     <resourceShortName lang="swe">one71</resourceShortName>
     <metaShareId/>

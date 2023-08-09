@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">ORDAT</resourceName>
     <resourceName lang="swe">ORDAT</resourceName>
-    <description lang="eng">Yearbook of Svenska Dagbladet 1923 - 1958</description>
-    <description lang="swe">Svenska Dagbladets årsbok 1923 - 1958</description>
+    <description lang="eng">Yearbook of Svenska Dagbladet 1923–1958</description>
+    <description lang="swe">Svenska Dagbladets årsbok 1923–1958</description>
     <resourceShortName lang="eng">ordat</resourceShortName>
     <resourceShortName lang="swe">ordat</resourceShortName>
     <metaShareId/>

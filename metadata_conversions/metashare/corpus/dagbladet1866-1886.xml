@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Helsingfors Dagblad 1866–1886</resourceName>
-    <resourceName lang="swe">Helsingfors Dagblad 1866–1886</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Helsingfors Dagblad 1866–1886</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Helsingfors Dagblad 1866–1886</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Liberal tidning som utkom i Helsingfors 1862–1889</description>
     <resourceShortName lang="eng">dagbladet1866-1886</resourceShortName>
     <resourceShortName lang="swe">dagbladet1866-1886</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Biblioteksbladet</resourceName>
     <resourceName lang="swe">Biblioteksbladet</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng">The earliest volumes of "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening" from 1916–1940, digitized by Project Runeberg</description>
+    <description lang="swe">Projekt Runebergs elektroniska utgåva av de äldsta årgångarna av "Biblioteksbladet: Organ för Sveriges allmänna biblioteksförening", 1916–1940</description>
     <resourceShortName lang="eng">runeberg-biblblad</resourceShortName>
     <resourceShortName lang="swe">runeberg-biblblad</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Hertha</resourceName>
-    <resourceName lang="swe">Hertha</resourceName>
+    <resourceName lang="eng">Kvinnotidningar: Hertha</resourceName>
+    <resourceName lang="swe">Kvinnotidningar: Hertha</resourceName>
     <description lang="eng">A corpus with texts from the women's newspaper Hertha</description>
-    <description lang="swe">En korpus med texter från kvinnotidningen Hertha</description>
+    <description lang="swe">En korpus med texter från kvinnotidningen Hertha, tidskrift för den svenska kvinnorörelsen - utgiven av Fredrika-Bremer-Förbundet</description>
     <resourceShortName lang="eng">ub-kvt-hertha</resourceShortName>
     <resourceShortName lang="swe">ub-kvt-hertha</resourceShortName>
     <metaShareId/>

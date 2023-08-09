@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Diachronic pivot</resourceName>
     <resourceName lang="swe">Diakronisk pivot</resourceName>
-    <description lang="eng">Diachronic pivot resource</description>
-    <description lang="swe">Diakronisk pivotresurs</description>
+    <description lang="eng">Diachronic pivot resource where historical lexical information is linked to SALDO</description>
+    <description lang="swe">Diakronisk pivotresurs där historisk lexikal information länkas till SALDO</description>
     <resourceShortName lang="eng">diapivot</resourceShortName>
     <resourceShortName lang="swe">diapivot</resourceShortName>
     <metaShareId/>

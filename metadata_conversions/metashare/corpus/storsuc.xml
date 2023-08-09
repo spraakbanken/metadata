@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SUC Novels (StorSUC)</resourceName>
-    <resourceName lang="swe">SUC Romaner (StorSUC)</resourceName>
+    <resourceName lang="swe">SUC-romaner (StorSUC)</resourceName>
     <description lang="eng">Stockholm-Umeå corpus</description>
     <description lang="swe">Stockholm-Umeå-korpus</description>
     <resourceShortName lang="eng">storsuc</resourceShortName>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Parole corpus</resourceName>
-    <resourceName lang="swe">Parole korpus</resourceName>
+    <resourceName lang="eng">PAROLE</resourceName>
+    <resourceName lang="swe">PAROLE</resourceName>
     <description lang="eng">A corpus annotated with morphological and syntactic information</description>
     <description lang="swe">En korpus annoterad med morfologisk och syntaktisk information</description>
     <resourceShortName lang="eng">parole</resourceShortName>

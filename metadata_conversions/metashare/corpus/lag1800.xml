@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Laws from the 1800's</resourceName>
     <resourceName lang="swe">Lagar från 1800-talet</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <description lang="eng"></description>
+    <description lang="swe">Regeringsformen 1809 med ändringar 1809-1974</description>
     <resourceShortName lang="eng">lag1800</resourceShortName>
     <resourceShortName lang="swe">lag1800</resourceShortName>
     <metaShareId/>

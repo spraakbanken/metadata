@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Hankeiten</resourceName>
-    <resourceName lang="swe">Hankeiten</resourceName>
+    <resourceName lang="eng">Finland Swedish: Hankeiten 2006–2012</resourceName>
+    <resourceName lang="swe">Finlandssvenska: Hankeiten 2006–2012</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Svenska Handelshögskolans Studentkårs tidskrift</description>
     <resourceShortName lang="eng">hankeiten</resourceShortName>
     <resourceShortName lang="swe">hankeiten</resourceShortName>
     <metaShareId/>

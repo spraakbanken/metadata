@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Suugaan</resourceName>
-    <resourceName lang="swe">Suugaan</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Somali: Suugaan</resourceName>
+    <resourceName lang="swe">Somaliska: Suugaan</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-suugaan</resourceShortName>
     <resourceShortName lang="swe">somali-suugaan</resourceShortName>
     <metaShareId/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">LSI</resourceName>
-    <resourceName lang="swe">LSI</resourceName>
-    <description lang="eng">Linguistic Survey of India</description>
-    <description lang="swe">Linguistic Survey of India</description>
+    <resourceName lang="eng">Linguistic Survey of India (LSI)</resourceName>
+    <resourceName lang="swe">Linguistic Survey of India (LSI)</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">lsi</resourceShortName>
     <resourceShortName lang="swe">lsi</resourceShortName>
     <metaShareId/>

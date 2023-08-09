@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Corpus Oral de Referencia del Español Contemporáneo (SOL)</resourceName>
-    <resourceName lang="swe">Corpus Oral de Referencia del Español Contemporáneo (SOL)</resourceName>
-    <description lang="eng">Part of SOL - Spanish Online</description>
-    <description lang="swe">Del av SOL - Spanska Online</description>
+    <resourceName lang="eng">Oral Copus for Reference of Contemporary Spanish</resourceName>
+    <resourceName lang="swe">Corpus Oral de Referencia del Español Contemporáneo</resourceName>
+    <description lang="eng">Corpus with transcriptions from recorded audio tapes from 1991 to 1992. Part of SOL - Spanish Online</description>
+    <description lang="swe">Korpus med transkriptioner från inspelade ljudband från 1991 till 1992. Del av SOL - Spanska Online</description>
     <resourceShortName lang="eng">cor92</resourceShortName>
     <resourceShortName lang="swe">cor92</resourceShortName>
     <metaShareId/>

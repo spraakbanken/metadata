@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Åbo Tidning 1883–1903</resourceName>
-    <resourceName lang="swe">Åbo Tidning 1883–1903</resourceName>
+    <resourceName lang="eng">Old Finland Swedish: Åbo Tidning 1883–1903</resourceName>
+    <resourceName lang="swe">Äldre finlandssvenska: Åbo Tidning 1883–1903</resourceName>
     <description lang="eng">Part of the Finland Swedish language bank over Swedish in Finland today and yesterday</description>
-    <description lang="swe">Del av finlandssvensk språkbank över svenskan i Finland i dag och i går</description>
+    <description lang="swe">Tidning som utkom i Åbo 1882–1906</description>
     <resourceShortName lang="eng">abotidning</resourceShortName>
     <resourceShortName lang="swe">abotidning</resourceShortName>
     <metaShareId/>
