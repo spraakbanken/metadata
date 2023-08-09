@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
 	<identificationInfo>
 		<resourceName lang="eng">Aventinus</resourceName>
@@ -7,7 +7,7 @@
 		<description lang="swe">Narkotikarelaterad terminologi</description>
 		<resourceShortName lang="eng">aventinus</resourceShortName>
 		<resourceShortName lang="swe">aventinus</resourceShortName>
-		<metaShareId />
+		<metaShareId/>
 		<identifier>hdl:10794/4fc635e2e60d65.40271188</identifier>
 		<identifier>aventinus</identifier>
 	</identificationInfo>
@@ -123,7 +123,7 @@
 				<encodingLevel>morphology</encodingLevel>
 				<conformanceToStandardsBestPractices>LMF</conformanceToStandardsBestPractices>
 			</lexicalConceptualResourceEncodingInfo>
-			<creationInfo />
+			<creationInfo/>
 			<lexicalConceptualResourceMediaType>
 				<lexicalConceptualResourceTextInfo>
 					<mediaType>text</mediaType>
@@ -139,7 +139,7 @@
 						<modalityType>writtenLanguage</modalityType>
 					</modalityInfo>
 					<sizeInfo>
-						<size>0</size>
+						<size>13803</size>
 						<sizeUnit>entries</sizeUnit>
 					</sizeInfo>
 					<textFormatInfo>
