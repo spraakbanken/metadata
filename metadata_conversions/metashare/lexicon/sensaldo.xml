@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">SenSALDO</resourceName>
@@ -6,22 +6,10 @@
     <description lang="eng">SenSALDO, SALDO entries and text word forms with sentiment information (prior polarity)</description>
     <description lang="swe">SenSALDO, SALDO-ingångar och textord med attitydinformation</description>
     <resourceShortName>sensaldo</resourceShortName>
-    <metaShareId />
+    <metaShareId/>
     <identifier>sensaldo</identifier>
   </identificationInfo>
   <distributionInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip</downloadLocation>
-    </licenceInfo>
     <iprHolder>
       <personInfo>
         <surname>Borin</surname>
@@ -38,7 +26,25 @@
         </affiliation>
       </personInfo>
     </iprHolder>
-  </distributionInfo>
+  <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/sensaldo.xml</downloadLocation>
+    </licenceInfo>
+    </distributionInfo>
   <contactPerson>
     <surname>Borin</surname>
     <givenName>Lars</givenName>
@@ -95,7 +101,7 @@
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>prior sentiment polarity</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
-      <creationInfo />
+      <creationInfo/>
       <lexicalConceptualResourceMediaType>
         <lexicalConceptualResourceTextInfo>
           <mediaType>text</mediaType>

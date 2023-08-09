@@ -13,11 +13,16 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-NC</licence>
+      <licence>CC BY-NC 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <restrictionsOfUse>academic-nonCommercialUse</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz</downloadLocation>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/MATHiR/mathir_trees_v0.1.tgz</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/mathir-trad.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

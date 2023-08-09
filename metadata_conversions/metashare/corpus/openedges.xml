@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">OpenEDGeS</resourceName>
@@ -13,17 +13,24 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-NC-SA</licence>
+      <licence>CC BY-NC-SA 4.0</licence>
       <restrictionsOfUse>attribution, non-commercial, share-alike</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip</downloadLocation>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/OpenEDGeS/OpenEDGeS_v1.01.zip</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>For license details of the previous versions, see the 'Read me.txt' file in the download.</licence>
+      <restrictionsOfUse></restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/OpenEDGeS/Previous_versions</downloadLocation>
+      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/OpenEDGeS/Previous_versions</downloadLocation>
     </licenceInfo>
-  </distributionInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/openedges.xml</downloadLocation>
+    </licenceInfo>
+    </distributionInfo>
   <iprHolder/>
   <contactPerson>
     <surname>Bouma</surname>

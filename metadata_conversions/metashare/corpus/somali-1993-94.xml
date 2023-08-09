@@ -3,8 +3,8 @@
   <identificationInfo>
     <resourceName lang="eng">Somali: Af Soomaali 1993-94</resourceName>
     <resourceName lang="swe">Somaliska: Af Soomaali 1993-94</resourceName>
-    <description lang="eng"></description>
-    <description lang="swe"></description>
+    <description lang="eng"/>
+    <description lang="swe"/>
     <resourceShortName lang="eng">somali-1993-94</resourceShortName>
     <resourceShortName lang="swe">somali-1993-94</resourceShortName>
     <metaShareId/>
@@ -23,7 +23,7 @@
       <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/?mode=somali#corpus=somali-1993-94</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-1993-94</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC BY 4.0</licence>

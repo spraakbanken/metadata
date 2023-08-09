@@ -31,9 +31,6 @@ interface:
   - access: https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=pe77
     licence: CC BY 4.0
     restriction: attribution
-  - access: https://spraakbanken.gu.se/konk/rom2/
-    licence: CC BY 4.0
-    restriction: attribution
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

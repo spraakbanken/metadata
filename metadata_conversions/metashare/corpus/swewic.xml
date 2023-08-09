@@ -13,18 +13,16 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz</downloadLocation>
-      <attributionText/>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swewic/2.0/swewic.zip</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt</downloadLocation>
-      <attributionText/>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swewic.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

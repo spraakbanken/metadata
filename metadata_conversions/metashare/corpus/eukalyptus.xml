@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">Eukalyptus Treebank of Written Swedish</resourceName>
@@ -13,19 +13,22 @@
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
+      <licence>CC BY-SA 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus/</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence lang="eng">Mixed</licence>
-      <licence lang="swe">Blandat</licence>
-      <restrictionsOfUse lang="eng">see license.txt</restrictionsOfUse>
-      <restrictionsOfUse lang="swe">se license.txt</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
+      <licence>Mixed</licence>
+      <restrictionsOfUse>see license.txt</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus_betas</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/eukalyptus.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

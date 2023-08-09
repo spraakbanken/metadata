@@ -3,7 +3,7 @@
   <identificationInfo>
     <resourceName lang="eng">KBs digitaliserade SOU:er (1922–1996)</resourceName>
     <resourceName lang="swe">KBs digitaliserade SOU:er (1922–1996)</resourceName>
-    <description lang="eng"></description>
+    <description lang="eng"/>
     <description lang="swe">Statens offentliga utredningar (SOU) i digitaliserat format från &lt;a href="https://sou.kb.se" target="_blank"&gt;Kungliga biblioteket&lt;/a&gt;. Samlingen är inte komplett.</description>
     <resourceShortName lang="eng">sou</resourceShortName>
     <resourceShortName lang="swe">sou</resourceShortName>
@@ -13,22 +13,28 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/sou.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>other</licence>
-      <restrictionsOfUse>other</restrictionsOfUse>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOU.txt</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=sou</executionLocation>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY</licence>
+      <licence>CC BY 4.0</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>other</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SOU.txt</downloadLocation>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sou.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>

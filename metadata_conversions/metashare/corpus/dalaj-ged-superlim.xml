@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- This file was automatically generated. Do not make changes directly to this file as they will get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
     <resourceName lang="eng">DaLAJ-GED-SuperLim 2.0</resourceName>
@@ -18,6 +17,20 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-tsv.zip</downloadLocation>
+      <attributionText>NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC BY 4.0</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://ecp.ep.liu.se/index.php/sltc/article/view/687/593</downloadLocation>
+      <attributionText>Elena Volodina, Yousuf Ali Mohammad, Aleksandrs Berdicevskis, Gerlof Bouma, Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC BY 4.0</licence>
