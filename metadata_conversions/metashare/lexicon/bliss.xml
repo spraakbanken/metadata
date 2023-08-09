@@ -105,8 +105,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId>language-independent</languageId>
-            <languageName>language-independent</languageName>
+            <languageId>zbl</languageId>
+            <languageName>Blissymbols</languageName>
           </languageInfo>
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
