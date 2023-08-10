@@ -55,6 +55,9 @@
       </communicationInfo>
     </affiliation>
   </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2020-05-30</metadataCreationDate>
+  </metadataInfo>
   <validationInfo>
     <validated>true</validated>
     <validationType>formal</validationType>

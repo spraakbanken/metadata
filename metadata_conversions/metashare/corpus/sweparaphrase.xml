@@ -98,10 +98,10 @@
           </languageInfo>
           <sizeInfo>
             <size>165</size>
-            <sizeUnit>Sentence pairs</sizeUnit>
+            <sizeUnit>other</sizeUnit>
           </sizeInfo>
           <annotationInfo>
-            <annotationType>Sentence-level semantic similarity</annotationType>
+            <annotationType>other</annotationType>
             <annotationFormat>sentence</annotationFormat>
             <annotationMode>manual</annotationMode>
           </annotationInfo>

@@ -12,6 +12,19 @@
     <identifier>bring</identifier>
   </identificationInfo>
   <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bring.xml</downloadLocation>
+    </licenceInfo>
     <iprHolder>
       <personInfo>
         <surname>Borin</surname>
@@ -28,19 +41,7 @@
         </affiliation>
       </personInfo>
     </iprHolder>
-  <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bring.xml</downloadLocation>
-    </licenceInfo>
-    </distributionInfo>
+  </distributionInfo>
   <contactPerson>
     <surname>Borin</surname>
     <givenName>Lars</givenName>
@@ -95,7 +96,7 @@
       <resourceType>lexicalConceptualResource</resourceType>
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
-        <encodingLevel>lexical semantics</encodingLevel>
+        <encodingLevel>semantics</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>
       <lexicalConceptualResourceMediaType>

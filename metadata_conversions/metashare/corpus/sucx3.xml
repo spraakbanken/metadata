@@ -87,11 +87,6 @@
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
-  <resourceDocumentationInfo>
-    <documentation>https://spraakbanken.gu.se/en/resources/sucx3</documentation>
-    <toolDocumentationType>manual</toolDocumentationType>
-    <toolDocumentationType>online</toolDocumentationType>
-  </resourceDocumentationInfo>
   <resourceComponentType>
     <corpusInfo>
       <resourceType>corpus</resourceType>

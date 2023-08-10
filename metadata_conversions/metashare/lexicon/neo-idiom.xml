@@ -12,23 +12,8 @@
     <identifier>neo-idiom</identifier>
   </identificationInfo>
   <distributionInfo>
-    <iprHolder>
-      <personInfo>
-        <surname>Forsberg</surname>
-        <givenName>Markus</givenName>
-        <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-        </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
-    </iprHolder>
-  <licenceInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
@@ -46,7 +31,23 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/neo-idiom.xml</downloadLocation>
     </licenceInfo>
-    </distributionInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Forsberg</surname>
+        <givenName>Markus</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
   <contactPerson>
     <surname>Forsberg</surname>
     <givenName>Markus</givenName>
@@ -88,14 +89,6 @@
     <toolDocumentationType>manual</toolDocumentationType>
     <toolDocumentationType>online</toolDocumentationType>
   </resourceDocumentationInfo>
-  <!--
-    <relationInfo>
-      <relationType></relationType>
-      <relatedResource>
-        <targetResourceNameURI></targetResourceNameURI>
-      </relatedResource>
-    </relationInfo>
-    -->
   <resourceComponentType>
     <lexicalConceptualResourceInfo>
       <resourceType>lexicalConceptualResource</resourceType>
@@ -119,41 +112,22 @@
           <modalityInfo>
             <modalityType>writtenLanguage</modalityType>
           </modalityInfo>
-          <!--
-                        <sizeInfo>
-                            <size>4242424242</size>
-                            <sizeUnit>bytes</sizeUnit>
-                        </sizeInfo>
-                        -->
           <sizeInfo>
             <size/>
             <sizeUnit>entries</sizeUnit>
-            <!-- sizeUnitMultiplier>unit</sizeUnitMultiplier -->
           </sizeInfo>
           <textFormatInfo>
             <mimeType>other</mimeType>
             <sizePerTextFormat>
               <size/>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTextFormat>
           </textFormatInfo>
-          <!--
-                        <characterEncodingInfo>
-                            <characterEncoding>UTF-8</characterEncoding>
-                            <sizePerCharacterEncoding>
-                            <size>23300000</size>
-                            <sizeUnit>bytes</sizeUnit>
-                            
-                            </sizePerCharacterEncoding>
-                        </characterEncodingInfo>
-                        -->
           <domainInfo>
             <domain>general</domain>
             <sizePerDomain>
               <size/>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerDomain>
           </domainInfo>
           <timeCoverageInfo>
@@ -161,7 +135,6 @@
             <sizePerTimeCoverage>
               <size/>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerTimeCoverage>
           </timeCoverageInfo>
           <geographicCoverageInfo>
@@ -169,7 +142,6 @@
             <sizePerGeographicCoverage>
               <size/>
               <sizeUnit>entries</sizeUnit>
-              <!--sizeUnitMultiplier>unit</sizeUnitMultiplier-->
             </sizePerGeographicCoverage>
           </geographicCoverageInfo>
         </lexicalConceptualResourceTextInfo>

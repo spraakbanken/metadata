@@ -12,23 +12,8 @@
     <identifier>blingbring</identifier>
   </identificationInfo>
   <distributionInfo>
-    <iprHolder>
-      <personInfo>
-        <surname>Borin</surname>
-        <givenName>Lars</givenName>
-        <communicationInfo>
-          <email>sb-info@svenska.gu.se</email>
-        </communicationInfo>
-        <affiliation>
-          <organizationName>Språkbanken, University of Gothenburg</organizationName>
-          <organizationShortName>Språkbanken</organizationShortName>
-          <communicationInfo>
-            <email>sb-info@svenska.gu.se</email>
-          </communicationInfo>
-        </affiliation>
-      </personInfo>
-    </iprHolder>
-  <licenceInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
@@ -52,7 +37,23 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/blingbring.xml</downloadLocation>
     </licenceInfo>
-    </distributionInfo>
+    <iprHolder>
+      <personInfo>
+        <surname>Borin</surname>
+        <givenName>Lars</givenName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+        </communicationInfo>
+        <affiliation>
+          <organizationName>Språkbanken, University of Gothenburg</organizationName>
+          <organizationShortName>Språkbanken</organizationShortName>
+          <communicationInfo>
+            <email>sb-info@svenska.gu.se</email>
+          </communicationInfo>
+        </affiliation>
+      </personInfo>
+    </iprHolder>
+  </distributionInfo>
   <contactPerson>
     <surname>Borin</surname>
     <givenName>Lars</givenName>
@@ -99,7 +100,7 @@
       <resourceType>lexicalConceptualResource</resourceType>
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
-        <encodingLevel>lexical semantics</encodingLevel>
+        <encodingLevel>semantics</encodingLevel>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>
       <lexicalConceptualResourceMediaType>

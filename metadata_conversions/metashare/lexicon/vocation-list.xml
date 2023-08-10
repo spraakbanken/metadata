@@ -90,7 +90,7 @@
       <lexicalConceptualResourceType>computationalLexicon</lexicalConceptualResourceType>
       <lexicalConceptualResourceEncodingInfo>
         <encodingLevel>morphology</encodingLevel>
-        <conformanceToStandardsBestPractices>TEXT</conformanceToStandardsBestPractices>
+        <conformanceToStandardsBestPractices>other</conformanceToStandardsBestPractices>
       </lexicalConceptualResourceEncodingInfo>
       <creationInfo/>
       <lexicalConceptualResourceMediaType>

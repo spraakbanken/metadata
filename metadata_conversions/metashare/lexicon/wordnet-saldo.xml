@@ -85,11 +85,6 @@
     <validationMode>automatic</validationMode>
     <validationExtent>full</validationExtent>
   </validationInfo>
-  <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/wordnet-saldo</samplesLocation>
-    <toolDocumentationType>manual</toolDocumentationType>
-    <toolDocumentationType>online</toolDocumentationType>
-  </resourceDocumentationInfo>
   <usageInfo>
     <foreseenUseInfo>
       <foreseenUse>nlpApplications</foreseenUse>
