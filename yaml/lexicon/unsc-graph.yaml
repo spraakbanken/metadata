@@ -1,46 +1,48 @@
 name:
-  swe: 'UNSC-Graph'  # Human readable name in Swedish
-  eng: 'UNSC-Graph'  # Human readable name in English
+  swe: 'UNSC-Graph'
+  eng: 'UNSC-Graph'
 short_description:
   swe: 'En utvidgbar kunskapsgraf för UNSC-korpusen med detaljer om deltagare och debatter från FN:s säkerhetsråd 1995-2020'  # Short description in a few words or a sentence in Swedish (plain text only)
   eng: 'An extensible knowledge graph for the UNSC corpus, detailing participants and debates from the UN Security Council 1995-2020'  # Short description in a few words or a sentence in English (plain text only)
-type: lexicon  # Must be "lexicon"
-trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
-unlisted: false  # If set to "true", the resource won't be listed, but it will be accessible via its URL
-successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
-language_codes: [eng]  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - eng
 size:
   entries: 1017406
-in_collections: []  # ID(s) of the collections the resource is part of
-downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz'  # URL to a downloadable file
-    type: lexicon  # What's in the file?
-    format: Prolog  # The file format or standard
-    info: ''  # Additional info, if required
+in_collections: []
+downloads:
+  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz'
+    type: lexicon
+    format: Prolog
+    info: ''
     licence: GNU GPLv3 or later
     restriction: attribution, sharealike
-interface: [] # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-contact_info:  # Contact info of the person who can answer questions about the resource
+interface: []
+contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
-annotation: # Anything worth to note about the annotations in this lexicon.
+annotation:
   swe: ''
   eng: ''
-keywords: [knowledge graph, political science, united nations, metadata] # List of keywords (in English) that may be used for filering. Keep them short!
+keywords:
+  - knowledge graph
+  - political science
+  - united nations
+  - metadata
 caveats: 
-  swe: 'Begränsat till 1995-2020' # Caveats and disclaimers in Swedish
-  eng: 'Limited to 1995-2020' # Caveats and disclaimers in English
-references: [Rødven-Eide et al., 2023, forthcoming] # List of references or links to publications describing the resource
+  swe: 'Begränsat till 1995-2020'
+  eng: 'Limited to 1995-2020'
+references:
+  - Rødven-Eide et al., 2023, forthcoming
 intended_uses:
   swe: 'För språkteknologisk och statsvetenskaplig analys av FN:s säkerhetsråds debatter' # The intended uses for this resource (in Swedish)
   eng: 'For analysis of the debates from the UN Security Council' # The intended uses for this resource (in English)
 description:
-  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
-  swe: |-
-    
-  # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
-  eng: |-
-
+  swe: ""
+  eng: ""
