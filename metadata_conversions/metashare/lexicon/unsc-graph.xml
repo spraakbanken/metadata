@@ -14,8 +14,8 @@
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
-      <licence>GNU GPLv3 or later</licence>
-      <restrictionsOfUse>attribution, sharealike</restrictionsOfUse>
+      <licence>GPL</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz</downloadLocation>
     </licenceInfo>
