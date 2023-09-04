@@ -58,14 +58,21 @@ keywords:
   - contemporary
 caveats:
   swe: ''
-  eng: '* Known problems and future improvements<br>- Sources are only provided in the form "scrubbed" texts, not any original html/pdf files.<br>- Annotation guidelines
-    currently missing, but see the Publications directory for discussion of the design of the treebank and its annotation layers.<br>- The treatment of "när" (when) is
-    inconsistent.<br>- The lemmata sometimes indicate compound part boundaries using "|", but far from always. (Consider removing these before use.)<br>- Multiword sense
-    annotation uses a system of indices to refer to the location of the other parts of the multiword. So we might have: <br>&lt;s id="s1"&gt;<br>[8 tokens omitted...]<br>&lt;t
+  eng: '* Known problems and future improvements<br>- Sources are only provided in the
+    form "scrubbed" texts, not any original html/pdf files.<br>- Annotation guidelines
+    currently missing, but see the Publications directory for discussion of the design
+    of the treebank and its annotation layers.<br>- The treatment of "när" (when) is
+    inconsistent.<br>- The lemmata sometimes indicate compound part boundaries using
+    "|", but far from always. (Consider removing these before use.)<br>- Multiword sense
+    annotation uses a system of indices to refer to the location of the other parts
+    of the multiword. So we might have: <br>&lt;s id="s1"&gt;<br>[8 tokens omitted...]<br>&lt;t
     id="s1_t9" word="för" sense="för_ro_skull..1" .../&gt;<br>&lt;t id="s1_t10" word="ro" sense="för_ro_skull..1:9"
-    .../&gt;<br>&lt;t id="s1_t11" word="skull" sense="för_ro_skull..1:9" .../&gt;<br>[...]<br>&lt;/s&gt;<br>where the notation "för_ro_skull..1:9" means that the Saldo sense identifier is för_ro_skull..1
-    and that this multiword starts at the ninth token in the s. These indexes are mostly correct when it comes to the sense-attribute, but in the sense_ann-attribute
-    (see Documentation/annotation.txt), these are likely to be wrong, due to retokenization after the sense annotation phase.'
+    .../&gt;<br>&lt;t id="s1_t11" word="skull" sense="för_ro_skull..1:9" .../&gt;<br>[...]<br>&lt;/s&gt;<br>where
+    the notation "för_ro_skull..1:9" means that the Saldo sense identifier is för_ro_skull..1
+    and that this multiword starts at the ninth token in the s. These indexes are
+    mostly correct when it comes to the sense-attribute, but in the sense_ann-attribute
+    (see Documentation/annotation.txt), these are likely to be wrong, due to retokenization
+    after the sense annotation phase.'
 references:
   - https://gup.ub.gu.se/publication/217815
 intended_uses:
