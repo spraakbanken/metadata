@@ -9,7 +9,8 @@ short_description:
 type: corpus
 trainingdata: true
 unlisted: true
-successors: superlim
+successors:
+  - superlim
 collection: true
 hide_resources: true
 resources:
