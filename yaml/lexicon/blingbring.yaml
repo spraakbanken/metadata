@@ -162,5 +162,7 @@ caveats:
   swe: ''
   eng: Most recent word attested in 1915.
 references:
-  - 'https://doi.org/10.1075/nlp.14 , https://gup.ub.gu.se/publication/198549 , https://gup.ub.gu.se/publication/217351
-    , https://gup.ub.gu.se/publication/296900 '
+  - '{publication 310036}'
+  - '{publication 198549}'
+  - '{publication 217351}'
+  - '{publication 296900}'

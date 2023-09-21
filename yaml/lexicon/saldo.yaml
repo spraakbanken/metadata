@@ -230,5 +230,7 @@ caveats:
   swe: ''
   eng: Saldo 3 has been forthcoming for ages
 references:
-  - https://gup.ub.gu.se/publication/188604 , https://gup.ub.gu.se/publication/102212
-    , https://gup.ub.gu.se/publication/72504 , https://doi.org/10.1075/nlp.14
+  - '{publication 188604}'
+  - '{publication 102212}'
+  - '{publication 72504}'
+  - '{publication 310036}'

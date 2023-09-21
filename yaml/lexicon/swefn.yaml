@@ -323,18 +323,18 @@ description:
       <br> [3] Dana Dannélls, Karin Friberg Heppin, Anna Ehrlemark (2014): Using language technology resources and tools to construct Swedish FrameNet. In Proceedings of the Workshop on Lexical and Grammatical Resources for Language Processing, pages 8--17, Dublin: ACL.
       <br> [4] Karin Friberg Heppin, Miriam R.L. Petruck (2014): Encoding of Compounds in Swedish FrameNet. In Proceedings of the 10th Workshop on Multiword Expressions (MWE 2014) Workshop at EACL 2014 (Gothenburg, Sweden). Association for Computational Linguistics, pages 67--71, Gothenburg: ACL.
       <br> [5] Friberg Heppin, Karin & Maria Toporowska Gronostaj (2014). Exploiting FrameNet for Swedish: Mismatch? Constructions and Frames 6(1): 52–72.
-       <br> [6] Karin Friberg Heppin (2013): Search using semantic FrameNet frames as variables. In Proceedings of Sixth Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR 2013), held at CIKM 2013 in San Francisco, pages 25--28.
-       <br> [7] Kaarlo Voionmaa, Karin Friberg Heppin (2013): Use of support verbs in FrameNet annotations. In Electronic lexicography in the 21st century: thinking outside the paper. Proceedings of the eLex 2013 conference, Tallinn, Estonia.
-        <br> [8] Richard Johansson, Karin Friberg Heppin, Dimitrios Kokkinakis (2012): Semantic Role Labeling with the Swedish FrameNet. In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12); Istanbul, Turkey, pages 3697--3700.
-        <br> [9] Dana Dannélls, Lars Borin (2012): Toward language independent methodology for generating artwork descriptions – Exploring FrameNet information. In EACL 2012 workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH), pages 18–23. Avignon: ACL.
-         <br> [10] Karin Friberg Heppin, Kaarlo Voionmaa (2012): Practical aspects of transferring the English Berkeley FrameNet to other languages. In Proceedings of SLTC 2012, 28–29. Lund: Lund University.
-         <br> [11] Dimitrios Kokkinakis (2012): Initial Experiments of Medication Event Extraction Using Frame Semantics. In Scandinavian Conference on Health Informatics (SHI), volym Linköping Electronic Conference Proceedings, pages 41--47. Linköping: LiUEP.
-         <br> [12] Richard Johansson (2012): Non-atomic Classification to Improve a Semantic Role Labeler for a Low-resource Language. In Proceedings of the First Joint Conference on Lexical and Computational Semantics (*SEM), Montréal, Canada, pages 95--99.
-         <br> [13] Lyngfelt, Benjamin, Lars Borin, Markus Forsberg, Julia Prentice, Rudolf Rydstedt, Emma Sköldberg & Sofia Tingsell. 2012. Adding a constructicon to the Swedish resource network of Språkbanken. In Proceedings of KONVENS 2012 (LexSem 2012 workshop), 452–461. Vienna: ÖGAI.
-          <br> [14] Lars Borin, Markus Forsberg, Richard Johansson, Kristiina Muhonen, Tanja Purtonen, Kaarlo Voionmaa (2012): Transferring Frames: Utilization of Linked Lexical Resources. In Proceedings of the Workshop on Inducing Linguistic Structure Submission (WILS), pages 8--15. Montrèal: ACL.
-          <br> [15] Dimitrios Kokkinakis, Maria Toporowska Gronostaj (2010): Linking SweFN++ with Medical Resources, towards a MedFrameNet for Swedish. In Proceedings of Louhi at NAACL-HLT 2010, pages 68–71. Los Angeles: ACL.
-           <br> [16] Dana Dannélls (2010): Applying semantic frame theory to automate natural language templates generation from ontology statements. In Proceedings of INLG 2010, 179–184. Dublin: ACL.
-           <br> [17] Lars Borin, Dana Dannélls, Markus Forsberg, Maria Toporowska Gronostaj, Dimitrios Kokkinakis (2009): Thinking Green: Toward Swedish FrameNet++. Presentation at the FrameNet Masterclass and Workshop in connection with TLT 2009. Milan.
+      <br> [6] Karin Friberg Heppin (2013): Search using semantic FrameNet frames as variables. In Proceedings of Sixth Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR 2013), held at CIKM 2013 in San Francisco, pages 25--28.
+      <br> [7] Kaarlo Voionmaa, Karin Friberg Heppin (2013): Use of support verbs in FrameNet annotations. In Electronic lexicography in the 21st century: thinking outside the paper. Proceedings of the eLex 2013 conference, Tallinn, Estonia.
+      <br> [8] Richard Johansson, Karin Friberg Heppin, Dimitrios Kokkinakis (2012): Semantic Role Labeling with the Swedish FrameNet. In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12); Istanbul, Turkey, pages 3697--3700.
+      <br> [9] Dana Dannélls, Lars Borin (2012): Toward language independent methodology for generating artwork descriptions – Exploring FrameNet information. In EACL 2012 workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH), pages 18–23. Avignon: ACL.
+      <br> [10] Karin Friberg Heppin, Kaarlo Voionmaa (2012): Practical aspects of transferring the English Berkeley FrameNet to other languages. In Proceedings of SLTC 2012, 28–29. Lund: Lund University.
+      <br> [11] Dimitrios Kokkinakis (2012): Initial Experiments of Medication Event Extraction Using Frame Semantics. In Scandinavian Conference on Health Informatics (SHI), volym Linköping Electronic Conference Proceedings, pages 41--47. Linköping: LiUEP.
+      <br> [12] Richard Johansson (2012): Non-atomic Classification to Improve a Semantic Role Labeler for a Low-resource Language. In Proceedings of the First Joint Conference on Lexical and Computational Semantics (*SEM), Montréal, Canada, pages 95--99.
+      <br> [13] Lyngfelt, Benjamin, Lars Borin, Markus Forsberg, Julia Prentice, Rudolf Rydstedt, Emma Sköldberg & Sofia Tingsell. 2012. Adding a constructicon to the Swedish resource network of Språkbanken. In Proceedings of KONVENS 2012 (LexSem 2012 workshop), 452–461. Vienna: ÖGAI.
+      <br> [14] Lars Borin, Markus Forsberg, Richard Johansson, Kristiina Muhonen, Tanja Purtonen, Kaarlo Voionmaa (2012): Transferring Frames: Utilization of Linked Lexical Resources. In Proceedings of the Workshop on Inducing Linguistic Structure Submission (WILS), pages 8--15. Montrèal: ACL.
+      <br> [15] Dimitrios Kokkinakis, Maria Toporowska Gronostaj (2010): Linking SweFN++ with Medical Resources, towards a MedFrameNet for Swedish. In Proceedings of Louhi at NAACL-HLT 2010, pages 68–71. Los Angeles: ACL.
+      <br> [16] Dana Dannélls (2010): Applying semantic frame theory to automate natural language templates generation from ontology statements. In Proceedings of INLG 2010, 179–184. Dublin: ACL.
+      <br> [17] Lars Borin, Dana Dannélls, Markus Forsberg, Maria Toporowska Gronostaj, Dimitrios Kokkinakis (2009): Thinking Green: Toward Swedish FrameNet++. Presentation at the FrameNet Masterclass and Workshop in connection with TLT 2009. Milan.
     </td>
     </tr>
     </table>
@@ -347,4 +347,4 @@ caveats:
   swe: ''
   eng: ''
 references:
-  - https://doi.org/10.1075/nlp.14
+  - '{publication 310036}'

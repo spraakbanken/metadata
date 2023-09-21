@@ -52,13 +52,8 @@ caveats:
     not leak into models.
 references:
   - '[README]: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
-  - '[HOW TO CITE 1]: Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi,
-    Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish
-    Learner Language corpus for European Reference Level studies. Proceedings of LREC
-    2016, Slovenia. [http://arxiv.org/pdf/1604.06583v1.pdf]'
-  - '[HOW TO CITE 2]: Wirén Mats, Arild Matsson, Dan Rosén, Elena Volodina. 2019.
-    SVALA: Annotation of Second-Language Learner Text Based on Mostly Automatic Alignment
-    of Parallel Corpora. CLARIN-2018 post-conference volume. LiUP Press. [http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf]'
+  - '[HOW TO CITE 1]: {publication 248141}'
+  - '[HOW TO CITE 2]: {publication 285624}'
 intended_uses:
   swe: ''
   eng: Automated grading using the CEFR scale, anonymization, second language acquisiton
@@ -83,7 +78,3 @@ description:
         <li><a href="https://spraakbanken.gu.se/en/projects/swell/">About the SweLL project</a></li>
         <li><a href="https://sunet.artologik.net/gu/swell">Application for access</a></li>
     </ul>
-
-    <h2>Cite as</h2>
-
-    <p>{publication 248141}</p>

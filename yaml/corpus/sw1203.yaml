@@ -26,7 +26,7 @@ interface:
     licence: CC BY 4.0
     restriction: attribution
 references:
-  - https://arxiv.org/pdf/1604.06583v1.pdf
+  - '{publication 248141}'
 contact_info:
   name: Enström Ingegerd
   email: ingegerd.enstroem@svenska.gu.se

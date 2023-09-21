@@ -20,7 +20,7 @@ interface:
     licence: CC BY 4.0
     restriction: attribution
 references:
-  - https://arxiv.org/pdf/1604.06583v1.pdf
+  - '{publication 248141}'
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se

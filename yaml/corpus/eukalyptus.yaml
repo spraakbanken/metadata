@@ -74,7 +74,7 @@ caveats:
     (see Documentation/annotation.txt), these are likely to be wrong, due to retokenization
     after the sense annotation phase.'
 references:
-  - https://gup.ub.gu.se/publication/217815
+  - '{publication 217815}'
 intended_uses:
   swe: ''
   eng: ''

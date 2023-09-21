@@ -93,9 +93,7 @@ caveats:
   swe: ''
   eng: ''
 references:
-  - Gerlof Bouma, Evie Coussé, Trude Dijkstra, and Nicoline van der Sijs. 2020. The
-    EDGeS Diachronic Bible Corpus. In <i>Proceedings of the 12th Conference on Language
-    Resources and Evaluation (LREC 2020)</i>, pages 5232–5239. http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.644.pdf
+  - '{publication 298473}'
 intended_uses:
   swe: ''
   eng: ''

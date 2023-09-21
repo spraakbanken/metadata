@@ -40,4 +40,5 @@ caveats:
   swe: ''
   eng: ''
 references:
-  - 'https://gup.ub.gu.se/publication/144291?lang=sv  https://gup.ub.gu.se/publication/140686?lang=sv  '
+  - '{publication 144291}'
+  - '{publication 140686}'
