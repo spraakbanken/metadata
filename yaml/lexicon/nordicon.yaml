@@ -9,7 +9,7 @@ trainingdata: false
 unlisted: false
 successors: []
 language_codes:
-  - gmq
+  # - gmq
   - eng
 size:
   entries: 0
