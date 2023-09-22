@@ -54,7 +54,7 @@ description:
     <p>Följ utvecklingen via <a href="http://spraakbanken.gu.se/rss/saldo_dev.xml"><img src="http://clt.gu.se/misc/feed.png" />RSS</a>.</p>
     </center>
 
-    <h2>Introduktion</h2>
+    <h3>Introduktion</h3>
 
     <p>
     SALDO (Svenskt associationslexikon 2) är en omfattande elektronisk lexikonresurs för modernt svenskt skriftspråk. Den är avsedd för användning i språkteknologisk forskning och utveckling av språkteknologiska applikationer. Den avviker därför från vad man förväntar sig att finna i traditionella lexikon avsedda för mänskligt bruk. Lexikonet är inte normativt, utan är tänkt att vara maximalt deskriptivt. Dessutom distribueras SALDO i ett format som är avsett för användning som en komponent i datorprogram. SALDO bygger på Svenskt associationslexikon (SAL), ett semantiskt lexikon för svenska. Man kan betrakta SALDO som baslexikonresursen i en svensk BLARK (Basic LAnguage Resource Kit).
@@ -64,7 +64,7 @@ description:
     SALDO omfattar idag (i) ett semantiskt lexikon, som är en sorts lexikalt-semantiskt nätverk, (ii) ett morfologiskt lexikon, som innehåller fullständig information om ordklass och böjningsmönster för alla ingångar, samt (iii) en datormorfologisk beskrivning, definierad med verktyget Funktionell Morfologi (FM). Alla delar är tillgängliga med en Creative Commons Erkännande-licens (CC-BY). SALDO kan laddas ned både i de släppta versionerna och i en utvecklingsversion. Det finns även tillgängligt genom fyra webbtjänster: en inkrementell tjänst för fullformsuppslagning, ett böjningsverktyg, en sammansättningsanalysator, samt en experimentell semantisk visualisering. Webbtjänsterna uppdateras dagligen med den senaste utvecklingsversionen av SALDO.
     </p>
 
-    <h2>Nedladdning</h2>
+    <h3>Nedladdning</h3>
 
     <p>SALDO tillhandahålls under licensen<br /><a href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons BY" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /> </a>
     </p>
@@ -94,30 +94,8 @@ description:
      </li>
     </ul>
 
-    <h2>Publikationer</h2>
-
-    <h4>2013</h4>
-    <p>{publication 188604}</p>
-
-    <h4>2009</h4>
-
-    <p>{publication 102212}</p>
-
-    <h4>2008</h4>
-
-    <p>{publication 72504}</p>
-
-    <p>L. Borin, M. Forsberg, L. L&ouml;nngren. SALDO 1.0 (Svenskt associationslexikon version 2). Spr&aring;kbanken,
-    G&ouml;teborgs universitet, 2008-05-07<br />
-    Download: <a href="https://spraakbanken.gu.se/personal/markus/publications/saldo_1.0.pdf">saldo_1.0.pdf</a>
-    </p>
-
-    <h4>2005</h4>
-
-    <p>{publication 33865}</p>
-
     <!--
-    <h2>Licens</h2>
+    <h3>Licens</h3>
 
     <p>
     Resursen sprids under friprogramvarulicensen
@@ -150,7 +128,7 @@ description:
     <p>Follow the development via <a href="http://spraakbanken.gu.se/rss/saldo_dev.xml"> <img src="http://clt.gu.se/misc/feed.png" /> RSS</a>.</p>
     </center>
 
-    <h2>Introduction</h2>
+    <h3>Introduction</h3>
 
     <p>
     SALDO (Swedish Associative Thesaurus version 2) is an extensive electronic lexicon resource for modern Swedish written language. It is created for the purpose of language technology research and for the development of language technology applications. Thus, it deviates from what you expect to find in a traditional lexicon for human use. It is not a normative lexicon, but is rather meant to be maximally descriptive. Additionally, it is distributed in a form which is intended for use as a component in a computer program. SALDO builds on Swedish Associative Thesaurus (SAL), a semantic lexicon for Swedish. SALDO may be viewed as a basic lexical resource for a Swedish BLARK (Basic LAnguage Resource Kit).
@@ -159,7 +137,7 @@ description:
     SALDO currently consists of i) semantic lexicon, which is a kind of lexical-semantic network, ii) a morphological lexicon, which contains full information about the part of speech and inﬂectional pattern of each entry, and iii) a computational morphological description, deﬁned with the tool Functional Morphology (FM). All components are released under a Creative Commons Attribute-Share Alike license. SALDO may be downloaded as both the released versions and a development version. It is also distributed through four web services: an incremental fullform lookup service, an inﬂection engine service, a compound analysis service, and an experimental semantic visualizer. The web services are updated daily with the latest development version of SALDO.
     </p>
 
-    <h2>Download SALDO</h2>
+    <h3>Download SALDO</h3>
 
 
     <p>SALDO is distributed under the licenses<br /><a href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons BY" style="border-width:0" src="https://licensebuttons.net/l/by/3.0/88x31.png" /> </a>
@@ -190,29 +168,8 @@ description:
      </li>
     </ul>
 
-    <h2>Publications</h2>
-    <h4>2013</h4>
-    <p>{publication 188604}</p>
-
-    <h4>2009</h4>
-
-    <p>{publication 102212}</p>
-
-    <h4>2008</h4>
-
-    <p>{publication 72504}</p>
-
-    <p>L. Borin, M. Forsberg, L. L&ouml;nngren. SALDO 1.0 (Svenskt associationslexikon version 2). Spr&aring;kbanken,
-    University of Gothenburg, 2008-05-07<br />
-    Download: <a href="http://spraakbanken.gu.se/personal/markus/publications/saldo_1.0.pdf">saldo_1.0.pdf</a>
-    </p>
-
-    <h4>2005</h4>
-
-    <p>{publication 33865}</p>
-
     <!--
-    <h2>License</h2>
+    <h3>License</h3>
 
     <p>
     SALDO is distributed under the following licenses:
@@ -224,8 +181,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: 
 caveats:
   swe: ''
   eng: Saldo 3 has been forthcoming for ages
@@ -233,4 +189,6 @@ references:
   - '{publication 188604}'
   - '{publication 102212}'
   - '{publication 72504}'
+  - '{publication 110525}'
+  - '{publication 33865}'
   - '{publication 310036}'
