@@ -70,8 +70,8 @@
             <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
-            <languageId/>
-            <languageName/>
+            <languageId>eng</languageId>
+            <languageName>English</languageName>
           </languageInfo>
           <languageInfo>
             <languageId>eng</languageId>
