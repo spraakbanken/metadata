@@ -37,9 +37,6 @@ interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=lexin
     licence: CC BY 4.0
     restriction: attribution
-  - access: https://spraakbanken.gu.se/lexin/
-    licence: CC BY 4.0
-    restriction: attribution
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -61,7 +58,7 @@ description:
     </p>
 
     <p>
-    Sök i <a href="http://spraakbanken.gu.se/lexin/">Svenska ord, Lexin</a>, andra utgåvan.
+    Språkbankens LEXIN-verktyg underhålls inte längre, använd gärna <a href="https://lexin.nada.kth.se/lexin/">https://lexin.nada.kth.se/lexin/</a> istället.
     </p>
 
     <p>
@@ -76,7 +73,6 @@ description:
     <a href="/pub/reskit/LEXIN.zip">Ladda ner Svenska ord/LEXIN andra utgåvan</a>
     <br/><em>Storlek:</em> C:a 20 000 uppslagsord
     <br/><em>Format:</em> XML
-    <br/><em>Dokumentation:</em> se <a href="/lexin/">webbversionen</a> av LEXIN - Svenska ord. (Endast tillgänglig för domäner inom universitet och högskolor.)
     </p>
   eng: |-
     <p>
@@ -92,7 +88,7 @@ description:
     </p>
 
     <p>
-    Search in <a href="http://spraakbanken.gu.se/lexin/">Svenska ord, Lexin</a>, second edition.
+    Språkbanken's LEXIN-tool is no longer maintained, please use <a href="https://lexin.nada.kth.se/lexin/">https://lexin.nada.kth.se/lexin/</a>.
     </p>
 
     <p>
@@ -103,7 +99,6 @@ description:
     <a href="/pub/reskit/LEXIN.zip">Download Svenska ord/LEXIN second edition</a>
     <br/><em>Storlek:</em> Around 20 000 entries
     <br/><em>Format:</em> XML
-    <br/><em>Documentation:</em> see <a href="/lexin/">the web version</a> of LEXIN - Svenska ord.
     </p>
 annotation:
   swe: ''
