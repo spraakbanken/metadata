@@ -1,6 +1,6 @@
 name:
-  swe: Dagens Arena 2007–2022
-  eng: Dagens Arena 2007–2022
+  swe: Dagens Arena
+  eng: Dagens Arena
 short_description:
   swe: Nyhetstexter från dagensarena.se
   eng: News texts from dagensarena.se
@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 10301409
-  sentences: 603629
+  tokens: 10641568
+  sentences: 623718
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/da.xml.bz2

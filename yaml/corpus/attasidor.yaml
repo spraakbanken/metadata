@@ -11,8 +11,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 4516949
-  sentences: 427550
+  tokens: 4812579
+  sentences: 450335
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/attasidor.xml.bz2

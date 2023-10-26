@@ -1,9 +1,9 @@
 name:
-  swe: 'Kubhist: Dalpilen 1920-talet'
   eng: 'Kubhist: Dalpilen 1920''s'
+  swe: 'Kubhist: Dalpilen 1920-talet'
 short_description:
-  swe: Del av samlingen Kubhist
   eng: Part of the collection Kubhist
+  swe: Del av samlingen Kubhist
 type: corpus
 trainingdata: false
 unlisted: false
@@ -11,24 +11,33 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 18126101
-  sentences: 1777081
+  tokens: 18642784
+  sentences: 1779240
 in_collections:
   - kubhist
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1920.xml.bz2
     type: corpus
     format: XML
-    info: ''
+    info: this file contains the corpus with updated annotations
     licence: CC BY 4.0
     restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1920.txt
     type: token frequencies
     format: CSV
-    info: ''
+    info: this file contains the token frequencies with older annotations
     licence: CC BY 4.0
     restriction: attribution
-interface: []
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1920.csv
+    type: token frequencies
+    format: CSV
+    info: this file contains the token frequencies with updated annotations
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-dalpilen-1920
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
