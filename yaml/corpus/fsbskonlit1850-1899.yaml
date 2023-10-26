@@ -33,6 +33,34 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
+  swe: |-
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
     i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska
     litteratursällskapet i Finland</a></p>
+    <p>Dessa verk ingår i samlingen:
+      <ul>
+        <li>Skildringar ur nyländska skärgården, Höijer Otto, 1853</li>
+        <li>Brokiga blad 1., Ingelius Axel Gabriel, 1853</li>
+        <li>LURENDREJAREN, Runeberg Johan Ludvig, 1854</li>
+        <li>Eldsvådan, Runeberg Johan Ludvig, 1854</li>
+        <li>Fru Catharina Boije och hennes döttrar, Runeberg Fredrika, 1858</li>
+        <li>Simeon Levis resa till Finland (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1860</li>
+        <li>Teckningar och drömmar, Runeberg Fredrika, 1861</li>
+        <li>Min pennas saga, Runeberg Fredrika, 1862</li>
+        <li>Fästningsfångarne (ur Samlade arbeten I af J.L. Runeberg, 1903), Runeberg Johan Ludvig, 1867</li>
+        <li>Sigrid Liljeholm, Runeberg Fredrika, 1881</li>
+        <li>Bland ödebygder och skär. Berättelser från Finland, Sten Daniel (Ina Lange), 1884</li>
+        <li>Sämre folk. En berättelse, Sten Daniel (Ina Lange), 1885</li>
+        <li>Barndomsvänner. Ett nutidsöde, Tavaststjerna Karl August, 1886</li>
+        <li>I utvecklingstid, Tea (Toini Mathilda Topelius), 1889</li>
+        <li>Berättelser från Finland, Sten Daniel (Ina Lange), 1890</li>
+        <li>Hårda tider: berättelse från Finlands sista nödår., Tavaststjerna Karl August, 1891</li>
+        <li>Ett mosaikarbete, Lybeck Mikael, 1892</li>
+        <li>Unga år, Tavaststjerna Karl August, 1892</li>
+        <li>I förbund med döden, Tavaststjerna Karl August, 1893</li>
+        <li>Arvid Kurck och hans samtida, Lindman Voldemar, 1893</li>
+        <li>Kapten Tärnberg med flera berättelser, Tavaststjerna Karl August, 1894</li>
+        <li>Finska vikens hemlighet af Paul Dubois., Tavaststjerna Karl August, 1895</li>
+        <li>Lille Karl. En gosses roman. Berättad för stora och små., Tavaststjerna Karl August, 1897</li>
+      </ul>
+    </p>

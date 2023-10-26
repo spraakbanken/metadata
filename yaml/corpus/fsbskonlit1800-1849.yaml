@@ -33,6 +33,28 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
+  swe: |-
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
     i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska
     litteratursällskapet i Finland</a></p>
+    <p>Dessa verk ingår i samlingen:
+      <ul>
+        <li>En Julqväll i Lotskojan Runeberg Johan Ludvig 1832</li>
+        <li>Processmakaren, Runeberg Johan Ludvig 1836</li>
+        <li>Den väntande, Runeberg Johan Ludvig 1836</li>
+        <li>Murgrönan Carstens Fredrika Wilhelmina, 1840</li>
+        <li>En spritterny Händelse (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1843</li>
+        <li>En Natt och en Morgon (ur Zacharias Topelius skrifter IV) Topelius Zacharias, 1843</li>
+        <li>Fyra giftermål, Snellman Johan Vilhelm, 1843</li>
+        <li>Hundrade minnen från Österbotten första delen [6 korta kapitel] Wacklin Sara, 1844</li>
+        <li>Herminas bekännelser (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1844</li>
+        <li>Påsk-Äggen (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1844</li>
+        <li>Lindanserskan (ur Zacharias Topelius skrifter IV) Topelius Zacharias, 1845</li>
+        <li>Trollkarlens Dotter (ur Zacharias Topelius skrifter IV) Topelius Zacharias, 1845</li>
+        <li>Kringelflickan (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1846</li>
+        <li>Bruden (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1846</li>
+        <li>Vargen (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1846</li>
+        <li>Vedergällningens dag (ur Zacharias Topelius skrifter IV), Topelius Zacharias, 1846</li>
+        <li>Salig Fänrikens Tofflor (ur Zacharias Topelius skrifter IV) Topelius Zacharias, 1847</li>
+      </ul>
+    </p>

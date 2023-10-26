@@ -33,6 +33,33 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
+  swe: |-
+    <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
     i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska
     litteratursällskapet i Finland</a></p>
+    <p>Dessa verk ingår i samlingen:
+      <ul>
+        <li>Två studier, Moberg Nenne, 1900</li>
+        <li>Den starkare, Lybeck Mikael, 1900</li>
+        <li>En idéernas man. Biografi öfver August Fredrik Soldan, Aho Juhani, 1901</li>
+        <li>Dagens hjälte, Hagfors Karl Johan, 1901</li>
+        <li>Syskonen Stjerne, Torckell Olga, 1902</li>
+        <li>Människor som jag känt, Ahrenberg Jac, 1904</li>
+        <li>Dolda makter, Westermarck Helena, 1905</li>
+        <li>En sommarfärd till de lyckliga öarna, Mattson Gustaf, 1907</li>
+        <li>Berättelser, Ramsay Anders Gustaf, 1909</li>
+        <li>En herre for till Zanzibar, Mattson Gustaf, 1914</li>
+        <li>Regnbågen, Schildt Runar, 1916</li>
+        <li>Det nya fosterlandet, Grotenfelt Erik, 1917</li>
+        <li>Ålandsjungfrun, Backman Sigrid, 1919</li>
+        <li>Tre människor, Morris Maud (Andrée Krogius), 1920</li>
+        <li>Folket på krogen, Hildén Henrik, 1921</li>
+        <li>Blixttämjaren: en äventyrsbok, Sanden Gabriel, 1925</li>
+        <li>Erik Åmarks Oro, Dahl Hjalmar, 1931</li>
+        <li>Katrina, Salminen; Sally, 1936</li>
+        <li>På lös sand, Salminen Sally, 1941</li>
+        <li>Store Dvärgen, Dahl Hjalmar, 1946</li>
+        <li>Prins Efflam, Salminen Sally, 1953</li>
+        <li>Torget, Järner Väinö Vilhelm, 1956</li>
+      </ul>
+    </p>
