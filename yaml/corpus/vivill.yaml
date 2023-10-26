@@ -2,7 +2,7 @@ name:
   swe: Svenska partiprogram och valmanifest
   eng: Swedish party programs and election manifestos
 short_description:
-  swe: Svenska partiprogram och valmanifest 1887–2022
+  swe: De svenska partiernas partiprogram och valmanifest 1887–2022
   eng: Swedish political party programs and election manifestos 1887–2022
 type: corpus
 trainingdata: false
@@ -44,7 +44,85 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - 'Göteborgs universitet, Svensk nationell datatjänst. (2022). Svenska partiprogram
+    och valmanifest (Version 2) [Dataset]. Tillgänglig via: https://doi.org/10.5878/8az5-zd46'
 intended_uses:
   swe: ''
   eng: ''
+description:
+  swe: |-
+    <p>Datan till den här korpusen är hämtad från <a
+    href="https://doi.org/10.5878/8az5-zd46">Svensk nationell
+    datatjänst</a>.</p>
+
+    <p>Dokumenten finns öppet tillgängliga via denna länk: <a
+    href="https://snd.gu.se/vivill">https://snd.gu.se/vivill</a>. Här går
+    också att söka i dokumenten.</p>
+
+    <p>Svenska partiprogram och valmanifest bygger på projektet "Vi vill....!
+    Hundra år av partipolitiska viljeyttringar" som genomfördes vid Svensk
+    samhällsvetenskaplig datatjänst (SSD) 2000-2002. Projektet syftade till
+    att sammanställa de partiprogram och manifest som de politiska
+    partierna producerat under 1900-talet. I dessa texter kan man spåra
+    partiernas utveckling, både vad gäller språkbruk, politik och ideologi.
+    De ger även en god överblick över de frågor som varit väsentliga för
+    vårt lands utveckling.</p>
+
+    <p>Samtliga partiprogram och valmanifest i databasen finns i .pdf och .txt
+    format. De finns även tillgängliga hos Språkbanken som en korpus vilket
+    medför ytterligare möjligheter för forskning på materialet.</p>
+
+    <p>Urvalet av valmanifest omfattade till en början endast riksdagspartier,
+    då det baserades på Sven-Olov Håkansson studie "Svenska valprogram
+    1902-1952" samt forskningsprojektet "Partiernas opinionspåverkan", POP,
+    av Peter Esaiasson och Nicklas Håkansson. Materialet har sedan
+    kompletterats och urvalet har breddats till att exempelvis omfatta
+    dokument för Europaparlamentet samt för partier utanför riksdagen.
+    Fortfarande saknas ett okänt antal dokument som skulle kunna ingå i
+    samlingen.</p>
+  eng: |-
+    <p>The data for this corpus was retrieved from <a
+    href="https://doi.org/10.5878/8az5-zd46">Svensk nationell
+    datatjänst</a>.</p>
+
+    <p>All documents are also open a vailable at page: <a
+    href="https://snd.gu.se/vivill">https://snd.gu.se/vivill</a>, where it
+    is possible to search in the documents.</p>
+
+    <p>Swedish party programs and election manifestos builds on the "Vi vill …!
+    Hundra år av partipolitiska viljeyttringar" ("We want…! A hundred years
+    of political party declarations") project, which the predecessor of
+    SND, SSD, conducted in 2000–2002. The purpose of this project was to
+    collect the programs and manifestos that the political parties had
+    produced during the 20th century. In these texts, you can trace the
+    development of the political parties in terms of their language,
+    politics, and ideology. The material also provides an overview of which
+    questions have been essential for the development of Sweden.</p>
+
+    <p>The selection of election manifestos builds on work done by Sven-Olov
+    Håkansson in "Svenska valprogram 1902–1952" (”Swedish election programs
+    1902–1952”), and materials collected and used in the research
+    project "Partiernas opinionspåverkan" (“Political party influence on
+    public opinions”), POP, by Peter Esaiasson and Nicklas Håkansson. At
+    first, only political parties in the Swedish Parliament
+    (Sveriges riksdag) were represented in the material. Later additions
+    have given a broader selection of parties as well as party documents
+    related to the European Parliament elections.</p>
+
+    <p>In the case of party programs, we have searched in research libraries
+    and people’s movement libraries, as well as in the archives of the
+    political parties. As there is varying degrees of knowledge about which
+    programs have been produced, we are aware that we have probably been
+    unable to find an unknown number of documents that could otherwise have
+    been included in the collection.</p>
+
+    <p>This project was made possible thanks to John-Erik Ågotnes at NSD
+    (Norsk Samfunnsvitenskapelig Datatjenste, now SIKT), the Norwegian
+    counterpart to SSD, which in 1997 published a CD with Norwegian party
+    programmes. Ågotnes allowed SSD free use of the software he had
+    developed for his project.</p>
+
+    <p>The "Vi vill …" project was awarded financial support from the
+    Riksbankens Jubileumsfond grant for support to research
+    infrastructures.</p>
