@@ -2,8 +2,8 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Dagens Arena 2007–2022</resourceName>
-    <resourceName lang="swe">Dagens Arena 2007–2022</resourceName>
+    <resourceName lang="eng">Dagens Arena</resourceName>
+    <resourceName lang="swe">Dagens Arena</resourceName>
     <description lang="eng">News texts from dagensarena.se</description>
     <description lang="swe">Nyhetstexter från dagensarena.se</description>
     <resourceShortName lang="eng">da</resourceShortName>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>10301409</size>
+            <size>10641568</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>603629</size>
+            <size>623718</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
