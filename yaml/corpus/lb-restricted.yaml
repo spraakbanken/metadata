@@ -1,0 +1,58 @@
+name:
+  swe: 'Litteraturbanken: skyddade verk'
+  eng: 'The Swedish Literature Bank: Restricted Works'
+short_description:
+  swe: E-texter och sökbara faksimiler från Litteraturbanken (litteraturbanken.se)
+  eng: E-texts and searchable facsimiles fron the Swedish Literature Bank (litteraturbanken.se)
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: 128261903
+  sentences: 7140880
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lb-restricted.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_lb-restricted.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/?mode=lb#?corpus=lb-restricted
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: |-
+    Korpusen består av meningsomkastade upphovsrättsskyddade e-texter och sökbara faksimiler från <a href="https://litteraturbanken.se/">Litteraturbanken</a>,
+    en fritt tillgänglig samling av svenska skönlitterära texter från medeltiden till nutiden.
+  eng: |-
+    The corpus contains sentence-scrambled copyrighted e-texts and searchable facsimiles from <a href="https://litteraturbanken.se/">the Swedish
+    Literature Bank</a>, a freely available collection of
+    Swedish literary works, ranging from medieval to contemporary.
