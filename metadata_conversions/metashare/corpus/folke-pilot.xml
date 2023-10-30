@@ -28,12 +28,6 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://frigg.isof.se/sagendatabas/api/es/documents/?mark_metadata=transcriptionstatus&amp;type=arkiv&amp;categorytypes=tradark&amp;publishstatus=published&amp;has_media=true&amp;size=100&amp;recordtype=one_record&amp;transcriptionstatus=published,accession&amp;sort=archive.archive_id_row.keyword&amp;order=asc</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=folke-pilot</executionLocation>
     </licenceInfo>
