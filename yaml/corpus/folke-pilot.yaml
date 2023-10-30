@@ -28,12 +28,6 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://frigg.isof.se/sagendatabas/api/es/documents/?mark_metadata=transcriptionstatus&type=arkiv&categorytypes=tradark&publishstatus=published&has_media=true&size=100&recordtype=one_record&transcriptionstatus=published,accession&sort=archive.archive_id_row.keyword&order=asc
-    type: JSON data from API
-    format: JSON
-    info: ''
-    licence: CC BY 2.5
-    restriction: attribution
 interface:
   - licence: CC BY 4.0
     restriction: attribution
