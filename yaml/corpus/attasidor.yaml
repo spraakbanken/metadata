@@ -50,15 +50,14 @@ intended_uses:
   eng: ''
 description:
   swe: |-
-    <p>8 Sidor är en nyhetstidning på lättläst svenska. Texterna i\nkorpusen är
-    extraherade från <a\nhref="https://8sidor.se/">8sidor.se</a>.</p>
-    <p>Tidningen utkommer en\ngång i veckan, på onsdagar. Upplagan är omkring 9
-    500 exemplar.\nLäsarundersökningar visar att varje nummer har omkring 100
-    000 läsare,\njämnt fördelade över Sverige. De som läser 8 Sidor är elever
-    i\ngrundskolan, vuxenutbildning, personer med
-    intellektuellt\nfunktionshinder, invandrare och många andra människor som
-    har svårt att\nläsa en vanlig dagstidning. 8 Sidor var till 2015 en del av
-    Centrum för\nlättläst, därefter Myndigheten för tillgängliga medier och
-    erhåller\nekonomiskt stöd från kulturdepartementet. (Denna beskrivning är
-    hämtad\nfrån <a
-    href="https://sv.wikipedia.org/wiki/8_Sidor">Wikipedia</a>)</p>
+    <p>8 Sidor är en nyhetstidning på lättläst svenska. Texterna i korpusen är
+    extraherade från <a href="https://8sidor.se/">8sidor.se</a>.</p>
+    <p>Tidningen utkommer en gång i veckan, på onsdagar. Upplagan är omkring 9
+    500 exemplar. Läsarundersökningar visar att varje nummer har omkring 100
+    000 läsare, jämnt fördelade över Sverige. De som läser 8 Sidor är elever
+    i grundskolan, vuxenutbildning, personer med
+    intellektuellt funktionshinder, invandrare och många andra människor som
+    har svårt att läsa en vanlig dagstidning. 8 Sidor var till 2015 en del av
+    Centrum för lättläst, därefter Myndigheten för tillgängliga medier och
+    erhåller ekonomiskt stöd från kulturdepartementet. (Denna beskrivning är
+    hämtad från <a href="https://sv.wikipedia.org/wiki/8_Sidor">Wikipedia</a>)</p>
