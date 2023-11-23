@@ -1,0 +1,54 @@
+name:
+  swe: 'Tvåkammarriksdagen: Riksdagens författningssamling RFS'
+  eng: 'Bicameral riksdag: The constitution of the Riksdag'
+short_description:
+  swe: Del av Tvåkammarriksdagen
+  eng: Part of the data set "Bicameral Riksdag"
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  tokens: 83964
+  sentences: 3880
+in_collections:
+  - tkr
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-riksdagens-forfattningssamling-rfs.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_tkr-riksdagens-forfattningssamling-rfs.csv
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - licence: CC BY 4.0
+    restriction: attribution
+    access: https://spraakbanken.gu.se/korp/#?corpus=tkr-riksdagens-forfattningssamling-rfs
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: ''
+  eng: ''
