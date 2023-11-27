@@ -2,14 +2,14 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Bicameral riksdag: The constitution of the Riksdag</resourceName>
-    <resourceName lang="swe">Tvåkammarriksdagen: Riksdagens författningssamling RFS</resourceName>
+    <resourceName lang="eng">Bicameral riksdag: Narratives and accounts</resourceName>
+    <resourceName lang="swe">Tvåkammarriksdagen: Berättelser, redogörelser, framställningar</resourceName>
     <description lang="eng">Part of the data set "Bicameral Riksdag"</description>
     <description lang="swe">Del av Tvåkammarriksdagen</description>
-    <resourceShortName lang="eng">tkr-riksdagens-forfattningssamling-rfs</resourceShortName>
-    <resourceShortName lang="swe">tkr-riksdagens-forfattningssamling-rfs</resourceShortName>
+    <resourceShortName lang="eng">tkr-berattelser-redogorelser-frsrdg</resourceShortName>
+    <resourceShortName lang="swe">tkr-berattelser-redogorelser-frsrdg</resourceShortName>
     <metaShareId/>
-    <identifier>tkr-riksdagens-forfattningssamling-rfs</identifier>
+    <identifier>tkr-berattelser-redogorelser-frsrdg</identifier>
   </identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
@@ -17,25 +17,25 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-riksdagens-forfattningssamling-rfs.xml.bz2</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-berattelser-redogorelser-frsrdg.xml.bz2</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_tkr-riksdagens-forfattningssamling-rfs.csv</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_tkr-berattelser-redogorelser-frsrdg.csv</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=tkr-riksdagens-forfattningssamling-rfs</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=tkr-berattelser-redogorelser-frsrdg</executionLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/tkr-riksdagens-forfattningssamling-rfs.xml</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/tkr-berattelser-redogorelser-frsrdg.xml</downloadLocation>
     </licenceInfo>
     <iprHolder>
       <organizationInfo>
@@ -66,10 +66,10 @@
     </affiliation>
   </contactPerson>
   <metadataInfo>
-    <metadataCreationDate>2023-11-24</metadataCreationDate>
+    <metadataCreationDate>2023-11-28</metadataCreationDate>
   </metadataInfo>
   <resourceDocumentationInfo>
-    <samplesLocation>https://spraakbanken.gu.se/en/resources/tkr-riksdagens-forfattningssamling-rfs</samplesLocation>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/tkr-berattelser-redogorelser-frsrdg</samplesLocation>
   </resourceDocumentationInfo>
   <resourceComponentType>
     <corpusInfo>
@@ -85,11 +85,11 @@
             <languageName>Swedish</languageName>
           </languageInfo>
           <sizeInfo>
-            <size>83964</size>
+            <size>61348401</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>3880</size>
+            <size>3041471</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
         </corpusTextInfo>
