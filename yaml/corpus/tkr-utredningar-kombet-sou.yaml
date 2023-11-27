@@ -1,6 +1,7 @@
 name:
-  swe: 'Tvåkammarriksdagen: Riksdagens författningssamling RFS'
-  eng: 'Bicameral riksdag: The constitution of the Riksdag'
+  swe: 'Tvåkammarriksdagen: Utredningar, EU-förslag, betänkande, statens offentliga
+    utredningar'
+  eng: 'Bicameral riksdag: Government official investigations'
 short_description:
   swe: Del av Tvåkammarriksdagen
   eng: Part of the data set "Bicameral Riksdag"
@@ -11,18 +12,18 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 83964
-  sentences: 3880
+  tokens: 59266835
+  sentences: 2369348
 in_collections:
   - tkr
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-riksdagens-forfattningssamling-rfs.xml.bz2
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-utredningar-kombet-sou.xml.bz2
     type: corpus
     format: XML
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_tkr-riksdagens-forfattningssamling-rfs.csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_tkr-utredningar-kombet-sou.csv
     type: token frequencies
     format: CSV
     info: ''
@@ -31,7 +32,7 @@ downloads:
 interface:
   - licence: CC BY 4.0
     restriction: attribution
-    access: https://spraakbanken.gu.se/korp/#?corpus=tkr-riksdagens-forfattningssamling-rfs
+    access: https://spraakbanken.gu.se/korp/#?corpus=tkr-utredningar-kombet-sou
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
