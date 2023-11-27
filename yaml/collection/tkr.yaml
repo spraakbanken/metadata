@@ -1,0 +1,36 @@
+name:
+  swe: "Tvåkammarriksdagen"
+  eng: "Bicameral Riksdag"
+short_description:
+  swe: ''
+  eng: ''
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources: []
+language_codes:
+  - swe
+downloads: []
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats: 
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: ""
+  eng: ""
