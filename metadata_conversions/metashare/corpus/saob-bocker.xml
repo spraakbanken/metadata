@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">SAOB1950</resourceName>
+    <resourceName lang="swe">SAOB1950</resourceName>
+    <description lang="eng">Scanned monographs from 1950 to 2007 that are used as source material for updating SAOB, with a selection that reflects the Swedish vocabulary during the 20th century.</description>
+    <description lang="swe">Skannade monografier från 1950 till 2007 som används som källmaterial för att uppdatera SAOB, med ett urval som speglar det svenska ordförrådet under 1900-talet.</description>
+    <resourceShortName lang="eng">saob-bocker</resourceShortName>
+    <resourceShortName lang="swe">saob-bocker</resourceShortName>
+    <metaShareId/>
+    <identifier>saob-bocker</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/saob-bocker.xml.bz2</downloadLocation>
+      <attributionText>this file contains a scrambled version of the corpus</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_saob-bocker.csv</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
+      <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=saob-bocker</executionLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/saob-bocker.xml</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2023-11-30</metadataCreationDate>
+  </metadataInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/saob-bocker</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <corpusInfo>
+      <resourceType>corpus</resourceType>
+      <corpusMediaType>
+        <corpusTextInfo>
+          <mediaType>text</mediaType>
+          <lingualityInfo>
+            <lingualityType>monolingual</lingualityType>
+          </lingualityInfo>
+          <languageInfo>
+            <languageId>swe</languageId>
+            <languageName>Swedish</languageName>
+          </languageInfo>
+          <sizeInfo>
+            <size>50285466</size>
+            <sizeUnit>tokens</sizeUnit>
+          </sizeInfo>
+          <sizeInfo>
+            <size>3773042</size>
+            <sizeUnit>sentences</sizeUnit>
+          </sizeInfo>
+        </corpusTextInfo>
+      </corpusMediaType>
+    </corpusInfo>
+  </resourceComponentType>
+</resourceInfo>
