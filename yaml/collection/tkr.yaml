@@ -2,8 +2,8 @@ name:
   swe: "Tvåkammarriksdagen"
   eng: "Bicameral Riksdag"
 short_description:
-  swe: ''
-  eng: ''
+  swe: 'Samling av textdokument från Tvåkammarriksdagen'
+  eng: 'Collection of textual documents from the Swedish bicameral parliament data'
 type: corpus
 trainingdata: false
 unlisted: false
@@ -35,5 +35,14 @@ intended_uses:
   swe: ''
   eng: ''
 description:
-  swe: ""
-  eng: ""
+  swe: |-
+    Denna resurs innehåller en samling textdokument från svenska Tvåkammarriksdagen.
+    Den är indelad i olika kategorier(t.ex. motioner, protokoll,
+    register etc.) och har annoterats med olika ord- och dokumentnivåattribut.
+    Varje kategori är tillgänglig för nedladdning som en zippad fil.
+  eng: |-
+    This resource contains a collection of textual documents from the Swedish
+    bicameral parliament data. It is is divided into various categories
+    (e.g. motions, protocols, registers, ect.) and have been annotated with
+    various word and document level attributes. Each category is available
+    for download as a zipped file.
