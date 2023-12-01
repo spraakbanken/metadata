@@ -4,8 +4,8 @@
   <identificationInfo>
     <resourceName lang="eng">SAOB1950</resourceName>
     <resourceName lang="swe">SAOB1950</resourceName>
-    <description lang="eng">Scanned monographs from 1950 to 2007 that are used as source material for updating SAOB, with a selection that reflects the Swedish vocabulary during the 20th century.</description>
-    <description lang="swe">Skannade monografier från 1950 till 2007 som används som källmaterial för att uppdatera SAOB, med ett urval som speglar det svenska ordförrådet under 1900-talet.</description>
+    <description lang="eng">Scanned books from 1950 to 2007 that are used as source material for updating SAOB, with a selection that reflects the Swedish vocabulary during the 20th century.</description>
+    <description lang="swe">Skannade böcker från 1950 till 2007 som används som källmaterial för att uppdatera SAOB, med ett urval som speglar det svenska ordförrådet under 1900-talet.</description>
     <resourceShortName lang="eng">saob-bocker</resourceShortName>
     <resourceShortName lang="swe">saob-bocker</resourceShortName>
     <metaShareId/>
