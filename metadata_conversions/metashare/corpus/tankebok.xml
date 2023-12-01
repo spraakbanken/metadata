@@ -2,10 +2,10 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Stockholms stads tänkeböcker</resourceName>
+    <resourceName lang="eng">Memory books of the city of Stockholm</resourceName>
     <resourceName lang="swe">Stockholms stads tänkeböcker</resourceName>
-    <description lang="eng">The City of Stockholm's memory books consist of minutes and memorial notes from Stockholm City Hall.</description>
-    <description lang="swe">Stockholms stads tänkeböcker består av protokoll och minnesanteckningar från Stockholms rådhusrätt.</description>
+    <description lang="eng">Minutes and memorial notes from Stockholm City Hall, 1626.</description>
+    <description lang="swe">Protokoll och minnesanteckningar från Stockholms rådhusrätt, år 1626.</description>
     <resourceShortName lang="eng">tankebok</resourceShortName>
     <resourceShortName lang="swe">tankebok</resourceShortName>
     <metaShareId/>
