@@ -2,9 +2,9 @@ name:
   swe: SAOB1950
   eng: SAOB1950
 short_description:
-  swe: Skannade monografier från 1950 till 2007 som används som källmaterial för att
+  swe: Skannade böcker från 1950 till 2007 som används som källmaterial för att
     uppdatera SAOB, med ett urval som speglar det svenska ordförrådet under 1900-talet.
-  eng: Scanned monographs from 1950 to 2007 that are used as source material for updating
+  eng: Scanned books from 1950 to 2007 that are used as source material for updating
     SAOB, with a selection that reflects the Swedish vocabulary during the 20th century.
 type: corpus
 trainingdata: false
@@ -53,13 +53,13 @@ intended_uses:
 description:
   swe: |-
     <p>SAOB1950 har skapats för att fungera som kompletterande undersökningsmaterial för uppdateringen av Svenska
-    Akademiens ordbok (SAOB). Den innehåller monografier från 1950 till 2007 som lånats från Lunds
+    Akademiens ordbok (SAOB). Den innehåller böcker från 1950 till 2007 som lånats från Lunds
     universitetsbibliotek och skannats in på Svenska Akademiens ordboksredaktion i Lund. Verken är utvalda för att
     tillsammans ge en representativ bild av det svenska ordförrådet framför allt under 1900-talets senare hälft.
     Ungefär hälften av verken har valts ut – antingen från <a
     href="https://libris.kb.se/hitlist?q=db:natbib">Nationalbiografin</a> eller från Lunds universitetsbiblioteks
     katalog – med ambitionen att täcka in många olika ämnesområden och få en någorlunda jämn fördelning vad gäller
-    författarnas kön. För korpusens andra hälft har ett mer slumpmässigt urval gjorts, så att monografier med viss
+    författarnas kön. För korpusens andra hälft har ett mer slumpmässigt urval gjorts, så att böcker med viss
     placering i bibliotekets magasin har infogats i korpusen (utan hänsyn till ämnesområde eller författarnas kön).</p>
 
     <p>För samtliga verk finns uppgift om utgivningsår, författare och titel. I många fall anges även författarens kön
@@ -67,13 +67,13 @@ description:
     href="https://libris.kb.se/subjecttree.jsp">https://libris.kb.se/subjecttree.jsp)</a>.</p>
   eng: |-
     <p>SAOB1950 was created to serve as complementary research material for updating the Swedish Academy Dictionary
-    (SAOB). It contains monographs from 1950 to 2007 that were borrowed from Lund University Library and scanned at
+    (SAOB). It contains books from 1950 to 2007 that were borrowed from Lund University Library and scanned at
     the Swedish Academy's dictionary editorial office in Lund. The works are selected to provide a representative
     overview of the Swedish vocabulary mainly during the second half of the 20th century. About half of the works were
     selected – either from the <a href="https://libris.kb.se/hitlist?q=db:natbib">National Biography</a> or from Lund
     University Library's catalog – with the aim of covering a wide range of subject areas and achieving a relatively
     even distribution of authors' gender. For the corpus's second half, a more random selection was made, so that
-    monographs with a certain placement in the library' stacks have been inserted into the corpus (without regard to
+    books with a certain placement in the library' stacks have been inserted into the corpus (without regard to
     subject area or the authors' gender).</p>
 
     <p>For all works, the year of publication, author, and title are provided. In many cases, the author's gender (M or
