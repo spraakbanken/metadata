@@ -44,9 +44,10 @@ annotation:
   eng: ''
 keywords: []
 caveats:
-  swe: ''
+  swe: 'OCR-inläsningen är delvis korrekturläst.'
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

@@ -37,6 +37,9 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>Korpusen bygger på Riksarkivets utgåva av <a href="https://libris.kb.se/bib/8390061">Konung Gustaf den förstes registratur</a> (1861–1916) som Göteborgs universitetsbibliotek började digitalisera 2014. Fotokopierade versioner av den tryckta utgåvan är OCR-lästa och kan därför innehålla fel. Faksimil av den tryckta utgåvan för jämförelser finns åtkomliga via <a href="https://libris.kb.se/hitlist?q=Konung+Gustaf+den+f%C3%B6rstes+registratur&r=;mat:(eresurs)&f=simp&g=&m=10&p=1&d=libris&s=r&t=v">Libris</a>.</p>
 annotation:
   swe: ''
   eng: ''
@@ -44,7 +47,8 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

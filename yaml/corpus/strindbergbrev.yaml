@@ -63,9 +63,10 @@ annotation:
   eng: ''
 keywords: []
 caveats:
-  swe: ''
+  swe: På grund av att denna korpussamling är bristfällig på olika sätt, rekommenderas hellre <a href="https://spraakbanken.gu.se/resurser/lb">Litteraturbanken</a> för den som vill genomföra korpusstudier på Strindbergs verk. I Korp kan avgränsningen göras som ”författare är Strindberg, August” under ”utökad sökning”.
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

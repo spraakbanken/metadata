@@ -31,13 +31,14 @@ description:
     which was run between 2010 and 2014.</p> <p>The collection is split into parts,
     by source periodical and decade.</p>
 annotation:
-  swe: ''
-  eng: ''
+  swe: 'Materialet i Kubhist är försett med en mängd metadata, t.ex. uppgifter om tidningarnas pris, tryckort, utgivningsfrekvens, politiska tendens och publikationsperiod. Informationen är hämtad från KB:s <a href="https://tidning.kb.se/nld/nld/nlnav">Nya Lundstedt dagstidningar</a>.'
+  eng: 'The data in Kubhist is enriched with some metadata, such as the price of an issue, printing location, periodicity, political tendency and publication timespan. This information is collected from the <a href="https://tidning.kb.se/nld/nld/nlnav">Nya Lundstedt dagstidningar</a> database at the National Library of Sweden.'
 keywords: []
 caveats:
-  swe: ''
-  eng: ''
-references: []
+  swe: 'Texternas kvalitet är mycket varierande, bl.a. beroende på ojämnt tryck och fläckar på de fotokopierade förlagorna. Många tidningsnummer inleds med märkliga haranger av tecken då OCR-läsningen försökt tolka vinjetter och dekorationer kring tidningsnamnen som bokstäver. Den digitala texten blir emellertid genast läsligare så fort den nått den del av förstasidan där artiklarna börjar.'
+  eng: 'Text quality is highly variable, due in part to uneven printing and stains on the OCRed originals. Many issues open with strange character sequences resulting from the OCR attempting to interpret title ornaments as text. The digital text gets readable as soon as it reaches the part of the page where the articles start.'
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

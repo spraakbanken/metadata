@@ -39,15 +39,14 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    Carl Michael Bellman (1740-1795) var diktare, musiker, och den mest kända trubaduren i Sveriges historia. Mest känd är han för sina sångsamlingar <i>Fredmans epistlar</i> och <i>Fredmans sånger</i>, där han beskriver sina halvt fiktiva vänners liv på gator och krogar i Stockholm, blandat med mytologi och tankar om livet. Melodierna har han ofta tagit från välkända samtida kompositioner och folkvisor. I vissa fall vet vi inte vem som har skrivit dem – de kan komma från någon okänd tidigare kompositör, eller det kan vara Bellman själv som har skrivit dem. I denna samling finns utöver sångsamlingarna också hans dikter och dramatiska verk.
-
-    Mer information, texter och musik, finns på bellman.net.
-
-    Korpusen bygger på den s.k. standardupplagan, <a href="http://libris.kb.se/bib/8200326?vw=full">Carl Michael Bellmans skrifter</a> (1921–2003). Digitaliseringen ger ett bearbetat intryck och tycks sakna de slags fel som ofta kan förekomma i OCR-tolkningar.
+    <p>Carl Michael Bellman (1740-1795) var diktare, musiker, och den mest kända trubaduren i Sveriges historia. Mest känd är han för sina sångsamlingar <i>Fredmans epistlar</i> och <i>Fredmans sånger</i>, där han beskriver sina halvt fiktiva vänners liv på gator och krogar i Stockholm, blandat med mytologi och tankar om livet. Melodierna har han ofta tagit från välkända samtida kompositioner och folkvisor. I vissa fall vet vi inte vem som har skrivit dem – de kan komma från någon okänd tidigare kompositör, eller det kan vara Bellman själv som har skrivit dem. I denna samling finns utöver sångsamlingarna också hans dikter och dramatiska verk.</p>
+    <p>Korpusen bygger på den s.k. standardupplagan, <a href="http://libris.kb.se/bib/8200326?vw=full">Carl Michael Bellmans skrifter</a> (1921–2003). Digitaliseringen ger ett bearbetat intryck och tycks sakna de slags fel som ofta kan förekomma i OCR-tolkningar.</p>
+    <p>Bellmans samlade verk finns också digitaliserade hos <a href="http://www.samladeverk.bellman.org/">Bellmanssällskapet</a>, där faksimil och OCR-lästa texter i olika format tillgängliggjorts i samarbete med The Internet Archive.</p>
+    <p>Texter av Bellman ingår även i korpusen <a href="https://spraakbanken.gu.se/resurser/lb">Litteraturbanken</a>, där de härrör från ytterligare en annan digitalisering.</p>
+    <p>Mer information, texter och musik, finns på <a href="https://bellman.net/">bellman.net</a>.</p>
   eng: |-
-    Carl Michael Bellman (1740-1795) was the most famous trobadour of Sweden. His most famous works are <i>Fredman's Epistles</i> and <i>Fredman's Songs</i>, in which he describes the lives and adventures of his semi-fictional friends on the streets and pubs of Stockholm, mixed with mythology and thoughts about life. Most of the melodies were taken from contemporary composers and folk tunes. In some cases, the origin of the melody is unknown – it might be some now forgotten composer, or it might be Bellman himself. This collection also contains his poetic and dramatic works, which are less well known.
-
-    Further information (in Swedish) along with texts and music can be found at bellman.net.
+    <p>Carl Michael Bellman (1740-1795) was the most famous troubadour of Sweden. His most famous works are <i>Fredman's Epistles</i> and <i>Fredman's Songs</i>, in which he describes the lives and adventures of his semi-fictional friends on the streets and pubs of Stockholm, mixed with mythology and thoughts about life. Most of the melodies were taken from contemporary composers and folk tunes. In some cases, the origin of the melody is unknown – it might be some now forgotten composer, or it might be Bellman himself. This collection also contains his poetic and dramatic works, which are less well known.</p>
+    <p>Further information (in Swedish) along with texts and music can be found at <a href="https://bellman.net/">bellman.net</a>.</p>
 annotation:
   swe: ''
   eng: ''
@@ -55,7 +54,8 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

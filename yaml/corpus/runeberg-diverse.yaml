@@ -97,7 +97,8 @@ keywords:
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

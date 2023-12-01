@@ -40,3 +40,5 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: Från <a href="http://www.riksarkivet.se/sdhk" target="_blank">Riksarkivet</a>.
+references:
+  - '{publication 270108}'

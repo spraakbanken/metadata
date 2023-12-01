@@ -37,6 +37,11 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>Korpusen Ekeblads brev bygger på den digitala utgåvan <a href="https://litteraturbanken.se/f%C3%B6rfattare/EkebladJ/titlar/BrevenTillClaes1639-1655/sida/1/faksimil">Breven till Claes 1639–1655</a>, som i sin tur bygger på Sture Alléns textkritiska utgåva <a href="http://libris.kb.se/bib/8207051?vw=full">Johan Ekeblads brev till brodern Claes Ekeblad, 1639–1655</a> (1965). Den digitala utgåvan och korpusen innehåller enbart brevtexterna, inte inledningen eller kommentarerna som finns i 1965 års tryckta utgåva.</p>
+    <p>Den digitala utgåvan har även överförts till Litteraturbanken, varför samma text också återfinns i korpusen <a href="https://spraakbanken.gu.se/resurser/lb">Litteraturbanken</a>. Breven finns också i en moderniserad och kommenterad utgåva, både i tryck och digitalt: <a href="https://litteraturbanken.se/f%C3%B6rfattare/EkebladJ/titlar/BrevenTillClaesOmLivet/sida/I/faksimil">Breven till Claes: Om livet och hovet på Kristinas tid</a> (red. Sture Allén, 2004).</p>
+  eng: |-
 annotation:
   swe: ''
   eng: ''
@@ -45,7 +50,8 @@ keywords:
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

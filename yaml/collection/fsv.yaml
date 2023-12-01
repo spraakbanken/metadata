@@ -35,6 +35,50 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p><a href="https://project2.sol.lu.se/fornsvenska/">Fornsvenska textbanken</a> är ett projekt som Lars-Olof Delsing vid Lunds universitet drivit sedan början av 1990-talet. Där har olika vetenskapliga utgåvor av medeltidstexter, främst Collins och Schlyters <a href="https://libris.kb.se/bib/8231091?vw=full">Samling af Sweriges gamla lagar</a> (SSGL, 1827–1877) och <a href="https://libris.kb.se/hitlist?d=libris&q=Samlingar+utgivna+av+Svenska+fornskrifts%C3%A4llskapet&f=simp&spell=true&hist=true&p=1">Samlingar utgivna av Svenska fornskriftsällskapet</a> (SSFS, olika serier sedan 1844), skrivits av eller skannats in och OCR-lästs.</p>
+
+    <p>De äldsta digitaliseringarna härstammar från projektet Källtext som bedrevs vid Göteborgs universitet i slutet av 1980-talet, men sedan dess har <a href="https://project2.sol.lu.se/fornsvenska/Info/FsvTb-tack.html">flera personer</a> vid olika institutioner bidragit till textsamlingen. Texterna är granskade och korrekturlästa i varierande omfattning, varför användare själva uppmanas att ”förvissa sig om att textens kvalitet är hållbar för den typ av undersökning hon/han vill göra”.</p>
+
+    <p>Äldre västgötalagen finns även i en utgåva med parallelltexter på fornsvenska och moderniserad svenska samt faksimil av handskriften (red. Per-Axel Wiktorsson), tillgänglig hos <a href="https://litteraturbanken.se/f%C3%B6rfattare/Anonym/titlar/%C3%84ldreV%C3%A4stg%C3%B6talagenII/sida/6/faksimil">Litteraturbanken</a>.</p>
+
+    <h3>Lagar</h3>
+
+    <p>Fornsvenska textbanken innehåller flera lagar från början av 1200-talet till mitten av 1400- talet. De flesta av dessa är på fornsvenska, medan skånelagen är på forndanska och gutalagen på forngutniska. Några lagar innehåller också inslag på latin (t.ex. inledningar och rubriker).</p>
+
+    <p>Texterna bygger till större delen på del 1–12 av <a href="https://libris.kb.se/bib/8231091?vw=full">SSGL</a>. Lejonparten av dessa är inskrivna för hand och korrekturlästa varierande antal gånger. Fragment C, D, E, H, M och N av östgötalagen är inskrivna manuellt utifrån Emil Olssons utgåva (<a href="https://libris.kb.se/bib/8208942">SSFS 41</a>). Upplandslagen enligt <em>Codex Holm B 199</em> och <em>Tillägg till upplandslagen</em> är inskannade utifrån Samuel Hennings utgåva (<a href="https://libris.kb.se/bib/503449">SSFS 70</a>). Texten har sedan OCR-tolkats och korrekturlästs.</p>
+
+    <p>Delkorpusar:</p>
+    <ul>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-aldrelagar">Äldre lagar</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-yngrelagar">Yngre lagar</a></li>
+    </ul>
+
+    <h3>Prosa och verser</h3>
+
+    <p><em>Fornsvenska textbanken</em> innehåller såväl religiös som profan prosa samt flera olika verser. Dessa bygger uteslutande på utgåvorna av <a href="https://libris.kb.se/hitlist?d=libris&amp;q=Samlingar+utgivna+av+Svenska+fornskrifts%C3%A4llskapet&amp;f=simp&amp;spell=true&amp;hist=true&amp;p=1">SSFS</a>. Precis som med lagarna varierar digitaliseringsmetoderna; vissa är inskannade och OCR-lästa, andra inskrivna manuellt. Vissa texter har korrekturlästs, andra inte. Mer detaljerade uppgifter om varje text finns hos <a href="https://project2.sol.lu.se/fornsvenska/">Fornsvenska textbanken</a>.</p>
+
+    <p>Delkorpusar:</p>
+    <ul>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-aldrereligiosprosa">Äldre religiös prosa</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-yngrereligiosprosa">Yngre religiös prosa</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-profanprosa">Profan prosa</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-verser">Verser</a></li>
+    </ul>
+
+    <h3>Nysvenska</h3>
+
+    <p>I Fornsvenska textbanken ingår en avdelning som kallas <a href="https://project2.sol.lu.se/fornsvenska/navigationsgrejer/nysv_ram.html">nysvenska annexet</a> som också överförts till Korp. Där ingår texter yngre än 1526, bl.a. ett par böcker ur Gustav Vasas bibel (1541) och Dalins <em>Then swänska Argus</em> (1732–1734, som även finns i två olika digitala versioner, åtkomliga via <a href="https://libris.kb.se/bib/13538404">Libris</a>). Är man endast intresserad av texter från fornsvensk tid bör man se till att denna delsamling är avmarkerad när man genomför sina sökningar i <em>Fornsvenska textbanken</em>.</p>
+
+    <p>Delkorpusar:</p>
+    <ul>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskdalin">Dalins Then Swänska Argus 1732–1734</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskbibel">Nysvenska bibelböcker</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskkronikor">Nysvenska krönikor</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvensklagar">Nysvenska lagar</a></li>
+    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskovrigt">Nysvenska, övrigt</a></li>
+    </ul>
 annotation:
   swe: ''
   eng: ''
@@ -42,7 +86,8 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

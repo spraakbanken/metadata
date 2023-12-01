@@ -37,6 +37,10 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    <p>Korpusen består av två språkligt olika versioner av samma reseskildring. De är manuellt inskrivna av Erik Magnusson Petzell vid Institutet för språk och folkminnen utifrån <a href="https://libris.kb.se/bib/2516436?vw=full">1674</a> och <a href="https://libris.kb.se/bib/2415727?vw=full">1743</a> års utgåvor, men ej korrekturlästa.</p>
+    <p>En kommenterad edition med parallelltexter ur samma utgåvor gavs ut av Ture Johannisson i serien <a href="https://libris.kb.se/bib/30226?vw=full">Svenska texter</a> 1961. Den första utgåvan av Kiöpings reseskildring från <a href="https://runeberg.org/treresor/">1667</a> finns digitaliserad på Projekt Runeberg av Martin Rundkvist.</p>
 annotation:
   swe: ''
   eng: ''
@@ -44,7 +48,8 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-references: []
+references:
+  - '{publication 270108}'
 intended_uses:
   swe: ''
   eng: ''

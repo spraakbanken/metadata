@@ -37,3 +37,8 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+caveats:
+  swe: 'OCR-inläsningen är inte korrekturläst.'
+  eng: 'OCR not proofread.'
+references:
+  - '{publication 270108}'
