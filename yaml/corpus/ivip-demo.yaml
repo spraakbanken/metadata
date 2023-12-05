@@ -56,8 +56,8 @@ description:
   swe: |
     Detta är en öppen delmängd av IVIP-korusen.
     Videoinspelningarna och transkriptionerna för den här datamängden kan laddas ner
-    [här](https://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo-input.zip).
+    <a href="https://github.com/spraakbanken/ivip-preprocess">här</a>.
   eng: |
     This is an open sub set of the IVIP corpus.
     The video recordings and transcriptions for this data set can be downloaded
-    [here](https://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo-input.zip).
+    <a href="https://github.com/spraakbanken/ivip-preprocess">here</a>.
