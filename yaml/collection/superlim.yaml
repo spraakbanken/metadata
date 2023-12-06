@@ -36,8 +36,8 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: http://demo.spraakdata.gu.se/sasha/SuperLim_maintenance.odt
-    type: an internal instruction on how (not) to update the Superlim 2.0
+  - url: https://demo.spraakbanken.gu.se/sasha/SuperLim_maintenance.odt
+    type: internal instructions on how (not) to update the Superlim 2.0
     format: odt
     info: ''
     licence: ''
