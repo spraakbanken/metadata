@@ -1,0 +1,43 @@
+name:
+  swe: Ordstatistik för korpusar
+  eng: Corpus word statistics
+short_description:
+  swe: Ackumulerad ordstatistik från många av våra moderna svenska korpusar
+  eng: Accumulated word statistics from many of our modern Swedish corpora
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes: []
+size:
+  tokens: 0
+  sentences: 0
+in_collections: []
+downloads:
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_all.txt
+    type: token frequencies
+    format: csv
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats: 
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: Tanken är att denna fil ska uppdateras regelbundet med ny ordstatistik, men av tekniska skäl är denna process pausad just nu.
+  eng: The idea is that this file should be updated regularly with new word statistics, but for technical reasons this process is currently paused.
