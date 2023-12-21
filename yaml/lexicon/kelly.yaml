@@ -38,13 +38,12 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <p>Mer information om Kelly finns på <a href="http://spraakbanken.gu.se/swe/kelly">projektsidan</a>.</p>
+    <p>Mer information om Kelly finns på <a href="https://spraakbanken.gu.se/en/projects/kelly">projektsidan</a>.</p>
     <p><b>Other Kelly languages</b></p>
     <ul>
-    <li><a href="https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/">Greek</a></li>
-     <li><a href="http://corpus.leeds.ac.uk/serge/kelly/">Arabic, Chinese, English, Italian, Russian</a></li>
+    <li><a href="https://inventory.clarin.gr/lcr/741">Greek</a></li>
+    <li><a href="https://ssharoff.github.io/kelly/">Arabic, Chinese, English, Italian, Russian</a></li>
     <li><a href="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls">Norwegian</a></li>
-    <!--<p>For a selection of other languages, please look into <a href="http://corpus.leeds.ac.uk/serge/kelly/">this page</a></p>-->
     </ul>
     <br/>
 
@@ -63,6 +62,7 @@ description:
 
     <p>
     The headwords on the Swedish Kelly-list contain the following information, see also Table below:
+    </p>
     <ol>
     <li>id/running number (i.e. relative placement in the frequency band);</li>
     <li>raw frequency (RF);</li>
@@ -74,10 +74,10 @@ description:
     <li>word class;</li>
     <li>comments/examples for some of the headwords</li>
     </ol>
-    </p>
 
     <p>
     <em> Example of items in the Swedish Kelly-list</em>
+    </p>
     <table>
     <tr><td><strong>ID</strong></td> <td>88</td></tr>
     <tr><td><strong>Raw Freq</strong></td> <td>2624 032</td></tr>
@@ -89,12 +89,10 @@ description:
     <tr><td><strong>POS</strong></td> <td>verb </td></tr>
     <tr><td><strong>Example</strong></td> <td>e.g. var så god!</td></tr>
     </table>
-    </p>
 
     <p>
     The information should be read in the following way: the verb “att vara” (Eng. “to be, to last”) has a colloquial variant “va”; it can be used in a phrase “var så god!” (Eng. “here you go!”); it has the rank “88” in the list and thus belongs to the language’s top 100 words. It has been used 2 624 032 times in SweWAC (RF) which gives 23 017,26 wpm value. The item belongs to the most important vocabulary for language learners and should be learnt at A1 CEFR level (here marked as “1”).
     </p>
-
 
     <H3>Available/downloadable Kelly-products</H3>
 
@@ -102,31 +100,28 @@ description:
     The Swedish Kelly-list is a freely available electronic resource and is distributed under the license agreement CC-BY-SA 3.0, LGPL 3.0. You are encouraged to make a reference to any of the articles describing this list if you use the Swedish Kelly-list.
     </p>
 
-    <p>
     <UL class ="proj">
     <LI>Human-friendly excel-file with the Swedish Kelly-list can be <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls">downloaded here</a>.</LI>
     <LI>The machine-friendly version can be <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/kelly.xml">downloaded here</a>.</LI>
     </UL>
-    </p>
 
     <p>
     As a side effect a number of other products have been created during the KELLY project, among other things:
+    </p>
     <UL class ="proj">
-    <LI>Kelly Database where a word in any of the partner languages can be entered and its translation into the other partner languages is presented, if the item is present in the database: http://kelly.sketchengine.co.uk/ </LI>
+    <LI>Kelly Database where a word in any of the partner languages can be entered and its translation into the other partner languages is presented, if the item is present in the database: https://kelly.sketchengine.co.uk/ </LI>
     <LI>lists of universal vocabulary for 9, 8, 7 etc. languages, i.e. items that can be used multidirectionally as translation lexica (can be downloaded here soon)</LI>
     <LI>list of unique Swedish items, i.e. items never used by translators from other languages into Swedish (can be downloaded here soon)</LI>
     <LI>lists of shared words between different language pairs (can be downloaded here soon)</LI>
     </UL>
-    </p>
   eng: |-
-    <p>More information about Kelly is available from the <a href="http://spraakbanken.gu.se/eng/kelly">project page</a>.</p>
+    <p>More information about Kelly is available from the <a href="https://spraakbanken.gu.se/en/projects/kelly">project page</a>.</p>
 
     <p><b>Other Kelly languages</b></p>
     <ul>
-    <li><a href="https://athena.clarin.gr/resources/browse/kelly-word-list-greek/772c60809da611e591e2aa3fc8d33ad839bfa40b3ead4610a5712c8323a87d5b/">Greek</a></li>
-     <li><a href="http://corpus.leeds.ac.uk/serge/kelly/">Arabic, Chinese, English, Italian, Russian</a></li>
+    <li><a href="https://inventory.clarin.gr/lcr/741">Greek</a></li>
+    <li><a href="https://ssharoff.github.io/kelly/">Arabic, Chinese, English, Italian, Russian</a></li>
     <li><a href="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Norwegian-Kelly.xls">Norwegian</a></li>
-    <!--<p>For a selection of other languages, please look into <a href="http://corpus.leeds.ac.uk/serge/kelly/">this page</a></p>-->
     </ul>
     <br/>
 
@@ -145,6 +140,7 @@ description:
 
     <p>
     The headwords on the Swedish Kelly-list contain the following information, see also Table below:
+    </p>
     <ol>
     <li>id/running number (i.e. relative placement in the frequency band);</li>
     <li>raw frequency (RF);</li>
@@ -156,10 +152,10 @@ description:
     <li>word class;</li>
     <li>comments/examples for some of the headwords</li>
     </ol>
-    </p>
 
     <p>
     <em> Example of items in the Swedish Kelly-list</em>
+    </p>
     <table>
     <tr><td><strong>ID</strong></td> <td>88</td></tr>
     <tr><td><strong>Raw Freq</strong></td> <td>2624 032</td></tr>
@@ -171,12 +167,10 @@ description:
     <tr><td><strong>POS</strong></td> <td>verb </td></tr>
     <tr><td><strong>Example</strong></td> <td>e.g. var så god!</td></tr>
     </table>
-    </p>
 
     <p>
     The information should be read in the following way: the verb “att vara” (Eng. “to be, to last”) has a colloquial variant “va”; it can be used in a phrase “var så god!” (Eng. “here you go!”); it has the rank “88” in the list and thus belongs to the language’s top 100 words. It has been used 2 624 032 times in SweWAC (RF) which gives 23 017,26 wpm value. The item belongs to the most important vocabulary for language learners and should be learnt at A1 CEFR level (here marked as “1”).
     </p>
-
 
     <H3>Available/downloadable Kelly-products</H3>
 
@@ -184,22 +178,20 @@ description:
     The Swedish Kelly-list is a freely available electronic resource and is distributed under the license agreement CC-BY-SA 3.0, LGPL 3.0. You are encouraged to make a reference to any of the articles describing this list if you use the Swedish Kelly-list.
     </p>
 
-    <p>
     <UL class ="proj">
     <LI>Human-friendly excel-file with the Swedish Kelly-list can be <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls">downloaded here</a>.</LI>
     <LI>The machine-friendly version can be <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/kelly/kelly.xml">downloaded here</a>.</LI>
     </UL>
-    </p>
 
     <p>
     As a side effect a number of other products have been created during the KELLY project, among other things:
+    </p>
     <UL class ="proj">
-    <LI>Kelly Database where a word in any of the partner languages can be entered and its translation into the other partner languages is presented, if the item is present in the database: http://kelly.sketchengine.co.uk/ </LI>
+    <LI>Kelly Database where a word in any of the partner languages can be entered and its translation into the other partner languages is presented, if the item is present in the database: https://kelly.sketchengine.co.uk/ </LI>
     <LI>lists of universal vocabulary for 9, 8, 7 etc. languages, i.e. items that can be used multidirectionally as translation lexica (can be downloaded here soon)</LI>
     <LI>list of unique Swedish items, i.e. items never used by translators from other languages into Swedish (can be downloaded here soon)</LI>
     <LI>lists of shared words between different language pairs (can be downloaded here soon)</LI>
     </UL>
-    </p>
 annotation:
   swe: ''
   eng: ''
