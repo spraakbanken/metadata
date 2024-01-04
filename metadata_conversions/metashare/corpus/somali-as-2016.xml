@@ -2,10 +2,10 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Somali: Af-Soomaali 2016 Somaliland</resourceName>
-    <resourceName lang="swe">Somaliska: Af-Soomaali 2016 Somaliland</resourceName>
-    <description lang="eng"/>
-    <description lang="swe"/>
+    <resourceName lang="eng">Af-Soomaali 2016 Somaliland</resourceName>
+    <resourceName lang="swe">Af-Soomaali 2016 Somaliland</resourceName>
+    <description lang="eng"></description>
+    <description lang="swe"></description>
     <resourceShortName lang="eng">somali-as-2016</resourceShortName>
     <resourceShortName lang="swe">somali-as-2016</resourceShortName>
     <metaShareId/>
@@ -81,11 +81,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>50839</size>
+            <size>51236</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>4034</size>
+            <size>4038</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
