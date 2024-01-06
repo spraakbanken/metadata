@@ -2,10 +2,10 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Kubhist 2: Bollnäs Tidning 1880's</resourceName>
-    <resourceName lang="swe">Kubhist 2: Bollnäs Tidning 1880-talet</resourceName>
-    <description lang="eng">Part of the collection Kubhist 2</description>
-    <description lang="swe">Del av samlingen Kubhist 2</description>
+    <resourceName lang="eng">Bollnäs Tidning 1880's</resourceName>
+    <resourceName lang="swe">Bollnäs Tidning 1880-talet</resourceName>
+    <description lang="eng">Part of the collection Kubhist2</description>
+    <description lang="swe">Del av samlingen Kubhist2</description>
     <resourceShortName lang="eng">kubhist2-bollnastidning-1880</resourceShortName>
     <resourceShortName lang="swe">kubhist2-bollnastidning-1880</resourceShortName>
     <metaShareId/>
