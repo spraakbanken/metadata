@@ -14,7 +14,7 @@ size:
   sentences: 7476
 in_collections: []  # ID(s) of the collections the resource is part of
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - url: 'https://repo.spraakbanken.gu.se/xmlui/bitstream/handle/10794/121/Swe-NERC-v1.0.tar.gz?sequence=3&isAllowed=y'  # URL to a downloadable file
+  - url: 'https://repo.spraakbanken.gu.se/xmlui/bitstream/handle/10794/121/Swe-NERC-v1.0.tar.gz'  # URL to a downloadable file
     type: corpus  # What's in the file?
     format: gzip  # The file format or standard
     info: 'this file contains a collection of .tsv and .ods files including annotation guidelines'  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
@@ -42,4 +42,3 @@ description:
   swe: ''
   # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
   eng: ''
-    
