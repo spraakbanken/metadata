@@ -34,7 +34,7 @@ downloads:
     info: 'beta'
     licence: Mixed
     restriction: see license.txt
-  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.2.zip
+  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.2.0.zip
     type: other
     format: 'zip'
     info: 'beta'
