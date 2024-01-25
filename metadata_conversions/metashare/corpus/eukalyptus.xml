@@ -17,13 +17,28 @@
       <licence>CC-BY-SA</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus/</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-1.0.0.zip</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>http://demo.spraakdata.gu.se/gerlof/Eukalyptus_betas</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.0.zip</downloadLocation>
+      <attributionText>beta</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.1.zip</downloadLocation>
+      <attributionText>beta</attributionText>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>other</licence>
+      <restrictionsOfUse>other</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.2.zip</downloadLocation>
+      <attributionText>beta</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
