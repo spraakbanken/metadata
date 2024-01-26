@@ -15,13 +15,13 @@ size:
   items: 624
 in_collections: []
 downloads:
-  - url: https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic.jsonl.gz
+  - url: https://spraakbanken.gu.se/lb/resurser/data/swewic.jsonl.gz
     type: swewic.jsonl.gz
     format: gz
     info: null
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://demo.spraakbanken.gu.se/gerlof/SweWiC/swewic_documentation_sheet.txt
+  - url: https://spraakbanken.gu.se/lb/resurser/data/swewic_documentation_sheet.txt
     type: swewic_documentation_sheet.txt
     format: txt
     info: null

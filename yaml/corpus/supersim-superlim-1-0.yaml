@@ -16,13 +16,13 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim.zip
+  - url: https://spraakbanken.gu.se/lb/resurser/data/supersim-superlim.zip
     type: supersim-superlim.zip
     format: zip
     info: null
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://demo.spraakbanken.gu.se/gerlof/SuperSim/supersim-superlim_documentation_sheet.txt
+  - url: https://spraakbanken.gu.se/lb/resurser/data/supersim-superlim_documentation_sheet.txt
     type: supersim-superlim_documentation_sheet.txt
     format: txt
     info: null

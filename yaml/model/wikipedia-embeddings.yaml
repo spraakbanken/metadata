@@ -12,7 +12,37 @@ language_codes:
   - eng
 in_collections: []
 downloads:
-  - url: https://zenodo.org/record/6542975
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
+    type: other
+    format: ''
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
     type: other
     format: ''
     info: ''

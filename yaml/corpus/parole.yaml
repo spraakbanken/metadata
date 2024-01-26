@@ -21,7 +21,7 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://spraakbanken.gu.se/pub/reskit/parole.zip
+  - url: https://spraakbanken.gu.se/lb/resurser/data/parole.zip
     type: parole.zip
     format: zip
     info: ''

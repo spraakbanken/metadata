@@ -25,7 +25,7 @@ downloads:
     info: NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://ecp.ep.liu.se/index.php/sltc/article/view/687/593
+  - url: https://spraakbanken.gu.se/lb/resurser/data/liuep197-11.pdf
     type: a paper about the dataset
     format: pdf
     info: Elena Volodina, Yousuf Ali Mohammad, Aleksandrs Berdicevskis, Gerlof Bouma, Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish

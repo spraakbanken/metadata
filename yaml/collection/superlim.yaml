@@ -29,14 +29,14 @@ resources:
 language_codes:
   - swe
 downloads:
-  - url: https://github.com/spraakbanken/SuperLim-2/archive/refs/tags/2.0.4.zip
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim-2-2.0.4.zip
     type: an archive with the whole collection (datasets, documentation sheets, additional
       files)
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://demo.spraakbanken.gu.se/sasha/SuperLim_maintenance.odt
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim_maintenance.odt
     type: internal instructions on how (not) to update the Superlim 2.0
     format: odt
     info: ''

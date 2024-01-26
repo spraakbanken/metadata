@@ -17,7 +17,7 @@ size:
   sentences: null
 in_collections: []
 downloads:
-  - url: https://zenodo.org/record/3730550/files/semeval2020_ulscd_swe.zip
+  - url: https://spraakbanken.gu.se/lb/resurser/data/semeval2020_ulscd_swe.zip
     type: semeval2020_ulscd_swe.zip
     format: zip
     info: ''
