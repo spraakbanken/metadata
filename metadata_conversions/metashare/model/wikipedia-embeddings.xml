@@ -17,7 +17,37 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://zenodo.org/record/6542975</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
