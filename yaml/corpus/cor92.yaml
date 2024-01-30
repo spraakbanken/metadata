@@ -23,12 +23,6 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://spraakbanken.gu.se/konk/rom2/Info.COR92.html
-    type: Info.COR92.html
-    format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
 interface:
   - access: https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=cor92
     licence: CC BY 4.0

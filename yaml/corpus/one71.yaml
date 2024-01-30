@@ -21,18 +21,6 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://spraakbanken.gu.se/konk/rom2/
-    type: other
-    format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html
-    type: Info.ONE71.html
-    format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
 interface:
   - access: https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=one71
     licence: CC BY 4.0

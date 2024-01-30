@@ -21,12 +21,6 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://spraakbanken.gu.se/konk/info/romg.phtml
-    type: romg.phtml
-    format: phtml
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ROMG.txt
     type: token frequencies
     format: CSV

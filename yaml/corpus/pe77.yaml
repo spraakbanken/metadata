@@ -21,12 +21,6 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://spraakbanken.gu.se/konk/rom2/Info.PE77.html
-    type: Info.PE77.html
-    format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
 interface:
   - access: https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=pe77
     licence: CC BY 4.0
