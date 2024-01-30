@@ -24,18 +24,6 @@
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/konk/rom2/</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://spraakbanken.gu.se/konk/rom2/Info.ONE71.html</downloadLocation>
-    </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=one71</executionLocation>
     </licenceInfo>
