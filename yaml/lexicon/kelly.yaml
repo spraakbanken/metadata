@@ -189,8 +189,8 @@ description:
     <UL class ="proj">
     <LI>Kelly Database where a word in any of the partner languages can be entered and its translation into the other partner languages is presented, if the item is present in the database: https://kelly.sketchengine.co.uk/ </LI>
     <LI>lists of universal vocabulary for 9, 8, 7 etc. languages, i.e. items that can be used multidirectionally as translation lexica (can be downloaded here soon)</LI>
-    <LI>list of unique Swedish items, i.e. items never used by translators from other languages into Swedish (can be downloaded here soon)</LI>
-    <LI>lists of shared words between different language pairs (can be downloaded here soon)</LI>
+    <LI>list of unique Swedish items, i.e. items never used by translators from other languages into Swedish</LI>
+    <LI>lists of shared words between different language pairs</LI>
     </UL>
 annotation:
   swe: ''
