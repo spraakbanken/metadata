@@ -22,12 +22,6 @@ downloads:
     info: this file contains the corpus with updated annotations
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-KALMAR-1910.txt
-    type: token frequencies
-    format: CSV
-    info: this file contains the token frequencies with older annotations
-    licence: CC BY 4.0
-    restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-kalmar-1910.csv
     type: token frequencies
     format: CSV

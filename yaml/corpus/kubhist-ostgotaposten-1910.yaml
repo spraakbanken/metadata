@@ -16,19 +16,13 @@ size:
 in_collections:
   - kubhist
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-ostgotaposten-1910.xml.bz2
     type: corpus
     format: XML
     info: this file contains the corpus with updated annotations
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1910.txt
-    type: token frequencies
-    format: CSV
-    info: this file contains the token frequencies with older annotations
-    licence: CC BY 4.0
-    restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-ostgotaposten-1910.csv
     type: token frequencies
     format: CSV
     licence: CC BY 4.0

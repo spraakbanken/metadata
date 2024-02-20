@@ -35,12 +35,6 @@ downloads:
     format: CSV
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-DALPILEN-1910.txt
-    type: token frequencies
-    format: CSV
-    info: this file contains the token frequencies with updated annotations
-    licence: CC BY 4.0
-    restriction: attribution
 interface:
   - licence: CC BY 4.0
     restriction: attribution
