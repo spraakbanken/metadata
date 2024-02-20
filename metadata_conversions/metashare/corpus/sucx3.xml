@@ -15,16 +15,16 @@
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
       <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc3.xml.bz2</downloadLocation>
       <attributionText>this file contains a scrambled version of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
-      <licence>CC-BY-SA</licence>
-      <restrictionsOfUse>shareAlike</restrictionsOfUse>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SUC3.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_suc3.csv</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
