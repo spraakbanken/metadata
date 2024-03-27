@@ -4,10 +4,10 @@ name:
 short_description:
   swe: Uppsatser svrivna av vuxenstuderande i svenska, manuellt anonymiserade och
     annoterade med felkategorier. Korpusen innehåller både originaltexten och en normaliserad
-    version av varje uppsats. Insamlingperiod 2006-2016.
+    version av varje uppsats. Insamlingperiod 2006-2015.
   eng: Essays written by adult learners of Swedish, manually anonymised and correction
     annotated. The corpus contains both the original learner text and a corrected
-    version of each essay. Collection period 2017-2020.
+    version of each essay. Collection period 2006-2015.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -61,7 +61,7 @@ intended_uses:
 description:
   swe: ''
   eng: |-
-    <p>SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2016, and contains 502 essays that have been anonymized and graded with CEFR labels.</p>
+    <p>SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2006-2015, and contains 502 essays that have been anonymized and graded with CEFR labels.</p>
 
     <p>There are three subcorpora in the SweLL-pilot collection:</p>
 

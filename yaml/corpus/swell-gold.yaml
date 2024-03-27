@@ -4,7 +4,7 @@ name:
 short_description:
   swe: Uppsatser svrivna av vuxenstuderande i svenska, manuellt pseudonymiserade och
     annoterade med felkategorier. Korpusen innehåller både originaltexten och en normaliserad
-    version av varje uppsats. Insamlingperiod 2006-2016.
+    version av varje uppsats. Insamlingperiod 2017-2020.
   eng: Essays written by adult learners of Swedish, manually pseudonymized and correction
     annotated. The corpus contains both the original learner text and a corrected
     version of each essay. Collection period 2017-2020.
@@ -28,7 +28,7 @@ contact_info:
 description:
   swe: ''
   eng: |-
-    <p>SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2021 in the <a href="https://spraakbanken.gu.se/en/projects/swell/">SweLL project</a>, and contains 502 essays that have been pseudonymized, normalized and correction annotated.</p>
+    <p>SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2017-2020 in the <a href="https://spraakbanken.gu.se/en/projects/swell/">SweLL project</a>, and contains 502 essays that have been pseudonymized, normalized and correction annotated.</p>
 
     <h2>Links</h2>
 
