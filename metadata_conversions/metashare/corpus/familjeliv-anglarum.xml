@@ -60,7 +60,7 @@
       <email>sb-info@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken</organizationName>
+      <organizationName>Språkbanken Text</organizationName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -87,11 +87,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>21843264</size>
+            <size>21854267</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>1342154</size>
+            <size>1344317</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
