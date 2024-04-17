@@ -18,20 +18,28 @@ contact_info:  # Contact info of the person who can answer questions about the c
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 annotation: # Anything worth to note about the annotations in this lexicon.
-  swe: ''
-  eng: ''
+  swe: 'Alla nominalfraser har uppmärkts med information om den interna strukturen och rollen av nominalfrasen i sitt sammanhang. Annotationen är manuellt korrigerad.'
+  eng: 'All noun phrases have been annotated with information about their internal structure, as well as their function in the surrounding context. The annotation was mannually corrected.'
 keywords: [] # List of keywords (in English) that may be used for filering. Keep them short!
 caveats: 
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
-references: [] # List of references or links to publications describing the resource
+references: # List of references or links to publications describing the resource
+  - {publication 335993}
 intended_uses:
   swe: '' # The intended uses for this resource (in Swedish)
   eng: '' # The intended uses for this resource (in English)
 description:
   # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
   swe: |-
-    
+      NPEGL databasen är ett av resultaten av projektet <i>Grenser for syntaktisk variasjon: substantivfraser i gamle germanske språk</i> (Norges forskningsråd, <a href="https://prosjektbanken.forskningsradet.no/project/FORISS/261847">projektnummer 261847</a>)
+      Ett av projektmålen var att granska den nominalfrasinterna variationen i äldre germanska språk, i synnerhet variation i ordföljd, och att utforska de
+      faktorer som påverkar denna variation. Se Pfaff & Bouma (2014) för mer information om databasens uppbyggnad.
   # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
   eng: |-
+      The NPEGL database is one major output of the project <i>Constraints on syntactic
+      variation: Noun phrases in early Germanic languages</i> (Research Council of Norway, <a href="https://prosjektbanken.forskningsradet.no/en/project/FORISS/261847">grant no. 261847</a>).
+      One of the project goals was to study the scope of noun phrase-internal variation in Old Germanic 
+      languages, with an emphasis on word order variation, and to examine which factors have an impact 
+      on that variation. See Pfaff & Bouma (2014) for details about the database design.
 
