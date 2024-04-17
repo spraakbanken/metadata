@@ -61,9 +61,9 @@ description:
     financed by the Marcus and Amalia Wallenberg Foundation, no. 2012.0146,
     by Gerlof Bouma and Yvonne Adesam.
 annotation:
-  swe: ''
+  swe: 'Manuellt uppmärkt med information om lemma samt ordklass och dependensstruktur enligt Menotec/PROIEL.'
   eng: Manually annotated with lemma, and Menotec/PROIEL-style parts-of-speech and
-    dependency structures
+    dependency structures.
 keywords:
   - treebank
   - historical
