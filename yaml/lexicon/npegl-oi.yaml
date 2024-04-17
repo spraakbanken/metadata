@@ -18,7 +18,7 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
     format: 'JSONL'  # The file format or standard
     info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     licence: CC BY 4.0
-    restriction: attribution
+    restriction: attribution sharealike
 interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - access: 'https://spraakbanken.gu.se/karp/tng/?mode=npegl_old_icelandic'  # A link to the resource in an interface (e.g in Korp or Karp)
     licence: CC BY-SA 4.0
