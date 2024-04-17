@@ -2,8 +2,8 @@ name:
   swe: 'NPEGL Fornsaxiska'  # Human readable name in Swedish
   eng: 'NPEGL Old Saxon'  # Human readable name in English
 short_description:
-  swe: 'Den fornsaxiska delen av databasen till projektet Noun Phrases in Early Germanic Languages.'  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: 'The Old Saxon part of the Noun Phrases in Early Germanic Languages database.'  # Short description in a few words or a sentence in English (plain text only)
+  swe: 'Den fornsaxiska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: 'The Old Saxon part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'  # Short description in a few words or a sentence in English (plain text only)
 type: lexicon  # Must be "lexicon"
 trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
 unlisted: true  # If set to "true", the resource won't be listed, but it will be accessible via its URL
