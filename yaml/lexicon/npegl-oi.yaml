@@ -1,6 +1,6 @@
 name:
   swe: 'NPEGL Fornisländska'  # Human readable name in Swedish
-  eng: 'NPEGL Old Iceländic'  # Human readable name in English
+  eng: 'NPEGL Old Icelandic'  # Human readable name in English
 short_description:
   swe: 'Den fornisländska delen av databasen till projektet Noun Phrases in Early Germanic Languages.'  # Short description in a few words or a sentence in Swedish (plain text only)
   eng: 'The Old Icelandic part of the Noun Phrases in Early Germanic Languages database.'  # Short description in a few words or a sentence in English (plain text only)
