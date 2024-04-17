@@ -1,0 +1,48 @@
+name:
+  swe: 'NPEGL Fornhögtyska'  # Human readable name in Swedish
+  eng: 'NPEGL Old High German'  # Human readable name in English
+short_description:
+  swe: 'Den fornhögtyska delen av databasen till projektet Noun Phrases in Early Germanic Languages.'  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: 'The Old High German part of the Noun Phrases in Early Germanic Languages database.'  # Short description in a few words or a sentence in English (plain text only)
+type: lexicon  # Must be "lexicon"
+trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
+unlisted: true  # If set to "true", the resource won't be listed, but it will be accessible via its URL
+successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
+language_codes: [goh]  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
+size:
+  entries: 0
+in_collections: [npegl]  # ID(s) of the collections the resource is part of
+downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
+  - url: 'https://spraakbanken.gu.se/lb/resurser/data/npegl_old_high_german_r1.jsonl.bz2'  # URL to a downloadable file
+    type: ''  # What's in the file?
+    format: 'JSONL'  # The file format or standard
+    info: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    licence: CC BY 4.0
+    restriction: attribution
+interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
+  - access: 'https://spraakbanken.gu.se/karp/tng/?mode=npegl_old_high_german'  # A link to the resource in an interface (e.g in Korp or Karp)
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:  # Contact info of the person who can answer questions about the resource
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation: # Anything worth to note about the annotations in this lexicon.
+  swe: ''
+  eng: ''
+keywords: [] # List of keywords (in English) that may be used for filering. Keep them short!
+caveats: 
+  swe: '' # Caveats and disclaimers in Swedish
+  eng: '' # Caveats and disclaimers in English
+references: [] # List of references or links to publications describing the resource
+intended_uses:
+  swe: '' # The intended uses for this resource (in Swedish)
+  eng: '' # The intended uses for this resource (in English)
+description:
+  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
+  swe: |-
+    
+  # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
+  eng: |-
