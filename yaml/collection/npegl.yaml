@@ -25,7 +25,7 @@ caveats:
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
 references: # List of references or links to publications describing the resource
-  - {publication 335993}
+  - '{publication 335993}'
 intended_uses:
   swe: '' # The intended uses for this resource (in Swedish)
   eng: '' # The intended uses for this resource (in English)
