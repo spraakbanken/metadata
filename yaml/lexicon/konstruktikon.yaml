@@ -21,7 +21,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=konstruktikon
+  - access: https://spraakbanken.gu.se/konstruktikon
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
@@ -32,41 +32,13 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <p>Deltagare: Benjamin Lyngfelt, Kristian Blensenius, Lars Borin, Linnea Bäckström, Dana Dannélls, Anna Ehrlemark, Markus Forsberg, Per Malm, Joel Olofsson, Leif-Jöran Olsson, Julia Prentice, Rudolf Rydstedt, Emma Sköldberg, Sofia Tingsell, Jonatan Uppström.</p>
-
-    <p>Projektet går ut på att utveckla en databas över svenska konstruktioner, ett s.k. konstruktikon. Konstruktikonet ska utgöra en storskalig elektronisk resurs för lingvistiska, språkteknologiska och på sikt pedagogiska och lexikografiska ändamål. Vi vill särskilt täcka in konstruktioner som är problematiska ur inlärarsynpunkt och har ambitionen att utveckla metoder för automatisk igenkänning av konstruktioner.</p>
-
-    <p>En stor del av språket utgörs av begränsade, semiproduktiva konstruktioner. Sådana strukturer är problematiska för såväl språkteknologiska tillämpningar som andra- och främmandespråksinlärare och verkar dessutom vara tämligen vanliga. Ändå negligeras de ofta i både grammatikor och ordböcker, vilka är inriktade på generella regler respektive enskilda ord. Följaktligen saknas en samlad och något sånär uttömmande redogörelse för konstruktionsspecifika uttrycksmönster. Det är just en sådan resurs vi vill utveckla, med målet att konstruktionsbeskrivningarna ska vara deskriptivt adekvata, tillräckligt enkla för att kunna tillämpas i stor skala och formaliserade för att möjliggöra språkteknologiska tillämpningar.</p>
-
-    <p>Konstruktikonet är ett möte mellan å ena sidan konstruktionsgrammatik och å andra sidan datoriserad lexikografi så som den yttrar sig i dels Berkeleys FrameNet, dels språkbankstraditionen i Göteborg. De båda sistnämnda förenas i den svenska motsvarigheten till FrameNet, Svenskt Frasnät, som utvecklas i nära samarbete med konstruktikonet.</p>
-
-    <p>Projektet finansieras av Riksbankens Jubileumsfond 2013-2016.</p>
-
+    <p>Detta är en databas över svenska konstruktioner, ett s.k. konstruktikon. Det utgör en storskalig elektronisk resurs för lingvistiska, språkteknologiska och på sikt pedagogiska och lexikografiska ändamål. Vi vill särskilt täcka in konstruktioner som är problematiska ur inlärarsynpunkt och har ambitionen att utveckla metoder för automatisk igenkänning av konstruktioner.</p>
     <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Sök i Konstruktikonet</a></p>
-
-    <p>
-    Mer information finns på <a href="http://spraakbanken.gu.se/projekt/sweccn">projektsidan</a>.
-    </p>
-    <p>
-    <a href="konstruktikon/utvecklingsversion">Utvecklingsversion</a>
-    </p>
+    <p>Mer information finns på <a href="https://spraakbanken.gu.se/projekt/svenskt-konstruktikon">projektsidan</a>.</p>
   eng: |-
-    <p>Crew: Benjamin Lyngfelt, Kristian Blensenius, Lars Borin, Linnea B&auml;ckstr&ouml;m, Dana Dannells, Anna Ehrlemark, Markus Forsberg, Per Malm, Joel Olofsson,  Leif-J&ouml;ran Olsson, Julia Prentice, Rudolf Rydstedt, Emma Sk&ouml;ldberg, Sofia Tingsell, Jonatan Uppstr&ouml;m + students.</p>
-
-    <p>The aim of this project is to develop a Swedish so-called constructicon, a database of Swedish constructions. It is meant to be a large-scale electronic resource for linguistic, lexicographic, and educational purposes, as well as for language technology applications. A special priority is to account for constructions that concern second language acquisition. We also mean to develop tools for automatic identification of constructions. </p>
-
-    <p>A language consists to quite a large extent of restricted, semi-productive constructions. Such structures tend to be highly problematic for language technology as well as for language learners, and also seem to be quite common. Yet, they are often neglected in both grammars and dictionaries, which focus on general rules and individual words, respectively. Hence, a comprehensive account of construction-specific patterns is so far lacking. We therefore intend to develop such a resource, aiming to make it descriptively adequate, simple enough for large-scale coverage, and formalized to enable computational uses.</p>
-
-    <p>The constructicon is developed in close collaboration with the Swedish FrameNet. The approach combines construction grammar, lexicography, and language technology, in a manner similar to the Berkeley FrameNet Constructicon, but it also builds on the Swedish lexicographic tradition, and has a particular L2 focus.</p>
-
-    <p>The project is funded by a grant from Riksbankens Jubileumsfond (the Swedish Tercentenary Foundation) 2013-2016.</p>
-
-
+    <p>This is a Swedish so-called constructicon, a database of Swedish constructions. It is a large-scale electronic resource for linguistic, lexicographic, and educational purposes, as well as for language technology applications. A special priority is to account for constructions that concern second language acquisition. We also mean to develop tools for automatic identification of constructions. </p>
     <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Search the constructicon (in Swedish)</a></p>
-
-    <p>
-    More information is available from <a href="http://spraakbanken.gu.se/en/projects/sweccn">the project page</a>.
-    </p>
+    <p>More information is available from <a href="https://spraakbanken.gu.se/en/projects/svenskt-konstruktikon">the project page</a>.</p>
 annotation:
   swe: ''
   eng: ''
