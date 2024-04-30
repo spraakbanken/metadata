@@ -2,8 +2,8 @@ name:
   swe: Konstruktikon
   eng: Constructicon
 short_description:
-  swe: Ett svenskt konstruktikon
-  eng: A Swedish Constructicon
+  swe: Svenskt konstruktikon
+  eng: Swedish Constructicon
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -32,9 +32,9 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <p>Detta är en databas över svenska konstruktioner, ett s.k. konstruktikon. Det utgör en storskalig elektronisk resurs för lingvistiska, språkteknologiska och på sikt pedagogiska och lexikografiska ändamål. Vi vill särskilt täcka in konstruktioner som är problematiska ur inlärarsynpunkt och har ambitionen att utveckla metoder för automatisk igenkänning av konstruktioner.</p>
+    <p>Svenskt konstruktikon är en fritt tillgänglig konstruktionsdatabas, dvs. en samling beskrivningar av svenska konstruktionsmönster. Vi vill särskilt täcka in konstruktioner som är problematiska ur inlärarsynpunkt och har ambitionen att utveckla metoder för automatisk igenkänning av konstruktioner. Databasen är under utveckling och omfattar endast en delmängd av svenska språkets konstruktioner, men bör redan nu vara en användbar resurs för språkvetenskap, språkutbildning och språkteknologi.</p>
     <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Sök i Konstruktikonet</a></p>
-    <p>Mer information finns på <a href="https://spraakbanken.gu.se/projekt/svenskt-konstruktikon">projektsidan</a>.</p>
+    <p>Mer information finns på <a href="https://spraakbanken.gu.se/projekt/svenskt-konstruktikon">projektets paraplysida</a>.</p>
   eng: |-
     <p>This is a Swedish so-called constructicon, a database of Swedish constructions. It is a large-scale electronic resource for linguistic, lexicographic, and educational purposes, as well as for language technology applications. A special priority is to account for constructions that concern second language acquisition. We also mean to develop tools for automatic identification of constructions. </p>
     <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Search the constructicon (in Swedish)</a></p>
