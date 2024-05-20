@@ -2,10 +2,10 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish statute book</resourceName>
-    <resourceName lang="swe">Svensk författningssamling</resourceName>
-    <description lang="eng">Swedish statute book 1880-01-01 – 2012-08-16</description>
-    <description lang="swe">Svensk författningssamling 1880-01-01 – 2012-08-16</description>
+    <resourceName lang="eng">Swedish Code of Statutes</resourceName>
+    <resourceName lang="swe">Svensk Författningssamling</resourceName>
+    <description lang="eng">Swedish Code of Statutes 1880-01-01 – 2023-12-15</description>
+    <description lang="swe">Svensk författningssamling 1880-01-01 – 2023-12-15</description>
     <resourceShortName lang="eng">sfs</resourceShortName>
     <resourceShortName lang="swe">sfs</resourceShortName>
     <metaShareId/>
@@ -24,7 +24,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SFS.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sfs.csv</downloadLocation>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -60,7 +60,7 @@
       <email>sb-info@svenska.gu.se</email>
     </communicationInfo>
     <affiliation>
-      <organizationName>Språkbanken</organizationName>
+      <organizationName>Språkbanken Text</organizationName>
       <communicationInfo>
         <email>sb-info@svenska.gu.se</email>
       </communicationInfo>
@@ -118,11 +118,11 @@
             <languageScript>Latn</languageScript>
           </languageInfo>
           <sizeInfo>
-            <size>8058400</size>
+            <size>19748312</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>391761</size>
+            <size>959329</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
           <annotationInfo>
