@@ -14,7 +14,6 @@ size:
   tokens: 20699
   sentences: 1067
 in_collections:
-  - folke
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_folke-pilot.csv
     type: token frequencies
