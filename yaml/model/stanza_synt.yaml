@@ -43,7 +43,7 @@ description:
     <h2>Models</h2>
     <p>We provide two models that enable dependency parsing of Swedish (in the Mamba-Dep format, the format of <a href="https://spraakbanken.gu.se/en/resources/talbanken">TalbankenSBX</a>).</p>
 
-    <p><b><code>stanza_eval</code></b> is trained on Talbanken_SBX_train with as Talbanken_SBX_dev as dev set and evaluated using Talbanken_SBX_test.  or <a href="https://spraakbanken.gu.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below. The LAS (when trained with gold POS and MSD tags) is 84.48. We used the Word2Vec embeddings trained on the CONLL17 corpus (using Word2Vec trained on a Göteborgs-Posten corpus yields a very similar result of 84.43, see more about embeddings <a href="https://spraakbanken.gu.se/resurser/embeddings">here</a>).</p>
+    <p><b><code>stanza_eval</code></b> is trained on Talbanken_SBX_train with as Talbanken_SBX_dev as dev set and evaluated using Talbanken_SBX_test.  The evaluation results are reported in the table below. The LAS (when trained with gold POS and MSD tags) is 84.48. We used the Word2Vec embeddings trained on the CONLL17 corpus (using Word2Vec trained on a Göteborgs-Posten corpus yields a very similar result of 84.43, see more about embeddings <a href="https://spraakbanken.gu.se/resurser/embeddings">here</a>).</p>
 
     <p><b><code>stanza_full</code></b> is trained on Talbanken_SBX_train + Talbanken_SBX_dev with Talbanken_SBX_test as dev set. We cannot evaluate the performance of this model, but we expect it to perform better than <code>stanza_eval</code>, or at least not worse.</p>
 
