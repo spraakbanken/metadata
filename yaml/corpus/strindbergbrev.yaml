@@ -31,6 +31,8 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=strindbergbrev
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Dahlbäck, Kerstin
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

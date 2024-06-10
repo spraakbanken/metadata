@@ -35,6 +35,10 @@ downloads:
       in the download.
     restriction: ''
 interface: []
+creators:
+  - Coussé, Evie
+  - Dijkstra, Trude
+  - van der Sijs, Nicoline
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se

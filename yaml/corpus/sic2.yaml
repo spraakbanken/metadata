@@ -45,6 +45,11 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=sic2
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Östling, Robert
+  - Sjons, Johan
+  - Bjerva, Johannes
+  - Berdicevskis, Aleksandrs
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

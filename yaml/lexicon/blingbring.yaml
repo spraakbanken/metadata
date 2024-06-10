@@ -31,6 +31,8 @@ interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=blingbring
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Borin, Lars
 contact_info:
   name: Lars Borin
   email: sb-info@svenska.gu.se

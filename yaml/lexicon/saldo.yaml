@@ -25,6 +25,10 @@ interface:
   - access: https://spraakbanken.gu.se/karp/#?mode=saldo&resources=saldo
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Borin, Lars
+  - Lönngren, Lennart
+  - Forsberg, Markus
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

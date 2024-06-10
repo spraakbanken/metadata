@@ -22,6 +22,9 @@ interface:  # This object may be removed entirely or duplicated (in case there a
   - access: ''  # A link to the collection in an interface (e.g in Korp or Karp)
     licence: CC BY 4.0
     restriction: attribution
+creators: [] # List of people that created the resource (format: lastname, firstname)
+created: '2024-06-09' # Date the resource was created (format: text)
+updated: '2024-06-10' # Date the resource was (last) updated (format: text)
 contact_info:  # Contact info of the person who can answer questions about the collection
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

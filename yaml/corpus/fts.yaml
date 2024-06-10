@@ -29,6 +29,8 @@ interface:
   - access: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Hansen, Kirsti
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

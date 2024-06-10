@@ -21,6 +21,8 @@ downloads:
     licence: GNU GPLv3 or later
     restriction: attribution, sharealike
 interface: []
+creators:
+  - Rødven-Eide, Stian
 contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se

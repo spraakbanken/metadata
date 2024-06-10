@@ -23,6 +23,8 @@ interface:
   - access: 'https://spraakbanken.gu.se/poligraph/'
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Rødven-Eide, Stian
 contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se
