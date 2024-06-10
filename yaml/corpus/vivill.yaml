@@ -12,8 +12,8 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 2099602
-  sentences: 125057
+  tokens: 2234400
+  sentences: 131789
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/vivill.xml.bz2
@@ -36,7 +36,7 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
