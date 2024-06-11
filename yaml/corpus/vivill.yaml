@@ -3,8 +3,8 @@ name:
   swe: Svenska partiprogram och valmanifest
   eng: Swedish party programs and election manifestos
 short_description:
-  swe: De svenska partiernas partiprogram och valmanifest 1887–2022
-  eng: Swedish political party programs and election manifestos 1887–2022
+  swe: De svenska partiernas partiprogram och valmanifest 1887–2024
+  eng: Swedish political party programs and election manifestos 1887–2024
 type: corpus
 trainingdata: false
 unlisted: false
@@ -46,15 +46,15 @@ caveats:
   swe: ''
   eng: ''
 references:
-  - 'Göteborgs universitet, Svensk nationell datatjänst. (2022). Svenska partiprogram
-    och valmanifest (Version 2) [Dataset]. Tillgänglig via: https://doi.org/10.5878/8az5-zd46'
+  - 'Göteborgs universitet, Svensk nationell datatjänst. (2024). Svenska partiprogram
+    och valmanifest (Version 3) [Dataset]. Tillgänglig via: https://doi.org/10.5878/kcsf-k293'
 intended_uses:
   swe: ''
   eng: ''
 description:
   swe: |-
     <p>Datan till den här korpusen är hämtad från <a
-    href="https://doi.org/10.5878/8az5-zd46">Svensk nationell
+    href="https://doi.org/10.5878/kcsf-k293">Svensk nationell
     datatjänst</a>.</p>
 
     <p>Dokumenten finns öppet tillgängliga via denna länk: <a
@@ -84,7 +84,7 @@ description:
     samlingen.</p>
   eng: |-
     <p>The data for this corpus was retrieved from <a
-    href="https://doi.org/10.5878/8az5-zd46">Svensk nationell
+    href="https://doi.org/10.5878/kcsf-k293">Svensk nationell
     datatjänst</a>.</p>
 
     <p>All documents are also open a vailable at page: <a
