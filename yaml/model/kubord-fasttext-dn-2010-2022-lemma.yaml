@@ -1,22 +1,30 @@
 name:
-  swe: Kubord-fasttext
-  eng: Kubord-fasttext
+  swe: 'Kubord-fasttext - Dagens Nyheter 2010–2022 - lemma'
+  eng: 'Kubord-fasttext - Dagens Nyheter 2010–2022 - lemma'
 short_description:
-  swe: En samling fasttext-modeller tränade på moderna tidningstexter från Kungliga biblioteket
-  eng: A collection of fasttext models trained on modern newspaper texts from the National Library of Sweden
+  swe: Fasttext-modell tränad på Dagens Nyheter 2010–2022
+  eng: Fasttext model trained on Dagens Nyheter 2010–2022
 type: model
-collection: true
 language_codes:
   - swe
+in_collections:
+  - kubord-fasttext
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/data/kubord-fasttext-dn-2010-2022-lemma.zip
+    type: model
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    Kubord-fasttext är en samling fasttext-modeller, framtagna inom ett samarbete mellan
+    Kubord-fasttext är en samling fasttext-modeller, framtagna inom ett samarbete mellan 
     <a href="https://www.kb.se/samverkan-och-utveckling/kb-labb.html">KB-labb</a> och Språkbanken Text, som tränats på
     samma underliggande data som <a href="https://spraakbanken.gu.se/resurser/kubord2">Kubord 2</a>. Modellerna är
     tränade på token- och lemmanivå. Verktyget som använts vid träning är
@@ -29,3 +37,5 @@ description:
     The models have been trained on the token and the lemma level. The tool that has been used for the training is
     <a href="https://radimrehurek.com/gensim/">Gensim</a>, with the following parameter settings:
     min_n 4, max_n 7, 20 epoker, dim 300, and lr .05.
+keywords: []
+references: []
