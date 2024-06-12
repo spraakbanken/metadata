@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
+<resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
+  <identificationInfo>
+    <resourceName lang="eng">Kubord-fasttext - Dagens Nyheter 2010–2022 - token</resourceName>
+    <resourceName lang="swe">Kubord-fasttext - Dagens Nyheter 2010–2022 - token</resourceName>
+    <description lang="eng">Fasttext model trained on Dagens Nyheter 2010–2022</description>
+    <description lang="swe">Fasttext-modell tränad på Dagens Nyheter 2010–2022</description>
+    <resourceShortName lang="eng">kubord-fasttext-dn-2010-2022-token</resourceShortName>
+    <resourceShortName lang="swe">kubord-fasttext-dn-2010-2022-token</resourceShortName>
+    <metaShareId/>
+    <identifier>kubord-fasttext-dn-2010-2022-token</identifier>
+  </identificationInfo>
+  <distributionInfo>
+    <availability>available-unrestrictedUse</availability>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/kubord-fasttext-dn-2010-2022-token.zip</downloadLocation>
+    </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/kubord-fasttext-dn-2010-2022-token.xml</downloadLocation>
+    </licenceInfo>
+    <iprHolder>
+      <organizationInfo>
+        <organizationName lang="swe">Göteborgs universitet</organizationName>
+        <organizationName lang="eng">University of Gothenburg</organizationName>
+        <departmentName lang="swe">Språkbanken</departmentName>
+        <departmentName lang="eng">Språkbanken</departmentName>
+        <communicationInfo>
+          <email>sb-info@svenska.gu.se</email>
+          <url>http://spraakbanken.gu.se</url>
+          <city>Gothenburg</city>
+          <country>Sweden</country>
+        </communicationInfo>
+      </organizationInfo>
+    </iprHolder>
+  </distributionInfo>
+  <contactPerson>
+    <surname>Forsberg</surname>
+    <givenName>Markus</givenName>
+    <communicationInfo>
+      <email>sb-info@svenska.gu.se</email>
+    </communicationInfo>
+    <affiliation>
+      <organizationName>Språkbanken</organizationName>
+      <communicationInfo>
+        <email>sb-info@svenska.gu.se</email>
+      </communicationInfo>
+    </affiliation>
+  </contactPerson>
+  <metadataInfo>
+    <metadataCreationDate>2024-06-12</metadataCreationDate>
+  </metadataInfo>
+  <resourceDocumentationInfo>
+    <samplesLocation>https://spraakbanken.gu.se/en/resources/kubord-fasttext-dn-2010-2022-token</samplesLocation>
+  </resourceDocumentationInfo>
+  <resourceComponentType>
+    <toolServiceInfo>
+      <resourceType>toolService</resourceType>
+      <toolServiceType>other</toolServiceType>
+      <languageDependent>yes</languageDependent>
+      <inputInfo>
+        <mediaType>text</mediaType>
+        <languageId>swe</languageId>
+        <languageName>Swedish</languageName>
+      </inputInfo>
+    </toolServiceInfo>
+  </resourceComponentType>
+</resourceInfo>
