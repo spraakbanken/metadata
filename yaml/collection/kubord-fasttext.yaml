@@ -8,6 +8,8 @@ type: model
 collection: true
 language_codes:
   - swe
+created: 2024-06-11
+updated: 2024-06-11
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
