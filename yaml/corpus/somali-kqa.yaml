@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Kitaabka Quduuska Ah'
   eng: 'Somali: Kitaabka Quduuska Ah'
-short_description:
-  swe: ''
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

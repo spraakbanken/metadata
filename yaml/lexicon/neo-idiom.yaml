@@ -12,8 +12,6 @@ unlisted: false
 successors: []
 language_codes:
   - swe
-size:
-  entries: null
 in_collections: []
 downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx

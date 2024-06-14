@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Raadiyaha Denmark 2014'
   eng: 'Somali: Raadiyaha Denmark 2014'
-short_description:
-  swe: ''
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

@@ -31,7 +31,7 @@ contact_info:  # Contact info of the person who can answer questions about the c
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
-annotation: # Anything worth to note about the annotations in this lexicon.
+annotation: # Anything worth to note about the annotations in this collection.
   swe: ''
   eng: ''
 keywords: [] # List of keywords (in English) that may be used for filering. Keep them short!

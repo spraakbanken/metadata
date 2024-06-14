@@ -16,7 +16,6 @@ downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swewic/2.0/swewic.zip
     type: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
-    info: null
     licence: CC BY 4.0
     restriction: attribution
 interface: []

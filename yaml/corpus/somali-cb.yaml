@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Cilmiga Bulshada 1971–1980'
   eng: 'Somali: Cilmiga Bulshada 1971–1980'
-short_description:
-  swe: ''
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

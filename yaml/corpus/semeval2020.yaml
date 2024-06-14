@@ -14,7 +14,6 @@ language_codes:
   - swe
 size:
   tokens: 182000000
-  sentences: null
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/semeval2020_ulscd_swe.zip

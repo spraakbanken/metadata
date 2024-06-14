@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Suugaan 2'
   eng: 'Somali: Suugaan 2'
-short_description:
-  swe: ''
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

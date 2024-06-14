@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Sheekooyin Carruureed'
   eng: 'Somali: Sheekooyin Carruureed'
-short_description:
-  swe: null
-  eng: null
 type: corpus
 trainingdata: false
 unlisted: false

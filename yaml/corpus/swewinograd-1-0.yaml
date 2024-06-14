@@ -18,13 +18,11 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/swewinograd.jsonl.gz
     type: swewinograd.jsonl.gz
     format: gz
-    info: null
     licence: CC BY 4.0
     restriction: attribution
   - url: https://spraakbanken.gu.se/lb/resurser/data/swewinograd_documentation_sheet.txt
     type: swewinograd_documentation_sheet.txt
     format: txt
-    info: null
     licence: CC BY 4.0
     restriction: attribution
 interface: []

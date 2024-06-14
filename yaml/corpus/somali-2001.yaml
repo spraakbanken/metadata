@@ -1,9 +1,6 @@
 name:
   swe: 'Somaliska: Af-Soomaali 2001 Soomaaliya'
   eng: 'Somali: Af-Soomaali 2001 Soomaaliya'
-short_description:
-  swe: ''
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

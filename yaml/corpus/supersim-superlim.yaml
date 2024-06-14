@@ -16,7 +16,6 @@ downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/supersim-superlim/1.1/supersim-superlim.zip
     type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
-    info: null
     licence: CC BY 4.0
     restriction: attribution
 interface: []
