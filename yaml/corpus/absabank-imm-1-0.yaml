@@ -344,3 +344,4 @@ description:
     <p>Absabank-Imm (where ABSA stands for "Aspect-Based Sentiment Analysis" and Imm for "Immigration") is a subset of the Swedish <a href="https://spraakbanken.gu.se/en/resources/swe-absa-bank">ABSAbank</a>, created to be a part of the <a href="https://spraakbanken.gu.se/en/resources/swedishglue">SuperLim</a> collection. In Absabank-Imm, texts and paragraphs are labelled according to the sentiment (on 1--5 scale) that the author expresses towards immigration in Sweden (this task is known as aspect-based sentiment analysis or stance analysis). To create Absabank-Imm, the original Absabank has been substantially reformatted, but no changes to the annotation were made. See <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/readme.txt">readme.txt</a> for detailed information.</p>
     <p>Contact person: <a href="https://spraakbanken.gu.se/en/about/staff/sasha">Sasha Berdicevskis</a></p>
     -->
+updated: 2021-05-23
