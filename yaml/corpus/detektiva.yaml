@@ -39,3 +39,4 @@ description:
   eng: |-
     <p>The <i>Detective Department</i> project is based on texts from the Gothenburg police, from the late 1800s to the early 1900s. These texts have been transcribed manually. Work is in progress at Språkbanken to further develop this data. So far, the texts are not available here, but they can be found at <a href="https://riksarkivet.se/psidata/goteborgs-poliskammare">Riksarkivet</a>. One part of our project consists of finding on a map the places mentioned in the texts. This address data is available here, in two files. One file contains geographical coordinates, the other coordinates in the <a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Simon%27s_1888_Gothenburg_map.jpg">map file</a> we have used.</p>
 updated: 2023-06-20
+doi: 10.23695/9avg-nm60
