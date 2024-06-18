@@ -78,7 +78,7 @@
         <corpusTextInfo>
           <mediaType>text</mediaType>
           <lingualityInfo>
-            <lingualityType/>
+            <lingualityType>monolingual</lingualityType>
           </lingualityInfo>
           <languageInfo>
             <languageId>swe</languageId>
