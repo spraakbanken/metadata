@@ -37,7 +37,7 @@ intended_uses:
 description:
   swe: |-
     Denna resurs innehåller en samling textdokument från svenska Tvåkammarriksdagen.
-    Den är indelad i olika kategorier(t.ex. motioner, protokoll,
+    Den är indelad i olika kategorier (t.ex. motioner, protokoll,
     register etc.) och har annoterats med olika ord- och dokumentnivåattribut.
     Varje kategori är tillgänglig för nedladdning som en zippad fil.
   eng: |-
