@@ -1,0 +1,22 @@
+name:
+  swe: "Ståndsriksdagen"
+  eng: "Riksdag of the Estates"
+short_description:
+  swe: 'Samling av textdokument från Ståndsriksdagen'
+  eng: 'Collection of textual documents from the Swedish Riksdag of the Estates'
+type: corpus
+collection: true
+resources: []
+language_codes:
+  - swe
+interface:
+  - access: 'https://spraakbanken.gu.se/korp/?mode=all_hist#?cqp=%5B%5D&corpus=standsriksdagen-riksdagsakter,standsriksdagen-adelsstandet,standsriksdagen-riksdagsbeslut,standsriksdagen-bihang,standsriksdagen-bondestandet,standsriksdagen-borgarstandet,standsriksdagen-prastestandet'
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+
