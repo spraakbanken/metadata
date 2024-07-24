@@ -17,7 +17,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/1.1/swesat-synonyms.zip</downloadLocation>
+      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/swesat/1.1/swesat-synonyms.zip</downloadLocation>
       <attributionText>an archive with the dataset in JSONL format and the documentation sheet</attributionText>
     </licenceInfo>
     <licenceInfo>

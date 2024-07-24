@@ -17,14 +17,14 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/detektiva/geocoords.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/geocoords.txt</downloadLocation>
       <attributionText>geographical coordinates for Gothenburg addresses in 1888</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/detektiva/pixelcoords.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/pixelcoords.txt</downloadLocation>
       <attributionText>pixel coordinates for addresses on Simon's 1888 Gothenburg map</attributionText>
     </licenceInfo>
     <licenceInfo>

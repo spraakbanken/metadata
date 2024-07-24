@@ -31,14 +31,14 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt</downloadLocation>
       <attributionText>this file contains corpus statistics for the Swedish part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt</downloadLocation>
+      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt</downloadLocation>
       <attributionText>this file contains corpus statistics for the Dutch part of the corpus</attributionText>
     </licenceInfo>
     <licenceInfo>
