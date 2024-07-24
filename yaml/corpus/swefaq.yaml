@@ -13,7 +13,7 @@ language_codes:
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/2.0/swefaq.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/2.0/swefaq.zip
     type: an archive with the dataset in JSONL format and the documentation sheet
     format: tsv
     info: ''

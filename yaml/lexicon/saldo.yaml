@@ -15,7 +15,7 @@ size:
   entries: 131020
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/saldo/saldo.xml
     type: lexicon
     format: LMF
     info: ''
@@ -48,8 +48,8 @@ description:
     </p>
 
     <div id="random"></div>
-    <script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
-    <script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/tidbits/tidbits_swe.js'></script>
+    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
+    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/tidbits/tidbits_swe.js'></script>
 
     <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/lid/json+render/rnd'></script>
 
@@ -83,18 +83,18 @@ description:
     <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/version/json+version/'></script>
 
     <ul>
-     <li>Dokumentation för sökgränssnittet: <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
+     <li>Dokumentation för sökgränssnittet: <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
     <!--
      <li>Ladda ned utvecklingsversionen av <a href="https://spraakbanken.gu.se/sblex/resources#saldo">SALDOs grundmaterial</a></li>
      <li>Ladda ned utvecklingsversionen av <a href="https://spraakbanken.gu.se/sblex/resources#saldom">SALDOs morfologiska lexikon</a></a>
     -->
      <li>
-     Ladda ned <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (publicerad 2015-03-04)
+     Ladda ned <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (publicerad 2015-03-04)
      </li>
      <li>
-     Ladda ned <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.0.tgz">SALDO v2.0</a> (publicerad 2010-11-08)
+     Ladda ned <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.0.tgz">SALDO v2.0</a> (publicerad 2010-11-08)
      </li>
-     <li>Ladda ned <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_1.0.tgz">SALDO v1.0</a> (publicerad 2008-05-07).
+     <li>Ladda ned <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_1.0.tgz">SALDO v1.0</a> (publicerad 2008-05-07).
      </li>
     </ul>
 
@@ -122,8 +122,8 @@ description:
     <center>
 
     <div id="random"></div>
-    <script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
-    <script type='text/javascript' src='https://svn.spraakdata.gu.se/sb-arkiv/pub/js/tidbits/tidbits_eng.js'></script>
+    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
+    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/tidbits/tidbits_eng.js'></script>
 
     <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/lid/json+render/rnd'></script>
 
@@ -157,18 +157,18 @@ description:
     <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/version/json+version/'></script>
 
     <ul>
-     <li>Documentation for the search interface (in Swedish): <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
+     <li>Documentation for the search interface (in Swedish): <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
     <!--
      <li>Download the development version of <a href="http://spraakbanken.gu.se/eng/sblex/resources#saldo">SALDO</a></li>
      <li>Download the development version of <a href="http://spraakbanken.gu.se/eng/sblex/resources#saldom">SALDO's morphological lexicon</a></a>
     -->
      <li>
-     Download <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (published 2015-03-04)
+     Download <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (published 2015-03-04)
      </li>
      <li>
-     Download <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_2.0.tgz">SALDO v2.0</a> (published 2010-11-08)
+     Download <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.0.tgz">SALDO v2.0</a> (published 2010-11-08)
      </li>
-     <li>Download <a href="https://svn.spraakdata.gu.se/repos/sblex/pub/saldo_1.0.tgz">SALDO v1.0</a> (published 2008-05-07).
+     <li>Download <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_1.0.tgz">SALDO v1.0</a> (published 2008-05-07).
      </li>
     </ul>
 

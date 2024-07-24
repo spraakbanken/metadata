@@ -28,13 +28,13 @@ downloads:
     info: this file contains a scrambled version of the Macedonian part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-SV.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-SV.txt
     type: token frequencies
     format: CSV
     info: this file contains statistics on the Swedish part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-MK.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-MK.txt
     type: token frequencies
     format: CSV
     info: this file contains statistics on the Macedonian part of the corpus

@@ -14,7 +14,7 @@ size:
   entries: 1017406
 in_collections: []
 downloads:
-  - url: 'https://svn.spraakdata.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz'
+  - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz'
     type: lexicon
     format: Prolog
     info: ''

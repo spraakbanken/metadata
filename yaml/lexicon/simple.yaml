@@ -15,19 +15,19 @@ size:
   entries: 11624
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_n.html
+  - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_n.html
     type: simple_n.html
     format: html
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_v.html
+  - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_v.html
     type: simple_v.html
     format: html
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb/fnplusplus/pub/simple_adj.html
+  - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     type: simple_adj.html
     format: html
     info: ''

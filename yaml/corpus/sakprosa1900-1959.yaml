@@ -17,7 +17,7 @@ size:
   sentences: 15529
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1900-1959.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1900-1959.txt
     type: token frequencies
     format: CSV
     info: ''

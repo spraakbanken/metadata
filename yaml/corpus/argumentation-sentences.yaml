@@ -15,7 +15,7 @@ size:
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/argumentation-sentences/1.0/argumentation-sentences.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/argumentation-sentences/1.0/argumentation-sentences.zip
     type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
     info: ''

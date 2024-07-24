@@ -15,7 +15,7 @@ size:
   sentences: 3445187
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-PLDEBATT-140504.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_TWITTER-PLDEBATT-140504.txt
     type: token frequencies
     format: CSV
     info: ''

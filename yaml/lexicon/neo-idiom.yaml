@@ -14,13 +14,13 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx
     type: idiom_ur_neodatabasen.xlsx
     format: xlsx
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml
     type: neo_idiom_m_alternativformer.xml
     format: xml
     info: ''
@@ -41,10 +41,10 @@ description:
 
     <a href="https://svenska.gu.se/forskning/forskningsprofiler/lexikologi-och-lexikografi/lexikaliska-institutet">Lexikaliska institutet</a><br/>
 
-    <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx">Idiomen som Excel-fil</a><br/>
+    <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx">Idiomen som Excel-fil</a><br/>
 
-    <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom.css">CSS-fil</a><br/>
-    <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/neo-idiom/readme_neo_idiom.txt">Readme-fil</a>
+    <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom.css">CSS-fil</a><br/>
+    <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/readme_neo_idiom.txt">Readme-fil</a>
   eng: ''
 annotation:
   swe: ''

@@ -21,25 +21,25 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_TALBANKEN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_TALBANKEN.txt
     type: token frequencies
     format: CSV
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/changelog.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/changelog.txt
     type: changelog.txt
     format: txt
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_morphsplit20200610.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_morphsplit20200610.zip
     type: TalbankenSBX_morphsplit20200610.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_syntsplit20200610.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSBX_syntsplit20200610.zip
     type: TalbankenSBX_syntsplit20200610.zip
     format: zip
     info: ''

@@ -19,7 +19,7 @@ size:
   sentences: 157692
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1960-1999.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1960-1999.txt
     type: token frequencies
     format: CSV
     info: ''

@@ -16,7 +16,7 @@ size:
   entries: 29621
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/parolelexplus/parolelexplus.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/parolelexplus/parolelexplus.xml
     type: lexicon
     format: LMF
     info: ''
@@ -39,7 +39,7 @@ description:
     </p>
 
     <p>
-    Dokumentet i LMF-format uppdateras kontinuerligt. De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mappningsdokumentet</a> för mer information.
+    Dokumentet i LMF-format uppdateras kontinuerligt. De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mappningsdokumentet</a> för mer information.
     </p>
   eng: |-
     <p>
@@ -47,7 +47,7 @@ description:
     </p>
 
     <p>
-    The document in LMF format is subjected to uppdates. The syntactic codes have been changed to make the data more comprehensible. See the <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mapping document</a> for more information.
+    The document in LMF format is subjected to uppdates. The syntactic codes have been changed to make the data more comprehensible. See the <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mapping document</a> for more information.
     </p>
 annotation:
   swe: ''

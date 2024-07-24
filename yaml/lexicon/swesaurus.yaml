@@ -14,7 +14,7 @@ size:
   entries: 15010
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/swesaurus/swesaurus.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/swesaurus/swesaurus.xml
     type: lexicon
     format: LMF
     info: ''
@@ -64,25 +64,25 @@ description:
 
     <ul>
      <li> luddiga synonymmängder, utan begränsning:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_100.html">100 %</a>
      </li>
      <li> luddiga synonymmängder, ordklassbegränsade:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_100.html">100 %</a>
      </li>
      <li> luddiga synonymmängder, klickar:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_100.html">100 %</a>
       </li>
     </ul>
     -->
@@ -117,25 +117,25 @@ description:
 
     <ul>
      <li> fuzzy synsets, no restriction:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_100.html">100 %</a>
      </li>
      <li> fuzzy synsets, word class restriction:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_wc_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_wc_100.html">100 %</a>
      </li>
      <li> fuzzy synsets, cliques:
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_60.html">60 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_70.html">70 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_80.html">80 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_90.html">90 %</a>,
-          <a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/swesaurus_clique_100.html">100 %</a>
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_60.html">60 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_70.html">70 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_80.html">80 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_90.html">90 %</a>,
+          <a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/swesaurus_clique_100.html">100 %</a>
       </li>
     </ul>
     -->

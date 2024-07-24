@@ -16,7 +16,7 @@ size:
   sentences: 9904
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASTRA1960-1979.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASTRA1960-1979.txt
     type: token frequencies
     format: CSV
     info: ''

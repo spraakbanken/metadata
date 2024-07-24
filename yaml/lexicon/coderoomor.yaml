@@ -15,25 +15,25 @@ size:
   other: 4986
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
     type: CodeRoomor_v01_lemgramView.csv
     format: csv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv
     type: CodeRoomor_v01_morphemeView.csv
     format: csv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx
     type: CodeRoomor_v01_lemgramView.xlsx
     format: xlsx
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx
     type: CodeRoomor_v01_morphemeView.xlsx
     format: xlsx
     info: ''
@@ -67,7 +67,7 @@ description:
     \n<p>Given the ”gold” nature of the resource, it is possible to use it for empirical\
     \ studies as well as to develop linguistically-aware algorithms for morpheme segmentation\
     \ and labeling.</p>\n\n<p>For details about the list, the annotation process and\
-    \ reasoning around it, see <a target=\"_blank\" href=\"https://svn.spraakdata.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf\"\
+    \ reasoning around it, see <a target=\"_blank\" href=\"https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/2021_Nodalida_Morphology_dataset_L2P-3.pdf\"\
     >the article on CoDeRooMor</a>.</p>\n\n<p>For a short summary, see <a target=\"\
     _blank\" href=\"https://spraakbanken.gu.se/blogg/index.php/2021/04/14/swedish-derivational-morphology-with-coderoomor/\"\
     >this blog</a>.</p>\n\n<p>The dataset can be downloaded in csv or excel file format.\

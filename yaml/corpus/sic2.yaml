@@ -23,7 +23,7 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv
     type: token frequencies
     format: CSV
     info: ''
@@ -35,7 +35,7 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/sic2/readme.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sic2/readme.txt
     type: readme
     format: txt
     info: ''

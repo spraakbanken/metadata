@@ -28,13 +28,13 @@ downloads:
     info: this file contains a scrambled version of the Dutch part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt
     type: token frequencies
     format: CSV
     info: this file contains corpus statistics for the Swedish part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt
     type: token frequencies
     format: CSV
     info: this file contains corpus statistics for the Dutch part of the corpus

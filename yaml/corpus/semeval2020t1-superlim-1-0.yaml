@@ -16,7 +16,7 @@ language_codes:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv
     type: semeval2020t1_documentation_sheet.tsv
     format: tsv
     info: ''

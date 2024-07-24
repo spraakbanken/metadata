@@ -17,43 +17,43 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv
     type: absabank-imm_documentation_sheet.tsv
     format: tsv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv
     type: D_annotation.tsv
     format: tsv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv
     type: P_annotation.tsv
     format: tsv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip
     type: datasplit.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/documents.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/documents.zip
     type: documents.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf
     type: annoteringsinstruktioner.pdf
     format: pdf
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb
     type: imm_absabank.rb
     format: rb
     info: ''
@@ -334,14 +334,14 @@ description:
     <tr>
     <td>References</td>
     <td>[1] Jacobo Rouces, Lars Borin, Nina Tahmasebi (2020): Creating an Annotated Corpus for Aspect-Based Sentiment Analysis in Swedish, in Proceedings of the 5th conference in Digital Humanities in the Nordic Countries, Riga, Latvia, October 21-23, 2020. http://ceur-ws.org/Vol-2612/short18.pdf
-    <br> [2] Kulturomikprojektet (Lars Borin, Jacobo Rouces, Nina Tahmasebi, Stian Rødven Eide). Instruktioner för attityduppmärkning av svensk text med WebAnno. Språkbanken, Inst. för svenska språket, Göteborgs universitet. https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf [In Swedish]
+    <br> [2] Kulturomikprojektet (Lars Borin, Jacobo Rouces, Nina Tahmasebi, Stian Rødven Eide). Instruktioner för attityduppmärkning av svensk text med WebAnno. Språkbanken, Inst. för svenska språket, Göteborgs universitet. https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf [In Swedish]
     </td>
     </tr>
     </table>
 
 
     <!--
-    <p>Absabank-Imm (where ABSA stands for "Aspect-Based Sentiment Analysis" and Imm for "Immigration") is a subset of the Swedish <a href="https://spraakbanken.gu.se/en/resources/swe-absa-bank">ABSAbank</a>, created to be a part of the <a href="https://spraakbanken.gu.se/en/resources/swedishglue">SuperLim</a> collection. In Absabank-Imm, texts and paragraphs are labelled according to the sentiment (on 1--5 scale) that the author expresses towards immigration in Sweden (this task is known as aspect-based sentiment analysis or stance analysis). To create Absabank-Imm, the original Absabank has been substantially reformatted, but no changes to the annotation were made. See <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/readme.txt">readme.txt</a> for detailed information.</p>
+    <p>Absabank-Imm (where ABSA stands for "Aspect-Based Sentiment Analysis" and Imm for "Immigration") is a subset of the Swedish <a href="https://spraakbanken.gu.se/en/resources/swe-absa-bank">ABSAbank</a>, created to be a part of the <a href="https://spraakbanken.gu.se/en/resources/swedishglue">SuperLim</a> collection. In Absabank-Imm, texts and paragraphs are labelled according to the sentiment (on 1--5 scale) that the author expresses towards immigration in Sweden (this task is known as aspect-based sentiment analysis or stance analysis). To create Absabank-Imm, the original Absabank has been substantially reformatted, but no changes to the annotation were made. See <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/readme.txt">readme.txt</a> for detailed information.</p>
     <p>Contact person: <a href="https://spraakbanken.gu.se/en/about/staff/sasha">Sasha Berdicevskis</a></p>
     -->
 updated: 2021-05-23

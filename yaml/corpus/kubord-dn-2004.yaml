@@ -16,7 +16,7 @@ size:
 in_collections:
   - kubord
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2004.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2004.csv
     type: token frequencies
     format: CSV
     info: ''

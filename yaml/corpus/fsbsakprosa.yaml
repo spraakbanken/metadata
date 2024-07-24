@@ -19,7 +19,7 @@ size:
   sentences: 96238
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSAKPROSA.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBSAKPROSA.txt
     type: token frequencies
     format: CSV
     info: ''

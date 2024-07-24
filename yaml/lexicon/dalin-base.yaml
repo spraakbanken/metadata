@@ -14,7 +14,7 @@ size:
   entries: 62327
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalin-base/dalin-base.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/dalin-base/dalin-base.xml
     type: lexicon
     format: LMF
     info: ''

@@ -15,7 +15,7 @@ size:
   entries: 1411
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/skbl/skbl.json
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/skbl/skbl.json
     type: lexicon
     format: json
     info: ''

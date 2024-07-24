@@ -16,13 +16,13 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt
     type: sv-analogi.txt
     format: txt
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv
     type: analogy_documentation_sheet.tsv
     format: tsv
     info: ''

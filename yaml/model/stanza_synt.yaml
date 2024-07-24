@@ -12,19 +12,19 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/synt_stanza_eval.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/synt_stanza_eval.zip
     type: synt_stanza_eval.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/synt_stanza_full2.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/synt_stanza_full2.zip
     type: synt_stanza_full2.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip
     type: stanza_pretrain.zip
     format: zip
     info: ''

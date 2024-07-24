@@ -14,7 +14,7 @@ size:
   entries: 62975
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/dalin/dalin.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/dalin/dalin.xml
     type: lexicon
     format: LMF
     info: ''
@@ -37,8 +37,8 @@ description:
     </p>
     <!--
     <ul>
-    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Arbetsmaterial</a></li>
-    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Arbetsmaterial: supplementet</a></li>
+    <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Arbetsmaterial</a></li>
+    <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Arbetsmaterial: supplementet</a></li>
     <li>Morfologins utvecklingsversion: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">nedladdning</a></li>
     <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistik</a></li>
     </ul>
@@ -49,8 +49,8 @@ description:
     </p>
     <!--
     <ul>
-    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Working material</a></li>
-    <li><a href="https://svn.spraakdata.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Working material: the supplement</a></li>
+    <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Working material</a></li>
+    <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Working material: the supplement</a></li>
     <li>Development version of the morphology: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">download</a></li>
     <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistics</a></li>
     </ul>

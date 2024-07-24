@@ -15,7 +15,7 @@ size:
   entries: 715
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml
     type: lexicon
     format: LMF
     info: ''

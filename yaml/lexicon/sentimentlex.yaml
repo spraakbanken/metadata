@@ -14,13 +14,13 @@ size:
   entries: 2067
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml
     type: lexicon
     format: LMF
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv
     type: lexicon
     format: LMF
     info: ''
@@ -37,11 +37,11 @@ description:
   swe: |-
     <p>Vänligen använd följande artikel som referens för lexikonet:<br/>
 
-    Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex">Building a Sentiment Lexicon for Swedish</a> <a href="http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf"><img src="https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png" /></a></p>
+    Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex">Building a Sentiment Lexicon for Swedish</a> <a href="http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf"><img src="https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png" /></a></p>
   eng: |-
     <p>Please reference the lexicon using the following reference:<br/>
 
-    Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href="http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf">Building a Sentiment Lexicon for Swedish</a> <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex"><img src="https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png" /></a>
+    Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. <a href="http://www.ep.liu.se/ecp/126/006/ecp16126006.pdf">Building a Sentiment Lexicon for Swedish</a> <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.bibtex"><img src="https://spraakbanken.gu.se/modules/custom/sb_publications/assets/bibtex.png" /></a>
 annotation:
   swe: ''
   eng: ''

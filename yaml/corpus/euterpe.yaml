@@ -17,7 +17,7 @@ size:
   sentences: 5142
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_EUTERPE.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_EUTERPE.txt
     type: token frequencies
     format: CSV
     info: ''

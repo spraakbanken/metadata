@@ -19,7 +19,7 @@ size:
   sentences: 637696
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_HBL1998.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_HBL1998.txt
     type: token frequencies
     format: CSV
     info: ''

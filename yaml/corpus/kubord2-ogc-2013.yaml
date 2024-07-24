@@ -16,7 +16,7 @@ size:
 in_collections:
   - kubord2
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-ogc-2013.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-ogc-2013.csv
     type: token frequencies
     format: CSV
     info: ''

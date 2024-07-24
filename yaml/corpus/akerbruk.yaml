@@ -23,7 +23,7 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_AKERBRUK.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_AKERBRUK.txt
     type: token frequencies
     format: CSV
     info: ''

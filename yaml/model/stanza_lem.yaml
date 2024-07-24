@@ -12,7 +12,7 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip
     type: lem_stanza.zip
     format: zip
     info: ''

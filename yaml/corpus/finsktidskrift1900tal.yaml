@@ -17,7 +17,7 @@ size:
   sentences: 7759
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FINSKTIDSKRIFT1900TAL.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FINSKTIDSKRIFT1900TAL.txt
     type: token frequencies
     format: CSV
     info: ''

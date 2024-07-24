@@ -15,7 +15,7 @@ size:
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swesat/1.1/swesat-synonyms.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swesat/1.1/swesat-synonyms.zip
     type: lexicon
     format: zip
     info: an archive with the dataset in JSONL format and the documentation sheet

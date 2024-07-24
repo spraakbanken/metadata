@@ -38,7 +38,7 @@ description:
        Materialet har tagits fram under projektet <a href="https://spraakbanken.gu.se/projekt/ocr-cloud" target="_blank">En fri molntjänst för OCR</a> för att förbättra OCR-tolkningen av tryckta fraktur texter.
     </p>
     <p>
-    Antalet digitaliserade sidor är 199 och de transkriberade texterna innehåller 47924 ord totalt. Listan över titlarna, libris-id:s och publiceringslänkar finns tillgängligt <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">här</a>.
+    Antalet digitaliserade sidor är 199 och de transkriberade texterna innehåller 47924 ord totalt. Listan över titlarna, libris-id:s och publiceringslänkar finns tillgängligt <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">här</a>.
     </p>
   eng: |-
     <p>
@@ -48,7 +48,7 @@ description:
     The material was produced as a part of the project <a href="https://spraakbanken.gu.se/en/projects/ocr-cloud" target="_blank">A free cloud service for OCR</a> with the aim to improve the OCR interpretation of printed fraktur texts.
     </p>
     <p>
-    The number of digitized pages is 199 and the transcribed texts contain 47924 words in total. The list of titles, libris-ids and publishing links is available <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">here</a>.
+    The number of digitized pages is 199 and the transcribed texts contain 47924 words in total. The list of titles, libris-ids and publishing links is available <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/fraktur/fraktur_lankar_ID_GUB.xlsx">here</a>.
     </p>
 annotation:
   swe: ''

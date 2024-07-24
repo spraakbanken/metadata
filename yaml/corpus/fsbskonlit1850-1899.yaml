@@ -16,7 +16,7 @@ size:
   sentences: 50596
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1850-1899.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1850-1899.txt
     type: token frequencies
     format: CSV
     info: ''

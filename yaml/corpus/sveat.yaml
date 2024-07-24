@@ -15,13 +15,13 @@ size:
   sentences: 0
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/trec/swe_qaqc_train.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/trec/swe_qaqc_train.csv
     type: corpus
     format: CSV 
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/trec/Swedish_EAT_v1.0.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/trec/Swedish_EAT_v1.0.tsv
     type: corpus
     format: TSV
     info: ''

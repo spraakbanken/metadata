@@ -13,13 +13,13 @@ language_codes:
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip
     type: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-tsv.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-tsv.zip
     type: an archive with the dataset in TSV format and the documentation sheet.
     format: zip
     info: NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.

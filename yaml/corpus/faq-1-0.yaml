@@ -18,13 +18,13 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv
     type: faq_mismatched.tsv
     format: tsv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv
     type: faq_documentation_sheet.tsv
     format: tsv
     info: ''

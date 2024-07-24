@@ -17,7 +17,7 @@ size:
   sentences: 76423
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ivip.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ivip.csv
     type: token frequencies
     format: CSV
     info: ''

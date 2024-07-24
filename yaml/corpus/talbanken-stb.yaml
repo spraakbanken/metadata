@@ -15,31 +15,31 @@ size:
   sentences: 6160
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip
     type: TalbankenSTB.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt
     type: TalbankenSTB_README.txt
     format: txt
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip
     type: TalbankenSTB_documentation.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip
     type: TalbankenSTB_datasplit.zip
     format: zip
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip
     type: TalbankenSTB_original_parts.zip
     format: zip
     info: ''

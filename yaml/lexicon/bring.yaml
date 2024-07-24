@@ -14,7 +14,7 @@ size:
   entries: 148815
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt
     type: lexicon
     format: txt
     info: ''
@@ -35,9 +35,9 @@ description:
     <hr/>
     <table>
     <tr>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
     <p style="text-align: center; font-size: 115%">1902</p></td>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
     <p style="text-align: center; font-size: 115%">1930</p></td>
     </tr>
     </table>
@@ -103,9 +103,9 @@ description:
     <hr/>
     <table>
     <tr>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
     <p style="text-align: center; font-size: 115%">1902</p></td>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
     <p style="text-align: center; font-size: 115%">1930</p></td>
     </td>
     </tr>

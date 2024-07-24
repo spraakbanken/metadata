@@ -3,9 +3,9 @@ name:
   eng: The Swedish Culturomics Gigaword Corpus
 short_description:
   swe: En miljard ord ur svenska korpusar från 1950 och framåt. Kod för att extrahera
-    data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/
+    data från korpusen, samt användningsinstruktioner, kan laddas ner från https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/
   eng: One billion Swedish words from 1950 and onwards. Code to extract data from
-    the corpus, as well as usage instructions, can be downloaded from https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/
+    the corpus, as well as usage instructions, can be downloaded from https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/
 type: corpus
 trainingdata: false
 unlisted: false
@@ -79,7 +79,7 @@ description:
 
     <p>Kod för att extrahera data från korpusen, samt
      användningsinstruktioner, kan laddas ner från
-     <a href="https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>
+     <a href="https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/</a></p>
 
     <table>
         <tr>
@@ -375,7 +375,7 @@ description:
     <a href="http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf"><img src="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png" /></a></p>
 
     <p>Code to extract data from the corpus, as well as usage instructions,
-     can be downloaded from <a href="https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakdata.gu.se/sb-arkiv/tools/gigaword/</a></p>
+     can be downloaded from <a href="https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/</a></p>
 
     <table>
         <tr>

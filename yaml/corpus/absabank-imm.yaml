@@ -14,7 +14,7 @@ language_codes:
 in_collections:
   - superlim
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/1.1/absabank-imm.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/1.1/absabank-imm.zip
     type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
     info: ''
@@ -303,7 +303,7 @@ description:
     </tr>
     <tr>
     <td></td>
-    <td>[2] Kulturomikprojektet (Lars Borin, Jacobo Rouces, Nina Tahmasebi, Stian Rødven Eide). Instruktioner för attityduppmärkning av svensk text med WebAnno. Språkbanken, Inst. för svenska språket, Göteborgs universitet. https://svn.spraakdata.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf [In Swedish]
+    <td>[2] Kulturomikprojektet (Lars Borin, Jacobo Rouces, Nina Tahmasebi, Stian Rødven Eide). Instruktioner för attityduppmärkning av svensk text med WebAnno. Språkbanken, Inst. för svenska språket, Göteborgs universitet. https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf [In Swedish]
     </td>
     </tr>
     </table>

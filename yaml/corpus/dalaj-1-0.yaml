@@ -20,13 +20,13 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
     type: datasetDaLAJsplit.csv
     format: csv
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv
     type: dalaj_documentation.tsv
     format: tsv
     info: ''

@@ -17,7 +17,7 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
     type: swediagnostics-v1.0.csv
     format: csv
     info: ''

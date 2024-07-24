@@ -21,7 +21,7 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_PSALMBOKEN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PSALMBOKEN.txt
     type: token frequencies
     format: CSV
     info: ''

@@ -18,7 +18,7 @@ size:
   tokens: 32950
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_OSTERBOTTENSTIDNING2011.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_OSTERBOTTENSTIDNING2011.txt
     type: token frequencies
     format: CSV
     info: ''

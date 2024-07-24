@@ -15,7 +15,7 @@ size:
   sentences: 1788
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_SIBERIANGERMANWOMEN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SIBERIANGERMANWOMEN.txt
     type: token frequencies
     format: CSV
     info: ''

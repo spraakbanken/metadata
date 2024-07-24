@@ -16,7 +16,7 @@ size:
   sentences: 2209
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ALAND.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ALAND.txt
     type: token frequencies
     format: CSV
     info: ''

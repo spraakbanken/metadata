@@ -15,13 +15,13 @@ size:
   entries: 126910
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt
     type: lexicon
     format: txt
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/lmf/blingbring/blingbring.xml
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/blingbring/blingbring.xml
     type: lexicon
     format: LMF
     info: ''
@@ -44,9 +44,9 @@ description:
     <hr/>
     <table>
     <tr>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
     <p style="text-align: center; font-size: 115%">1902</p></td>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
     <p style="text-align: center; font-size: 115%">1930</p></td>
     </tr>
     </table>
@@ -99,9 +99,9 @@ description:
     <hr/>
     <table>
     <tr>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-1902.png" alt="Sven Casper Bring 1902" width="200"/>
     <p style="text-align: center; font-size: 115%">1902</p></td>
-    <td><img src="https://svn.spraakdata.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
+    <td><img src="https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring-framsida.png" alt="Brings tesaurus" width="200"/>
     <p style="text-align: center; font-size: 115%">1930</p></td>
     </td>
     </tr>

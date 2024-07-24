@@ -16,7 +16,7 @@ size:
   sentences: 129558
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_VASTRANYLAND.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_VASTRANYLAND.txt
     type: token frequencies
     format: CSV
     info: ''

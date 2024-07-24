@@ -28,13 +28,13 @@ downloads:
     info: this file contains a scrambled version of the English part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt
     type: token frequencies
     format: CSV
     info: this file contains statistics on the Swedish part of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt
     type: token frequencies
     format: CSV
     info: this file contains statistics on the English part of the corpus

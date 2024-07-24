@@ -14,7 +14,7 @@ size:
   entries: 13803
 in_collections: []
 downloads:
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/aventinus/aventinus.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/aventinus/aventinus.zip
     type: lexicon
     format: tsv
     info: ''
