@@ -1,0 +1,42 @@
+name:
+  swe: Poeter.se
+  eng: Poeter.se
+short_description:
+  swe: Poesi från Poeter.se
+  eng: Poetry from Poeter.se
+type: corpus
+language_codes:
+  - swe
+size:
+  tokens: 106196502
+  sentences: 9065518
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/poeter.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/poeter.txt
+    type: token frequencies
+    format: CSV
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/#?corpus=poeter
+    licence: CC BY 4.0
+    restriction: attribution
+updated: 2019-10-16
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Poesi från webbsidan <a target="_blank" href="http://www.poeter.se">Poeter.se</a>.
+  eng: |-
+    Poetry from the website <a target="_blank" href="http://www.poeter.se">Poeter.se</a>.
