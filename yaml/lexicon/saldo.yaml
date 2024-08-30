@@ -22,7 +22,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=saldo&resources=saldo
+  - access: https://spraakbanken.gu.se/karp-v6/#?mode=saldo&resources=saldo
     licence: CC BY 4.0
     restriction: attribution
 creators:

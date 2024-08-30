@@ -21,7 +21,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/konstruktikon
+  - access: https://spraakbanken.gu.se/karp/?mode=konstruktikon
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
@@ -33,11 +33,11 @@ contact_info:
 description:
   swe: |-
     <p>Svenskt konstruktikon är en fritt tillgänglig konstruktionsdatabas, dvs. en samling beskrivningar av svenska konstruktionsmönster. Vi vill särskilt täcka in konstruktioner som är problematiska ur inlärarsynpunkt och har ambitionen att utveckla metoder för automatisk igenkänning av konstruktioner. Databasen är under utveckling och omfattar endast en delmängd av svenska språkets konstruktioner, men bör redan nu vara en användbar resurs för språkvetenskap, språkutbildning och språkteknologi.</p>
-    <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Sök i Konstruktikonet</a></p>
+    <p><a href="https://spraakbanken.gu.se/karp/?mode=konstruktikon" target="_blank">Sök i Konstruktikonet</a></p>
     <p>Mer information finns på <a href="https://spraakbanken.gu.se/projekt/svenskt-konstruktikon">projektets paraplysida</a>.</p>
   eng: |-
     <p>Swedish Constructicon is a freely available database of constructions, i.e., a collection of descriptions of Swedish construction patterns. We particularly aim to cover constructions that are problematic from the point of view of second language learning, and we have the ambition to develop methods for automatic identification of constructions. The database is under development and includes only a subset of the constructions of the Swedish language, but should already be a useful resource for linguistics, language education and language technology.</p>
-    <p><a href="https://spraakbanken.gu.se/konstruktikon" target="_blank">Search the constructicon (in Swedish)</a></p>
+    <p><a href="https://spraakbanken.gu.se/karp/?mode=konstruktikon" target="_blank">Search the constructicon (in Swedish)</a></p>
     <p>More information is available from <a href="https://spraakbanken.gu.se/en/projects/svenskt-konstruktikon">the project page</a>.</p>
 annotation:
   swe: ''

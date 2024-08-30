@@ -32,7 +32,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=swefn
+  - access: https://spraakbanken.gu.se/karp/?mode=swefn
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

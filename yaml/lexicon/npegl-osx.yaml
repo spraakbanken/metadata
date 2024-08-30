@@ -20,7 +20,7 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
     licence: CC BY 4.0
     restriction: attribution sharealike
 interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - access: 'https://spraakbanken.gu.se/karp/tng/?mode=npegl_old_saxon'  # A link to the resource in an interface (e.g in Korp or Karp)
+  - access: 'https://spraakbanken.gu.se/karp/?mode=npegl_old_saxon'  # A link to the resource in an interface (e.g in Korp or Karp)
     licence: CC BY-SA 4.0
     restriction: attribution sharealike
   - access: 'https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-sax'  # A link to the resource in an interface (e.g in Korp or Karp)

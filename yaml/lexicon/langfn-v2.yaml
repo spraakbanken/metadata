@@ -15,7 +15,7 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=langfn&resources=langfn-v2
+  - access: https://spraakbanken.gu.se/karp-v6/#?mode=langfn&resources=langfn-v2
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

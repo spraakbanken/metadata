@@ -15,7 +15,7 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/karp/#?mode=term-swefin&resources=term-swefin
+  - access: https://spraakbanken.gu.se/karp-v6/#?mode=term-swefin&resources=term-swefin
     licence: CC BY 4.0
     restriction: attribution
 contact_info:

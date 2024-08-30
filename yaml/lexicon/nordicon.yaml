@@ -16,7 +16,7 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/karp/tng/?mode=nordicon&lexicon=nordicon
+  - access: https://spraakbanken.gu.se/karp/?mode=nordicon
     licence: CC BY 4.0
     restriction: attribution
 contact_info:
