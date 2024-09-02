@@ -2,7 +2,7 @@ name:
   swe: SweLL-gold
   eng: SweLL-gold
 short_description:
-  swe: Uppsatser svrivna av vuxenstuderande i svenska, manuellt pseudonymiserade och
+  swe: Uppsatser skrivna av vuxenstuderande i svenska, manuellt pseudonymiserade och
     annoterade med felkategorier. Korpusen innehåller både originaltexten och en normaliserad
     version av varje uppsats. Insamlingperiod 2017-2020.
   eng: Essays written by adult learners of Swedish, manually pseudonymized and correction
