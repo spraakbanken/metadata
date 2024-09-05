@@ -18,7 +18,7 @@ downloads:
     info: this file contains a scrambled version of the corpus
     licence: CC BY 4.0
     restriction: attribution
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/poeter.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_POETER.txt
     type: token frequencies
     format: CSV
     info: ''

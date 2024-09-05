@@ -18,12 +18,6 @@ size:
   sentences: 25930
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill-lt.xml.bz2
-    type: corpus
-    format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-LT.txt
     type: token frequencies
     format: CSV
