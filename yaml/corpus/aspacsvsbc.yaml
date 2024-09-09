@@ -11,7 +11,7 @@ successors: []
 language_codes:
   - swe
 languages:
-  - code: sbc
+  - code: srp
     name:
       eng: Serbian (cyrillic)
       swe: serbiska (kyrilliskt)
