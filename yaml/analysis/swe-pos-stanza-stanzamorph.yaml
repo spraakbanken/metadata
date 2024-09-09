@@ -1,0 +1,59 @@
+name:
+  swe: 'Ordklasses uppmärkta med Stanza'
+  eng: 'Parts of speech annotated with Stanza'
+short_description:
+  swe: 'Morfosyntaktisk annotering med Stanza för svenska'
+  eng: 'Swedish morphosyntactic annotation by Stanza'
+type: analysis
+unlisted: false
+successors: []
+language_codes:
+  - swe
+in_collections:
+  - pos
+downloads:
+  - url: ''
+    type: corpus
+    format: XML
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: ''
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+keywords: []
+example: ''
+caveats: 
+  swe: ''
+  eng: ''
+standard_reference: ''
+other_references:
+  - "Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020"
+  - "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. In Association for Computational Linguistics (ACL) System Demonstrations. 2020"
+  - "SUC3: https://spraakbanken.gu.se/en/resources/suc3"
+  - "TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken"
+  - "SIC2: https://spraakbanken.gu.se/en/resources/sic2"
+trained_on: "[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken), [SIC2](https://spraakbanken.gu.se/resurser/sic2)"
+evaluation_results: |-
+  For a model trained on SUC3 and validated on a part of TalbankenSBX_dev the results are as follows:  
+  tested on Talbanken SBX_test: exact match = 0.97; POS = 0.98; msd = 0.99  
+  tested on SIC2: exact match = 0.92; POS = 0.93; msd = 0.96  
+  More info: https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  eng: |-
+    In 2020, the Stanza tool was trained and tested on a set of gold-standard
+    Swedish corpora (following SUC3-style annotation) in order to create a
+    high-quality analysis. Currently (in 2024), this is the default analysis
+    for Swedish in Sparv
+created: 2024-09-09
+updated: 2024-09-09
