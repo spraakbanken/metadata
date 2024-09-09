@@ -38,7 +38,7 @@ keywords: [knowledge graph, political science, swedish parliament, metadata]
 caveats:
   swe: 'För närvarande begränsat till perioden 1990-2018'
   eng: 'Currently limited to the period 1990-2018'
-references:
+other_references:
   - Rødven-Eide, 2023, ACL, https://doi.org/10.18653/v1/W19-4506
 intended_uses:
   swe: 'För språkteknologisk och statsvetenskaplig analys av riksdagens ledamöter'

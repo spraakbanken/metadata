@@ -46,7 +46,7 @@ keywords: []
 caveats:
   swe: 'OCR-inläsningen är delvis korrekturläst.'
   eng: ''
-references:
+other_references:
   - '{publication 270108}'
 intended_uses:
   swe: ''

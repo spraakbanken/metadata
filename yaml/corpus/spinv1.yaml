@@ -20,7 +20,7 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?cqp=%5B%5D&corpus=spinv1
     licence: CC BY 4.0
     restriction: attribution
-references: []
+other_references: []
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se

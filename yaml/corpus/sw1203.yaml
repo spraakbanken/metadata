@@ -25,7 +25,7 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=sw1203
     licence: CC BY 4.0
     restriction: attribution
-references:
+other_references:
   - '{publication 248141}'
 contact_info:
   name: Enström Ingegerd

@@ -12,8 +12,9 @@ successors: []
 language_codes: []
 languages:
   - code: sv-FI
-    name_en: Finland Swedish
-    name_sv: finlandssvenska
+    name:
+      eng: Finland Swedish
+      swe: finlandssvenska
 size:
   tokens: 380571
 in_collections: []

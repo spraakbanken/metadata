@@ -37,7 +37,7 @@ keywords: []
 caveats:
   swe: 'Texternas kvalitet är mycket varierande, bl.a. beroende på ojämnt tryck och fläckar på de fotokopierade förlagorna. Många tidningsnummer inleds med märkliga haranger av tecken då OCR-läsningen försökt tolka vinjetter och dekorationer kring tidningsnamnen som bokstäver. Den digitala texten blir emellertid genast läsligare så fort den nått den del av förstasidan där artiklarna börjar.'
   eng: 'Text quality is highly variable, due in part to uneven printing and stains on the OCRed originals. Many issues open with strange character sequences resulting from the OCR attempting to interpret title ornaments as text. The digital text gets readable as soon as it reaches the part of the page where the articles start.'
-references:
+other_references:
   - '{publication 270108}'
 intended_uses:
   swe: ''

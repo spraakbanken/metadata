@@ -59,7 +59,7 @@ caveats:
     of time. Although several language backgrounds are represented, the corpus is
     very unbalanced in this sense and as a consequence not well suited for native
     language identification tasks.
-references:
+other_references:
   - '[1] {publication 285609} (paper describing the corpus)'
   - '[2] {publication 311732} (correction annotation guidelines)'
   - '[3] https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL (readme)'

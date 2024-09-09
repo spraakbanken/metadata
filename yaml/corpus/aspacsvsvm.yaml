@@ -12,8 +12,9 @@ language_codes:
   - swe
 languages:
   - code: svm
-    name_en: Slavomolisano
-    name_sv: moliseslaviska
+    name:
+      eng: Slavomolisano
+      swe: moliseslaviska
 size:
   tokens: 35279
   sentences: 3384

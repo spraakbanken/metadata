@@ -34,7 +34,7 @@ keywords: []
 caveats: 
   swe: ''
   eng: see description
-references:
+other_references:
   - 'Daniel Holmer and Evelina Rennes. 2022. NyLLex: A Novel Resource of Swedish Words Annotated with Reading Proficiency Level. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 1326–1331, Marseille, France. European Language Resources Association. https://aclanthology.org/2022.lrec-1.141.pdf'
 description:
   eng: |-

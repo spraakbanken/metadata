@@ -12,8 +12,9 @@ language_codes:
   - swe
 languages:
   - code: ell
-    name_en: Modern Greek (1453-)
-    name_sv: modern grekiska (1453-)
+    name:
+      eng: Modern Greek (1453-)
+      swe: modern grekiska (1453-)
 size:
   tokens: 303518
   sentences: 20054
