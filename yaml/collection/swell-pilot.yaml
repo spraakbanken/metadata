@@ -50,7 +50,7 @@ caveats:
     colleciton periods. While the three subcorpora can be used simultaneously, care
     should be taken into account to ensure that artifacts from these differences do
     not leak into models.
-references:
+other_references:
   - '[README]: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
   - '[HOW TO CITE 1]: {publication 248141}'
   - '[HOW TO CITE 2]: {publication 285624}'

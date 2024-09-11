@@ -85,7 +85,7 @@ caveats:
     mostly correct when it comes to the sense-attribute, but in the sense_ann-attribute
     (see Documentation/annotation.txt), these are likely to be wrong, due to retokenization
     after the sense annotation phase.'
-references:
+other_references:
   - '{publication 217815}'
 intended_uses:
   swe: ''

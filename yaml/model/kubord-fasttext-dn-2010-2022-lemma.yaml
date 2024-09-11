@@ -40,6 +40,6 @@ description:
     <a href="https://radimrehurek.com/gensim/">Gensim</a>, with the following parameter settings:
     min_n 4, max_n 7, 20 epoker, dim 300, and lr .05.
 keywords: []
-references: []
+other_references: []
 updated: 2024-06-11
 doi: 10.23695/zmn6-zb84

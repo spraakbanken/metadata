@@ -41,7 +41,7 @@ contact_info:
 caveats:
   swe: 'OCR-inläsningen är inte korrekturläst.'
   eng: 'OCR not proofread.'
-references:
+other_references:
   - '{publication 270108}'
 updated: 2015-04-01
 doi: 10.23695/3cze-c191

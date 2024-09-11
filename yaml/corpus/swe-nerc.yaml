@@ -33,7 +33,7 @@ keywords: [training,evaluation] # List of keywords (in English) that may be used
 caveats: 
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
-references: [] # List of references or links to publications describing the resource
+other_references: [] # List of references or links to publications describing the resource
 intended_uses:
   swe: '' # The intended uses for this resource (in Swedish)
   eng: '' # The intended uses for this resource (in English)

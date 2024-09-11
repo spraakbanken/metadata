@@ -28,7 +28,7 @@ downloads:
     licence: CC BY 4.0
     restriction: attribution
 interface: []
-references:
+other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/pdf/857.pdf
 contact_info:
   name: Lars Borin
@@ -126,6 +126,6 @@ keywords:
 caveats:
   swe: ''
   eng: ''
-references: []
+other_references: []
 updated: 2019-04-04
 doi: 10.23695/vdax-hp87

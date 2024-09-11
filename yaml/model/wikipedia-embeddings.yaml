@@ -63,7 +63,7 @@ caveats:
     including sexism, racism, antisemitism, homophobia, and other such types of unacceptable
     biases. I encourage whoever is using these models to make sure such biases are
     actually removed before using them in production settings (see eg https://aclanthology.org/N19-1061/)
-references:
+other_references:
   - 'Hengchen, Simon. (2022). Word2vec models trained on English Wikipedia [Data set].
     Zenodo. https://doi.org/10.5281/zenodo.6542975 '
 description:

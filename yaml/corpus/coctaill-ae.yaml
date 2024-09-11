@@ -27,7 +27,7 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill-ae
     licence: CC BY 4.0
     restriction: attribution
-references:
+other_references:
   - '{publication 206132}'
 contact_info:
   name: Volodina Elena

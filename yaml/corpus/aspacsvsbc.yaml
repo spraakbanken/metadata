@@ -12,8 +12,9 @@ language_codes:
   - swe
 languages:
   - code: srp
-    name_en: Serbian (cyrillic)
-    name_sv: serbiska (kyrilliskt)
+    name:
+      eng: Serbian (cyrillic)
+      swe: serbiska (kyrilliskt)
 size:
   tokens: 577094
   sentences: 37212
