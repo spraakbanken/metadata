@@ -29,8 +29,23 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 keywords: []
-example: ''
-caveats: 
+example: |-
+  In order to use this annotation in Sparv add the following add the following row to `export.annotations` in the Sparv
+  corpus config file:  
+  `- <token>:stanza.pos`
+
+  For general info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+
+  Example output:
+  ```xml
+  <token pos="PN">Det</token>
+  <token pos="AB">här</token>
+  <token pos="VB">är</token>
+  <token pos="DT">en</token>
+  <token pos="NN">korpus</token>
+  <token pos="MAD">.</token>
+  ```
+caveats:
   swe: ''
   eng: ''
 standard_reference: ''
@@ -40,7 +55,10 @@ other_references:
   - "SUC3: https://spraakbanken.gu.se/en/resources/suc3"
   - "TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken"
   - "SIC2: https://spraakbanken.gu.se/en/resources/sic2"
+tool: "Stanza"
+model: "[Stanzamorph](https://spraakbanken.gu.se/resurser/stanzamorph)"
 trained_on: "[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken), [SIC2](https://spraakbanken.gu.se/resurser/sic2)"
+tagset: "[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)"
 evaluation_results: |-
   For a model trained on SUC3 and validated on a part of TalbankenSBX_dev the results are as follows:  
   tested on Talbanken SBX_test: exact match = 0.97; POS = 0.98; msd = 0.99  
@@ -54,6 +72,6 @@ description:
     In 2020, the Stanza tool was trained and tested on a set of gold-standard
     Swedish corpora (following SUC3-style annotation) in order to create a
     high-quality analysis. Currently (in 2024), this is the default analysis
-    for Swedish in Sparv
+    for Swedish in Sparv.
 created: 2024-09-09
-updated: 2024-09-09
+updated: 2024-09-11
