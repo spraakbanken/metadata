@@ -1,0 +1,27 @@
+name:
+  swe: 'Somaliska: Qur’aan'
+  eng: 'Somali: Qur’aan'
+type: corpus
+language_codes:
+  - som
+size:
+  tokens: 141555
+  sentences: 6229
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-quraan.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-quraan
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+updated: 2019-01-30

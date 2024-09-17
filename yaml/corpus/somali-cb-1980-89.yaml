@@ -1,0 +1,27 @@
+name:
+  swe: 'Somaliska: Cilmiga Bulshada 1980-89'
+  eng: 'Somali: Cilmiga Bulshada 1980-89'
+type: corpus
+language_codes:
+  - som
+size:
+  tokens: 4951
+  sentences: 451
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-cb-1980-89.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-cb-1980-89
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+updated: 2018-03-12

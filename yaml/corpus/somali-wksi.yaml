@@ -1,0 +1,27 @@
+name:
+  swe: 'Somaliska: Warbixin Ku Saabsan Iswiidhan'
+  eng: 'Somali: Warbixin Ku Saabsan Iswiidhan'
+type: corpus
+language_codes:
+  - som
+size:
+  tokens: 59823
+  sentences: 3625
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-wksi.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-wksi
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+updated: 2017-01-30

@@ -1,0 +1,27 @@
+name:
+  swe: 'Somaliska: Saynis 2016 Somaliland'
+  eng: 'Somali: Saynis 2016 Somaliland'
+type: corpus
+language_codes:
+  - som
+size:
+  tokens: 31196
+  sentences: 2679
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-saynis-2016.xml.bz2
+    type: corpus
+    format: XML
+    info: this file contains a scrambled version of the corpus
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-saynis-2016
+    licence: CC BY 4.0
+    restriction: attribution
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+updated: 2019-10-01
