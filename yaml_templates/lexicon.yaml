@@ -39,7 +39,7 @@ keywords: [] # List of keywords (in English) that may be used for filering. Keep
 caveats: 
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
-standard_reference: '' # Standard reference or link to publication describing the resource
+standard_reference: '' # Standard reference or link to publication describing the resource. May contain HTML.
 other_references: [] # List of other references or links to publications describing the resource
 intended_uses:
   swe: '' # The intended uses for this resource (in Swedish)
