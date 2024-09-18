@@ -1,5 +1,5 @@
 name:
-  swe: 'Ordklasses uppmärkta med Stanza'
+  swe: 'Ordklasser uppmärkta med Stanza'
   eng: 'Parts of speech annotated with Stanza'
 short_description:
   swe: 'Morfosyntaktisk annotering med Stanza för svenska'
@@ -11,24 +11,16 @@ language_codes:
   - swe
 in_collections:
   - pos
-downloads:
-  - url: ''
-    type: corpus
-    format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: ''
-    licence: CC BY 4.0
-    restriction: attribution
+downloads: []
+interface: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
-keywords: []
+keywords:
+ - pos-tagging
 example: |-
   In order to use this annotation in Sparv add the following add the following row to `export.annotations` in the Sparv
   corpus config file:  
@@ -74,4 +66,4 @@ description:
     high-quality analysis. Currently (in 2024), this is the default analysis
     for Swedish in Sparv.
 created: 2024-09-09
-updated: 2024-09-11
+updated: 2024-09-18
