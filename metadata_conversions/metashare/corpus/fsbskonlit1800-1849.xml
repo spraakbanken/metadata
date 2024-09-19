@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">fsbskonlit1800-1849</resourceShortName>
     <metaShareId/>
     <identifier>fsbskonlit1800-1849</identifier>
-  <identifier>doi:10.23695/f2py-px04</identifier></identificationInfo>
+  <identifier>10.23695/f2py-px04</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1800-1849.txt</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=fsbskonlit1800-1849</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsbskonlit1800-1849.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>

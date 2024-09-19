@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">fsv-nysvenskbibel</resourceShortName>
     <metaShareId/>
     <identifier>fsv-nysvenskbibel</identifier>
-  </identificationInfo>
+  <identifier>doi:10.23695/xep7-qb64</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskbibel.xml.bz2</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskbibel</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/fsv-nysvenskbibel.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Fornsvenska Textbanken</organizationName>

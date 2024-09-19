@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">borgabladet</resourceShortName>
     <metaShareId/>
     <identifier>borgabladet</identifier>
-  </identificationInfo>
+  <identifier>doi:10.23695/8hhw-0f57</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_BORGABLADET.txt</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=borgabladet</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/borgabladet.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>

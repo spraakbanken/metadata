@@ -10,7 +10,7 @@
     <metaShareId/>
     <identifier>hdl:10794/54f7720d37c052.58826856</identifier>
     <identifier>bring</identifier>
-  <identifier>doi:10.23695/9tmb-6j98</identifier></identificationInfo>
+  <identifier>10.23695/9tmb-6j98</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,13 +18,13 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/lexicon/bring.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <personInfo>
         <surname>Borin</surname>

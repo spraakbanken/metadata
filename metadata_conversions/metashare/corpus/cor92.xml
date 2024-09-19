@@ -11,7 +11,7 @@
     <metaShareId/>
     <identifier>hdl:10794/4fc6350727c746.54708426</identifier>
     <identifier>cor92</identifier>
-  <identifier>10.23695/sc0f-v539</identifier></identificationInfo>
+  <identifier>10.23695/sc0f-v539</identifier><identifier>doi:10.23695/sc0f-v539</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -19,19 +19,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/cor92.xml.bz2</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=spanish#?corpus=cor92</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/cor92.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

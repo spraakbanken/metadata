@@ -8,7 +8,7 @@
     <resourceShortName>swell-gold</resourceShortName>
     <metaShareId/>
     <identifier>swell-gold</identifier>
-  <identifier>10.23695/2k47-y432</identifier></identificationInfo>
+  <identifier>10.23695/2k47-y432</identifier><identifier>doi:10.23695/2k47-y432</identifier></identificationInfo>
   <distributionInfo>
     <availability>notAvailableThroughMetaShare</availability>
     <licenceInfo>
@@ -16,7 +16,7 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swell-gold.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

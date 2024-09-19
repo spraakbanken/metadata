@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">kubhist-jonkopingsbladet-1850</resourceShortName>
     <metaShareId/>
     <identifier>kubhist-jonkopingsbladet-1850</identifier>
-  </identificationInfo>
+  <identifier>doi:10.23695/az55-1x41</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-jonkopingsbladet-1850.xml.bz2</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-JONKOPINGSBLADET-1850.txt</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/kubhist-jonkopingsbladet-1850.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

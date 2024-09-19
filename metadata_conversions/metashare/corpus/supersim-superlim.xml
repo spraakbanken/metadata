@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">supersim-superlim</resourceShortName>
     <metaShareId/>
     <identifier>swewinograd</identifier>
-  <identifier>10.23695/vbqg-jr16</identifier></identificationInfo>
+  <identifier>10.23695/vbqg-jr16</identifier><identifier>doi:10.23695/vbqg-jr16</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,13 +18,13 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/supersim-superlim/1.1/supersim-superlim.zip</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/supersim-superlim.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

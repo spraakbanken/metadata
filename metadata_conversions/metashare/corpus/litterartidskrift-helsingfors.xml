@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">litterartidskrift-helsingfors</resourceShortName>
     <metaShareId/>
     <identifier>litterartidskrift-helsingfors</identifier>
-  <identifier>doi:10.23695/b8bn-2n61</identifier></identificationInfo>
+  <identifier>10.23695/b8bn-2n61</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LITTERARTIDSKRIFT-HELSINGFORS.txt</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=litterartidskrift-helsingfors</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/litterartidskrift-helsingfors.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Svenska litteratursällskapet i Finland</organizationName>

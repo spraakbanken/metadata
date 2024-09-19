@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">embeddings</resourceShortName>
     <metaShareId/>
     <identifier>embeddings</identifier>
-  <identifier>10.23695/ewz4-5030</identifier></identificationInfo>
+  <identifier>10.23695/ewz4-5030</identifier><identifier>doi:10.23695/ewz4-5030</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
   <licenceInfo>
@@ -18,7 +18,7 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/model/embeddings.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     </distributionInfo>
   <contactPerson>
     <surname>Forsberg</surname>

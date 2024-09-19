@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">openedges</resourceShortName>
     <metaShareId/>
     <identifier>openedges</identifier>
-  <identifier>10.23695/fhat-dd64</identifier></identificationInfo>
+  <identifier>10.23695/fhat-dd64</identifier><identifier>doi:10.23695/fhat-dd64</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -18,19 +18,19 @@
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.01.zip</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>other</licence>
       <restrictionsOfUse>other</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.0.0.zip</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/openedges.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">sprakfragor</resourceShortName>
     <metaShareId/>
     <identifier>sprakfragor</identifier>
-  <identifier>10.23695/zxhm-k854</identifier></identificationInfo>
+  <identifier>10.23695/zxhm-k854</identifier><identifier>doi:10.23695/zxhm-k854</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -18,13 +18,13 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
       <executionLocation>https://spraakbanken.gu.se/korp/#?corpus=frageladan</executionLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sprakfragor.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Institutet för språk och folkminnen</organizationName>

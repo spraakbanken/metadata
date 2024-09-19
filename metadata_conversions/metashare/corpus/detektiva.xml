@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">detektiva</resourceShortName>
     <metaShareId/>
     <identifier>detektiva</identifier>
-  </identificationInfo>
+  <identifier>doi:10.23695/9avg-nm60</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -19,20 +19,20 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/geocoords.txt</downloadLocation>
       <attributionText>geographical coordinates for Gothenburg addresses in 1888</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/pixelcoords.txt</downloadLocation>
       <attributionText>pixel coordinates for addresses on Simon's 1888 Gothenburg map</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/detektiva.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

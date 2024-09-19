@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">svensk-fraktur-1626-1816</resourceShortName>
     <metaShareId/>
     <identifier>svensk-fraktur-1626-1816</identifier>
-  <identifier>10.23695/5sme-7437</identifier></identificationInfo>
+  <identifier>10.23695/5sme-7437</identifier><identifier>doi:10.23695/5sme-7437</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,13 +18,13 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svensk-fraktur-1626-1816.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

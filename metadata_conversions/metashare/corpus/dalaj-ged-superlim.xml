@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">dalaj-ged-superlim</resourceShortName>
     <metaShareId/>
     <identifier>dalaj-ged-superlim</identifier>
-  </identificationInfo>
+  <identifier>doi:10.23695/kxvz-tx42</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,27 +18,27 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-tsv.zip</downloadLocation>
       <attributionText>NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/liuep197-11.pdf</downloadLocation>
       <attributionText>Elena Volodina, Yousuf Ali Mohammad, Aleksandrs Berdicevskis, Gerlof Bouma, Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/dalaj-ged-superlim.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

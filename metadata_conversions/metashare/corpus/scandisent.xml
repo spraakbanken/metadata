@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">scandisent</resourceShortName>
     <metaShareId/>
     <identifier>scandisent</identifier>
-  <identifier>10.23695/kvrz-d087</identifier></identificationInfo>
+  <identifier>10.23695/kvrz-d087</identifier><identifier>doi:10.23695/kvrz-d087</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -19,20 +19,20 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/ScandiSent.zip</downloadLocation>
       <attributionText>raw data for each language</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/ScandiSent-mt.zip</downloadLocation>
       <attributionText>raw data from ScandiSent machine translated to English</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/scandisent.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

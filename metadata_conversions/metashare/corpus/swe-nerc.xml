@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">swe-nerc</resourceShortName>
     <metaShareId/>
     <identifier>swe-nerc</identifier>
-  <identifier>10.23695/322q-rd36</identifier></identificationInfo>
+  <identifier>10.23695/322q-rd36</identifier><identifier>doi:10.23695/322q-rd36</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -19,13 +19,13 @@
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://repo.spraakbanken.gu.se/xmlui/bitstream/handle/10794/121/Swe-NERC-v1.0.tar.gz</downloadLocation>
       <attributionText>this file contains a collection of .tsv and .ods files including annotation guidelines</attributionText>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/swe-nerc.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

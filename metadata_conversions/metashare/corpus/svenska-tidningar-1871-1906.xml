@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">svenska-tidningar-1871-1906</resourceShortName>
     <metaShareId/>
     <identifier>svenska-tidningar-1871-1906</identifier>
-  <identifier>10.23695/6kg4-8h62</identifier></identificationInfo>
+  <identifier>10.23695/6kg4-8h62</identifier><identifier>doi:10.23695/6kg4-8h62</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,13 +18,13 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/svenska-tidningar-1871-1906.tar.gz</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/svenska-tidningar-1871-1906.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Göteborgs universitet</organizationName>

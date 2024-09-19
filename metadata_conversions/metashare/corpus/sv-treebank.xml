@@ -11,7 +11,7 @@
     <metaShareId/>
     <identifier>hdl:10794/4fc6350aa703a4.25410361</identifier>
     <identifier>sv-treebank</identifier>
-  <identifier>10.23695/51hr-ea34</identifier></identificationInfo>
+  <identifier>10.23695/51hr-ea34</identifier><identifier>doi:10.23695/51hr-ea34</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-restrictedUse</availability>
     <licenceInfo>
@@ -19,7 +19,7 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/metadata/corpus/sv-treebank.xml</downloadLocation>
-    </licenceInfo>
+      </licenceInfo>
     <iprHolder>
       <organizationInfo>
         <organizationName lang="swe">Stockholms universitet</organizationName>
