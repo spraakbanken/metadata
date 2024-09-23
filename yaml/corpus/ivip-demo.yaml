@@ -56,10 +56,12 @@ description:
   swe: |
     Detta är en öppen delmängd av IVIP-korusen.
     Videoinspelningarna och transkriptionerna för den här datamängden kan laddas ner
-    <a href="https://github.com/spraakbanken/ivip-preprocess">här</a>.
+    <a href="https://github.com/spraakbanken/ivip-preprocess">här</a>. 
+    Innehåller data om talspråk.
   eng: |
     This is an open sub set of the IVIP corpus.
     The video recordings and transcriptions for this data set can be downloaded
-    <a href="https://github.com/spraakbanken/ivip-preprocess">here</a>.
+    <a href="https://github.com/spraakbanken/ivip-preprocess">here</a>. 
+    Contains information about spoken language.
 updated: 2019-08-12
 doi: 10.23695/cyyj-5t07
