@@ -30,7 +30,7 @@ contact_info:  # Contact info of the person who can answer questions about the r
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
-keywords: [] # List of keywords (in English) that may be used for filering. Keep them short!
+keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
 caveats: 
   swe: '' # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
