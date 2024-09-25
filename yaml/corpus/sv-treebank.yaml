@@ -22,8 +22,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: "<div id="content"><h3>En\
-    \ svensk trädbank med återanvändning av existerande resurser</h3>\n\n\t     <img\
+  swe: "<h3>En svensk trädbank med återanvändning av existerande resurser</h3>\n\n\t     <img\
     \ src=\"/sites/spraakbanken.gu.se/files/img/stb/tack.png\" width=\"380\" height=\"\
     180\" alt=\"SUC-träd\" class=\"right photo\" />\n\t     <p>Den svenska trädbanken\n\
     \t       är resultatet av ett arbete som har utförts av forskare vid universiteten\
@@ -71,7 +70,7 @@ description:
     \     </strong></p>\n\n\n\t     <p>Därefter återkommer vi per epost med nerladdningsinstruktioner.</p>\n\
     \n\t     <h3>Distribution</h3>\n\t     <p>Den svenska trädbanken distribueras\
     \ av Språkbanken. Se instruktioner i föregående\n\t       avsnitt eller kontakta\
-    \ oss för mer information genom att eposta <a href="mailto:sb-info@svenska.gu.se">sb-info@svenska.gu.se</a>.</p>\n\n\t     <p class=\"box\">Den som redan har skrivit\n\
+    \ oss för mer information genom att eposta <a href=\"mailto:sb-info@svenska.gu.se\">sb-info@svenska.gu.se</a>.</p>\n\n\t     <p class=\"box\">Den som redan har skrivit\n\
     \t       på en SUC-licens får direkt nedladdningsadress och lösenord från oss. Övriga\
     \ behöver först\n\t       skriva under ett licensavtal för SUC (se ovan).</p>\n\
     \n\t\t <h2>Referenser</h2>\n\n         <p>Om du vill citera Svensk trädbank i\
@@ -83,9 +82,8 @@ description:
     \ Upsaliensis.\n\t\t\t   <a href=\"http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933\"\
     >http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933</a>\n\t\t\t </li>\n\t\t\
     \   </ul>\n\n\t\t   Ange gärna den här sidan på Språkbanken som nedladdningssajt.\n\
-    </p>\n\n</div>"
-  eng: "<div id=\"content\"\
-    >\n\t     <h3>A Swedish treebank built from recycled language resources</h3>\n\
+    </p>"
+  eng: "<h3>A Swedish treebank built from recycled language resources</h3>\n\
     \t     <img src=\"/sites/spraakbanken.gu.se/files/img/stb/tack.png\" width=\"\
     380\" height=\"180\" alt=\"SUC PS tree\" class=\"right photo\" />\n\t     <p>The\
     \ Swedish treebank has come about through work by researchers in the Universities\
@@ -137,7 +135,7 @@ description:
     \   with downloading instructions.</p>\n\n\t     <h3>Distribution</h3>\n\t   \
     \  <p>The Swedish treebank is distributed by Språkbanken, University of Gothenburg.\n\
     \t       See the preceding section for instructions, or contact us for more information\n\
-    \t       by emailing <a href="mailto:sb-info@svenska.gu.se">sb-info@svenska.gu.se</a>.</p>\n\
+    \t       by emailing <a href=\"mailto:sb-info@svenska.gu.se\">sb-info@svenska.gu.se</a>.</p>\n\
     \n\t     <p class=\"box\">If you have a SUC license already, you will get downloading\
     \ instructions\n\t       and password from us.\n\t Others will first need to sign a\
     \ SUC license agreement (see above).</p>\n\n\t\t <h2>References</h2>\n\n\t\t <p>If\
@@ -149,7 +147,7 @@ description:
     \ Acta Universitatis Upsaliensis.\n\t\t\t   <a href=\"http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933\"\
     >http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933</a>\n\t\t\t </li>\n\t\t\
     \   </ul>\n\n\t\t You can give this Språkbanken page as its download location.\n\
-    \t\t </p>\n\n\n</div>"
+    \t\t </p>"
 annotation:
   swe: ''
   eng: ''
