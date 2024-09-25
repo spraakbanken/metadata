@@ -22,16 +22,7 @@ contact_info:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: "<script language=\"JavaScript\">\nfunction kontakt(sprk) {\n    var lbhost\
-    \ = \"http://litteraturbanken.se\";\n    var host = \"http://spraakbanken.gu.se\"\
-    ;\n    var baseuri = host + \"/stb\";\n    if (!top.kontaktF || top.kontaktF.closed){\n\
-    \tvar wi = 800;\n\tvar he = 600;\n\tvar sw = 100;\n\tvar params = sprk == \"eng\"\
-    \ ?\n\t    \"&name=Your%20name&email=Your%20email%20address&message=Your%20message&send=Send&cancel=Cancel%20and%20close&lang=eng\"\
-    \ :\n\t    \"&name=Ditt%20namn&email=Din%20e-postadress&message=Ditt%20meddelande&send=Skicka&cancel=Avbryt%20och%20st%C3%A4ng&lang=swe\"\
-    ;\n\tvar url = baseuri + \"/app/stb-kontakt.phtml?machine=\" + lbhost + params;\n\
-    \ttop.kontaktF=window.open(url,\"kontaktF\",\",status=0,width=\"+wi+\",height=\"\
-    +he+\",screenX=\"+sw+\",left=\"+sw+\",screenY=200,top=200,dependent=no,resizable=yes,scrollbars=yes\"\
-    );\n    } else {\n\ttop.kontaktF.focus();\n    }\n}\n\n</script>\n\t     <h3>En\
+  swe: "<div id="content"><h3>En\
     \ svensk trädbank med återanvändning av existerande resurser</h3>\n\n\t     <img\
     \ src=\"/sites/spraakbanken.gu.se/files/img/stb/tack.png\" width=\"380\" height=\"\
     180\" alt=\"SUC-träd\" class=\"right photo\" />\n\t     <p>Den svenska trädbanken\n\
@@ -80,10 +71,8 @@ description:
     \     </strong></p>\n\n\n\t     <p>Därefter återkommer vi per epost med nerladdningsinstruktioner.</p>\n\
     \n\t     <h3>Distribution</h3>\n\t     <p>Den svenska trädbanken distribueras\
     \ av Språkbanken. Se instruktioner i föregående\n\t       avsnitt eller kontakta\
-    \ oss för mer information genom att använda detta\n\t       <a href=\"javascript:kontakt('swe')\"\
-    >kontaktformulär</a>.</p>\n\n\t     <p class=\"box\">Den som redan har skrivit\n\
-    \t       på en SUC-licens får direkt nedladdningsadress och lösenord från oss.\n\
-    \t       Använd <a href=\"javascript:kontakt('swe')\">kontaktformuläret</a>. Övriga\
+    \ oss för mer information genom att eposta <a href="mailto:sb-info@svenska.gu.se">sb-info@svenska.gu.se</a>.</p>\n\n\t     <p class=\"box\">Den som redan har skrivit\n\
+    \t       på en SUC-licens får direkt nedladdningsadress och lösenord från oss. Övriga\
     \ behöver först\n\t       skriva under ett licensavtal för SUC (se ovan).</p>\n\
     \n\t\t <h2>Referenser</h2>\n\n         <p>Om du vill citera Svensk trädbank i\
     \ en artikel rekommenderar vi att du använder följande referens:\n\n\t\t   <ul>\n\
@@ -95,16 +84,7 @@ description:
     >http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-8933</a>\n\t\t\t </li>\n\t\t\
     \   </ul>\n\n\t\t   Ange gärna den här sidan på Språkbanken som nedladdningssajt.\n\
     </p>\n\n</div>"
-  eng: "<script language=\"JavaScript\">\nfunction kontakt(sprk) {\n    var lbhost\
-    \ = \"http://litteraturbanken.se\";\n    var host = \"http://spraakbanken.gu.se\"\
-    ;\n    var baseuri = host + \"/stb\";\n    if (!top.kontaktF || top.kontaktF.closed){\n\
-    \tvar wi = 800;\n\tvar he = 600;\n\tvar sw = 100;\n\tvar params = sprk == \"eng\"\
-    \ ?\n\t    \"&name=Your%20name&email=Your%20email%20address&message=Your%20message&send=Send&cancel=Cancel%20and%20close&lang=eng\"\
-    \ :\n\t    \"&name=Ditt%20namn&email=Din%20e-postadress&message=Ditt%20meddelande&send=Skicka&cancel=Avbryt%20och%20st%C3%A4ng&lang=swe\"\
-    ;\n\tvar url = baseuri + \"/app/stb-kontakt.phtml?machine=\" + lbhost + params;\n\
-    \ttop.kontaktF=window.open(url,\"kontaktF\",\",status=0,width=\"+wi+\",height=\"\
-    +he+\",screenX=\"+sw+\",left=\"+sw+\",screenY=200,top=200,dependent=no,resizable=yes,scrollbars=yes\"\
-    );\n    } else {\n\ttop.kontaktF.focus();\n    }\n}\n</script>\n<div id=\"content\"\
+  eng: "<div id=\"content\"\
     >\n\t     <h3>A Swedish treebank built from recycled language resources</h3>\n\
     \t     <img src=\"/sites/spraakbanken.gu.se/files/img/stb/tack.png\" width=\"\
     380\" height=\"180\" alt=\"SUC PS tree\" class=\"right photo\" />\n\t     <p>The\
@@ -156,11 +136,10 @@ description:
     \ receipt and approval of the agreement, we will contact you by email\n\t    \
     \   with downloading instructions.</p>\n\n\t     <h3>Distribution</h3>\n\t   \
     \  <p>The Swedish treebank is distributed by Språkbanken, University of Gothenburg.\n\
-    \t       See the preceding section for instructions, or contact for more information\n\
-    \t       through this <a href=\"javascript:kontakt('eng')\">contact form</a>.</p>\n\
+    \t       See the preceding section for instructions, or contact us for more information\n\
+    \t       by emailing <a href="mailto:sb-info@svenska.gu.se">sb-info@svenska.gu.se</a>.</p>\n\
     \n\t     <p class=\"box\">If you have a SUC license already, you will get downloading\
-    \ instructions\n\t       and password from us.\n\t       Please use the <a href=\"\
-    javascript:kontakt('eng')\">contact form</a>. Others will first need to sign a\
+    \ instructions\n\t       and password from us.\n\t Others will first need to sign a\
     \ SUC license agreement (see above).</p>\n\n\t\t <h2>References</h2>\n\n\t\t <p>If\
     \ you wish to cite the Swedish treebank in a paper, please use the following reference:\n\
     \n\t\t   <ul>\n\t\t\t <li>Joakim Nivre, Beáta Megyesi, Sofia Gustafson-Capková,\
