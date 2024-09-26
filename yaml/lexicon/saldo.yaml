@@ -46,16 +46,6 @@ description:
     <a href="https://spraakbanken.gu.se/personal/markus/">Markus Forsberg</a> och
     <a href="http://www.hum.uit.no/a/lonngren/">Lennart Lönngren</a>
     </p>
-
-    <div id="random"></div>
-    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
-    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/tidbits/tidbits_swe.js'></script>
-
-    <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/lid/json+render/rnd'></script>
-
-    <p>Ladda om sidan för nytt slumpmässigt ord.</p>
-
-    <p>Följ utvecklingen via <a href="http://spraakbanken.gu.se/rss/saldo_dev.xml"><img src="http://clt.gu.se/misc/feed.png" />RSS</a>.</p>
     </center>
 
     <h3>Introduktion</h3>
@@ -74,13 +64,6 @@ description:
     </p>
 
     <div id="version"></div>
-
-    <script type='text/javascript'>
-    function version(v){
-     document.getElementById('version').innerHTML = '<table border="1"><tr><th>versionsnummer</th><th>ändringsdatum</th></tr><tr><td>' + v['version'] + '</td><td>' + v['date'] + '</td></tr></table>' ;
-    }
-    </script>
-    <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/version/json+version/'></script>
 
     <ul>
      <li>Dokumentation för sökgränssnittet: <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
@@ -119,18 +102,6 @@ description:
     <a href="http://www.hum.uit.no/a/lonngren/">Lennart Lönngren</a> <br />
     </p>
     </center>
-    <center>
-
-    <div id="random"></div>
-    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/saldo/saldo.js'></script>
-    <script type='text/javascript' src='https://svn.spraakbanken.gu.se/sb-arkiv/pub/js/tidbits/tidbits_eng.js'></script>
-
-    <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/lid/json+render/rnd'></script>
-
-    <p>Reload page for new random word.</p>
-
-    <p>Follow the development via <a href="http://spraakbanken.gu.se/rss/saldo_dev.xml"> <img src="http://clt.gu.se/misc/feed.png" /> RSS</a>.</p>
-    </center>
 
     <h3>Introduction</h3>
 
@@ -148,13 +119,6 @@ description:
     </p>
 
     <div id="version"></div>
-
-    <script type='text/javascript'>
-    function version(v){
-     document.getElementById('version').innerHTML = '<table border="1"><tr><th>versionsnummer</th><th>ändringsdatum</th></tr><tr><td>' + v['version'] + '</td><td>' + v['date'] + '</td></tr></table>' ;
-    }
-    </script>
-    <script type='text/javascript' src='http://spraakbanken.gu.se/ws/saldo-ws/version/json+version/'></script>
 
     <ul>
      <li>Documentation for the search interface (in Swedish): <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
