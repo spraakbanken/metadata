@@ -1,10 +1,13 @@
 name:
-  swe: 'Ordklasser uppmärkta med Stanza'
-  eng: 'Parts of speech annotated with Stanza'
+  swe: SUC-ordklasstaggning med Stanza
+  eng: SUC part-of-speech tagging with Stanza
 short_description:
-  swe: 'Morfosyntaktisk annotering med Stanza för svenska'
-  eng: 'Swedish morphosyntactic annotation by Stanza'
+  swe: Annotering av SUC-ordklasser med Stanza för svenska
+  eng: Swedish part-of-speech annotation with SUC tags by Stanza
 type: analysis
+task: part-of-speech tagging
+analysis-unit: token
+standard-analysis: true
 unlisted: false
 successors: []
 language_codes:
@@ -21,12 +24,16 @@ contact_info:
     email: sb-info@svenska.gu.se
 keywords:
  - pos-tagging
+ - stanza
 example: |-
-  In order to use this annotation in Sparv add the following add the following row to `export.annotations` in the Sparv
-  corpus config file:  
+  This analysis is best used with Sparv. Check out [Sparv's quick start
+  guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
+
+  In order to use this annotation add the following row to `export.annotations` in the Sparv
+  [corpus config file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):  
   `- <token>:stanza.pos`
 
-  For general info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml
@@ -40,7 +47,7 @@ example: |-
 caveats:
   swe: ''
   eng: ''
-standard_reference: ''
+standard_reference: 'https://aclanthology.org/2021.nodalida-main.20/'
 other_references:
   - "Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning. 2020"
   - "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. In Association for Computational Linguistics (ACL) System Demonstrations. 2020"
@@ -62,8 +69,8 @@ intended_uses:
 description:
   eng: |-
     In 2020, the Stanza tool was trained and tested on a set of gold-standard
-    Swedish corpora (following SUC3-style annotation) in order to create a
-    high-quality analysis. Currently (in 2024), this is the default analysis
-    for Swedish in Sparv.
+    Swedish corpora (following SUC3-style annotation) in order to create a high-quality analysis.
+    Currently (in 2024), this is the default analysis for Swedish in Språkbanken's analysis platform
+    [Sparv](https://spraakbanken.gu.se/sparv).
 created: 2024-09-09
 updated: 2024-09-18
