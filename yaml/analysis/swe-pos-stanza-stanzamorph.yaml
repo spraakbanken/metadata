@@ -15,7 +15,8 @@ language_codes:
 in_collections:
   - pos
 downloads: []
-interface: []
+interface:
+  - https://spraakbanken.gu.se/mink
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
