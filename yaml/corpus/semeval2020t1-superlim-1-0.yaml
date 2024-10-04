@@ -10,7 +10,6 @@ type: corpus
 trainingdata: false
 unlisted: true
 successors:
-  - semeval2020t1-superlim
 language_codes:
   - swe
 in_collections:

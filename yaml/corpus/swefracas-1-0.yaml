@@ -6,9 +6,8 @@ short_description:
   eng: Textual inference/entailment problem set
 type: corpus
 trainingdata: true
-unlisted: true
+unlisted: false
 successors:
-  - swefracas
 language_codes:
   - swe
 size:

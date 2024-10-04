@@ -19,8 +19,8 @@ resources:
   - faq-1-0
   - swesat-synonyms-1-0
   - analogy-1-0
-  - semeval2020t1-superlim
-  - swefracas
+  - semeval2020t1-superlim-1-0
+  - swefracas-1-0
   - swewinograd-1-0
   - swewinogender-1-0
   - swediagnostics-1-0
