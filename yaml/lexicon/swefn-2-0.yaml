@@ -29,10 +29,7 @@ downloads:
     info: ''
     licence: CC BY 4.0
     restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/karp/?mode=swefn
-    licence: CC BY 4.0
-    restriction: attribution
+interface: []
 contact_info:
   name: Dana Dannélls
   email: sb-info@svenska.gu.se
