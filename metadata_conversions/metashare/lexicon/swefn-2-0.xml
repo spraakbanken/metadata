@@ -2,15 +2,15 @@
 <!-- This file was automatically generated. Do not make changes directly to this file as they might get overwritten. -->
 <resourceInfo xmlns="http://www.ilsp.gr/META-XMLSchema">
   <identificationInfo>
-    <resourceName lang="eng">Swedish FrameNet (SweFN)</resourceName>
-    <resourceName lang="swe">Svenskt frasnät (SweFN)</resourceName>
+    <resourceName lang="eng">Swedish FrameNet 2.0 (SweFN)</resourceName>
+    <resourceName lang="swe">Svenskt frasnät 2.0 (SweFN)</resourceName>
     <description lang="eng">A lexical semantic resource based on the same principles as the English Berkeley FrameNet. This version is updated to correspond to BFN 1.7.</description>
     <description lang="swe">En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley FrameNet. Denna version är uppdaterad för att motsvara BFN 1.7.</description>
     <resourceShortName lang="eng">swefn-2-0</resourceShortName>
     <resourceShortName lang="swe">swefn-2-0</resourceShortName>
     <metaShareId/>
     <identifier>swefn-2-0</identifier>
-  <identifier>doi:10.23695/f1sz-0572</identifier></identificationInfo>
+  <identifier>10.23695/f1sz-0572</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -24,12 +24,6 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://spraakbanken.gu.se/lb/resurser/data/swefn-2-0.tsv.zip</downloadLocation>
-      </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/karp/?mode=swefn</executionLocation>
       </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
