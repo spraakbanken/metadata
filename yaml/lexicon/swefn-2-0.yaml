@@ -1,6 +1,6 @@
 name:
-  swe: Svenskt frasnät (SweFN)
-  eng: Swedish FrameNet (SweFN)
+  swe: Svenskt frasnät 2.0 (SweFN)
+  eng: Swedish FrameNet 2.0 (SweFN)
 short_description:
   swe: En lexikal-semantisk resurs baserad på samma principer som engelska Berkeley
     FrameNet. Denna version är uppdaterad för att motsvara BFN 1.7.
