@@ -58,6 +58,7 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
+standard_reference: "Aleksandrs Berdicevskis, Gerlof Bouma, Robin Kurtz, Felix Morger, Joey Öhman, Yvonne Adesam, Lars Borin, Dana Dannélls, Markus Forsberg, Tim Isbister, Anna Lindahl, Martin Malmsten, Faton Rekathati, Magnus Sahlgren, Elena Volodina, Love Börjeson, Simon Hengchen, and Nina Tahmasebi. 2023. Superlim: A Swedish Language Understanding Evaluation Benchmark. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 8137–8153, Singapore. Association for Computational Linguistics. <a href='https://aclanthology.org/2023.emnlp-main.506/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/331445'>Bibtex</a>"
 other_references: []
 intended_uses:
   swe: ''
