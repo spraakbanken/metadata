@@ -13,9 +13,9 @@ successors: []
 language_codes:
   - swe
 size:
-  entries: 1334
-  Semantic Frames: 1334
-in_collections: []
+  entries: 1329
+  Semantic Frames: 1329
+  in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/swefn-2-0.json.zip
     type: lexicon
@@ -58,7 +58,7 @@ description:
     </tr>
     <tr>
     <td>Subtitle</td>
-    <td> Swedish FrameNet for describing and documenting Swedish lexical entries, containing sentences annotated manually with semantic information and automatically with morphosyntactic information.
+    <td> Swedish FrameNet for describing and documenting Swedish lexical entries, containing sentences annotated manually with semantic information.
     </td>
     </tr>
     <tr>
