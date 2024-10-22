@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">swefn-2-0</resourceShortName>
     <metaShareId/>
     <identifier>swefn-2-0</identifier>
-  <identifier>10.23695/f1sz-0572</identifier></identificationInfo>
+  <identifier>10.23695/f1sz-0572</identifier><identifier>doi:10.23695/f1sz-0572</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -47,8 +47,8 @@
     </iprHolder>
   </distributionInfo>
   <contactPerson>
-    <surname>Dannélls</surname>
-    <givenName>Dana</givenName>
+    <surname>Zechner</surname>
+    <givenName>Niklas</givenName>
     <communicationInfo>
       <email>sb-info@svenska.gu.se</email>
     </communicationInfo>
@@ -80,7 +80,7 @@
             <languageName>Swedish</languageName>
           </languageInfo>
           <sizeInfo>
-            <size>1334</size>
+            <size>1329</size>
             <sizeUnit>entries</sizeUnit>
           </sizeInfo>
         </lexicalConceptualResourceTextInfo>
