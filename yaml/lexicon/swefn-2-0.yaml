@@ -31,7 +31,7 @@ downloads:
     restriction: attribution
 interface: []
 contact_info:
-  name: Dana Dannélls
+  name: Niklas Zechner
   email: sb-info@svenska.gu.se
   affiliation:
     organisation: Språkbanken Text
@@ -73,7 +73,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/swefn-full
+    <td>https://spraakbanken.gu.se/resurser/swefn-2-0
     </td>
     </tr>
     <tr>
@@ -158,7 +158,7 @@ description:
     </tr>
     <tr>
     <td>Dataset in numbers*</td>
-    <td>1,334 Frames, 39,210 Lexical Units and 9,020 semantically and syntactically annotated sentences.
+    <td>1,329 Frames, ~39,000 Lexical Units and ~9,000 semantically and syntactically annotated sentences.
     </td>
     </tr>
     <tr>
@@ -171,8 +171,8 @@ description:
     </tr>
     <tr>
     <td>Format*</td>
-    <td>The format of both files (semantic and morphosyntatic annotations) are in XML. There are 20 data fields specified in the file:
-    1.  The name of the frame,
+    <td>The file contains 20 data fields:
+    1. Frame,
     2. Definition,
     3. Core elements,
     4. Peripheral elements,
@@ -258,7 +258,7 @@ description:
     </tr>
     <tr>
     <td>Data last updated*</td>
-    <td>2021-12-21, v1.0
+    <td>2024-10-14, v2.0
     </td>
     </tr>
     <tr>
@@ -273,12 +273,12 @@ description:
     </tr>
     <tr>
     <td>This document created*</td>
-    <td>2021-12-21, Dana Dannélls
+    <td>2024-10-14, Niklas Zechner
     </td>
     </tr>
     <tr>
     <td>This document last updated*</td>
-    <td>2021-12-21, Dana Dannélls
+    <td>2024-10-22, Dana Dannélls
     </td>
     </tr>
     <tr>
@@ -288,7 +288,7 @@ description:
     </tr>
     <tr>
     <td>Documentation template version*</td>
-    <td>v1.0
+    <td>v2.0
     </td>
     </tr>
     <tr>
@@ -343,5 +343,5 @@ caveats:
   eng: ''
 other_references:
   - '{publication 310036}'
-updated: 2021-12-21
+updated: 2024-10-22
 doi: 10.23695/f1sz-0572
