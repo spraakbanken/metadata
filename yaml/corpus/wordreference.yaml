@@ -51,7 +51,7 @@ keywords: []
 caveats:
   swe: ''
   eng: ''
-standard_reference: "Aleksandrs Berdicevskis. 2020. Foreigner-directed speech is simpler than native-directed: Evidence from social media. In Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science, pages 163–172, Online. Association for Computational Linguistics. <a href='https://doi.org/10.18653/v1/2020.nlpcss-1.18'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/297766'>Bibtex</a>"
+standard_reference: "Aleksandrs Berdicevskis. 2020. Foreigner-directed speech is simpler than native-directed: Evidence from social media. In <i>Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science<i>, pages 163–172, Online. Association for Computational Linguistics. <a href='https://doi.org/10.18653/v1/2020.nlpcss-1.18'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/297766'>Bibtex</a>"
 other_references: []
 intended_uses:
   swe: ''
