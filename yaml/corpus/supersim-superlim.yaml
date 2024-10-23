@@ -22,7 +22,7 @@ interface: []
 creators:
   - Hengchen, Simon
   - Tahmasebi, Nina
-standard_reference: "Hengchen and Tahmasebi (2021): SuperSim: a test set for word similarity and relatedness in Swedish. In Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). <a href='https://ep.liu.se/ecp/178/027/ecp2021178027.pdf'>https://ep.liu.se/ecp/178/027/ecp2021178027.pdf</a>"
+standard_reference: "Simon Hengchen and Nina Tahmasebi. 2021. SuperSim: a test set for word similarity and relatedness in Swedish. In <i>Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)</i>, pages 268–275, Reykjavik, Iceland (Online). Linköping University Electronic Press, Sweden. <a href='https://aclanthology.org/2021.nodalida-main.27/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/305157'>Bibtex</a>"
 contact_info:
   name: Yvonne Adesam
   email: sb-info@svenska.gu.se
