@@ -164,8 +164,9 @@ description:
     <tr>
     <td>Nature of the content*</td>
     <td>
-      Similarly to the Berkeley FrameNet, the Swedish FrameNet is build around semantic frames for describing and documenting Swedish lexical entries. It contains frame elements (FE) and lexical units (LU). A semantic frame represents factual information about concepts and situations in our world through frame elements. LU are words or multiword expressions defined as a pairing of a word with a sense. They are analyzed with frame elements and are documented with help av example sentences.
-    <br>
+      Similarly to the Berkeley FrameNet, the Swedish FrameNet is build around semantic frames for describing and documenting Swedish lexical entries. It contains frame elements (FE) and lexical units (LU). 
+      A semantic frame represents factual information about concepts and situations in our world through frame elements. 
+      LU are words or multiword expressions defined as a pairing of a word with a sense. 
       <!-- Swedish FrameNet contains several layers of annotations, divided into two xml files: (1) one containing information about the semantic properties of the LUs and the semantic analysis of the sentences in which they appear. That is the manual annotation. (2) one containing information about the frame, frame elements, domain, lexical units and the linguistic analysis automatically processed in Sprav pipeline, including the syntactic structure of each sentence, the morphological and other lexical descriptions (sense,sentiment score) of the lexical units. -->
     </td>
     </tr>
