@@ -85,6 +85,7 @@ caveats:
     mostly correct when it comes to the sense-attribute, but in the sense_ann-attribute
     (see Documentation/annotation.txt), these are likely to be wrong, due to retokenization
     after the sense annotation phase.'
+standard_reference: "Yvonne Adesam, Gerlof Bouma, and Richard Johansson. 2015. Defining the Eukalyptus forest – the Koala treebank of Swedish. In <i>Proceedings of the 20th Nordic Conference of Computational Linguistics (NODALIDA 2015)</i>, pages 1–9, Vilnius, Lithuania. Linköping University Electronic Press, Sweden. <a href='https://aclanthology.org/W15-1804/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/217815'>Bibtex</a>"
 other_references:
   - '{publication 217815}'
 intended_uses:
