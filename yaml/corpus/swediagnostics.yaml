@@ -278,6 +278,7 @@ description:
     </td>
     </tr>
     </table>
-    
+
+standard_reference: "Felix Morger. 2024. SweDiagnostics: A Diagnostics Natural Language Inference Dataset for Swedish. In <i>Proceedings of the 17th Workshop on Building and Using Comparable Corpora (BUCC) @ LREC-COLING 2024, pages 118–124, Torino, Italia. ELRA and ICCL.</i> <a href='https://aclanthology.org/2024.bucc-1.13/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/341148'>Bibtex</a>"    
 updated: 2023-04-04
 doi: 10.23695/yepn-se26
