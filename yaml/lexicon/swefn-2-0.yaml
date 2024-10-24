@@ -63,7 +63,7 @@ description:
     </tr>
     <tr>
     <td>Created by*</td>
-    <td>Dana Dannélls (dana.dannells@svenska.gu.se), Maria Toporowska Gronostaj, Karin Friberg Heppin, and others.
+    <td>Dana Dannélls (dana.dannells@svenska.gu.se), Niklas Zechner, Maria Toporowska Gronostaj, Karin Friberg Heppin, and others.
     </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ description:
     </tr>
     <tr>
     <td>Abstract*</td>
-    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5. In SweFN sentences are annotated manually with semantic information and automatically with morphosyntactic annotations. The resource contains 1,195 semantic frames, 39,212 lexical units linked to Saldo and 9,020 semantically and syntactically annotated sentences. This version has been updated to correspond to BFN 1.7.
+    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5 (SweFN version 1.0), but has been updated and aligned with BFN 1.7. The resource contains 1,329 Frames, ~39,000 Lexical Unit linked to Saldo and ~9,000 semantically annotated sentences.    
     </td>
     </tr>
     <tr>
@@ -164,14 +164,14 @@ description:
     <tr>
     <td>Nature of the content*</td>
     <td>
-      Similarly to the Berkeley FrameNet, the Swedish FrameNet is build around semantic frames for describing and documenting Swedish lexical entries. It contains frame elements (FE) and lexical units (LU). A semantic frame represents factual information about concepts and situations in our world through frame elements. LU are words or multiword expressions are defined as a pairing of a word with a sense. They analyzed with frame elements and are documented with their syntactic relations with help av example sentences.
+      Similarly to the Berkeley FrameNet, the Swedish FrameNet is build around semantic frames for describing and documenting Swedish lexical entries. It contains frame elements (FE) and lexical units (LU). A semantic frame represents factual information about concepts and situations in our world through frame elements. LU are words or multiword expressions defined as a pairing of a word with a sense. They are analyzed with frame elements and are documented with help av example sentences.
     <br>
-      Swedish FrameNet contains several layers of annotations, divided into two xml files: (1) one containing information about the semantic properties of the LUs and the semantic analysis of the sentences in which they appear. That is the manual annotation. (2) one containing information about the frame, frame elements, domain, lexical units and the linguistic analysis automatically processed in Sprav pipeline, including the syntactic structure of each sentence, the morphological and other lexical descriptions (sense,sentiment score) of the lexical units.
+      <!-- Swedish FrameNet contains several layers of annotations, divided into two xml files: (1) one containing information about the semantic properties of the LUs and the semantic analysis of the sentences in which they appear. That is the manual annotation. (2) one containing information about the frame, frame elements, domain, lexical units and the linguistic analysis automatically processed in Sprav pipeline, including the syntactic structure of each sentence, the morphological and other lexical descriptions (sense,sentiment score) of the lexical units. -->
     </td>
     </tr>
     <tr>
     <td>Format*</td>
-    <td>The file contains 20 data fields:
+    <td>The file contains 17 data fields:
     1. Frame,
     2. Definition,
     3. Core elements,
@@ -186,28 +186,26 @@ description:
     12. Regular polysemy,
     13. Domain,
     14. Inheritance,
-    15. Berkeley Frame ID,
-    16. Berkeley LUs,
-    17. Created by,
-    18. Comment,
-    19. Status,
-    20. Modification date.
+    15. Created by,
+    16. Created date
+    17. Comment
     </td>
     </tr>
     <tr>
     <td>Data source(s)*</td>
-    <td>Sentences in SweFN have been extracted from the Web and from corpus examples. They have been annotated with manually with semantic information and automatically with morphosyntactic information using Sparv v4.1. Lexical units have been linked to Saldo v2.3 using Karp editing interface.
+    <td>Sentences in SweFN have been extracted from the Web and from corpus examples. They have been annotated with manually with semantic information. Lexical units have been linked to Saldo v2.3 using Karp editing interface.
     </td>
     </tr>
     <tr>
     <td>Data collection method(s)*</td>
-    <td>Sentences and lexical units have been extracted manually and semi-automatically. Frames in SweFN have been developed by taking two approaches: extension and merging.
+    <td>Sentences and lexical units have been extracted manually and semi-automatically. 
+    Frames in SweFN have been developed by taking two approaches: extension and merging.
     </td>
     </tr>
     <tr>
     <td>Data selection and filtering*</td>
     <td>
-      As a result of the collection methods of frames, there are 59 frames in SweFN that do not have an exact match in BFN. Out of these, 20 are modified versions of BFN frames, revised mainly by splitting the original English frames into more specific ones [5].
+  <!--    As a result of the collection methods of frames, there are 59 frames in SweFN that do not have an exact match in BFN. Out of these, 20 are modified versions of BFN frames, revised mainly by splitting the original English frames into more specific ones [5]. -->
     </td>
     </tr>
     <tr>
@@ -263,11 +261,12 @@ description:
     </tr>
     <tr>
     <td>Which changes have been made, compared to the previous version*</td>
-    <td>This is the first official version.
+    <td>Replacement of frame element names, and additions of frame elements that were missing. 
     </td>
     </tr>
     <tr>
     <td>Access to previous versions</td>
+    https://spraakbanken.gu.se/resurser/swefn
     <td>
     </td>
     </tr>
@@ -278,7 +277,7 @@ description:
     </tr>
     <tr>
     <td>This document last updated*</td>
-    <td>2024-10-22, Dana Dannélls
+    <td>2024-10-24, Dana Dannélls
     </td>
     </tr>
     <tr>
