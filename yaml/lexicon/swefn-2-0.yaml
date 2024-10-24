@@ -83,7 +83,10 @@ description:
     </tr>
     <tr>
     <td>Abstract*</td>
-    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5 (SweFN version 1.0), but has been updated and aligned with BFN 1.7. The resource contains 1,329 Frames, ~39,000 Lexical Unit linked to Saldo and ~9,000 semantically annotated sentences.    
+    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. 
+    The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. 
+    It has been developed in line with Berkeley FrameNet 1.5 (SweFN version 1.0), but has been updated and aligned with BFN 1.7. 
+    The resource contains 1,329 Frames, ~39,000 Lexical Unit linked to Saldo and ~9,000 semantically annotated sentences.    
     </td>
     </tr>
     <tr>
