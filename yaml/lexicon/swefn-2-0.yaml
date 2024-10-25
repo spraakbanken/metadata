@@ -15,7 +15,7 @@ language_codes:
 size:
   entries: 1329
   Semantic Frames: 1329
-  in_collections: []
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/swefn-2-0.json.zip
     type: lexicon
