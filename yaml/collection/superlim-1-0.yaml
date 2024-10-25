@@ -3,9 +3,9 @@ name:
   eng: SuperLim
 short_description:
   swe: A standardized suite for evaluation and analysis of Swedish natural language
-    understanding systems.
+    understanding systems. <b>Deprecated!</b> Use Superlim 2.0 instead (see the link under Successors).
   eng: A standardized suite for evaluation and analysis of Swedish natural language
-    understanding systems.
+    understanding systems. <b>Deprecated!</b> Use Superlim 2.0 instead (see the link under Successors).
 type: corpus
 trainingdata: true
 unlisted: true
