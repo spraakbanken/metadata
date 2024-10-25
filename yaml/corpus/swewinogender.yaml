@@ -344,6 +344,7 @@ description:
     </td>
     </tr>
     </table>
+standard_reference: "Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma, and Dana Dannélls. 2021. The Swedish Winogender Dataset. In <i>Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), pages 452–459, Reykjavik, Iceland (Online). Linköping University Electronic Press, Sweden.</i> <a href='https://aclanthology.org/2021.nodalida-main.52/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/305126'>Bibtex</a>"    
     
 updated: 2023-03-30
 doi: 10.23695/wy9w-mw74
