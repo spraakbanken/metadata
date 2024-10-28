@@ -17,7 +17,13 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
-      <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_folke-pilot.csv</downloadLocation>
+      <downloadLocation>https://spraakbanken.gu.se/lb/resurser/meningsmangder/folke-pilot.xml.bz2</downloadLocation>
+      </licenceInfo>
+    <licenceInfo>
+      <licence>CC-BY</licence>
+      <restrictionsOfUse>attribution</restrictionsOfUse>
+      <distributionAccessMedium>downloadable</distributionAccessMedium>
+      <downloadLocation>https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_folke-pilot.csv</downloadLocation>
       </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
@@ -79,11 +85,11 @@
             <languageName>Swedish</languageName>
           </languageInfo>
           <sizeInfo>
-            <size>20699</size>
+            <size>3642351</size>
             <sizeUnit>tokens</sizeUnit>
           </sizeInfo>
           <sizeInfo>
-            <size>1067</size>
+            <size>235713</size>
             <sizeUnit>sentences</sizeUnit>
           </sizeInfo>
         </corpusTextInfo>
