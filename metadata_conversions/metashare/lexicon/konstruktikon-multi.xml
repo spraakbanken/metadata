@@ -10,7 +10,7 @@
     <resourceShortName lang="swe">konstruktikon-multi</resourceShortName>
     <metaShareId/>
     <identifier>konstruktikon-multi</identifier>
-  <identifier>doi:10.23695/8mv6-kc61</identifier></identificationInfo>
+  <identifier>10.23695/8mv6-kc61</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -18,12 +18,6 @@
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>downloadable</distributionAccessMedium>
       <downloadLocation>https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/konstruktikon-multi/konstruktikon-multi.xml</downloadLocation>
-      </licenceInfo>
-    <licenceInfo>
-      <licence>CC-BY</licence>
-      <restrictionsOfUse>attribution</restrictionsOfUse>
-      <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/karp-v6/#/?mode=konstruktikon-multi</executionLocation>
       </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
