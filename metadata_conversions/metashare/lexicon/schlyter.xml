@@ -11,7 +11,7 @@
     <metaShareId/>
     <identifier>hdl:10794/b0a9b1ab-3a53-419b-b512-6b6945a849cf</identifier>
     <identifier>schlyter</identifier>
-  <identifier>doi:10.23695/mpem-ah13</identifier></identificationInfo>
+  <identifier>10.23695/mpem-ah13</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -24,7 +24,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/karp-v6/#?mode=oldswedish&amp;resources=schlyter</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/?mode=schlyter</executionLocation>
       </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>

@@ -11,7 +11,7 @@
     <metaShareId/>
     <identifier>hdl:10794/cc93d177-d656-4abb-a99d-0ce9cee130cc</identifier>
     <identifier>soederwall</identifier>
-  <identifier>doi:10.23695/0gf3-5042</identifier></identificationInfo>
+  <identifier>10.23695/0gf3-5042</identifier></identificationInfo>
   <distributionInfo>
     <availability>available-unrestrictedUse</availability>
     <licenceInfo>
@@ -24,7 +24,7 @@
       <licence>CC-BY</licence>
       <restrictionsOfUse>attribution</restrictionsOfUse>
       <distributionAccessMedium>accessibleThroughInterface</distributionAccessMedium>
-      <executionLocation>https://spraakbanken.gu.se/karp-v6/#?mode=oldswedish&amp;resources=soederwall</executionLocation>
+      <executionLocation>https://spraakbanken.gu.se/karp/?mode=soederwall</executionLocation>
       </licenceInfo>
     <licenceInfo>
       <licence>CC-BY</licence>
