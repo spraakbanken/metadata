@@ -14,10 +14,6 @@ size:
   entries: 9607
 in_collections: []
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/karp-v6/#?mode=term-swefin&resources=term-swefin
-    licence: CC BY 4.0
-    restriction: attribution
 contact_info:
   name: Rickard Domeij
   email: rickard.domeij@sprakochfolkminnen.se
