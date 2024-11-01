@@ -2,7 +2,7 @@ name:
   swe: Läkartidningen 1996
   eng: Läkartidningen medical journal 1996
 short_description:
-  swe: 'Läkartidningens publicerade artiklar under 1996.<br/>Antal artiklar: 2345'
+  swe: 'Läkartidningens publicerade artiklar under 1996.'
 type: corpus
 trainingdata: false
 unlisted: false
