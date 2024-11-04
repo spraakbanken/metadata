@@ -7,7 +7,6 @@ short_description:
 type: analysis
 task: part-of-speech tagging
 analysis-unit: token
-standard-analysis: true
 unlisted: false
 successors: []
 language_codes:
