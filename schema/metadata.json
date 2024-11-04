@@ -1,0 +1,393 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "unevaluatedProperties": false,
+  "properties": {
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "swe": {
+          "description": "Human readable name in Swedish",
+          "type": "string"
+        },
+        "eng": {
+          "description": "Human readable name in English",
+          "type": "string"
+        }
+      }
+    },
+    "description": {
+      "description": "Longer description. May contain HTML and line breaks.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "swe": {
+          "description": "Longer description in Swedish. May contain HTML and line breaks.",
+          "type": "string"
+        },
+        "eng": {
+          "description": "Longer description in English. May contain HTML and line breaks.",
+          "type": "string"
+        }
+      }
+    },
+    "short_description": {
+      "description": "Short description in a few words or a sentence (plain text only)",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "swe": {
+          "description": "Short description in a few words or a sentence in Swedish (plain text only)",
+          "type": "string"
+        },
+        "eng": {
+          "description": "Short description in a few words or a sentence in English (plain text only)",
+          "type": "string"
+        }
+      }
+    },
+    "type": {
+      "description": "Type of resource",
+      "type": "string",
+      "enum": ["corpus", "lexicon", "model"]
+    },
+    "trainingdata": {
+      "description": "If set to \"true\", the resource will be listed as \"Training and evaluation data\"",
+      "type": "boolean",
+      "default": false
+    },
+    "unlisted": {
+      "description": "If set to \"true\", the resource won't be listed, but it will be accessible via its URL",
+      "type": "boolean",
+      "default": false
+    },
+    "successors": {
+      "description": "If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "language_codes": {
+      "description": "What language(s) is this resource about? Use ISO 639-3 code(s), e.g. \"swe\" for Swedish (https://iso639-3.sil.org/code_tables/639/data)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "languages": {
+      "description": "What language(s) is this resource about? Use this instead of 'language_codes' for languages that are missing in ISO 639-3.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "code": {
+            "description": "Optional language code using some other standard than ISO 639-3",
+            "type": "string"
+          },
+          "name": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "swe": {
+                "description": "Language name (in Swedish)",
+                "type": "string"
+              },
+              "eng": {
+                "description": "Language name (in English)",
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "in_collections": {
+      "description": "ID(s) of the collections the resource is part of",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "downloads": {
+      "description": "",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "url": {
+            "description": "URL to a downloadable file",
+            "type": "string"
+          },
+          "type": {
+            "description": "What's in the file?",
+            "type": "string"
+          },
+          "format": {
+            "description": "The file format or standard (e.g. XML)",
+            "type": "string"
+          },
+          "info": {
+            "description": "Additional info, if required (e.g. \"this file contains a scrambled version of the Swedish part of the corpus\")",
+            "type": "string"
+          },
+          "licence": {
+            "description": "",
+            "type": "string",
+            "default": "CC BY 4.0"
+          },
+          "restriction": {
+            "description": "",
+            "type": "string",
+            "default": "attribution"
+          }
+        },
+        "required": ["url", "type", "format", "licence"]
+      }
+    },
+    "interface": {
+      "description": "Links to interfaces where the resource is available (e.g. Korp or Karp)",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "access": {
+            "description": "A link to the resource in an interface (e.g in Korp or Karp)",
+            "type": "string"
+          },
+          "licence": {
+            "description": "",
+            "type": "string",
+            "default": "CC BY 4.0"
+          },
+          "restriction": {
+            "description": "",
+            "type": "string",
+            "default": "attribution"
+          }
+        },
+        "required": ["access", "licence", "restriction"]
+      }
+    },
+    "creators": {
+      "description": "List of people that created the resource (format: lastname, firstname)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "contact_info": {
+      "description": "Contact info of the person who can answer questions about the resource",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "description": "",
+          "type": "string"
+        },
+        "email": {
+          "description": "",
+          "type": "string",
+          "default": "sb-info@svenska.gu.se"
+        },
+        "affiliation": {
+          "description": "",
+          "type": "object",
+          "properties": {
+            "organisation": {
+              "description": "",
+              "type": "string"
+            },
+            "email": {
+              "description": "",
+              "type": "string"
+            }
+          },
+          "required": ["organisation", "email"]
+        }
+      },
+      "required": ["name", "email", "affiliation"]
+    },
+    "keywords": {
+      "description": "List of keywords (in English) that may be used for filtering. Keep them short!",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "caveats": {
+      "description": "Caveats and disclaimers",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "swe": {
+          "description": "Caveats and disclaimers in Swedish",
+          "type": "string"
+        },
+        "eng": {
+          "description": "Caveats and disclaimers in English",
+          "type": "string"
+        }
+      }
+    },
+    "standard_reference": {
+      "description": "Standard reference or link to a publication describing the resource. May contain HTML.",
+      "type": "string"
+    },
+    "other_references": {
+      "description": "List of references or links to publications describing the resource",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "intended_uses": {
+      "description": "The intended uses for this resource",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "swe": {
+          "description": "The intended uses for this resource (in Swedish)",
+          "type": "string"
+        },
+        "eng": {
+          "description": "The intended uses for this resource (in English)",
+          "type": "string"
+        }
+      }
+    },
+    "created": {
+      "description": "Date the resource was created (format: YYYY-MM-DD)",
+      "type": "string",
+      "format": "date"
+    },
+    "updated": {
+      "description": "Date the resource was (last) updated (format: YYYY-MM-DD)",
+      "type": "string",
+      "format": "date"
+    },
+    "collection": {
+      "description": "",
+      "type": "boolean",
+      "default": false
+    },
+    "doi": {
+      "description": "DOI persistent identifier",
+      "type": "string"
+    }
+  },
+  "required": ["name", "type"],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "collection": {
+            "const": true
+          }
+        },
+        "required": ["collection"]
+      },
+      "then": {
+        "properties": {
+          "resources": {
+            "description": "May contain the resource IDs of the resources belonging to this collection. Alternatively the individual resources may refer to the collection.",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "hide_resources": {
+            "description": "",
+            "type": "boolean",
+            "default": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "corpus"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "size": {
+            "description": "Size information about the corpus",
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+              "tokens": {
+                "description": "Number of tokens in the corpus",
+                "type": "integer"
+              },
+              "sentences": {
+                "description": "Number of sentences in the corpus",
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "lexicon"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "size": {
+            "description": "Size information about the lexicon",
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+              "entries": {
+                "description": "Number of entries in the lexicon",
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": ["corpus", "lexicon"]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "annotation": {
+            "description": "Anything worth to note about the annotations in this corpus. Especially important for corpora with gold annotations.",
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "swe": {
+                "description": "Annotation information in Swedish",
+                "type": "string"
+              },
+              "eng": {
+                "description": "Annotation information in English",
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
