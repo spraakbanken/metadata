@@ -11,7 +11,8 @@ short_description:
 type: lexicon
 trainingdata: false
 unlisted: false
-successors: swefn-2-0
+successors:
+  - swefn-2-0
 language_codes:
   - swe
 size:
