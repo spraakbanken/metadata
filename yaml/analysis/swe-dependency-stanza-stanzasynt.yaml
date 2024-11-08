@@ -3,8 +3,7 @@ language_codes:
   - swe
 standard_reference: https://aclanthology.org/2021.nodalida-main.20/
 tool: Stanza
-trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken),
-  [SIC2](https://spraakbanken.gu.se/resurser/sic2)'
+trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
     2020'
@@ -13,11 +12,10 @@ other_references:
   - 'SUC3: https://spraakbanken.gu.se/en/resources/suc3'
   - 'TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken'
   - 'SIC2: https://spraakbanken.gu.se/en/resources/sic2'
-tagset: '[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)'
-evaluation_results: "For a model trained on SUC3 and validated on a part of TalbankenSBX_dev\
-  \ the results are as follows:  \ntested on Talbanken SBX_test: exact match = 0.97;\
-  \ POS = 0.98; msd = 0.99  \ntested on SIC2: exact match = 0.92; POS = 0.93; msd\
-  \ = 0.96  \nMore info: https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging"
+tagset: '[MambaDep](https://svn.spraakdata.gu.se/sb-arkiv/pub/mamba.html)'
+evaluation_results: |-
+  A model trained on TalbankenSBX_train and validated on TalbankenSBX_dev yields Labelled Attachment Score of 84.48 on
+  TalbankenSBX_test.
 caveats:
   swe: ''
   eng: ''
@@ -27,42 +25,43 @@ intended_uses:
 created: 2020-12-07
 updated: 2022-08-10
 name:
-  swe: SUC-ordklasstaggning med Stanza
-  eng: SUC part-of-speech tagging with Stanza
+  swe: Dependensanalys med Stanza
+  eng: Dependency analysis with Stanza
 short_description:
   swe: Annotering av SUC-ordklasser med Stanza för svenska
   eng: Swedish part-of-speech annotation with SUC tags by Stanza
 task: part-of-speech tagging
 keywords:
-  - pos-tagging
+  - dependency-parsing
   - stanza
+model: '[Stanzasynt](https://spraakbanken.gu.se/resurser/stanzasynt)'
 description:
   eng: |-
-    In 2020, the Stanza tool was trained and tested on a set of gold-standard
-    Swedish corpora (following SUC3-style annotation) in order to create a high-quality analysis.
-    Currently (in 2024), this is the default analysis for Swedish in Språkbanken's analysis platform
-    [Sparv](https://spraakbanken.gu.se/sparv).
+    In 2020, the Stanza tool was trained and tested on TalbankenSBX (following MambaDep-style annotation) in order to
+    create a high-quality analysis. Currently (in 2024), this is the default analysis for Swedish in Sparv
 type: analysis
 analysis_unit: token
 example: |-
   This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
 
-  To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
+  To use this analysis, add the following lines under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
 
   ```yaml
-  - <token>:stanza.pos  # Part-of-speech tags
+  - <token>:stanza.dephead_ref  # Sentence-relative positions of the dependency heads
+  - <token>:stanza.deprel  # Dependency relations to the head
+  - <token>:stanza.ref  # Token IDs relative to their sentences
   ```
 
   For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml
-  <token pos="PN">Det</token>
-  <token pos="AB">här</token>
-  <token pos="VB">är</token>
-  <token pos="DT">en</token>
-  <token pos="NN">korpus</token>
-  <token pos="MAD">.</token>
+  <token dephead_ref="3" deprel="SS" ref="1">Det</token>
+  <token dephead_ref="1" deprel="HD" ref="2">här</token>
+  <token deprel="ROOT" ref="3">är</token>
+  <token dephead_ref="5" deprel="DT" ref="4">en</token>
+  <token dephead_ref="3" deprel="SP" ref="5">korpus</token>
+  <token dephead_ref="3" deprel="IP" ref="6">.</token>
   ```
 contact_info:
   name: Markus Forsberg
