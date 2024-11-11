@@ -1,0 +1,53 @@
+name:
+  swe: Standardanalyser för modern svenska
+  eng: Standard analyses for modern Swedish
+short_description:
+  swe: Samling av Sparv-analyser för modern svenska
+  eng: Collection of Sparv analyses for modern Swedish
+type: analysis
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - swe-compound-sparv-saldolemgram
+  - swe-compound-sparv-saldowords
+  - swe-dependency-stanza-stanzasynt
+  - swe-lemgram-sparv-saldo
+  - swe-lemmatization-sparv-saldo2
+  - swe-msd-stanza-stanzamorph-suc3
+  - swe-msd-stanza-stanzamorph-ufeats
+  - swe-namedentity-swener
+  - swe-pos-stanza-stanzamorph
+  - swe-readability-sparv-lix
+  - swe-readability-sparv-nk
+  - swe-sense-wsd
+  - swe-sentiment-sparv-sensaldo
+language_codes:
+  - swe
+downloads: []
+interface: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats: 
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: |-
+    Dessa analyser används som standard för texter skrivna på modern svenska.
+    Analyserna tillämpas vanligtvis på de moderna korpusarna i [Korp](https://spraakbanken.gu.se/korp).
+  eng: |-
+    These analyses are used by default for texts written in modern Swedish.
+    They are usually applied to the modern corpora in [Korp](https://spraakbanken.gu.se/korp).
