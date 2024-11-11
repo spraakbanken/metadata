@@ -1,0 +1,53 @@
+name:
+  swe: Minks standardanalyser
+  eng: Standard analyses in Mink
+short_description:
+  swe: Samling av analyser som används i Mink
+  eng: Collection of analyses used in Mink
+type: analysis
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - swe-compound-sparv-saldolemgram
+  - swe-compound-sparv-saldowords
+  - swe-dependency-stanza-stanzasynt
+  - swe-lemgram-sparv-saldo
+  - swe-lemmatization-sparv-saldo2
+  - swe-msd-stanza-stanzamorph-suc3
+  - swe-msd-stanza-stanzamorph-ufeats
+  - swe-namedentity-swener
+  - swe-pos-stanza-stanzamorph
+  - swe-readability-sparv-lix
+  - swe-readability-sparv-nk
+  - swe-readability-sparv-ovix
+  - swe-sense-wsd
+  - swe-sentiment-sparv-sensaldo
+language_codes:
+  - swe
+downloads: []
+interface:
+  - https://spraakbanken.gu.se/mink
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats: 
+  swe: ''
+  eng: ''
+references: []
+intended_uses:
+  swe: ''
+  eng: ''
+description:
+  swe: |-
+    Dessa analyser är tillgängliga via [Mink-gränssnittet](https://spraakbanken.gu.se/mink).
+  eng: |-
+    These analyses are available in the [Mink interface](https://spraakbanken.gu.se/mink).
