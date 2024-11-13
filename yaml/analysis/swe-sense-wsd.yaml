@@ -19,7 +19,6 @@ tool: Sparv wsd
 model: "- [ALL_512_128_w10_A2_140403_ctx1.bin](https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/ALL_512_128_w10_A2_140403_ctx1.bin)\
   \  \n- [lem_cbow0_s512_w10_NEW2_ctx.bin](https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/lem_cbow0_s512_w10_NEW2_ctx.bin)"
 trained_on: SALDO from May 2014 (SCOUSE model)
-tagset: ''
 evaluation_results: "Using lemma embeddings:  \nprecision: 0.569 recall: 0.292 f-measure:\
   \ 0.386\n\nUsing sense embeddings:  \nprecision: 0.667 recall: 0.332 f-measure:\
   \ 0.443\n\nMore information: https://aclanthology.org/N15-1164.pdf"
@@ -36,7 +35,7 @@ example: |-
   - <token>:wsd.sense  # Sense disambiguated SALDO identifiers
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

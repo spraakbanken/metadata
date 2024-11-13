@@ -4,12 +4,6 @@ language_codes:
   - swe
 keywords:
   - readability measures
-other_references: ''
-tool: ''
-model: ''
-trained_on: ''
-tagset: ''
-evaluation_results: ''
 created: 2018-03-28
 updated: 2018-03-28
 name:
@@ -42,7 +36,7 @@ example: |-
   - <text>:readability.lix  # LIX values for text chunks
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

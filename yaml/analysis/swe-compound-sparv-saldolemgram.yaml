@@ -3,12 +3,8 @@ language_codes:
   - swe
 standard_reference: '[Borin/Forsberg/Lönngren 2013: SALDO: a touch of yin to WordNet''s
   yang](http://dx.doi.org/10.1007/s10579-013-9233-4)'
-other_references: []
 tool: Sparv
 model: '[SALDO''s morphology](https://spraakbanken.gu.se/resurser/saldom)'
-trained_on: ''
-tagset: ''
-evaluation_results: ''
 name:
   swe: Sammansättningsanalys med hjälp av SALDO-lemgram
   eng: Compound analysis using SALDO lemgrams
@@ -41,7 +37,7 @@ example: |-
   - <token>:saldo.complemgram  # Compound analysis using lemgrams
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

@@ -53,7 +53,7 @@ example: |-
   - <token>:stanza.pos  # Part-of-speech tags
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

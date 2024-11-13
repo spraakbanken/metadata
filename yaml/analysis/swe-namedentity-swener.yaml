@@ -23,7 +23,6 @@ other_references:
   - 'Download HFST-SweNER: https://www.kielipankki.fi/download/HFST-SweNER/'
 tool: HFST-SweNER
 model: Included in the tool
-trained_on: ''
 tagset: '[Named entity tags from hfst-SweNER](https://svn.spraakdata.gu.se/sb-arkiv/pub/swener-tags.html)'
 evaluation_results: f-score between 91.33% to 27.48%, depending on the named entity
   category
@@ -59,7 +58,7 @@ example: |-
   - swener.ne:swener.subtype  # Named entity sub types from SweNER
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

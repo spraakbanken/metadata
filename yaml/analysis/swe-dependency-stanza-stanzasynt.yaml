@@ -52,7 +52,7 @@ example: |-
   - <token>:stanza.ref  # Token IDs relative to their sentences
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

@@ -10,13 +10,9 @@ language_codes:
   - swe
 keywords:
   - phrase structure parsing
-standard_reference: ''
-other_references: []
-tool: ''
 model: Method has no model
 trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
 tagset: See description below
-evaluation_results: ''
 description:
   swe: "Konverterar svenska frasstrukturer från Mamba-Dep dependensanalys med hjälp\
     \ av en regel-baserad heuristik. Nedan är\nfulla listan av möjliga frastrukturer:\n\
@@ -54,7 +50,7 @@ example: |-
   - phrase_structure.phrase:phrase_structure.func  # Phrase functions
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

@@ -13,7 +13,6 @@ other_references:
   - 'TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken'
   - 'SIC2: https://spraakbanken.gu.se/en/resources/sic2'
 tagset: '[UD](https://universaldependencies.org/u/feat/index.html)'
-evaluation_results: ''
 caveats:
   swe: ''
   eng: ''
@@ -48,7 +47,7 @@ example: |-
   - <token>:stanza.ufeats  # Universal morphological features
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml

@@ -7,22 +7,28 @@ keywords:
 created: 2018-03-28
 updated: 2018-03-28
 name:
-  swe: Annotering av Nominalkvot (NK) för texter
-  eng: Annotation of nominal ratios for text chunks
+  swe: Annotering av Ordvariationsindex (OVIX) för texter
+  eng: Annotation of OVIX values for text chunks
 short_description:
-  swe: Annotering av svenska texter med NK-värden som indikerar hur lätt eller svår
+  swe: Annotering av svenska texter med OVIX-värden som indikerar hur lätt eller svår
     en text är att läsa
-  eng: Annotation of Swedish texts with nominal ratios which indicate the difficulty
+  eng: Annotation of Swedish texts with OVIX values which indicate the difficulty
     of the texts
 description:
   swe: |-
-    Nominalkvot är ett läsbarhetsvärde som beräknas genom att man summerar antalet particip, substantiv och
-    prepositioner och delar detta på antalet verb, adverb och pronomen. Ett högt nominalvärde tyder på en
-    informationstät text, vilket också kan innebära att den är mer svårläst.
+    OVIX är ett läsbarhetsvärde som baseras på andelen ord som endast förekommer en gång i texten.
+
+    OVIX räknas ut med formeln log(tokens) / log(2 - (log(types) / log(tokens)))
+
+    Ett högt värde betyder i princip att läsaren ofta introduceras för nya ord. Å andra sidan kan ett lågt värde
+    indikera en monoton text.
   eng: |-
-    Nominal ratio is a readability measure calculated by adding the number of participles, nouns and prepositions, and
-    dividing this by the number of verbs, adverbs and pronouns. A high nominal ratio suggests a high density of
-    information, which can also mean that the text is difficult to read.
+    OVIX (ordvariationsindex) is a readability measure based on how many words occur only once in the text chunk.
+
+    OVIX is calculated as log(tokens) / log(2 - (log(types) / log(tokens)))
+
+    A high value can be interpreted as frequently introducing new words to the reader. On the other hand, a low value
+    may indicate a monotonous text.
 type: analysis
 analysis_unit: text
 example: |-
@@ -31,14 +37,14 @@ example: |-
   To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
 
   ```yaml
-  - <text>:readability.nk  # Nominal ratios for text chunks
+  - <text>:readability.ovix  # OVIX values for text chunks
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml
-  <text nk="0.33">
+  <text ovix="inf">
     <token>Det</token>
     <token>här</token>
     <token>är</token>
@@ -47,7 +53,7 @@ example: |-
     <token>mening</token>
     <token>.</token>
   </text>
-  <text nk="5.50">
+  <text ovix="94.13">
     <token>LIX</token>
     <token>(</token>
     <token>Björnsson</token>

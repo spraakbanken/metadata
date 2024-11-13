@@ -14,11 +14,7 @@ standard_reference: http://www.lrec-conf.org/proceedings/lrec2018/summaries/857.
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/summaries/846.html
   - https://gup.ub.gu.se/publication/264721?lang=sv
-tool: ''
 model: '[Sensaldo](https://spraakbanken.gu.se/resurser/sensaldo)'
-trained_on: ''
-tagset: ''
-evaluation_results: ''
 description:
   swe: |-
     Token berikas med sentiment-värden genom uppslag av deras SALDO-ID:n i
@@ -40,7 +36,7 @@ example: |-
   - <token>:sensaldo.sentiment_score  # SenSALDO sentiment score
   ```
 
-  For more info on how to use Sparv check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 
   Example output:
   ```xml
