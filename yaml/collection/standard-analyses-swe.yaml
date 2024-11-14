@@ -13,6 +13,7 @@ resources:
   - swe-compound-sparv-saldolemgram
   - swe-compound-sparv-saldowords
   - swe-dependency-stanza-stanzasynt
+  - swe-geotagcontext-sparv
   - swe-lemgram-sparv-saldo
   - swe-lemmatization-sparv-saldo2
   - swe-msd-stanza-stanzamorph-suc3
@@ -21,6 +22,7 @@ resources:
   - swe-pos-stanza-stanzamorph
   - swe-readability-sparv-lix
   - swe-readability-sparv-nk
+  - swe-readability-sparv-ovix
   - swe-sense-wsd
   - swe-sentiment-sparv-sensaldo
 language_codes:

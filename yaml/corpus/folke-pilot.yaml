@@ -14,15 +14,8 @@ language_codes:
 size:
   tokens: 3642351
   sentences: 235713
-in_collections:
-  - folke
+in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/folke-pilot.xml.bz2
-    type: corpus
-    format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_folke-pilot.csv
     type: token frequencies
     format: CSV
