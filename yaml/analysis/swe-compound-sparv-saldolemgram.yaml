@@ -13,7 +13,6 @@ short_description:
   eng: Analysis of SALDO lemgram compounds including a probability ranking
 task: compound analysis
 keywords:
-  - compound analysis
   - saldo
 description:
   swe: |-

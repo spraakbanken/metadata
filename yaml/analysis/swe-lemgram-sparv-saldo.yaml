@@ -13,7 +13,6 @@ short_description:
   eng: Lookup for SALDO lemgrams
 task: lexical lookup
 keywords:
-  - lexical lookup
   - saldo
 description:
   swe: |-

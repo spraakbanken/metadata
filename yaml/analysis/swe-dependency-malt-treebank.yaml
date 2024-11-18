@@ -8,8 +8,6 @@ short_description:
 task: dependency parsing
 language_codes:
   - swe
-keywords:
-  - dependency parsing
 standard_reference: |-
   Joakim Nivre, Johan Hall, and Jens Nilsson. 2006. MaltParser: A Data-Driven Parser-Generator for Dependency Parsing.
   In Proceedings of the Fifth International Conference on Language Resources and Evaluation (LREC’06), Genoa, Italy.

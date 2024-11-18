@@ -14,7 +14,6 @@ short_description:
     made up of SALDO entries
 task: lemmatization
 keywords:
-  - lemmatization
   - saldo
 description:
   swe: |-

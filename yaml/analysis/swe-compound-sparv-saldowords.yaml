@@ -13,7 +13,6 @@ short_description:
   eng: Analysis of SALDO wordform compounds
 task: compound analysis
 keywords:
-  - compound analysis
   - saldo
 description:
   swe: |-

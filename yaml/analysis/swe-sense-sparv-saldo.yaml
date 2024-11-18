@@ -13,7 +13,6 @@ short_description:
   eng: Lookup for SALDO identifiers
 task: lexical lookup
 keywords:
-  - lexical lookup
   - saldo
 description:
   swe: En SALDO-identifierare refererar till ett ords betydelse i [SALDO-lexikonet](https://spraakbanken.gu.se/resurser/saldo).

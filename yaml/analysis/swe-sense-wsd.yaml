@@ -9,7 +9,6 @@ task: sense disambiguation
 language_codes:
   - swe
 keywords:
-  - sense disambiguation
   - saldo
 standard_reference: https://aclanthology.org/N15-1164.pdf
 other_references:

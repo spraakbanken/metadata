@@ -13,8 +13,6 @@ short_description:
   swe: Annotering av SUC-ordklasser med Hunpos för svenska
   eng: Swedish part-of-speech annotation with SUC tags by Hunpos
 task: part-of-speech tagging
-keywords:
-  - pos-tagging
 model: '[suc3_suc-tags_default-setting_utf8.model](https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true)'
 description:
   swe: |-

@@ -13,7 +13,6 @@ short_description:
   eng: Full-form lookup for SALDO citation forms (lemmas)
 task: lemmatization
 keywords:
-  - lemmatization
   - saldo
 description:
   swe: SALDO-fullformslexikonet används för att finna grundformer och ordbetydelser

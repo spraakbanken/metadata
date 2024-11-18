@@ -8,12 +8,11 @@ short_description:
 task: sentiment analysis
 language_codes:
   - swe
-keywords:
-  - sentiment analysis
 standard_reference: http://www.lrec-conf.org/proceedings/lrec2018/summaries/857.html
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/summaries/846.html
   - https://gup.ub.gu.se/publication/264721?lang=sv
+tool: Sparv
 model: '[Sensaldo](https://spraakbanken.gu.se/resurser/sensaldo)'
 description:
   swe: |-
