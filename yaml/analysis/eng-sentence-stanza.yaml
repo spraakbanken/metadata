@@ -19,7 +19,14 @@ short_description:
   swe: Meningssegmentering med Stanzas standardmodell för engelska
   eng: Sentence segmentation with Stanza's standard model for English
 task: sentence segmentation
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 type: analysis
+analysis_unit: sentence
 example: |-
   This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
 
@@ -27,6 +34,12 @@ example: |-
 
   ```yaml
   - stanza.sentence  # Sentence segments
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).

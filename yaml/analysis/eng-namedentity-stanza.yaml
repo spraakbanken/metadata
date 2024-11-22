@@ -19,6 +19,12 @@ short_description:
   swe: Namnigenkänning (NER) med Stanzas standardmodell för engelska
   eng: Named entity recognition with Stanza's standard model for English
 task: named entity recognition
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 description:
   swe: |-
     Namnigenkänning (NER) gör det möjligt att märka upp namnentiteter (som t.ex. personnamn, organisationer, ortnamn) i
@@ -35,6 +41,12 @@ example: |-
   ```yaml
   - stanza.ne  # Named entity segments from Stanza
   - stanza.ne:stanza.ne_type  # Named entitiy types from Stanza
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).

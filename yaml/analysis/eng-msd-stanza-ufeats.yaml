@@ -20,6 +20,12 @@ short_description:
   eng: Stanza-based morphological analysis for English, using universal features (UD)
 task: morphosyntactic tagging
 tagset: '[UD](https://universaldependencies.org/u/feat/index.html)'
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 type: analysis
 analysis_unit: token
 example: |-
@@ -29,6 +35,12 @@ example: |-
 
   ```yaml
   - <token>:stanza.ufeats  # Universal morphological features
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).

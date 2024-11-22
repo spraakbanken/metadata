@@ -22,6 +22,12 @@ short_description:
     standard model for English
 task: part-of-speech tagging
 tagset: '[UD](https://universaldependencies.org/u/pos/)'
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 type: analysis
 analysis_unit: token
 example: |-
@@ -31,6 +37,12 @@ example: |-
 
   ```yaml
   - <token>:stanza.upos  # Part-of-speeches in UD
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).

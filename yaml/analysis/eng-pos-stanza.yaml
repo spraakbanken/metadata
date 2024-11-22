@@ -22,6 +22,12 @@ short_description:
     for English
 task: part-of-speech tagging
 tagset: '[Penn Treebank tagset](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)'
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 type: analysis
 analysis_unit: token
 example: |-
@@ -31,6 +37,12 @@ example: |-
 
   ```yaml
   - <token>:stanza.pos  # Part-of-speech tags
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).

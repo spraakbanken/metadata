@@ -19,6 +19,12 @@ short_description:
   swe: Lemmatisering med Stanzas standardmodell för engelska
   eng: Lemmatization with Stanza's standard model for English
 task: lemmatization
+example_extra: |-
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
+  ```
 type: analysis
 analysis_unit: token
 example: |-
@@ -28,6 +34,12 @@ example: |-
 
   ```yaml
   - <token>:stanza.baseform  # Baseform from Stanza
+  ```
+
+  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  metadata:
+    language: eng
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
