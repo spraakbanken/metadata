@@ -16,6 +16,10 @@ resources:
   - swe-geotagcontext-sparv
   - swe-lemgram-sparv-saldo
   - swe-lemmatization-sparv-saldo2
+  - swe-lexical_classes_text-sparv-blingbring
+  - swe-lexical_classes_text-sparv-swefn
+  - swe-lexical_classes_token-sparv-blingbring
+  - swe-lexical_classes_token-sparv-swefn
   - swe-msd-stanza-stanzamorph-suc3
   - swe-msd-stanza-stanzamorph-ufeats
   - swe-namedentity-swener
@@ -24,7 +28,9 @@ resources:
   - swe-readability-sparv-nk
   - swe-readability-sparv-ovix
   - swe-sense-wsd
+  - swe-sentence-punkt-storsuc
   - swe-sentiment-sparv-sensaldo
+  - swe-tokenization-sparv-betterword
 language_codes:
   - swe
 downloads: []
