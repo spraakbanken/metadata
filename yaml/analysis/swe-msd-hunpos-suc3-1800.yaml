@@ -13,13 +13,6 @@ short_description:
   swe: Annotering av morfosyntaktiska deskriptorer (SUC) med Hunpos för 1800-talssvenska
   eng: Annotation of morphological features (SUC) by Hunpos for Swedish from the 1800's
 task: morphosyntactic tagging
-example_extra: |-
-  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  metadata:
-    language: swe
-    variety: "1800"
-  ```
 model: |-
   - [suc3_suc-tags_default-setting_utf8.model](https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true)
   - a word list along with the words' morphosyntactic information generated from the [Dalin

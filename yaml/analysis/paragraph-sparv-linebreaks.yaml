@@ -15,12 +15,6 @@ short_description:
   eng: Segments text into paragraphs by linebreaks using the RegexpTokenizer from
     NLTK
 task: paragraph segmentation
-example_extra: |-
-  In order to use this paragraph segmenter you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  segment:
-    paragraph_segmenter: linebreaks
-  ```
 type: analysis
 analysis_unit: paragraph
 example: |-

@@ -20,12 +20,6 @@ short_description:
   eng: Dependency parsing with Stanza's standard model for English
 task: dependency parsing
 tagset: '[UD](https://universaldependencies.org/en/dep/)'
-example_extra: |-
-  In order to use this annotation you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  metadata:
-    language: eng
-  ```
 type: analysis
 analysis_unit: token
 example: |-

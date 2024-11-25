@@ -19,15 +19,6 @@ short_description:
   swe: Tokenisering med Stanzas standardmodell för engelska
   eng: Tokenization with Stanza's standard model for English
 task: tokenization
-example_extra: |-
-  In order to use this annotation you need to add the following settings to your Sparv corpus configuration file:
-  ```yaml
-  metadata:
-    language: eng
-
-  classes:
-    token: stanza.token
-  ```
 type: analysis
 analysis_unit: token
 example: |-

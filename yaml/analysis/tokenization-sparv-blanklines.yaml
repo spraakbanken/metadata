@@ -14,12 +14,6 @@ short_description:
   swe: Tokeniserar text utifrån tomma rader med hjälp av NLTKs RegexpTokenizer
   eng: Tokenizes text into tokens by blank lines using the RegexpTokenizer from NLTK
 task: tokenization
-example_extra: |-
-  In order to use this tokenizer you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  segment:
-    token_segmenter: blanklines
-  ```
 type: analysis
 analysis_unit: token
 example: |-

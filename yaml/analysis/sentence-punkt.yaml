@@ -21,12 +21,6 @@ short_description:
   eng: Segments text into sentences by punctuation marks using the RegexpTokenizer
     from NLTK
 task: sentence segmentation
-example_extra: |-
-  In order to use this sentence segmenter you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  segment:
-    sentence_segmenter: punctuation
-  ```
 type: analysis
 analysis_unit: sentence
 example: |-

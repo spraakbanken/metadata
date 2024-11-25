@@ -13,18 +13,6 @@ short_description:
   swe: Annotering av texter med platsinformation, baserad på platser som finns i texten
   eng: Annotate text chunks with location data, based on metadata containing location
     names
-example_extra: |-
-  In order to use this annotation you need to tell Sparv where to look for the geographic metadata. If, for example,
-  your corpus looks like this:
-  ```xml
-  <text author_location="Göteborg">Det var då änna bösigt i bamban!</text>
-  ```
-  and you would like to use `author_location` as input for your annotation you need to add the following setting to your
-  Sparv corpus configuration file:
-  ```yaml
-  geo:
-    metadata_source: text:author_location
-  ```
 description:
   swe: |-
     Texter berikas med platsnamn (och deras geografiska koordinater) som finns i dess metadata. Detta är baserat på

@@ -15,12 +15,6 @@ short_description:
   eng: Segments text into sentences by blank lines using the RegexpTokenizer from
     NLTK
 task: tokenization
-example_extra: |-
-  In order to use this sentence segmenter you need to add the following setting to your Sparv corpus configuration file:
-  ```yaml
-  segment:
-    sentence_segmenter: blanklines
-  ```
 type: analysis
 analysis_unit: sentence
 example: |-
