@@ -37,8 +37,9 @@ other_references: []
 intended_uses:
   swe: ''
   eng: ''
-created: 2024-11-25
-updated: 2024-11-25
+created: 2024-05-08
+updated: 2024-11-26
+doi: 10.23695/xrsg-mp07
 description:
   eng: |-
     <p>
@@ -53,9 +54,6 @@ description:
     <p>
       The Corpus has been developed in collaboration with Språkbanken Text.
     </p>
-    <!--<p>
-      A user guide and more extensive information about the corpus data can be found in the Corpus of Spoken isiXhosa Manual [PDF].
-    </p>-->
     <p>
       <b>For more on annotation, preparation of data, and acknowledgements see:</b>
     </p>
@@ -80,4 +78,3 @@ description:
       <li>Aron Zahran<br>
       PhD, Inalco/Llacan (CNRS) & Ghent University</li>
     </ul>
-doi: 10.23695/xrsg-mp07
