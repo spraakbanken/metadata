@@ -10,7 +10,7 @@ unlisted: false
 successors: []
 language_codes: []  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
 size:
-  entries: 'around 1100'
+  entries: 1100
 in_collections: []
 downloads:
   - url: https://github.com/comparative-concepts/cc-database/
