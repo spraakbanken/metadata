@@ -2,8 +2,8 @@ name:
   swe: Model of Comparative Concepts for Aligning Constructicons (MoCCA)
   eng: Model of Comparative Concepts for Aligning Constructicons (MoCCA)
 short_description:
-  swe: 'Korslänkad databas med jämförelsebegrepp, extraherad och utökad från "Morphosyntax: constructions of the world\u0027s languages", av William Croft (2022)'
-  eng: 'Cross-linked database of Comparative Concepts, extracted and extended from "Morphosyntax: constructions of the world\u0027s languages", by William Croft (2022)'
+  swe: "Korslänkad databas med jämförelsebegrepp, extraherad och utökad från \"Morphosyntax: constructions of the world's languages\", av William Croft (2022)"
+  eng: "Cross-linked database of Comparative Concepts, extracted and extended from \"Morphosyntax: constructions of the world's languages\", by William Croft (2022)"
 type: lexicon
 trainingdata: false
 unlisted: false
