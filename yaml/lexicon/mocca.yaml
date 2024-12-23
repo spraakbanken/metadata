@@ -1,25 +1,25 @@
 name:
-  swe: Model of Comparative Concepts for Aligning Constructicons (MoCCA)
-  eng: Model of Comparative Concepts for Aligning Constructicons (MoCCA)
+  swe: MoCCA
+  eng: MoCCA
 short_description:
-  swe: "Korslänkad databas med jämförelsebegrepp, extraherad och utökad från \"Morphosyntax: constructions of the world's languages\", av William Croft (2022)"
-  eng: "Cross-linked database of Comparative Concepts, extracted and extended from \"Morphosyntax: constructions of the world's languages\", by William Croft (2022)"
+  swe: Model of Comparative Concepts for Aligning Constructicons
+  eng: Model of Comparative Concepts for Aligning Constructicons
 type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
-language_codes: []  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
-size:
-  entries: 1100
+language_codes: []  # The database is typological, so no specific language
 in_collections: []
 downloads:
-  - url: https://github.com/comparative-concepts/cc-database/
+  - url: https://raw.githubusercontent.com/comparative-concepts/cc-database/refs/heads/main/cc-database.yaml
     type: lexicon
     format: YAML
-    info: GitHub repository with the database as a YAML file
+    info: The database in YAML format
 interface:
   - access: https://spraakbanken.gu.se/karp/?mode=mocca
     info: Browse the database in Karp
+  - access: https://github.com/comparative-concepts/cc-database/
+    info: Browse the database repository
   - access: https://comparative-concepts.github.io/cc-database/
     info: Browse the database in a standalone webpage
   - access: https://comparative-concepts.github.io/cc-database/cc-graph.html
@@ -29,7 +29,6 @@ creators:
   - Lorenzi Almeida, Arthur
   - Ljunglöf, Peter
 created: 2023-04-03
-updated: 2023-04-03
 contact_info:
   name: Peter Ljunglöf
   email: peter.ljunglof@cse.gu.se
@@ -40,23 +39,28 @@ annotation: # Anything worth to note about the annotations in this lexicon.
   swe: ''
   eng: ''
 keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
-caveats:
-  swe: '' # Caveats and disclaimers in Swedish
-  eng: '' # Caveats and disclaimers in English
+caveats: # Caveats and disclaimers
+  swe: ''
+  eng: ''
 standard_reference: |-
-  Croft, William (2022).
-  <em><a href="https://doi.org/10.1017/9781316145289">Morphosyntax: Constructions of the World's Languages</a></em>.
-  Cambridge: Cambridge University Press.
-other_references: []
-intended_uses:
-  swe: '' # The intended uses for this resource (in Swedish)
-  eng: '' # The intended uses for this resource (in English)
-description:
-  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
+  Arthur Lorenzi, Peter Ljunglöf, Ben Lyngfelt, Tiago Timponi Torrent, William Croft,
+  Alexander Ziem, Nina Böbel, Linnéa Bäckström, Peter Uhrig, and Ely E. Matos (2024).
+  <em><a href="https://aclanthology.org/2024.isa-1.12">MoCCA: A Model of Comparative Concepts
+  for Aligning Constructicons</a></em>.
+  In Proceedings of the 20th Joint ACL–ISO Workshop on Interoperable Semantic Annotation @ LREC-COLING 2024,
+  pages 93–98, Torino, Italia.
+other_references:
+  - |-
+    Croft, William (2022).
+    <em><a href="https://doi.org/10.1017/9781316145289">Morphosyntax: Constructions of the World's Languages</a></em>.
+    Cambridge: Cambridge University Press.
+intended_uses: # The intended uses for this resource
+  swe: ''
+  eng: ''
+description: # Longer description, may contain HTML and line breaks.
   swe: |-
-    Korslänkad databas med jämförelsebegrepp, extraherad och utökad från
+    Korslänkad databas med språktypolgiska jämförelsebegrepp, extraherad och utökad från
     "Morphosyntax: constructions of the world's languages", av William Croft (2022)
-  # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
   eng: |-
     Cross-linked database of Comparative Concepts, extracted and extended from
     "Morphosyntax: constructions of the world's languages", by William Croft (2022)
