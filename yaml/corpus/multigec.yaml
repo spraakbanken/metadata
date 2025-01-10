@@ -1,0 +1,63 @@
+name:
+  swe: MultiGEC
+  eng: MultiGEC
+short_description:
+  swe: "MultiGEC är en datamängd för Grammatical Error Correction (uppgift inom NLP) och innehåller parallel data för 10 språk och 15 delkorpusar (ytterligare 2 språk kan fås på begäran). Varje delkorpus består av två eller fler varianter av samma texter (oftast uppsatser som skrivs av språkinlärare), där en version (orig) har skrivits av en författare (elev, student, etc.) och de andra versionerna (ref1, ref2, ...) är korrigerade versioner av samma text. Språk som ingår: tjeckiska, estniska, tyska, grekiska, isländska, italienska, lettiska, slovenska, svenska och ukrainska (engelska och ryska kan fås på begäran). Texter kommer från olika ursprungskorpusar, men har genomgått omformattering för att ha en gemensam format."
+  eng: "MultiGEC is a dataset for Grammatical Error Correction task containing parallel data for 10 languages and 15 subcorpora (two more languages can be obtained by on request). Each subcorpus contains two or more parallel versions of texts (typically, full learner essays), where one version (orig) is the one that the author originally wrote, and the others (ref1, ref2, ...) are corrected versions of the same text. Languages included: Czech, Estonian, German, Greek, Icelandic, Italian, Latvian, Slovene, Swedish and Ukrainian (English and Russian are available on request). Texts come from different original corpora, but are reformatted to a unified format."
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+collection: false
+language_codes:
+  - ces
+  - deu
+  - ell
+  - eng
+  - est
+  - isl
+  - ita
+  - lav
+  - rus
+  - slv
+  - swe
+  - ukr
+downloads: []
+interface:
+  - access: https://lt3.ugent.be/resources/multigec-dataset
+    licence: subject to Terms of Use
+    restriction: attribution, no-redistribution, no use with the proprietary models, no commercial use, personal access
+contact_info:
+  name: Elena Volodina | Orphée De Clercq
+  email: multigec@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text, Sweden | Ghent University, Belgium
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: Texts are manually normalized (i.e. corrected to produce a new corrected version). No additional annotation has been performed or preserved from the source corpora. For three languages, tokenization is available in the first version (Icelandic, Russian, German), but will be removed in new releases.
+keywords:
+  - grammatical error correction
+  - language learning
+  - essays
+  - multilinguality
+caveats:
+  swe: ''
+  eng: "The data is relatively homogeneous, consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the data does not contain full-text essays, but fragments of texts. Details on these aspects are provided on a dedicated webpage: https://spraakbanken.gu.se/en/compsla/multigec-dataset"
+other_references:
+  - '[INFO]: https://spraakbanken.github.io/multigec-2025/'
+  - '[HOW TO CITE 1]: {publication to_be_added}'
+  - '[HOW TO CITE 2]: {publication to_be_added}'
+intended_uses:
+  swe: ''
+  eng: Grammatical Error Correction, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data, pedagogical cases
+    
+description:
+  swe: ''
+  eng: |-
+    <p>MultiGEC dataset descriptionp</p>
+
+    <p>MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by the CompSLA working group and over 20 external data providers in the context of MultiGEC-2025, the first text-level GEC shared task.</p>
+    <p>The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. More detailed information about each subcorpus is available as machine-readable metadata, whose format is described here (https://spraakbanken.github.io/multigec-2025/data_format.html). </p>
+
+
