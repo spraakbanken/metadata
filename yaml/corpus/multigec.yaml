@@ -45,9 +45,7 @@ caveats:
   swe: ''
   eng: "The data is relatively homogeneous, consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the data does not contain full-text essays, but fragments of texts. Details on these aspects are provided on a dedicated webpage: https://spraakbanken.gu.se/en/compsla/multigec-dataset"
 other_references:
-  - '[INFO]: https://spraakbanken.github.io/multigec-2025/'
-  - '[HOW TO CITE 1]: {publication to_be_added}'
-  - '[HOW TO CITE 2]: {publication to_be_added}'
+  - '[INFO](https://spraakbanken.github.io/multigec-2025/)'
 intended_uses:
   swe: ''
   eng: Grammatical Error Correction, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data, pedagogical cases
