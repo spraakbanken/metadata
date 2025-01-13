@@ -52,15 +52,14 @@ intended_uses:
     
 description:
   swe: |-
-    <h3>Dataset description</h3>
-
-    <p>MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by the CompSLA working group and over 20 external data providers in the context of MultiGEC-2025, the first text-level GEC shared task.</p>
-    <p>The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. More detailed information about each subcorpus is available as machine-readable metadata, whose format is described <a here href="https://spraakbanken.github.io/multigec-2025/data_format.html">. </p>
-  eng: |-
-    <h3>Beskrivning</h3>
+    <br><h3><b>Beskrivning</b></h3>
 
     <p>MultiGEC är en datamängd för automatisk korrigering av grammatiska fel -- på engelska <i>Grammatical Error Correction</i> (GEC) -- på 12 olika europeiska språk (tjeckiska, engelska, estniska, tyska, grekiska, isländska, italienska, lettiska, ryska, slovenska, svenska och ukrainska) som sammanställts av CompSLA-arbetsgruppen och över 20 externa dataleverantörer inom ramen för MultiGEC-2025, den första <i>shared task</i> för GEC på textnivå.</p>
     <p>MultiGEC är indelat i 17 delkorpusar som täcker olika språk, domäner och korrigeringsstilar, vilka sammanfattas nedan. Mer detaljerad information om varje subkorpus finns tillgänglig som maskinläsbara metadata, vars format beskrivs här <a here href="https://spraakbanken.github.io/multigec-2025/data_format.html">.</p>
+  eng: |-
+    <br><h3><b>Dataset description</b></h3>
 
+    <p>MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by the CompSLA working group and over 20 external data providers in the context of MultiGEC-2025, the first text-level GEC shared task.</p>
+    <p>The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. More detailed information about each subcorpus is available as machine-readable metadata, whose format is described <a here href="https://spraakbanken.github.io/multigec-2025/data_format.html">. </p>
 
 doi: 10.23695/h9f5-8143
