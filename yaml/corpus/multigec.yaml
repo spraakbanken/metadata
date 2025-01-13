@@ -35,7 +35,7 @@ contact_info:
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
-  eng: Texts are manually normalized (i.e. corrected to produce a new corrected version). No additional annotation has been performed or preserved from the source corpora. For three languages, tokenization is available in the first version (Icelandic, Russian, German), but will be removed in new releases.
+  eng: Each text is accompanied by a manually normalized version (i.e. corrected). No additional annotation has been performed or preserved from the source corpora. For three languages (Icelandic, German and Russian), the first version of the dataset consists of pre-tokenized texts, which will be detokenized in future releases.
 keywords:
   - grammatical error correction
   - language learning
@@ -43,9 +43,9 @@ keywords:
   - multilinguality
 caveats:
   swe: ''
-  eng: "The data is relatively homogeneous, consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the data does not contain full-text essays, but fragments of texts. Details on these aspects are provided on a dedicated webpage: https://spraakbanken.gu.se/en/compsla/multigec-dataset"
+  eng: "The data is relatively homogeneous, consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the data does not contain full-text essays, but fragments of texts. Details on these aspects are provided [on a dedicated webpage](https://spraakbanken.gu.se/en/compsla/multigec-dataset)"
 other_references:
-  - '[INFO](https://spraakbanken.github.io/multigec-2025/)'
+  - '[Dataset webpage](https://spraakbanken.github.io/multigec-2025/)'
 intended_uses:
   swe: ''
   eng: Grammatical Error Correction, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data, pedagogical cases
@@ -53,7 +53,7 @@ intended_uses:
 description:
   swe: ''
   eng: |-
-    <p>MultiGEC dataset descriptionp</p>
+    <h3>MultiGEC dataset description</h3>
 
     <p>MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by the CompSLA working group and over 20 external data providers in the context of MultiGEC-2025, the first text-level GEC shared task.</p>
     <p>The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. More detailed information about each subcorpus is available as machine-readable metadata, whose format is described here (https://spraakbanken.github.io/multigec-2025/data_format.html). </p>
