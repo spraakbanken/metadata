@@ -9,7 +9,6 @@ short_description:
 type: corpus
 trainingdata: false
 unlisted: true
-successors:
 language_codes:
   - swe
 in_collections:
