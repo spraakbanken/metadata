@@ -5,9 +5,6 @@ short_description:
   swe: Samling av analyser som används i Mink
   eng: Collection of analyses used in Mink
 type: analysis
-trainingdata: false
-unlisted: false
-successors: []
 collection: true
 resources:
   - swe-compound-sparv-saldolemgram
@@ -32,7 +29,6 @@ resources:
   - swe-tokenization-sparv-betterword
 language_codes:
   - swe
-downloads: []
 interface:
   - access: https://spraakbanken.gu.se/mink
     licence: CC BY 4.0
@@ -43,16 +39,6 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats: 
-  swe: ''
-  eng: ''
-intended_uses:
-  swe: ''
-  eng: ''
 description:
   swe: |-
     Dessa analyser är tillgängliga via [Mink-gränssnittet](https://spraakbanken.gu.se/mink).

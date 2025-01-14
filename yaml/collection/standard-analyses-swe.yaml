@@ -5,9 +5,6 @@ short_description:
   swe: Samling av Sparv-analyser för modern svenska
   eng: Collection of Sparv analyses for modern Swedish
 type: analysis
-trainingdata: false
-unlisted: false
-successors: []
 collection: true
 resources:
   - swe-compound-sparv-saldolemgram
@@ -33,7 +30,6 @@ resources:
   - swe-tokenization-sparv-betterword
 language_codes:
   - swe
-downloads: []
 interface: []
 contact_info:
   name: Markus Forsberg
@@ -41,16 +37,6 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats: 
-  swe: ''
-  eng: ''
-intended_uses:
-  swe: ''
-  eng: ''
 description:
   swe: |-
     Dessa analyser används som standard för texter skrivna på modern svenska.
