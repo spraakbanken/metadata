@@ -23,6 +23,7 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
     restriction: attribution
 interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - access: ''  # A link to the resource in an interface (e.g in Korp or Karp)
+    info: ''  # Additional description of the interface
     licence: CC BY 4.0
     restriction: attribution
 creators: [] # List of people that created the resource (format: lastname, firstname)
