@@ -160,6 +160,10 @@
             "description": "A link to the resource in an interface (e.g in Korp or Karp)",
             "type": "string"
           },
+          "info": {
+            "description": "Additional info, if required",
+            "type": "string"
+          },
           "licence": {
             "description": "",
             "type": "string",
