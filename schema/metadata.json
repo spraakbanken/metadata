@@ -19,16 +19,16 @@
       }
     },
     "description": {
-      "description": "Longer description. May contain HTML and line breaks.",
+      "description": "Longer description. May contain Markdown or HTML.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
         "swe": {
-          "description": "Longer description in Swedish. May contain HTML and line breaks.",
+          "description": "Longer description in Swedish. May contain Markdown or HTML.",
           "type": "string"
         },
         "eng": {
-          "description": "Longer description in English. May contain HTML and line breaks.",
+          "description": "Longer description in English. May contain Markdown or HTML.",
           "type": "string"
         }
       }
