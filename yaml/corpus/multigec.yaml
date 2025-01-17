@@ -27,6 +27,37 @@ interface:
   - access: https://lt3.ugent.be/resources/multigec-dataset
     licence: subject to Terms of Use
     restriction: attribution, no-redistribution, no use with the proprietary models, no commercial use, personal access
+creators:
+  - Masciolini, Arianna 
+  - Caines, Andrew
+  - De Clercq, Orphée
+  - Kruijsbergen, Joni 
+  - Kurfali, Murathan
+  - Muñoz Sánchez, Ricardo 
+  - Volodina, Elena
+  - Östling, Robert
+  - Allkivi-Metsoja, Kais
+  - Arhar Holdt, Špela
+  - Auzina, Ilze 
+  - Darģis, Roberts 
+  - Drakonaki, Elena 
+  - Frey, Jennifer-Carmen 
+  - Glišić, Isidora
+  - Kikilintza, Pinelopi
+  - Nicolas, Lionel 
+  - Romanyshyn, Mariana 
+  - Rosen, Alexandr
+  - Rozovskaya, Alla 
+  - Suluste, Kristjan 
+  - Syvokon, Oleksiy
+  - Tantos, Alexandros
+  - Touriki, Despoina-Ourania
+  - Tsiotskas, Konstantinos 
+  - Tsourilla, Eleni
+  - Varsamopoulos, Vassilis 
+  - Wisniewski, Katrin
+  - Žagar, Aleš 
+  - Zesch, Torsten 
 contact_info:
   name: Elena Volodina | Orphée De Clercq
   email: multigec@svenska.gu.se
