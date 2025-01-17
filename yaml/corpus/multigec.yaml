@@ -8,7 +8,9 @@ type: corpus
 trainingdata: true
 unlisted: false
 successors: []
-collection: false
+in_collections:
+  - learner language corpora
+  - learner language datasets
 language_codes:
   - ces
   - deu
