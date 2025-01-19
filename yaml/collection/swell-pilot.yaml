@@ -56,10 +56,11 @@ caveats:
     colleciton periods. While the three subcorpora can be used simultaneously, care
     should be taken into account to ensure that artifacts from these differences do
     not leak into models.
+standard_reference: {publication 248141}
 other_references:
-  - '[HOW TO CITE 1]: {publication 248141}'
-  - '[HOW TO CITE 2]: {publication 285624}'
+  - '[HOW TO CITE 1]: Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94. https://doi.org/10.3384/ecp205012'
   - '[README]: Elena Volodina (2021). https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
+  - '[HOW TO CITE 2]: {publication 285624}'
 intended_uses:
   swe: ''
   eng: Automated grading using the CEFR scale, anonymization, second language acquisiton
