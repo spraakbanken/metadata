@@ -11,6 +11,7 @@ successors: []
 in_collections:
   - learner language corpora
   - learner language datasets
+  - swell
 language_codes:
   - ces
   - deu
