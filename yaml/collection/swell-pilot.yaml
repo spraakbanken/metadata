@@ -2,7 +2,7 @@ name:
   swe: SweLL-pilot
   eng: SweLL-pilot
 short_description:
-  swe: Uppsatser svrivna av vuxenstuderande i svenska, annoterade med CEFR nivåerna (en Europeisk skala med färdighetsnivåer inom språkinlärningen). Uppsatserna samlades under perioden 2006-2015.
+  swe: Uppsatser skrivna av vuxenstuderande i svenska, annoterade med CEFR nivåerna (en Europeisk skala med färdighetsnivåer inom språkinlärningen). Uppsatserna samlades under perioden 2006-2015.
   eng: Essays written by adult learners of Swedish, manually labeled with the CEFR levels (a European scale of language proficiency levels within language learning). Collection period 2006-2015.
 type: corpus
 trainingdata: false
