@@ -20,7 +20,7 @@ size:
 in_collections:
   - superlim-1-0
   - swell
-  - learner language
+  - learner_language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
     type: datasetDaLAJsplit.csv
