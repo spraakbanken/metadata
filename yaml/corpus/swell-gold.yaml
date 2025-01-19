@@ -16,15 +16,27 @@ language_codes:
   - swe
 size:
   texts: 502
-in_collections: []
+in_collections:
+  - learner language corpora
+  - swell
 downloads: []
-interface: []
+interface:
+  - access: Application form (https://sunet.artologik.net/gu/swell)
+    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+creators: 
+- Elena Volodina
+- Lena Granstedt
+- Beáta Megyesi
+- Julia Prentice
+- Lisa Rudebeck
+- Gunlög Sundberg
+- Mats Wirén
 description:
   swe: ''
   eng: |-
