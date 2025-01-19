@@ -13,7 +13,8 @@ language_codes:
 size:
   words: 16230
   other: 4986
-in_collections: []
+in_collections: 
+- learner_language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
     type: CodeRoomor_v01_lemgramView.csv
