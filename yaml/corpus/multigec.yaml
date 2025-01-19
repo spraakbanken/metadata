@@ -9,8 +9,7 @@ trainingdata: true
 unlisted: false
 successors: []
 in_collections:
-  - learner language corpora
-  - learner language datasets
+  - learner language
   - swell
 language_codes:
   - ces
