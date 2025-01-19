@@ -13,6 +13,9 @@ trainingdata: false
 unlisted: false
 successors: []
 collection: true
+in_collections:
+  - learner language corpora
+  - swell
 resources:
   - spinv1
   - sw1203
@@ -21,9 +24,16 @@ language_codes:
   - swe
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=spin-source,sw1203,tisus
-    licence: CC BY 4.0
-    restriction: attribution
+ - access: Application form (https://sunet.artologik.net/gu/swell)
+   license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+creators: 
+- Elena Volodina
+- Ildikó Pilán
+- Ingegerd Enström
+- Lorena Llozhi
+- Peter Lundkvist
+- Gunlög Sundberg
+- Monica Sandell
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
