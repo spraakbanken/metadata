@@ -74,7 +74,7 @@ caveats:
 other_references:
   - '[1] {publication 285609} (paper describing the corpus)'
   - '[2] {publication 311732} (correction annotation guidelines)'
-  - '[3] https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL (readme)'
+  - '[3] Elena Volodina (2021). SweLL-gold metadata: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL (readme)'
 intended_uses:
   swe: ''
   eng: 'The corpus is primarily intended for Second Language Acquisition studies and
