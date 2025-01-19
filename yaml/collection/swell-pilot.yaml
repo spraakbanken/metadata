@@ -10,7 +10,7 @@ unlisted: false
 successors: []
 collection: true
 in_collections:
-  - learner language corpora
+  - learner_language
   - swell
 resources:
   - spinv1
