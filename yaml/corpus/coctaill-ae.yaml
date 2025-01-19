@@ -15,7 +15,8 @@ language_codes:
   - swe
 size:
   tokens: 343793
-in_collections: []
+in_collections: 
+- learner_language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-AE.txt
     type: token frequencies
