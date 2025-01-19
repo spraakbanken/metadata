@@ -12,6 +12,9 @@ language_codes:
   - swe
 in_collections:
   - superlim
+  - swell
+  - learner language corpora
+  - learner language datasets
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip
     type: an archive with the dataset in JSONL format and the documentation sheet
@@ -324,5 +327,5 @@ description:
     
 standard_reference: "Elena Volodina, Yousuf Ali Mohammed, Aleksandrs Berdicevskis, Gerlof Bouma, and Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish. In <i>Proceedings of the 12th Workshop on NLP for Computer Assisted Language Learning</i>, pages 94–101, Tórshavn, Faroe Islands. LiU Electronic Press. <a href='https://aclanthology.org/2023.nlp4call-1.11/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/326817'>Bibtex</a>"
 
-updated: 2024-01-25
+updated: 2025-01-19
 doi: 10.23695/kxvz-tx42
