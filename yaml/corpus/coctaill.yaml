@@ -18,7 +18,7 @@ size:
   tokens: 710251
   sentences: 89086
 in_collections: 
-- learner language
+- learner_language
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill.xml.bz2
     type: corpus
