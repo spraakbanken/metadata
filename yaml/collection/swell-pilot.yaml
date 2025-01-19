@@ -2,12 +2,8 @@ name:
   swe: SweLL-pilot
   eng: SweLL-pilot
 short_description:
-  swe: Uppsatser svrivna av vuxenstuderande i svenska, manuellt anonymiserade och
-    annoterade med felkategorier. Korpusen innehåller både originaltexten och en normaliserad
-    version av varje uppsats. Insamlingperiod 2006-2015.
-  eng: Essays written by adult learners of Swedish, manually anonymised and correction
-    annotated. The corpus contains both the original learner text and a corrected
-    version of each essay. Collection period 2006-2015.
+  swe: Uppsatser svrivna av vuxenstuderande i svenska, annoterade med CEFR nivåerna (en Europeisk skala med färdighetsnivåer inom språkinlärningen). Uppsatserna samlades under perioden 2006-2015.
+  eng: Essays written by adult learners of Swedish, manually labeled with the CEFR levels (a European scale of language proficiency levels within language learning). Collection period 2006-2015.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -42,7 +38,7 @@ contact_info:
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
-  eng: Essays are manually transcribed and anonymized. They are also graded using
+  eng: Essays are manually graded using
     the CEFR scale by human teachers. In addition, the essays are also linguistically
     annotated (POS tagging, lemmatization, dependency annotation) using Sparv.
 keywords:
@@ -61,9 +57,9 @@ caveats:
     should be taken into account to ensure that artifacts from these differences do
     not leak into models.
 other_references:
-  - '[README]: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
   - '[HOW TO CITE 1]: {publication 248141}'
   - '[HOW TO CITE 2]: {publication 285624}'
+  - '[README]: Elena Volodina (2021). https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot'
 intended_uses:
   swe: ''
   eng: Automated grading using the CEFR scale, anonymization, second language acquisiton
