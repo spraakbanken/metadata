@@ -13,8 +13,7 @@ language_codes:
 in_collections:
   - superlim
   - swell
-  - learner language corpora
-  - learner language datasets
+  - learner_language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj-ged-superlim/dalaj-ged-superlim.zip
     type: an archive with the dataset in JSONL format and the documentation sheet
