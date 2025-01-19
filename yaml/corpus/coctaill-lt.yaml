@@ -16,7 +16,8 @@ language_codes:
 size:
   tokens: 308206
   sentences: 25930
-in_collections: []
+in_collections: 
+- learner_language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-LT.txt
     type: token frequencies
