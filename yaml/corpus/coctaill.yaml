@@ -17,7 +17,8 @@ language_codes:
 size:
   tokens: 710251
   sentences: 89086
-in_collections: []
+in_collections: 
+- learner language
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/coctaill.xml.bz2
     type: corpus
@@ -35,23 +36,29 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill
     licence: CC BY 4.0
     restriction: attribution
-other_references:
-  - '{publication 206132}'
+standard_reference: {publication 206132}
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+creators: 
+- Elena Volodina
+- Ildikó Pilán
+
 annotation:
   swe: ''
   eng: ''
-keywords: []
+keywords: 
+- course books texts
+- language learning
+- Swedish as a second language
 caveats:
   swe: ''
-  eng: ''
+  eng: 'Full texts are not available due to copyright restrictions.'
 intended_uses:
   swe: ''
   eng: ''
-updated: 2017-10-30
+updated: 2025-01-19
 doi: 10.23695/v8xs-p564
