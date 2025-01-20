@@ -37,6 +37,11 @@ contact_info:
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+creators: 
+  - Elena Volodina
+  - Ildikó Pilán
+standard_reference: 'Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. (https://ep.liu.se/ecp/107/010/ecp14107010.pdf)'
+
 annotation:
   swe: ''
   eng: ''
