@@ -4,10 +4,10 @@ name:
 short_description:
   swe: Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för
     textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga
-    annoteringar.
+    annoteringar. Se mer här https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-data 
   eng: Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for
     text structure and pedagogical/didactical categories; automatically linguistically
-    annotated.
+    annotated. See more here https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-data
 type: corpus
 trainingdata: false
 unlisted: false
@@ -36,7 +36,7 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill
     licence: CC BY 4.0
     restriction: attribution
-standard_reference: {publication 206132}
+
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
@@ -46,6 +46,9 @@ contact_info:
 creators: 
 - Elena Volodina
 - Ildikó Pilán
+standard_reference: 
+- 'Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. (https://ep.liu.se/ecp/107/010/ecp14107010.pdf)'
+- {publication 206132}
 
 annotation:
   swe: ''
