@@ -1,12 +1,21 @@
 name:
-  swe: SweLL target
-  eng: SweLL target
+  swe: SweLL-gold target
+  eng: SweLL-gold target
 type: corpus
 language_codes:
 - swe
 size:
   tokens: 19356
   sentences: 1197
+creators: 
+- Elena Volodina
+- Lena Granstedt
+- Beáta Megyesi
+- Julia Prentice
+- Lisa Rudebeck
+- Gunlög Sundberg
+- Mats Wirén
+
 downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt
   type: token frequencies
@@ -16,7 +25,14 @@ downloads:
   restriction: attribution
 interface:
 - access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
-  licence: CC BY 4.0
-  restriction: attribution
+  info: 'Application for access (https://sunet.artologik.net/gu/swell)'
+  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+  restriction: attribution, personal access, no redistribution
+  
+other_references:
+  - '[1] {publication 285609} (paper describing the corpus)'
+  - '[2] {publication 311732} (correction annotation guidelines)'
+  - '[3] Elena Volodina (2021). SweLL-gold metadata: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL (readme)'
+
 updated: 2020-06-05
 doi: 10.23695/wmtb-7w33
