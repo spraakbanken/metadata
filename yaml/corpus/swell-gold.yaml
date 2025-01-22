@@ -22,7 +22,8 @@ in_collections:
 downloads: []
 interface:
   - access: Application form (https://sunet.artologik.net/gu/swell)
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    restriction: ''
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se

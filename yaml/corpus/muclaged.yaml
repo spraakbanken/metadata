@@ -1,0 +1,59 @@
+name:
+  swe: MuClaGED
+  eng: MuClaGED
+short_description:
+  swe: "MuClaGED är en datamängd för multi-class Grammatical Error Detection för svenska. Den är baserad på SweLL-gold korpusen."
+  eng: "MuClaGED is a dataset for multi-class Grammatical Error Detection for Swedish. The dataset is based on the SweLL-gold corpus."
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+in_collections:
+  - learner_language
+  - swell
+language_codes:
+  - swe
+downloads: []
+interface:
+  - access: https://sunet.artologik.net/gu/swell
+    licence: misc
+    info: Application format
+    restriction: ''
+creators:
+  - Judit Casademont Moner
+  - Elena Volodina
+contact_info:
+  name: Elena Volodina 
+  email: compsla@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text, Sweden
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: 'Each token has an error label (high level error type) and edit type that has been applied for correction (addition, deletion and replacement).'
+keywords:
+  - grammatical error detection
+  - token-level detection
+  - error labeling
+  - error edit labeling
+  - language learning
+  - sentences
+size:
+  tokens: 155415
+  sentences: 8553
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: '{publication 321955}'
+other_references: []
+intended_uses:
+  swe: ''
+  eng: 'Grammatical Error Detection and labeling, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data.'
+description:
+  swe: ''
+  eng: |-
+    <br><h3><b>Dataset description</b></h3>
+    <p>Data is provided in a tab-separated format consisting of five columns, namely, token id, token, list of error codes for addition, list of error codes for deletion and list of codes for replacement.  
+    See more on data format in the standard reference article. </p>
+    <p>License: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res).</p>
+updated: 2025-01-19

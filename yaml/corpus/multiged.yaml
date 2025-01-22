@@ -1,0 +1,72 @@
+name:
+  swe: MultiGED
+  eng: MultiGED
+short_description:
+  swe: "MultiGED är en datamängd för Grammatical Error Detection (uppgift inom NLP) och innehåller data för 5 språk (tjeckiska, engelska, tyska, italienska och svenska)."
+  eng: "MultiGEC is a dataset for Grammatical Error Detection (a task within NLP) containing data for 5 languages (Czech, English, German, Italian and Swedish). "
+type: corpus
+trainingdata: true
+unlisted: false
+successors: []
+in_collections:
+  - learner_language
+  - swell
+language_codes:
+  - ces
+  - deu
+  - eng
+  - ita
+  - swe
+downloads:
+  - url: 'https://spraakbanken.gu.se/lb/resurser/data/multiged-2023.tar.bz2'
+    type: corpus
+    format: tsv
+    info: ''
+    licence: ''
+interface:
+  - access: https://github.com/spraakbanken/multiged-2023/
+    info: "The corpus on Github"
+    licence: varies
+    restriction: varies
+creators:
+  - Elena Volodina
+  - Chris Bryant
+  - Andrew Caines
+  - Orphée De Clercq
+  - Jennifer-Carmen Frey
+  - Elizaveta Ershova
+  - Alexandr Rosen
+  - Olga Vinogradova 
+contact_info:
+  name: Elena Volodina | Orphée De Clercq
+  email: compsla@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text, Sweden | Ghent University, Belgium
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: 'Each token has a label c or i - for correct and incorrect.'  
+keywords:
+  - grammatical error detection
+  - token-level detection
+  - language learning
+  - sentences
+  - multilinguality
+caveats:
+  swe: "Datan är relativt homogena, dock kan sättet som begreppet fel har definiterats i de olika ursprungskorpusarna variera och påverka MultiGED datan." 
+  eng: "The data is relatively homogeneous, although the definition of an error span is slightly different between the included languages." 
+standard_reference: '{publication 331652}'
+other_references:
+  - '[Dataset webpage](https://spraakbanken.github.io/multiged-2023/)'
+intended_uses:
+  swe: ''
+  eng: 'Grammatical Error Detection, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data.'
+description:
+  swe: ''
+  eng: |-
+    <br><h3><b>Dataset description</b></h3>
+    <p>MultiGED is a dataset for Multilingual Grammatical Error Detection in 5 European languages (Czech, English, German, Italian and Swedish) compiled by the CompSLA working group in the context of MultiGED-2023, the first multilinual GED shared task.</p>
+    <p>The data comes from learner essays, but the sequence of sentences within essays is not kept. Instead, this is a set of randomized sentences to prevent re-construction of original essays.</p>
+    <p>Data is provided in a tab-separated format consisting of two columns, where the first column contains the token and the second column contains the label (c or i), i.e. correct and incorrect. Note that there are no column headers, each sentence is separated by an empty line, and double quotes are escaped. 
+    See more on data format <a here href="https://spraakbanken.github.io/multiged-2023/">. </p>
+updated: 2025-01-19

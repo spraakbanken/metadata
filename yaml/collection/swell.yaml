@@ -1,0 +1,65 @@
+name:
+  swe: SweLL
+  eng: SweLL
+short_description:
+  swe: 'SweLL -- Swedish Learner Language -- är en samling av SweLL korpusar och derivata resurser med ursprung i dessa korpusar. SweLL korpusar består av elevtexter som skrevs av elever med andra modersmål än svenska (andraspråkskorpusar). Alla texter samlades inom provsituationer (ej hemuppgifter).'
+  eng: 'SweLL -- Swedish Learner Language -- is a collection of SweLL corpora and derivative resources coming from these corpora. SweLL corpora consisf of learner texts written by learners with other mother tongues than Swedish. All texts have been collected in test situations (none of them coming from home-written tasks).'
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - swell-pilot
+  - swell-gold
+  - dalaj-1-0
+  - dalaj-ged-superlim
+  - multiged
+  - muclaged
+  - multigec
+language_codes:
+  - swe
+  - mul
+downloads: []
+contact_info:
+  name: Elena Volodina
+  email: swell@svenska.gu.se or compsla@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng:  |-
+    <h2> Included resources </h2>
+    <ul>
+    <li><b>SweLL-gold</b>  is a second language learner corpus, featuring pseudonymization, normalization and correction-annotation</li>
+    <li><b>SweLL-pilot</b> is a second language learner corpus, featuring CEFR labeling</li>
+    <li><b>DaLAJ</b> resources are a collection of sentence pairs (original - corrected) containing one error each</li>
+    <li><b>MultiGED</b> -- Multilingual Grammatical Error Detection - is a dataset for grammamatical error detection, featuring five languages (Czech, German, English, Italian, Swedish). The data is organized by sentences, where each token has an annotation whether it is correct or incorrect (c or i). The corrected version is not provided. MultiGED has been used for a shared task (https://spraakbanken.github.io/multiged-2023/) </li>
+    <li><b>MuClaGED</b> -- Multi-Class Grammatical Error Detection - is a dataset for Swedish only, organized by sentences, each incorrect token associated with the type of correction (Orthography, Syntax, Morphology, etc.) and the type of edit (Addition, Deletion, Replacement) </li>
+    <li><b>MultiGED</b> -- Multilingual Grammatical Error Correction is a dataset for grammamatical error detection, featuring twelve languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian). The data is organized by essay pairs (original - corrected). MultiGEC has been used for a shared task (https://spraakbanken.github.io/multigec-2025/) </li>
+    </ul> 
+annotation:
+  swe: ''
+  eng: ''
+keywords: 
+  - L2 Swedish
+  - second language
+  - language learning
+  - essays
+  - Swedish learner language
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: '{publication 345597}'
+other_references: 
+  - '{publication 248141}'
+  - '{publication 285609}'
+  - '{publication 326817}'
+  - '{publication 331652}'
+  - '{publication 321955}'
+intended_uses:
+  swe: ''
+  eng: 'Research, development and pedagogical applications within second language acquisition and intelligent computer-assisted language learning'
+updated: 2025-01-19
+
