@@ -1,0 +1,22 @@
+name:
+  swe: Platsannonser
+  eng: Platsannonser
+type: corpus
+unlisted: true
+language_codes:
+- swe
+size:
+  tokens: 173090
+  sentences: 8737
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PLATSANNONSER.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=platsannonser
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2017-05-31

@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-de-restricted
+  eng: DReaM-de-restricted
+type: corpus
+language_codes:
+- deu
+size:
+  tokens: 36965999
+  sentences: 2226074
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-DE-RESTRICTED.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-de-restricted
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-04-08

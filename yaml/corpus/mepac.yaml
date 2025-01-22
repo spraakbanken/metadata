@@ -1,0 +1,21 @@
+name:
+  swe: MEPAC bloggar
+  eng: MEPAC bloggar
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 2738428
+  sentences: 201151
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_MEPAC.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=mepac
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2017-03-14

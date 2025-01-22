@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-it-restricted
+  eng: DReaM-it-restricted
+type: corpus
+language_codes:
+- ita
+size:
+  tokens: 7310662
+  sentences: 379949
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-IT-RESTRICTED.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-it-restricted
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-04-13

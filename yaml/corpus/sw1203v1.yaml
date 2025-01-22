@@ -1,0 +1,21 @@
+name:
+  swe: SW1203 v1
+  eng: SW1203 v1
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 52518
+  sentences: 3145
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203V1.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=sw1203v1
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2021-08-11

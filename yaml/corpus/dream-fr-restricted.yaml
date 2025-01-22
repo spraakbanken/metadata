@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-fr-restricted
+  eng: DReaM-fr-restricted
+type: corpus
+language_codes:
+- fra
+size:
+  tokens: 98684927
+  sentences: 4332669
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-FR-RESTRICTED.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-fr-restricted
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-04-13

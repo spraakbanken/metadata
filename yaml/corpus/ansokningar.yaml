@@ -8,7 +8,7 @@ short_description:
     (lena.rogstroem@svenska.gu.se) for more information and access.
 type: corpus
 trainingdata: false
-unlisted: false
+unlisted: true
 successors: []
 language_codes:
   - swe

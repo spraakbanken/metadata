@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-ru-open
+  eng: DReaM-ru-open
+type: corpus
+language_codes:
+- rus
+size:
+  tokens: 1020355
+  sentences: 64128
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-RU-OPEN.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-ru-open
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2019-12-09

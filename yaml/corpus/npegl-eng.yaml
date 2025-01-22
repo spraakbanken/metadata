@@ -1,0 +1,21 @@
+name:
+  swe: 'NPEGL: Old English'
+  eng: 'NPEGL: Old English'
+type: corpus
+language_codes:
+- eng
+size:
+  tokens: 287756
+  sentences: 14927
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_NPEGL-ENG.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-eng
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2024-03-26

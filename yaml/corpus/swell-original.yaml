@@ -1,0 +1,21 @@
+name:
+  swe: SweLL original
+  eng: SweLL original
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 18862
+  sentences: 1199
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-ORIGINAL.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-original
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-06-05

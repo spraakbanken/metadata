@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-nl-restricted
+  eng: DReaM-nl-restricted
+type: corpus
+language_codes:
+- nld
+size:
+  tokens: 6888475
+  sentences: 387297
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-NL-RESTRICTED.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-nl-restricted
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-04-13

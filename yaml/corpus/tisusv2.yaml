@@ -1,0 +1,21 @@
+name:
+  swe: TISUS-texter v2
+  eng: TISUS-texter v2
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 60036
+  sentences: 3708
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_TISUSV2.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=tisusv2
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2020-11-20

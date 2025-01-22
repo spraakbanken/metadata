@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-it-open
+  eng: DReaM-it-open
+type: corpus
+language_codes:
+- ita
+size:
+  tokens: 1949203
+  sentences: 173714
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-IT-OPEN.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-it-open
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2019-12-09

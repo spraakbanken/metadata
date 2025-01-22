@@ -1,0 +1,20 @@
+name:
+  swe: TISUS v1
+  eng: TISUS v1
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 60632
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_TISUSV1.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=tisusv1
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2021-06-24

@@ -1,0 +1,21 @@
+name:
+  swe: DReaM-fr-open
+  eng: DReaM-fr-open
+type: corpus
+language_codes:
+- fra
+size:
+  tokens: 11713557
+  sentences: 869909
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-FR-OPEN.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-fr-open
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2019-12-09

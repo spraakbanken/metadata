@@ -1,0 +1,21 @@
+name:
+  swe: SweLL v1 target
+  eng: SweLL v1 target
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 151851
+  sentences: 8137
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2024-11-12

@@ -1,0 +1,21 @@
+name:
+  swe: Östgötalagen
+  eng: Östgötalagen
+type: corpus
+language_codes:
+- swe
+size:
+  tokens: 52062
+  sentences: 1950
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_OGL.txt
+  type: token frequencies
+  format: CSV
+  info: ''
+  licence: CC BY 4.0
+  restriction: attribution
+interface:
+- access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=ogl
+  licence: CC BY 4.0
+  restriction: attribution
+updated: 2015-09-30
