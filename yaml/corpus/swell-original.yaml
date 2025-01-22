@@ -15,7 +15,14 @@ creators:
 - Lisa Rudebeck
 - Gunlög Sundberg
 - Mats Wirén
-  
+
+contact_info:
+  name: Elena Volodina
+  email: swell@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken Text
+    email: sb-info@svenska.gu.se
+
 other_references:
   - '[1] {publication 285609} (paper describing the corpus)'
   - '[2] {publication 311732} (correction annotation guidelines)'
