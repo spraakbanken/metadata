@@ -43,11 +43,11 @@ description:
     <li><b>DaLAJ</b> resources are a collection of sentence pairs (original - corrected) containing one error each.</li>
     <li><b>MultiGED</b> -- Multilingual Grammatical Error Detection - is a dataset for grammamatical error detection, featuring five languages (Czech, German, English, Italian, Swedish). The data is organized by sentences, where each token has an annotation whether it is correct or incorrect (c or i). The corrected version is not provided. MultiGED has been used for a shared task (https://spraakbanken.github.io/multiged-2023/) </li>
     <li><b>MuClaGED</b> -- Multi-Class Grammatical Error Detection - is a dataset for Swedish only, organized by sentences, each incorrect token associated with the type of correction (Orthography, Syntax, Morphology, etc.) and the type of edit (Addition, Deletion, Replacement) </li>
-    <li><b>MultiGED</b> -- Multilingual Grammatical Error Correction is a dataset for grammamatical error detection, featuring twelve languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian). The data is organized by essay pairs (original - corrected). MultiGEC has been used for a shared task (https://spraakbanken.github.io/multigec-2025/) </li>
+    <li><b>MultiGEC</b> -- Multilingual Grammatical Error Correction is a dataset for grammamatical error detection, featuring twelve languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian). The data is organized by essay pairs (original - corrected). MultiGEC has been used for a shared task (https://spraakbanken.github.io/multigec-2025/) </li>
     <li><b>SVALex</b> is a wordlist generated from the COCTAILL corpus.</li>
     <li><b>SweLLex</b> is a wordlist generated from the SweLL-pilot essays.</li>
     <li><b>Sen*Lex</b> is a sense-based wordlist, combining SVALex and SweLLex in one.</li>
-    <li><b>CoDeRooMor is a morphologically annotated list based on Sen*Lex, featuring annotations for word-building morphemes (roots, prefixes, suffixes etc) and word-building mechanisms (affixation, compounding, etc.).</b> </li>
+    <li><b>CoDeRooMor</b> is a morphologically annotated list based on Sen*Lex, featuring annotations for word-building morphemes (roots, prefixes, suffixes etc) and word-building mechanisms (affixation, compounding, etc.).</b> </li>
     <li><b>Kelly</b> - is a wordlist covering ca 8.000 most frequent words in the web texts, and assigned to the six CEFR levels based on the frequency information.</li>
     </ul> 
 annotation:
