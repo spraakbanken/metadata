@@ -13,7 +13,7 @@ language_codes:
 size:
   entries: 8425
 in_collections: 
-- learner_language
+- learner-language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/kelly/kelly.xml
     type: lexicon
