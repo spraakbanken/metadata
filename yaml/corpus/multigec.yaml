@@ -9,7 +9,7 @@ trainingdata: true
 unlisted: false
 successors: []
 in_collections:
-  - learner_language
+  - learner-language
   - swell
 language_codes:
   - ces
