@@ -1,0 +1,55 @@
+name:
+  swe: 'Skriftlig produktion i inlärarfranska'
+  eng: 'Written production in learner French'
+short_description:
+  swe: 'Denna korpus innehåller elevtexter skrivna av svenska inlärare av franska.'
+  eng: 'This corpus contains student texts written by Swedish learners of French'
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - fra
+languages: []
+size:
+  tokens: 8920
+in_collections: []
+downloads: []
+creators:
+  - Lindqvist, Christina
+created: '2025-01-17'
+updated: '2024-06-10'
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords:
+  - French
+  - L2
+  - foreign language
+  - written production
+caveats: 
+  swe: ''
+  eng: ''
+standard_reference: 'Lindqvist, C. (2024). Un corpus de productions écrites françaises – matériau pour mieux comprendre les choix lexicaux d’apprenants multilingues. Babylonia Multilingual Journal of Language Education, 2, 72–79. https://babylonia.online/index.php/babylonia/article/view/385'
+other_references:
+  - 'Lindqvist, C. (2015). Do learners transfer from the language they perceive as most closely related to the L3? The role of psychotypology for lexical and grammatical cross-linguistic influence in French L3. In G. De Angelis, U. Jessner, & M. Kresic (eds). Multilingualism: Crosslinguistic influence in language learning (pp. 231-251). Bloomsbury Publishing.'
+  - 'Lindqvist, C. (2019). Didactic challenges in the multilingual classroom. The case of French as a foreign language. In M. Juncal Gutierrez-Mangado, María Martínez Adrián, Francisco Gallardo Del Puerto (eds.). Cross-Linguistic Influence: From Empirical Evidence to Classroom Practice, p. 87-99. Springer International Publishing Switzerland. https://doi.org/10.1007/978-3-030-22066-2_5'
+  - 'Lindqvist, C. (2021). Vocabulary knowledge in L3 French: A study of Swedish learners’ vocabulary depth. Languages 6, no. 1: 26. https://doi.org/10.3390/languages6010026'
+intended_uses:
+  swe: 'Forskning'
+  eng: 'Research'
+description:
+  swe: |-
+      Denna korpus innehåller elevtexter. Svenska högstadieelever i åldrarna 11-15 (år 6, 7, 8 och 9) fick i uppgift att återberätta en bildserie ("The Dog Story") skriftligt. Datan samlades in under en vanlig lektion i franska. Eleverna hade 20 minuter på sig att skriva texten. De uppmuntrades att skriva så mycket de kunde och att fokusera på att kommunicera innehållet.
+      Texterna skrevs ursprungligen för hand och överfördes sedan manuellt till Word-dokument. Dokumenten konverterades därefter till ren text med hjälp av LibreOffice 7.4 (kommando: 'soffice --headless --convert-to txt:Text YOUR-DOCUMENT-HERE.DOC').
+      Kontakta Christina Lindqvist (christina.lindqvist@sprak.gu.se) för att få tillgång till korpusen.
+  eng: |-
+      This corpus contains student texts. Swedish lower secondary school students aged 11-15 (years 6, 7, 8 and 9) were invited to retell a short story ("The Dog Story") in writing. The data were collected during an ordinary French lesson. The students had 20 minutes to write the text. They were encouraged to write as much as they could and to focus on communicating the content.
+      The texts were originally written by hand and transferred manually to Word-documents. The documents were later converted to plain text using LibreOffice 7.4 (command: 'soffice --headless --convert-to txt:Text YOUR-DOCUMENT-HERE.DOC').
+      For access to the corpus, contact Christina Lindqvist (christina.lindqvist@sprak.gu.se).
