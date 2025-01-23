@@ -53,3 +53,4 @@ description:
       This corpus contains student texts. Swedish lower secondary school students aged 11-15 (years 6, 7, 8 and 9) were invited to retell a short story ("The Dog Story") in writing. The data were collected during an ordinary French lesson. The students had 20 minutes to write the text. They were encouraged to write as much as they could and to focus on communicating the content.
       The texts were originally written by hand and transferred manually to Word-documents. The documents were later converted to plain text using LibreOffice 7.4 (command: 'soffice --headless --convert-to txt:Text YOUR-DOCUMENT-HERE.DOC').
       For access to the corpus, contact Christina Lindqvist (christina.lindqvist@sprak.gu.se).
+doi: 10.23695/kswj-db84
