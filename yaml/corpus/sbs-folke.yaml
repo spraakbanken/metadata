@@ -3,8 +3,8 @@ name:
   swe: Folke
   eng: Folke
 short_description:
-  swe: Uppteckningar från Isofs arkiv
-  eng: Records from Isof archives
+  swe: Folkminnesuppteckningar från Isofs arkiv
+  eng: Historical folklore records from Isof archives
 type: corpus
 trainingdata: false
 unlisted: false
@@ -14,8 +14,7 @@ language_codes:
 size:
   tokens: 3642351
   sentences: 235713
-in_collections:
-  - folke
+in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sbs-folke.xml.bz2
     type: corpus
@@ -52,8 +51,41 @@ other_references: []
 intended_uses:
   swe: ''
   eng: ''
-created: '2024-12-03'
-updated: '2024-12-03'
+created: '2025-01-24'
+updated: '2025-01-24'
 doi: 10.23695/pawz-fh93
 description:
-  swe: Korpus med material från Isofs arkivtjänst Folke.
+  swe: |-
+    <p>Folke är en digital arkivtjänst som utvecklas av Isof och Språkbanken. I
+    Folke finns hundratusentals inskannade äldre folkminnesuppteckningar
+    från Isofs samlingar, och vid slutet av årsskiftet 2024 var mer än 30
+    000 sidor transkriberade via medborgarforskning. Materialet är framför
+    allt insamlat under första hälften av 1900-talet och belyser människors
+    liv och arbete, vardag och fest, erfarenheter och minnen, från slutet
+    av 1800-talet och framåt.</p>
+
+    <p>De transkriberade texterna i Folke finns nu tillgängliga i Korp.
+    Korpusen uppdateras kontinuerligt i takt med att transkriberingen av
+    material på Folke fortskrider.</p>
+
+    <p>Länk till Folke: <a href="https://sok.folke.isof.se/" target=_blank>https://sok.folke.isof.se/</a></p>
+
+    <p>Läs mer om Folke på Isofs webbplats:
+    <a href="https://www.isof.se/folkminnen/folke" target=_blank>https://www.isof.se/folkminnen/folke</a></p>
+  eng: |-
+    <p>Folke is a digital archive service developed by Isof and Språkbanken. In
+    Folke, there are hundreds of thousands of scanned historical folklore
+    records from Isof's collections, and by the end of 2024, more than
+    30,000 pages had been transcribed through citizen science. The material
+    was primarily collected during the first half of the 20th century and
+    highlights people's lives and work, daily routines and celebrations,
+    experiences, and memories, from the late 19th century onwards.</p>
+
+    <p>The transcribed texts in Folke are now available in Korp. The corpus is
+    continuously updated as the transcription of material in Folke
+    progresses.</p>
+
+    <p>Link to Folke: <a href="https://sok.folke.isof.se/" target=_blank>https://sok.folke.isof.se/</a></p>
+
+    <p>Read more about Folke on Isof's website:
+    <a href="https://www.isof.se/folkminnen/folke" target=_blank>https://www.isof.se/folkminnen/folke</a></p>
