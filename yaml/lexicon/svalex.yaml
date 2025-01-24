@@ -1,0 +1,73 @@
+name:
+  swe: 'SVALex'
+  eng: 'SVALex'
+short_description:
+  swe: 'SVALex är en ordlista med receptivt ordförråd för elever med svenska som andraspråk'
+  eng: 'SVALex is a lexicon of receptive vocabulary for Swedish as a second language'
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: 15681
+in_collections: 
+  - l2-profiles
+  - learner-language
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_xlsx.tar.bz2
+    type: lexicon
+    format: xlsx
+    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    licence: CC BY-NC-SA 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_tsv.tar.bz2
+    type: lexicon
+    format: tsv
+    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents (=texts) per level (format: nb_doc@a1), frequences in unique coursebooks by level and in total (format: B2_Nya_Mål_3@b2, C1_Språkporten_123@total)'
+    licence: CC BY-NC-SA 4.0
+    restriction: attribution
+interface:
+  - access: 'https://cental.uclouvain.be/cefrlex/svalex/search/'
+    info: 'Search in SVALex'
+    licence: CC BY-NC-SA 4.0
+    restriction: attribution
+creators:
+  - Volodina Elena
+  - Pilán Ildikó
+  - François Thomas
+created: '2016-06-09'
+updated: '2016-06-09'
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'
+  eng: 'CEFR levels, lemmatization, POS-tagging, frequency'
+keywords:
+  - second language wordlist
+  - L2
+  - receptive vocabulary
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - '{publication 248142}'
+intended_uses:
+  swe: 'undervisning i L2 svenska, utveckling av CALL- och ICALL-applikationer, använding som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk'
+  eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language' # The intended uses for this resource (in English)
+description:
+  swe: |-
+    <p>SVALex är en ordlista med receptivt ordförråd för svenska som andraspråk (SVA). Som dess systerresurs, SweLLex, visar listan normaliserade frekvenser for ord (lemmas, dvs grundform + ordklass) på sex nivåer enligt den Gemensamma Europeiska Referensramen för Språk, GERS (eng. CEFR). På samma sätt som i SweLLex, innehåller SVALex information om ord, flerordsenheter, samt deras användning på de olika GERS nivåerna, något som är rätt sällsynt  i liknande resurser.</p>
+    <p>De angivna frekvenserna kommer från en <b>korpus med kursböcker, COCTAILL</b>, se artikel om korpusen här:</p>
+    <ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li></ul>
+    <p>Läs mer om SweLLex listan på <a href="https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-lex">webbsidan</a> och i artikeln skriven av Volodina m.flera (2016).</p>
+  eng: |-
+    <p>SVALex is a lexicon of receptive vocabulary for Swedish as a second/foreign language (SVA). Like its sister resource, SweLLex, it reports the normalized frequencies of words (lemmas) across six levels of the CEFR (Common European Framework of Reference for Languages). In the same fashion as SweLLex, it contains information on both single word usage, multi-word expressions, as well as information on their usage at different levels, something that is rarely present in the resources of this kind.</p>
+    <p>The frequencies have been estimated on a <b>corpus of course books, COCTAILL</b>, described in the article:</p>
+    <ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li></ul>
+    <p>More details on SweLLex resource are provided on this <a href="https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-lex">webpage</a> and in article by Volodina et al (2016).</p>
