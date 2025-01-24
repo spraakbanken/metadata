@@ -1,0 +1,76 @@
+name:
+  swe: 'SweLLex'
+  eng: 'SweLLex'
+short_description:
+  swe: 'SweLLex är en ordlista med produktivt ordförråd för elever med svenska som andraspråk'
+  eng: 'SweLLex is a lexicon of productive vocabulary for Swedish as a second language'
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+size:
+  entries: 6967
+in_collections: 
+  - learner-language
+  - swell
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_xlsx.tar.bz2
+    type: lexicon
+    format: xlsx
+    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_tsv.tar.bz2
+    type: lexicon
+    format: tsv
+    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    licence: CC BY 4.0
+    restriction: attribution
+interface:
+  - access: 'https://cental.uclouvain.be/cefrlex/swellex/search/'
+    info: 'Search in SweLLex'
+    licence: CC BY 4.0
+    restriction: attribution
+creators:
+  - Elena Volodina
+  - Ildikó Pilán
+created: '2016-06-09'
+updated: '2016-06-09'
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'
+  eng: 'CEFR levels, lemmatization, POS-tagging, frequency'
+keywords:
+  - second language wordlist
+  - L2
+  - productive vocabulary
+caveats:
+  swe: ''
+  eng: ''
+references:
+  - '{publication 248090}'
+intended_uses:
+  swe: 'undervisning i L2 svenska, utveckling av CALL och ICALL applikationer, användning som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk'
+  eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language'
+description:
+  swe: |-
+    <p>SweLLex är en orlista med produktivt ordförråd for svenska som andraspråk (SVA). Som dess systerresurs, SVALex, visar listan normaliserade frekvenser for ord (lemmas, dvs grundform + ordklass) på sex nivåer enligt den Gemensamma Europeiska Referensramen för Språk, GERS (eng. CEFR). På samma sätt som i SVALex, innehåller SweLLex information om ord, flerordsenheter, samt deras användning på de olika GERS nivåerna, något som är rätt sällsynt  i liknande resurser.</p>
+    <p>De angivna frekvenserna kommer från en <b>korpus med elevers uppsatser, SweLL-piloten</b>, se artikel om korpusen här:</p>
+    <ul><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li></ul>
+    <p>Läs mer om SweLLex listan på <a href="https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-lex">webbsidan</a> och i artikeln skriven av Volodina m.fl. (2016).</p>
+  eng: |-
+    <p>SweLLex is a lexicon of productive vocabulary for Swedish as a second/foreign language (SVA). Like its sister resource, SVALex, it reports the normalized frequencies of words (lemmas) across six levels of the CEFR (Common European Framework of Reference for Languages). In the same fashion as SVALex, it contains information on both single word usage, multi-word expressions, as well as information on their usage at different levels, something that is rarely present in the resources of this kind.</p>
+    <p>The frequencies have been estimated on a <b>corpus of essays written by SVA learners, SweLL-pilot corpus</b>, described in the article:</p>
+    <ul><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li></ul>
+    <p>More details on SweLLex resource are provided on this <a href="https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-lex">webpage</a> and in article by Volodina et al (2016).</p>
+
+  
+  
+  
