@@ -13,14 +13,18 @@ language_codes:
 size:
   tokens: 59639
   sentences: 3484
-in_collections: []
+in_collections: 
+  - swell
+  - learner-language
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=tisus
-    licence: CC BY 4.0
-    restriction: attribution
-other_references:
-  - '{publication 248141}'
+  - access: Application form (https://sunet.artologik.net/gu/swell)
+    platform: https://spraakbanken.gu.se/korp/#?corpus=tisus
+    licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+standard-reference: '{publication 248141}'
+creators:
+  - Sundberg Gunlög 
+  - Lundkvist Peter 
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
