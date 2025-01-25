@@ -25,22 +25,28 @@ interface:
   - access: https://spraakbanken.gu.se/korp/#?corpus=sw1203
     licence: CC BY 4.0
     restriction: attribution
-other_references:
-  - '{publication 248141}'
+standard-reference: '{publication 248141}'
+creators:
+  - Ingegerd Enström
+  - Volodina Elena
 contact_info:
-  name: Enström Ingegerd
-  email: ingegerd.enstroem@svenska.gu.se
+  name: Elena Volodina
+  email: elena.volodina@svenska.gu.se
   affiliation:
     organisation: Institutionen för svenska, flerspråkighet och språkteknologi
     email: svenska.exp@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: []
+keywords:   
+  - L2 Swedish
+  - second language
+  - language learning
+  - essays
 caveats:
   swe: ''
   eng: ''
-intended_uses:
+intended_uses: 'The corpus is primarily intended for Second Language Acquisition studies.'
   swe: ''
   eng: ''
 description:
