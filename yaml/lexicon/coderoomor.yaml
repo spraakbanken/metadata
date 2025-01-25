@@ -45,12 +45,17 @@ interface:
   - access: https://spraakbanken.gu.se/larkalabb/svlp
     licence: CC BY 4.0
     restriction: attribution
+creators:
+  - Volodina Elena
+  - Mohammed Yousuf Ali
+  - Lindström Tiedemann Therese
 contact_info:
   name: Elena Volodina
   email: elena.volodina@gu.se
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
+standard_reference: {publication 311724}
 description:
   swe: ''
   eng: |-
@@ -88,7 +93,7 @@ description:
         <a target="_blank" href="https://spraakbanken.gu.se/en/projects/l2profiles">Development of lexical and grammatical competences in immigrant Swedish, project P17-0716:1</a>).
     </p>
     <p>
-        To cite this resource:<br />
+        <b>To cite this resource</b>:<br />
         Volodina, Elena, Yousuf Ali Mohammed, and Therese Lindström Tiedemann (2021) CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish. In Proceedings of the 23rd Nordic Conference on Computational Linguistics
         (NoLaLiDa). NEALT Proceedings Series, no. 45, Northern European Association for Language Technology (NEALT, Linköping, pp. 178-189, Nordic Conference on Computational Linguistics, Reykjavík, Iceland, 31/05/2021.
         <a href="https://www.aclweb.org/anthology/2021.nodalida-main.18.pdf">https://www.aclweb.org/anthology/2021.nodalida-main.18.pdf</a>
