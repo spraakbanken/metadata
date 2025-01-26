@@ -55,7 +55,7 @@ contact_info:
   affiliation:
     organisation: Språkbanken Text
     email: sb-info@svenska.gu.se
-standard_reference: {publication 311724}
+standard_reference: '{publication 311724}'
 description:
   swe: ''
   eng: |-
