@@ -17,7 +17,7 @@ downloads: []
 interface:
   - access: https://sunet.artologik.net/gu/swell
     licence: misc
-    info: Application format
+    info: Application form
     restriction: ''
 creators:
   - Judit Casademont Moner
