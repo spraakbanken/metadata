@@ -46,9 +46,9 @@ keywords:
 caveats:
   swe: ''
   eng: ''
-intended_uses: 'The corpus is primarily intended for Second Language Acquisition studies.'
+intended_uses:
   swe: ''
-  eng: ''
+  eng: 'The corpus is primarily intended for Second Language Acquisition studies.'
 description:
   swe: 'För åtkomst kontakta <a href="mailto:ingegerd.enstroem@svenska.gu.se">Ingegerd Enström</a>.'
   eng: 'For access please contact <a href="mailto:ingegerd.enstroem@svenska.gu.se">Ingegerd Enström</a>.'
