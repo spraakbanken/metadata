@@ -30,7 +30,7 @@ interface:
   - access: https://lt3.ugent.be/resources/multigec-dataset
     licence: subject to Terms of Use
     restriction: attribution, no-redistribution, no use with the proprietary models, no commercial use, personal access
-standard_reference: {'publication '}
+standard_reference: '{publication }'
 creators:
   - Masciolini, Arianna 
   - Caines, Andrew
