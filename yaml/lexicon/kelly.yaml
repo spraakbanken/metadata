@@ -31,12 +31,16 @@ interface:
   - access: https://spraakbanken.gu.se/karp/?mode=kelly
     licence: CC BY 4.0
     restriction: attribution
+creators: 
+- Volodina Elena
+- Johansson Kokkinakis Sofie
 contact_info:
   name: Elena Volodina
   email: elena.volodina@gu.se
   affiliation:
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
+standard_reference: '{publication 154723}'
 description:
   swe: |-
     <p>Mer information om Kelly finns på <a href="https://spraakbanken.gu.se/en/projects/kelly">projektsidan</a>.</p>
