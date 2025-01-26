@@ -21,7 +21,7 @@ interface:
     platform: https://spraakbanken.gu.se/korp/#?corpus=tisus
     licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
   - access: https://spraakbanken.gu.se/korp/#?cqp=%5B%5D&corpus=spinv1
-standard-reference: '{publication 248141}'
+standard_reference: '{publication 248141}'
 creators: 
 - Volodina Elena
 contact_info:
