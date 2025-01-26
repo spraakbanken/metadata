@@ -21,7 +21,7 @@ interface:
   - access: Application form (https://sunet.artologik.net/gu/swell)
     platform: https://spraakbanken.gu.se/korp/#?corpus=tisus
     licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
-standard-reference: '{publication 248141}'
+standard_reference: '{publication 248141}'
 creators:
   - Sundberg Gunlög 
   - Lundkvist Peter 
