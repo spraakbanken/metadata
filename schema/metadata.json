@@ -124,29 +124,34 @@
             "type": "string"
           },
           "type": {
-            "description": "What's in the file?",
-            "type": "string"
+            "description": "Type of file (corpus, lexicon, model, token frequencies). Skip if not applicable.",
+            "type": "string",
+            "enum": [
+              "corpus",
+              "lexicon",
+              "model",
+              "token frequencies"
+            ]
           },
           "format": {
             "description": "The file format or standard (e.g. XML)",
             "type": "string"
           },
-          "info": {
-            "description": "Additional info, if required (e.g. \"this file contains a scrambled version of the Swedish part of the corpus\")",
+          "description": {
+            "description": "Additional description, if required (e.g. \"this file contains a scrambled version of the Swedish part of the corpus\")",
             "type": "string"
           },
-          "licence": {
+          "license": {
             "description": "",
             "type": "string",
             "default": "CC BY 4.0"
-          },
-          "restriction": {
-            "description": "",
-            "type": "string",
-            "default": "attribution"
           }
         },
-        "required": ["url", "type", "format", "licence"]
+        "required": [
+          "url",
+          "format",
+          "license"
+        ]
       }
     },
     "interface": {
@@ -156,26 +161,23 @@
         "type": "object",
         "additionalProperties": false,
         "properties": {
-          "access": {
+          "url": {
             "description": "A link to the resource in an interface (e.g in Korp or Karp)",
             "type": "string"
           },
-          "info": {
-            "description": "Additional info, if required",
+          "description": {
+            "description": "Additional description, if required",
             "type": "string"
           },
-          "licence": {
-            "description": "",
+          "license": {
+            "description": "License for the data in the interface",
             "type": "string",
             "default": "CC BY 4.0"
-          },
-          "restriction": {
-            "description": "",
-            "type": "string",
-            "default": "attribution"
           }
         },
-        "required": ["access", "licence", "restriction"]
+        "required": [
+          "url"
+        ]
       }
     },
     "creators": {
@@ -203,7 +205,7 @@
           "description": "",
           "type": "object",
           "properties": {
-            "organisation": {
+            "organization": {
               "description": "",
               "type": "string"
             },
@@ -212,7 +214,10 @@
               "type": "string"
             }
           },
-          "required": ["organisation", "email"]
+          "required": [
+            "organization",
+            "email"
+          ]
         }
       },
       "required": ["name", "email", "affiliation"]
