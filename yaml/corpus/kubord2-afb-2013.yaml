@@ -19,18 +19,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-afb-2013.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord2-afb-2013
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord2-afb-2013
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: Kubord 2 är en uppdaterad version av Kubord och innehåller utöver ordfrekvenser

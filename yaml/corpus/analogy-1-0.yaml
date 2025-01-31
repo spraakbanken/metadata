@@ -17,23 +17,19 @@ in_collections:
   - superlim-1-0
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/sv-analogi.txt
-    type: sv-analogi.txt
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/analogy_documentation_sheet.tsv
-    type: analogy_documentation_sheet.tsv
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Aleksandrs Berdicevskis
   email: aleksandrs.berdicevskis@gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

@@ -18,14 +18,12 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=sw1203
-    licence: CC BY 4.0
-    restriction: attribution
-standard-reference: '{publication 248141}'
+  - url: https://spraakbanken.gu.se/korp/#?corpus=sw1203
+    license: CC BY 4.0
+standard_reference: '{publication 248141}'
 creators:
   - Ingegerd Enström
   - Volodina Elena
@@ -33,7 +31,7 @@ contact_info:
   name: Elena Volodina
   email: elena.volodina@svenska.gu.se
   affiliation:
-    organisation: Institutionen för svenska, flerspråkighet och språkteknologi
+    organization: Institutionen för svenska, flerspråkighet och språkteknologi
     email: svenska.exp@svenska.gu.se
 annotation:
   swe: ''

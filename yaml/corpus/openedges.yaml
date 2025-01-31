@@ -22,18 +22,14 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.01.zip
-    type: OpenEDGeS_v1.01.zip
     format: zip
-    info: ''
-    licence: CC BY-NC-SA 4.0
-    restriction: attribution, non-commercial, share-alike
+    description: ''
+    license: CC BY-NC-SA 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.0.0.zip
-    type: other
     format: ''
-    info: ''
-    licence: For license details of the previous versions, see the 'Read me.txt' file
+    description: ''
+    license: For license details of the previous versions, see the 'Read me.txt' file
       in the download.
-    restriction: ''
 interface: []
 creators:
   - Coussé, Evie
@@ -43,7 +39,7 @@ contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

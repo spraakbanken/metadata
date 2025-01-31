@@ -15,14 +15,13 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/karp-v6/#?mode=langfn&resources=langfn-v2
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/karp-v6/#?mode=langfn&resources=langfn-v2
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

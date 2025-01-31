@@ -22,9 +22,8 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 creators:
   - Berdicevskis, Aleksandrs
@@ -32,7 +31,7 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

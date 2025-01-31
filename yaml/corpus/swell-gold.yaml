@@ -21,14 +21,14 @@ in_collections:
   - swell
 downloads: []
 interface:
-  - access: Application form (https://sunet.artologik.net/gu/swell)
-    licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
-    restriction: ''
+  - url: https://sunet.artologik.net/gu/swell
+    description: Application form
+    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 creators: 
 - Elena Volodina

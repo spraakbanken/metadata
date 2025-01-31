@@ -15,23 +15,21 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/syntag.txt
-    type: syntag.txt
+
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/syntag.html
-    type: syntag.html
+
     format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

@@ -22,20 +22,18 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-LT.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill-lt
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=coctaill-lt
+    license: CC BY 4.0
 other_references:
   - '{publication 206132}'
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 creators: 
   - Elena Volodina

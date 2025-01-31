@@ -14,11 +14,9 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swewinogender/2.0/swewinogender.zip
-    type: an archive with the dataset in JSONL format and the documentation sheet
+    description: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
 interface: []
 creators:
   - Adesam, Yvonne
@@ -27,7 +25,7 @@ contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

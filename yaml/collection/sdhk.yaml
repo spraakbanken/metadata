@@ -23,14 +23,13 @@ language_codes:
   - swe
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=medeltid
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=medeltid
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-

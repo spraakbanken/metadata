@@ -23,23 +23,19 @@ in_collections:
   - learner-language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
-    type: datasetDaLAJsplit.csv
     format: csv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv
-    type: dalaj_documentation.tsv
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Elena Volodina
   email: elena.volodina@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: ''

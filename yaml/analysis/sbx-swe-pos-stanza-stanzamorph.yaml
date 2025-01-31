@@ -6,7 +6,7 @@ keywords:
 tool:
   name: Stanza
   url: https://stanfordnlp.github.io/stanza/
-licences:
+licenses:
   tool: Apache License 2.0
   code: MIT License
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken),
@@ -72,5 +72,5 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

@@ -15,14 +15,13 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=xhosa#?corpus=xhosa
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/?mode=xhosa#?corpus=xhosa
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

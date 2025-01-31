@@ -19,15 +19,14 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data//mathir_words_v1.0.tgz
     type: lexicon
     format: tgz
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

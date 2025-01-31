@@ -16,21 +16,19 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/swewinograd.jsonl.gz
-    type: swewinograd.jsonl.gz
+
     format: gz
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/swewinograd_documentation_sheet.txt
-    type: swewinograd_documentation_sheet.txt
+
     format: txt
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Yvonne Adesam
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

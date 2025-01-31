@@ -19,24 +19,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-kalmar-1900.xml.bz2
     type: corpus
     format: XML
-    info: this file contains the corpus with updated annotations
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains the corpus with updated annotations
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-kalmar-1900.csv
     type: token frequencies
     format: CSV
-    info: this file contains the token frequencies with updated annotations
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains the token frequencies with updated annotations
+    license: CC BY 4.0
 interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-kalmar-1900
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-kalmar-1900
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2023-06-26
 doi: 10.23695/hrxf-hj31

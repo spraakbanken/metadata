@@ -16,17 +16,16 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt
-    type: PAROLE_usyn_descr.txt
+
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

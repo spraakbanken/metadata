@@ -18,27 +18,23 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt1999.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LT1999.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=lt1999
-    licence: CC BY 4.0
-    restriction: attribution
-  - access: http://www.medicinskkorpus.se/login.phtml
-    licence: other
-    restriction: other
+  - url: https://spraakbanken.gu.se/korp/#?corpus=lt1999
+    license: CC BY 4.0
+  - url: http://www.medicinskkorpus.se/login.phtml
+    license: other
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: Del av Korpus för vårdens och omsorgens fackspråk

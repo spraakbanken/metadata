@@ -19,36 +19,31 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/simpleplus/simpleplus.xml
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_n.html
-    type: simple_n.html
+
     format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_v.html
-    type: simple_v.html
+
     format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
-    type: simple_adj.html
+
     format: html
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/karp/?mode=parolelexplus&lexicon=simpleplus
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/karp/?mode=parolelexplus&lexicon=simpleplus
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

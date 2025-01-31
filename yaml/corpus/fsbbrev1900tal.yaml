@@ -20,18 +20,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBBREV1900TAL.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=fsbbrev1900tal
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=fsbbrev1900tal
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan

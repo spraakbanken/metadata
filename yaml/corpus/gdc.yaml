@@ -18,18 +18,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=gdc
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=gdc
+    license: CC BY 4.0
 contact_info:
   name: Ottesjö Cajsa
   email: cajsa.ottesjo@gu.se
   affiliation:
-    organisation: Institutionen för filosofi, lingvistik och vetenskapsteori
+    organization: Institutionen för filosofi, lingvistik och vetenskapsteori
     email: data@flov.gu.se
 description:
   swe: |-

@@ -14,11 +14,9 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/2.0/swefaq.zip
-    type: an archive with the dataset in JSONL format and the documentation sheet
+    description: an archive with the dataset in JSONL format and the documentation sheet
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
 interface: []
 creators:
   - Berdicevskis, Aleksandrs
@@ -26,7 +24,7 @@ contact_info:
   name: Aleksandrs Berdicevskis
   email: aleksandrs.berdicevskis@gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

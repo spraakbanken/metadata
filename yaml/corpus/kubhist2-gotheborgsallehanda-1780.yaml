@@ -19,24 +19,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-gotheborgsallehanda-1780.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-gotheborgsallehanda-1780.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-gotheborgsallehanda-1780
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-gotheborgsallehanda-1780
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2021-09-22
 doi: 10.23695/yk0c-mj92

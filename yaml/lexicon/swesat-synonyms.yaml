@@ -18,9 +18,8 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swesat/1.1/swesat-synonyms.zip
     type: lexicon
     format: zip
-    info: an archive with the dataset in JSONL format and the documentation sheet
-    licence: CC BY 4.0
-    restriction: attribution
+    description: an archive with the dataset in JSONL format and the documentation sheet
+    license: CC BY 4.0
 interface: []
 creators:
   - Adesam, Yvonne
@@ -29,7 +28,7 @@ contact_info:
   name: Yvonne Adesam
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

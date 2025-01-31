@@ -17,9 +17,8 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/vocationTerms150120.utf.txt.gz
     type: lexicon
     format: gz
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface: []
 other_references:
   - '{publication 209808}'
@@ -27,7 +26,7 @@ contact_info:
   name: Dimitrios Kokkinakis
   email: dimitrios.kokkinakis@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

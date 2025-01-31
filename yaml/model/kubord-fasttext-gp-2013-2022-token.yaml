@@ -13,16 +13,15 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/kubord-fasttext-gp-2013-2022-token.zip
     type: model
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 created: 2024-06-11
 updated: 2024-06-11
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

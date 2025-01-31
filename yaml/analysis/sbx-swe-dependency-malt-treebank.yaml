@@ -59,11 +59,11 @@ example: |-
   <token dephead_ref="10" deprel="PA" ref="11">Nobelpriset</token>
   <token dephead_ref="4" deprel="IP" ref="12">.</token>
   ```
-licences:
+licenses:
   code: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

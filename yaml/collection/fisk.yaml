@@ -71,14 +71,13 @@ language_codes:
   - swe
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=fisk
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=fisk
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: Den här samlingen innehåller moderna finlandssvenska texter och ingår i språkbanken

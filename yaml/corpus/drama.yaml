@@ -18,27 +18,23 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/drama.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DRAMA.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=drama
-    licence: CC BY 4.0
-    restriction: attribution
-  - access: http://www.dramawebben.se/
-    licence: other
-    restriction: other
+  - url: https://spraakbanken.gu.se/korp/#?corpus=drama
+    license: CC BY 4.0
+  - url: http://www.dramawebben.se/
+    license: other
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

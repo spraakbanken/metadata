@@ -14,14 +14,13 @@ language_codes:
   - swe
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: Texterna har samlats in från nyhetsartiklar på <a href="https://www.svt.se/">svt.se</a>.

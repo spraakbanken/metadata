@@ -6,7 +6,7 @@ other_references:
 tool:
   name: Hunpos
   url: https://code.google.com/archive/p/hunpos/
-licences:
+licenses:
   tool: BSD-3-Clause
   code: MIT License
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
@@ -72,5 +72,5 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

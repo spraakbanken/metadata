@@ -30,14 +30,13 @@ resources:
 language_codes:
   - swe
 interface:
-  - access: https://spraakbanken.gu.se/mink
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

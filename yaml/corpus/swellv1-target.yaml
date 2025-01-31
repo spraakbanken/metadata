@@ -11,12 +11,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt
   type: token frequencies
   format: CSV
-  info: ''
-  licence: CC BY 4.0
-  restriction: attribution
+  license: CC BY 4.0
 interface:
-- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
-  licence: CC BY 4.0
-  restriction: attribution
+- url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
+  license: CC BY 4.0
 updated: 2024-11-12
 doi: 10.23695/5f79-ws89

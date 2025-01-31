@@ -18,18 +18,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/#?corpus=asu
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/#?corpus=asu
 contact_info:
   name: Niclas Abrahamsson
   email: niclas.abrahamsson@biling.su.se
   affiliation:
-    organisation: Institutionen för lingvistik, Stockholms universitet
+    organization: Institutionen för lingvistik, Stockholms universitet
     email: exp@ling.su.se
 annotation:
   swe: ''

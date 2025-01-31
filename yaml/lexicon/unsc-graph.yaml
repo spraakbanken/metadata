@@ -17,9 +17,8 @@ downloads:
   - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/unsc-graph/unsc-graph-1.0.tar.gz'
     type: lexicon
     format: Prolog
-    info: ''
-    licence: GNU GPLv3 or later
-    restriction: attribution, sharealike
+    description: ''
+    license: GNU GPLv3 or later
 interface: []
 creators:
   - Rødven-Eide, Stian
@@ -27,7 +26,7 @@ contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

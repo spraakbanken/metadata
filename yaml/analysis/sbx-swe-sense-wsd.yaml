@@ -17,7 +17,7 @@ other_references:
 tool:
   name: Sparv wsd
   url: https://github.com/spraakbanken/sparv-wsd
-licences:
+licenses:
   tool: MIT License
   code: MIT License
 model: "- [ALL_512_128_w10_A2_140403_ctx1.bin](https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/ALL_512_128_w10_A2_140403_ctx1.bin)\
@@ -71,5 +71,5 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

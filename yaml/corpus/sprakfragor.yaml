@@ -16,14 +16,13 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=frageladan
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=frageladan
+    license: CC BY 4.0
 contact_info:
   name: Per-Anders Jande
   email: Per-Anders.Jande@sprakochfolkminnen.se
   affiliation:
-    organisation: Institutet för språk och folkminnen
+    organization: Institutet för språk och folkminnen
     email: registrator@sprakochfolkminnen.se
 annotation:
   swe: ''

@@ -18,14 +18,13 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=forhor
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=forhor
+    license: CC BY 4.0
 contact_info:
   name: Byrman Ylva
   email: ylva.byrman@svenska.gu.se
   affiliation:
-    organisation: Institutionen för svenska, flerspråkighet och språkteknologi
+    organization: Institutionen för svenska, flerspråkighet och språkteknologi
     email: svenska.exp@svenska.gu.se
 annotation:
   swe: ''

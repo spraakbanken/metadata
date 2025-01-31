@@ -20,30 +20,27 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_xlsx.tar.bz2
     type: lexicon
     format: xlsx
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
-    licence: CC BY 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_tsv.tar.bz2
     type: lexicon
     format: tsv
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
-    licence: CC BY 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    license: CC BY 4.0
 interface:
-  - access: 'https://cental.uclouvain.be/cefrlex/swellex/search/'
-    info: 'Search in SweLLex'
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: 'https://cental.uclouvain.be/cefrlex/swellex/search/'
+    description: 'Search in SweLLex'
+    license: CC BY 4.0
 creators:
-  - Elena Volodina
-  - Ildikó Pilán
+  - Elena, Volodina
+  - Ildikó, Pilán
 created: '2016-06-09'
 updated: '2016-06-09'
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'

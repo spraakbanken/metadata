@@ -2,7 +2,7 @@ name:
   swe: SweLL-gold target
   eng: SweLL-gold target
 type: corpus
-in_collection:
+in_collections:
   - swell
   - learner-language
 language_codes:
@@ -23,22 +23,19 @@ contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 
 downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt
   type: token frequencies
   format: CSV
-  info: ''
-  licence: CC BY 4.0
-  restriction: attribution
+  license: CC BY 4.0
 interface:
-- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
-  info: 'Application for access (https://sunet.artologik.net/gu/swell)'
+- url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
+  description: 'Application for access (https://sunet.artologik.net/gu/swell)'
   license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
-  restriction: attribution, personal access, no redistribution
-  
+
 other_references:
   - '[1] {publication 285609} (paper describing the corpus)'
   - '[2] {publication 311732} (correction annotation guidelines)'

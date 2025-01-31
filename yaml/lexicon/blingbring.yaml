@@ -18,26 +18,23 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/blingbring.txt
     type: lexicon
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/blingbring/blingbring.xml
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/karp/?mode=blingbring
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/karp/?mode=blingbring
+    license: CC BY 4.0
 creators:
   - Borin, Lars
 contact_info:
   name: Lars Borin
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

@@ -18,14 +18,13 @@ size:
 in_collections: []
 downloads: []
 interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=ansokningar
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/#?corpus=ansokningar
+    license: CC BY 4.0
 contact_info:
   name: Lena Rogström
   email: lena.rogstroem@svenska.gu.se
   affiliation:
-    organisation: Institutionen för svenska språket
+    organization: Institutionen för svenska språket
     email: svenska.exp@svenska.gu.se
 annotation:
   swe: ''

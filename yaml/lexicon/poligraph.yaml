@@ -16,20 +16,18 @@ downloads:
   - url: 'https://spraakbanken.gu.se/poligraph/apps/poligraph/poligraph.tar.bz2'
     type: lexicon
     format: Prolog
-    info: ''
-    licence: GNU GPLv3 or later
-    restriction: attribution, sharealike
+    description: ''
+    license: GNU GPLv3 or later
 interface:
-  - access: 'https://spraakbanken.gu.se/poligraph/'
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: 'https://spraakbanken.gu.se/poligraph/'
+    license: CC BY 4.0
 creators:
   - Rødven-Eide, Stian
 contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

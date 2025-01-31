@@ -20,24 +20,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-wexjobladet-1820.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-wexjobladet-1820.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-wexjobladet-1820
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-wexjobladet-1820
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

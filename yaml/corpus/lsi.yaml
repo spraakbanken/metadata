@@ -18,18 +18,16 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lsi.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=lsi
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/?mode=lsi
+    license: CC BY 4.0
 contact_info:
   name: Shafqat Virk
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

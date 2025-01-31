@@ -15,10 +15,9 @@ language_codes:
   - swe
 downloads: []
 interface:
-  - access: https://sunet.artologik.net/gu/swell
-    licence: misc
-    info: Application form
-    restriction: ''
+  - url: https://sunet.artologik.net/gu/swell
+    license: misc
+    description: Application form
 creators:
   - Judit Casademont Moner
   - Elena Volodina
@@ -26,7 +25,7 @@ contact_info:
   name: Elena Volodina 
   email: compsla@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text, Sweden
+    organization: Språkbanken Text, Sweden
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

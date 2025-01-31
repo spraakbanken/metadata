@@ -19,37 +19,32 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhsb-sv.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvhsb-hsb.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Upper Sorbian part of the
+    description: this file contains a scrambled version of the Upper Sorbian part of the
       corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVHSB-SV.txt
     type: token frequencies
     format: CSV
-    info: this file contains statistics on the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains statistics on the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVHSB-HSB.txt
     type: token frequencies
     format: CSV
-    info: this file contains statistics on the Upper Sorbian part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains statistics on the Upper Sorbian part of the corpus
+    license: CC BY 4.0
 interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvhsb-sv
-    licence: CC BY 4.0
-    restriction: attribution
+  - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvhsb-sv
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2016-11-15
 doi: 10.23695/gfjm-fv15

@@ -13,17 +13,15 @@ size:
   entries: 3736
 in_collections: [npegl]  # ID(s) of the collections the resource is part of
 interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - access: 'https://spraakbanken.gu.se/karp/?mode=npegl_old_english'  # A link to the resource in an interface (e.g in Korp or Karp)
-    licence: proprietary
-    restriction: other
-  - access: 'https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-eng'  # A link to the resource in an interface (e.g in Korp or Karp)
-    licence: proprietary
-    restriction: other   
+  - url: 'https://spraakbanken.gu.se/karp/?mode=npegl_old_english'  # A link to the resource in an interface (e.g in Korp or Karp)
+    license: proprietary
+  - url: 'https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-eng'  # A link to the resource in an interface (e.g in Korp or Karp)
+    license: proprietary
 contact_info:  # Contact info of the person who can answer questions about the resource
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation: # Anything worth to note about the annotations in this lexicon.
   swe: ''
