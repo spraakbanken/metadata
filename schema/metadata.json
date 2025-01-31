@@ -72,14 +72,14 @@
       }
     },
     "language_codes": {
-      "description": "What language(s) is this resource about? Use ISO 639-3 code(s), e.g. \"swe\" for Swedish (https://iso639-3.sil.org/code_tables/639/data)",
+      "description": "Languages relevant to this resource. Use ISO 639-3 codes (e.g., \"swe\" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)",
       "type": "array",
       "items": {
         "type": "string"
       }
     },
     "languages": {
-      "description": "What language(s) is this resource about? Use this instead of 'language_codes' for languages that are missing in ISO 639-3.",
+      "description": "Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.",
       "type": "array",
       "items": {
         "type": "object",
@@ -114,7 +114,7 @@
       }
     },
     "downloads": {
-      "description": "",
+      "description": "Downloadable files related to the resource",
       "type": "array",
       "items": {
         "type": "object",
@@ -221,7 +221,11 @@
           ]
         }
       },
-      "required": ["name", "email", "affiliation"]
+      "required": [
+        "name",
+        "email",
+        "affiliation"
+      ]
     },
     "keywords": {
       "description": "List of keywords (in English) that may be used for filtering. Keep them short!",
@@ -277,7 +281,7 @@
       "format": "date"
     },
     "updated": {
-      "description": "Date the resource was (last) updated (format: YYYY-MM-DD)",
+      "description": "Date the resource was last updated (format: YYYY-MM-DD)",
       "type": "string",
       "format": "date"
     },
@@ -287,11 +291,14 @@
       "default": false
     },
     "doi": {
-      "description": "DOI persistent identifier",
+      "description": "DOI persistent identifier. If left empty, the DOI will be generated automatically.",
       "type": "string"
     }
   },
-  "required": ["name", "type"],
+  "required": [
+    "name",
+    "type"
+  ],
   "allOf": [
     {
       "if": {
@@ -300,7 +307,9 @@
             "const": true
           }
         },
-        "required": ["collection"]
+        "required": [
+          "collection"
+        ]
       },
       "then": {
         "properties": {
@@ -375,14 +384,17 @@
       "if": {
         "properties": {
           "type": {
-            "enum": ["corpus", "lexicon"]
+            "enum": [
+              "corpus",
+              "lexicon"
+            ]
           }
         }
       },
       "then": {
         "properties": {
           "annotation": {
-            "description": "Anything worth to note about the annotations in this corpus. Especially important for corpora with gold annotations.",
+            "description": "Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.",
             "type": "object",
             "additionalProperties": false,
             "properties": {
