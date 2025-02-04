@@ -15,7 +15,7 @@ size:
   other: 4986
 in_collections: 
 - learner-language
-- l2_profiles
+- l2-profiles
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
     format: csv
