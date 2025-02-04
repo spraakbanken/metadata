@@ -8,7 +8,8 @@ type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
-language_codes: [swe]
+language_codes:
+  - swe
 size:
   entries: 505989
 in_collections: []
@@ -32,7 +33,11 @@ contact_info:
 annotation:
   swe: ''
   eng: ''
-keywords: [knowledge graph, political science, swedish parliament, metadata]
+keywords:
+  - knowledge graph
+  - political science
+  - swedish parliament
+  - metadata
 caveats:
   swe: 'För närvarande begränsat till perioden 1990-2018'
   eng: 'Currently limited to the period 1990-2018'
@@ -42,11 +47,7 @@ intended_uses:
   swe: 'För språkteknologisk och statsvetenskaplig analys av riksdagens ledamöter'
   eng: 'For analysis pertaining to the Swedish members of parliament'
 description:
-
-  swe: |-
-
-
-  eng: |-
-
+  swe: ""
+  eng: ""
 updated: 2020-01-14
 doi: 10.23695/wmcr-7c32

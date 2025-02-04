@@ -46,7 +46,7 @@ annotation:
   swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'
   eng: 'CEFR levels, lemmatization, POS-tagging, frequency'
 keywords:
-  - second language wordlist
+  - word lists
   - L2
   - receptive vocabulary
 caveats:
