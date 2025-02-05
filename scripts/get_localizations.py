@@ -17,6 +17,9 @@ import yaml
 # ruff: noqa: T201 (`print` found)
 
 LOCALIZATIONS_PATH = Path("../localizations")
+TASK_FILE = LOCALIZATIONS_PATH / "task.yaml"
+ANALYSIS_UNITS_FILE = LOCALIZATIONS_PATH / "analysis_unit.yaml"
+KEYWORDS_FILE = LOCALIZATIONS_PATH / "keywords.yaml"
 
 
 def get_localizations(source_type: str) -> None:
@@ -33,15 +36,18 @@ def get_localizations(source_type: str) -> None:
         raise ValueError("Invalid source type. Use 'url' or 'file'.")
 
     analysis_units = get_values_by_key(metadata, "analysis_unit")
-    make_yaml(analysis_units, LOCALIZATIONS_PATH / "analysis_units.yaml")
+    make_yaml(analysis_units, ANALYSIS_UNITS_FILE)
 
     analysis_tasks = get_values_by_key(metadata, "task")
-    make_yaml(analysis_tasks, LOCALIZATIONS_PATH / "tasks.yaml")
+    make_yaml(analysis_tasks, TASK_FILE)
 
     keywords = get_values_by_key(metadata, "keywords")
-    make_yaml(keywords, LOCALIZATIONS_PATH / "keywords.yaml", translations=False)
+    make_yaml(keywords, KEYWORDS_FILE, translations=False)
 
-    print("\nDone! Remebmer to add the translations in 'analysis_units.yaml' and 'tasks.yaml' if any updates were made.")
+    print(
+        f"\nDone! Remember to add the translations in '{ANALYSIS_UNITS_FILE.name}' "
+        f"and '{TASK_FILE.name}' if any updates were made."
+    )
 
 
 def make_yaml(values_list: list[str], filepath: Path, translations: bool = True) -> None:
