@@ -125,7 +125,7 @@
             "type": "string"
           },
           "type": {
-            "description": "Type of file (corpus, lexicon, model, token frequencies). Skip if not applicable.",
+            "description": "Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.",
             "type": "string",
             "enum": [
               "corpus",
@@ -286,7 +286,7 @@
       "format": "date"
     },
     "collection": {
-      "description": "",
+      "description": "Set to \"true\" if this is a collection of resources",
       "type": "boolean",
       "default": false
     },
