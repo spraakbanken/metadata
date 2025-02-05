@@ -1,54 +1,55 @@
 name:
   swe: ''  # Human readable name in Swedish
-  eng: ''  # Human readable name in English
-short_description:
+  eng: '' # Human readable name in English
+description:  # Longer description. May contain Markdown or HTML.
+  swe: ''  # Longer description in Swedish. May contain Markdown or HTML.
+  eng: '' # Longer description in English. May contain Markdown or HTML.
+short_description: # Short description in a few words or a sentence (plain text only)
   swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: ''  # Short description in a few words or a sentence in English (plain text only)
-type: lexicon  # Must be "lexicon"
-trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
-unlisted: false  # If set to "true", the resource won't be listed, but it will be accessible via its URL
-successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
-language_codes: []  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
-size:
-  entries: 0 # integer
-in_collections: []  # ID(s) of the collections the resource is part of
-downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
+  eng: '' # Short description in a few words or a sentence in English (plain text only)
+type: lexicon # Type of resource
+unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
+successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
+language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
+languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.
+  - code: ''  # Optional language code using some other standard than ISO 639-3
+    name:
+      swe: ''  # Language name (in Swedish)
+      eng: '' # Language name (in English)
+in_collections: [] # ID(s) of the collections the resource is part of
+downloads: # Downloadable files related to the resource
   - url: ''  # URL to a downloadable file
-    type: lexicon  # What's in the file?
-    format: LMF  # The file format or standard
-    info: ''  # Additional info, if required
-    licence: CC BY 4.0
-    restriction: attribution
-interface:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - access: ''  # A link to the resource in an interface (e.g in Korp or Karp)
-    info: ''  # Additional description of the interface
-    licence: CC BY 4.0
-    restriction: attribution
+    type: '' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
+    format: '' # The file format or standard (e.g. XML)
+    description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    license: CC BY 4.0
+interface: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+  - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
+    description: '' # Additional description, if required
+    license: CC BY 4.0 # License for the data in the interface
 creators: [] # List of people that created the resource (format: lastname, firstname)
-created: '2024-06-09' # Date the resource was created (format: text)
-updated: '2024-06-10' # Date the resource was (last) updated (format: text)
-contact_info:  # Contact info of the person who can answer questions about the resource
-  name: Markus Forsberg
+contact_info: # Contact info of the person who can answer questions about the resource
+  name: ''
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
-    email: sb-info@svenska.gu.se
-annotation: # Anything worth to note about the annotations in this lexicon.
-  swe: ''
-  eng: ''
+    organization: ''
+    email: ''
 keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
-caveats: 
-  swe: '' # Caveats and disclaimers in Swedish
+caveats: # Caveats and disclaimers
+  swe: ''  # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
-standard_reference: '' # Standard reference or link to publication describing the resource. May contain HTML.
-other_references: [] # List of other references or links to publications describing the resource
-intended_uses:
-  swe: '' # The intended uses for this resource (in Swedish)
+standard_reference: '' # Standard reference or link to a publication describing the resource. May contain HTML.
+other_references: [] # List of references or links to publications describing the resource
+intended_uses: # The intended uses for this resource
+  swe: ''  # The intended uses for this resource (in Swedish)
   eng: '' # The intended uses for this resource (in English)
-description:
-  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
-  swe: |-
-    
-  # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
-  eng: |-
-
+created: '' # Date the resource was created (format: YYYY-MM-DD)
+updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false # Set to "true" if this is a collection of resources
+doi: '' # DOI persistent identifier. If left empty, the DOI will be generated automatically.
+size: # Size information about the lexicon
+  entries: ''  # Number of entries in the lexicon
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.
+  swe: ''  # Annotation information in Swedish
+  eng: '' # Annotation information in English
+trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"

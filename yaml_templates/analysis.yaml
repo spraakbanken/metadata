@@ -7,7 +7,7 @@ description:  # Longer description. May contain Markdown or HTML.
 short_description: # Short description in a few words or a sentence (plain text only)
   swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
   eng: '' # Short description in a few words or a sentence in English (plain text only)
-type: model # Type of resource
+type: analysis # Type of resource
 unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
 language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
@@ -53,3 +53,17 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   swe: ''  # Annotation information in Swedish
   eng: '' # Annotation information in English
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
+analysis_unit: '' # The text unit on which the analysis is applied
+tool: # Information about the tool that produces the analysis
+  name: ''  # Name of the tool
+  url: '' # URL to the tool
+task: '' # Analysis/utility task
+model: '' # Model used for the analysis
+example: '' # Example of how to use the analysis and what the output looks like
+trained_on: '' # The training data used
+tagset: '' # The tagset used by the analysis
+evaluation_results: '' # Evaluation results
+licenses: # Licence for code, tool, and models
+  code: MIT  # Licence for the code
+  tool: '' # Licence for the tool
+  model: '' # Licence for the model
