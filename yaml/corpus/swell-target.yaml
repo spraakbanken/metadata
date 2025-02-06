@@ -2,6 +2,7 @@ name:
   swe: SweLL-gold target
   eng: SweLL-gold target
 type: corpus
+unlisted: true
 in_collection:
   - swell
   - learner-language
