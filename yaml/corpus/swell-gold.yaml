@@ -20,30 +20,30 @@ in_collections:
   - learner-language
   - swell
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-ORIGINAL.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt
   type: token frequencies
   format: CSV
-  info: ''
+  info: 'size: tokens: 147842; sentences: 7807'
   licence: CC BY 4.0
   restriction: attribution
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt
   type: token frequencies
   format: CSV
-  info: ''
+  info: 'size: tokens: 151851; sentences: 8137'
   licence: CC BY 4.0
   restriction: attribution
 interface:
   - access: Application form (https://sunet.artologik.net/gu/swell)
     licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
     restriction: ''
- - access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
+ - access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-original
    info: 'Application for access (https://sunet.artologik.net/gu/swell)'
    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
    restriction: attribution, personal access, no redistribution
-- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
-  info: 'Application for access (https://sunet.artologik.net/gu/swell)'
-  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
-  restriction: attribution, personal access, no redistribution
+ - access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
+   info: 'Application for access (https://sunet.artologik.net/gu/swell)'
+   license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+   restriction: attribution, personal access, no redistribution
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
