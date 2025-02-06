@@ -2,6 +2,7 @@ name:
   swe: SweLL-gold original
   eng: SweLL-gold original
 type: corpus
+unlisted: true
 language_codes:
 - swe
 size:
