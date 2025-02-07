@@ -3,7 +3,7 @@ name:
   eng: 'NPEGL: Old High German'
 type: corpus
 language_codes:
-- ger
+- deu
 size:
   tokens: 88075
   sentences: 11445
