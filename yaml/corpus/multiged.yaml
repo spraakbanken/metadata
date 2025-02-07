@@ -21,6 +21,7 @@ downloads:
   - url: 'https://spraakbanken.gu.se/lb/resurser/data/multiged-2023.tar.bz2'
     type: corpus
     format: tsv
+    license: varies
 interface:
   - url: https://github.com/spraakbanken/multiged-2023/
     description: "The corpus on Github"
