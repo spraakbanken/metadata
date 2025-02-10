@@ -2,6 +2,7 @@ name:
   swe: SweLL v1 original
   eng: SweLL v1 original
 type: corpus
+unlisted: true
 language_codes:
 - swe
 size:

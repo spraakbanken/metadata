@@ -19,11 +19,26 @@ size:
 in_collections:
   - learner-language
   - swell
-downloads: []
+downloads:
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt
+  type: token frequencies
+  format: CSV
+  description: 'size: tokens: 147842; sentences: 7807'
+  license: CC BY 4.0
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt
+  type: token frequencies
+  format: CSV
+  description: 'size: tokens: 151851; sentences: 8137'
+  license: CC BY 4.0
 interface:
-  - url: https://sunet.artologik.net/gu/swell
-    description: Application form
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+- url: Application form (https://sunet.artologik.net/gu/swell)
+  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+- url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-original
+  description: 'Application for access (https://sunet.artologik.net/gu/swell)'
+  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+- url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
+  description: 'Application for access (https://sunet.artologik.net/gu/swell)'
+  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
@@ -44,6 +59,10 @@ description:
   eng: |-
     <p>SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2017-2020 in the <a href="https://spraakbanken.gu.se/en/projects/swell/">SweLL project</a>, and contains 502 essays that have been pseudonymized, normalized and correction annotated.</p>
 
+    <h2>Two SweLL-gold versions -- original and corrected</h2>
+    <p>The corpus consists of two versions that are parallel in nature, the original learner-written texts, <b>SweLL-gold-original</b> and corrected versions of these, <b>SweLL-gold-target</b>. Statistics is slightly different between these two versions due to the introduced corrections, which is why we offer download of the statistics separately for SweLL-gold-original and SweLL-gold-target.</p> 
+    <p>To get access to <b>SweLL-gold full texts</b>, fill in an Application for Acess (see under Links).</p>
+
     <h2>Links</h2>
 
     <ul>
@@ -63,7 +82,8 @@ annotation:
     tagging, lemmatization, dependency annotation) with Sparv. Personal learner metadata
     is also available.
 keywords:
-  - L2
+  - L2 Swedish
+  - second language
   - language learning
   - essays
 caveats:
