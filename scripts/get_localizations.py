@@ -14,8 +14,6 @@ from typing import Any
 import requests
 import yaml
 
-# ruff: noqa: T201 (`print` found)
-
 LOCALIZATIONS_PATH = Path("../localizations")
 TASK_FILE = LOCALIZATIONS_PATH / "task.yaml"
 ANALYSIS_UNITS_FILE = LOCALIZATIONS_PATH / "analysis_unit.yaml"
@@ -103,7 +101,7 @@ def fetch_json_data_from_url(url: str) -> dict[str, Any]:
         response.raise_for_status()
         return response.json()
     except (requests.exceptions.RequestException, ValueError) as e:
-        print(f"Error fetching data: {e}")
+        print(f"Error fetching data: {e}", file=sys.stderr)
         return {}
 
 
@@ -127,7 +125,7 @@ def fetch_json_data_from_files(directory: Path) -> dict[str, Any]:
                 else:
                     print(f"Skipping non-dict JSON content in file: {file_path}")
         except (OSError, yaml.YAMLError) as e:
-            print(f"Error reading file {file_path}: {e}")
+            print(f"Error reading file {file_path}: {e}", file=sys.stderr)
     return combined_data
 
 
@@ -156,7 +154,11 @@ def get_values_by_key(data: dict[str, Any], target_key: str) -> list[str]:
                     elif isinstance(value, str):
                         values.add(value)
                     else:
-                        print(f"Error collecting value from '{key}': '{value}' due to type {type(value)}. Skipping!")
+                        print(
+                            f"Error collecting value from '{key}': '{value}' due to type {type(value)}. "
+                            "Skipping!",
+                            file=sys.stderr
+                        )
                 else:
                     extract_values(value)
 
