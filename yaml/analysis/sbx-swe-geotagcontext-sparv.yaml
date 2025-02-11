@@ -2,7 +2,9 @@
 task: geotagging
 language_codes:
   - swe
-model: '[GeoNames](https://www.geonames.org/)'
+models:
+  - name: GeoNames
+    url: https://www.geonames.org/
 created: 2018-05-28
 updated: 2022-05-18
 name:
@@ -67,11 +69,11 @@ example: |-
     </paragraph>
   </text>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licenses:
-  code: MIT License
+tools:
+  - name: Sparv
+    url: https://spraakbanken.gu.se/sparv
+    license: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

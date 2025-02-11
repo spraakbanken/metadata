@@ -24,7 +24,7 @@ downloads:
     format: LMF
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Jacobo Rouces
   email: jacobo.rouces@gu.se

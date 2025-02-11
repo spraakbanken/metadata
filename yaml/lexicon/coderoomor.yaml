@@ -33,7 +33,7 @@ downloads:
     format: xlsx
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/larkalabb/svlp
     license: CC BY 4.0
 creators:

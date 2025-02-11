@@ -17,7 +17,7 @@ downloads:
     description: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
     license: CC BY 4.0
-interface: []
+interfaces: []
 creators:
   - Hengchen, Simon
   - Tahmasebi, Nina

@@ -39,7 +39,7 @@ resources:
 language_codes:
   - som
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali
     license: CC BY 4.0
 contact_info:

@@ -32,7 +32,7 @@ downloads:
     format: 'zip'
     description: 'beta'
     license: Mixed
-interface: []
+interfaces: []
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se

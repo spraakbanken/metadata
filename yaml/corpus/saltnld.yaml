@@ -36,7 +36,7 @@ downloads:
     format: CSV
     description: this file contains corpus statistics for the Dutch part of the corpus
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=saltnld-sv
     license: CC BY 4.0
 contact_info:

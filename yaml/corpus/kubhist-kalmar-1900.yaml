@@ -26,7 +26,7 @@ downloads:
     format: CSV
     description: this file contains the token frequencies with updated annotations
     license: CC BY 4.0
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-kalmar-1900
 contact_info:

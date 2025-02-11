@@ -65,7 +65,7 @@ language_codes:
   - tuk
   - ukr
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspac
     license: CC BY 4.0
 contact_info:

@@ -19,7 +19,7 @@ downloads:
     format: Prolog
     description: ''
     license: GNU GPLv3 or later
-interface:
+interfaces:
   - url: 'https://spraakbanken.gu.se/poligraph/'
     license: CC BY 4.0
 creators:

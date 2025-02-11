@@ -32,7 +32,7 @@ downloads:
     type: token frequencies
     format: CSV
     license: CC BY 4.0
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-dalpilen-1910
 contact_info:

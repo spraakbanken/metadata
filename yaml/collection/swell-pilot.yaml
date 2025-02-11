@@ -19,7 +19,7 @@ resources:
 language_codes:
   - swe
 downloads: []
-interface:
+interfaces:
  - url: Application form (https://sunet.artologik.net/gu/swell)
    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 creators: 

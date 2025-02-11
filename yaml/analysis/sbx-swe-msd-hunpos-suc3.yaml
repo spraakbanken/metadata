@@ -3,12 +3,10 @@ language_codes:
   - swe
 other_references:
   - 'Hunpos: https://code.google.com/archive/p/hunpos/'
-tool:
-  name: Hunpos
-  url: https://code.google.com/archive/p/hunpos/
-licenses:
-  tool: BSD-3-Clause
-  code: MIT License
+tools:
+  - name: Hunpos
+    url: https://code.google.com/archive/p/hunpos/
+    license: BSD-3-Clause
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
 tagset: '[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)'
 name:
@@ -18,7 +16,9 @@ short_description:
   swe: Annotering av morfosyntaktiska deskriptorer (SUC) med Hunpos för svenska
   eng: Annotation of morphological features (SUC) by Hunpos for Swedish
 task: morphosyntactic tagging
-model: '[suc3_suc-tags_default-setting_utf8.model](https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true)'
+models:
+  - name: suc3_suc-tags_default-setting_utf8.model
+    url: https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true
 description:
   swe: |-
     Meningssegment analyseras och annoteras med ordklasstaggar och morfosyntaktisk information. Ingår inte längre i
@@ -50,6 +50,7 @@ example: |-
   <token msd="NN.UTR.SIN.IND.NOM">korpus</token>
   <token msd="MAD">.</token>
   ```
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

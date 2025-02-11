@@ -36,7 +36,7 @@ downloads:
     format: CSV
     description: this file contains statistics on the Dutch part of the corpus
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=europarl-nl
     license: CC BY 4.0
 contact_info:

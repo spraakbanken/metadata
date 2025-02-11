@@ -32,7 +32,7 @@ downloads:
     format: zip
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/karp-v6/#?mode=DEFAULT&resources=lexin
     license: CC BY 4.0
 contact_info:

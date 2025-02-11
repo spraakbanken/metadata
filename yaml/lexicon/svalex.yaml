@@ -26,7 +26,7 @@ downloads:
     format: tsv
     description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents (=texts) per level (format: nb_doc@a1), frequences in unique coursebooks by level and in total (format: B2_Nya_Mål_3@b2, C1_Språkporten_123@total)'
     license: CC BY-NC-SA 4.0
-interface:
+interfaces:
   - url: 'https://cental.uclouvain.be/cefrlex/svalex/search/'
     description: 'Search in SVALex'
     license: CC BY-NC-SA 4.0

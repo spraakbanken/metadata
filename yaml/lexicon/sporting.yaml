@@ -14,7 +14,7 @@ size:
   entries: 0
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/sporting/
     license: CC BY 4.0
 contact_info:

@@ -30,11 +30,11 @@ example: |
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licenses:
-  code: MIT License
+tools:
+  - name: Sparv
+    url: https://spraakbanken.gu.se/sparv
+    license: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -34,7 +34,7 @@ language_codes:
   - nld
   - por
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=europarl
     license: CC BY 4.0
 contact_info:

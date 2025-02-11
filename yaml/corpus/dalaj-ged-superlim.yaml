@@ -32,7 +32,7 @@ downloads:
       Elena Volodina, Yousuf Ali Mohammad, Aleksandrs Berdicevskis, Gerlof Bouma, Joey Öhman. 2023. DaLAJ-GED - a dataset for Grammatical Error Detection tasks on Swedish
     format: pdf
     license: CC BY 4.0
-interface: []
+interfaces: []
 creators:
   - Volodina, Elena
   - Mohammed, Yousuf Ali

@@ -24,7 +24,7 @@ downloads:
     format: CSV
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=osterbottenstidning2012
     license: CC BY 4.0
 contact_info:

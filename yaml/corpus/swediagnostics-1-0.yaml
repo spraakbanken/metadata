@@ -21,7 +21,7 @@ downloads:
     format: csv
     description: ''
     license: CC BY 1.0
-interface: []
+interfaces: []
 contact_info:
   name: Morger Felix
   email: sb-info@svenska.gu.se

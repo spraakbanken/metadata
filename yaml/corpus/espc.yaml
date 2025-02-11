@@ -18,7 +18,7 @@ size:
   sentences: 89779
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=espc-sv
     license: CC BY 4.0
 contact_info:

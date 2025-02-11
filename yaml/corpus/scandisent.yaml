@@ -29,7 +29,7 @@ downloads:
     format: ''
     description: raw data from ScandiSent machine translated to English
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

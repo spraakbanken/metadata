@@ -19,7 +19,7 @@ downloads:
     format: LMF
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=soederwall&lexicon=soederwall-supp
     license: CC BY 4.0
 contact_info:

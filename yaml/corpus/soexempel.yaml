@@ -15,7 +15,7 @@ size:
   sentences: 94445
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=soexempel
     license: CC BY 4.0
 contact_info:

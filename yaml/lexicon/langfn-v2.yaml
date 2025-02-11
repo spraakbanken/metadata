@@ -14,7 +14,7 @@ size:
   entries: 169
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/karp-v6/#?mode=langfn&resources=langfn-v2
     license: CC BY 4.0
 contact_info:

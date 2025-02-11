@@ -25,7 +25,7 @@ downloads:
     format: zip
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/pdf/857.pdf
 contact_info:

@@ -13,7 +13,7 @@ resources: []
 language_codes:
   - swe
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=newstexts.svtnews
     license: CC BY 4.0
 contact_info:

@@ -8,7 +8,6 @@ short_description:
 task: phrase structure parsing
 language_codes:
   - swe
-model: Method has no model
 trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
 tagset: See description below
 description:
@@ -81,11 +80,11 @@ example: |-
     </phrase>
   </phrase>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licenses:
-  code: MIT License
+tools:
+  - name: Sparv
+    url: https://spraakbanken.gu.se/sparv
+    license: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

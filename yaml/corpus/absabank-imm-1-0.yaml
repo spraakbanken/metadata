@@ -45,7 +45,7 @@ downloads:
     format: rb
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Aleksandrs Berdicevskis
   email: aleksandrs.berdicevskis@gu.se

@@ -30,7 +30,7 @@ resources:
   - sbx-swe-tokenization-sparv-betterword
 language_codes:
   - swe
-interface: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -19,7 +19,7 @@ downloads:
     format: tgz
     description: ''
     license: CC BY-NC 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se

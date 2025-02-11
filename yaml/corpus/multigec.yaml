@@ -25,7 +25,7 @@ language_codes:
   - swe
   - ukr
 downloads: []
-interface:
+interfaces:
   - url: https://lt3.ugent.be/resources/multigec-dataset
     license: subject to Terms of Use
     # restriction: attribution, no-redistribution, no use with the proprietary models, no commercial use, personal access

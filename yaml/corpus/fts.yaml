@@ -21,7 +21,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/FTS/search.phtml
     license: other
   - url: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts

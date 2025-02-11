@@ -30,7 +30,7 @@ downloads:
     format: tsv
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Elena Volodina
   email: elena.volodina@svenska.gu.se

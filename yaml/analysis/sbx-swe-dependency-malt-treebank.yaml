@@ -15,10 +15,12 @@ standard_reference: |-
 other_references:
   - 'Maltparser: https://www.maltparser.org/download.html'
   - https://aclanthology.org/2021.nodalida-main.20/
-tool:
-  name: Maltparser
-  url: https://www.maltparser.org/
-model: '[Swemalt](https://www.maltparser.org/mco/swedish_parser/swemalt.html)'
+tools:
+  - name: Maltparser
+    url: https://www.maltparser.org/
+models:
+  - name: Swemalt
+    url: https://www.maltparser.org/mco/swedish_parser/swemalt.html
 trained_on: '[Svensk trädbank (the TalbankenSTB part)](https://spraakbanken.gu.se/resurser/sv-treebank)'
 tagset: '[MambaDep](https://svn.spraakdata.gu.se/sb-arkiv/pub/mamba.html)'
 evaluation_results: Labelled Attachment Score 0.78 (using the TalbankenSBX train-dev-test
@@ -59,8 +61,7 @@ example: |-
   <token dephead_ref="10" deprel="PA" ref="11">Nobelpriset</token>
   <token dephead_ref="4" deprel="IP" ref="12">.</token>
   ```
-licenses:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

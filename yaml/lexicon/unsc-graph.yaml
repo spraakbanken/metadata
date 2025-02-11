@@ -19,7 +19,7 @@ downloads:
     format: Prolog
     description: ''
     license: GNU GPLv3 or later
-interface: []
+interfaces: []
 creators:
   - Rødven-Eide, Stian
 contact_info:

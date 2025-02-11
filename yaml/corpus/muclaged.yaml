@@ -14,7 +14,7 @@ in_collections:
 language_codes:
   - swe
 downloads: []
-interface:
+interfaces:
   - url: https://sunet.artologik.net/gu/swell
     license: misc
     description: Application form

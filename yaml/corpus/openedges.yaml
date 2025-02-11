@@ -30,7 +30,7 @@ downloads:
     description: ''
     license: For license details of the previous versions, see the 'Read me.txt' file
       in the download.
-interface: []
+interfaces: []
 creators:
   - Coussé, Evie
   - Dijkstra, Trude

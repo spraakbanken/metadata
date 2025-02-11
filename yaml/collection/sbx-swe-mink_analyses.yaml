@@ -29,7 +29,7 @@ resources:
   - sbx-swe-tokenization-sparv-betterword
 language_codes:
   - swe
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/mink
     license: CC BY 4.0
 contact_info:

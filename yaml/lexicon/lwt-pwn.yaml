@@ -21,7 +21,7 @@ downloads:
     format: txt
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 creators:
   - Borin, Lars
 contact_info:

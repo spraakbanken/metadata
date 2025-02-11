@@ -33,7 +33,7 @@ downloads:
     format: html
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=parolelexplus&lexicon=simpleplus
     license: CC BY 4.0
 contact_info:

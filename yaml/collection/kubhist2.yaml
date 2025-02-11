@@ -16,7 +16,7 @@ resources: []
 language_codes:
   - swe
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=kubhist
     license: CC BY 4.0
 contact_info:

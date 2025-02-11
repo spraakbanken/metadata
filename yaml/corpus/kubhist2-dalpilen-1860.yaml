@@ -27,7 +27,7 @@ downloads:
     format: CSV
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-dalpilen-1860
 contact_info:

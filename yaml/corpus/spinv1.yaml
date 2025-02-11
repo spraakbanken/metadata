@@ -16,7 +16,7 @@ size:
   sentences: 4302
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - description: Application form (https://sunet.artologik.net/gu/swell)
     url: https://spraakbanken.gu.se/korp/#?corpus=tisus
     license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)

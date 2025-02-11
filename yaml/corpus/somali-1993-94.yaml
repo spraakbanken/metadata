@@ -18,7 +18,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-1993-94
 contact_info:

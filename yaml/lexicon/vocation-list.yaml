@@ -19,7 +19,7 @@ downloads:
     format: gz
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 other_references:
   - '{publication 209808}'
 contact_info:

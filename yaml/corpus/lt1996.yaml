@@ -24,7 +24,7 @@ downloads:
     format: CSV
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=lt1996
     license: CC BY 4.0
   - url: http://www.medicinskkorpus.se/login.phtml

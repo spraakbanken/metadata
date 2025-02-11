@@ -21,7 +21,7 @@ downloads:
     format: CSV
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord2-exp-2016
 contact_info:

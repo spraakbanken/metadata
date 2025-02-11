@@ -15,7 +15,9 @@ other_references:
     Harmonization, integration, method development and practical language technology
     applications. John Benjamins: Amsterdam, Philadelphia. ISBN 978 90 272 5848 9.'
 tagset: '[Swedish FrameNet (SweFN)](https://spraakbanken.gu.se/resurser/swefn)'
-model: '[Frequency model](https://github.com/spraakbanken/sparv-models/blob/master/lexical_classes/swefn.freq.gp2008%2Bsuc3%2Bromi.pickle)'
+models:
+  - name: Frequency model
+    url: https://github.com/spraakbanken/sparv-models/blob/master/lexical_classes/swefn.freq.gp2008%2Bsuc3%2Bromi.pickle
 name:
   swe: Lexikala klasser från SweFN, tokennivå
   eng: Lexical classes from SweFN, token-level
@@ -62,11 +64,11 @@ example: |-
   <token swefn="|">rävsläktet</token>
   <token swefn="|">.</token>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licenses:
-  code: MIT License
+tools:
+  - name: Sparv
+    url: https://spraakbanken.gu.se/sparv
+    license: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

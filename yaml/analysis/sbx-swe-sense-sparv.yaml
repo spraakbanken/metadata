@@ -14,14 +14,15 @@ standard_reference: https://aclanthology.org/N15-1164.pdf
 other_references:
   - https://github.com/spraakbanken/sparv-wsd/blob/master/README.pdf
   - 'Sparv wsd: https://github.com/spraakbanken/sparv-wsd'
-tool:
-  name: Sparv wsd
-  url: https://github.com/spraakbanken/sparv-wsd
-licenses:
-  tool: MIT License
-  code: MIT License
-model: "- [ALL_512_128_w10_A2_140403_ctx1.bin](https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/ALL_512_128_w10_A2_140403_ctx1.bin)\
-  \  \n- [lem_cbow0_s512_w10_NEW2_ctx.bin](https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/lem_cbow0_s512_w10_NEW2_ctx.bin)"
+tools:
+  - name: Sparv wsd
+    url: https://github.com/spraakbanken/sparv-wsd
+    license: MIT License
+models:
+  - name: ALL_512_128_w10_A2_140403_ctx1.bin
+    url: https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/ALL_512_128_w10_A2_140403_ctx1.bin
+  - name: lem_cbow0_s512_w10_NEW2_ctx.bin
+    url: https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/lem_cbow0_s512_w10_NEW2_ctx.bin
 trained_on: SALDO from May 2014 (SCOUSE model)
 evaluation_results: "Using lemma embeddings:  \nprecision: 0.569 recall: 0.292 f-measure:\
   \ 0.386\n\nUsing sense embeddings:  \nprecision: 0.667 recall: 0.332 f-measure:\
@@ -67,6 +68,7 @@ example: |-
   <token sense="|bräda..1:0.787|bräde..1:0.213|">brädan</token>
   <token sense="|">.</token>
   ```
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

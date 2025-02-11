@@ -17,7 +17,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-suugaan2
     license: CC BY 4.0
 contact_info:

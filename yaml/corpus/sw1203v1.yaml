@@ -12,7 +12,7 @@ downloads:
   type: token frequencies
   format: CSV
   license: CC BY 4.0
-interface:
+interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=sw1203v1
   license: CC BY 4.0
 updated: 2021-08-11

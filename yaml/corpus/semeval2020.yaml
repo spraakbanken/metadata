@@ -20,7 +20,7 @@ downloads:
     format: zip
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Nina Tahmasebi
   email: nina.tahmasebi@gu.se

@@ -14,7 +14,7 @@ size:
   sentences: 1347
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=xhosa#?corpus=xhosa
 contact_info:

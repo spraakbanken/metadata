@@ -19,7 +19,7 @@ downloads:
     format: txt
     description: ''
     license: CC BY 4.0
-interface: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

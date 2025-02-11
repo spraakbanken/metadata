@@ -20,7 +20,7 @@ downloads:
     format: json
     description: ''
     license: CC BY 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/karp-v6/#?mode=skbl
     license: CC BY 4.0
   - url: https://skbl.se/

@@ -15,7 +15,7 @@ size:
   sentences: 1671088
 in_collections: []
 downloads: []
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=frageladan
     license: CC BY 4.0
 contact_info:
