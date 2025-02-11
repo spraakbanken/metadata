@@ -23,7 +23,7 @@ downloads: # Downloadable files related to the resource
     format: '' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
-interface: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp)
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     description: '' # Additional description, if required
     license: CC BY 4.0 # License for the data in the interface

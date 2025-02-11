@@ -23,7 +23,7 @@ downloads: # Downloadable files related to the resource
     format: '' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
-interface: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp)
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     description: '' # Additional description, if required
     license: CC BY 4.0 # License for the data in the interface
@@ -54,16 +54,19 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   eng: '' # Annotation information in English
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
 analysis_unit: '' # The text unit on which the analysis is applied
-tool: # Information about the tool that produces the analysis
-  name: ''  # Name of the tool
-  url: '' # URL to the tool
+tools: # Information about the external tools that produce the analysis (if applicable)
+  - name: ''  # Name of the tool
+    url: '' # URL to the tool
+    description: '' # Description of the tool
+    license: '' # License for the tool
 task: '' # Analysis/utility task
-model: '' # Model used for the analysis
+models: # Information about the models used for the analysis
+  - name: ''  # Name of the model
+    url: '' # URL to the model
+    description: '' # Description of the model
+    license: '' # License for the model
 example: '' # Example of how to use the analysis and what the output looks like
 trained_on: '' # The training data used
 tagset: '' # The tagset used by the analysis
 evaluation_results: '' # Evaluation results
-licenses: # Licence for code, tool, and models
-  code: MIT  # Licence for the code
-  tool: '' # Licence for the tool
-  model: '' # Licence for the model
+license: '' # License for code (e.g. the Sparv plugin)
