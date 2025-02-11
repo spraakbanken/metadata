@@ -150,12 +150,11 @@
         },
         "required": [
           "url",
-          "format",
           "license"
         ]
       }
     },
-    "interface": {
+    "interfaces": {
       "description": "Links to interfaces where the resource is available (e.g. Korp or Karp)",
       "type": "array",
       "items": {
@@ -451,18 +450,29 @@
             "description": "The text unit on which the analysis is applied",
             "type": "string"
           },
-          "tool": {
-            "description": "Information about the tool that produces the analysis",
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "name": {
-                "description": "Name of the tool",
-                "type": "string"
-              },
-              "url": {
-                "description": "URL to the tool",
-                "type": "string"
+          "tools": {
+            "description": "Information about the external tools that produce the analysis (if applicable)",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "name": {
+                  "description": "Name of the tool",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL to the tool",
+                  "type": "string"
+                },
+                "description": {
+                  "description": "Description of the tool",
+                  "type": "string"
+                },
+                "license": {
+                  "description": "License for the tool",
+                  "type": "string"
+                }
               }
             }
           },
@@ -470,9 +480,31 @@
             "description": "Analysis/utility task",
             "type": "string"
           },
-          "model": {
-            "description": "Model used for the analysis",
-            "type": "string"
+          "models": {
+            "description": "Information about the models used for the analysis",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "name": {
+                  "description": "Name of the model",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL to the model",
+                  "type": "string"
+                },
+                "description": {
+                  "description": "Description of the model",
+                  "type": "string"
+                },
+                "license": {
+                  "description": "License for the model",
+                  "type": "string"
+                }
+              }
+            }
           },
           "example": {
             "description": "Example of how to use the analysis and what the output looks like",
@@ -490,25 +522,9 @@
             "description": "Evaluation results",
             "type": "string"
           },
-          "licenses": {
-            "description": "Licence for code, tool, and models",
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "code": {
-                "description": "Licence for the code",
-                "type": "string",
-                "default": "MIT"
-              },
-              "tool": {
-                "description": "Licence for the tool",
-                "type": "string"
-              },
-              "model": {
-                "description": "Licence for the model",
-                "type": "string"
-              }
-            }
+          "license": {
+            "description": "License for code (e.g. the Sparv plugin)",
+            "type": "string"
           }
         }
       }
