@@ -23,6 +23,10 @@ resources:
   - swellex
   - coderoomor
   - sen*lex
+  - swe-mwelex
+  - l2lex-adj
+  - l2lex-adjadv
+
   - kelly
 language_codes:
   - swe
@@ -49,13 +53,16 @@ description:
     <li><b>SweLLex</b> is a wordlist generated from the SweLL-pilot essays.</li>
     <li><b>Sen*Lex</b> is a sense-based wordlist, combining SVALex and SweLLex in one.</li>
     <li><b>CoDeRooMor</b> is a morphologically annotated list based on Sen*Lex, featuring annotations for word-building morphemes (roots, prefixes, suffixes etc) and word-building mechanisms (affixation, compounding, etc.).</b> </li>
+    <li><b>Swe-MWELex</b> is a list of multi-word expressions based on Sen*Lex, with CEFR labels and subcategorizations of MWEs into several types </li>
+    <li><b>L2Lex-Adj</b> is a list of adjectives based on Sen*Lex, with CEFR labels, information on adjectival declensions and frequences.</li>
+    <li><b>L2Lex-AdjAdv</b> is a list of adjectives and adverbs based on Sen*Lex, with CEFR labels, information on patterns of comparative degrees and frequences.</li>
     <li><b>Kelly</b> - is a wordlist covering ca 8.000 most frequent words in the web texts, and assigned to the six CEFR levels based on the frequency information.</li>
     </ul> 
 annotation:
   swe: ''
   eng: ''
 keywords: 
-  - second language
+  - second language (L2)
   - learner language
   - language learning
   - essays
