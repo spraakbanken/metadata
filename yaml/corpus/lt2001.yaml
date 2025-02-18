@@ -28,8 +28,6 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=lt2001
     license: CC BY 4.0
-  - url: http://www.medicinskkorpus.se/login.phtml
-    license: other
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
