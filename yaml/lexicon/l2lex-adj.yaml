@@ -1,0 +1,69 @@
+name:
+  swe: 'L2Lex-Adj'
+  eng: 'L2Lex-Adj'
+short_description:
+  swe: 'L2Lex-Adj är en disambiguerad ordlista med svenska adjektiv för elever med svenska som andraspråk, inkl. frekvenserna från uppsatser (produktivt ordförråd, baserat på SweLL-piloten) och kursböcker (receptivt ordförråd, baserat på COCTAILL). För varje adjektiv, anges dess böjningsparadigm'  
+  eng: 'L2Lex-Adj is a sense-based word list of adjectives for Swedish as a second language, featuring frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL). For each adjective, their grammatical paradigms for degrees of comparison are provided.'  
+type: lexicon
+trainingdata: false
+unlisted: false  
+successors: []  
+language_codes: [swe]  
+size:
+  entries: 3950
+in_collections: 
+  - learner-language  
+  - L2-profiles
+downloads:  
+  - url: 'https://spraakbanken.gu.se/lb/resurser/data/l2lex-adj.xlsx'
+    type: lexicon  
+    format: xlsx
+    description: 'Columns: CEFR, word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalDeclension (regular, irregular, etc), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)' 
+    license: CC BY 4.0
+  - url: 'https://spraakbanken.gu.se/lb/resurser/data/l2lex-adj.csv'
+    type: lexicon  
+    format: csv
+    description: 'Columns: CEFR, word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalDeclension (regular, irregular, etc), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)'  
+    license: CC BY-NC-SA 4.0
+interfaces:
+  - url: 'https://spraakbanken.gu.se/larka/svlp'  
+    license: CC BY 4.0
+    description: 'Go to Lexical profile / Adjective declension'
+creators: [Lindström Tiedemann Therese, Alfter David, Volodina Elena] 
+created: '2023-04-20'
+updated: '2023-04-20'
+contact_info:  
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation: 
+  swe: 'CEFR levels, lemmatization, sense disambiguation, POS-tagging, grammar information (declension), frequency'
+  eng: 'GERS nivåer, lemmatisering, betydelsedisambiguering, ordklasser, grammatisk information (deklination), frekvenser'
+keywords: [second language wordlist, L2, receptive vocabulary, productive vocabulary, CEFR levels] 
+caveats:
+  swe: '' 
+  eng: 'L2Lex-Adj lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the word "snäll" (Eng. nice) is provided five time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.' 
+standard_reference: 'Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook.'
+other_references: 
+ - '{publication  321985}' 
+intended_uses:
+  swe: 'undervisning av L2 svenska, utveckling av CALL och ICALL applikationer, använding som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk' 
+  eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language' 
+description:
+  swe: |-
+    <p>L2Lex-Adj är en orlista med adjektiv som används produktivt eller receptivt inom undervisning av svenska som andraspråk. Listan baserar sig på två korpusar: SweLL-piloten, som innehåller uppsatser från andraspråkselever, och COCTAILL, som innehåller texter från kursböckerna som används för undervisning av svenska på kurser i svenska som andraspråk. Båda korpusar var manuellt annoterade med CEFR/GERS nivåerna. Dessa nivåer är projicerade till varje ord som observerats i texter av samma nivå. Listan är, således, inte preskriptiv, utan i högsta grad deskriptiv.  <br/> Varje ord i listan innehåller lingvistisk information som delvis var automatisk annoterad, med vissa kategorier som har kontrollerats manuellt.</p> <p>De angivna frekvenserna kommer också från de två källkorpusarna: <b>COCTAILL</b> och <b>SweLL-pilot</b>, se artiklarna här:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
+    </ul>
+    <p>Man kan utforska L2Lex-Adj på Lärka-plattformen (https://spraakbanken.gu.se/larka/svlp) under Svenska L2 profiler -> Lexikal profil -> Adjektivdeklination. Man kan också filtrera och ladda ner resursen därifrån.</p>
+  eng: |-
+    <p>L2Lex-Adj is a word list with adjectives used productively and receptively in teaching Swedish as a second language. The list is based on two corpora: SweLL-pilot, containing essays fron language learners, and COCTAILL, containing texts from course books used at courses for teaching language learners. Texts in the two corpora were manually annotated with CEFR levels. These levels have been projected to each vocabulary item observed in the texts. The list is, therefore, non-prescriptive, i.e. descriptive in character. <br/> Every item in the list contains linguistic information, that was partly automatically assigned, with certain categories manually checked. </p> <p>Frequences in the list come also from the two corpora, i.e.: <b>COCTAILL</b>, and  <b>SweLL-pilot</b>, see articles below:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
+    </ul>
+    <p>It is possible to interactively browse the list on the Lärka-platform (https://spraakbanken.gu.se/larka/svlp) under Swedish L2 profiles -> Lexical profile -> Adjectival declension. There, it is possible to filter the list for different categories and download it in full or a the selection.</p>
+
+
+  
+  
+  
+
+
