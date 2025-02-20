@@ -25,11 +25,10 @@ downloads:
     format: csv
     description: 'Columns: word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), Declension (nouns), Gender (nouns), Conjugation (verbs), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)'  # Additional info, if required
     license: CC BY-NC-SA 4.0
-interface:
+interfaces:
   - url: https://spraakbanken.gu.se/larka/svlp
     license: CC BY 4.0
     description: 'Go to Lexical profile / Sen*Lex'
-    restriction: attribution
 creators: [Alfter David, Lindström Tiedemann Therese, Volodina Elena]
 created: '2023-04-20'
 updated: '2023-04-20'
@@ -42,18 +41,18 @@ contact_info:
 annotation:
   swe: 'CEFR levels, lemmatization, sense disambiguation, POS-tagging, grammar information (declension, gender, conjugation), frequency'
   eng: 'GERS nivåer, lemmatisering, betydelsedisambiguering, ordklasser, grammatisk information (deklination, genus, konjugation), frekvenser'
-keywords: [second language wordlist, L2, receptive vocabulary, productive vocabulary, CEFR levels] # List of keywords (in English) that may be used for filering. Keep them short!
+keywords: [second language wordlist, L2, receptive vocabulary, productive vocabulary, CEFR levels]
 caveats:
   swe: ''
   eng: 'Sen-Lex lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the word "berg" (Eng. mountain) is provided five time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.'
 standard_reference: 'Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook.'
-references: 
+other_references: 
  - '{publication 345602}'
  - '{publication 248142}'
  - '{publication 248090}'
 intended_uses:
-  swe: 'undervisning av L2 svenska, utveckling av CALL och ICALL applikationer, använding som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk' # The intended uses for this resource (in Swedish)
-  eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language' # The intended uses for this resource (in English)
+  swe: 'undervisning av L2 svenska, utveckling av CALL och ICALL applikationer, använding som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk'
+  eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language'
 description:
   swe: |-
     <p>Sen*Lex är en orlista med produktivt och receptivt ordförråd for svenska som andraspråk. Listan baserar sig på två korpusar: SweLL-piloten, som innehåller uppsatser från andraspråkselever, och COCTAILL, som innehåller texter från kursböckerna som används för undervisning av svenska på kurser i svenska som andraspråk. Båda korpusar var manuellt annoterade med CEFR/GERS nivåerna. Dessa nivåer är projicerade till varje ord som observerats i texter av samma nivå. Listan är, således, inte preskriptiv, utan i högsta grad deskriptiv.  <br/> Varje ord i listan innehåller lingvistisk information som delvis var automatisk annoterad, med vissa kategorier som har kontrollerats mauellt.</p> <p>De angivna frekvenserna kommer också från de två källkorpusarna: <b>COCTAILL</b> och <b>SweLL-pilot</b>, se artiklarna här:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
