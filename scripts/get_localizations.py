@@ -141,11 +141,11 @@ def get_values_by_key(data: dict[str, Any], target_key: str) -> list[str]:
     """
     values: set = set()
 
-    def extract_values(obj: dict[str, Any] | list[Any]) -> None:
+    def extract_values(obj: dict[str, Any] | list[Any], resource_name: str) -> None:
         """Recursively extracts values associated with the target key from nested JSON structures."""
         if isinstance(obj, list):
             for item in obj:
-                extract_values(item)
+                extract_values(item, resource_name)
         elif isinstance(obj, dict):
             for key, value in obj.items():
                 if key == target_key:
@@ -155,24 +155,23 @@ def get_values_by_key(data: dict[str, Any], target_key: str) -> list[str]:
                         values.add(value)
                     else:
                         print(
-                            f"Error collecting value from '{key}': '{value}' due to type {type(value)}. "
-                            "Skipping!",
-                            file=sys.stderr
+                            f"ERROR: Resource '{resource_name}': failed collecting value from '{key}': '{value}' "
+                            f"due to type {type(value)}. Skipping!",
+                            file=sys.stderr,
                         )
                 else:
-                    extract_values(value)
+                    extract_values(value, resource_name)
 
-    extract_values(data)
+    for k, v in data.items():
+        extract_values(v, k)
+
     return sorted(values)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fetch metadata and generate localization YAML files.")
     parser.add_argument(
-        "source_type",
-        type=str,
-        choices=["url", "file"],
-        help="The type of source, either 'url' or 'file'."
+        "source_type", type=str, choices=["url", "file"], help="The type of source, either 'url' or 'file'."
     )
     # Print help message if no arguments are provided
     if len(sys.argv) == 1:
