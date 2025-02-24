@@ -14,7 +14,7 @@ size:
   entries: 34111
 in_collections:
   - learner-language
-  - L2-profiles
+  - l2-profiles
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/sen-lex.xlsx
     type: lexicon
