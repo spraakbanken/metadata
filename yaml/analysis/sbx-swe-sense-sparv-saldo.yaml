@@ -42,10 +42,6 @@ example: |-
   <token sense="|korpus..1|korpus..2|korpus..3|korpus..4|korpus..5|">korpus</token>
   <token sense="|">.</token>
   ```
-tools:
-  - name: Sparv
-    url: https://spraakbanken.gu.se/sparv
-    license: MIT License
 license: MIT License
 contact_info:
   name: Markus Forsberg

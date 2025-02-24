@@ -71,10 +71,6 @@ example: |-
   <token sentiment_label="positive" sentiment_score="1">nöjd</token>
   <token>!</token>
   ```
-tools:
-  - name: Sparv
-    url: https://spraakbanken.gu.se/sparv
-    license: MIT License
 license: MIT License
 contact_info:
   name: Markus Forsberg

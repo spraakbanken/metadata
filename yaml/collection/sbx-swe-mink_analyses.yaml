@@ -23,8 +23,8 @@ resources:
   - sbx-swe-readability-sparv-lix
   - sbx-swe-readability-sparv-nk
   - sbx-swe-readability-sparv-ovix
-  - sbx-swe-sense-wsd
-  - sbx-swe-sentence-punkt-storsuc
+  - sbx-swe-sense-sparv
+  - sbx-swe-sentence-sparv-storsuc
   - sbx-swe-sentiment-sparv-sensaldo
   - sbx-swe-tokenization-sparv-betterword
 language_codes:

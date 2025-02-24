@@ -21,10 +21,6 @@ example: |
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
-tools:
-  - name: Sparv
-    url: https://spraakbanken.gu.se/sparv
-    license: MIT License
 license: MIT License
 contact_info:
   name: Markus Forsberg

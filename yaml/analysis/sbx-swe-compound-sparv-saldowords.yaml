@@ -55,10 +55,6 @@ example: |-
   <token compwf="|forsknings+enhet|">forskningsenhet</token>
   <token compwf="|">.</token>
   ```
-tools:
-  - name: Sparv
-    url: https://spraakbanken.gu.se/sparv
-    license: MIT License
 license: MIT License
 contact_info:
   name: Markus Forsberg
