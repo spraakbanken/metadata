@@ -3,12 +3,10 @@ language_codes:
   - swe
 other_references:
   - 'Hunpos: https://code.google.com/archive/p/hunpos/'
-tool:
-  name: Hunpos
-  url: https://code.google.com/archive/p/hunpos/
-licences:
-  tool: BSD-3-Clause
-  code: MIT License
+tools:
+  - name: Hunpos
+    url: https://code.google.com/archive/p/hunpos/
+    license: BSD-3-Clause
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
 tagset: '[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)'
 name:
@@ -18,11 +16,14 @@ short_description:
   swe: Annotering av morfosyntaktiska deskriptorer (SUC) med Hunpos för 1800-talssvenska
   eng: Annotation of morphological features (SUC) by Hunpos for Swedish from the 1800's
 task: morphosyntactic tagging
-model: |-
-  - [suc3_suc-tags_default-setting_utf8.model](https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true)
-  - a word list along with the words' morphosyntactic information generated from the [Dalin
-  morphology](https://spraakbanken.gu.se/resurser/dalinm) and the [Swedberg
-  morphology](https://spraakbanken.gu.se/resurser/swedbergm)
+models:
+  - name: suc3_suc-tags_default-setting_utf8.model
+    url: https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true
+  - name: dalinm-swedberg_saldo_suc-tags.morphtable
+    description: |-
+      A word list along with the words' morphosyntactic information generated from the [Dalin
+      morphology](https://spraakbanken.gu.se/resurser/dalinm) and the [Swedberg
+      morphology](https://spraakbanken.gu.se/resurser/swedbergm)
 description:
   swe: |-
     Meningssegment analyseras och annoteras med ordklasstaggar och morfosyntaktisk information. Utöver
@@ -30,7 +31,7 @@ description:
     1800-talssvenska.
   eng: |-
     Sentence segments are analysed to enrich tokens with part-of-speech tags and morphosyntactic information. In
-    addition to the pos model inflection lists are provided to Hunpos to make more accuare part-of-speech predictions
+    addition to the pos model inflection lists are provided to Hunpos to make more accurate part-of-speech predictions
     for Swedish from the 1800's.
 created: 2012-10-23
 updated: 2015-09-11
@@ -70,9 +71,10 @@ example: |-
   <token msd="PN.UTR+NEU.SIN+PLU.DEF.OBJ">sig</token>
   <token msd="MAD">.</token>
   ```
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

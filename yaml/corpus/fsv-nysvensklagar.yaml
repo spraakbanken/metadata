@@ -17,18 +17,16 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvensklagar.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvensklagar
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvensklagar
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: <a target="_blank" href="http://project2.sol.lu.se/fornsvenska/">Fornsvenska

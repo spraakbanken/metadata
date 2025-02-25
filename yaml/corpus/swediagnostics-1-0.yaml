@@ -18,17 +18,15 @@ in_collections:
   - superlim-1-0
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
-    type: swediagnostics-v1.0.csv
     format: csv
-    info: ''
-    licence: CC BY 1.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 1.0
+interfaces: []
 contact_info:
   name: Morger Felix
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

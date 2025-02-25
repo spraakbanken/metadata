@@ -14,19 +14,17 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sweparaphrase/2.0/sweparaphrase.zip
-    type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
+    description: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    license: CC BY 4.0
+interfaces: []
 creators:
   - Dannélls, Dana
 contact_info:
   name: Dana Dannélls
   email: dana.dannells@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: ''

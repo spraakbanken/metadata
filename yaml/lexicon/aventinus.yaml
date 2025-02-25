@@ -17,15 +17,14 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/aventinus/aventinus.zip
     type: lexicon
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: <p>Mer information hittas på <a href="http://spraakdata.gu.se/av/info.html"
@@ -35,8 +34,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

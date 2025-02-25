@@ -19,15 +19,14 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svenska-tidningar-1818-1870.tar.gz
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Dana Dannélls
   email: dana.dannells@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -57,7 +56,7 @@ keywords:
   - fraktur
   - historical newspapers
   - OCR
-  - 'reference text '
+  - reference text
 caveats:
   swe: ''
   eng: ''

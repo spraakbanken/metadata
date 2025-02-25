@@ -18,15 +18,14 @@ size:
   sentences: 89779
 in_collections: []
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=espc-sv
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=espc-sv
+    license: CC BY 4.0
 contact_info:
   name: Anna-Lena Fredriksson
   email: espc@sprak.gu.se
   affiliation:
-    organisation: Institutionen för språk och litteraturer
+    organization: Institutionen för språk och litteraturer
     email: espc@sprak.gu.se
 description:
   swe: |-

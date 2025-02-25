@@ -19,36 +19,31 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-sv.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/saltnld-nl.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Dutch part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the Dutch part of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-SV.txt
     type: token frequencies
     format: CSV
-    info: this file contains corpus statistics for the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains corpus statistics for the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SALTNLD-NL.txt
     type: token frequencies
     format: CSV
-    info: this file contains corpus statistics for the Dutch part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=saltnld-sv
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains corpus statistics for the Dutch part of the corpus
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=saltnld-sv
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -200,7 +195,7 @@ annotation:
   eng: ''
 keywords:
   - fiction
-  - nonfiction
+  - non-fiction
   - bilingual
   - parallel
   - 1900s

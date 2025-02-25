@@ -23,24 +23,21 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/swefn/swefn.xml
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-full.zip
     type: lexicon
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/karp/?mode=swefn
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/karp/?mode=swefn
+    license: CC BY 4.0
 contact_info:
   name: Dana Dannélls
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: ''
@@ -342,8 +339,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

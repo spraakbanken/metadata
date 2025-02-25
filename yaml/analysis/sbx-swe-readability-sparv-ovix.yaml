@@ -81,14 +81,10 @@ example: |-
     <token>.</token>
   </text>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licences:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

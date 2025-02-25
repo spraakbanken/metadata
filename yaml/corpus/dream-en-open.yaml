@@ -11,12 +11,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-EN-OPEN.txt
   type: token frequencies
   format: CSV
-  info: ''
-  licence: CC BY 4.0
-  restriction: attribution
-interface:
-- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-en-open
-  licence: CC BY 4.0
-  restriction: attribution
+  license: CC BY 4.0
+interfaces:
+- url: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-en-open
+  license: CC BY 4.0
 updated: 2019-12-12
 doi: 10.23695/c735-3y85

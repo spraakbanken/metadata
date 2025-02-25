@@ -18,24 +18,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/suc2.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY-SA 4.0
-    restriction: shareAlike
+    description: this file contains a scrambled version of the corpus
+    license: CC BY-SA 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SUC2.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY-SA 4.0
-    restriction: shareAlike
-interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=suc2
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY-SA 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/#?corpus=suc2
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-

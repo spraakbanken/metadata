@@ -21,13 +21,11 @@ downloads:
   - url: 'https://spraakbanken.gu.se/lb/resurser/data/multiged-2023.tar.bz2'
     type: corpus
     format: tsv
-    info: ''
-    licence: ''
-interface:
-  - access: https://github.com/spraakbanken/multiged-2023/
-    info: "The corpus on Github"
-    licence: varies
-    restriction: varies
+    license: varies
+interfaces:
+  - url: https://github.com/spraakbanken/multiged-2023/
+    description: "The corpus on Github"
+    license: varies
 creators:
   - Elena Volodina
   - Chris Bryant
@@ -41,7 +39,7 @@ contact_info:
   name: Elena Volodina
   email: compsla@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text, Sweden 
+    organization: Språkbanken Text, Sweden
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

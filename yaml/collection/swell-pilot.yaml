@@ -19,10 +19,9 @@ resources:
 language_codes:
   - swe
 downloads: []
-interface:
- - access: Application form (https://sunet.artologik.net/gu/swell)
-   licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
-   restriction: ''
+interfaces:
+ - url: Application form (https://sunet.artologik.net/gu/swell)
+   license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 creators: 
   - Elena Volodina
   - Ildikó Pilán
@@ -35,7 +34,7 @@ contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
@@ -43,8 +42,7 @@ annotation:
     the CEFR scale by human teachers. In addition, the essays are also linguistically
     annotated (POS tagging, lemmatization, dependency annotation) using Sparv.
 keywords:
-  - L2 Swedish
-  - second language
+  - L2
   - language learning
   - essays
 caveats:
@@ -86,4 +84,5 @@ description:
         <li><a href="https://spraakbanken.gu.se/en/projects/swell/">About the SweLL project</a></li>
         <li><a href="https://sunet.artologik.net/gu/swell">Application for access</a></li>
     </ul>
+updated: 2016-01-01
 doi: 10.23695/d3bg-8g24

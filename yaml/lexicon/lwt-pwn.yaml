@@ -19,23 +19,21 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/lwt-pwn/lwt-pwn.txt
     type: lexicon
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 creators:
   - Borin, Lars
 contact_info:
   name: Lars Borin
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

@@ -30,18 +30,16 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/LEXIN.zip
     type: lexicon
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/karp-v6/#?mode=DEFAULT&resources=lexin
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/karp-v6/#?mode=DEFAULT&resources=lexin
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -103,8 +101,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

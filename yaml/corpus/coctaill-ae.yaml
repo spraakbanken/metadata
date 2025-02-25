@@ -16,31 +16,27 @@ language_codes:
 size:
   tokens: 343793
 in_collections: 
-- learner_language
+- learner-language
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-AE.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=coctaill-ae
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/#?corpus=coctaill-ae
+    license: CC BY 4.0
 other_references:
   - '{publication 206132}'
 creators: 
 - Elena Volodina
 - Ildikó Pilán
-
 standard_reference: 'Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. (https://ep.liu.se/ecp/107/010/ecp14107010.pdf)'
-
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
@@ -53,5 +49,4 @@ intended_uses:
   swe: ''
   eng: ''
 updated: 2021-06-28
-
 doi: 10.23695/0a0d-ta39

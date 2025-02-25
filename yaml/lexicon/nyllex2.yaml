@@ -17,15 +17,14 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/nyllex/nyllex_v2.csv
     type: lexicon
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

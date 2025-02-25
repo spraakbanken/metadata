@@ -3,12 +3,10 @@ language_codes:
   - swe
 keywords:
   - stanza
-tool:
-  name: Stanza
-  url: https://stanfordnlp.github.io/stanza/
-licences:
-  tool: Apache License 2.0
-  code: MIT License
+tools:
+  - name: Stanza
+    url: https://stanfordnlp.github.io/stanza/
+    license: Apache License 2.0
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
@@ -33,10 +31,13 @@ short_description:
   swe: Annotering av grundformer (lemman) med Stanza för svenska tränat på SUC3
   eng: Swedish citation form analysis (base forms, lemmas) by Stanza, trained on SUC3
 task: lemmatization
-model: '[Stanzalem](https://spraakbanken.gu.se/resurser/stanzalem)'
+models:
+  - name: Stanzalem
+    url: https://spraakbanken.gu.se/resurser/stanzalem
+    license: CC BY 4.0
 description:
   eng: |-
-    In 2020, the Stanza tool was trained and tested the SUC3 corpus in order to create a high-quality analysis.
+    In 2020, the Stanza tool was trained and tested on the SUC3 corpus in order to create a high-quality analysis.
     Currently (in 2024), this analysis is available in Sparv, but it is not provided by default, since it is not fully
     compatible with SALDO-style lemmas. This model's advantage is that it can be used to lemmatize any token, including
     out-of-vocabulary tokens.
@@ -62,9 +63,10 @@ example: |-
   <token baseform="korpus">korpus</token>
   <token baseform=".">.</token>
   ```
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

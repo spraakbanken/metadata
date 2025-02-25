@@ -17,7 +17,9 @@ other_references:
     automatic thesaurus translation, in Proceedings of LREC 2014, May 26-31, 2014
     Reykjavik, Iceland](https://gup.ub.gu.se/publication/198549)'
 tagset: '[Blingbring](https://spraakbanken.gu.se/resurser/blingbring)'
-model: '[Blingbring frequency model](https://github.com/spraakbanken/sparv-models/blob/master/lexical_classes/blingbring.freq.gp2008%2Bsuc3%2Bromi.pickle)'
+models:
+  - name: Blingbring frequency model
+    url: https://github.com/spraakbanken/sparv-models/blob/master/lexical_classes/blingbring.freq.gp2008%2Bsuc3%2Bromi.pickle
 name:
   swe: Lexikala klasser från Blingbring, textnivå
   eng: Lexical classes from Blingbring, text-level
@@ -100,14 +102,10 @@ example: |-
     <token>.</token>
   </text>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licences:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

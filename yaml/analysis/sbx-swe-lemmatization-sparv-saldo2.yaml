@@ -3,7 +3,9 @@ language_codes:
   - swe
 standard_reference: '[Borin/Forsberg/Lönngren 2013: SALDO: a touch of yin to WordNet''s
   yang](http://dx.doi.org/10.1007/s10579-013-9233-4)'
-model: '[SALDO''s morphology](https://spraakbanken.gu.se/resurser/saldom)'
+models:
+  - name: SALDO's morphology
+    url: https://spraakbanken.gu.se/resurser/saldom
 name:
   swe: Annotering av SALDO-grundformer (utökade)
   eng: Annotation of SALDO citation forms (base forms, lemmas) (extended)
@@ -45,14 +47,10 @@ example: |-
   <token baseform="|korpus|">korpus</token>
   <token baseform="|">.</token>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licences:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

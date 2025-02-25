@@ -14,18 +14,17 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swewic/2.0/swewic.zip
-    type: an archive with the dataset in JSONL format and the documentation sheet
+    description: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    license: CC BY 4.0
+interfaces: []
 creators:
   - Bouma, Gerlof
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

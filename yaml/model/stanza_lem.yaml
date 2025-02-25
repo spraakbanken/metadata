@@ -13,17 +13,16 @@ language_codes:
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip
-    type: lem_stanza.zip
+
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

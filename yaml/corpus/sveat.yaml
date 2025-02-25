@@ -18,21 +18,19 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/trec/swe_qaqc_train.csv
     type: corpus
     format: CSV 
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/trec/Swedish_EAT_v1.0.tsv
     type: corpus
     format: TSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

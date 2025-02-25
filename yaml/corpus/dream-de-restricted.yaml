@@ -11,12 +11,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-DE-RESTRICTED.txt
   type: token frequencies
   format: CSV
-  info: ''
-  licence: CC BY 4.0
-  restriction: attribution
-interface:
-- access: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-de-restricted
-  licence: CC BY 4.0
-  restriction: attribution
+  license: CC BY 4.0
+interfaces:
+- url: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-de-restricted
+  license: CC BY 4.0
 updated: 2020-04-08
 doi: 10.23695/s4aw-4y71

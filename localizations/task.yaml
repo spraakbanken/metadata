@@ -1,0 +1,19 @@
+compound analysis: sammamsättningsanalys
+dependency parsing: dependensparsning
+export: export
+geotagging: geotaggning
+lemmatization: lemmatisering
+lexical classes: lexikala klasser
+lexical lookup: lexikala uppslag
+morphosyntactic tagging: morfosyntaktisk taggning
+named entity recognition: namnigenkänning
+ocr-correction: OCR-korrigering
+paragraph segmentation: styckessegmentering
+part-of-speech tagging: ordklasstaggning
+phrase structure parsing: frasstrukturparsning
+readability measures: läsbarhetsvärden
+sense disambiguation: betydelsedisambiguering
+sentence segmentation: meningssegmentering
+sentiment analysis: sentimentanalys
+tokenization: tokensiering
+word-prediction: ordförutsägelse

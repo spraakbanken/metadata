@@ -20,36 +20,33 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_xlsx.tar.bz2
     type: lexicon
     format: xlsx
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
-    licence: CC BY 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_tsv.tar.bz2
     type: lexicon
     format: tsv
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: 'https://cental.uclouvain.be/cefrlex/swellex/search/'
-    info: 'Search in SweLLex'
-    licence: CC BY 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    license: CC BY 4.0
+interfaces:
+  - url: 'https://cental.uclouvain.be/cefrlex/swellex/search/'
+    description: 'Search in SweLLex'
+    license: CC BY 4.0
 creators:
-  - Elena Volodina
-  - Ildikó Pilán
+  - Elena, Volodina
+  - Ildikó, Pilán
 created: '2016-06-09'
 updated: '2016-06-09'
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'
   eng: 'CEFR levels, lemmatization, POS-tagging, frequency'
 keywords:
-  - second language wordlist
+  - word lists
   - L2
   - productive vocabulary
 caveats:
@@ -70,8 +67,4 @@ description:
     <p>The frequencies have been estimated on a <b>corpus of essays written by SVA learners, SweLL-pilot corpus</b>, described in the article:</p>
     <ul><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li></ul>
     <p>More details on SweLLex resource are provided on this <a href="https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-lex">webpage</a> and in article by Volodina et al (2016).</p>
-
-  
-  
-  
 doi: 10.23695/6h3v-zw25

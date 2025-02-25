@@ -17,14 +17,13 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
   - url: 'https://repo.spraakbanken.gu.se/xmlui/bitstream/handle/10794/121/Swe-NERC-v1.0.tar.gz'  # URL to a downloadable file
     type: corpus  # What's in the file?
     format: gzip  # The file format or standard
-    info: 'this file contains a collection of .tsv and .ods files including annotation guidelines'  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
-    licence: CC BY 4.0
-    restriction: attribution
+    description: 'this file contains a collection of .tsv and .ods files including annotation guidelines'  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    license: CC BY 4.0
 contact_info:  # Contact info of the person who can answer questions about the resource
   name: Leif-Jöran Olsson
   email: nerc2019@sweclarin.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation: # Anything worth to note about the annotations in this corpus. Especially important for corpora with gold annotations.
   swe: ''

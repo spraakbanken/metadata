@@ -18,54 +18,40 @@ in_collections:
   - superlim-1-0
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv
-    type: absabank-imm_documentation_sheet.tsv
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv
-    type: D_annotation.tsv
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv
-    type: P_annotation.tsv
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip
-    type: datasplit.zip
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/documents.zip
-    type: documents.zip
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf
-    type: annoteringsinstruktioner.pdf
     format: pdf
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb
-    type: imm_absabank.rb
     format: rb
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Aleksandrs Berdicevskis
   email: aleksandrs.berdicevskis@gu.se
   affiliation:
     email: sb-info@svenska.gu.se
-    organisation: Språkbanken
+    organization: Språkbanken
 description:
   swe: ''
   eng: |-

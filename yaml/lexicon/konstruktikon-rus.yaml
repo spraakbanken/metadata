@@ -18,22 +18,20 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 other_references:
   - https://benjamins.com/catalog/cal.22.06jan
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

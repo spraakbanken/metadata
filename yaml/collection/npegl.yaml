@@ -11,15 +11,14 @@ successors: []  # If this resource has been replaced by one or more newer versio
 collection: true  # Needs to be true
 resources: []  # May contain the resource IDs of the resources belonging to this collection. Alternatively the individual resources may refer to the collection.
 language_codes: [ang,goh,non,osx]  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=npegl
-    licence: other
-    restriction: other
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=npegl
+    license: other
 contact_info:  # Contact info of the person who can answer questions about the collection
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation: # Anything worth to note about the annotations in this lexicon.
   swe: 'Alla nominalfraser har uppmärkts med information om den interna strukturen och rollen av nominalfrasen i sitt sammanhang. Annotationen är manuellt korrigerad.'

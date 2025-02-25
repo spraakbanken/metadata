@@ -19,37 +19,34 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_xlsx.tar.bz2
     type: lexicon
     format: xlsx
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
-    licence: CC BY-NC-SA 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
+    license: CC BY-NC-SA 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_tsv.tar.bz2
     type: lexicon
     format: tsv
-    info: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents (=texts) per level (format: nb_doc@a1), frequences in unique coursebooks by level and in total (format: B2_Nya_Mål_3@b2, C1_Språkporten_123@total)'
-    licence: CC BY-NC-SA 4.0
-    restriction: attribution
-interface:
-  - access: 'https://cental.uclouvain.be/cefrlex/svalex/search/'
-    info: 'Search in SVALex'
-    licence: CC BY-NC-SA 4.0
-    restriction: attribution
+    description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents (=texts) per level (format: nb_doc@a1), frequences in unique coursebooks by level and in total (format: B2_Nya_Mål_3@b2, C1_Språkporten_123@total)'
+    license: CC BY-NC-SA 4.0
+interfaces:
+  - url: 'https://cental.uclouvain.be/cefrlex/svalex/search/'
+    description: 'Search in SVALex'
+    license: CC BY-NC-SA 4.0
 creators:
-  - Volodina Elena
-  - Pilán Ildikó
-  - François Thomas
+  - Volodina, Elena
+  - Pilán, Ildikó
+  - François, Thomas
 created: '2016-06-09'
 updated: '2016-06-09'
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: 'GERS nivåer, lemmatisering, ordklasser, frekvenser'
   eng: 'CEFR levels, lemmatization, POS-tagging, frequency'
 keywords:
-  - second language wordlist
+  - word lists
   - L2
   - receptive vocabulary
 caveats:

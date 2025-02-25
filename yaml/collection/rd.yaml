@@ -13,15 +13,14 @@ resources: []
 language_codes:
   - swe
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=governmental.rd
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/#?corpus=governmental.rd
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: Datan är insamlat 2022 från <a href="https://data.riksdagen.se/data/dokument/">data.riksdagen.se/data/dokument/</a>

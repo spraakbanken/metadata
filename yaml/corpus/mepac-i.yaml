@@ -11,12 +11,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_MEPAC-I.txt
   type: token frequencies
   format: CSV
-  info: ''
-  licence: CC BY 4.0
-  restriction: attribution
-interface:
-- access: https://spraakbanken.gu.se/korp/?mode=default#?corpus=mepac-i
-  licence: CC BY 4.0
-  restriction: attribution
+  license: CC BY 4.0
+interfaces:
+- url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=mepac-i
+  license: CC BY 4.0
 updated: 2017-03-14
 doi: 10.23695/vyye-9342

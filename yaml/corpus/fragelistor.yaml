@@ -18,18 +18,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_fragelistor.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=fragelistor
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/#?corpus=fragelistor
+    license: CC BY 4.0
 contact_info:
   name: Jonas Engman
   email: jonas.engman@nordiskamuseet.se
   affiliation:
-    organisation: Nordiska museet
+    organization: Nordiska museet
     email: info@nordiskamuseet.se
 description:
   swe: |-

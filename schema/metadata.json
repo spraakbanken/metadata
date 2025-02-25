@@ -51,12 +51,13 @@
     "type": {
       "description": "Type of resource",
       "type": "string",
-      "enum": ["corpus", "lexicon", "model"]
-    },
-    "trainingdata": {
-      "description": "If set to \"true\", the resource will be listed as \"Training and evaluation data\"",
-      "type": "boolean",
-      "default": false
+      "enum": [
+        "corpus",
+        "lexicon",
+        "model",
+        "analysis",
+        "utility"
+      ]
     },
     "unlisted": {
       "description": "If set to \"true\", the resource won't be listed, but it will be accessible via its URL",
@@ -71,14 +72,14 @@
       }
     },
     "language_codes": {
-      "description": "What language(s) is this resource about? Use ISO 639-3 code(s), e.g. \"swe\" for Swedish (https://iso639-3.sil.org/code_tables/639/data)",
+      "description": "Languages relevant to this resource. Use ISO 639-3 codes (e.g., \"swe\" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)",
       "type": "array",
       "items": {
         "type": "string"
       }
     },
     "languages": {
-      "description": "What language(s) is this resource about? Use this instead of 'language_codes' for languages that are missing in ISO 639-3.",
+      "description": "Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.",
       "type": "array",
       "items": {
         "type": "object",
@@ -113,7 +114,7 @@
       }
     },
     "downloads": {
-      "description": "",
+      "description": "Downloadable files related to the resource",
       "type": "array",
       "items": {
         "type": "object",
@@ -124,58 +125,59 @@
             "type": "string"
           },
           "type": {
-            "description": "What's in the file?",
-            "type": "string"
+            "description": "Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.",
+            "type": "string",
+            "enum": [
+              "corpus",
+              "lexicon",
+              "model",
+              "token frequencies"
+            ]
           },
           "format": {
             "description": "The file format or standard (e.g. XML)",
             "type": "string"
           },
-          "info": {
-            "description": "Additional info, if required (e.g. \"this file contains a scrambled version of the Swedish part of the corpus\")",
+          "description": {
+            "description": "Additional description, if required (e.g. \"this file contains a scrambled version of the Swedish part of the corpus\")",
             "type": "string"
           },
-          "licence": {
+          "license": {
             "description": "",
             "type": "string",
             "default": "CC BY 4.0"
-          },
-          "restriction": {
-            "description": "",
-            "type": "string",
-            "default": "attribution"
           }
         },
-        "required": ["url", "type", "format", "licence"]
+        "required": [
+          "url",
+          "license"
+        ]
       }
     },
-    "interface": {
+    "interfaces": {
       "description": "Links to interfaces where the resource is available (e.g. Korp or Karp)",
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
         "properties": {
-          "access": {
+          "url": {
             "description": "A link to the resource in an interface (e.g in Korp or Karp)",
             "type": "string"
           },
-          "info": {
-            "description": "Additional info, if required",
+          "description": {
+            "description": "Additional description, if required",
             "type": "string"
           },
-          "licence": {
-            "description": "",
+          "license": {
+            "description": "License for the data in the interface",
             "type": "string",
             "default": "CC BY 4.0"
-          },
-          "restriction": {
-            "description": "",
-            "type": "string",
-            "default": "attribution"
           }
         },
-        "required": ["access", "licence", "restriction"]
+        "required": [
+          "url"
+        ]
       }
     },
     "creators": {
@@ -203,7 +205,7 @@
           "description": "",
           "type": "object",
           "properties": {
-            "organisation": {
+            "organization": {
               "description": "",
               "type": "string"
             },
@@ -212,10 +214,17 @@
               "type": "string"
             }
           },
-          "required": ["organisation", "email"]
+          "required": [
+            "organization",
+            "email"
+          ]
         }
       },
-      "required": ["name", "email", "affiliation"]
+      "required": [
+        "name",
+        "email",
+        "affiliation"
+      ]
     },
     "keywords": {
       "description": "List of keywords (in English) that may be used for filtering. Keep them short!",
@@ -271,21 +280,24 @@
       "format": "date"
     },
     "updated": {
-      "description": "Date the resource was (last) updated (format: YYYY-MM-DD)",
+      "description": "Date the resource was last updated (format: YYYY-MM-DD)",
       "type": "string",
       "format": "date"
     },
     "collection": {
-      "description": "",
+      "description": "Set to \"true\" if this is a collection of resources",
       "type": "boolean",
       "default": false
     },
     "doi": {
-      "description": "DOI persistent identifier",
+      "description": "DOI persistent identifier. If left empty, the DOI will be generated automatically.",
       "type": "string"
     }
   },
-  "required": ["name", "type"],
+  "required": [
+    "name",
+    "type"
+  ],
   "allOf": [
     {
       "if": {
@@ -294,7 +306,9 @@
             "const": true
           }
         },
-        "required": ["collection"]
+        "required": [
+          "collection"
+        ]
       },
       "then": {
         "properties": {
@@ -369,14 +383,17 @@
       "if": {
         "properties": {
           "type": {
-            "enum": ["corpus", "lexicon"]
+            "enum": [
+              "corpus",
+              "lexicon"
+            ]
           }
         }
       },
       "then": {
         "properties": {
           "annotation": {
-            "description": "Anything worth to note about the annotations in this corpus. Especially important for corpora with gold annotations.",
+            "description": "Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.",
             "type": "object",
             "additionalProperties": false,
             "properties": {
@@ -389,6 +406,125 @@
                 "type": "string"
               }
             }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": [
+              "corpus",
+              "lexicon",
+              "model",
+              "collection"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "trainingdata": {
+            "description": "If set to \"true\", the resource will be listed as \"Training and evaluation data\"",
+            "type": "boolean",
+            "default": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": [
+              "analysis",
+              "utility"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "analysis_unit": {
+            "description": "The text unit on which the analysis is applied",
+            "type": "string"
+          },
+          "tools": {
+            "description": "Information about the external tools that produce the analysis (if applicable)",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "name": {
+                  "description": "Name of the tool",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL to the tool",
+                  "type": "string"
+                },
+                "description": {
+                  "description": "Description of the tool",
+                  "type": "string"
+                },
+                "license": {
+                  "description": "License for the tool",
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "task": {
+            "description": "Analysis/utility task",
+            "type": "string"
+          },
+          "models": {
+            "description": "Information about the models used for the analysis",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "name": {
+                  "description": "Name of the model",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL to the model",
+                  "type": "string"
+                },
+                "description": {
+                  "description": "Description of the model",
+                  "type": "string"
+                },
+                "license": {
+                  "description": "License for the model",
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "example": {
+            "description": "Example of how to use the analysis and what the output looks like",
+            "type": "string"
+          },
+          "trained_on": {
+            "description": "The training data used",
+            "type": "string"
+          },
+          "tagset": {
+            "description": "The tagset used by the analysis",
+            "type": "string"
+          },
+          "evaluation_results": {
+            "description": "Evaluation results",
+            "type": "string"
+          },
+          "license": {
+            "description": "License for code (e.g. the Sparv plugin)",
+            "type": "string"
           }
         }
       }

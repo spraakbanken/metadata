@@ -17,21 +17,19 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.xml
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv
     type: lexicon
     format: LMF
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Jacobo Rouces
   email: jacobo.rouces@gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -45,8 +43,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

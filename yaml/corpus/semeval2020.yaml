@@ -17,17 +17,15 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/semeval2020_ulscd_swe.zip
-    type: semeval2020_ulscd_swe.zip
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Nina Tahmasebi
   email: nina.tahmasebi@gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

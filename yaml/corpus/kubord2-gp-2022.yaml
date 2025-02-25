@@ -20,18 +20,16 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-gp-2022.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord2-gp-2022
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/?mode=kubord#?corpus=kubord2-gp-2022
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

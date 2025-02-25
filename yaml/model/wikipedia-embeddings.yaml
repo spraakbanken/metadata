@@ -13,47 +13,35 @@ language_codes:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
-    type: other
     format: ''
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Simon Hengchen
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 keywords: []
 caveats:

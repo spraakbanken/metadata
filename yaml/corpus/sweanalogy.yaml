@@ -14,19 +14,17 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/1.1/sweanalogy.zip
-    type: an archive with the dataset in JSONL and TSV formats and the documentation sheet
+    description: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    license: CC BY 4.0
+interfaces: []
 creators:
   - Adewumi, Tosin
 contact_info:
   name: Aleksandrs Berdicevskis
   email: aleksandrs.berdicevskis@gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

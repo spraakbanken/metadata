@@ -34,15 +34,14 @@ language_codes:
   - nld
   - por
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=europarl
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=europarl
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

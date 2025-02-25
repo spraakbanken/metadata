@@ -19,21 +19,19 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist-postochinrikestidning-1820.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-POSTOCHINRIKESTIDNING-1820.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2015-04-09
 doi: 10.23695/73xk-fx54

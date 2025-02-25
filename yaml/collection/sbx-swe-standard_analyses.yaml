@@ -1,0 +1,46 @@
+name:
+  swe: Standardanalyser för modern svenska
+  eng: Standard analyses for modern Swedish
+short_description:
+  swe: Samling av Sparv-analyser för modern svenska
+  eng: Collection of Sparv analyses for modern Swedish
+type: analysis
+collection: true
+resources:
+  - sbx-swe-compound-sparv-saldolemgram
+  - sbx-swe-compound-sparv-saldowords
+  - sbx-swe-dependency-stanza-stanzasynt
+  - sbx-swe-geotagcontext-sparv
+  - sbx-swe-lemgram-sparv-saldo
+  - sbx-swe-lemmatization-sparv-saldo2
+  - sbx-swe-lexical_classes_text-sparv-blingbring
+  - sbx-swe-lexical_classes_text-sparv-swefn
+  - sbx-swe-lexical_classes_token-sparv-blingbring
+  - sbx-swe-lexical_classes_token-sparv-swefn
+  - sbx-swe-msd-stanza-stanzamorph-suc3
+  - sbx-swe-msd-stanza-stanzamorph-ufeats
+  - sbx-swe-namedentity-swener
+  - sbx-swe-pos-stanza-stanzamorph
+  - sbx-swe-readability-sparv-lix
+  - sbx-swe-readability-sparv-nk
+  - sbx-swe-readability-sparv-ovix
+  - sbx-swe-sense-sparv
+  - sbx-swe-sentence-sparv-storsuc
+  - sbx-swe-sentiment-sparv-sensaldo
+  - sbx-swe-tokenization-sparv-betterword
+language_codes:
+  - swe
+interfaces: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Dessa analyser används som standard för texter skrivna på modern svenska.
+    Analyserna tillämpas vanligtvis på de moderna korpusarna i [Korp](https://spraakbanken.gu.se/korp).
+  eng: |-
+    These analyses are used by default for texts written in modern Swedish.
+    They are usually applied to the modern corpora in [Korp](https://spraakbanken.gu.se/korp).

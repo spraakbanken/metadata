@@ -1,0 +1,58 @@
+name:
+  swe: 'L2 profiles'
+  eng: 'L2 profiler'
+short_description:
+  swe: 'L2 profiler är en samling av språkresurser som beskriver inlärarspråket (svenska som andraspråk, L2 svenska). Dessa resurser genererades inom projektet "Utveckling av lexikala och grammatiska kompetenser i invandrarsvenska" (https://spraakbanken.gu.se/swe/forskning/l2profiling), med finansiering från Riksbankens Jubileumsfond.'
+  eng: 'L2 profiles is a collection of resources that describe learner language (Swedish as a second language, L2 Swedish). These resources were developed in the project "Development of lexical and grammatical competences in immigrant Swedish" (https://spraakbanken.gu.se/eng/l2-profiling) through financing from Riksbankens Jubileumsfond.'
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+resources:
+  - sen-lex
+  - coderoomor
+  - swe-mwelex
+  - l2lex-adj
+  - l2lex-adjadv 
+language_codes:
+  - swe
+contact_info:
+  name: Elena Volodina
+  email: compsla@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: |-
+    <h2> Included resources </h2>
+    <ul>
+    <li><b>Sen*Lex</b> is a sense-based wordlist, combining SVALex and SweLLex in one.</li>
+    <li><b>CoDeRooMor</b> is a morphologically annotated list based on Sen*Lex, featuring annotations for word-building morphemes (roots, prefixes, suffixes etc) and word-building mechanisms (affixation, compounding, etc.).</b> </li>
+    <li><b>Swe-MWELex</b> is a list of multi-word expressions based on Sen*Lex, with CEFR labels and subcategorizations of MWEs into several types </li>
+    <li><b>L2Lex-Adj</b> is a list of adjectives based on Sen*Lex, with CEFR labels, information on adjectival declensions and frequences.</li>
+    <li><b>L2Lex-AdjAdv</b> is a list of adjectives and adverbs based on Sen*Lex, with CEFR labels, information on patterns of comparative degrees and frequences.</li>
+    </ul> 
+annotation:
+  swe: ''
+  eng: ''
+keywords: 
+  - second language (L2)
+  - learner language
+  - language learning
+  - essays
+  - course books
+  - word lists
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: '{publication 345602}'
+other_references: 
+  - 'Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook.'
+  - '{publication 311724}'
+  - '{publication 343530}'
+intended_uses:
+  swe: ''
+  eng: 'Research, development and pedagogical applications within (second) language acquisition and intelligent computer-assisted language learning'
+updated: '2023-04-20'

@@ -18,23 +18,21 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo-v02.zip
     type: lexicon
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/sensaldo/sensaldo.zip
     type: lexicon
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/pdf/857.pdf
 contact_info:
   name: Lars Borin
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -121,8 +119,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

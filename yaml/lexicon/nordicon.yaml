@@ -15,15 +15,14 @@ size:
   entries: 0
 in_collections: []
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/karp/?mode=nordicon
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: https://spraakbanken.gu.se/karp/?mode=nordicon
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

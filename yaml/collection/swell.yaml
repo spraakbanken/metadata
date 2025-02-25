@@ -25,7 +25,7 @@ contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se or compsla@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''
@@ -43,8 +43,7 @@ annotation:
   swe: ''
   eng: ''
 keywords: 
-  - L2 Swedish
-  - second language
+  - L2
   - language learning
   - essays
   - Swedish learner language

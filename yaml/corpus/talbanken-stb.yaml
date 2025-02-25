@@ -16,41 +16,36 @@ size:
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB.zip
-    type: TalbankenSTB.zip
+
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt
-    type: TalbankenSTB_README.txt
+
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip
-    type: TalbankenSTB_documentation.zip
+
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip
-    type: TalbankenSTB_datasplit.zip
+
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip
-    type: TalbankenSTB_original_parts.zip
+
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

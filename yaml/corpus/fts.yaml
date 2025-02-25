@@ -19,20 +19,18 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fts.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts
+    license: CC BY 4.0
 creators:
   - Hansen, Kirsti
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

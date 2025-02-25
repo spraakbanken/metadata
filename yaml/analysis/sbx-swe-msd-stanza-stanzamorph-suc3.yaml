@@ -3,12 +3,10 @@ language_codes:
   - swe
 keywords:
   - stanza
-tool:
-  name: Stanza
-  url: https://stanfordnlp.github.io/stanza/
-licences:
-  tool: Apache License 2.0
-  code: MIT License
+tools:
+  - name: Stanza
+    url: https://stanfordnlp.github.io/stanza/
+    license: Apache License 2.0
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken),
   [SIC2](https://spraakbanken.gu.se/resurser/sic2)'
 other_references:
@@ -40,7 +38,10 @@ short_description:
   eng: Annotation of morphological features (SUC) by Stanza for Swedish
 task: morphosyntactic tagging
 standard_reference: https://aclanthology.org/2021.nodalida-main.20/
-model: '[Stanzamorph](https://spraakbanken.gu.se/resurser/stanzamorph)'
+models:
+  - name: Stanzamorph
+    url: https://spraakbanken.gu.se/resurser/stanzamorph
+    license: CC BY 4.0
 description:
   eng: |-
     This annotation contains morphosyntactic features in addition to part-of-speech tags.
@@ -71,9 +72,10 @@ example: |-
   <token msd="NN.UTR.SIN.IND.NOM">korpus</token>
   <token msd="MAD">.</token>
   ```
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

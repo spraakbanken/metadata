@@ -20,24 +20,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-diverse.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_RUNEBERG-DIVERSE.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=runeberg-diverse
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=runeberg-diverse
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -93,7 +90,7 @@ keywords:
   - 1900s
   - 1910s
   - 1930s
-  - journal
+  - journals
 caveats:
   swe: ''
   eng: ''

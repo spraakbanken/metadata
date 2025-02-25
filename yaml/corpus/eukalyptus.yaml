@@ -17,35 +17,27 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-1.0.0.zip
-    type: other
     format: 'zip'
-    info: ''
-    licence: CC BY-SA 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY-SA 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.0.zip
-    type: other
     format: 'zip'
-    info: 'beta'
-    licence: Mixed
-    restriction: see license.txt
+    description: 'beta'
+    license: Mixed
   - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.1.zip
-    type: other
     format: 'zip'
-    info: 'beta'
-    licence: Mixed
-    restriction: see license.txt
+    description: 'beta'
+    license: Mixed
   - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.2.0.zip
-    type: other
     format: 'zip'
-    info: 'beta'
-    licence: Mixed
-    restriction: see license.txt
-interface: []
+    description: 'beta'
+    license: Mixed
+interfaces: []
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   eng: |-

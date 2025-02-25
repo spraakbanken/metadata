@@ -1,0 +1,45 @@
+name:
+  swe: Minks standardanalyser
+  eng: Standard analyses in Mink
+short_description:
+  swe: Samling av analyser som används i Mink
+  eng: Collection of analyses used in Mink
+type: analysis
+collection: true
+resources:
+  - sbx-swe-compound-sparv-saldolemgram
+  - sbx-swe-compound-sparv-saldowords
+  - sbx-swe-dependency-stanza-stanzasynt
+  - sbx-swe-lemgram-sparv-saldo
+  - sbx-swe-lemmatization-sparv-saldo2
+  - sbx-swe-lexical_classes_text-sparv-blingbring
+  - sbx-swe-lexical_classes_text-sparv-swefn
+  - sbx-swe-lexical_classes_token-sparv-blingbring
+  - sbx-swe-lexical_classes_token-sparv-swefn
+  - sbx-swe-msd-stanza-stanzamorph-suc3
+  - sbx-swe-msd-stanza-stanzamorph-ufeats
+  - sbx-swe-namedentity-swener
+  - sbx-swe-pos-stanza-stanzamorph
+  - sbx-swe-readability-sparv-lix
+  - sbx-swe-readability-sparv-nk
+  - sbx-swe-readability-sparv-ovix
+  - sbx-swe-sense-sparv
+  - sbx-swe-sentence-sparv-storsuc
+  - sbx-swe-sentiment-sparv-sensaldo
+  - sbx-swe-tokenization-sparv-betterword
+language_codes:
+  - swe
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: |-
+    Dessa analyser är tillgängliga via [Mink-gränssnittet](https://spraakbanken.gu.se/mink).
+  eng: |-
+    These analyses are available in the [Mink interface](https://spraakbanken.gu.se/mink).

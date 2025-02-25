@@ -9,15 +9,14 @@ collection: true
 resources: []
 language_codes:
   - swe
-interface:
-  - access: 'https://spraakbanken.gu.se/korp/?mode=all_hist#?cqp=%5B%5D&corpus=standsriksdagen-riksdagsakter,standsriksdagen-adelsstandet,standsriksdagen-riksdagsbeslut,standsriksdagen-bihang,standsriksdagen-bondestandet,standsriksdagen-borgarstandet,standsriksdagen-prastestandet'
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: 'https://spraakbanken.gu.se/korp/?mode=all_hist#?cqp=%5B%5D&corpus=standsriksdagen-riksdagsakter,standsriksdagen-adelsstandet,standsriksdagen-riksdagsbeslut,standsriksdagen-bihang,standsriksdagen-bondestandet,standsriksdagen-borgarstandet,standsriksdagen-prastestandet'
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 
 doi: 10.23695/sey6-zx06

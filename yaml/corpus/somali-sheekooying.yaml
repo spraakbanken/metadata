@@ -15,18 +15,16 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-sheekooying.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-sheekooying
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-sheekooying
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2021-08-27
 doi: 10.23695/z1p1-yz65

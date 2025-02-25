@@ -16,17 +16,15 @@ size:
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/mathir_trees_v0.1.tgz
-    type: other
     format: tgz
-    info: ''
-    licence: CC BY-NC 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY-NC 4.0
+interfaces: []
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-

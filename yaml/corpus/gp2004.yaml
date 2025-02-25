@@ -18,24 +18,21 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2004.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GP2004.txt
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/#?corpus=gp2004
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/#?corpus=gp2004
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2017-02-07
 doi: 10.23695/x69r-8p02

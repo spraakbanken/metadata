@@ -14,12 +14,12 @@ resources: []
 language_codes:
   - swe
 downloads: []
-interface: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: <p>Korpussamlingen Kubhist är ett resultat av projektet <a href="https://riksarkivet.se/digidaily">Digidaily</a>

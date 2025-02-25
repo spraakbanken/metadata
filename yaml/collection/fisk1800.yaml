@@ -57,15 +57,14 @@ resources:
 language_codes:
   - swe
 downloads: []
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=fisk1800
-    licence: CC BY 4.0
-    restriction: attribution
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=fisk1800
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: Den här samlingen innehåller äldre finlandssvenska texter och ingår i språkbanken

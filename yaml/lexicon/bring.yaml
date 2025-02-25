@@ -17,10 +17,9 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt
     type: lexicon
     format: txt
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 creators:
   - Borin, Lars
   - Allwood, Jens
@@ -28,7 +27,7 @@ contact_info:
   name: Lars Borin
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-

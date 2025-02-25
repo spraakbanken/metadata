@@ -17,23 +17,21 @@ in_collections:
   - superlim-1-0
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv
-    type: sweparaphrase-dev-165.tsv
+
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase_documentation.tsv
-    type: sweparaphrase_documentation.tsv
+
     format: tsv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Dana Dannélls
   email: dana.dannells@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-

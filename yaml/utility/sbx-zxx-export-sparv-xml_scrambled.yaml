@@ -29,15 +29,19 @@ example: |
   sparv run xml_export:scrambled
   ```
 
+  You need to tell Sparv which annotation to use for scrambling (typically `<sentence>` or `<paragraph>`). You can do
+  this with the `xml_export.scramble_on` setting. E.g. if you want to have a sentence-scrambled export you will need to
+  add the following setting to your Sparv corpus configuration file:
+  ```yaml
+  xml_export:
+    scramble_on: <sentence>
+  ```
+
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licences:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

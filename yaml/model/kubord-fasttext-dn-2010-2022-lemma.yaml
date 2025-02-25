@@ -13,16 +13,15 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/kubord-fasttext-dn-2010-2022-lemma.zip
     type: model
     format: zip
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
 created: 2024-06-11
 updated: 2024-06-11
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: |-
@@ -41,5 +40,4 @@ description:
     min_n 4, max_n 7, 20 epoker, dim 300, and lr .05.
 keywords: []
 other_references: []
-updated: 2024-06-11
 doi: 10.23695/zmn6-zb84

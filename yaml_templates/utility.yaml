@@ -1,0 +1,72 @@
+name:
+  swe: ''  # Human readable name in Swedish
+  eng: '' # Human readable name in English
+description:  # Longer description. May contain Markdown or HTML.
+  swe: ''  # Longer description in Swedish. May contain Markdown or HTML.
+  eng: '' # Longer description in English. May contain Markdown or HTML.
+short_description: # Short description in a few words or a sentence (plain text only)
+  swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: '' # Short description in a few words or a sentence in English (plain text only)
+type: utility # Type of resource
+unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
+successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
+language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
+languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.
+  - code: ''  # Optional language code using some other standard than ISO 639-3
+    name:
+      swe: ''  # Language name (in Swedish)
+      eng: '' # Language name (in English)
+in_collections: [] # ID(s) of the collections the resource is part of
+downloads: # Downloadable files related to the resource
+  - url: ''  # URL to a downloadable file
+    type: '' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
+    format: '' # The file format or standard (e.g. XML)
+    description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    license: CC BY 4.0
+interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+  - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
+    description: '' # Additional description, if required
+    license: CC BY 4.0 # License for the data in the interface
+creators: [] # List of people that created the resource (format: lastname, firstname)
+contact_info: # Contact info of the person who can answer questions about the resource
+  name: ''
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: ''
+    email: ''
+keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: # Caveats and disclaimers
+  swe: ''  # Caveats and disclaimers in Swedish
+  eng: '' # Caveats and disclaimers in English
+standard_reference: '' # Standard reference or link to a publication describing the resource. May contain HTML.
+other_references: [] # List of references or links to publications describing the resource
+intended_uses: # The intended uses for this resource
+  swe: ''  # The intended uses for this resource (in Swedish)
+  eng: '' # The intended uses for this resource (in English)
+created: '' # Date the resource was created (format: YYYY-MM-DD)
+updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false # Set to "true" if this is a collection of resources
+doi: '' # DOI persistent identifier. If left empty, the DOI will be generated automatically.
+size: # Size information about the lexicon
+  entries: ''  # Number of entries in the lexicon
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.
+  swe: ''  # Annotation information in Swedish
+  eng: '' # Annotation information in English
+trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
+analysis_unit: '' # The text unit on which the analysis is applied
+tools: # Information about the external tools that produce the analysis (if applicable)
+  - name: ''  # Name of the tool
+    url: '' # URL to the tool
+    description: '' # Description of the tool
+    license: '' # License for the tool
+task: '' # Analysis/utility task
+models: # Information about the models used for the analysis
+  - name: ''  # Name of the model
+    url: '' # URL to the model
+    description: '' # Description of the model
+    license: '' # License for the model
+example: '' # Example of how to use the analysis and what the output looks like
+trained_on: '' # The training data used
+tagset: '' # The tagset used by the analysis
+evaluation_results: '' # Evaluation results
+license: '' # License for code (e.g. the Sparv plugin)

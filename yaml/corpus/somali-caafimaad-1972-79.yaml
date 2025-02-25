@@ -15,18 +15,16 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-caafimaad-1972-79.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-caafimaad-1972-79
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-caafimaad-1972-79
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2021-08-30
 doi: 10.23695/mz65-1727

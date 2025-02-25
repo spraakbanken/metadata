@@ -19,36 +19,31 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvla-sv.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvla-la.xml.bz2
     type: corpus
     format: XML
-    info: this file contains a scrambled version of the Latin part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains a scrambled version of the Latin part of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVLA-SV.txt
     type: token frequencies
     format: CSV
-    info: this file contains statistics on the Swedish part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains statistics on the Swedish part of the corpus
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVLA-LA.txt
     type: token frequencies
     format: CSV
-    info: this file contains statistics on the Latin part of the corpus
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvla-sv
-    licence: CC BY 4.0
-    restriction: attribution
+    description: this file contains statistics on the Latin part of the corpus
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvla-sv
+    license: CC BY 4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 updated: 2016-11-15
 doi: 10.23695/p0q4-q071

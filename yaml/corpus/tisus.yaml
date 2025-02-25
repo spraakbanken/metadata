@@ -17,10 +17,10 @@ in_collections:
   - swell
   - learner-language
 downloads: []
-interface:
-  - access: Application form (https://sunet.artologik.net/gu/swell)
-    platform: https://spraakbanken.gu.se/korp/#?corpus=tisus
-    licence: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+interfaces:
+  - description: Application form (https://sunet.artologik.net/gu/swell)
+    url: https://spraakbanken.gu.se/korp/#?corpus=tisus
+    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 standard_reference: '{publication 248141}'
 creators:
   - Sundberg Gunlög 
@@ -29,7 +29,7 @@ contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

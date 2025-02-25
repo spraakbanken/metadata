@@ -19,24 +19,19 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sbs-folke.xml.bz2
     type: corpus
     format: XML
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    license: CC BY 4.0
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sbs-folke.csv
     type: token frequencies
     format: CSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - licence: CC BY 4.0
-    restriction: attribution
-    access: https://spraakbanken.gu.se/korp/#?corpus=sbs-folke
+    license: CC BY 4.0
+interfaces:
+  - license: CC BY 4.0
+    url: https://spraakbanken.gu.se/korp/#?corpus=sbs-folke
 contact_info:
   name: Jacob Larsson
   email: jacob.larsson@isof.se
   affiliation:
-    organisation: Institutet för språk och folkminnen
+    organization: Institutet för språk och folkminnen
     email: sprakteknologi@isof.se
 annotation:
   swe: ''

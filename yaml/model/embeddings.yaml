@@ -12,12 +12,12 @@ language_codes:
   - swe
 in_collections: []
 downloads: []
-interface: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''

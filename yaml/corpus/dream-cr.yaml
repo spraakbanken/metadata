@@ -15,12 +15,12 @@ size:
   sentences: 34350897
 in_collections: []
 downloads: []
-interface: []
+interfaces: []
 contact_info:
   name: Harald Hammarström
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: |-

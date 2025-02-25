@@ -8,7 +8,8 @@ type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
-language_codes: [swe]
+language_codes:
+  - swe
 size:
   entries: 505989
 in_collections: []
@@ -16,25 +17,27 @@ downloads:
   - url: 'https://spraakbanken.gu.se/poligraph/apps/poligraph/poligraph.tar.bz2'
     type: lexicon
     format: Prolog
-    info: ''
-    licence: GNU GPLv3 or later
-    restriction: attribution, sharealike
-interface:
-  - access: 'https://spraakbanken.gu.se/poligraph/'
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: GNU GPLv3 or later
+interfaces:
+  - url: 'https://spraakbanken.gu.se/poligraph/'
+    license: CC BY 4.0
 creators:
   - Rødven-Eide, Stian
 contact_info:
   name: Stian Rødven-Eide
   email: stian.rodven.eide@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: [knowledge graph, political science, swedish parliament, metadata]
+keywords:
+  - knowledge graph
+  - political science
+  - swedish parliament
+  - metadata
 caveats:
   swe: 'För närvarande begränsat till perioden 1990-2018'
   eng: 'Currently limited to the period 1990-2018'
@@ -44,11 +47,7 @@ intended_uses:
   swe: 'För språkteknologisk och statsvetenskaplig analys av riksdagens ledamöter'
   eng: 'For analysis pertaining to the Swedish members of parliament'
 description:
-
-  swe: |-
-
-
-  eng: |-
-
+  swe: ""
+  eng: ""
 updated: 2020-01-14
 doi: 10.23695/wmcr-7c32

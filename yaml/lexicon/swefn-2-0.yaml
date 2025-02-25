@@ -20,21 +20,19 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/swefn-2-0.json.zip
     type: lexicon
     format: JSON
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/swefn-2-0.tsv.zip
     type: lexicon
     format: TSV
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: ''
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Niklas Zechner
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
   swe: ''
@@ -339,8 +337,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''

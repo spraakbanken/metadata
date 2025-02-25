@@ -22,21 +22,19 @@ downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/data/ScandiSent.zip
     type: corpus
     format: ''
-    info: raw data for each language
-    licence: CC BY 4.0
-    restriction: attribution
+    description: raw data for each language
+    license: CC BY 4.0
   - url: https://spraakbanken.gu.se/lb/resurser/data/ScandiSent-mt.zip
     type: corpus
     format: ''
-    info: raw data from ScandiSent machine translated to English
-    licence: CC BY 4.0
-    restriction: attribution
-interface: []
+    description: raw data from ScandiSent machine translated to English
+    license: CC BY 4.0
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''

@@ -12,7 +12,9 @@ standard_reference: http://www.lrec-conf.org/proceedings/lrec2018/summaries/857.
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/summaries/846.html
   - https://gup.ub.gu.se/publication/264721?lang=sv
-model: '[Sensaldo](https://spraakbanken.gu.se/resurser/sensaldo)'
+models:
+  - name: Sensaldo
+    url: https://spraakbanken.gu.se/resurser/sensaldo
 description:
   swe: |-
     Token berikas med sentiment-värden genom uppslag av deras SALDO-ID:n i
@@ -69,14 +71,10 @@ example: |-
   <token sentiment_label="positive" sentiment_score="1">nöjd</token>
   <token>!</token>
   ```
-tool:
-  name: Sparv
-  url: https://spraakbanken.gu.se/sparv
-licences:
-  code: MIT License
+license: MIT License
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se

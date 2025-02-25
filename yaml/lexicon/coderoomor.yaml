@@ -14,37 +14,28 @@ size:
   words: 16230
   other: 4986
 in_collections: 
-- learner-language
-- l2_profiles
+  - learner-language
+  - l2-profiles
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
-    type: CodeRoomor_v01_lemgramView.csv
     format: csv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv
-    type: CodeRoomor_v01_morphemeView.csv
     format: csv
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx
-    type: CodeRoomor_v01_lemgramView.xlsx
     format: xlsx
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx
-    type: CodeRoomor_v01_morphemeView.xlsx
     format: xlsx
-    info: ''
-    licence: CC BY 4.0
-    restriction: attribution
-interface:
-  - access: https://spraakbanken.gu.se/larkalabb/svlp
-    licence: CC BY 4.0
-    restriction: attribution
+    description: ''
+    license: CC BY 4.0
+interfaces:
+  - url: https://spraakbanken.gu.se/larkalabb/svlp
+    license: CC BY 4.0
 creators:
   - Volodina Elena
   - Mohammed Yousuf Ali
@@ -53,7 +44,7 @@ contact_info:
   name: Elena Volodina
   email: elena.volodina@gu.se
   affiliation:
-    organisation: Språkbanken Text
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 standard_reference: '{publication 311724}'
 description:
@@ -101,8 +92,7 @@ description:
 annotation:
   swe: ''
   eng: ''
-keywords:
-  - ''
+keywords: []
 caveats:
   swe: ''
   eng: ''
