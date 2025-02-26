@@ -1,6 +1,6 @@
 name:
-  swe: "Swedish MWE-Lex"
-  eng: "Svenska MWE-Lex"
+  swe: "Swedish MWELex"
+  eng: "Svenska MWELex"
 short_description:
   swe: "Swe-MWELex är en betydelse-baserad ordlista med flerordsenheter som elever med svenska som andraspråk kan hantera på olika färdighetsnivåer enligt GERS (CEFR). Listan innehåller enheter och deras frekvenser från uppsatser (produktivt ordförråd, baserat på SweLL-pilot-korpusen) och kursböcker (receptivt ordförråd, baserat på COCTAILL). Utöver detta, varje flerordsenhet har manuellt klassificerats enligt deras typ (syntaktisk och lexikalisk), samt separat i undergrupper inom verb-baserade flerordsenheter." # Short description in a few words or a sentence in Swedish (plain text only)
   eng: "Swe-MWELex is a sense-based word list of multi-word expressions that learners of Swedish as a second language can handle at the different levels of proficiency (according to the CEFR scale). The word list features MWE items and their frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL). Besides, each MWE has been classified by its type (based on their syntactic and lexical characteristics), as well as by a subgroup within the group of verbal MWEs)" # Short description in a few words or a sentence in English (plain text only)
