@@ -249,27 +249,27 @@
       }
     },
     "standard_reference": {
-      "description": "Standard reference or link to a publication describing the resource. May contain HTML.",
+      "description": "Standard reference or link to a publication describing the resource. May contain Markdown or HTML.",
       "type": "string"
     },
     "other_references": {
-      "description": "List of references or links to publications describing the resource",
+      "description": "List of references or links to publications describing the resource. May contain Markdown or HTML.",
       "type": "array",
       "items": {
         "type": "string"
       }
     },
     "intended_uses": {
-      "description": "The intended uses for this resource",
+      "description": "The intended uses for this resource. May contain Markdown or HTML.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
         "swe": {
-          "description": "The intended uses for this resource (in Swedish)",
+          "description": "The intended uses for this resource (in Swedish). May contain Markdown or HTML.",
           "type": "string"
         },
         "eng": {
-          "description": "The intended uses for this resource (in English)",
+          "description": "The intended uses for this resource (in English). May contain Markdown or HTML.",
           "type": "string"
         }
       }
@@ -320,7 +320,7 @@
             }
           },
           "hide_resources": {
-            "description": "",
+            "description": "If set to \"true\", the resources belonging to this collection will not be listed in a table on the collection page.",
             "type": "boolean",
             "default": false
           }
@@ -393,16 +393,16 @@
       "then": {
         "properties": {
           "annotation": {
-            "description": "Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.",
+            "description": "Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.",
             "type": "object",
             "additionalProperties": false,
             "properties": {
               "swe": {
-                "description": "Annotation information in Swedish",
+                "description": "Annotation information in Swedish. May contain Markdown or HTML.",
                 "type": "string"
               },
               "eng": {
-                "description": "Annotation information in English",
+                "description": "Annotation information in English. May contain Markdown or HTML.",
                 "type": "string"
               }
             }
