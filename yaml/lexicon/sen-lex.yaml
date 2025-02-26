@@ -1,9 +1,9 @@
 name:
-  swe: "Sen-Lex"
-  eng: "Sen-Lex"
+  swe: "Sen*Lex"
+  eng: "Sen*Lex"
 short_description:
-  swe: "Sen-Lex är en menings-baserad ordlista med ordförråd för elever med svenska som andraspråk med frekvenserna från uppsatser (produktivt ordförråd, baseras på SweLL-piloten) och kursböcker (receptivt ordförråd, baserat på COCTAILL)" # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: "Sen-Lex is a sense-based lexicon of vocabulary for Swedish as a second language, featuring frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL)" # Short description in a few words or a sentence in English (plain text only)
+  swe: "Sen*Lex är en menings-baserad ordlista med ordförråd för elever med svenska som andraspråk med frekvenserna från uppsatser (produktivt ordförråd, baseras på SweLL-piloten) och kursböcker (receptivt ordförråd, baserat på COCTAILL)" # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: "Sen*Lex is a sense-based lexicon of vocabulary for Swedish as a second language, featuring frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL)" # Short description in a few words or a sentence in English (plain text only)
 type: lexicon
 trainingdata: false
 unlisted: false
@@ -53,7 +53,7 @@ keywords:
   - CEFR levels
 caveats:
   swe: ""
-  eng: 'Sen-Lex lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the word "berg" (Eng. mountain) is provided five time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.'
+  eng: 'Sen*Lex lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the word "berg" (Eng. mountain) is provided five time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.'
 standard_reference: "Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook."
 other_references:
   - "{publication 345602}"
