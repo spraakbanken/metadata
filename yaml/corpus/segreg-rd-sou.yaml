@@ -17,7 +17,7 @@ downloads:
     format: XML
     description: ''
     license: CC BY 4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_segreg-rd-sou.csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_segreg-rd-sou.csv.zip
     type: token frequencies
     format: CSV
     description: ''
