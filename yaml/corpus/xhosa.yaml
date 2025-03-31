@@ -4,16 +4,11 @@ name:
 short_description:
   eng: A corpus of transcribed and annotated recordings of spoken Xhosa.
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - xho
 size:
-  tokens: 7039
-  sentences: 1347
-in_collections: []
-downloads: []
+  tokens: 8688
+  sentences: 1890
 interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=xhosa#?corpus=xhosa
@@ -26,18 +21,15 @@ contact_info:
 annotation:
   swe: ''
   eng: ''
-keywords: []
 caveats:
   swe: ''
   eng: ''
-creators: []
 standard_reference: '{publication 328710}'
-other_references: []
 intended_uses:
   swe: ''
   eng: ''
-created: 2024-05-08
-updated: 2024-11-26
+created: '2024-05-08'
+updated: '2025-03-31'
 doi: 10.23695/xrsg-mp07
 description:
   eng: |-
@@ -47,11 +39,17 @@ description:
     <p>
       The Corpus of Spoken isiXhosa consists of transcribed and annotated recordings of spoken Xhosa [xho]. The recordings have been made in the Eastern Cape in South Africa from 2015 onwards. The transcribed texts are annotated with morpheme-by-morpheme glosses, part-of-speech tags, and free English translations.
     </p>
+    <p style="text-align: center;">
+      <img src="https://spraakbanken.gu.se/korp/data/xhosa/map.png" style="width: 95%;">
+    </p>
     <p>
       The recordings and the annotations of Xhosa data have been made as part of three different research projects led by senior lecturer Eva-Marie Bloom Ström at the University of Gothenburg. All projects, including the ongoing ‘How do words get in order? The role of speaker-hearer interaction in languages of southern Africa’, were founded by the Swedish Research Council.
     </p>
     <p>
       The Corpus has been developed in collaboration with Språkbanken Text.
+    </p>
+    <p>
+      A user guide and more extensive information about the corpus data can be found in the <a href="https://spraakbanken.gu.se/korp/data/xhosa/Corpus%20of%20Spoken%20isiXhosa%20-%20User%20manual.pdf" target="_blank">Corpus of Spoken isiXhosa Manual [PDF]</a>.
     </p>
     <p>
       <b>For more on annotation, preparation of data, and acknowledgements see:</b>
