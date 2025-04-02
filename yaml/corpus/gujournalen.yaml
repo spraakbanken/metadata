@@ -9,8 +9,8 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 4732254
-  sentences: 237818
+  tokens: 4636753
+  sentences: 241153
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gujournalen.xml.bz2
     type: corpus
