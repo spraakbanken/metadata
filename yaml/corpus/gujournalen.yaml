@@ -17,7 +17,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv.zip
     type: token frequencies
     format: CSV
     description: ''
@@ -44,8 +44,8 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
-created: '2025-04-01'
-updated: '2025-04-01'
+created: '2025-04-02'
+updated: '2025-04-02'
 description:
   swe: |-
     GU Journalen är Göteborgs universitets tidning för anställda och studenter. Den fungerar som en intern
@@ -59,4 +59,3 @@ description:
 
     In addition to articles from GU Journalen, the corpus also includes newsletters from 1995-1997, which are a
     predecessor to GU Journalen.
-doi: 10.23695/swgt-7s14
