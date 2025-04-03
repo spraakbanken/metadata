@@ -32,7 +32,6 @@ example: |-
   <token word="Tele2" word-prediction--kb-bert="|Friends:0.584|Stockholm:0.136|Globen:0.037|Djurgården:0.034|Stockholms:0.027|" pos="PM">Tele2</token>
   <token word="Arena" word-prediction--kb-bert="|arena:0.518|Arena:0.471|,:0.002|Globen:0.001|Stockholm:0.001|" pos="PM">Arena</token>
   ```
-tool: Sparv
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -36,7 +36,6 @@ example: |-
   <token pos="MID">,</token>
   <token pos="AB">då</token>
   ```
-tool: Sparv
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
