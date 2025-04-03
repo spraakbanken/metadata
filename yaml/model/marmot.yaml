@@ -38,7 +38,8 @@ description:
   swe: ''
   eng: |-
     <h2>Model</h2>
-    <p>The most accurate results for Swedish POS-tagging can be obtained with <a href="https://spraakbanken.gu.se/resurser/flair">Flair</a>. Marmot, however, yields very similar results, but works much faster and does not require a GPU. We provide two models for Marmot.</p>
+
+    <p> Marmot is a part-of-speech tagger that performs for Swedish somewhat worse than state-of-the-art neural models, but still yields very good results, works much faster and does not require a GPU. We provide two models for Marmot.</p>
     <p><b><code>marmot_eval</code></b> is trained on <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC3</a> and <a href="https://spraakbanken.gu.se/en/resources/talbanken">Talbanken_SBX_dev</a>, using <a href="https://spraakbanken.gu.se/en/resources/saldo">Saldo</a> as dictionary. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://spraakbanken.gu.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
 
     <table style="width:25">

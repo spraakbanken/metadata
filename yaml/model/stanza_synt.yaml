@@ -38,22 +38,21 @@ description:
   swe: ''
   eng: |-
     <h2>Models</h2>
-    <p>We provide two models that enable dependency parsing of Swedish (in the Mamba-Dep format, the format of <a href="https://spraakbanken.gu.se/en/resources/talbanken">TalbankenSBX</a>).</p>
+
+    <p>Stanza is currently the default annotation tool used by Sparv. We provide two models that enable dependency parsing of Swedish (in the <a href="https://svn.spraakdata.gu.se/sb-arkiv/pub/mamba.html">Mamba-Dep</a> format, the format of <a href="https://spraakbanken.gu.se/en/resources/talbanken">TalbankenSBX</a>).</p>
 
     <p><b><code>stanza_eval</code></b> is trained on Talbanken_SBX_train with as Talbanken_SBX_dev as dev set and evaluated using Talbanken_SBX_test.  The evaluation results are reported in the table below. The LAS (when trained with gold POS and MSD tags) is 84.48. We used the Word2Vec embeddings trained on the CONLL17 corpus (using Word2Vec trained on a Göteborgs-Posten corpus yields a very similar result of 84.43, see more about embeddings <a href="https://spraakbanken.gu.se/resurser/embeddings">here</a>).</p>
 
     <p><b><code>stanza_full</code></b> is trained on Talbanken_SBX_train + Talbanken_SBX_dev with Talbanken_SBX_test as dev set. We cannot evaluate the performance of this model, but we expect it to perform better than <code>stanza_eval</code>, or at least not worse.</p>
 
-    <h2>Parsing and training</h2>
-    <p>Clone <a href="https://stanfordnlp.github.io/stanza/installation_usage.html">Stanza</a> and install the necessary dependencies. We improved some of the shell scripts that are used to launch Stanza, and we strongly recommend that you download them from <a href="https://github.com/spraakbanken/golddatatools/tree/master/stanza">here</a> and put them in stanza/scripts (replacing the original scripts if necessary).
-    Stanza was created for parsing UD treebanks in the first place and it assumes that corpora names follow the UD conventions (even if they do not follow the UD annotation scheme). For this reason, your files have to be placed in the folder stanza/corpora/UD_Language-Treebank, where <code>Language</code> is the language name and <code>Treebank</code> is the treebank name (e.g. UD_Swedish-Talbanken). The files have to be named lang_treebank-ud-set.conllu, where <code>lang</code> is a two-letter code for language (sv), and <code>set</code> is train, dev or test (e.g. sv_talbanken-ud-train.conllu).
-    Use a Linux-like environment. GPU is strongly recommended.<p>
+    <p> We updated the "pretrain" file in spring 2025. This was a minor format change.</p>
 
-    <h3>Parsing</h3>
+
+    <h3>Using the models on your own</h3>
     <p>Unzip the model you want to use and the "pretrain" file (which contains <a href="http://vectors.nlpl.eu/repository/#">word2vec</a> embeddings encoded in a format required by Stanza). Place the two .pt files in stanza/saved_models/depparse. Run <code>bash scripts/parse.sh UD_Swedish-Talbanken</code> to parse a test set using a pretrained model. The output file will be created in the stanza/corpora folder. If you use other treebank name than UD_Swedish-Talbanken, you would have to rename the model files. The script assumes that the POS tags are already present in the test set.</p>
 
     <h3>Training your own models</h3>
-    <p>Run <code>bash scripts/run_depparse.sh UD_Swedish-Talbanken gold</code>. Replace <code>gold</code> with <code>predicted</code> if you want to predict POS tags and not use the gold ones. This command assumes that a pretrained part-of-speech model is available, you can find one <a href="https://spraakbanken.gu.se/resurser/stanza_morph">here</a>. The instructions for using pretrained embeddings are provided <a href="https://stanfordnlp.github.io/stanza/training.html#preparing-word-vector-data">here</a>.<p>
+    <p>Unzip the model you want to use and the "pretrain" file (which contains <a href="http://vectors.nlpl.eu/repository/#">word2vec</a> embeddings encoded in a format required by Stanza). Follow the instructions provided by <a href="https://stanfordnlp.github.io/stanza/installation_usage.html">Stanza</a>. If you need a pretrained part-of-speech model, you will find it <a href="https://spraakbanken.gu.se/resurser/stanza_morph">here</a>. <p>
 keywords: []
 caveats:
   swe: ''
