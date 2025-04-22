@@ -19,11 +19,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-<<<<<<< HEAD
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_flashback-dator.csv.zip
-=======
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-dator.csv.zip
->>>>>>> 28d2d4610 (Add 'flashback-dator.yaml' with Sparv)
     type: token frequencies
     format: CSV
     description: ''
