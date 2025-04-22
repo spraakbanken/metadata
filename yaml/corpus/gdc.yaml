@@ -15,7 +15,7 @@ size:
   sentences: 107700
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GDC.txt.zip
     type: token frequencies
     format: CSV
     description: ''

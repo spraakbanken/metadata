@@ -16,7 +16,7 @@ size:
   sentences: 3209
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DAGBLADET1866-1886.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DAGBLADET1866-1886.txt.zip
     type: token frequencies
     format: CSV
     description: ''

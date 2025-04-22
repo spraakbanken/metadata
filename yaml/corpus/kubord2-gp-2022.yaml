@@ -17,7 +17,7 @@ size:
 in_collections:
   - kubord2
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-gp-2022.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-gp-2022.csv.zip
     type: token frequencies
     format: CSV
     description: ''

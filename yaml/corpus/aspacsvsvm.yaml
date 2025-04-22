@@ -31,12 +31,12 @@ downloads:
     description: this file contains a scrambled version of the Molise Slavic part of the
       corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSVM-SV.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSVM-SV.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the Swedish part of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSVM-SVM.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSVM-SVM.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the Molise Slavic part of the corpus

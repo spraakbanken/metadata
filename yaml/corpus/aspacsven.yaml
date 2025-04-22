@@ -26,12 +26,12 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the English part of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-SV.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the Swedish part of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVEN-EN.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the English part of the corpus

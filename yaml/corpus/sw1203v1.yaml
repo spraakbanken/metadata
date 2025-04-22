@@ -8,7 +8,7 @@ size:
   tokens: 52518
   sentences: 3145
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203V1.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203V1.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

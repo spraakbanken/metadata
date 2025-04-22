@@ -21,7 +21,7 @@ downloads:
     format: XML
     description: ''
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-FAHLUWECKOBLAD-1790.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KUBHIST-FAHLUWECKOBLAD-1790.txt.zip
     type: token frequencies
     format: CSV
     description: ''

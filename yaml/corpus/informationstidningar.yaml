@@ -20,7 +20,7 @@ size:
   sentences: 63650
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_INFORMATIONSTIDNINGAR.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_INFORMATIONSTIDNINGAR.txt.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -15,7 +15,7 @@ size:
   sentences: 3241
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SW1203.txt.zip
     type: token frequencies
     format: CSV
     description: ''

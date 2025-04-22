@@ -16,7 +16,7 @@ size:
   sentences: 3398
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ABOTIDNING.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ABOTIDNING.txt.zip
     type: token frequencies
     format: CSV
     description: ''

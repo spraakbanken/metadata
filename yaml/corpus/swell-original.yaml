@@ -30,7 +30,7 @@ other_references:
   - '[3] Elena Volodina (2021). SweLL-gold metadata: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL (readme)'
 
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-ORIGINAL.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-ORIGINAL.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

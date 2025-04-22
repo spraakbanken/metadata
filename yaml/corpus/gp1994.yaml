@@ -20,7 +20,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GP1994.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GP1994.txt.zip
     type: token frequencies
     format: CSV
     description: ''

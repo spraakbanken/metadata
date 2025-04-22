@@ -8,7 +8,7 @@ size:
   tokens: 64492
   sentences: 4503
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_NPEGL-SWE.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_NPEGL-SWE.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

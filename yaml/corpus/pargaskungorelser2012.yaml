@@ -21,7 +21,7 @@ size:
   sentences: 22426
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PARGASKUNGORELSER2012.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PARGASKUNGORELSER2012.txt.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -8,7 +8,7 @@ size:
   tokens: 37883869
   sentences: 1759212
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-ES-RESTRICTED.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-ES-RESTRICTED.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

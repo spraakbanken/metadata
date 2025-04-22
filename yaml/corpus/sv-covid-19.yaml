@@ -20,7 +20,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_sv-covid-19.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_sv-covid-19.csv.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -21,7 +21,7 @@ downloads:
     format: XML
     description: ''
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_rd-tlista.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_rd-tlista.csv.zip
     type: token frequencies
     format: CSV
     description: ''

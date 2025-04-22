@@ -8,7 +8,7 @@ size:
   tokens: 44996
   sentences: 4124
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SPIN-SOURCE.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SPIN-SOURCE.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

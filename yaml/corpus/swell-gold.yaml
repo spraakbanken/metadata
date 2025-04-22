@@ -22,12 +22,12 @@ in_collections:
   - learner-language
   - swell
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt.zip
     type: token frequencies
     format: CSV
     description: "size: tokens: 147842; sentences: 7807"
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt.zip
     type: token frequencies
     format: CSV
     description: "size: tokens: 151851; sentences: 8137"

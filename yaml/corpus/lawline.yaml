@@ -15,7 +15,7 @@ size:
   sentences: 657420
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LAWLINE.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LAWLINE.txt.zip
     type: token frequencies
     format: CSV
     description: ''

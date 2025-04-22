@@ -15,7 +15,7 @@ size:
   sentences: 52338086
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_twitter.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_twitter.csv.zip
     type: token frequencies
     format: CSV
     description: ''

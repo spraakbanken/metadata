@@ -16,7 +16,7 @@ size:
   sentences: 36400
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_UNGDOMSLITTERATUR.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_UNGDOMSLITTERATUR.txt.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -21,7 +21,7 @@ downloads:
     format: XML
     description: this file contains the corpus with updated annotations
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-ostgotaposten-1910.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-ostgotaposten-1910.csv.zip
     type: token frequencies
     format: CSV
     license: CC BY 4.0

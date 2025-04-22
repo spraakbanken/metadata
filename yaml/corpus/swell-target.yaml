@@ -26,7 +26,7 @@ contact_info:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

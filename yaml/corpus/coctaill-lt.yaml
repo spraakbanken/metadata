@@ -19,7 +19,7 @@ size:
 in_collections: 
 - learner-language
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-LT.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_COCTAILL-LT.txt.zip
     type: token frequencies
     format: CSV
     description: ''

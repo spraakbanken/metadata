@@ -19,7 +19,7 @@ size:
   tokens: 2177522
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SYDOSTERBOTTEN2012.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SYDOSTERBOTTEN2012.txt.zip
     type: token frequencies
     format: CSV
     description: ''

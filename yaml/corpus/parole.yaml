@@ -24,7 +24,7 @@ downloads:
     format: zip
     description: ''
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt.zip
     type: token frequencies
     format: CSV
     description: ''

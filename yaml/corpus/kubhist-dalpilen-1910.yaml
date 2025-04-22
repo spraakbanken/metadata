@@ -28,7 +28,7 @@ downloads:
     # info: this file contains an older version of the corpus which has the same format
     #   as the remaining Kubhist corpora
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv.zip
     type: token frequencies
     format: CSV
     license: CC BY 4.0

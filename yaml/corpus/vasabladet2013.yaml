@@ -19,7 +19,7 @@ size:
   tokens: 581027
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_VASABLADET2013.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_VASABLADET2013.txt.zip
     type: token frequencies
     format: CSV
     description: ''

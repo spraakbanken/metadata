@@ -8,7 +8,7 @@ size:
   tokens: 52062
   sentences: 1950
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_OGL.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_OGL.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

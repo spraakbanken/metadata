@@ -8,7 +8,7 @@ size:
   tokens: 2738428
   sentences: 201151
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_MEPAC.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_MEPAC.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

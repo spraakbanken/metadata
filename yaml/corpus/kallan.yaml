@@ -20,7 +20,7 @@ size:
   sentences: 11017
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KALLAN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KALLAN.txt.zip
     type: token frequencies
     format: CSV
     description: ''

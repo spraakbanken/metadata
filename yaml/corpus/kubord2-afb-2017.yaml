@@ -16,7 +16,7 @@ size:
 in_collections:
   - kubord2
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-afb-2017.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord2-afb-2017.csv.zip
     type: token frequencies
     format: CSV
     description: ''

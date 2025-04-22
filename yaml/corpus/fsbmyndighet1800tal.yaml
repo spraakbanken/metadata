@@ -16,7 +16,7 @@ size:
   sentences: 23188
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBMYNDIGHET1800TAL.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBMYNDIGHET1800TAL.txt.zip
     type: token frequencies
     format: CSV
     description: ''

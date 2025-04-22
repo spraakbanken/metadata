@@ -16,7 +16,7 @@ size:
   sentences: 6015
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FANBARAREN.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FANBARAREN.txt.zip
     type: token frequencies
     format: CSV
     description: ''

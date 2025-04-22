@@ -16,7 +16,7 @@ size:
   sentences: 10422
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_STUDENTBLADET.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_STUDENTBLADET.txt.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -8,7 +8,7 @@ size:
   tokens: 9115151
   sentences: 717854
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-ES-OPEN.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-ES-OPEN.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

@@ -15,7 +15,7 @@ size:
   sentences: 46705
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_asu.csv.zip
     type: token frequencies
     format: CSV
     description: ''

@@ -16,7 +16,7 @@ size:
   sentences: 5717
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ARGUS.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ARGUS.txt.zip
     type: token frequencies
     format: CSV
     description: ''

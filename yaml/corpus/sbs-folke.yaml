@@ -20,7 +20,7 @@ downloads:
     type: corpus
     format: XML
     license: CC BY 4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sbs-folke.csv
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sbs-folke.csv.zip
     type: token frequencies
     format: CSV
     license: CC BY 4.0

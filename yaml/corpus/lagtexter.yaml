@@ -16,7 +16,7 @@ size:
   sentences: 23466
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LAGTEXTER.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LAGTEXTER.txt.zip
     type: token frequencies
     format: CSV
     description: ''

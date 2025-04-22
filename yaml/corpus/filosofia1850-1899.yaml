@@ -16,7 +16,7 @@ size:
   sentences: 2874
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FILOSOFIA1850-1899.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FILOSOFIA1850-1899.txt.zip
     type: token frequencies
     format: CSV
     description: ''

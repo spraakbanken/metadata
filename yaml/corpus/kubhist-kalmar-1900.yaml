@@ -21,7 +21,7 @@ downloads:
     format: XML
     description: this file contains the corpus with updated annotations
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-kalmar-1900.csv
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-kalmar-1900.csv.zip
     type: token frequencies
     format: CSV
     description: this file contains the token frequencies with updated annotations

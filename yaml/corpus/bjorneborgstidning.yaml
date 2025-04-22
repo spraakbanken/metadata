@@ -16,7 +16,7 @@ size:
   sentences: 1897
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_BJORNEBORGSTIDNING.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_BJORNEBORGSTIDNING.txt.zip
     type: token frequencies
     format: CSV
     description: ''

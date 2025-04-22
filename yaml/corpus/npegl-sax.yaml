@@ -6,7 +6,7 @@ size:
   tokens: 637840
   sentences: 19283
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_NPEGL-SAX.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_NPEGL-SAX.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0

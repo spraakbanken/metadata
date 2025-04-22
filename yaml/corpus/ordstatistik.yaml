@@ -14,7 +14,7 @@ size:
   sentences: 0
 in_collections: []
 downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_all.txt
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_all.txt.zip
     type: token frequencies
     format: csv
     description: ''

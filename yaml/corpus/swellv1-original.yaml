@@ -9,7 +9,7 @@ size:
   tokens: 147842
   sentences: 7807
 downloads:
-- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt
+- url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-ORIGINAL.txt.zip
   type: token frequencies
   format: CSV
   license: CC BY 4.0
