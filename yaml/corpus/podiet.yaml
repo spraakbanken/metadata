@@ -6,22 +6,18 @@ short_description:
   eng: Articles from the consert magazine Podiet
   swe: Artiklar från Konsertmagasinet Podiet
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
-  tokens: 651150
-  sentences: 39765
-in_collections: []
+  tokens: 808713
+  sentences: 37489
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/podiet.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_podiet.csv.zip
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_podiet.csv.zip
     type: token frequencies
     format: CSV
     description: ''
@@ -33,24 +29,22 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: []
 caveats:
   swe: ''
   eng: ''
-other_references: []
 intended_uses:
   swe: ''
   eng: ''
+created: '2025-05-08'
+updated: '2025-05-08'
 description:
   swe: |-
     Magasinet <a href="https://podiet.prenly.com/">Podiet</a> innehåller
     artiklar och reportage om aktuella konserter, intervjuer med
     musiker och verkkommentarer till de klassiska konserter som spelas
     i Göteborgs Konserthus. Korpusen uppdateras regelbundet.
-updated: 2024-01-02
-doi: 10.23695/bdfz-6a59
