@@ -6,22 +6,18 @@ short_description:
   swe: Nyhetstexter från dagensarena.se
   eng: News texts from dagensarena.se
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
-  tokens: 10908463
-  sentences: 639666
-in_collections: []
+  tokens: 8482409
+  sentences: 468503
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/da.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_da.csv.zip
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_da.csv.zip
     type: token frequencies
     format: CSV
     description: ''
@@ -33,23 +29,21 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: []
 caveats:
   swe: ''
   eng: ''
-other_references: []
 intended_uses:
   swe: ''
   eng: ''
+created: '2025-05-09'
+updated: '2025-05-09'
 description:
   swe: Texterna i korpusen är hämtade från nyhetsartiklarna på <a href="https://www.dagensarena.se/">dagensarena.se</a>.
     Korpusen uppdateras ca. två gånger per år.
   eng: The texts in this corpus are downloaded from the news articles on <a href="https://www.dagensarena.se/">dagensarena.se</a>.
     The corpus is updated about twice a year.
-updated: 2024-01-02
-doi: 10.23695/4635-cg09
