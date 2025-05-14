@@ -1,0 +1,41 @@
+name:
+  swe: 'sbx/KB-bert-base-swedish-cased_PI-detection-general-iob'  
+  eng: 'sbx/KB-bert-base-swedish-cased_PI-detection-general-iob' 
+description:  # Longer description. May contain Markdown or HTML.
+  swe: 'En modell baserad på KB/bert-base-swedish-cased tränad med syfte att upptäcka personliga uppgifter, särskilt i studentuppsatser. Den här varianten skiljer mellan 7 generella kategorier samt markerar början och insidan.'  
+  eng: 'A model based on KB/bert-base-swedish-cased trained to detect personal information, especially in learner essays. This variant differentiates between 7 general categories and differentiates between beginning and inside.' 
+short_description: 
+  swe: 'A model based on KB/bert-base-swedish-cased trained to detect personal information.'  
+  eng: 'En modell baserad på KB/bert-base-swedish-cased tränad med syfte att upptäcka personliga uppgifter, särskilt i studentuppsatser.' 
+type: model 
+unlisted: false 
+successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
+language_codes: ["swe"] 
+in_collections: [] 
+downloads: # Downloadable files related to the resource
+  - url: 'https://huggingface.co/sbx/KB-bert-base-swedish-cased_PI-detection-general-iob'  
+    type: 'model' 
+    format: '' 
+    description: 'The model is hosted on HuggingFace and can be easily accessed e.g. using their Python library.' 
+    license: GPL-3.0
+creators: ["Szawerna, Maria Irena"] 
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+keywords: ["PI detection", "BERT"] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: 
+  swe: 'Den här modellen garanterar inte att alla personliga uppgifter i texten upptäcks. Använd den aldrig utan översikt av en människa (human-in-the-loop). Modellen presterar betydligt sämre på texter som inte är student- eller elev uppsatser.'  
+  eng: 'This model does not guarantee the detection of all personal information in the text. Never use it without human supervision (human-in-the-loop). The model performs noticeably worse on texts that are not student essays.' 
+standard_reference: 'Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, and Elena Volodina. 2025. The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling. In Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), pages 697–708, Tallinn, Estonia. University of Tartu Library. https://aclanthology.org/2025.nodalida-1.70/' 
+other_references: [] 
+intended_uses: 
+  swe: 'Upptäckt av personliga uppgifter' 
+  eng: 'Personal Information detection' 
+created: '2024-07-04' # Date the resource was created (format: YYYY-MM-DD)
+updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false 
+doi: '' 
+trainingdata: false 
