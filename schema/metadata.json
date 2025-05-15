@@ -295,7 +295,6 @@
     }
   },
   "required": [
-    "name",
     "type"
   ],
   "allOf": [
@@ -430,7 +429,10 @@
             "type": "boolean",
             "default": false
           }
-        }
+        },
+        "required": [
+          "name"
+        ]
       }
     },
     {
