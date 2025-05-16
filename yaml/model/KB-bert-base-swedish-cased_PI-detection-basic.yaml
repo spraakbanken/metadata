@@ -38,3 +38,4 @@ created: '2024-07-07' # Date the resource was created (format: YYYY-MM-DD)
 updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false 
 trainingdata: false 
+doi: 10.23695/e3v2-w708
