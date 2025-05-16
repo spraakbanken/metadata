@@ -12,7 +12,7 @@ description:
     (human-in-the-loop). The model performs noticeably worse on texts that are not student essays."
 short_description:
   swe: En Sparv-plugin som möjliggör upptäckt och annotering av personlig information
-    i svenska texter, särskilt L2 uppsatser.'
+    i svenska texter, särskilt L2 uppsatser.
   eng: A plugin for Sparv for detecting personal information in Swedish texts, especially
     learner essays.
 type: analysis
