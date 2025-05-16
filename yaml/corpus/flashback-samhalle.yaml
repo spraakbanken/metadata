@@ -6,14 +6,11 @@ short_description:
   swe: Material från diskussionsforumet Flashback.
   eng: Material from the Flashback internet forum.
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
-  tokens: 810078225
-  sentences: 52002589
+  tokens: 855882897
+  sentences: 54977360
 in_collections:
   - flashback
 downloads:
@@ -22,7 +19,7 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_flashback-samhalle.csv.zip
+  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-samhalle.csv.zip
     type: token frequencies
     format: CSV
     description: ''
@@ -34,21 +31,20 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken
+    organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: []
 caveats:
   swe: ''
   eng: ''
-other_references: []
 intended_uses:
   swe: ''
   eng: ''
+created: '2014-03-23'
+updated: '2025-05-09'
+doi: 10.23695/5h6s-3m16
 description:
   swe: ''
   eng: ''
-updated: 2024-03-24
-doi: 10.23695/5h6s-3m16
