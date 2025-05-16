@@ -28,6 +28,7 @@ SCRIPT_PATH = Path(__file__).resolve().parent
 DEFAULT_SCHEMA = SCRIPT_PATH / "../schema/metadata.json"
 DEFAULT_OUTPUT = SCRIPT_PATH / "../yaml_templates"
 TYPES = ["corpus", "lexicon", "model", "analysis", "utility", "collection"]
+HIDDEN_KEYS = ["doi"]  # Don't include these keys in the generated template
 
 
 def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.CommentedMap:
@@ -44,6 +45,8 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
 
     def parse_schema_properties(properties: dict, output: ruamel.yaml.CommentedMap) -> None:
         for key, value in properties.items():
+            if key in HIDDEN_KEYS:
+                continue
             output[key] = value.get("default", "")
             if value.get("description"):
                 output.yaml_add_eol_comment(value["description"], key=key)
@@ -59,8 +62,6 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
                     array_item = ruamel.yaml.CommentedMap()
                     parse_schema_properties(item_schema["properties"], array_item)
                     output[key].append(array_item)
-                else:
-                    pass
 
     # Add conditional properties
     for conditional in schema.get("allOf", []):
