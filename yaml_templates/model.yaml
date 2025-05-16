@@ -38,18 +38,17 @@ keywords: [] # List of keywords (in English) that may be used for filtering. Kee
 caveats: # Caveats and disclaimers
   swe: ''  # Caveats and disclaimers in Swedish
   eng: '' # Caveats and disclaimers in English
-standard_reference: '' # Standard reference or link to a publication describing the resource. May contain HTML.
-other_references: [] # List of references or links to publications describing the resource
-intended_uses: # The intended uses for this resource
-  swe: ''  # The intended uses for this resource (in Swedish)
-  eng: '' # The intended uses for this resource (in English)
+standard_reference: '' # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
+other_references: [] # List of references or links to publications describing the resource. May contain Markdown or HTML.
+intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
+  swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
+  eng: '' # The intended uses for this resource (in English). May contain Markdown or HTML.
 created: '' # Date the resource was created (format: YYYY-MM-DD)
 updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
-doi: '' # DOI persistent identifier. If left empty, the DOI will be generated automatically.
 size: # Size information about the lexicon
   entries: ''  # Number of entries in the lexicon
-annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations.
-  swe: ''  # Annotation information in Swedish
-  eng: '' # Annotation information in English
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
+  swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
+  eng: '' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
