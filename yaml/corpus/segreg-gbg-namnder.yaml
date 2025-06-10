@@ -9,8 +9,8 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 134629
-  sentences: 9136
+  tokens: 344453
+  sentences: 22123
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-gbg-namnder.xml.bz2
     type: corpus
@@ -41,8 +41,8 @@ intended_uses:
   swe: ''
   eng: ''
 created: '2025-04-07'
-updated: '2025-04-07'
+updated: '2025-06-10'
+doi: 10.23695/v916-ja41
 description:
   swe: ''
   eng: ''
-doi: 10.23695/v916-ja41
