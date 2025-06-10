@@ -234,16 +234,16 @@
       }
     },
     "caveats": {
-      "description": "Caveats and disclaimers",
+      "description": "Caveats and disclaimers. May contain Markdown or HTML.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
         "swe": {
-          "description": "Caveats and disclaimers in Swedish",
+          "description": "Caveats and disclaimers in Swedish. May contain Markdown or HTML.",
           "type": "string"
         },
         "eng": {
-          "description": "Caveats and disclaimers in English",
+          "description": "Caveats and disclaimers in English. May contain Markdown or HTML.",
           "type": "string"
         }
       }
