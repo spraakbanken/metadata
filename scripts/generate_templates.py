@@ -125,7 +125,7 @@ def main() -> None:
         with output_file.open("w", encoding="UTF-8") as f:
             yaml.dump(yaml_output, f)
 
-        print(f"YAML template for resource type '{args.type}' has been saved to '{output_file.resolve()}'.")
+        print(f"YAML template for resource type '{schema_type}' has been saved to '{output_file.resolve()}'.")
 
 
 if __name__ == "__main__":
