@@ -1,0 +1,60 @@
+name:
+  swe: 'SAOLhist Plus (v. 1.0)'  # Human readable name in Swedish
+  eng: 'SAOLhist Plus (v. 1.0)' # Human readable name in English
+description:  # Longer description. May contain Markdown or HTML.
+  swe: 'Den nedladdningsbara versionen av SAOLhist Plus innehåller 9 digitaliserade utgåvor av SAOL som tillsammans med tre andra historiska och moderna ordböcker och stora lemmatiserade ordlistor ur samtida tidningskorpusar ger en inblick i det svenska ordförrådets utveckling över perioden 1874--2015.'  # Longer description in Swedish. May contain Markdown or HTML.
+  eng: 'The downloadable version of SAOLhist Plus brings together 9 digitized editions of the Swedish SAOL dictionary, which together with three other historical and modern dictionaries and large lemmatized contemporaneous vocabularies extracted from news-text corpora provide Swedish vocabulary data covering a timespan of almost a century and a half (1874–2015).' # Longer description in English. May contain Markdown or HTML.
+short_description: # Short description in a few words or a sentence (plain text only)
+  swe: 'SAOLhist Plus är en lexikonresurs med svenska lemmatiserade diakroniska orddata för perioden 1874–2015.'  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: 'SAOLhist Plus is a lexical resource containing Swedish lemmatized diachronical vocabulary data for the period 1874–2015.' # Short description in a few words or a sentence in English (plain text only)
+type: lexicon # Type of resource
+unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
+successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
+language_codes: ["swe"] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
+languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.
+  - code: ''  # Optional language code using some other standard than ISO 639-3
+    name:
+      swe: ''  # Language name (in Swedish)
+      eng: '' # Language name (in English)
+in_collections: [] # ID(s) of the collections the resource is part of
+downloads: # Downloadable files related to the resource
+  - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/shplus/shplus-v01_0.tbz2'  # URL to a downloadable file
+    type: 'lexicon' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
+    format: 'Text files with tab-separated values in tbz2 archive' # The file format or standard (e.g. XML)
+    description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    license: CC BY 4.0
+interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+  - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
+    description: '' # Additional description, if required
+    license: CC BY 4.0 # License for the data in the interface
+creators: ["Borin, Lars",
+      "Adesam, Yvonne",
+      "Holmer, Louise"] # List of people that created the resource (format: lastname, firstname)
+contact_info: # Contact info of the person who can answer questions about the resource
+  name: 'Språkbanken Text'
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: 'Språkbanken Text'
+    email: 'sb-info@svenska.gu.se'
+keywords: ["historical linguistics",
+"history of lexicography",
+"SAOL",
+"diachronic linguistics",
+"Swedish"] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: # Caveats and disclaimers. May contain Markdown or HTML.
+  swe: 'Saknar senaste upplagan av SAOL och SO.'  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
+  eng: 'Latest edition of SAOL and SO not included.' # Caveats and disclaimers in English. May contain Markdown or HTML.
+standard_reference: '{publication 351080}' # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
+other_references: [] # List of references or links to publications describing the resource. May contain Markdown or HTML.
+intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
+  swe: 'Språkhistoriska och lexikografihistoriska studier'  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
+  eng: 'Historical linguistics and research on history of lexicography' # The intended uses for this resource (in English). May contain Markdown or HTML.
+created: '2025-05-21' # Date the resource was created (format: YYYY-MM-DD)
+updated: '2025-05-21' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false # Set to "true" if this is a collection of resources
+size: # Size information about the lexicon
+  entries: 'appr. 1M lexical entries and 29.5M corpus word types'  # Number of entries in the lexicon
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
+  swe: 'Lexikonuppslagsord och korpusordtyper har Dalin- och Saldolemgramanalyser.'  # Annotation information in Swedish. May contain Markdown or HTML.
+  eng: 'Dictionary lemmas and corpus word types have Dalin and Saldo lemgram analyses.' # Annotation information in English. May contain Markdown or HTML.
+trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
