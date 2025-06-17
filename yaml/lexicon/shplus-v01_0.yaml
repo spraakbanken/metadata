@@ -2,7 +2,7 @@ name:
   swe: 'SAOLhist Plus (v. 1.0)'  # Human readable name in Swedish
   eng: 'SAOLhist Plus (v. 1.0)' # Human readable name in English
 description:  # Longer description. May contain Markdown or HTML.
-  swe: 'Den nedladdningsbara versionen av SAOLhist Plus innehåller 9 digitaliserade utgåvor av SAOL som tillsammans med tre andra historiska och moderna ordböcker och stora lemmatiserade ordlistor ur samtida tidningskorpusar ger en inblick i det svenska ordförrådets utveckling över perioden 1874--2015.'  # Longer description in Swedish. May contain Markdown or HTML.
+  swe: 'Den nedladdningsbara versionen av SAOLhist Plus innehåller 9 digitaliserade utgåvor av SAOL som tillsammans med tre andra historiska och moderna ordböcker och stora lemmatiserade ordlistor ur samtida tidningskorpusar ger en inblick i det svenska ordförrådets utveckling över perioden 1874–2015.'  # Longer description in Swedish. May contain Markdown or HTML.
   eng: 'The downloadable version of SAOLhist Plus brings together 9 digitized editions of the Swedish SAOL dictionary, which together with three other historical and modern dictionaries and large lemmatized contemporaneous vocabularies extracted from news-text corpora provide Swedish vocabulary data covering a timespan of almost a century and a half (1874–2015).' # Longer description in English. May contain Markdown or HTML.
 short_description: # Short description in a few words or a sentence (plain text only)
   swe: 'SAOLhist Plus är en lexikonresurs med svenska lemmatiserade diakroniska orddata för perioden 1874–2015.'  # Short description in a few words or a sentence in Swedish (plain text only)
