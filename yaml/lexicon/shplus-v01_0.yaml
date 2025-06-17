@@ -59,3 +59,4 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   swe: 'Lexikonuppslagsord och korpusordtyper har Dalin- och Saldolemgramanalyser.'  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: 'Dictionary lemmas and corpus word types have Dalin and Saldo lemgram analyses.' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
+doi: 10.23695/315x-x549
