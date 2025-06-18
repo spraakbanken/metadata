@@ -79,7 +79,7 @@
       }
     },
     "languages": {
-      "description": "Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.",
+      "description": "Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes' and don't include this field.",
       "type": "array",
       "items": {
         "type": "object",
@@ -114,7 +114,7 @@
       }
     },
     "downloads": {
-      "description": "Downloadable files related to the resource",
+      "description": "Downloadable files related to the resource. Don't include this field if there are no downloadable files.",
       "type": "array",
       "items": {
         "type": "object",
@@ -155,7 +155,7 @@
       }
     },
     "interfaces": {
-      "description": "Links to interfaces where the resource is available (e.g. Korp or Karp)",
+      "description": "Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.",
       "type": "array",
       "items": {
         "type": "object",
@@ -337,16 +337,16 @@
       "then": {
         "properties": {
           "size": {
-            "description": "Size information about the corpus",
+            "description": "Size information about the corpus. Additional fields may be added.",
             "type": "object",
             "additionalProperties": true,
             "properties": {
               "tokens": {
-                "description": "Number of tokens in the corpus",
+                "description": "Number of tokens in the corpus (integer)",
                 "type": "integer"
               },
               "sentences": {
-                "description": "Number of sentences in the corpus",
+                "description": "Number of sentences in the corpus (integer)",
                 "type": "integer"
               }
             }
@@ -365,12 +365,12 @@
       "then": {
         "properties": {
           "size": {
-            "description": "Size information about the lexicon",
+            "description": "Size information about the lexicon. Additional fields may be added.",
             "type": "object",
             "additionalProperties": true,
             "properties": {
               "entries": {
-                "description": "Number of entries in the lexicon",
+                "description": "Number of entries in the lexicon (integer)",
                 "type": "integer"
               }
             }
