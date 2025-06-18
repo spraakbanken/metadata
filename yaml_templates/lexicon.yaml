@@ -11,19 +11,19 @@ type: lexicon # Type of resource
 unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
 language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
-languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes'.
+languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes' and don't include this field.
   - code: ''  # Optional language code using some other standard than ISO 639-3
     name:
       swe: ''  # Language name (in Swedish)
       eng: '' # Language name (in English)
 in_collections: [] # ID(s) of the collections the resource is part of
-downloads: # Downloadable files related to the resource
+downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
   - url: ''  # URL to a downloadable file
     type: '' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
     format: '' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
-interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp)
+interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     description: '' # Additional description, if required
     license: CC BY 4.0 # License for the data in the interface
@@ -46,8 +46,8 @@ intended_uses: # The intended uses for this resource. May contain Markdown or HT
 created: '' # Date the resource was created (format: YYYY-MM-DD)
 updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
-size: # Size information about the lexicon
-  entries: ''  # Number of entries in the lexicon
+size: # Size information about the lexicon. Additional fields may be added.
+  entries: 0  # Number of entries in the lexicon (integer)
 annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
   swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: '' # Annotation information in English. May contain Markdown or HTML.
