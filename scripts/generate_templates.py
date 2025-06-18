@@ -49,7 +49,15 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
         for key, value in properties.items():
             if key in HIDDEN_KEYS:
                 continue
-            output[key] = value.get("default", "")
+            # Set default values based on type
+            if "default" in value:
+                output[key] = value["default"]
+            elif value["type"] in {"integer", "number"}:
+                output[key] = 0
+            elif value["type"] == "boolean":
+                output[key] = False
+            else:
+                output[key] = ""
             if value.get("description"):
                 output.yaml_add_eol_comment(value["description"], key=key)
 
