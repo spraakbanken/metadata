@@ -18,6 +18,7 @@ Usage:
 """
 
 import argparse
+import copy
 import json
 import sys
 from pathlib import Path
@@ -41,6 +42,7 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
     Returns:
         A dictionary with template data.
     """
+    schema = copy.deepcopy(schema)  # Avoid modifying the original schema
     yaml_output = ruamel.yaml.CommentedMap()
 
     def parse_schema_properties(properties: dict, output: ruamel.yaml.CommentedMap) -> None:
