@@ -22,7 +22,6 @@ downloads: # Downloadable files related to the resource
 creators:  # List of people that created the resource (format: lastname, firstname)
   - "Borin, Lars"
   - "Adesam, Yvonne"
-  - "Holmer, Louise"
 contact_info: # Contact info of the person who can answer questions about the resource
   name: 'Språkbanken Text'
   email: sb-info@svenska.gu.se
