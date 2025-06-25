@@ -29,9 +29,9 @@ updated: 2020-07-09
 type: analysis
 analysis_unit: token
 example: |-
-  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
+  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 
-  To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
+  To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/user-manual/quick-start/#creating-the-config-file):
 
   ```yaml
   - <token>:saldo.complemgram  # Compound analysis using lemgrams

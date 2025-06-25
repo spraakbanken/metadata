@@ -21,7 +21,7 @@ intended_uses:
 created: 2011-09-05
 type: utility
 example: |
-  This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
+  This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 
   To use this exporter, run Sparv with the argument 'xml_export:scrambled':
 

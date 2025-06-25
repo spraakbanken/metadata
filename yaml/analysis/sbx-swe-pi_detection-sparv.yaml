@@ -23,9 +23,9 @@ models:
   - url: https://huggingface.co/collections/Turtilla/pi-detection-and-labeling-6822fbc8fbccfc2527c019ba
 license: MIT license
 example: |-
-  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
+  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 
-  To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
+  To use this analysis, add the following line under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/user-manual/quick-start/#creating-the-config-file):
 
   ```yaml
   - <token>:sbx_pi_detection.pi  # None
@@ -39,7 +39,7 @@ example: |-
 
   You also need to install the following plugin: *[sbx_pi_detection](https://github.com/spraakbanken/sparv-sbx-pi-detection)*.
 
-  For general information on how to install plugins, see [here](https://spraakbanken.gu.se/sparv/#/user-manual/installation-and-setup?id=plugins).
+  For general information on how to install plugins, see [here](https://spraakbanken.gu.se/sparv/user-manual/installation-and-setup/#installing-and-uninstalling-plugins).
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
 

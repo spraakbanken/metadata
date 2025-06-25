@@ -37,9 +37,9 @@ created: 2018-03-28
 updated: 2018-03-28
 type: analysis
 example: |-
-  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start) to get started!
+  This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 
-  To use this analysis, add the following lines under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/#/user-manual/quick-start?id=creating-the-config-file):
+  To use this analysis, add the following lines under `export.annotations` in the Sparv [corpus configuration file](https://spraakbanken.gu.se/sparv/user-manual/quick-start/#creating-the-config-file):
 
   ```yaml
   - phrase_structure.phrase  # Phrase segments
