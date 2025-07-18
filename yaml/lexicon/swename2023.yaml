@@ -20,7 +20,7 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
 interfaces:
-  - url: 'https://spraakbanken.gu.se/karp-s/?resources=swename2023'
+  - url: '' #'https://spraakbanken.gu.se/karp-s/?resources=swename2023' # add after Karp-S has been launched
     description: ''
     license: CC BY 4.0
 creators:
