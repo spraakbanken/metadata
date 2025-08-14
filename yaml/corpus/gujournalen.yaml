@@ -9,8 +9,8 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 4636753
-  sentences: 241153
+  tokens: 4697018
+  sentences: 244024
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gujournalen.xml.bz2
     type: corpus
@@ -45,7 +45,8 @@ intended_uses:
   swe: ''
   eng: ''
 created: '2025-04-02'
-updated: '2025-04-02'
+updated: '2025-08-14'
+doi: 10.23695/swgt-7s14
 description:
   swe: |-
     GU Journalen är Göteborgs universitets tidning för anställda och studenter. Den fungerar som en intern
@@ -59,4 +60,3 @@ description:
 
     In addition to articles from GU Journalen, the corpus also includes newsletters from 1995-1997, which are a
     predecessor to GU Journalen.
-doi: 10.23695/swgt-7s14
