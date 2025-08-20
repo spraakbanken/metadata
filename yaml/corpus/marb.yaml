@@ -74,3 +74,4 @@ annotation:
 
     It covers three categories of sensitive attributes: Disability, Race and Queerness. Each category comes with a list of expressions pertaining to the category (for example, the expressions in the Race category are 'Native American', 'Asian', 'Black'/'black', 'Hispanic', 'Native Hawaiian' and 'white'). Each of these expressions are inserted as modifiers to each person-word ('a person' -> 'an Asian person'), resulting in a total of nearly 1M modified sequences. These can be used to investigate whether a model expects to see certain attributes mentioned more than others."
 trainingdata: false
+doi: 10.23695/v3wp-6c64
