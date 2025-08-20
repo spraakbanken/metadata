@@ -67,7 +67,7 @@ created: '2024-05-27'
 updated: '2025-06-05'
 collection: false
 size:
-  sentences: '940500'
+  sentences: 940500
 annotation:
   swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: "The dataset consists of nearly 28.5K template sequences. 9.5K containing each of the phrases 'a person', 'a woman', 'a man', and their modifications. The templates are based on naturally occurring written language from the 2021 version of the enTenTen corpus (Jakubíček et al., 2013).
