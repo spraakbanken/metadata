@@ -4,7 +4,7 @@ name:
 short_description:
   swe: 'L2 profiler är en samling av språkresurser som beskriver inlärarspråket (svenska som andraspråk, L2 svenska). Dessa resurser genererades inom projektet "Utveckling av lexikala och grammatiska kompetenser i invandrarsvenska" (https://spraakbanken.gu.se/swe/forskning/l2profiling), med finansiering från Riksbankens Jubileumsfond.'
   eng: 'L2 profiles is a collection of resources that describe learner language (Swedish as a second language, L2 Swedish). These resources were developed in the project "Development of lexical and grammatical competences in immigrant Swedish" (https://spraakbanken.gu.se/eng/l2-profiling) through financing from Riksbankens Jubileumsfond.'
-type: corpus
+type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
