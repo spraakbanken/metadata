@@ -2,10 +2,10 @@ name:
   swe: MARB
   eng: MARB
 description:
-  swe: ''  # Longer description in Swedish. May contain Markdown or HTML.
+  swe: ''
   eng: 'Reporting bias (the human tendency to not mention obvious or redundant information) and social bias (societal attitudes toward specific demographic groups) have both been shown to propagate from human text data to language models trained on such data. However, the two phenomena have not previously been studied in combination. The MARB dataset was developed to begin to fill this gap by studying the interaction between social biases and reporting bias in language models. Unlike many existing benchmark datasets, MARB does not rely on artificially constructed templates or crowdworkers to create contrasting examples. Instead, the templates used in MARB are based on naturally occurring written language from the 2021 version of the enTenTen corpus (Jakubíček et al., 2013).'
 short_description:
-  swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
+  swe: ''
   eng: 'A dataset for studying Marked Attribute Reporting Bias'
 type: corpus
 unlisted: false
@@ -13,7 +13,16 @@ successors: []
 language_codes:
   - eng
 in_collections: []
-downloads: []
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/data/marb_data.tar.bz2
+    type: corpus
+    format: CSV
+    description: 'Dataset'
+    license: MIT License
+  - url: https://spraakbanken.gu.se/lb/resurser/data/marb_code.tar.bz2
+    format: ''
+    description: 'Code'
+    license: MIT License
 interfaces:
   - url: https://github.com/TomBladsjo/MARB
     description: "The dataset and all related code can be downloaded from this GitHub repo."
@@ -23,7 +32,7 @@ creators:
   - Muñoz Sánchez, Ricardo
 contact_info:
   name: Tom Södahl Bladsjö
-  email: tom.sodahl@gmail.com
+  email: tom.sodahl.bladsjo@svenska.gu.se
   affiliation:
     organization: Språkbanken Text, Sweden
     email: sb-info@svenska.gu.se
@@ -40,9 +49,10 @@ keywords:
   - pseudo-perplexity
   - diagnostic dataset
   - language resources
-caveats: # Caveats and disclaimers
-  swe: ''  # Caveats and disclaimers in Swedish
-  eng: "**Ethical considerations**
+caveats:
+  swe: ''
+  eng: |-
+    **Ethical considerations**
 
     This work deals with language categorizing people based on sensitive attributes such as race, gender identity and sexuality. This is a sensitive topic, and care should be taken not to oversimplify complex real-world power structures or to confuse real-life demographic groups with the words used to describe them.
     
@@ -52,26 +62,28 @@ caveats: # Caveats and disclaimers
     
     Furthermore, most common metrics for how well a model predicts a sequence (such as perplexity) are affected by factors such as sequence length and model vocabulary. While steps have been taken to mitigate these effects (especially that of sequence length), they will still be present to some extent, particularly in cases where an attribute descriptor is divided into many tokens. When using the dataset for evaluation, take care to analyse your results with this in mind.
     
-    Finally, while MARB can be used to identify certain types of bias in a model, a lack of visible bias using MARB is no guarantee that the model is not biased."
+    Finally, while MARB can be used to identify certain types of bias in a model, a lack of visible bias using MARB is no guarantee that the model is not biased.
 standard_reference: 'Tom Södahl Bladsjö and Ricardo Muñoz Sánchez. 2025. Introducing MARB — A Dataset for Studying the Social Dimensions of Reporting Bias in Language Models. In Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 59–74, Vienna, Austria. Association for Computational Linguistics.'
 other_references:
   - "Tom Södahl Bladsjö. 2024. Don't Mention the Norm. Masters Thesis, Gothenburg, Sweden. University of Gothenburg."
 intended_uses:
-  swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
-  eng: "- **Key applications:** Identify and study reporting bias with regards to human attributes in masked and autoregressive language models
+  swe: ''
+  eng: |-
+    - **Key applications:** Identify and study reporting bias with regards to human attributes in masked and autoregressive language models
     - **Intended task(s)/usage(s):** While MARB can be used to investigate a range of different research questions, it is mainly intended as an intrinsic diagnostic for out-of-the-box language models: How likely is the model to predict the sets of sequences containing different attribute descriptors and person-words? Are there systematic differences depending on the attribute mentioned?
     - **Recommended evaluation measures:** Perplexity, Rank biserial correlation (r)
     - **Dataset function(s):** Diagnostics
-    - **Recommended split(s):** Test data only"
+    - **Recommended split(s):** Test data only
 created: '2024-05-27'
 updated: '2025-06-05'
 collection: false
 size:
   sentences: 940500
 annotation:
-  swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
-  eng: "The dataset consists of nearly 28.5K template sequences. 9.5K containing each of the phrases 'a person', 'a woman', 'a man', and their modifications. The templates are based on naturally occurring written language from the 2021 version of the enTenTen corpus (Jakubíček et al., 2013).
+  swe: ''
+  eng: |-
+    The dataset consists of nearly 28.5K template sequences. 9.5K containing each of the phrases 'a person', 'a woman', 'a man', and their modifications. The templates are based on naturally occurring written language from the 2021 version of the enTenTen corpus (Jakubíček et al., 2013).
 
-    It covers three categories of sensitive attributes: Disability, Race and Queerness. Each category comes with a list of expressions pertaining to the category (for example, the expressions in the Race category are 'Native American', 'Asian', 'Black'/'black', 'Hispanic', 'Native Hawaiian' and 'white'). Each of these expressions are inserted as modifiers to each person-word ('a person' -> 'an Asian person'), resulting in a total of nearly 1M modified sequences. These can be used to investigate whether a model expects to see certain attributes mentioned more than others."
+    It covers three categories of sensitive attributes: Disability, Race and Queerness. Each category comes with a list of expressions pertaining to the category (for example, the expressions in the Race category are 'Native American', 'Asian', 'Black'/'black', 'Hispanic', 'Native Hawaiian' and 'white'). Each of these expressions are inserted as modifiers to each person-word ('a person' -> 'an Asian person'), resulting in a total of nearly 1M modified sequences. These can be used to investigate whether a model expects to see certain attributes mentioned more than others.
 trainingdata: false
 doi: 10.23695/v3wp-6c64
