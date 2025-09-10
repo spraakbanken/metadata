@@ -2,15 +2,12 @@
 name:
   swe: Akademiliv
   eng: Akademiliv
-short_description:
-  swe: Texter från GU Journalen
-  eng: Texts from GU Journalen
 type: corpus
 language_codes:
   - swe
 size:
   tokens: 2299155
-  sentences: 126770
+  sentences: 126772
 downloads:
   - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/akademiliv.xml.bz2
     type: corpus
