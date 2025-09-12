@@ -11,6 +11,12 @@ language_codes:
 size:
   tokens: 76486597
   sentences: 3629107
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/arabic-ebooks.xml.bz2
+    type: corpus
+    format: XML
+    description: this file contains a scrambled version of the corpus
+    license: CC BY 4.0
 interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/?mode=arabic#?corpus=arabic-ebooks
