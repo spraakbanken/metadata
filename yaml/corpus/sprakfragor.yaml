@@ -16,7 +16,7 @@ size:
 in_collections: []
 downloads: []
 interfaces:
-  - url: https://spraakbanken.gu.se/korp/#?corpus=frageladan
+  - url: https://spraakbanken.gu.se/korp/#?corpus=sprakfragor
     license: CC BY 4.0
 contact_info:
   name: Per-Anders Jande
