@@ -3,7 +3,7 @@ short_description:
   swe: Sammanställning av korpusstatistik, fullständig samt sammandrag på svenska
     och engelska.
   eng: Gathering of corpus statistics, full and lighter.
-languages_codes:
+language_codes:
   - swe
   - eng
 keywords:
