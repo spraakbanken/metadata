@@ -1,0 +1,2 @@
+Schema validation errors were encountered.
+  ./analysis-missing-id.yaml::$: 'id' is a required property

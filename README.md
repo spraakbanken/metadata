@@ -42,3 +42,12 @@ newer versions). This attribute holds a list of resource IDs.
 
 If `"hide_resources": true` is set, the resources belonging to this collection will not be listed in a table on the
 collection web page.
+
+## Testing of metadata schema
+
+A minimal (and incomplete) test suite is available:
+
+```bash
+cd tests
+./run-tests.sh
+```

@@ -1,0 +1,2 @@
+Schema validation errors were encountered.
+  ./analysis-languages_code-misspelled.yaml::$: Unevaluated properties are not allowed ('languages_codes' was unexpected)

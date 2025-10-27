@@ -1,0 +1,2 @@
+Schema validation errors were encountered.
+  ./utility-missing-sparv_processor.yaml::$: 'sparv_processor' is a required property

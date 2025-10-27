@@ -1,0 +1,25 @@
+id: sbx-swe-emotion-transformers-kblab_emotional_classification-parent
+task: emotional analysis
+plugin_url: https://pypi.org/project/sparv-sbx-emotions-kb-emoclass
+type: analysis
+languages_codes:
+  - swe
+keywords:
+  - transformers
+  - kb-lab
+tools:
+  - name: "transformers"
+    url: "https://github.com/huggingface/transformers"
+    license: "Apache-2.0 license"
+models:
+  - name: "KBLab/emotional-classification"
+    url: "https://huggingface.co/KBLab/emotional-classification"
+    description: |-
+      This is a [SetFit](https://github.com/huggingface/setfit) model that can
+      be used for classification of emotions in Swedish text. The model supports
+      seven basic emotions.
+    license: "Apache-2.0 license"
+other_references:
+  - "Repository: https://github.com/spraakbanken/sparv-sbx-emotions-kb-emoclass"
+created: 2025-10-17
+updated: 2025-10-24

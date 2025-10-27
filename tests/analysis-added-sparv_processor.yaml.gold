@@ -1,0 +1,2 @@
+Schema validation errors were encountered.
+  ./analysis-added-sparv_processor.yaml::$: Unevaluated properties are not allowed ('sparv_processor' was unexpected)
