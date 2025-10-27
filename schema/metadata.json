@@ -51,13 +51,7 @@
     "type": {
       "description": "Type of resource",
       "type": "string",
-      "enum": [
-        "corpus",
-        "lexicon",
-        "model",
-        "analysis",
-        "utility"
-      ]
+      "enum": ["corpus", "lexicon", "model", "analysis", "utility"]
     },
     "unlisted": {
       "description": "If set to \"true\", the resource won't be listed, but it will be accessible via its URL",
@@ -127,12 +121,7 @@
           "type": {
             "description": "Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.",
             "type": "string",
-            "enum": [
-              "corpus",
-              "lexicon",
-              "model",
-              "token frequencies"
-            ]
+            "enum": ["corpus", "lexicon", "model", "token frequencies"]
           },
           "format": {
             "description": "The file format or standard (e.g. XML)",
@@ -148,10 +137,7 @@
             "default": "CC BY 4.0"
           }
         },
-        "required": [
-          "url",
-          "license"
-        ]
+        "required": ["url", "license"]
       }
     },
     "interfaces": {
@@ -175,9 +161,7 @@
             "default": "CC BY 4.0"
           }
         },
-        "required": [
-          "url"
-        ]
+        "required": ["url"]
       }
     },
     "creators": {
@@ -214,17 +198,10 @@
               "type": "string"
             }
           },
-          "required": [
-            "organization",
-            "email"
-          ]
+          "required": ["organization", "email"]
         }
       },
-      "required": [
-        "name",
-        "email",
-        "affiliation"
-      ]
+      "required": ["name", "email", "affiliation"]
     },
     "keywords": {
       "description": "List of keywords (in English) that may be used for filtering. Keep them short!",
@@ -294,9 +271,7 @@
       "type": "string"
     }
   },
-  "required": [
-    "type"
-  ],
+  "required": ["type"],
   "allOf": [
     {
       "if": {
@@ -305,9 +280,7 @@
             "const": true
           }
         },
-        "required": [
-          "collection"
-        ]
+        "required": ["collection"]
       },
       "then": {
         "properties": {
@@ -382,10 +355,7 @@
       "if": {
         "properties": {
           "type": {
-            "enum": [
-              "corpus",
-              "lexicon"
-            ]
+            "enum": ["corpus", "lexicon"]
           }
         }
       },
@@ -413,12 +383,7 @@
       "if": {
         "properties": {
           "type": {
-            "enum": [
-              "corpus",
-              "lexicon",
-              "model",
-              "collection"
-            ]
+            "enum": ["corpus", "lexicon", "model", "collection"]
           }
         }
       },
@@ -430,19 +395,50 @@
             "default": false
           }
         },
-        "required": [
-          "name"
-        ]
+        "required": ["name"]
       }
     },
     {
       "if": {
         "properties": {
           "type": {
-            "enum": [
-              "analysis",
-              "utility"
-            ]
+            "enum": ["analysis", "utility"]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "id": {
+            "description": "id used as name",
+            "type": "string"
+          }
+        },
+        "required": ["id"]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": ["analysis", "utility"]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "plugin_url": {
+            "description": "URL to PyPI or git repo",
+            "type": "string"
+          }
+        },
+        "required": ["plugin_url"]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": ["analysis", "utility"]
           }
         }
       },
@@ -529,6 +525,24 @@
             "type": "string"
           }
         }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "utility"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "sparv_processor": {
+            "description": "entry point of utility",
+            "type": "string"
+          }
+        },
+        "required": ["sparv_processor"]
       }
     }
   ]
