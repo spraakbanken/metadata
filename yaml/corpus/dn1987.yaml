@@ -14,20 +14,8 @@ size:
   tokens: 5129248
   sentences: 359878
 in_collections: []
-downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/dn1987.xml.bz2
-    type: corpus
-    format: XML
-    description: this file contains a scrambled version of the corpus
-    license: CC BY 4.0
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_dn1987.csv.zip
-    type: token frequencies
-    format: CSV
-    description: ''
-    license: CC BY 4.0
-interfaces:
-  - url: https://spraakbanken.gu.se/korp/#?corpus=dn1987
-    license: CC BY 4.0
+downloads: []
+interfaces: []
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -65,5 +53,5 @@ other_references: []
 intended_uses:
   swe: ''
   eng: ''
-updated: 2022-12-13
+updated: 2025-10-28
 doi: 10.23695/v6g0-dh08

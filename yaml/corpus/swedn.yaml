@@ -12,11 +12,7 @@ language_codes:
   - swe
 in_collections:
   - superlim
-downloads:
-  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedn/1.0/swedn.zip
-    description: an archive with the dataset in JSONL and TSV formats and the documentation sheet
-    format: zip
-    license: CC BY 4.0
+downloads: []
 interfaces: []
 creators:
   - Monsen, Julius
@@ -59,11 +55,6 @@ description:
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
     <td>https://spraakbanken.gu.se/resurser/superlim
-    </td>
-    </tr>
-    <tr>
-    <td>License(s)*</td>
-    <td>CC BY 4.0
     </td>
     </tr>
     <tr>
@@ -273,5 +264,5 @@ description:
     </tr>
     </table>
 standard_reference: "Monsen, Julius, & Jönsson, Arne. 2021. A method for building non-English corpora for abstractive text summarization. Proceedings of the CLARIN Annual Conference  <a href='https://www.ida.liu.se/~arnjo82/papers/clarin-21-julius.pdf'>Publication</a>"    
-updated: 2023-03-30
+updated: 2025-10-28
 doi: 10.23695/36v9-9017
