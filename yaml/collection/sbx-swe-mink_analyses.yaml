@@ -10,6 +10,7 @@ resources:
   - sbx-swe-compound-sparv-saldolemgram
   - sbx-swe-compound-sparv-saldowords
   - sbx-swe-dependency-stanza-stanzasynt
+  - sbx-swe-geotagcontext-sparv
   - sbx-swe-lemgram-sparv-saldo
   - sbx-swe-lemmatization-sparv-saldo2
   - sbx-swe-lexical_classes_text-sparv-blingbring
