@@ -13,7 +13,7 @@ type: analysis
 task: attitude annotation
 analysis_unit: token
 models:
-  url: https://huggingface.co/sbx/KB-bert-base-swedish-cased_posneg_attitude
+  - url: https://huggingface.co/sbx/KB-bert-base-swedish-cased_posneg_attitude
 license: MIT license
 example: |-
   This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
