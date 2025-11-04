@@ -2,7 +2,7 @@ name:
   swe: 'Svenska namn 2023'
   eng: 'Swedish names 2023'
 description:
-  swe: 'Denna resurs innehåller listor över förnamn som förekom i Sverige 2023, uppdelade på kön. Namn med minst två bärare finns med. Syftet med listorna är att identifiera stavningsvarianter och besläktade namn. En automatisk analys har gjort, som kan användas antingen som approximation, eller som utgångspunkt för manuell annotering. Filerna är i ett enkelt tabellformat: Första kolumnen innehåller namnet, andra antalet bärare. Därefter kommer den automatiska analysens förslag på närmaste liknande ord vanligare namn (tomt om inget hittats). Siffran i tredje kolumnen är ett mått på likhet, och i fjärde står namnet. Högre siffror betecknar högre likhet. En god approximation är att 5-8 innebär stavningsvarianter, och 3-4 innebär besläktade namn. 1-2 betyder att den närmaste träffen är så långt ifrån att den mest troligt inte är besläktad, men den visas ändå för att kunna kontrolleras.'
+  swe: 'Denna resurs innehåller listor över förnamn som förekom i Sverige 2023, uppdelade på kön. Namn med minst två bärare finns med. Syftet med listorna är att identifiera stavningsvarianter och besläktade namn. En automatisk analys har gjort, som kan användas antingen som approximation, eller som utgångspunkt för manuell annotering. Filerna är i ett enkelt tabellformat: Första kolumnen innehåller namnet, andra antalet bärare. Därefter kommer den automatiska analysens förslag på närmaste liknande vanligare namn (tomt om inget hittats). Siffran i tredje kolumnen är ett mått på likhet, och i fjärde står namnet. Högre siffror betecknar högre likhet. En god approximation är att 5-8 innebär stavningsvarianter, och 3-4 innebär besläktade namn. 1-2 betyder att den närmaste träffen är så långt ifrån att den mest troligt inte är besläktad, men den visas ändå för att kunna kontrolleras. Namn med bindestreck eller mellanslag har inte tagits med.'
   eng: 'This resource contains lists of given names in Sweden in 2023, separated by gender. A name is included if at least two people have it. An automatic analysis have been done to try for each name to find a more common name of which it is a spelling variation or related. The files are in a table format: First column is the name, second is the number of people by that name, fourth (where given) is the best guess for a more common similar name, and third is a measure of how similar it is expected to be. A good approximation is that 5-8 are spelling variations, and 3-4 are related names.'
 short_description:
   swe: 'Listor över Sveriges förnamn 2023, avsedda för att underlätta stavningssammanslagning.'
@@ -15,12 +15,12 @@ language_codes:
 in_collections: []
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
   - url: 'https://spraakbanken.gu.se/lb/resurser/data/swename2023.zip'  # URL to a downloadable file
-    type: 'lexicon' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
+    type: '' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
     format: 'tsv' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
 interfaces:
-  - url: '' #'https://spraakbanken.gu.se/karp-s/?resources=swename2023' # add after Karp-S has been launched
+  - url: 'https://spraakbanken.gu.se/karp-s/?resources=swename2023'
     description: ''
     license: CC BY 4.0
 creators:
@@ -44,9 +44,8 @@ created: '2025-06-09' # Date the resource was created (format: YYYY-MM-DD)
 updated: '2025-06-09' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
 size: # Size information about the lexicon. Additional fields may be added.
-  entries: 108553  # Number of entries in the lexicon (integer)
+  entries: 160390  # Number of entries in the lexicon (integer)
 annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
   swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: '' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
-doi: 10.23695/6cna-hr56
