@@ -19,7 +19,7 @@ languages: # Languages relevant to this resource. Use this field only if the lan
 in_collections: [] # ID(s) of the collections the resource is part of
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
   - url: ''  # URL to a downloadable file
-    type: '' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
+    type: '' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
     format: '' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
