@@ -72,6 +72,9 @@ example: |-
   <token blingbring="|">rävsläktet</token>
   <token blingbring="|">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

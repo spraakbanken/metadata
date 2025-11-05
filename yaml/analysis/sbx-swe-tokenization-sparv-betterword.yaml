@@ -51,6 +51,9 @@ example: |-
   <token>korpus</token>
   <token>.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

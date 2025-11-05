@@ -67,6 +67,9 @@ example: |-
   <token dephead_ref="3" deprel="SP" ref="5">korpus</token>
   <token dephead_ref="3" deprel="IP" ref="6">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

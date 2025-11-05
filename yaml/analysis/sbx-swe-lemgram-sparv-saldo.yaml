@@ -47,6 +47,9 @@ example: |-
   <token lemgram="|korpus..nn.1|">korpus</token>
   <token lemgram="|">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

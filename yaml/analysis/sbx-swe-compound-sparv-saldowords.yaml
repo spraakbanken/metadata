@@ -55,6 +55,9 @@ example: |-
   <token compwf="|forsknings+enhet|">forskningsenhet</token>
   <token compwf="|">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

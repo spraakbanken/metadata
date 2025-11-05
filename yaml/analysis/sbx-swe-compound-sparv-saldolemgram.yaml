@@ -55,6 +55,9 @@ example: |-
   <token complemgram="|forskning..nn.1+enhet..nn.1:9.033e-13|">forskningsenhet</token>
   <token complemgram="|">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

@@ -71,6 +71,9 @@ example: |-
   <token sentiment_label="positive" sentiment_score="1">nöjd</token>
   <token>!</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg

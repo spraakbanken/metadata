@@ -68,6 +68,9 @@ example: |-
   <token sense="|bräda..1:0.787|bräde..1:0.213|">brädan</token>
   <token sense="|">.</token>
   ```
+interfaces:
+  - url: https://spraakbanken.gu.se/mink
+    license: CC BY 4.0
 license: MIT License
 contact_info:
   name: Markus Forsberg
