@@ -5,7 +5,7 @@ downloads:
   license: CC BY 4.0
   format: jsonl
 interfaces:
-- url: https://spraakbanken.gu.se/karp-s?resources=isof-nyord
+- url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
   license: CC BY 4.0
 unlisted: false
 in_collections: []
