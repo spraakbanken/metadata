@@ -9,10 +9,10 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 525854
-  sentences: 28779
+  tokens: 668287
+  sentences: 36584
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-gbg-rapporter.xml.bz2
+  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-gbg-rapporter.xml.bz2
     type: corpus
     format: XML
     description: ''
@@ -41,8 +41,7 @@ intended_uses:
   swe: ''
   eng: ''
 created: '2025-06-10'
-updated: '2025-06-10'
+updated: '2025-11-05'
 description:
   swe: ''
   eng: ''
-doi: 10.23695/cgtr-jb02
