@@ -7,6 +7,12 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
   license: CC BY 4.0
+contact_info:
+  name: Språkbanken Sam
+  email: sb-sam@isof.se
+  affiliation:
+    organization: Språkbanken Sam
+    email: sb-sam@isof.se
 unlisted: false
 in_collections: []
 keywords: []
