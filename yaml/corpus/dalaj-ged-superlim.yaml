@@ -25,7 +25,7 @@ downloads:
       NB! The tsv package is not an official part of the SuperLim collection. The dataset, however, is identical.
     format: zip
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/liuep197-11.pdf
+  - url: https://spraakbanken.gu.se/resurser/data/liuep197-11.pdf
     description: |
       A paper about the dataset
 

@@ -15,7 +15,7 @@ size:
   sentences: 1563256
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/webbnyheter2008.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/webbnyheter2008.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

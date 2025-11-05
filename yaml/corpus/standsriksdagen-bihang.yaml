@@ -17,7 +17,7 @@ size:
 in_collections:
   - standsriksdagen
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/standsriksdagen-bihang.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/standsriksdagen-bihang.xml.bz2
     type: corpus
     format: XML
     description: ''

@@ -13,7 +13,7 @@ size:
   sentences: 4038
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-as-2016.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-as-2016.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

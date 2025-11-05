@@ -8,7 +8,7 @@ size:
   tokens: 141555
   sentences: 6229
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-quraan.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-quraan.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

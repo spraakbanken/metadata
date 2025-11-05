@@ -15,7 +15,7 @@ size:
   sentences: 29681
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/bibel1873dalin.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/bibel1873dalin.xml.bz2
     type: corpus
     format: XML
     description: ''

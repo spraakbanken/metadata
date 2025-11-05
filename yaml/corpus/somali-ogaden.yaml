@@ -8,7 +8,7 @@ size:
   tokens: 98454
   sentences: 4034
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-ogaden.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-ogaden.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

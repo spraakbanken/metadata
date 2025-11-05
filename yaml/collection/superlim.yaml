@@ -29,11 +29,11 @@ resources:
 language_codes:
   - swe
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim-2-2.0.4.zip
+  - url: https://spraakbanken.gu.se/resurser/data/SuperLim-2-2.0.4.zip
     format: zip
     description: "an archive with the whole collection (datasets, documentation sheets, additional files)"
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim_maintenance.odt
+  - url: https://spraakbanken.gu.se/resurser/data/SuperLim_maintenance.odt
     format: odt
     license: ''
     description: 'internal instructions on how (not) to update the Superlim 2.0'

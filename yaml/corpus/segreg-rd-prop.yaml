@@ -11,7 +11,7 @@ size:
   tokens: 35480771
   sentences: 4023785
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-rd-prop.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-rd-prop.xml.bz2
     type: corpus
     format: XML
     description: ''

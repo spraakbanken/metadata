@@ -19,12 +19,12 @@ size:
   sentences: 0
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/ScandiSent.zip
+  - url: https://spraakbanken.gu.se/resurser/data/ScandiSent.zip
     type: corpus
     format: ''
     description: raw data for each language
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/ScandiSent-mt.zip
+  - url: https://spraakbanken.gu.se/resurser/data/ScandiSent-mt.zip
     type: corpus
     format: ''
     description: raw data from ScandiSent machine translated to English

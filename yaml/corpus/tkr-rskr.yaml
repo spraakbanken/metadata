@@ -16,7 +16,7 @@ size:
 in_collections:
   - tkr
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/tkr-rskr.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/tkr-rskr.xml.bz2
     type: corpus
     format: XML
     description: ''

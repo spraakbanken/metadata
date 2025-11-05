@@ -17,7 +17,7 @@ size:
   sentences: 3007
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/akerbruk.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/akerbruk.xml.bz2
     type: corpus
     format: XML
     description: ''

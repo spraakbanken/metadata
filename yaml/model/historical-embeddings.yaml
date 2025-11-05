@@ -12,7 +12,7 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data//historical_embeddings/HENGCHEN-TAHMASEBI_-_2020_-_Kubhist2_diachronic_embeddings.zip
+  - url: https://spraakbanken.gu.se/resurser/data//historical_embeddings/HENGCHEN-TAHMASEBI_-_2020_-_Kubhist2_diachronic_embeddings.zip
     format: ''
     description: ''
     license: CC BY 4.0

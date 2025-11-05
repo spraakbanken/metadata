@@ -17,12 +17,12 @@ in_collections:
   - swell
   - l2-profiles
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_xlsx.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/SweLLex_v1_xlsx.tar.bz2
     type: lexicon
     format: xlsx
     description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/SweLLex_v1_tsv.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/SweLLex_v1_tsv.tar.bz2
     type: lexicon
     format: tsv
     description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'

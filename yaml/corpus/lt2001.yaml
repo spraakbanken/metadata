@@ -15,7 +15,7 @@ size:
   sentences: 115012
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/lt2001.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/lt2001.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

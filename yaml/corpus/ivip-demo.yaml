@@ -18,7 +18,7 @@ size:
   sentences: 114
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ivip-demo.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ivip-demo.xml.bz2
     type: corpus
     format: XML
     description: ''

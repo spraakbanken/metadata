@@ -16,10 +16,10 @@ size:
 in_collections:
   - superlim-1-0
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/supersim-superlim.zip
+  - url: https://spraakbanken.gu.se/resurser/data/supersim-superlim.zip
     format: zip
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/supersim-superlim_documentation_sheet.txt
+  - url: https://spraakbanken.gu.se/resurser/data/supersim-superlim_documentation_sheet.txt
     format: txt
     license: CC BY 4.0
 interfaces: []

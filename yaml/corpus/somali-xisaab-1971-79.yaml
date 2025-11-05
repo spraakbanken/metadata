@@ -8,7 +8,7 @@ size:
   tokens: 1875
   sentences: 207
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-xisaab-1971-79.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-xisaab-1971-79.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

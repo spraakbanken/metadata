@@ -17,7 +17,7 @@ size:
   sentences: 310484
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-svtidskr.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/runeberg-svtidskr.xml.bz2
     type: corpus
     format: XML
     description: ''

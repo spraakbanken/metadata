@@ -8,7 +8,7 @@ size:
   tokens: 30471
   sentences: 3011
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-saynis-2010.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-saynis-2010.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

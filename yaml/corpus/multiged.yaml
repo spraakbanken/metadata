@@ -18,7 +18,7 @@ language_codes:
   - ita
   - swe
 downloads:
-  - url: 'https://spraakbanken.gu.se/lb/resurser/data/multiged-2023.tar.bz2'
+  - url: 'https://spraakbanken.gu.se/resurser/data/multiged-2023.tar.bz2'
     type: corpus
     format: tsv
     license: varies

@@ -10,7 +10,7 @@ language_codes:
 in_collections:
   - kubord-fasttext
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/kubord-fasttext-dn-2010-2024-token.zip
+  - url: https://spraakbanken.gu.se/resurser/data/kubord-fasttext-dn-2010-2024-token.zip
     type: model
     format: zip
     description: ''

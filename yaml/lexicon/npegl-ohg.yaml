@@ -13,7 +13,7 @@ size:
   entries: 691
 in_collections: [npegl]  # ID(s) of the collections the resource is part of
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
-  - url: 'https://spraakbanken.gu.se/lb/resurser/data/npegl_old_high_german_r1.jsonl.bz2'  # URL to a downloadable file
+  - url: 'https://spraakbanken.gu.se/resurser/data/npegl_old_high_german_r1.jsonl.bz2'  # URL to a downloadable file
     format: 'JSONL'  # The file format or standard
     description: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0

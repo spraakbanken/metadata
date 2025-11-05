@@ -16,7 +16,7 @@ size:
 in_collections:
   - kubhist2
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/kubhist2-gotheborgsweckolista-1740.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/kubhist2-gotheborgsweckolista-1740.xml.bz2
     type: corpus
     format: XML
     description: ''

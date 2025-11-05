@@ -12,27 +12,27 @@ language_codes:
   - eng
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
     format: ''
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
     format: ''
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
     format: ''
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
     format: ''
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
     format: ''
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
+  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
     format: ''
     description: ''
     license: CC BY 4.0

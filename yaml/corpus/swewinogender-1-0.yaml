@@ -15,12 +15,12 @@ size:
   items: 624
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/swewinogender.zip
+  - url: https://spraakbanken.gu.se/resurser/data/swewinogender.zip
 
     format: zip
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/swewinogender_documentation_sheet.txt
+  - url: https://spraakbanken.gu.se/resurser/data/swewinogender_documentation_sheet.txt
 
     format: txt
     description: ''

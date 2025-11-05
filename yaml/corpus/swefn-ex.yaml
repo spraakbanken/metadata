@@ -19,7 +19,7 @@ size:
   sentences: 9018
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swefn-ex.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/swefn-ex.xml.bz2
     type: corpus
     format: XML
     description: ''

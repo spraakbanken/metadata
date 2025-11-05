@@ -16,12 +16,12 @@ size:
   sentences: 18276
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-sv.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvfr-sv.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the Swedish part of the corpus
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvfr-fr.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvfr-fr.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the French part of the corpus

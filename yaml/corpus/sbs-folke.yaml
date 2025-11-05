@@ -16,7 +16,7 @@ size:
   sentences: 235713
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sbs-folke.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sbs-folke.xml.bz2
     type: corpus
     format: XML
     license: CC BY 4.0

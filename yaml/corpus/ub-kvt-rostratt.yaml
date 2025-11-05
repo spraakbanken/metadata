@@ -16,7 +16,7 @@ size:
   sentences: 117961
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/ub-kvt-rostratt.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ub-kvt-rostratt.xml.bz2
     type: corpus
     format: XML
     description: ''

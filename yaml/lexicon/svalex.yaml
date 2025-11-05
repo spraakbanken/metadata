@@ -16,12 +16,12 @@ in_collections:
   - l2-profiles
   - learner-language
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_xlsx.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/svalex_xlsx.tar.bz2
     type: lexicon
     format: xlsx
     description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents per level (format: nb_doc@a1), frequences in unique learner essays by level and subcorpus (format: c1_TISUS1, a1_SpIn31)'
     license: CC BY-NC-SA 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/svalex_tsv.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/svalex_tsv.tar.bz2
     type: lexicon
     format: tsv
     description: 'Columns: word (lemma), word class (SUC tags), normalized frequencies per level and total (format: level_freq@a1), number documents (=texts) per level (format: nb_doc@a1), frequences in unique coursebooks by level and in total (format: B2_Nya_Mål_3@b2, C1_Språkporten_123@total)'

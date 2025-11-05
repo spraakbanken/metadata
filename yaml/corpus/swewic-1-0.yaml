@@ -15,11 +15,11 @@ size:
   items: 624
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/swewic.jsonl.gz
+  - url: https://spraakbanken.gu.se/resurser/data/swewic.jsonl.gz
 
     format: gz
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/swewic_documentation_sheet.txt
+  - url: https://spraakbanken.gu.se/resurser/data/swewic_documentation_sheet.txt
 
     format: txt
     license: CC BY 4.0

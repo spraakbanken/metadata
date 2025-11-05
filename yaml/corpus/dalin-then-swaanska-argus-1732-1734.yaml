@@ -16,7 +16,7 @@ size:
   tokens: 213399
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz
     type: corpus
     format: XML
     description: ''
@@ -34,14 +34,14 @@ description:
       Dalin: Then Swänska Argus 1732-1734 innehåller bilder och manuella transkriptioner av Then Swänska Argus av Olof von Dalin, Stockholm, 1732–1734.
     </p>
     <p>
-      Resursen, automatiskt annoterad med morfologisk och syntaktisk information, finns också tillgänglig i <a href="https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin">Korp</a> och kan laddas ner <a href="http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2">här</a>.
+      Resursen, automatiskt annoterad med morfologisk och syntaktisk information, finns också tillgänglig i <a href="https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin">Korp</a> och kan laddas ner <a href="https://spraakbanken.gu.se/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2">här</a>.
       </p>
   eng: |-
     <p>
       Dalin: Then Swänska Argus 1732-1734 contains images and manual transcriptions of Then Swänska Argus by Olof von Dalin, Stockholm, 1732–1734.
     </p>
     <p>
-      The resource, automatically annotated with morphological and syntactic information, is also available in <a href="https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin">Korp</a> and can be downloaded <a href="http://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2">here</a>.
+      The resource, automatically annotated with morphological and syntactic information, is also available in <a href="https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsv-nysvenskdalin">Korp</a> and can be downloaded <a href="https://spraakbanken.gu.se/resurser/meningsmangder/fsv-nysvenskdalin.xml.bz2">here</a>.
       </p>
 annotation:
   swe: ''

@@ -8,7 +8,7 @@ size:
   tokens: 8977
   sentences: 1098
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-caafimaad-1994.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-caafimaad-1994.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

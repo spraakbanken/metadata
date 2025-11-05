@@ -12,7 +12,7 @@ size:
   tokens: 65746
   sentences: 7142
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-rd-utsk.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-rd-utsk.xml.bz2
     type: corpus
     format: XML
     description: ''

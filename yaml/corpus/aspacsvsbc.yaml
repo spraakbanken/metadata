@@ -20,12 +20,12 @@ size:
   sentences: 37212
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsbc-sv.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvsbc-sv.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the Swedish part of the corpus
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/aspacsvsbc-sbc.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvsbc-sbc.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the Serbian part of the corpus

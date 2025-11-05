@@ -15,7 +15,7 @@ size:
   sentences: 82206
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/gp2d.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/gp2d.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

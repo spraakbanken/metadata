@@ -12,7 +12,7 @@ size:
   sentences: 13784
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-radioswe2014.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-radioswe2014.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

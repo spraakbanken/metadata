@@ -15,7 +15,7 @@ size:
   sentences: 42514
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wikipedia-so.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/wikipedia-so.xml.bz2
     type: corpus
     format: XML
     description: ''

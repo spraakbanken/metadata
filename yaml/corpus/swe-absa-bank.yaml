@@ -15,12 +15,12 @@ size:
   sentences: 108132
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/swe-absa-bank.zip
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/swe-absa-bank.zip
     type: corpus
     format: XML
     description: ''
     license: CC BY 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/absabankimm-combined.zip
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/absabankimm-combined.zip
     type: corpus
     format: XML
     description: ''

@@ -14,12 +14,12 @@ language_codes:
   - eng
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/marb_data.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/marb_data.tar.bz2
     type: corpus
     format: CSV
     description: 'Dataset'
     license: MIT License
-  - url: https://spraakbanken.gu.se/lb/resurser/data/marb_code.tar.bz2
+  - url: https://spraakbanken.gu.se/resurser/data/marb_code.tar.bz2
     format: ''
     description: 'Code'
     license: MIT License

@@ -16,12 +16,12 @@ in_collections:
   - learner-language
   - l2-profiles
 downloads:
-  - url: "https://spraakbanken.gu.se/lb/resurser/data/l2lex-adj.xlsx"
+  - url: "https://spraakbanken.gu.se/resurser/data/l2lex-adj.xlsx"
     type: lexicon
     format: xlsx
     description: "Columns: CEFR, word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalDeclension (regular, irregular, etc), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)"
     license: CC BY 4.0
-  - url: "https://spraakbanken.gu.se/lb/resurser/data/l2lex-adj.csv"
+  - url: "https://spraakbanken.gu.se/resurser/data/l2lex-adj.csv"
     type: lexicon
     format: csv
     description: "Columns: CEFR, word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalDeclension (regular, irregular, etc), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)"

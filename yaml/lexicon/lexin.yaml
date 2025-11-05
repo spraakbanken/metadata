@@ -27,7 +27,7 @@ size:
   entries: 29111
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/LEXIN.zip
+  - url: https://spraakbanken.gu.se/resurser/data/LEXIN.zip
     type: lexicon
     format: zip
     description: ''

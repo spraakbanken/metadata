@@ -12,7 +12,7 @@ size:
   tokens: 344453
   sentences: 22123
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-gbg-namnder.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-gbg-namnder.xml.bz2
     type: corpus
     format: XML
     description: ''

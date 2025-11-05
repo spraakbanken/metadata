@@ -14,7 +14,7 @@ size:
   tokens: 333670
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/fsv-nysvenskkronikor.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/fsv-nysvenskkronikor.xml.bz2
     type: corpus
     format: XML
     description: ''

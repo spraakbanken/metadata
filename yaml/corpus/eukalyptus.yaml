@@ -16,19 +16,19 @@ size:
   tokens: 99913
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-1.0.0.zip
+  - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-1.0.0.zip
     format: 'zip'
     description: ''
     license: CC BY-SA 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.0.zip
+  - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-0.1.0.zip
     format: 'zip'
     description: 'beta'
     license: Mixed
-  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.1.1.zip
+  - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-0.1.1.zip
     format: 'zip'
     description: 'beta'
     license: Mixed
-  - url: https://spraakbanken.gu.se/lb/resurser/data/Eukalyptus-0.2.0.zip
+  - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-0.2.0.zip
     format: 'zip'
     description: 'beta'
     license: Mixed

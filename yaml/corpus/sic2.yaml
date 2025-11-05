@@ -17,7 +17,7 @@ size:
   sentences: 892
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sic2.xml.bz2
     type: corpus
     format: XML
     description: ''
@@ -27,7 +27,7 @@ downloads:
     format: CSV
     description: ''
     license: CC BY 4.0
-  - url: http://spraakbanken.gu.se/lb/resurser/meningsmangder/sic2.zip
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sic2.zip
     type: corpus
     format: XML
     description: ''

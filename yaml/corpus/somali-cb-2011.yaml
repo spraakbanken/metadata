@@ -8,7 +8,7 @@ size:
   tokens: 30124
   sentences: 1424
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-cb-2011.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-cb-2011.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

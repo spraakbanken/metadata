@@ -16,7 +16,7 @@ size:
 in_collections:
   - rd
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/rd-ip.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/rd-ip.xml.bz2
     type: corpus
     format: XML
     description: ''

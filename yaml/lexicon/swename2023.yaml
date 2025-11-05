@@ -14,7 +14,7 @@ language_codes:
   - swe
 in_collections: []
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
-  - url: 'https://spraakbanken.gu.se/lb/resurser/data/swename2023.zip'  # URL to a downloadable file
+  - url: 'https://spraakbanken.gu.se/resurser/data/swename2023.zip'  # URL to a downloadable file
     format: 'tsv' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0

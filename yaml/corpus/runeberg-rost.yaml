@@ -15,7 +15,7 @@ size:
   sentences: 128326
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/runeberg-rost.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/runeberg-rost.xml.bz2
     type: corpus
     format: XML
     description: ''

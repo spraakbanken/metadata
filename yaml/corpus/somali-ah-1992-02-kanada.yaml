@@ -8,7 +8,7 @@ size:
   tokens: 706
   sentences: 50
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-ah-1992-02-kanada.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-ah-1992-02-kanada.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

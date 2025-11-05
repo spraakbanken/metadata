@@ -19,7 +19,7 @@ size:
   speakers: 97500
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/wordreference.zip
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/wordreference.zip
     type: corpus
     format: XML
     description: ''

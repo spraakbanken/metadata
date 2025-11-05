@@ -16,7 +16,7 @@ size:
   entries: 28357
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data//mathir_words_v1.0.tgz
+  - url: https://spraakbanken.gu.se/resurser/data//mathir_words_v1.0.tgz
     type: lexicon
     format: tgz
     description: ''

@@ -16,7 +16,7 @@ size:
   tokens: 47924
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz
     type: corpus
     format: XML
     description: ''

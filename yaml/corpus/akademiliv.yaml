@@ -9,7 +9,7 @@ size:
   tokens: 2299155
   sentences: 126772
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/akademiliv.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/akademiliv.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

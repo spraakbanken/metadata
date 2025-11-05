@@ -12,7 +12,7 @@ size:
   tokens: 1659084
   sentences: 104082
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-gbg-budgetar.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-gbg-budgetar.xml.bz2
     type: corpus
     format: XML
     description: ''

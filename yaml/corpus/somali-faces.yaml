@@ -8,7 +8,7 @@ size:
   tokens: 51440
   sentences: 3057
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-faces.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-faces.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

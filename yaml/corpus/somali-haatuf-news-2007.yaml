@@ -8,7 +8,7 @@ size:
   tokens: 1758810
   sentences: 51713
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/somali-haatuf-news-2007.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-haatuf-news-2007.xml.bz2
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus

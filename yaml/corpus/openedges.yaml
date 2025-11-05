@@ -21,11 +21,11 @@ size:
   tokens: 19399149
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.01.zip
+  - url: https://spraakbanken.gu.se/resurser/data/OpenEDGeS_v1.01.zip
     format: zip
     description: ''
     license: CC BY-NC-SA 4.0
-  - url: https://spraakbanken.gu.se/lb/resurser/data/OpenEDGeS_v1.0.0.zip
+  - url: https://spraakbanken.gu.se/resurser/data/OpenEDGeS_v1.0.0.zip
     format: ''
     description: ''
     license: For license details of the previous versions, see the 'Read me.txt' file
