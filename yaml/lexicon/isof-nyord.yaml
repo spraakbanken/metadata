@@ -18,13 +18,15 @@ in_collections: []
 keywords: []
 creators: []
 other_references: []
+language_codes:
+  - swe
 name:
   swe: Nyord
   eng: Nyord
 short_description:
   swe: Nya ord och uttryck i svenskan från Isof
   eng: New words and expressions in Swedish from Isof
-created: '20251103'
-updated: '20251103'
+created: '2025-11-03'
+updated: '2025-11-03'
 type: lexicon
 doi: 10.23695/dqdn-zq31
