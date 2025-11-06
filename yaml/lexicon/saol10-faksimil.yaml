@@ -1,0 +1,31 @@
+size:
+  entries: 139604
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/saol10-faksimil.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=saol10-faksimil
+    license: CC-BY-4.0
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+unlisted: false
+in_collections: []
+keywords: []
+creators: []
+other_references: []
+language_codes:
+  - swe
+name:
+  swe: SAOL 10 - faksimil
+  eng: SAOL 10 - faksimil
+short_description:
+  swe: Ord i SAOL med länkar till faksimiler.
+  eng: Words i SAOL with links to facsimiles.
+created: '2025-11-06'
+updated: '2025-11-06'
+type: lexicon
