@@ -1,0 +1,31 @@
+size:
+  entries: 96143
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/so2009-ord.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=so2009-ord
+    license: CC-BY-4.0
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+unlisted: false
+in_collections: []
+keywords: []
+creators: []
+other_references: []
+language_codes:
+  - swe
+name:
+  swe: SO 2009 - ord
+  eng: SO 2009 - ord
+short_description:
+  swe: Ord i Svensk ordbok.
+  eng: Words in Svensk ordbok.
+created: '2025-11-06'
+updated: '2025-11-06'
+type: lexicon
