@@ -20,31 +20,31 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/absabank-imm_documentation_sheet.tsv
     format: tsv
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/D_annotation.tsv
     format: tsv
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/P_annotation.tsv
     format: tsv
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/datasplit.zip
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/documents.zip
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/annoteringsinstruktioner.pdf
     format: pdf
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/imm_absabank/imm_absabank.rb
     format: rb
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Aleksandrs Berdicevskis

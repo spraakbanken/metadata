@@ -20,15 +20,15 @@ downloads:
     type: lexicon
     format: xlsx
     description: "Columns: CEFR, Word (lemma),Llemgram, Sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalAdverbial (pattern for comparison: morphological, periphrastic, etc.), Regularity (type of comparison: regular, irregular, , regular with umlaut, etc.), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)"
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: "https://spraakbanken.gu.se/resurser/data/l2lex-adjadv.csv"
     type: lexicon
     format: csv
     description: "Columns: CEFR, Word (lemma),Llemgram, Sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), AdjectivalAdverbial (pattern for comparison: morphological, periphrastic, etc.), Regularity (type of comparison: regular, irregular, , regular with umlaut, etc.), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)"
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: "https://spraakbanken.gu.se/larka/svlp"
-    license: CC BY 4.0
+    license: CC-BY-4.0
     description: "Go to Lexical profile / Adjectival and Adverbial structure"
 creators: 
   - Lindström Tiedemann Therese

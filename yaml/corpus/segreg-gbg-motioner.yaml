@@ -16,14 +16,14 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_segreg-gbg-motioner.csv.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=segreg#?corpus=segreg-gbg-motioner
 contact_info:
   name: Markus Forsberg

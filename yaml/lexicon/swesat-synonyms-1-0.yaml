@@ -18,11 +18,11 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swesat/swesat-synonyms.txt
     format: txt
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swesat/swesat-synonyms_documentation_sheet.tsv
     format: tsv
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Yvonne Adesam

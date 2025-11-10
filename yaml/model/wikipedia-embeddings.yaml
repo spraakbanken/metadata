@@ -15,27 +15,27 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
     format: ''
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Simon Hengchen

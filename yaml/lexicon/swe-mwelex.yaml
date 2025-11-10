@@ -20,15 +20,15 @@ downloads:
     type: lexicon
     format: xlsx
     description: "Columns: Word (MWE in its dictionary form);	Lemgram (MWE + word class); Sense (acc to Saldo); POS	(word class acc. to SUC); SaldoPOS	(word class acc to Saldo taxonomy); Type1:Syntactic-contiguity (subgroups of MWEs);	Type2:Lexical-categories;	Type3: Verbal-subcategory;	Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)" # Additional info, if required
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: "https://spraakbanken.gu.se/resurser/data/swe-mwelex.csv"
     type: lexicon
     format: csv
     description: "Columns: Word (MWE in its dictionary form);	Lemgram (MWE + word class); 	Sense (acc to Saldo); POS	(word class acc. to SUC); SaldoPOS	(word class acc to Saldo taxonomy); Type1:Syntactic-contiguity (subgroups of MWEs);	Type2:Lexical-categories;	Type3: Verbal-subcategory;	Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)" # Additional info, if required
-    license: CC BY-NC-SA 4.0
+    license: CC-BY-NC-SA-4.0
 interfaces:
   - url: "https://spraakbanken.gu.se/larka/svlp"
-    license: CC BY 4.0
+    license: CC-BY-4.0
     description: "Go to Lexical profile / Multi Word Expressions"
 creators:
   - Lindström Tiedemann Therese

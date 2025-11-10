@@ -21,24 +21,24 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_sic2.csv.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/sic2.zip
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sic2/readme.txt
     format: txt
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=sic2
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators:
   - Östling, Robert
   - Sjons, Johan

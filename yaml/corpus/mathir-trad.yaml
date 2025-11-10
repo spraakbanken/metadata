@@ -18,7 +18,7 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/mathir_trees_v0.1.tgz
     format: tgz
     description: ''
-    license: CC BY-NC 4.0
+    license: CC-BY-NC-4.0
 interfaces: []
 contact_info:
   name: Gerlof Bouma

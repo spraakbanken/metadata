@@ -26,21 +26,24 @@ downloads:
     type: token frequencies
     format: CSV
     description: "size: tokens: 147842; sentences: 7807"
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELLV1-TARGET.txt.zip
     type: token frequencies
     format: CSV
     description: "size: tokens: 151851; sentences: 8137"
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: Application form (https://sunet.artologik.net/gu/swell)
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    license: LicenseRef-Other
+    license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
   - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-original
     description: "Application for access (https://sunet.artologik.net/gu/swell)"
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    license: LicenseRef-Other
+    license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
   - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-target
     description: "Application for access (https://sunet.artologik.net/gu/swell)"
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    license: LicenseRef-Other
+    license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 contact_info:
   name: Elena Volodina
   email: swell@svenska.gu.se

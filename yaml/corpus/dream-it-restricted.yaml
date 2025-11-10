@@ -11,9 +11,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_DREAM-IT-RESTRICTED.txt.zip
   type: token frequencies
   format: CSV
-  license: CC BY 4.0
+  license: CC-BY-4.0
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-it-restricted
-  license: CC BY 4.0
+  license: CC-BY-4.0
 updated: 2020-04-13
 doi: 10.23695/7a5w-vx96

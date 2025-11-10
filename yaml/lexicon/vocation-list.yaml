@@ -18,7 +18,7 @@ downloads:
     type: lexicon
     format: gz
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 other_references:
   - '{publication 209808}'

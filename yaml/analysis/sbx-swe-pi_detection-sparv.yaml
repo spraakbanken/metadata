@@ -21,7 +21,7 @@ task: PI detection
 analysis_unit: token
 models:
   - url: https://huggingface.co/collections/Turtilla/pi-detection-and-labeling-6822fbc8fbccfc2527c019ba
-license: MIT license
+license: MIT
 example: |-
   This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 

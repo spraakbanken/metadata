@@ -18,10 +18,10 @@ in_collections:
 downloads:
   - url: https://spraakbanken.gu.se/resurser/data/supersim-superlim.zip
     format: zip
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/supersim-superlim_documentation_sheet.txt
     format: txt
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Yvonne Adesam

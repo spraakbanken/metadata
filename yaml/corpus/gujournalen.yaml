@@ -17,14 +17,14 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=gujournalen
     scrambled: true
 contact_info:

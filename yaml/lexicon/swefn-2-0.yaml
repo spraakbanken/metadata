@@ -21,12 +21,12 @@ downloads:
     type: lexicon
     format: JSON
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/swefn-2-0.tsv.zip
     type: lexicon
     format: TSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Niklas Zechner

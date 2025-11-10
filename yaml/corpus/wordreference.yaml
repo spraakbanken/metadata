@@ -23,7 +23,7 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 creators:
   - Berdicevskis, Aleksandrs

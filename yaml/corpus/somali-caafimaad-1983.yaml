@@ -18,9 +18,9 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-caafimaad-1983
     scrambled: true
 contact_info:

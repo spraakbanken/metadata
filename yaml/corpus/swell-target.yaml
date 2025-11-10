@@ -29,11 +29,12 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SWELL-TARGET.txt.zip
   type: token frequencies
   format: CSV
-  license: CC BY 4.0
+  license: CC-BY-4.0
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
   description: 'Application for access (https://sunet.artologik.net/gu/swell)'
-  license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+  license: LicenseRef-Other
+  license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 other_references:
   - '[1] {publication 285609} (paper describing the corpus)'
   - '[2] {publication 311732} (correction annotation guidelines)'

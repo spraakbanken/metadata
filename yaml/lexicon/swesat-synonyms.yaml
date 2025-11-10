@@ -19,7 +19,7 @@ downloads:
     type: lexicon
     format: zip
     description: an archive with the dataset in JSONL format and the documentation sheet
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 creators:
   - Adesam, Yvonne

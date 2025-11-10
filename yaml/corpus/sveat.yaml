@@ -19,12 +19,12 @@ downloads:
     type: corpus
     format: CSV 
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/trec/Swedish_EAT_v1.0.tsv
     type: corpus
     format: TSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Markus Forsberg

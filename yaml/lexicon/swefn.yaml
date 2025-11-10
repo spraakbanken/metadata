@@ -24,15 +24,15 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/swefn-full.zip
     type: lexicon
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=swefn
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Dana Dannélls
   email: sb-info@svenska.gu.se

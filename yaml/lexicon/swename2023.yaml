@@ -17,11 +17,11 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
   - url: 'https://spraakbanken.gu.se/resurser/data/swename2023.zip'  # URL to a downloadable file
     format: 'tsv' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: 'https://spraakbanken.gu.se/karplabb/?resources=swename2023'
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators:
   - Zechner, Niklas
 contact_info:

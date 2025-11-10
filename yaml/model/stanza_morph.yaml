@@ -16,17 +16,17 @@ downloads:
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/morph_stanza_full2.zip
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Markus Forsberg

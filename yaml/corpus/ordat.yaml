@@ -20,18 +20,18 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ORDAT.txt.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=ordat
-    license: CC BY 4.0
+    license: CC-BY-4.0
     scrambled: true
   - url: https://spraakbanken.gu.se/ORDAT/
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

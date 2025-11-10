@@ -19,15 +19,15 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/kelly/Swedish-Kelly_M3_CEFR.xls
 
     format: xls
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=kelly
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators: 
 - Volodina Elena
 - Johansson Kokkinakis Sofie

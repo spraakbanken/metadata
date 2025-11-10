@@ -20,7 +20,7 @@ in_collections: []
 downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=soexempel
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Sköldberg Emma
   email: emma.skoldberg@svenska.gu.se

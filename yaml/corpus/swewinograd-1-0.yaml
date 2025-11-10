@@ -18,11 +18,11 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/swewinograd.jsonl.gz
 
     format: gz
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/swewinograd_documentation_sheet.txt
 
     format: txt
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Yvonne Adesam

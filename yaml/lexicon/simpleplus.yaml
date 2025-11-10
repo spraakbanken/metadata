@@ -20,22 +20,22 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_n.html
     format: html
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_v.html
     format: html
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     format: html
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=parolelexplus&lexicon=simpleplus
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

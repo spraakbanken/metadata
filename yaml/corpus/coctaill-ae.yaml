@@ -22,10 +22,10 @@ downloads:
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=coctaill-ae
-    license: CC BY 4.0
+    license: CC-BY-4.0
 other_references:
   - '{publication 206132}'
 creators: 

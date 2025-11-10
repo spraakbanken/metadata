@@ -42,7 +42,7 @@ example: |-
   <token sense="|korpus..1|korpus..2|korpus..3|korpus..4|korpus..5|">korpus</token>
   <token sense="|">.</token>
   ```
-license: MIT License
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -6,7 +6,7 @@ keywords:
 tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
-    license: Apache License 2.0
+    license: Apache-2.0
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
@@ -34,7 +34,7 @@ task: lemmatization
 models:
   - name: Stanzalem
     url: https://spraakbanken.gu.se/resurser/stanzalem
-    license: CC BY 4.0
+    license: CC-BY-4.0
 description:
   eng: |-
     In 2020, the Stanza tool was trained and tested on the SUC3 corpus in order to create a high-quality analysis.
@@ -63,7 +63,7 @@ example: |-
   <token baseform="korpus">korpus</token>
   <token baseform=".">.</token>
   ```
-license: MIT License
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

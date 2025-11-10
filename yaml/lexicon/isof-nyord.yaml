@@ -2,11 +2,11 @@ size:
   entries: 1529
 downloads:
 - url: https://spraakbanken.gu.se/resurser/data/isof-nyord.jsonl
-  license: CC BY 4.0
+  license: CC-BY-4.0
   format: jsonl
 interfaces:
 - url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
-  license: CC BY 4.0
+  license: CC-BY-4.0
 contact_info:
   name: Språkbanken Sam
   email: sb-sam@isof.se

@@ -13,10 +13,10 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-haatuf-news-2009
-    license: CC BY 4.0
+    license: CC-BY-4.0
     scrambled: true
 contact_info:
   name: Markus Forsberg

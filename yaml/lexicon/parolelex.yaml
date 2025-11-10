@@ -18,7 +18,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/PAROLE_usyn_descr.txt
     format: txt
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Markus Forsberg

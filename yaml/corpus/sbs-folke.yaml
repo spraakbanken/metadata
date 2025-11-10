@@ -19,13 +19,13 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/sbs-folke.xml.bz2
     type: corpus
     format: XML
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_sbs-folke.csv.zip
     type: token frequencies
     format: CSV
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=sbs-folke
 contact_info:
   name: Jacob Larsson

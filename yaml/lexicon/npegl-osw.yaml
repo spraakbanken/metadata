@@ -16,12 +16,12 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
   - url: 'https://spraakbanken.gu.se/resurser/data/npegl_old_swedish_r1.jsonl.bz2'  # URL to a downloadable file
     format: 'JSONL'  # The file format or standard
     description: ''  # Additional info, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
-    license: CC BY-NC 4.0
+    license: CC-BY-NC-4.0
 interfaces:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - url: 'https://spraakbanken.gu.se/karp/?mode=npegl_old_saxon'  # A link to the resource in an interface (e.g in Korp or Karp)
-    license: CC BY-NC 4.0
+    license: CC-BY-NC-4.0
   - url: 'https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-swe'  # A link to the resource in an interface (e.g in Korp or Karp)
-    license: CC BY-NC 4.0
+    license: CC-BY-NC-4.0
 contact_info:  # Contact info of the person who can answer questions about the resource
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

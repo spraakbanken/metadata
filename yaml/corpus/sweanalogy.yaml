@@ -16,7 +16,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swedish_analogy/1.1/sweanalogy.zip
     description: an archive with the dataset in JSONL and TSV formats and the documentation sheet
     format: zip
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 creators:
   - Adewumi, Tosin

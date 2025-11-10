@@ -21,7 +21,8 @@ language_codes:
 downloads: []
 interfaces:
  - url: Application form (https://sunet.artologik.net/gu/swell)
-   license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+   license: LicenseRef-Other
+   license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 creators: 
   - Elena Volodina
   - Ildikó Pilán

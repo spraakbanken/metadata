@@ -95,8 +95,8 @@ example: |-
   ```
 interfaces:
   - url: https://spraakbanken.gu.se/mink
-    license: CC BY 4.0
-license: MIT License
+    license: CC-BY-4.0
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

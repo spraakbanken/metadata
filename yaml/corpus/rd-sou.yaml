@@ -19,14 +19,14 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_rd-sou.csv.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=rd-sou
 contact_info:
   name: Markus Forsberg

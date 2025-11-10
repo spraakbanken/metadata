@@ -18,7 +18,7 @@ downloads:
     type: lexicon
     format: Prolog
     description: ''
-    license: GNU GPLv3 or later
+    license: GPL-3.0-or-later
 interfaces: []
 creators:
   - Rødven-Eide, Stian

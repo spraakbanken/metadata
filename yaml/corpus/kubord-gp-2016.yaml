@@ -20,9 +20,9 @@ downloads:
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubord#corpus=kubord-gp-2016
 contact_info:
   name: Markus Forsberg

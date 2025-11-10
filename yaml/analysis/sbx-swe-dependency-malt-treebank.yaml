@@ -61,7 +61,7 @@ example: |-
   <token dephead_ref="10" deprel="PA" ref="11">Nobelpriset</token>
   <token dephead_ref="4" deprel="IP" ref="12">.</token>
   ```
-license: MIT License
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

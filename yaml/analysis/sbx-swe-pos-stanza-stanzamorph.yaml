@@ -6,7 +6,7 @@ keywords:
 tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
-    license: Apache License 2.0
+    license: Apache-2.0
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken),
   [SIC2](https://spraakbanken.gu.se/resurser/sic2)'
 other_references:
@@ -68,8 +68,8 @@ example: |-
   ```
 interfaces:
   - url: https://spraakbanken.gu.se/mink
-    license: CC BY 4.0
-license: MIT License
+    license: CC-BY-4.0
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

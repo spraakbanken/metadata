@@ -21,7 +21,7 @@ keywords:
 tools:
   - name: transformers
     url: https://github.com/huggingface/transformers
-    license: Apache-2.0 license
+    license: Apache-2.0
 models:
   - name: KBLab/robust-swedish-sentiment-multiclass
     url: https://huggingface.co/KBLab/robust-swedish-sentiment-multiclass
@@ -29,7 +29,7 @@ models:
       KBLab presents a robust, multi-label sentiment classifier trained on Swedish texts.
       The model is robust in the sense that it is trained on multiple datasets of different
       text types and allows labeling of neutral as well positive and negative texts.
-    license: Apache-2.0 license
+    license: Apache-2.0
 other_references:
   - https://kb-labb.github.io/posts/2023-06-16-a-robust-multi-label-sentiment-classifier-for-swedish/
   - 'Repository: https://github.com/spraakbanken/sparv-sbx-sentiment-kb-sent'

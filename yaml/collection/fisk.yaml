@@ -72,7 +72,7 @@ language_codes:
 downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=fisk
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

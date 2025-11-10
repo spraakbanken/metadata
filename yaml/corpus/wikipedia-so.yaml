@@ -19,15 +19,15 @@ downloads:
     type: corpus
     format: XML
     scrambled: false
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SO.txt.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=wikipedia-so
-    license: CC BY 4.0
+    license: CC-BY-4.0
     scrambled: false
 contact_info:
   name: Markus Forsberg

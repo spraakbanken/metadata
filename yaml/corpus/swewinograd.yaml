@@ -16,7 +16,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swewinograd/2.0/swewinograd.zip
     description: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 creators:
   - Adesam, Yvonne

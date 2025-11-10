@@ -18,12 +18,12 @@ downloads:
 
     format: txt
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/syntag.html
 
     format: html
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Markus Forsberg

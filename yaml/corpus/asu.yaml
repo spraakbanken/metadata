@@ -19,9 +19,9 @@ downloads:
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=asu
 contact_info:
   name: Niclas Abrahamsson

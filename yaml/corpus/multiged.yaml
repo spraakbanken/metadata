@@ -21,11 +21,11 @@ downloads:
   - url: 'https://spraakbanken.gu.se/resurser/data/multiged-2023.tar.bz2'
     type: corpus
     format: tsv
-    license: varies
+    license: LicenseRef-Other
 interfaces:
   - url: https://github.com/spraakbanken/multiged-2023/
     description: "The corpus on Github"
-    license: varies
+    license: LicenseRef-Other
 creators:
   - Elena Volodina
   - Chris Bryant

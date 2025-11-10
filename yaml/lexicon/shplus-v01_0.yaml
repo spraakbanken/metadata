@@ -18,7 +18,7 @@ downloads: # Downloadable files related to the resource
     type: 'lexicon' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
     format: 'Text files with tab-separated values in tbz2 archive' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators:  # List of people that created the resource (format: lastname, firstname)
   - "Borin, Lars"
   - "Adesam, Yvonne"

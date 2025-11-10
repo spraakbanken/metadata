@@ -20,20 +20,20 @@ downloads:
   #   type: corpus
   #   format: XML
   #   info: this file contains the corpus with updated annotations
-  #   license: CC BY 4.0
+  #   license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
     type: corpus
     format: XML
     description: this file contains the corpus with updated annotations
     # info: this file contains an older version of the corpus which has the same format
     #   as the remaining Kubhist corpora
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist-dalpilen-1910.csv.zip
     type: token frequencies
     format: CSV
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist-dalpilen-1910
 contact_info:
   name: Markus Forsberg

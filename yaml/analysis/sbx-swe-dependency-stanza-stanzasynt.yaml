@@ -6,7 +6,7 @@ keywords:
 tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
-    license: Apache License 2.0
+    license: Apache-2.0
 trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
@@ -38,7 +38,7 @@ task: dependency parsing
 models:
   - name: Stanzasynt
     url: https://spraakbanken.gu.se/resurser/stanzasynt
-    license: CC BY 4.0
+    license: CC-BY-4.0
 description:
   eng: |-
     In 2020, the Stanza tool was trained and tested on TalbankenSBX (following MambaDep-style annotation) in order to
@@ -69,8 +69,8 @@ example: |-
   ```
 interfaces:
   - url: https://spraakbanken.gu.se/mink
-    license: CC BY 4.0
-license: MIT License
+    license: CC-BY-4.0
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

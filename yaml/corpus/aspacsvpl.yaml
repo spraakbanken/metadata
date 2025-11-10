@@ -21,26 +21,26 @@ downloads:
     format: XML
     description: this file contains the Swedish part of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvpl-pl.xml.bz2
     type: corpus
     format: XML
     description: this file contains the Polish part of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVPL-SV.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the Swedish part of the corpus
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVPL-PL.txt.zip
     type: token frequencies
     format: CSV
     description: this file contains statistics on the Polish part of the corpus
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvpl-sv
-    license: CC BY 4.0
+    license: CC-BY-4.0
     scrambled: true
 contact_info:
   name: Markus Forsberg

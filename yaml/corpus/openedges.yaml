@@ -24,12 +24,12 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/OpenEDGeS_v1.01.zip
     format: zip
     description: ''
-    license: CC BY-NC-SA 4.0
+    license: CC-BY-NC-SA-4.0
   - url: https://spraakbanken.gu.se/resurser/data/OpenEDGeS_v1.0.0.zip
     format: ''
     description: ''
-    license: For license details of the previous versions, see the 'Read me.txt' file
-      in the download.
+    license: LicenseRef-Other
+    license_other: For license details of the previous versions, see the 'Read me.txt' file in the download.
 interfaces: []
 creators:
   - Bouma, Gerlof

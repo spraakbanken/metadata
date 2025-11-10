@@ -18,15 +18,15 @@ downloads:
     type: corpus
     format: CSV
     description: 'Dataset'
-    license: MIT License
+    license: MIT
   - url: https://spraakbanken.gu.se/resurser/data/marb_code.tar.bz2
     format: ''
     description: 'Code'
-    license: MIT License
+    license: MIT
 interfaces:
   - url: https://github.com/TomBladsjo/MARB
     description: "The dataset and all related code can be downloaded from this GitHub repo."
-    license: MIT License
+    license: MIT
 creators:
   - Södahl Bladsjö, Tom
   - Muñoz Sánchez, Ricardo

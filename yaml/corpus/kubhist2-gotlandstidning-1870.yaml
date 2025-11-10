@@ -20,15 +20,15 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-gotlandstidning-1870.csv.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-gotlandstidning-1870
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

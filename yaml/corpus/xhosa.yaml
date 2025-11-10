@@ -14,9 +14,9 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
-  - license: CC BY 4.0
+  - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=xhosa#?corpus=xhosa
 contact_info:
   name: Markus Forsberg

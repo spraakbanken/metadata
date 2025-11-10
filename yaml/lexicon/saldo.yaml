@@ -19,10 +19,10 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?mode=saldom&lexicon=saldo
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators:
   - Borin, Lars
   - Lönngren, Lennart

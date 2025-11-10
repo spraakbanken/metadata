@@ -4,7 +4,7 @@ language_codes:
 tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
-    license: Apache License 2.0
+    license: Apache-2.0
 keywords:
   - stanza
 other_references:
@@ -76,7 +76,7 @@ example: |-
   </ne>
   <token>.</token>
   ```
-license: MIT License
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

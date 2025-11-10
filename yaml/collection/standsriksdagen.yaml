@@ -11,7 +11,7 @@ language_codes:
   - swe
 interfaces:
   - url: 'https://spraakbanken.gu.se/korp/?mode=all_hist#?cqp=%5B%5D&corpus=standsriksdagen-riksdagsakter,standsriksdagen-adelsstandet,standsriksdagen-riksdagsbeslut,standsriksdagen-bihang,standsriksdagen-bondestandet,standsriksdagen-borgarstandet,standsriksdagen-prastestandet'
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

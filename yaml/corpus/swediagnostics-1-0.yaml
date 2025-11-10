@@ -20,7 +20,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
     format: csv
     description: ''
-    license: CC BY 1.0
+    license: CC-BY-1.0
 interfaces: []
 contact_info:
   name: Morger Felix

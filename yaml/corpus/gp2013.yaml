@@ -20,15 +20,15 @@ downloads:
     format: XML
     description: this file contains a scrambled version of the corpus
     scrambled: true
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GP2013.txt.zip
     type: token frequencies
     format: CSV
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=gp2013
-    license: CC BY 4.0
+    license: CC-BY-4.0
     scrambled: true
 contact_info:
   name: Markus Forsberg

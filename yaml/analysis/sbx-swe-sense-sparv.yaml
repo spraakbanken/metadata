@@ -17,7 +17,7 @@ other_references:
 tools:
   - name: Sparv wsd
     url: https://github.com/spraakbanken/sparv-wsd
-    license: MIT License
+    license: MIT
 models:
   - name: ALL_512_128_w10_A2_140403_ctx1.bin
     url: https://github.com/spraakbanken/sparv-wsd/blob/master/models/scouse/ALL_512_128_w10_A2_140403_ctx1.bin
@@ -70,8 +70,8 @@ example: |-
   ```
 interfaces:
   - url: https://spraakbanken.gu.se/mink
-    license: CC BY 4.0
-license: MIT License
+    license: CC-BY-4.0
+license: MIT
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

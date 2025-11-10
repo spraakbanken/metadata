@@ -14,7 +14,7 @@ other_references:
 created: 2025-10-23
 updated: 2025-10-23
 type: utility
-license: MIT license
+license: MIT
 example: |
   This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 

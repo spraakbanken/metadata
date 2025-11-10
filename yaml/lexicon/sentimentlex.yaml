@@ -18,12 +18,12 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/sentimentlex/sentimentlex.csv
     type: lexicon
     format: LMF
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Jacobo Rouces

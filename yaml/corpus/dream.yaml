@@ -19,10 +19,10 @@ downloads:
     type: corpus
     format: XML
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=dream
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Shafqat Virk
   email: sb-info@svenska.gu.se

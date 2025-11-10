@@ -19,27 +19,27 @@ downloads:
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_README.txt
 
     format: txt
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_documentation.zip
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_datasplit.zip
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/talbanken/TalbankenSTB_original_parts.zip
 
     format: zip
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces: []
 contact_info:
   name: Markus Forsberg

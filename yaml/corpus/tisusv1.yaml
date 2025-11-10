@@ -10,9 +10,9 @@ downloads:
 - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_TISUSV1.txt.zip
   type: token frequencies
   format: CSV
-  license: CC BY 4.0
+  license: CC-BY-4.0
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=tisusv1
-  license: CC BY 4.0
+  license: CC-BY-4.0
 updated: 2021-06-24
 doi: 10.23695/73js-hc93

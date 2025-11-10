@@ -18,10 +18,10 @@ downloads:
     type: lexicon
     format: Prolog
     description: ''
-    license: GNU GPLv3 or later
+    license: GPL-3.0-or-later
 interfaces:
   - url: 'https://spraakbanken.gu.se/poligraph/'
-    license: CC BY 4.0
+    license: CC-BY-4.0
 creators:
   - Rødven-Eide, Stian
 contact_info:

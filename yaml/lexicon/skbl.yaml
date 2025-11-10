@@ -19,12 +19,12 @@ downloads:
     type: lexicon
     format: json
     description: ''
-    license: CC BY 4.0
+    license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp-v6/#?mode=skbl
-    license: CC BY 4.0
+    license: CC-BY-4.0
   - url: https://skbl.se/
-    license: CC BY 4.0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

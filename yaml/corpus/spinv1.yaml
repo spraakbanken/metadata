@@ -19,7 +19,8 @@ downloads: []
 interfaces:
   - description: Application form (https://sunet.artologik.net/gu/swell)
     url: https://spraakbanken.gu.se/korp/#?corpus=tisus
-    license: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+    license: LicenseRef-Other
+    license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
   - url: https://spraakbanken.gu.se/korp/#?cqp=%5B%5D&corpus=spinv1
 standard_reference: '{publication 248141}'
 creators: 
