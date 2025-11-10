@@ -11,7 +11,7 @@ type: model # Type of resource
 unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
 language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
-languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field 'language_codes' and don't include this field.
+languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field "language_codes" and don't include this field.
   - code: ''  # Optional language code using some other standard than ISO 639-3
     name:
       swe: ''  # Language name (in Swedish)
@@ -23,10 +23,14 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     format: '' # The file format or standard (e.g. XML)
     description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC BY 4.0
+    scrambled: false  # Set to "true" if the file contains a scrambled version of the resource
+    scramble_level: '' # If the file contains a scrambled version of the resource, specify the level of scrambling (e.g., "sentence", "paragraph")
 interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     description: '' # Additional description, if required
     license: CC BY 4.0 # License for the data in the interface
+    scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource
+    scramble_level: '' # If the resource in the interface is a scrambled version of the original resource, specify the level of scrambling (e.g., "sentence", "paragraph")
 creators: [] # List of people that created the resource (format: lastname, firstname)
 contact_info: # Contact info of the person who can answer questions about the resource
   name: ''
