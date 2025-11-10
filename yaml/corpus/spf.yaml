@@ -21,6 +21,7 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SPF.txt.zip
     type: token frequencies
@@ -30,6 +31,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=spf
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

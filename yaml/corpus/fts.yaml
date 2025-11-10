@@ -20,10 +20,12 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=faroe#?corpus=fts
     license: CC BY 4.0
+    scrambled: true
 creators:
   - Hansen, Kirsti
 contact_info:

@@ -19,6 +19,7 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_GP2004.txt.zip
     type: token frequencies
@@ -28,6 +29,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=gp2004
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

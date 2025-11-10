@@ -20,6 +20,7 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_svt-2020.csv.zip
     type: token frequencies
@@ -29,6 +30,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=svt-2020
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

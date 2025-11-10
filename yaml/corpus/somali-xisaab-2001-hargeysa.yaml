@@ -12,10 +12,12 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=somali-xisaab-2001-hargeysa
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

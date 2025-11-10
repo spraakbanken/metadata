@@ -19,12 +19,14 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvmk-sv.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Swedish part of the corpus
+    description: this file contains the Swedish part of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvmk-mk.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Macedonian part of the corpus
+    description: this file contains the Macedonian part of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVMK-SV.txt.zip
     type: token frequencies
@@ -39,6 +41,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvmk-sv
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

@@ -18,7 +18,7 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/wikipedia-sv.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
+    scrambled: false
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_wikipedia-sv.csv.zip
     type: token frequencies
@@ -28,6 +28,7 @@ downloads:
 interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=wikipedia-sv
+    scrambled: false
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

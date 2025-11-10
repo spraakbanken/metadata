@@ -16,6 +16,7 @@ downloads:
     type: corpus
     format: XML
     description: this file contains a scrambled version of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv.zip
     type: token frequencies
@@ -25,6 +26,7 @@ downloads:
 interfaces:
   - license: CC BY 4.0
     url: https://spraakbanken.gu.se/korp/#?corpus=gujournalen
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

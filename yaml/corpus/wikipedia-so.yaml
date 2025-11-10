@@ -18,7 +18,7 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/wikipedia-so.xml.bz2
     type: corpus
     format: XML
-    description: ''
+    scrambled: false
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_WIKIPEDIA-SO.txt.zip
     type: token frequencies
@@ -28,6 +28,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali#?corpus=wikipedia-so
     license: CC BY 4.0
+    scrambled: false
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

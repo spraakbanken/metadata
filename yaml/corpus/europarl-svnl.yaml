@@ -19,12 +19,12 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/europarl-sv.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Swedish part of the corpus
+    description: this file contains the Swedish part of the corpus
     license: CC BY 4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/europarl-nl.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Dutch part of the corpus
+    description: this file contains the Dutch part of the corpus
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_EUROPARL-SV.txt.zip
     type: token frequencies

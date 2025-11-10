@@ -19,12 +19,14 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvsl-sv.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Swedish part of the corpus
+    description: this file contains the Swedish part of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvsl-sl.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the Slovene part of the corpus
+    description: this file contains the Slovene part of the corpus
+    scrambled: true
     license: CC BY 4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVSL-SV.txt.zip
     type: token frequencies
@@ -39,6 +41,7 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvsl-sv
     license: CC BY 4.0
+    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
