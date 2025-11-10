@@ -21,14 +21,16 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
   - url: ''  # URL to a downloadable file
     type: '' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
     format: '' # The file format or standard (e.g. XML)
-    description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
-    license: CC BY 4.0
-    scrambled: false  # Set to "true" if the file contains a scrambled version of the resource
+    description: '' # Additional description, if required. Only plain text.
+    license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
+    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
+    scrambled: false # Set to "true" if the file contains a scrambled version of the resource
     scramble_level: '' # If the file contains a scrambled version of the resource, specify the level of scrambling (e.g., "sentence", "paragraph")
 interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     description: '' # Additional description, if required
-    license: CC BY 4.0 # License for the data in the interface
+    license: CC-BY-4.0 # License for the data in the interface. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
+    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
     scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource
     scramble_level: '' # If the resource in the interface is a scrambled version of the original resource, specify the level of scrambling (e.g., "sentence", "paragraph")
 creators: [] # List of people that created the resource (format: lastname, firstname)
@@ -55,15 +57,18 @@ tools: # Information about the external tools that produce the analysis (if appl
   - name: ''  # Name of the tool
     url: '' # URL to the tool
     description: '' # Description of the tool
-    license: '' # License for the tool
+    license: '' # License for the tool. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
+    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
 task: '' # Analysis/utility task
 models: # Information about the models used for the analysis
   - name: ''  # Name of the model
     url: '' # URL to the model
     description: '' # Description of the model
-    license: '' # License for the model
+    license: '' # License for the model. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
+    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
 example: '' # Example of how to use the analysis and what the output looks like
 trained_on: '' # The training data used
 tagset: '' # The tagset used by the analysis
 evaluation_results: '' # Evaluation results
-license: '' # License for code (e.g. the Sparv plugin)
+license: '' # License for the code (e.g. the Sparv plugin). Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
+license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".

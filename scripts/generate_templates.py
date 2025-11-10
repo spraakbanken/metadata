@@ -49,6 +49,23 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
         for key, value in properties.items():
             if key in HIDDEN_KEYS:
                 continue
+            if "allOf" in value:
+                # Merge allOf schemas
+                merged_value = {}
+                for subschema in value["allOf"]:
+                    merged_value.update(subschema)
+                value = merged_value
+            if "$ref" in value:
+                # Resolve $ref
+                ref_path = value["$ref"].removeprefix("#/").split("/")
+                ref_value = schema
+                for part in ref_path:
+                    ref_value = ref_value.get(part, {})
+                value.pop("$ref")
+                value.update(ref_value)
+                if not value:
+                    print(f"Warning: Could not resolve $ref for key '{key}'")
+                    continue
             # Set default values based on type
             if "default" in value:
                 output[key] = value["default"]
