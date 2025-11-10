@@ -22,7 +22,7 @@ other_references:
 tools:
   - name: HFST-SweNER
     url: https://www.kielipankki.fi/download/HFST-SweNER/
-    license: CC-BY-1.0
+    license: CC-BY-4.0
 tagset: '[Named entity tags from hfst-SweNER](https://svn.spraakdata.gu.se/sb-arkiv/pub/swener-tags.html)'
 evaluation_results: f-score between 91.33% to 27.48%, depending on the named entity
   category
