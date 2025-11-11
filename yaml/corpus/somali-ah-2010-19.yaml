@@ -15,7 +15,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-ah-2010-19.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
 interfaces:

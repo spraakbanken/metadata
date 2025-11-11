@@ -18,7 +18,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/lt2003.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LT2003.txt.zip

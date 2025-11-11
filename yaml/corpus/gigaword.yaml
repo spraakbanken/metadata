@@ -20,43 +20,36 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-1950-59.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-1960-69.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-1970-79.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-1980-89.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-1990-99.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-2000-09.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gigaword-2010-15.tar
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
 interfaces: []

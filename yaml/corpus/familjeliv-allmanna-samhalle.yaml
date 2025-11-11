@@ -20,7 +20,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/familjeliv-allmanna-samhalle.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_familjeliv-allmanna-samhalle.csv.zip

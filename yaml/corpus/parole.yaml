@@ -18,7 +18,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/parole.xml.bz2
     type: corpus
     format: XML
-    description: this file contains a scrambled version of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/parole.zip
