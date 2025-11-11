@@ -1,4 +1,4 @@
-compound analysis: sammamsättningsanalys
+compound analysis: sammansättningsanalys
 dependency parsing: dependensparsning
 export: export
 geotagging: geotaggning
@@ -15,6 +15,6 @@ readability measures: läsbarhetsvärden
 sense disambiguation: betydelsedisambiguering
 sentence segmentation: meningssegmentering
 sentiment analysis: sentimentanalys
-tokenization: tokensiering
+tokenization: tokenisering
 word-prediction: ordförutsägelse
 PI detection: personuppgiftsigenkänning
