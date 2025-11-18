@@ -12,7 +12,7 @@ size:
   tokens: 60191
   sentences: 3738
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-media-vartgoteborg.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-media-vartgoteborg.xml.bz2
     type: corpus
     format: XML
     description: ''

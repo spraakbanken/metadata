@@ -12,7 +12,7 @@ size:
   tokens: 223857
   sentences: 13776
 downloads:
-  - url: https://spraakbanken.gu.se/lb/resurser/meningsmangder/segreg-gbg-yttranden.xml.bz2
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-gbg-yttranden.xml.bz2
     type: corpus
     format: XML
     description: ''
