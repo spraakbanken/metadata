@@ -48,10 +48,10 @@ keywords:
   - language learning
   - essays
 caveats: 
-  swe: 
+  swe: >
     - Lemmana, ordklasserna och dependensrelationerna är systematiskt manuellt validerade, medan de morfologiska analyserna kontrollerades endast för token som är markerade som inlärarfel i källkorpuset och/eller vars automatiska lemmatisering, ordklasstaggning och/eller dependensannotering visade sig vara felaktiga.
     - Den här resursen innehåller bara en del av de inlärarmetadata som finns tillgängliga för SweLL-gold. För att få tillgång till en version av trädbanken med all metadata, [ansök om tillgång till SweLL-gold](https://spraakbanken.gu.se/en/resources/Application%20form%20(https://sunet.artologik.net/gu/swell).
-  eng: 
+  eng: >
     - Lemmas, POS tags and dependencies are manually validated systematically. Morphological features, on the other hand, were only checked for tokens marked as learner errors in the source corpus and/or whose automatic lemmatization, POS tagging and/or dependency annotation were found to be incorrect.
     - This release only contains part of the learner metadata available for SweLL-gold. To obtain full-metadata version of the treebank, [apply for access to SweLL-gold](https://spraakbanken.gu.se/en/resources/Application%20form%20(https://sunet.artologik.net/gu/swell). 
 standard_reference: ''
