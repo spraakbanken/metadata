@@ -68,7 +68,7 @@ size:
   sentences: 510
 annotation:
   swe: 
-    Utöver de annoteringar som finns tillgängliga i källkorpuset (pseudonymisering, felklassificering och normalisering) är varje token lemmatiserad, UPOS-taggad och dependensannoterad enligt Universal Dependencies-standarden.
+    Utöver de annoteringar som finns tillgängliga i källkorpuset (pseudonymisering, felklassificering och normalisering) är varje token lemmatiserad, UPOS-taggad och dependensannoterad enligt Universal Dependencies-standarden. Annotatörerna är själva andraspråkstalare.
   eng: 
-    On top of the annotations available in the source corpus (pseudonymization, error tagging and normalization), each token is lemmatized, UPOS-tagged and dependency annotated following the Universal Dependencies standard.
+    On top of the annotations available in the source corpus (pseudonymization, error tagging and normalization), each token is lemmatized, UPOS-tagged and dependency annotated following the Universal Dependencies standard. The annotators are themselves speakers of Swedish as a second language.
 trainingdata: false
