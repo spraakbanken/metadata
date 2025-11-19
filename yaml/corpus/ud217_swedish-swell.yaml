@@ -22,13 +22,13 @@ downloads:
   - url: 'https://spraakbanken.gu.se/resurser/data/ud217_swedish-swell.zip'  # URL to a downloadable file
     type: 'corpus'
     format: 'CoNLL-U'
-    license: 'CC BY-SA 4.0'
+    license: 'CC-BY-SA-4.0'
     scrambled: true
     scramble_level: 'sentence'
 interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
   - url: 'https://universal.grew.fr/?corpus=UD_Swedish-SweLL@2.17'
     description: 'Grew-match'
-    license: 'CC BY-SA 4.0'
+    license: 'CC-BY-SA-4.0'
     scrambled: true
     scramble_level: 'sentence'
 creators: 
@@ -47,16 +47,16 @@ keywords:
   - second language (L2)
   - language learning
   - essays
-caveats: 
-  swe: 
+caveats:
+  swe: |-
     - Lemmana, ordklasserna och dependensrelationerna är systematiskt manuellt validerade, medan de morfologiska analyserna kontrollerades endast för token som är markerade som inlärarfel i källkorpuset och/eller vars automatiska lemmatisering, ordklasstaggning och/eller dependensannotering visade sig vara felaktiga.
     - Den här resursen innehåller bara en del av de inlärarmetadata som finns tillgängliga för SweLL-gold. För att få tillgång till en version av trädbanken med all metadata, [ansök om tillgång till SweLL-gold](https://spraakbanken.gu.se/en/resources/Application%20form%20(https://sunet.artologik.net/gu/swell).
-  eng: 
+  eng: |-
     - Lemmas, POS tags and dependencies are manually validated systematically. Morphological features, on the other hand, were only checked for tokens marked as learner errors in the source corpus and/or whose automatic lemmatization, POS tagging and/or dependency annotation were found to be incorrect.
     - This release only contains part of the learner metadata available for SweLL-gold. To obtain full-metadata version of the treebank, [apply for access to SweLL-gold](https://spraakbanken.gu.se/en/resources/Application%20form%20(https://sunet.artologik.net/gu/swell). 
 standard_reference: ''
 other_references: 
-  - [Guidelines for the annotation of interlanguage phenomena in UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/not-to-release/guidelines.md)
+  - "[Guidelines for the annotation of interlanguage phenomena in UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/not-to-release/guidelines.md)"
 intended_uses:
   swe: '(Tvärspråkliga) andraspråksinlärningsstudier, evaluering av dependensparsrar.'
   eng: '(Cross-lingual) SLA studies, dependency parser evaluation.'
