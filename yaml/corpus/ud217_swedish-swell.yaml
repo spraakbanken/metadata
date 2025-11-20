@@ -72,3 +72,4 @@ annotation:
   eng: 
     On top of the annotations available in the source corpus (pseudonymization, error tagging and normalization), each token is lemmatized, UPOS-tagged and dependency annotated following the Universal Dependencies standard. The annotators are themselves speakers of Swedish as a second language.
 trainingdata: false
+doi: 10.23695/fpnc-1v66
