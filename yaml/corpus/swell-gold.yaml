@@ -33,7 +33,7 @@ downloads:
     description: "size: tokens: 151851; sentences: 8137"
     license: CC-BY-4.0
 interfaces:
-  - url: Application form (https://sunet.artologik.net/gu/swell)
+  - url: https://sunet.artologik.net/gu/swell
     license: LicenseRef-Other
     license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
   - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swellv1-original
