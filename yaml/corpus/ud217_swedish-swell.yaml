@@ -3,12 +3,12 @@ name:
   eng: 'UD2.17_Swedish-SweLL'
 description: 
   swe: 
-    UD_Swedish-SweLL är en parallell Universal Dependencies-trädbank baserad på [SweLL](https://spraakbanken.gu.se/resources/swell) (Swedish Learner Language-korpuset). Den första versionen, som släpps i samband med UD 2.17, består av 510 meningar parade med sina korrigerade versioner. Meningarna är slumpmässigt utvalda från [SweLL-gold](https://spraakbanken.gu.se/resurser/swell-gold), en samling uppsatser skrivna av vuxna inlärare av svenska som andraspråk. För mer information om trädbanken, se [den officiella README-filen](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
+    UD_Swedish-SweLL är en parallell Universal Dependencies-trädbank baserad på [SweLL](https://spraakbanken.gu.se/resources/swell) (Swedish Learner Language-korpusen). Den första versionen, som släpps i samband med UD 2.17, består av 510 meningar parade med sina korrigerade versioner. Meningarna är slumpmässigt utvalda från [SweLL-gold](https://spraakbanken.gu.se/resurser/swell-gold), en samling uppsatser skrivna av vuxna inlärare av svenska som andraspråk. För mer information om trädbanken, se [den officiella README-filen](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
   eng: 
     UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on [SweLL](https://spraakbanken.gu.se/resurser/swell), the Swedish Learner Language corpus. Its first version, released as part of UD 2.17, consists of 510 randomly selected sentence-correction pairs from [SweLL-gold](https://spraakbanken.gu.se/en/resources/swell-gold), a corpus of essays written by adult learners of Swedish as a second language (L2). For more information about the treebank, see [the official README file](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md). 
 short_description:
   swe: 
-    En parallell UD-trädbank baserad på SweLL (Swedish Learner Language-korpuset).
+    En parallell UD-trädbank baserad på SweLL (Swedish Learner Language-korpusen).
   eng: 
     A parallel UD treebank based on SweLL, the Swedish Learner Language corpus.
 type: corpus
@@ -49,7 +49,7 @@ keywords:
   - essays
 caveats: 
   swe: |-
-    - Lemmana, ordklasserna och dependensrelationerna är systematiskt manuellt validerade, medan de morfologiska analyserna kontrollerades endast för token som är markerade som inlärarfel i källkorpuset och/eller vars automatiska lemmatisering, ordklasstaggning och/eller dependensannotering visade sig vara felaktiga.
+    - Lemmana, ordklasserna och dependensrelationerna är systematiskt manuellt validerade, medan de morfologiska analyserna kontrollerades endast för token som är markerade som inlärarfel i källkorpusen och/eller vars automatiska lemmatisering, ordklasstaggning och/eller dependensannotering visade sig vara felaktiga.
     - Den här resursen innehåller bara en del av de inlärarmetadata som finns tillgängliga för SweLL-gold. För att få tillgång till en version av trädbanken med all metadata, [ansök om tillgång till SweLL-gold](https://sunet.artologik.net/gu/swell).
   eng: |-
     - Lemmas, POS tags and dependencies are manually validated systematically. Morphological features, on the other hand, were only checked for tokens marked as learner errors in the source corpus and/or whose automatic lemmatization, POS tagging and/or dependency annotation were found to be incorrect.
@@ -70,7 +70,7 @@ size:
   sentences: 510
 annotation:
   swe: 
-    Utöver de annoteringar som finns tillgängliga i källkorpuset (pseudonymisering, felklassificering och normalisering) är varje token lemmatiserad, UPOS-taggad och dependensannoterad enligt Universal Dependencies-standarden. Annotatörerna är själva andraspråkstalare.
+    Utöver de annoteringar som finns tillgängliga i källkorpusen (pseudonymisering, felklassificering och normalisering) är varje token lemmatiserad, UPOS-taggad och dependensannoterad enligt Universal Dependencies-standarden. Annotatörerna är själva andraspråkstalare.
   eng: 
     On top of the annotations available in the source corpus (pseudonymization, error tagging and normalization), each token is lemmatized, UPOS-tagged and dependency annotated following the Universal Dependencies standard. The annotators are themselves speakers of Swedish as a second language.
 trainingdata: false
