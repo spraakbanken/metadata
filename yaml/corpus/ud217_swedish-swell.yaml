@@ -56,7 +56,9 @@ caveats:
     - This release only contains part of the learner metadata available for SweLL-gold. To obtain full-metadata version of the treebank, [apply for access to SweLL-gold](https://sunet.artologik.net/gu/swell). 
 standard_reference: ''
 other_references: 
+  - "{publication 355697}"
   - "[Guidelines for the annotation of interlanguage phenomena in UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/not-to-release/guidelines.md)"
+  - "{publication 352761}"
 intended_uses:
   swe: '(Tvärspråkliga) andraspråksinlärningsstudier, evaluering av dependensparsrar.'
   eng: '(Cross-lingual) SLA studies, dependency parser evaluation.'
