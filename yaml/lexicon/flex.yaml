@@ -1,0 +1,55 @@
+name:
+  swe: 'Flex'
+  eng: 'Flex'
+description:
+  swe: 'Vilka är svenskans vanligaste ord? Det är kanske den vanligaste frågan som kommer till Språkbanken. Men den har inget självklart svar – vad som är det vanligaste ordet beror på sammanhanget! Det vanligaste ordet "totalt" är också omöjligt att säga, eftersom vi inte har en fullständig förteckning över all text som skrivs. I många fall kan det också vara användbart att se skillnader i hur ord används i olika sammanhang. Därför har vi skapat Flex, ett frekvenslexikon som bygger på inte bara en utan tre olika textmängder ur Språkbankens samlingar: romaner, tidningar och webbforum. Frekvenserna anges i förekomster per miljon ord.<p>Datan baseras på Bonniersromaner 1 och 2, Nordstedtsromaner, Kubord 1 och Flashback. Bara "ord" som består av bokstäver, siffror och bindestreck har tagits med. För Flashback och Kubord har bara ord som förekommer minst fem gånger tagits med.'
+  eng: 'Which are the most frequent words in Swedish? This is one of the most common questions sent to Språkbanken. But what is the most common word depends on context! For this reason, we have created Flex, a frequency lexicon which lists the frequencies in three different types of text: novels, newspapers and web forums. The frequency is given in occurrences per million words.'
+short_description:
+  swe: 'Frekvenslexikonet Flex listar för varje svenskt ord frekvensen (i antal förekomster per miljon ord) i tre olika texttyper: romaner, tidningar och webbforum.'
+  eng: 'The Swedish frequency lexicon Flex lists for each word the frequency (per million words) in three text types: novels, newspapers and web forums.'
+type: lexicon
+unlisted: false
+successors: []
+language_codes:
+  - swe
+in_collections: []
+downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
+  - url: 'https://spraakbanken.gu.se/resurser/data/flex.json.zip'
+    format: 'JSON' # The file format or standard (e.g. XML)
+    description: 'JSON file as used by Karp.'
+    license: CC-BY-4.0
+  - url: 'https://spraakbanken.gu.se/resurser/data/flex.csv.zip'
+    format: 'CSV' # The file format or standard (e.g. XML)
+    description: 'Table file with words, novel freq, newspaper freq, forum freq.'
+    license: CC-BY-4.0
+interfaces:
+  - url: 'https://spraakbanken.gu.se/karplabb/?resources=flex'
+    description: ''
+    license: CC-BY-4.0
+creators:
+  - Zechner, Niklas
+contact_info:
+  name: Niklas Zechner
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: # Caveats and disclaimers. May contain Markdown or HTML.
+  swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
+  eng: '' # Caveats and disclaimers in English. May contain Markdown or HTML.
+standard_reference: '' # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
+other_references: [] # List of references or links to publications describing the resource. May contain Markdown or HTML.
+intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
+  swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
+  eng: '' # The intended uses for this resource (in English). May contain Markdown or HTML.
+created: '2025-12-06' # Date the resource was created (format: YYYY-MM-DD)
+updated: '2025-12-06' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false # Set to "true" if this is a collection of resources
+size: # Size information about the lexicon. Additional fields may be added.
+  entries: 4446456  # Number of entries in the lexicon (integer)
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
+  swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
+  eng: '' # Annotation information in English. May contain Markdown or HTML.
+trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
+doi: ''
