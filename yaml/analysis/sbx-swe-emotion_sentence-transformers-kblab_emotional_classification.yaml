@@ -9,7 +9,7 @@ keywords:
 tools:
   - name: transformers
     url: https://github.com/huggingface/transformers
-    license: Apache-2.0 license
+    license: Apache-2.0
 models:
   - name: KBLab/emotional-classification
     url: https://huggingface.co/KBLab/emotional-classification
@@ -17,7 +17,7 @@ models:
       This is a [SetFit](https://github.com/huggingface/setfit) model that can
       be used for classification of emotions in Swedish text. The model supports
       seven basic emotions.
-    license: Apache-2.0 license
+    license: Apache-2.0
 creators:
   - KB-Labb
 other_references:
@@ -80,4 +80,3 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
-doi: 10.23695/bn3b-ht45
