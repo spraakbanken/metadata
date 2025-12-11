@@ -1,12 +1,17 @@
 size:
   entries: 78524
 downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/saol8-faksimil_facsimiles.zip
+    license: CC-BY-4.0
+    description: Facsimile images of every page of the dictionary.
   - url: https://spraakbanken.gu.se/resurser/data/karp/saol8-faksimil.jsonl
     license: CC-BY-4.0
     format: jsonl
 interfaces:
   - url: https://spraakbanken.gu.se/karplabb?resources=saol8-faksimil
     license: CC-BY-4.0
+created: '2025-11-06'
+doi: 10.23695/6f59-9334
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -23,10 +28,8 @@ language_codes:
 name:
   swe: SAOL 8 - faksimil
   eng: SAOL 8 - faksimil
-short_description:
+description:
   swe: Ord i SAOL med länkar till faksimiler.
   eng: Words i SAOL with links to facsimiles.
-created: '2025-11-06'
-updated: '2025-11-06'
+updated: '2025-12-11'
 type: lexicon
-doi: 10.23695/6f59-9334
