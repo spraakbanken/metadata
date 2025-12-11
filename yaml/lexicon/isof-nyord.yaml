@@ -26,7 +26,7 @@ language_codes:
 name:
   swe: Nyord
   eng: Nyord
-short_description:
+description:
   swe: Alla nyord från den första nyordslistan 1986 och framåt, utgivna av <a href="https://www.isof.se/nyord">Språkrådet</a>
     (Isof) och från 2013 i samarbete med Språktidningen.
   eng: Alla nyord från den första nyordslistan 1986 och framåt, utgivna av <a href="https://www.isof.se/nyord">Språkrådet</a>
