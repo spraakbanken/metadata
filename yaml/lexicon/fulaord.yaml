@@ -16,7 +16,8 @@ contact_info:
 unlisted: false
 in_collections: []
 keywords: []
-creators: []
+creators: 
+  - Dagrin, Bengt
 other_references: []
 language_codes:
   - swe
