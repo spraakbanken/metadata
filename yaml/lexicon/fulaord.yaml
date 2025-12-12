@@ -1,0 +1,31 @@
+size:
+  entries: 15041
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/fulaord.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=fulaord
+    license: CC-BY-4.0
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+unlisted: false
+in_collections: []
+keywords: []
+creators: []
+other_references: []
+language_codes:
+  - swe
+name:
+  swe: Fula Ordboken
+  eng: Fula Ordboken
+description:
+  swe: Ord från <a href="https://www.fulaordboken.se/">https://www.fulaordboken.se/</a>
+  eng: Words from <a href="https://www.fulaordboken.se/">https://www.fulaordboken.se/</a>
+created: '2025-12-12'
+updated: '2025-12-12'
+type: lexicon
