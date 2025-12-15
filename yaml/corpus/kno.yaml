@@ -1,0 +1,56 @@
+name:
+  swe: 'Svenska bokrecensioner'
+  eng: 'Swedish book reviews'
+description:
+  swe: 'Projektet Kulturens nya ordning samlade in och annoterade ett antal äldre svenska bokrecensioner. I denna korpus ingår texter från tre källor: kulturtidskriften Ord och bild, kvinnotidskriften Dagny, och dagstidningar från 1906 ur Kungliga bibliotekets samlingar. De är alla annoterade för hand, men av praktiska skäl har de annoterats på olika sätt. Ord och bild, som är den största delen, har delats upp i filer per år; materialet sträcker sig från 1892 till 1949. Recensioner där har markerats med taggen "review", och kategoriserats som (recension av) fiktion eller övrigt. I Dagny har i stället allt material märkts upp i delar markerade med taggen "text", som kategoriserats som recension, artikel, kunggörelse eller skönlitteratur. Materialet från KB har delats upp i två filer, en med recensioner och en med "artiklar", alltså icke-recensioner. De är inte i ordning, men innehåller ytterligare metadata, bland annat recensentens namn och verkets titel och författare.'
+  eng: 'The project The New order of Criticism (Swedish: KNO) collected data on older Swedish book reviews. This corpus contains material from three sources, all manually annotated, but using different forms of annotation. From the literary magazine Ord och bild, all text from 1982 to 1949 is included, with reviews marked by "review" and categorised as fiction or other. From the feminist magazine Dagny, all text is included, with some noise removed. The material is separated by "text" tags and categorised as review (rec), article (art), announcement (kun), and fiction (sko). From 1906 newspapers from the National library collections, the texts are segmented, categorised as review or article (i.e. non-review), and marked with additional metadata. The texts are in arbitrary order, in two files, reviews and non-reviews.'
+short_description:
+  swe: 'Tidnings- och tidskriftstexter med manuellt uppmärkta bokrecensioner.'
+  eng: 'Texts from newspapers and magazines, manually annotated with book reviews.'
+type: corpus
+unlisted: false
+successors: []
+language_codes:
+  - swe
+in_collections: []
+downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
+  - url: 'https://spraakbanken.gu.se/resurser/data/kno-dagny.zip'
+    format: 'XML' # The file format or standard (e.g. XML)
+    description: 'Material from Dagny'
+    license: CC-BY-4.0
+  - url: 'https://spraakbanken.gu.se/resurser/data/kno-oob.zip'
+    format: 'XML' # The file format or standard (e.g. XML)
+    description: 'Material from Ord och bild'
+    license: CC-BY-4.0
+  - url: 'https://spraakbanken.gu.se/resurser/data/kno-kb.zip'
+    format: 'XML' # The file format or standard (e.g. XML)
+    description: 'Material from KB'
+    license: CC-BY-4.0
+interfaces: ''
+creators:
+  - Zechner, Niklas
+contact_info:
+  name: Niklas Zechner
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: # Caveats and disclaimers. May contain Markdown or HTML.
+  swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
+  eng: '' # Caveats and disclaimers in English. May contain Markdown or HTML.
+standard_reference: '' # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
+other_references: [] # List of references or links to publications describing the resource. May contain Markdown or HTML.
+intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
+  swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
+  eng: '' # The intended uses for this resource (in English). May contain Markdown or HTML.
+created: '2025-01-24' # Date the resource was created (format: YYYY-MM-DD)
+updated: '2025-01-24' # Date the resource was last updated (format: YYYY-MM-DD)
+collection: false # Set to "true" if this is a collection of resources
+size: # Size information about the lexicon. Additional fields may be added.
+  entries: ''  # Number of entries in the lexicon (integer)
+annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
+  swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
+  eng: '' # Annotation information in English. May contain Markdown or HTML.
+trainingdata: true # If set to "true", the resource will be listed as "Training and evaluation data"
+doi: ''
