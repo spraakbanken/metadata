@@ -26,7 +26,7 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     format: 'XML' # The file format or standard (e.g. XML)
     description: 'Material from KB'
     license: CC-BY-4.0
-interfaces: ''
+interfaces: []
 creators:
   - Zechner, Niklas
 contact_info:
@@ -53,4 +53,4 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: '' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: true # If set to "true", the resource will be listed as "Training and evaluation data"
-doi: ''
+
