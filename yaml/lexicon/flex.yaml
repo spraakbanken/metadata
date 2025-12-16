@@ -52,4 +52,4 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
   eng: '' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
-doi: ''
+
