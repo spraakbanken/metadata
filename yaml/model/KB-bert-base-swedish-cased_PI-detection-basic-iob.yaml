@@ -35,7 +35,6 @@ intended_uses:
   swe: 'Upptäckt av personliga uppgifter' 
   eng: 'Personal Information detection' 
 created: '2024-06-25' # Date the resource was created (format: YYYY-MM-DD)
-updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false 
 trainingdata: false 
 doi: 10.23695/wb6y-sv35
