@@ -54,3 +54,4 @@ annotation: # Anything worth to note about the annotations in this resource. Esp
   eng: '' # Annotation information in English. May contain Markdown or HTML.
 trainingdata: true # If set to "true", the resource will be listed as "Training and evaluation data"
 
+doi: 10.23695/kqjj-s110
