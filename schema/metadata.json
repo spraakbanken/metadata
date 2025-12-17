@@ -313,12 +313,14 @@
     "created": {
       "description": "Date the resource was created (format: YYYY-MM-DD)",
       "type": "string",
-      "format": "date"
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
     },
     "updated": {
       "description": "Date the resource was last updated (format: YYYY-MM-DD)",
       "type": "string",
-      "format": "date"
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
     },
     "collection": {
       "description": "Set to \"true\" if this is a collection of resources",
