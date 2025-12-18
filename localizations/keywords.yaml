@@ -15,20 +15,25 @@
 - English
 - French
 - German
-- L2
 - L2 Swedish
 - OCR
 - PI detection
 - Roget
+- SAOL
 - Spain
 - Spanish
 - Swedish
 - Swedish learner language
 - antonymy
+- bias and fairness
 - bilingual
 - conll-u
 - contemporary
+- corpus-statistics
 - course books
+- diachronic linguistics
+- diagnostic dataset
+- disability
 - error edit labeling
 - error labeling
 - essays
@@ -37,18 +42,27 @@
 - fiction
 - foreign language
 - fraktur
+- gender
 - gold
 - grammatical error correction
 - grammatical error detection
 - historical
+- historical linguistics
 - historical newspapers
+- history of lexicography
+- huggingface
 - journals
+- kb-lab
 - knowledge graph
 - language learning
+- language model evaluation
 - learner language
 - letter
+- lgbtq+
 - literature
+- llm evaluation
 - magazines
+- marked attributes
 - medical articles
 - medieval
 - metadata
@@ -66,8 +80,11 @@
 - periodicals
 - political science
 - productive vocabulary
+- pseudo-perplexity
+- race
 - receptive vocabulary
 - reference text
+- reporting bias
 - saldo
 - scientific articles
 - second language (L2)
@@ -75,15 +92,18 @@
 - sentences
 - social media
 - stanza
+- statistics
 - swedish parliament
 - synonymy
 - thesaurus
 - token-level detection
 - training
 - transcription
+- transformers
 - translated dataset
 - treebank
 - united nations
+- whisper
 - women
 - word lists
 - written production

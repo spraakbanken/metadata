@@ -18,3 +18,7 @@ sentiment analysis: sentimentanalys
 tokenization: tokenisering
 word-prediction: ordförutsägelse
 PI detection: personuppgiftsigenkänning
+attitude annotation: attitydannotering
+emotional analysis: emotionell analys
+import: import
+multi-class emotion classification: flerkategorisk emotionsklassificering
