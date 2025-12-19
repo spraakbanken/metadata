@@ -9,23 +9,24 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 4697018
-  sentences: 244024
+  tokens: 4788111
+  sentences: 248494
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/gujournalen.xml.bz2
     type: corpus
     format: XML
-    scrambled: true
+    scrambled: false
+    description: ''
     license: CC-BY-4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv.zip
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_gujournalen.csv.zip
     type: token frequencies
     format: CSV
     description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
+    scrambled: false
     url: https://spraakbanken.gu.se/korp/#?corpus=gujournalen
-    scrambled: true
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -45,9 +46,9 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
-created: '2025-04-02'
-updated: '2025-08-14'
 doi: 10.23695/swgt-7s14
+created: '2025-04-02'
+updated: '2025-12-19'
 description:
   swe: |-
     GU Journalen är Göteborgs universitets tidning för anställda och studenter. Den fungerar som en intern
