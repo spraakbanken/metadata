@@ -1,14 +1,12 @@
 size:
-  entries: 1529
+  entries: 1556
 downloads:
-- url: https://spraakbanken.gu.se/resurser/data/isof-nyord.jsonl
-  license: CC-BY-4.0
-  format: jsonl
+  - url: https://spraakbanken.gu.se/resurser/data/karp/isof-nyord.jsonl
+    license: CC-BY-4.0
+    format: jsonl
 interfaces:
-- url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
-  license: CC-BY-4.0
-created: '2025-11-03'
-updated: '2025-11-03'
+  - url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
+    license: CC-BY-4.0
 contact_info:
   name: Språkbanken Sam
   email: sb-sam@isof.se
@@ -30,4 +28,6 @@ description:
     (Isof) och från 2013 i samarbete med Språktidningen.
   eng: Alla nyord från den första nyordslistan 1986 och framåt, utgivna av <a href="https://www.isof.se/nyord">Språkrådet</a>
     (Isof) och från 2013 i samarbete med Språktidningen.
+created: '2025-12-29'
+updated: '2025-12-29'
 type: lexicon
