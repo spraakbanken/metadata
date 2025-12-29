@@ -1,0 +1,35 @@
+size:
+  entries: 1529
+downloads:
+- url: https://spraakbanken.gu.se/resurser/data/karp/isof-nyord-1-0.jsonl
+  license: CC-BY-4.0
+  format: jsonl
+interfaces:
+- url: https://spraakbanken.gu.se/karplabb?resources=isof-nyord
+  license: CC-BY-4.0
+created: '2025-11-03'
+updated: '2025-11-03'
+doi: 10.23695/dqdn-zq31
+contact_info:
+  name: Språkbanken Sam
+  email: sb-sam@isof.se
+  affiliation:
+    organization: Språkbanken Sam
+    email: sb-sam@isof.se
+unlisted: false
+in_collections: []
+keywords: []
+creators: []
+other_references: []
+language_codes:
+  - swe
+name:
+  swe: Nyord
+  eng: Nyord
+description:
+  swe: Alla nyord från den första nyordslistan 1986-2024, utgivna av <a href="https://www.isof.se/nyord">Språkrådet</a>
+    (Isof) och från 2013 i samarbete med Språktidningen.
+  eng: Alla nyord från den första nyordslistan 1986-2024, utgivna av <a href="https://www.isof.se/nyord">Språkrådet</a>
+    (Isof) och från 2013 i samarbete med Språktidningen.
+type: lexicon
+successors: ["isof-nyord"]
