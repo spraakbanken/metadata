@@ -7,7 +7,7 @@ description:  # Longer description. May contain Markdown or HTML.
 short_description: # Short description in a few words or a sentence (plain text only)
   swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
   eng: '' # Short description in a few words or a sentence in English (plain text only)
-type: '' # Must be one of: corpus, lexicon, model, analysis, utility, collection
+type: '' # Must be one of: corpus, lexicon, model, analysis, utility
 unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
 language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)

@@ -104,7 +104,9 @@ def generate_yaml_template(schema: dict, schema_type: str) -> ruamel.yaml.Commen
     if schema_type == "collection":
         yaml_output["collection"] = True
         yaml_output["type"] = ""
-        yaml_output.yaml_add_eol_comment("Must be one of: " + ", ".join(TYPES), key="type")
+        yaml_output.yaml_add_eol_comment(
+            "Must be one of: " + ", ".join(schema["properties"]["type"]["enum"]), key="type"
+        )
     else:
         yaml_output["type"] = schema_type
 
