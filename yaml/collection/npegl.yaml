@@ -14,6 +14,7 @@ language_codes: [ang,goh,non,osx]  # Which language is this collection about? Su
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=npegl
     license: LicenseRef-Other
+    license-other: Other
 contact_info:  # Contact info of the person who can answer questions about the collection
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
