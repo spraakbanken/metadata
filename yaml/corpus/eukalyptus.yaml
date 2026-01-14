@@ -24,17 +24,17 @@ downloads:
     format: 'zip'
     description: 'beta'
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
   - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-0.1.1.zip
     format: 'zip'
     description: 'beta'
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
   - url: https://spraakbanken.gu.se/resurser/data/Eukalyptus-0.2.0.zip
     format: 'zip'
     description: 'beta'
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
 interfaces: []
 contact_info:
   name: Gerlof Bouma

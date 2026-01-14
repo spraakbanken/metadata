@@ -22,12 +22,12 @@ downloads:
     type: corpus
     format: tsv
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
 interfaces:
   - url: https://github.com/spraakbanken/multiged-2023/
     description: "The corpus on Github"
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
 creators:
   - Elena Volodina
   - Chris Bryant

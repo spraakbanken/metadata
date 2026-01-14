@@ -17,7 +17,7 @@ downloads: []
 interfaces:
   - url: https://sunet.artologik.net/gu/swell
     license: LicenseRef-Other
-    license-other: Other
+    license_other: Other
     description: Application form
 creators:
   - Judit Casademont Moner
