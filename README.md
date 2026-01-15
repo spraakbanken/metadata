@@ -28,6 +28,11 @@ The resource IDs belonging to a collection can either be supplied as a list in t
 or each resource can specify which collection(s) it belongs to in its YAML file (using the `in_collections` key, which
 holds a list of collection IDs). The size of the collection is calculated automatically.
 
+Resources referenced in a collection may include wildcards using simple glob-style patterns such as `*` and `?` to match
+multiple resources. For example, the resource ID `kubhist-*` will match all resources with IDs that start with
+`kubhist-`. It is also possible to supply a resource type prefix (e.g., `corpus/kubhist-*`) to only match resources of a
+specific type.
+
 ### Unlisted
 
 Resources with the attribute `"unlisted": true` will not be listed in the data list on the web page, but they can be

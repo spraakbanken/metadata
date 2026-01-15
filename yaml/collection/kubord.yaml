@@ -9,7 +9,8 @@ trainingdata: false
 unlisted: false
 successors: []
 collection: true
-resources: []
+resources:
+  - kubord-*
 language_codes:
   - swe
 downloads: []

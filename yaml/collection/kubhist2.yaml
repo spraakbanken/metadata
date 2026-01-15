@@ -12,7 +12,8 @@ trainingdata: false
 unlisted: false
 successors: []
 collection: true
-resources: []
+resources:
+  - kubhist2-*
 language_codes:
   - swe
 downloads: []
