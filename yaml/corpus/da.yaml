@@ -9,23 +9,26 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 8482409
-  sentences: 468503
+  tokens: 8981374
+  sentences: 496220
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/da.xml.bz2
     type: corpus
     format: XML
     scrambled: true
+    description: ''
     license: CC-BY-4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_da.csv.zip
+    scramble_level: paragraph
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_da.csv.zip
     type: token frequencies
     format: CSV
     description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
-    url: https://spraakbanken.gu.se/korp/#?corpus=da
     scrambled: true
+    scramble_level: paragraph
+    url: https://spraakbanken.gu.se/korp/#?corpus=da
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -41,11 +44,11 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
+doi: 10.23695/4635-cg09
 created: '2022-01-19'
-updated: '2025-05-09'
+updated: '2026-01-16'
 description:
   swe: Texterna i korpusen är hämtade från nyhetsartiklarna på <a href="https://www.dagensarena.se/">dagensarena.se</a>.
     Korpusen uppdateras ca. två gånger per år.
   eng: The texts in this corpus are downloaded from the news articles on <a href="https://www.dagensarena.se/">dagensarena.se</a>.
     The corpus is updated about twice a year.
-doi: 10.23695/4635-cg09
