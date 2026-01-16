@@ -9,23 +9,26 @@ type: corpus
 language_codes:
   - swe
 size:
-  tokens: 808713
-  sentences: 37489
+  tokens: 886279
+  sentences: 41204
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/podiet.xml.bz2
     type: corpus
     format: XML
     scrambled: true
+    description: ''
     license: CC-BY-4.0
-  - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_podiet.csv.zip
+    scramble_level: paragraph
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_podiet.csv.zip
     type: token frequencies
     format: CSV
     description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
-    url: https://spraakbanken.gu.se/korp/#?corpus=podiet
     scrambled: true
+    scramble_level: paragraph
+    url: https://spraakbanken.gu.se/korp/#?corpus=podiet
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -41,12 +44,12 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
+doi: 10.23695/bdfz-6a59
 created: '2022-01-19'
-updated: '2025-05-08'
+updated: '2026-01-16'
 description:
   swe: |-
     Magasinet <a href="https://podiet.prenly.com/">Podiet</a> innehåller
     artiklar och reportage om aktuella konserter, intervjuer med
     musiker och verkkommentarer till de klassiska konserter som spelas
     i Göteborgs Konserthus. Korpusen uppdateras regelbundet.
-doi: 10.23695/bdfz-6a59
