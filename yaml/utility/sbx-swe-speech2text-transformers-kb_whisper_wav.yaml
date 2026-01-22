@@ -8,38 +8,38 @@ keywords:
 tools:
   - name: transformers
     url: https://github.com/huggingface/transformers
-    license: Apache-2.0 license
+    license: Apache-2.0
 models:
   - name: KBLab/kb-whisper-tiny
     url: https:/huggingface.co/KBLab/kb-whisper-tiny
     description: |-
       The National Library of Sweden releases a new suite of Whisper models trained
       on over 50,000 hours of Swedish speech.
-    license: Apache-2.0 license
+    license: Apache-2.0
   - name: KBLab/kb-whisper-base
     url: https:/huggingface.co/KBLab/kb-whisper-base
     description: |-
       The National Library of Sweden releases a new suite of Whisper models trained
       on over 50,000 hours of Swedish speech.
-    license: Apache-2.0 license
+    license: Apache-2.0
   - name: KBLab/kb-whisper-small
     url: https:/huggingface.co/KBLab/kb-whisper-small
     description: |-
       The National Library of Sweden releases a new suite of Whisper models trained
       on over 50,000 hours of Swedish speech.
-    license: Apache-2.0 license
+    license: Apache-2.0
   - name: KBLab/kb-whisper-medium
     url: https:/huggingface.co/KBLab/kb-whisper-medium
     description: |-
       The National Library of Sweden releases a new suite of Whisper models trained
       on over 50,000 hours of Swedish speech.
-    license: Apache-2.0 license
+    license: Apache-2.0
   - name: KBLab/kb-whisper-large
     url: https:/huggingface.co/KBLab/kb-whisper-large
     description: |-
       The National Library of Sweden releases a new suite of Whisper models trained
       on over 50,000 hours of Swedish speech.
-    license: Apache-2.0 license
+    license: Apache-2.0
 other_references:
   - 'Swedish Whispers; Leveraging a Massive Speech Corpus for Swedish Speech Recognition
     - Vesterbacka et al - 2025 - Interspeech 2025, p758-762 - doi: 10.21437/Interspeech.2025-2646'
@@ -74,4 +74,3 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
-doi: 10.23695/vvhd-xx80
