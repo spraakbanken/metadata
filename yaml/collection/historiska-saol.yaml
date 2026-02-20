@@ -1,21 +1,22 @@
 name:
-  swe: 'Historiska SAOL'
-  eng: 'Historical SAOL'
+  swe: Historiska SAOL
+  eng: Historical SAOL
 short_description:
-  swe: 'Ord i SAOL med länkar till faksimiler, samt SO 2009'
-  eng: 'Words in SAOL with links to facsimiles, and SO 2009'
-type: 'lexicon'
+  swe: Ord i SAOL med länkar till faksimiler, samt SO 2009
+  eng: Words in SAOL with links to facsimiles, and SO 2009
+type: lexicon
 unlisted: false
 successors: []
-language_codes: [swe]
+language_codes:
+  - swe
 in_collections: []
 creators: []
 contact_info:
-  name: 'Markus Forsberg'
+  name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: 'Språkbanken Text'
-    email: 'sb-info@svenska.gu.se'
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
 keywords: []
 interfaces:
   - url: https://spraakbanken.gu.se/karplabb/?resources=so2009-ord,saol1-faksimil,saol6-faksimil,saol8-faksimil,saol9-faksimil,saol10-faksimil,saol11-faksimil,saol12-faksimil,saol13-faksimil,saol14-faksimil,saol7-faksimil
@@ -31,6 +32,18 @@ intended_uses:
 created: '2026-02-19'
 updated: '2026-02-19'
 collection: true
-resources: [saol1-faksimil, saol6-faksimil, saol7-faksimil, saol8-faksimil, saol9-faksimil, saol10-faksimil, saol11-faksimil, saol12-faksimil, saol13-faksimil, saol14-faksimil, so2009-ord]
+resources:
+  - saol1-faksimil
+  - saol6-faksimil
+  - saol7-faksimil
+  - saol8-faksimil
+  - saol9-faksimil
+  - saol10-faksimil
+  - saol11-faksimil
+  - saol12-faksimil
+  - saol13-faksimil
+  - saol14-faksimil
+  - so2009-ord
 hide_resources: false
 trainingdata: false
+doi: 10.23695/75q6-nc14
