@@ -1,61 +1,86 @@
 name:
-  swe: 'PGV-PII'  # Human readable name in Swedish
-  eng: 'PGV-PII' # Human readable name in English
-description:  # Longer description. May contain Markdown or HTML.
-  swe: 'Det här är en liten korpus som består av 10 par texter på svenska och engelska, annoterade med kategorier av personliga uppgifter. Annoteringen liknar den av TAB-korpusen (https://aclanthology.org/2022.cl-4.19/). De tjugo texterna har sitt ursprung i Parallel Global Voices-korpusen (https://nlp.ilsp.gr/pgv/, CC BY 4.0) och var annoterade för hand. Denna korpus innehåller data från Global Voices-webbsidorna (https://globalvoices.org/, CC BY 3.0).'  # Longer description in Swedish. May contain Markdown or HTML.
-  eng: 'This is a small corpus of 10 pairs of texts in Swedish and English annotated with personal information categories. The annotation largely follows that of the TAB corpus (https://aclanthology.org/2022.cl-4.19/). The twenty texts in total were sourced from the Parallel Global Voices corpus (https://nlp.ilsp.gr/pgv/, CC BY 4.0) and manually annotated. That corpus, in turn, had collected the texts from the Global Voices websites (https://globalvoices.org/, CC BY 3.0).' # Longer description in English. May contain Markdown or HTML.
-short_description: # Short description in a few words or a sentence (plain text only)
-  swe: 'En liten samling av 10 par parallella texter på svenska och engelska, annoterade med kategorier på personliga uppgifter.'  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: 'A small collection of 10 pairs of parallel texts in Swedish and English annotated with personal information categories.' # Short description in a few words or a sentence in English (plain text only)
-type: corpus # Type of resource
-unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
-successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
-language_codes: ['swe', 'eng'] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
-languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field "language_codes" and don't include this field.
-  - code: ''  # Optional language code using some other standard than ISO 639-3
+  swe: PGV-PII
+  eng: PGV-PII
+description:
+  swe: Det här är en liten korpus som består av 10 par texter på svenska och engelska,
+    annoterade med kategorier av personliga uppgifter. Annoteringen liknar den av
+    TAB-korpusen (https://aclanthology.org/2022.cl-4.19/). De tjugo texterna har sitt
+    ursprung i Parallel Global Voices-korpusen (https://nlp.ilsp.gr/pgv/, CC BY 4.0)
+    och var annoterade för hand. Denna korpus innehåller data från Global Voices-webbsidorna
+    (https://globalvoices.org/, CC BY 3.0).
+  eng: This is a small corpus of 10 pairs of texts in Swedish and English annotated
+    with personal information categories. The annotation largely follows that of the
+    TAB corpus (https://aclanthology.org/2022.cl-4.19/). The twenty texts in total
+    were sourced from the Parallel Global Voices corpus (https://nlp.ilsp.gr/pgv/,
+    CC BY 4.0) and manually annotated. That corpus, in turn, had collected the texts
+    from the Global Voices websites (https://globalvoices.org/, CC BY 3.0).
+short_description:
+  swe: En liten samling av 10 par parallella texter på svenska och engelska, annoterade
+    med kategorier på personliga uppgifter.
+  eng: A small collection of 10 pairs of parallel texts in Swedish and English annotated
+    with personal information categories.
+type: corpus
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - eng
+languages:
+  - code: ''
     name:
-      swe: ''  # Language name (in Swedish)
-      eng: '' # Language name (in English)
-in_collections: [] # ID(s) of the collections the resource is part of
-downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
-  - url: 'https://spraakbanken.gu.se/resurser/data/gv-pii.bz2'  # URL to a downloadable file
-    type: 'corpus' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
-    format: 'jsonl' # The file format or standard (e.g. XML)
-    description: '' # Additional description, if required. Only plain text.
-    license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
-    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
-    scrambled: false # Set to "true" if the file contains a scrambled version of the resource
-    scramble_level: '' # If the file contains a scrambled version of the resource, specify the level of scrambling (e.g., "sentence", "paragraph")
-interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
-  - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
-    description: '' # Additional description, if required
-    license: CC-BY-4.0 # License for the data in the interface. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
-    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
-    scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource
-    scramble_level: '' # If the resource in the interface is a scrambled version of the original resource, specify the level of scrambling (e.g., "sentence", "paragraph")
-creators: ['Szawerna, Maria Irena', 'Suchardt, Jacob Lee'] # List of people that created the resource (format: lastname, firstname)
-contact_info: # Contact info of the person who can answer questions about the resource
+      swe: ''
+      eng: ''
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/gv-pii.bz2
+    type: corpus
+    format: jsonl
+    description: ''
+    license: CC-BY-4.0
+    license_other: ''
+    scrambled: false
+    scramble_level: ''
+interfaces:
+  - url: ''
+    description: ''
+    license: CC-BY-4.0
+    license_other: ''
+    scrambled: false
+    scramble_level: ''
+creators:
+  - Szawerna, Maria Irena
+  - Suchardt, Jacob Lee
+contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: 'Språkbanken'
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
-keywords: ['pseudonymization', 'anonymization', 'parallel', 'news'] # List of keywords (in English) that may be used for filtering. Keep them short!
-caveats: # Caveats and disclaimers. May contain Markdown or HTML.
-  swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
-  eng: '' # Caveats and disclaimers in English. May contain Markdown or HTML.
-standard_reference: # "Maria Irena Szawerna and Jacob Lee Suchardt. 2026. Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts. In Proceedings of the Fifteenth Language Resources and Evaluation Conference, Palma de Mallorca, Spain. European Language Resources Association." # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
-other_references: [] # List of references or links to publications describing the resource. May contain Markdown or HTML.
-intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
-  swe: 'Den här korpusen kan användas för att testa personuppgiftsigenkänning eller generering av pseudonymer.'  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
-  eng: 'This corpus can be used to test personal information detection and labeling or generation of pseudonyms.' # The intended uses for this resource (in English). May contain Markdown or HTML.
-created: '2025-10-07' # Date the resource was created (format: YYYY-MM-DD)
-updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
-collection: false # Set to "true" if this is a collection of resources
-size: # Size information about the corpus. Additional fields may be added.
-  tokens: 22589  # Number of tokens in the corpus (integer)
-  sentences: 1117 # Number of sentences in the corpus (integer)
-annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
-  swe: 'Texterna är annoterade med kategorier på personliga uppgifter enligt TAB-anvisningarna (https://aclanthology.org/2022.cl-4.19/)'  # Annotation information in Swedish. May contain Markdown or HTML.
-  eng: 'The texts are annotated with personal information categories following the TAB guidelines (https://aclanthology.org/2022.cl-4.19/)' # Annotation information in English. May contain Markdown or HTML.
-trainingdata: true # If set to "true", the resource will be listed as "Training and evaluation data"
+keywords:
+  - pseudonymization
+  - anonymization
+  - parallel
+  - news
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: null
+other_references: []
+intended_uses:
+  swe: Den här korpusen kan användas för att testa personuppgiftsigenkänning eller
+    generering av pseudonymer.
+  eng: This corpus can be used to test personal information detection and labeling
+    or generation of pseudonyms.
+created: '2025-10-07'
+updated: ''
+collection: false
+size:
+  tokens: 22589
+  sentences: 1117
+annotation:
+  swe: Texterna är annoterade med kategorier på personliga uppgifter enligt TAB-anvisningarna
+    (https://aclanthology.org/2022.cl-4.19/)
+  eng: The texts are annotated with personal information categories following the
+    TAB guidelines (https://aclanthology.org/2022.cl-4.19/)
+trainingdata: true
+doi: 10.23695/qcqg-3613
