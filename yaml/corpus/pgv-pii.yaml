@@ -64,7 +64,7 @@ keywords:
 caveats:
   swe: ''
   eng: ''
-standard_reference: null
+standard_reference: ''
 other_references: []
 intended_uses:
   swe: Den här korpusen kan användas för att testa personuppgiftsigenkänning eller
@@ -72,7 +72,6 @@ intended_uses:
   eng: This corpus can be used to test personal information detection and labeling
     or generation of pseudonyms.
 created: '2025-10-07'
-updated: ''
 collection: false
 size:
   tokens: 22589
