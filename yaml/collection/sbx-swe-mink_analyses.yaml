@@ -2,8 +2,8 @@ name:
   swe: Minks standardanalyser
   eng: Standard analyses in Mink
 short_description:
-  swe: Samling av analyser som används i Mink
-  eng: Collection of analyses used in Mink
+  swe: Samling av analyser som är tillgängliga via Mink
+  eng: Collection of analyses available in Mink
 type: analysis
 collection: true
 resources:
@@ -27,7 +27,11 @@ resources:
   - sbx-swe-sense-sparv
   - sbx-swe-sentence-sparv-storsuc
   - sbx-swe-sentiment-sparv-sensaldo
+  - sbx-swe-speech2text-transformers-kb_whisper_mp3
+  - sbx-swe-speech2text-transformers-kb_whisper_ogg
+  - sbx-swe-speech2text-transformers-kb_whisper_wav
   - sbx-swe-tokenization-sparv-betterword
+  - sbx-zxx-export-sparv-xml_pretty
 language_codes:
   - swe
 interfaces:
@@ -40,8 +44,14 @@ contact_info:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: |-
-    Dessa analyser är tillgängliga via [Mink-gränssnittet](https://spraakbanken.gu.se/mink).
-  eng: |-
-    These analyses are available in the [Mink interface](https://spraakbanken.gu.se/mink).
+  swe: |
+    Denna samling innehåller de Sparv-analyser som är tillgängliga via
+    [Mink-gränssnittet](https://spraakbanken.gu.se/mink). Analyserna inkluderar hjälpverktyg för olika in- och
+    utdataformat, tokenisering, meningsindelning, och en mängd olika lingvistiska analyser såsom lemmatisering,
+    part-of-speech-tagging, dependensanalys, geotaggning, läsbarhetsmått och sentimentanalys.
+  eng: |
+    This collection contains the Sparv analyses available through the
+    [Mink interface](https://spraakbanken.gu.se/mink). The analyses include tools for various input and output
+    formats, tokenization, sentence segmentation, and a variety of linguistic analyses such as lemmatization,
+    part-of-speech tagging, dependency parsing, geotagging, readability measures, and sentiment analysis.
 doi: 10.23695/r5q1-xa67
