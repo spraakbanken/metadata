@@ -10,10 +10,10 @@ size:
   tokens: 10489585
   sentences: 522144
 downloads:
-  - url: https://gitlab.com/krieljo/corpus-of-the-formerly-enslaved/-/releases
+  - url: https://gitlab.com/krieljo/corpus-of-the-formerly-enslaved/-/archive/Pilot-v0.1/corpus-of-the-formerly-enslaved-Pilot-v0.1.tar.bz2
     type: corpus
     format: XML
-    description: ''
+    description: 'Voices of the formerly Enslaved Pilot v0.1'
     license: CC-BY-SA-4.0
 #interfaces:
 #  - license: CC-BY-SA-4.0
@@ -35,23 +35,20 @@ intended_uses:
   swe: ''
   eng: ''
 created: '2025-07-24'
-updated: '2026-03-04'
+updated: '2026-03-05'
 description:
   eng: |-
     <p>
       <b>The Corpus Voices of the formerly Enslaved (Pilot)</b>
     </p>
     <p>
-      A corpus of transcribed and annotated narratives from informants who were formerly enslaved partly in standard English and partly in vernacular English [eng]. There are three parts: 
+      A corpus of transcribed and annotated narratives from informants who were formerly enslaved. Texts are partly in standard English and partly in vernacular English [eng]. There are three main parts: 
     </p>
     <ul>
-      <li>Selection of narratives collected in the Federal Writers Projct (FWP) collected in late 1930's and published in 1941.</li>
-      <li>Selection of narratives collected as part of the Documenting the South Collection</li>, and thirdly
-      <li>Songs and narratives collected for the corpus AATC.</li>
+      <li>Selection of narratives collected in the Federal Writers' Projct (FWP) collected in late 1930's and published in 1941.</li>
+      <li>Selection of narratives collected as part of the Documenting the American South Collection (DocSouth)</li>, and thirdly
+      <li>Songs and narratives collected for the corpus Afro-Diasporic Text Corpus Project (AATC).</li>
     </ul>
-    <!--p style="text-align: center;">
-      <img src="https://spraakbanken.gu.se/korp/data/xhosa/map.png" style="width: 95%;">
-    </p-->
     <p>
       The Corpus has been developed in collaboration with Språkbanken Text.
     </p>
