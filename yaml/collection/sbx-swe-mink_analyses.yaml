@@ -45,13 +45,15 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |
-    Denna samling innehåller de Sparv-analyser som är tillgängliga via
-    [Mink-gränssnittet](https://spraakbanken.gu.se/mink). Analyserna inkluderar hjälpverktyg för olika in- och
-    utdataformat, tokenisering, meningsindelning, och en mängd olika lingvistiska analyser såsom lemmatisering,
-    part-of-speech-tagging, dependensanalys, geotaggning, läsbarhetsmått och sentimentanalys.
+    Denna samling innehåller den delmängd av [Språkbankens analyser] (https://spraakbanken.gu.se/analyser) som gjorts
+    tillgängliga via [Mink] (https://spraakbanken.gu.se/mink), Språkbankens dataplattform. Analyserna inkluderar
+    hjälpverktyg för olika in- och utdataformat, tokenisering, meningsindelning, och en mängd olika lingvistiska
+    analyser såsom lemmatisering, part-of-speech-tagging, dependensanalys, geotaggning, läsbarhetsmått och
+    sentimentanalys.
   eng: |
-    This collection contains the Sparv analyses available through the
-    [Mink interface](https://spraakbanken.gu.se/mink). The analyses include tools for various input and output
-    formats, tokenization, sentence segmentation, and a variety of linguistic analyses such as lemmatization,
-    part-of-speech tagging, dependency parsing, geotagging, readability measures, and sentiment analysis.
+    This collection contains the subset of [Språkbanken's analyses] (https://spraakbanken.gu.se/en/analyses) that are
+    available through the [Mink] (https://spraakbanken.gu.se/mink), Språkbanken's data platform. The analyses include
+    tools for various input and output formats, tokenization, sentence segmentation, and a variety of linguistic
+    analyses such as lemmatization, part-of-speech tagging, dependency parsing, geotagging, readability measures, and
+    sentiment analysis.
 doi: 10.23695/r5q1-xa67
