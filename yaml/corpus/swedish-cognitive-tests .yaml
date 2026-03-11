@@ -65,7 +65,7 @@ intended_uses: # The intended uses for this resource. May contain Markdown or HT
   swe: 'Bedömning av kognitiva funktioner, särskilt språk och exekutiva funktioner, inom neuropsykologisk utredning.'  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
   eng: 'Assessment of cognitive functions, particularly language and executive functions, in neuropsychological evaluation.' # The intended uses for this resource (in English). May contain Markdown or HTML.
 created: '2026-03-11' # Date the resource was created (format: YYYY-MM-DD)
-updated: '' # Date the resource was last updated (format: YYYY-MM-DD)
+updated: '2026-03-11' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
 size: # Size information about the corpus. Additional fields may be added.
   tokens: 0  # Number of tokens in the corpus (integer)
