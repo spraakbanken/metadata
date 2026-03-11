@@ -33,11 +33,6 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     format: '.xlsx' # The file format or standard (e.g. XML)
     description: 'Synthetic data' # Additional description, if required. Only plain text.
     license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
-  - url: 'https://spraakbanken.gu.se/resurser/data/sweFAS-syntheticData_v1.xlsx'  # URL to a downloadable file
-    type: 'corpus' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
-    format: '.xlsx' # The file format or standard (e.g. XML)
-    description: 'Synthetic data' # Additional description, if required. Only plain text.
-    license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
   - url: 'https://spraakbanken.gu.se/resurser/data/sweTripToStockholm-1-syntheticData_v1.txt'  # URL to a downloadable file
     type: 'corpus' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
     format: '.txt' # The file format or standard (e.g. XML)
