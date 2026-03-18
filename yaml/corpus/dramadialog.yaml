@@ -13,8 +13,21 @@ language_codes:
 size:
   tokens: 687610
   sentences: 62177
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/meningsmangder/dramadialog.xml.bz2
+    type: corpus
+    format: XML
+    scrambled: false
+    description: ''
+    license: CC-BY-4.0
+  - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_dramadialog.csv.zip
+    type: token frequencies
+    format: CSV
+    description: ''
+    license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
+    scrambled: false
     url: https://spraakbanken.gu.se/korp/?mode=all_hist#?corpus=dramadialog
 contact_info:
   name: Markus Forsberg
