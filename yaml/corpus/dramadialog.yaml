@@ -11,7 +11,7 @@ language_codes:
   - swe
 size:
   tokens: 687610
-  sentences: 62177
+  sentences: 62060
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/dramadialog.xml.bz2
     type: corpus
@@ -65,8 +65,9 @@ other_references:
 intended_uses:
   swe: ''
   eng: ''
+doi: 10.23695/10q4-ta15
 created: '2026-03-13'
-updated: '2026-03-18'
+updated: '2026-03-19'
 description:
   swe: |-
     Svensk dramadialog utgörs av 34 hela dramer från perioden 1730 till 1950. Dramerna är utvalda med diakronisk
