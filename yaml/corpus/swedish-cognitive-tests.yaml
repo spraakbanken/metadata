@@ -6,8 +6,9 @@ description:
     i Sverige för att bedöma olika kognitiva funktioner, ofta vid utredning av exempelvis
     demens eller andra neurologiska tillstånd. Inom detta tema ingår bland annat tester
     som <b>SVF</b> (<i>semantiskt ordflödestest</i>), <b>FAS</b> (<i>fonologiskt ordflödestest</i>)
-    och <b>BNT</b> (<i>Boston Naming Test - konfrontationsbenämning</i>). Dessa tester
-    mäter olika aspekter av språk och exekutiva funktioner, såsom förmågan att snabbt
+    och <b>BNT</b> (<i>Boston Naming Test - konfrontationsbenämning</i>). Andra tester, som <b>Kakstölden</b> och <b>Resa till Stockholm</b>, 
+    förekommer också och undersöker bland annat språkproduktion, talets flyt och meningsbyggnad. 
+    Dessa tester mäter olika aspekter av språk och exekutiva funktioner, såsom förmågan att snabbt
     generera ord inom en kategori, producera ord som börjar på specifika bokstäver
     samt förmågan att namnge bilder av objekt. Tillsammans ger de en bred bild av
     individens språkliga och kognitiva förmåga.
@@ -16,6 +17,7 @@ description:
     settings such as dementia or neurological evaluations. This group includes tests
     such as <b>SVF</b> (<i>Semantic Verbal Fluency</i>), <b>FAS</b> (<i>phonemic verbal
     fluency</i>), and the <b>BNT</b> (<i>Boston Naming Test - confrontation naming</i>).
+    Other tests, such as <b>Cookie Theft</b> and <b>Trip to Stockholm</b>, are also used and assess, among other things, language production, speech fluency, and sentence structure.
     These assessments measure different aspects of language and executive functioning,
     including the ability to rapidly generate words within a semantic category, produce
     words beginning with specific letters, and name pictured objects. Together, these
@@ -62,6 +64,11 @@ downloads:
     format: .txt
     description: Synthetic data
     license: CC-BY-4.0
+  - url: https://spraakbanken.gu.se/resurser/data/sweCookieTheft-syntheticData_v1.txt
+    type: corpus
+    format: .txt
+    description: Synthetic data
+    license: CC-BY-4.0
 creators:
   - Kokkinakis, Dimitrios
 contact_info:
@@ -93,7 +100,7 @@ intended_uses:
   eng: Assessment of cognitive functions, particularly language and executive functions,
     in neuropsychological evaluation.
 created: '2026-03-11'
-updated: '2026-03-11'
+updated: '2026-03-25'
 collection: false
 size:
   tokens: 0
