@@ -2,8 +2,11 @@ name:
   swe: 'Svenska bokrecensioner'
   eng: 'Swedish book reviews'
 description:
-  swe: 'Projektet Kulturens nya ordning samlade in och annoterade ett antal äldre svenska bokrecensioner. I denna korpus ingår texter från tre källor: kulturtidskriften Ord och bild, kvinnotidskriften Dagny, och dagstidningar från 1906 ur Kungliga bibliotekets samlingar. De är alla annoterade för hand, men av praktiska skäl har de annoterats på olika sätt. Ord och bild, som är den största delen, har delats upp i filer per år; materialet sträcker sig från 1892 till 1949. Recensioner där har markerats med taggen "review", och kategoriserats som (recension av) fiktion eller övrigt. I Dagny har i stället allt material märkts upp i delar markerade med taggen "text", som kategoriserats som recension, artikel, kunggörelse eller skönlitteratur. Materialet från KB har delats upp i två filer, en med recensioner och en med "artiklar", alltså icke-recensioner. De är inte i ordning, men innehåller ytterligare metadata, bland annat recensentens namn och verkets titel och författare.'
-  eng: 'The project The New order of Criticism (Swedish: KNO) collected data on older Swedish book reviews. This corpus contains material from three sources, all manually annotated, but using different forms of annotation. From the literary magazine Ord och bild, all text from 1982 to 1949 is included, with reviews marked by "review" and categorised as fiction or other. From the feminist magazine Dagny, all text is included, with some noise removed. The material is separated by "text" tags and categorised as review (rec), article (art), announcement (kun), and fiction (sko). From 1906 newspapers from the National library collections, the texts are segmented, categorised as review or article (i.e. non-review), and marked with additional metadata. The texts are in arbitrary order, in two files, reviews and non-reviews.'
+  swe: 'Projektet Kulturens nya ordning samlade in och annoterade ett antal äldre svenska bokrecensioner. I denna korpus ingår texter från två källor: kulturtidskriften Ord och bild och kvinnotidskriften Dagny. De är alla annoterade för hand, men av praktiska skäl har de annoterats på olika sätt. Ord och bild, som är den största delen, har delats upp i filer per år; materialet sträcker sig från 1892 till 1949. Recensioner där har markerats med taggen "review", och kategoriserats som (recension av) fiktion eller övrigt. I Dagny har i stället allt material märkts upp i delar markerade med taggen "text", som kategoriserats som recension, artikel, kunggörelse eller skönlitteratur.'
+  ##swe: 'Projektet Kulturens nya ordning samlade in och annoterade ett antal äldre svenska bokrecensioner. I denna korpus ingår texter från tre källor: kulturtidskriften Ord och bild, kvinnotidskriften Dagny, och dagstidningar från 1906 ur Kungliga bibliotekets samlingar. De är alla annoterade för hand, men av praktiska skäl har de annoterats på olika sätt. Ord och bild, som är den största delen, har delats upp i filer per år; materialet sträcker sig från 1892 till 1949. Recensioner där har markerats med taggen "review", och kategoriserats som (recension av) fiktion eller övrigt. I Dagny har i stället allt material märkts upp i delar markerade med taggen "text", som kategoriserats som recension, artikel, kunggörelse eller skönlitteratur. Materialet från KB har delats upp i två filer, en med recensioner och en med "artiklar", alltså icke-recensioner. De är inte i ordning, men innehåller ytterligare metadata, bland annat recensentens namn och verkets titel och författare.'
+  eng: 'The project The New order of Criticism (Swedish: KNO) collected data on older Swedish book reviews. This corpus contains material from two sources, manually annotated, but using different forms of annotation. From the literary magazine Ord och bild, all text from 1982 to 1949 is included, with reviews marked by "review" and categorised as fiction or other. From the feminist magazine Dagny, all text is included, with some noise removed. The material is separated by "text" tags and categorised as review (rec), article (art), announcement (kun), and fiction (sko).'
+  ##eng: 'The project The New order of Criticism (Swedish: KNO) collected data on older Swedish book reviews. This corpus contains material from three sources, all manually annotated, but using different forms of annotation. From the literary magazine Ord och bild, all text from 1982 to 1949 is included, with reviews marked by "review" and categorised as fiction or other. From the feminist magazine Dagny, all text is included, with some noise removed. The material is separated by "text" tags and categorised as review (rec), article (art), announcement (kun), and fiction (sko). From 1906 newspapers from the National library collections, the texts are segmented, categorised as review or article (i.e. non-review), and marked with additional metadata. The texts are in arbitrary order, in two files, reviews and non-reviews.'
+  # The KB data has been temporarily removed due to unclear usage rights.
 short_description:
   swe: 'Tidnings- och tidskriftstexter med manuellt uppmärkta bokrecensioner.'
   eng: 'Texts from newspapers and magazines, manually annotated with book reviews.'
@@ -22,10 +25,11 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     format: 'XML' # The file format or standard (e.g. XML)
     description: 'Material from Ord och bild'
     license: CC-BY-4.0
-  - url: 'https://spraakbanken.gu.se/resurser/data/kno-kb.zip'
-    format: 'XML' # The file format or standard (e.g. XML)
-    description: 'Material from KB'
-    license: CC-BY-4.0
+##  - url: 'https://spraakbanken.gu.se/resurser/data/kno-kb.zip'
+##    format: 'XML' # The file format or standard (e.g. XML)
+##    description: 'Material from KB'
+##    license: CC-BY-4.0
+# The KB data has been temporarily removed due to unclear usage rights.
 interfaces: []
 creators:
   - Zechner, Niklas
