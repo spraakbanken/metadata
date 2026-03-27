@@ -39,17 +39,17 @@ languages:
       eng: ''
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/sweBNT-syntheticData_v1.xlsx
+  - url: https://spraakbanken.gu.se/resurser/data/sweBNT-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweSVF-syntheticData_v1.xlsx
+  - url: https://spraakbanken.gu.se/resurser/data/sweSVF-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweFAS-syntheticData_v1.xlsx
+  - url: https://spraakbanken.gu.se/resurser/data/sweFAS-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description: Synthetic data
