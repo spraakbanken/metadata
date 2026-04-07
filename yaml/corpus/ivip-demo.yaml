@@ -51,7 +51,7 @@ intended_uses:
   eng: ''
 description:
   swe: |
-    Detta är en öppen delmängd av IVIP-korusen.
+    Detta är en öppen delmängd av IVIP-korpusen.
     Videoinspelningarna och transkriptionerna för den här datamängden kan laddas ner
     <a href="https://github.com/spraakbanken/ivip-preprocess">här</a>. 
     Innehåller data om talspråk.
