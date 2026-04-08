@@ -1,0 +1,25 @@
+size:
+  entries: 39496308
+name:
+  swe: Kubord 2
+  eng: Kubord 2
+description:
+  swe: Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket.
+  eng: Word frequencies from modern newspaper texts from the National Library of Sweden
+created: '2026-04-08'
+updated: '2026-04-08'
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/kubord2-lex.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=kubord2-lex
+    license: CC-BY-4.0
+type: lexicon
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
