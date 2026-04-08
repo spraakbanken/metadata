@@ -9,7 +9,7 @@ description:
 created: '2026-04-08'
 updated: '2026-04-08'
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/kubord2-lex.jsonl
+  - url: https://spraakbanken.gu.se/resurser/data/karp/kubord2-lex.jsonl.bzip2
     license: CC-BY-4.0
     format: jsonl
     type: lexicon
