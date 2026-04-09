@@ -8,6 +8,8 @@ type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
+language_codes:
+  - swe
 size:
   entries: 655
 in_collections: []
@@ -17,12 +19,8 @@ downloads:
     format: LMF
     description: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/karp/ao.jsonl
-    license: CC-BY-4.0
-    format: jsonl
-    type: lexicon
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=ao
+  - url: https://spraakbanken.gu.se/karp/?mode=ao
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
@@ -39,8 +37,5 @@ caveats:
   eng: ''
 other_references:
   - '{publication 201877}'
-updated: '2026-04-09'
+updated: 2017-09-13
 doi: 10.23695/tqkx-av74
-language_codes:
-  - swe
-created: '2026-04-09'
