@@ -3,9 +3,12 @@ size:
 name:
   swe: Kubord 2
   eng: Kubord 2
+short_description:
+  swe: "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket."
+  eng: "Word frequencies from modern newspaper texts from the National Library of Sweden."
 description:
-  swe: Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket.
-  eng: Word frequencies from modern newspaper texts from the National Library of Sweden
+  swe: "Resursen är en omarbetning av korpussamlingen [Kubord2](https://spraakbanken.gu.se/resurser/kubord2)."
+  eng: "The resource is based on the corpus collection [Kubord2](https://spraakbanken.gu.se/resurser/kubord2)."
 created: '2026-04-08'
 updated: '2026-04-08'
 downloads:
