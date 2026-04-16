@@ -59,15 +59,6 @@ description:
     Språkbankens LEXIN-verktyg underhålls inte längre, använd gärna <a href="https://lexin.nada.kth.se/lexin/">https://lexin.nada.kth.se/lexin/</a> istället.
     </p>
 
-    <p>
-    Nedanstående material är endast tillgängliga för personer med anknytning till universitet eller högskolor. Materialen är endast tillgängliga under de villkor som beskrivs i bifogade licenser. All tidsbegränsning i respektive materials licensvillkor är fr.o.m 4 november 2004 ogiltig, licensen är fr.o.m. detta datum permanent. Denna förändring gäller materialen som sådana och alltså såväl tidigare som kommande nedladdningar av materialen.
-    </p>
-
-    <p>
-    <a href="/pub/reskit/LEXIN.zip">Ladda ner Svenska ord/LEXIN andra utgåvan</a>
-    <br/><em>Storlek:</em> C:a 20 000 uppslagsord
-    <br/><em>Format:</em> XML
-    </p>
   eng: |-
     <p>
     Svenska ord (LEXIN) was previously published as a book by Skolverket, as part of the LEXIN series (Lexicon for immigrants). The dictionary was developed firstly as a Swedish base for bilingual dictionaries from a Swedish perspective. In addition, it serves as a monolingual Swedish dictionary, Svenska ord.
@@ -83,16 +74,6 @@ description:
 
     <p>
     Språkbanken's LEXIN-tool is no longer maintained, please use <a href="https://lexin.nada.kth.se/lexin/">https://lexin.nada.kth.se/lexin/</a>.
-    </p>
-
-    <p>
-    The download of the resource is restricted. The resource cannot be used commerially and is therefore restricted to researchers at certain Swedish universities. Please contact the director of Språkbanken, Lars Borin, (sb-info at svenska . gu . se) for further information.
-    </p>
-
-    <p>
-    <a href="/pub/reskit/LEXIN.zip">Download Svenska ord/LEXIN second edition</a>
-    <br/><em>Storlek:</em> Around 20 000 entries
-    <br/><em>Format:</em> XML
     </p>
 annotation:
   swe: ''
