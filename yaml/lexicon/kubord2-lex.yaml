@@ -1,8 +1,8 @@
 size:
   entries: 39496308
 name:
-  swe: Kubord 2
-  eng: Kubord 2
+  swe: Kubord - lex
+  eng: Kubord - lex
 short_description:
   swe: "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket."
   eng: "Word frequencies from modern newspaper texts from the National Library of Sweden."
