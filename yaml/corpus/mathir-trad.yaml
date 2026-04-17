@@ -20,6 +20,9 @@ downloads:
     description: ''
     license: CC-BY-NC-4.0
 interfaces: []
+creators:
+  - Bouma, Gerlof
+  - Adesam, Yvonne
 contact_info:
   name: Gerlof Bouma
   email: sb-info@svenska.gu.se
