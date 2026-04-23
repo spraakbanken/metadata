@@ -71,7 +71,7 @@ intended_uses:
   eng: ''
 doi: 10.23695/10q4-ta15
 created: '2026-03-13'
-updated: '2026-04-20'
+updated: '2026-04-23'
 description:
   swe: |-
     Lärare och forskare vid Institutionen för nordiska språk i Uppsala inledde 1998 projektet *Svensk dramadialog
@@ -98,14 +98,33 @@ description:
     Resterande dramer har bearbetats av Astrid Berntsson Ingelstam med stöd av Språkbanken CLARIN, finansierat av
     Vetenskapsrådet (2025–2028; grant 2023-00161) tillsammans med de 10 medverkande universiteten och myndigheterna.
   eng: |-
-    Swedish Drama Dialogue consists of 34 complete dramas from the period 1730 to 1950. The dramas were selected with
-    diachronic comparability in mind, and are as far as possible Swedish original dramas for adults that have been
-    performed and have an identified author. The selection aims to reflect natural language from each time period, so
-    contemporary drama has been chosen in the first place and dramas written in verse have been avoided. The corpus
-    was created within the project "Svensk dramadialog" across three centuries by Mats Thelander, Görel
-    Bergman-Claeson, Ulla Börestam, Ulla Melander Marttala, Siv Strömquist, Marie Sörlin, Kerstin Thelander, Carin
-    Östman, Gun Widmark and Vera Lif, under the leadership of Mats Thelander. A subset of the dramas has been
-    annotated and processed in the creation of the corpus "Engelsk och svensk dramadialog 1725-1950" (ESDD). The
-    work on ESDD was carried out by Linnéa Anglemark, Merja Kytö, Ulla Melander Martala, Mats Thelander and Sofia
-    Gustafson Capková. The remaining dramas were processed by Astrid Berntsson Ingelstam with support from Språkbanken
-    CLARIN.
+    Swedish Drama Dialogue is a corpus of Swedish drama dialogue from the period 1730–1950, consisting of 34 complete
+    plays.
+
+    In 1998, teachers and researchers at the Department of Scandinavian Languages at Uppsala University initiated the
+    project *Svensk dramadialog över tre sekler* (’Swedish Drama Dialogue over Three Centuries’). The project was
+    funded by the Faculty of Languages at Uppsala University and the former Swedish Council for Research in the
+    Humanities and Social Sciences (HSFR). The principal investigator was Mats Thelander; other participants from the
+    outset included Görel Bergman Claeson, Ulla Börestam, Ulla Melander Marttala, Siv Strömquist, Gun Widmark, and
+    Carin Östman. The digitisation and encoding of the dramas were carried out by Kristina Ohlander at the department
+    of Linguistics and Philology, Uppsala University. The project is presented in research reports *Svensk
+    dramadialog* (’Swedish Drama Dialogue’) no. 1 (Melander Marttala & Östman 2000) and no. 2 (Melander Marttala &
+    Strömquist 2001). A substantial number of focused studies based on the project have since been conducted and
+    published in later reports, articles, and anthologies by both project members and other researchers within and
+    beyond Uppsala.
+
+    The material originally consisted of 45 complete Swedish plays dating from 1730 to the late 1990s, divided into
+    dialogue and metatext. The plays were selected with diachronic comparability in mind and, as far as possible,
+    comprised original Swedish plays for adult audiences that had been performed and whose authorship could be clearly
+    identified. The selection aimed to reflect natural language use for each period; consequently, contemporary plays
+    were prioritised and verse drama was largely avoided.
+
+    At a later stage (after 2009), a subset of the material was annotated and processed for reuse in the corpus
+    *English and Swedish Drama Dialogue 1725–1950* (ESDD). This corpus comprised 15 English and 15 Swedish plays and
+    was a collaborative project between the Department of Scandinavian Languages and the Department of English at
+    Uppsala University. Work on ESDD was carried out by Linnéa Anglemark, Merja Kytö, Ulla Melander Marttala, and
+    Sofia Gustafson Capcová, with support from the Faculty of Languages at Uppsala University.
+
+    The remaining plays have been processed by Astrid Berntsson Ingelstam with support from Språkbanken CLARIN, funded
+    by the Swedish Research Council (2025–2028; grant no. 2023-00161) in collaboration with the ten participating
+    universities and government agencies.
