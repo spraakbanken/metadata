@@ -1,63 +1,88 @@
 name:
-  swe: 'Fransk universitetsordlista'  # Human readable name in Swedish
-  eng: 'French university word list' # Human readable name in English
-description:  # Longer description. May contain Markdown or HTML.
-  swe: 'Fransk Universitetsordlista (FU) är obligatorisk för studenter som läser grundkurs i franska (Franska I, Franska A1, Franska allmän kurs) vid alla svenska universitet. Listan har utarbetats från French Nuclear Families List (FNFL, Cobb, Lindqvist & Ramnäs, 2026), som innehåller de vanligaste ordfamiljerna i det franska språket i stort. En ordfamilj består av ett huvudord och dess böjda och avledda former. I FU har vissa ändringar gjorts för att passa den målgrupp som listan riktar sig till. De viktigaste är 1) att FU endast innehåller huvudord och avledda former, 2) att FU består de medelfrekventa ordfamiljerna. Alltså utesluts de mest frekventa ordfamiljerna, som antas redan vara kända vid första terminen av universitetsstudier i franska i Sverige, liksom de mest sällsynta ordfamiljerna, vilka är lämpliga att studera på senare nivåer.'  # Longer description in Swedish. May contain Markdown or HTML.
-  eng: 'The French University word list (FU) is compulsory for first-semester students of French at all Swedish universities. The list has been extracted from the French Nuclear Frequency List (FNFL, Cobb, Lindqvist & Ramnäs, 2026), which is contains the most frequent word families of the French language at large. A word family consists of a head word and its inflected and derived forms. In the FU, certain modifications of the FNFL have been made to suit the targeted learner group. The most important are 1) the FU only contains head word and derived forms, 2) the FU consists of word families that belong to the mid-frequency range, thus excluding the most frequent word families assumed to be already known at the first semester of university studies of French in Sweden, as well as the most low-frequent word families, which are appropriate to study at later stages.' # Longer description in English. May contain Markdown or HTML.
-short_description: # Short description in a few words or a sentence (plain text only)
-  swe: 'Fransk Universitetsordlista innehåller ca 2 000 medelfrekventa ordfamiljer, avsedd för studier på grundkurs (motsvarande) vid svenska universitet'  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: 'The French Univeristy word list contains ca 2 000 mid-frequency word families, suited for first-semester studies at Swedish universities' # Short description in a few words or a sentence in English (plain text only)
-type: lexicon # Type of resource
-unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
-successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
-language_codes: 
-  - fra # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
-in_collections: [] # ID(s) of the collections the resource is part of
-downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
-  - url: 'https://spraakbanken.gu.se/resurser/data/fuol.zip'  # URL to a downloadable file
-    type: 'lexicon' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
-    format: 'PDF' # The file format or standard (e.g. XML)
-    description: '' # Additional description, if required. Only plain text.
-    license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
-    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
-    scrambled: false # Set to "true" if the file contains a scrambled version of the resource
-    scramble_level: '' # If the file contains a scrambled version of the resource, specify the level of scrambling (e.g., "sentence", "paragraph")
-interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
-  - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
-    description: '' # Additional description, if required
-    license: CC-BY-4.0 # License for the data in the interface. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
-    license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
-    scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource
-    scramble_level: '' # If the resource in the interface is a scrambled version of the original resource, specify the level of scrambling (e.g., "sentence", "paragraph")
+  swe: Fransk universitetsordlista
+  eng: French university word list
+description:
+  swe: Fransk Universitetsordlista (FU) är obligatorisk för studenter som läser grundkurs
+    i franska (Franska I, Franska A1, Franska allmän kurs) vid alla svenska universitet.
+    Listan har utarbetats från French Nuclear Families List (FNFL, Cobb, Lindqvist
+    & Ramnäs, 2026), som innehåller de vanligaste ordfamiljerna i det franska språket
+    i stort. En ordfamilj består av ett huvudord och dess böjda och avledda former.
+    I FU har vissa ändringar gjorts för att passa den målgrupp som listan riktar sig
+    till. De viktigaste är 1) att FU endast innehåller huvudord och avledda former,
+    2) att FU består de medelfrekventa ordfamiljerna. Alltså utesluts de mest frekventa
+    ordfamiljerna, som antas redan vara kända vid första terminen av universitetsstudier
+    i franska i Sverige, liksom de mest sällsynta ordfamiljerna, vilka är lämpliga
+    att studera på senare nivåer.
+  eng: The French University word list (FU) is compulsory for first-semester students
+    of French at all Swedish universities. The list has been extracted from the French
+    Nuclear Frequency List (FNFL, Cobb, Lindqvist & Ramnäs, 2026), which is contains
+    the most frequent word families of the French language at large. A word family
+    consists of a head word and its inflected and derived forms. In the FU, certain
+    modifications of the FNFL have been made to suit the targeted learner group. The
+    most important are 1) the FU only contains head word and derived forms, 2) the
+    FU consists of word families that belong to the mid-frequency range, thus excluding
+    the most frequent word families assumed to be already known at the first semester
+    of university studies of French in Sweden, as well as the most low-frequent word
+    families, which are appropriate to study at later stages.
+short_description:
+  swe: Fransk Universitetsordlista innehåller ca 2 000 medelfrekventa ordfamiljer,
+    avsedd för studier på grundkurs (motsvarande) vid svenska universitet
+  eng: The French Univeristy word list contains ca 2 000 mid-frequency word families,
+    suited for first-semester studies at Swedish universities
+type: lexicon
+unlisted: false
+successors: []
+language_codes:
+  - fra
+in_collections: []
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/fuol.zip
+    type: lexicon
+    format: PDF
+    description: ''
+    license: CC-BY-4.0
+    license_other: ''
+    scrambled: false
+    scramble_level: ''
+interfaces:
+  - url: ''
+    description: ''
+    license: CC-BY-4.0
+    license_other: ''
+    scrambled: false
+    scramble_level: ''
 creators:
   - Ramnäs, Mårten
   - Lindqvist, Christina
-contact_info: # Contact info of the person who can answer questions about the resource
-  name: 'Christina Lindqvist'
+contact_info:
+  name: Christina Lindqvist
   email: christina.lindqvist@sprak.gu.se
   affiliation:
-    organization: 'Institutionen för språk och litteraturer, Göteborgs universitet'
+    organization: Institutionen för språk och litteraturer, Göteborgs universitet
     email: ''
 keywords:
   - french
   - word list
   - word families
   - frequency
-caveats: # Caveats and disclaimers. May contain Markdown or HTML.
-  swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
-  eng: '' # Caveats and disclaimers in English. May contain Markdown or HTML.
-standard_reference: 'Ramnäs, M. & Lindqvist, C. (sous presse). Une nouvelle liste de vocabulaire basée sur la famille de mots. Neuphilologische Mitteilungen.' # Standard reference or link to a publication describing the resource. May contain Markdown or HTML.
-other_references: 
-  - Cobb, T., Lindqvist, C., & Ramnäs, M. (2026). A nuclear families word list for French. Modern Language Journal, 110, 111–138. https://doi.org/10.1111/modl.70021 # List of references or links to publications describing the resource. May contain Markdown or HTML.
-intended_uses: # The intended uses for this resource. May contain Markdown or HTML.
-  swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
-  eng: '' # The intended uses for this resource (in English). May contain Markdown or HTML.
-created: '2026-05-11' # Date the resource was created (format: YYYY-MM-DD)
-updated: '2026-05-11' # Date the resource was last updated (format: YYYY-MM-DD)
-collection: false # Set to "true" if this is a collection of resources
-size: # Size information about the lexicon. Additional fields may be added.
-  entries: 5724  # Number of entries in the lexicon (integer)
-annotation: # Anything worth to note about the annotations in this resource. Especially important for corpora with gold annotations. May contain Markdown or HTML.
-  swe: ''  # Annotation information in Swedish. May contain Markdown or HTML.
-  eng: '' # Annotation information in English. May contain Markdown or HTML.
-trainingdata: false # If set to "true", the resource will be listed as "Training and evaluation data"
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: Ramnäs, M. & Lindqvist, C. (sous presse). Une nouvelle liste de
+  vocabulaire basée sur la famille de mots. Neuphilologische Mitteilungen.
+other_references:
+  - Cobb, T., Lindqvist, C., & Ramnäs, M. (2026). A nuclear families word list for
+    French. Modern Language Journal, 110, 111–138. https://doi.org/10.1111/modl.70021
+intended_uses:
+  swe: ''
+  eng: ''
+created: '2026-05-11'
+updated: '2026-05-11'
+collection: false
+size:
+  entries: 5724
+annotation:
+  swe: ''
+  eng: ''
+trainingdata: false
+doi: 10.23695/ny62-h089
