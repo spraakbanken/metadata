@@ -44,13 +44,13 @@ downloads:
     license_other: ''
     scrambled: false
     scramble_level: ''
-interfaces:
-  - url: ''
-    description: ''
+  - url: https://spraakbanken.gu.se/resurser/data/karp/fuol.jsonl
     license: CC-BY-4.0
-    license_other: ''
-    scrambled: false
-    scramble_level: ''
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=fuol
+    license: CC-BY-4.0
 creators:
   - Ramnäs, Mårten
   - Lindqvist, Christina
@@ -77,7 +77,7 @@ intended_uses:
   swe: ''
   eng: ''
 created: '2026-05-11'
-updated: '2026-05-11'
+updated: '2026-05-12'
 collection: false
 size:
   entries: 5724
@@ -86,3 +86,4 @@ annotation:
   eng: ''
 trainingdata: false
 doi: 10.23695/ny62-h089
+
