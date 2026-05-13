@@ -15,7 +15,7 @@ contact_info:
   affiliation:
     organization: Språkbanken Sam
     email: sb-sam@isof.se
-unlisted: false
+unlisted: true
 in_collections: []
 keywords: []
 creators: []
