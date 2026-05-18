@@ -29,41 +29,22 @@ caveats:
 other_references: []
 updated: '2026-05-18'
 description:
-  swe: '<p>
-
-    Parole+ är en automatiskt utökad version av PAROLE syntaxdata för svenska, utarbetad
-    vid Språkbanken. Den bygger på data från LE PAROLE-projektet, dokumenterat på
-    hemsidan för PAROLE SIMPLE (<a href="http://www.ub.edu/gilcub/SIMPLE/simple.html">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).
-    Den ursprungliga syntaktiska informationen i PAROLE har automatiskt kopplats till
-    ordbetydelser i SALDO, som även ger morfologisk information.
-
+  swe: |-
+    <p>
+    Parole+ är en automatiskt utökad version av PAROLE syntaxdata för svenska, utarbetad vid Språkbanken. Den bygger på data från LE PAROLE-projektet, dokumenterat på hemsidan för PAROLE SIMPLE (<a href="http://www.ub.edu/gilcub/SIMPLE/simple.html">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). Den ursprungliga syntaktiska informationen i PAROLE har automatiskt kopplats till ordbetydelser i SALDO, som även ger morfologisk information.
     </p>
 
-
     <p>
-
-    De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mappningsdokumentet</a>
-    för mer information.
-
-    </p>'
-  eng: '<p>
-
-    Parole+ is an automatically extended version of Parole syntax data for Swedish
-    elaborated at Språkbanken. It is based on data from the LE PAROLE project documented
-    at the PAROLE SIMPLE webpage (<a href="http://www.ub.edu/gilcub/SIMPLE/simple.html">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>).
-    The original syntactic information in PAROLE has been automatically linked to
-    senses in SALDO, which also provides morphological information.
-
+    De syntaktiska koderna har ändrats för att göra datan mer tillgänglig. Se <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mappningsdokumentet</a> för mer information.
+    </p>
+  eng: |-
+    <p>
+    Parole+ is an automatically extended version of Parole syntax data for Swedish elaborated at Språkbanken. It is based on data from the LE PAROLE project documented at the PAROLE SIMPLE webpage (<a href="http://www.ub.edu/gilcub/SIMPLE/simple.html">http://www.ub.edu/gilcub/SIMPLE/simple.html</a>). The original syntactic information in PAROLE has been automatically linked to senses in SALDO, which also provides morphological information.
     </p>
 
-
     <p>
-
-    The syntactic codes have been changed to make the data more comprehensible. See
-    the <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mapping
-    document</a> for more information.
-
-    </p>'
+    The syntactic codes have been changed to make the data more comprehensible. See the <a href="https://svn.spraakbanken.gu.se/sb-arkiv/pub/parole/parolekoder_dokumentation.txt">mapping document</a> for more information.
+    </p>
 language_codes:
   - swe
 created: '2026-05-18'
@@ -75,3 +56,4 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/karplabb?resources=parolelexplus-2-0
     license: CC-BY-4.0
+doi: 10.23695/56bs-t470
