@@ -8,8 +8,9 @@ short_description:
     semantic information in Swedish, connected to SALDO senses
 type: lexicon
 trainingdata: false
-unlisted: false
-successors: []
+unlisted: true
+successors:
+  - simpleplus-2-0
 language_codes:
   - swe
 size:
@@ -32,9 +33,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     format: html
     description: ''
-    license: CC-BY-4.0
-interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=parolelexplus&lexicon=simpleplus
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

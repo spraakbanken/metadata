@@ -8,8 +8,9 @@ short_description:
     syntactic information, partially linked to SALDO senses
 type: lexicon
 trainingdata: false
-unlisted: false
-successors: []
+unlisted: true
+successors:
+  - parolelexplus-2-0
 language_codes:
   - swe
 size:
@@ -20,9 +21,6 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC-BY-4.0
-interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=parolelexplus
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
