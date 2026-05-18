@@ -9,8 +9,7 @@ short_description:
 type: lexicon
 trainingdata: false
 unlisted: false
-successors:
-  - parolelexplus-2-0
+successors: []
 language_codes:
   - swe
 size:
