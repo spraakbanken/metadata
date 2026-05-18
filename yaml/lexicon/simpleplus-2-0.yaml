@@ -10,8 +10,6 @@ type: lexicon
 unlisted: false
 trainingdata: false
 successors: []
-language_codes:
-  - swe
 size:
   entries: 8630
 in_collections: []
@@ -28,6 +26,10 @@ downloads:
     format: html
     description: ''
     license: CC-BY-4.0
+  - url: https://spraakbanken.gu.se/resurser/data/karp/simpleplus-2-0.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -42,4 +44,10 @@ caveats:
   swe: ''
   eng: ''
 other_references: []
-updated: 2026-05-18
+updated: '2026-05-18'
+language_codes:
+  - swe
+created: '2026-05-18'
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=simpleplus-2-0
+    license: CC-BY-4.0
