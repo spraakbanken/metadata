@@ -1,0 +1,21 @@
+size:
+  entries: 128295
+name:
+  swe: SAOL 15 (2026) - ord
+  eng: SAOL 15 (2026) - ord
+description:
+  swe: Svenska Akademiens ordlista, femtonde upplagan, utgiven 2026.
+  eng: Svenska Akademiens ordlista, 15:th edition, released 2026.
+created: '2026-05-21'
+updated: '2026-05-21'
+downloads: []
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=saol15-ord
+    license: CC-BY-4.0
+type: lexicon
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
