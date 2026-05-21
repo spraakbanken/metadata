@@ -8,14 +8,17 @@ type: lexicon
 trainingdata: false
 unlisted: false
 successors: []
-language_codes:
-  - swe
-  - eng
 size:
   entries: 6989
 in_collections: []
-downloads: []
-interfaces: []
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/wordnet-saldo-2-0.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karplabb?resources=wordnet-saldo-2-0
+    license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -30,6 +33,8 @@ caveats:
   swe: ''
   eng: ''
 other_references: []
-created: 2017-09-19
-updated: 2026-05-21
-
+created: '2017-09-19'
+updated: '2026-05-21'
+language_codes:
+  - swe
+  - eng
