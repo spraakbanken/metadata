@@ -6,8 +6,9 @@ short_description:
   eng: A linking between SALDO senses and Core WordNet
 type: lexicon
 trainingdata: false
-unlisted: false
-successors: []
+unlisted: true
+successors:
+  - wordnet-saldo-2-0
 language_codes:
   - swe
   - eng
@@ -19,9 +20,6 @@ downloads:
     type: lexicon
     format: LMF
     description: ''
-    license: CC-BY-4.0
-interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=wordnet-saldo
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

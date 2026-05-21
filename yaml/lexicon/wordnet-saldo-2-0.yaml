@@ -1,0 +1,35 @@
+name:
+  swe: WordNet-SALDO
+  eng: WordNet-SALDO
+short_description:
+  swe: En länkning mellan SALDO och Core WordNet
+  eng: A linking between SALDO senses and Core WordNet
+type: lexicon
+trainingdata: false
+unlisted: false
+successors: []
+language_codes:
+  - swe
+  - eng
+size:
+  entries: 6989
+in_collections: []
+downloads: []
+interfaces: []
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+other_references: []
+created: 2017-09-19
+updated: 2026-05-21
+
