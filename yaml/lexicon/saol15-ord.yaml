@@ -19,3 +19,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+language_codes:
+  - swe
