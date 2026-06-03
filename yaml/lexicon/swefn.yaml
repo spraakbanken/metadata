@@ -31,7 +31,7 @@ downloads:
     description: ''
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=swefn
+  - url: https://spraakbanken.gu.se/karp-red/?mode=swefn
     license: CC-BY-4.0
 contact_info:
   name: Dana Dannélls

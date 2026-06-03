@@ -20,7 +20,7 @@ downloads:
     description: ''
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=fsvm
+  - url: https://spraakbanken.gu.se/karp-red/?mode=fsvm
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

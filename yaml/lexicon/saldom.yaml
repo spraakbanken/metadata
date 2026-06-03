@@ -20,7 +20,7 @@ downloads:
     description: ''
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=saldom&lexicon=saldom
+  - url: https://spraakbanken.gu.se/karp-red/?mode=saldom&lexicon=saldom
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

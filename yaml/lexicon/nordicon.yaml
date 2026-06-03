@@ -16,7 +16,7 @@ size:
 in_collections: []
 downloads: []
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=nordicon
+  - url: https://spraakbanken.gu.se/karp-red/?mode=nordicon
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

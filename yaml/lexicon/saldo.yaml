@@ -21,7 +21,7 @@ downloads:
     description: ''
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=saldom&lexicon=saldo
+  - url: https://spraakbanken.gu.se/karp-red/?mode=saldom&lexicon=saldo
     license: CC-BY-4.0
 creators:
   - Borin, Lars
