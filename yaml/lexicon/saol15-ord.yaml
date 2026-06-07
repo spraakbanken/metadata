@@ -10,7 +10,7 @@ created: '2026-05-21'
 updated: '2026-05-21'
 downloads: []
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=saol15-ord
+  - url: https://spraakbanken.gu.se/karp?resources=saol15-ord
     license: CC-BY-4.0
 type: lexicon
 contact_info:

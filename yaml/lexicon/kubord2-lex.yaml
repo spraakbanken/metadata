@@ -17,7 +17,7 @@ downloads:
     format: jsonl
     type: lexicon
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=kubord2-lex
+  - url: https://spraakbanken.gu.se/karp?resources=kubord2-lex
     license: CC-BY-4.0
 type: lexicon
 contact_info:

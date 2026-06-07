@@ -26,7 +26,7 @@ downloads:
     description: ''
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karp/?mode=kelly
+  - url: https://spraakbanken.gu.se/karp/?resources=kelly
     license: CC-BY-4.0
 creators: 
 - Volodina Elena

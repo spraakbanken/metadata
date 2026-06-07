@@ -54,6 +54,6 @@ downloads:
     format: jsonl
     type: lexicon
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=parolelexplus-2-0
+  - url: https://spraakbanken.gu.se/karp?resources=parolelexplus-2-0
     license: CC-BY-4.0
 doi: 10.23695/56bs-t470

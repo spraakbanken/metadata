@@ -7,7 +7,7 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/karp/so-2009-webbversion.zip
     license: CC-BY-4.0
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=so2009-ord
+  - url: https://spraakbanken.gu.se/karp?resources=so2009-ord
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

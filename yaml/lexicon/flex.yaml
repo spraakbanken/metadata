@@ -23,7 +23,7 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
     description: 'Table file with words, novel freq, newspaper freq, forum freq.'
     license: CC-BY-4.0
 interfaces:
-  - url: 'https://spraakbanken.gu.se/karplabb/?resources=flex'
+  - url: 'https://spraakbanken.gu.se/karp/?resources=flex'
     description: ''
     license: CC-BY-4.0
 creators:

@@ -49,7 +49,7 @@ downloads:
     format: jsonl
     type: lexicon
 interfaces:
-  - url: https://spraakbanken.gu.se/karplabb?resources=fuol
+  - url: https://spraakbanken.gu.se/karp/?resources=fuol
     license: CC-BY-4.0
 creators:
   - Ramnäs, Mårten
