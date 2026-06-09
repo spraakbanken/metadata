@@ -23,7 +23,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PRESS76.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
+    description: ""
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=press76
@@ -67,6 +67,8 @@ description:
     </p>
 
     <p>Jerker Järborg</p>
-  eng: ''
+  eng: ""
+keywords:
+  - news
 updated: 2017-03-17
 doi: 10.23695/v47x-4g92

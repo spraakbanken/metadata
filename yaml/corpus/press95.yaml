@@ -23,7 +23,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PRESS95.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
+    description: ""
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=press95
@@ -135,7 +135,9 @@ description:
 
     <tr><td>SvdVET</td><td>populärvetenskap (?)                                 </td><td>|</td><td>     </td><td>                                                      </td></tr>
     <tr><td colspan="5"><hr />                                                                                                                               </td></tr>
-    </table> 
-  eng: ''
+    </table>
+  eng: ""
+keywords:
+  - news
 updated: 2017-03-15
 doi: 10.23695/zmem-cs93

@@ -2,12 +2,11 @@ name:
   swe: Press
   eng: Press
 short_description:
-  swe: Svensk press
-  eng: Swedish press
+  swe: Utdrag ur svensk press i olika årgångar
+  eng: Excerpts from Swedish press from various years
 type: corpus
 trainingdata: false
 unlisted: false
-successors: []
 collection: true
 resources:
   - press65
@@ -18,7 +17,6 @@ resources:
   - press98
 language_codes:
   - swe
-downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=newstexts.press
     license: CC-BY-4.0
@@ -28,15 +26,6 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
-other_references: []
-intended_uses:
-  swe: ''
-  eng: ''
+keywords:
+  - news
 doi: 10.23695/2pq2-g842

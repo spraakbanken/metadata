@@ -23,7 +23,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PRESS65.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
+    description: ""
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=press65
@@ -98,10 +98,12 @@ description:
     I konkordansen identifieras raderna med en kombination av
     förkortningarna för <STRONG>Tidning</STRONG> och <STRONG>Ämne</STRONG>, enligt mönstren <STRONG>SvDKu</STRONG> eller <STRONG>DN_Mä</STRONG>. <br />
 
-    OBS att meningsgränser är särskilt markerade genom tillägg av plustecken <CODE>"+"</CODE> efter s.k. stort skiljetecken.
+    OBS att meningsgränser är särskilt markerade genom tillägg av plustecken <code>"+"</code> efter s.k. stort skiljetecken.
     </p>
 
     <p>Jerker Järborg</p>
-  eng: ''
+  eng: ""
+keywords:
+  - news
 updated: 2017-03-14
 doi: 10.23695/vpc3-wc18
