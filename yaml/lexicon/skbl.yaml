@@ -1,6 +1,9 @@
 name:
   swe: SKBL
   eng: SKBL
+description:
+  swe: Svenskt kvinnobiografiskt lexikon innehåller levnadsteckningar och sökbara biografiska uppgifter om många kvinnor som varit verksamma i Sverige.
+  eng: The Biographical Dictionary of Swedish Women contains biographies and searchable biographical data on many women who have been active in Sweden.
 short_description:
   swe: Svenskt kvinnobiografiskt lexikon
   eng: The Biographical Dictionary of Swedish Women
@@ -12,7 +15,7 @@ language_codes:
   - swe
   - eng
 size:
-  entries: 1411
+  entries: 2059
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/skbl/skbl.json
