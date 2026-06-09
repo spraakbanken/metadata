@@ -4,6 +4,7 @@ name:
 type: corpus
 language_codes:
 - rus
+in_collections: [dream]
 size:
   tokens: 1020355
   sentences: 64128
@@ -15,5 +16,11 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-ru-open
   license: CC-BY-4.0
+contact_info:
+  name: ''
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: ''
+    email: ''
 updated: 2019-12-09
 doi: 10.23695/gzsh-rp33
