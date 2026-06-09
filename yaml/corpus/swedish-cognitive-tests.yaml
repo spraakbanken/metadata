@@ -11,7 +11,7 @@ description:
     Dessa tester mäter olika aspekter av språk och exekutiva funktioner, såsom förmågan att snabbt
     generera ord inom en kategori, producera ord som börjar på specifika bokstäver
     samt förmågan att namnge bilder av objekt. Tillsammans med andra tester, såsom
-    <b>Stroop Test</b>, och <b>Trail Making Test A och B </b>, ger de en bred bild av
+    <b>Stroop Test</b>, och <b>Trail Making Test A och B</b>, ger de en bred bild av
     individens språkliga och kognitiva förmåga.
   eng: Swedish Cognitive Tests refers to a collection of neuropsychological assessments
     commonly used in Sweden to evaluate cognitive functioning, particularly in clinical
@@ -26,7 +26,7 @@ description:
     the <b>Stroop Test</b>, and the <b>Trail Making Test A and B </b>, these
     tests provide a broad overview of an individual’s linguistic and cognitive abilities.
 short_description:
-  swe: Svenska kognitiva tester är en samling neuropsykologiska test som används för
+  swe: Svenska kognitiva tester är en samling neuropsykologiska tester som används för
     att bedöma kognitiva funktioner, särskilt språk och exekutiva funktioner.
   eng: Swedish cognitive tests refer to a collection of neuropsychological assessments
     used to evaluate cognitive functions, particularly language and executive functions.
@@ -104,7 +104,7 @@ intended_uses:
   eng: Assessment of cognitive functions, particularly language and executive functions,
     in neuropsychological evaluation.
 created: '2026-03-11'
-updated: '2026-03-25'
+updated: '2026-06-09'
 collection: false
 size:
   tokens: 0
