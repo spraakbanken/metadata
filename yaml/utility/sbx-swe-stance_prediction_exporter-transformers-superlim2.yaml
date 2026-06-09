@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Exportera meningsvisa prediktioner av inställningar mot migration och kärnkraft
   eng: Export sentence-wise predictions on stances against migration and nuclear power
-task: stance prediction exporter
+task: export
 example: |
   This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 

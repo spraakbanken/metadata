@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Bestäm den logiska relationen mellan två meningar
   eng: Determine the logical relation between two sentences
-task: relation between two sentences
+task: natural language inference
 models:
   - name: SweNLI 1.0
     url: https://spraakbanken.gu.se/resurser/swenli

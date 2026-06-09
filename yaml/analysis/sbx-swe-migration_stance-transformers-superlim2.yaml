@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Annoterar inställning gentemot immigration på en skala
   eng: Label the sentiment towards immigration on a continuous scale
-task: migration stance
+task: stance detection
 models:
   - name: Svensk ABSAbank-Imm 1.1
     url: https://spraakbanken.gu.se/resurser/absabank-imm

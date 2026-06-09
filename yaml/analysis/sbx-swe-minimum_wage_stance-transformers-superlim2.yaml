@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Identifiera inställningen gentemot minimilön
   eng: Identify the stance towards minimum wage
-task: minimum wage stance
+task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='minimum_wage'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences

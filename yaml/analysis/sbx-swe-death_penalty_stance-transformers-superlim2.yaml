@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Identifiera inställningen gentemot dödsstraff
   eng: Identify the stance towards death penalty
-task: death penalty stance
+task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='death_penalty'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences

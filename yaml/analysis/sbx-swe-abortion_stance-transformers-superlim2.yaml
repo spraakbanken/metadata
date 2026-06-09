@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Identifiera inställningen gentemot abort
   eng: Identify the stance towards abortion
-task: abortion stance
+task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='abortion'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences

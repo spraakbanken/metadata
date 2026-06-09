@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Identifiera inställningen gentemot kloning
   eng: Identify the stance towards cloning
-task: cloning stance
+task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='cloning'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences

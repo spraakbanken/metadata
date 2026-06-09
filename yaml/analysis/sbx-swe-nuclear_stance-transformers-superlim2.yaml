@@ -12,7 +12,7 @@ type: analysis
 analysis_unit: sentence
 other_references:
   - 'Repository: https://github.com/spraakbanken/sparv-sbx-superlim'
-task: nuclear stance
+task: stance detection
 short_description:
   swe: Identifiera inställningen gentemot kärnkraft
   eng: Identify the stance towards nuclear power

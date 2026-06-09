@@ -22,3 +22,6 @@ attitude annotation: attitydannotering
 emotional analysis: emotionell analys
 import: import
 multi-class emotion classification: flerkategorisk emotionsklassificering
+stance detection: ståndpunktsidentifiering
+grammaticality judgment: grammatikalitetsbedömning
+natural language inference: språklogisk inferens

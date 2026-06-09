@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Identifiera inställningen gentemot marijuanalegalisering
   eng: Identify the stance towards marijuana legalization
-task: marijuana legalization stance
+task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='marijuana_legalization'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences
