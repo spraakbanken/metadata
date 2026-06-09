@@ -9,7 +9,13 @@ trainingdata: false
 unlisted: false
 successors: []
 language_codes:
+  - deu
   - eng
+  - fra
+  - ita
+  - nld
+  - rus
+  - spa
 size:
   tokens: 75027790
   sentences: 5740264
