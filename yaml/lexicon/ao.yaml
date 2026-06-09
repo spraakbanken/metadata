@@ -2,9 +2,40 @@ name:
   swe: Akademisk ordlista
   eng: Academic wordlist
 short_description:
-  swe: Akademisk ordlista
-  eng: Academic wordlist
+  swe: 'En ordlistan för att stödja andraspråksinlärare på mer avancerad nivå och modersmålsstudenter som är ovana vid det akademiska språket.'
+  eng: 'A glossary to support second-language learners at a more advanced level and native-speaking students who are not accustomed to academic language.'
+description:
+  swe: >
+    Syftet med ordlistan är att stödja, i första hand, 
+    andraspråksinlärare på mer avancerad nivå, men även 
+    modersmålsstudenter som är ovana vid det akademiska språket. 
+    Listan riktar sig också till dem som väljer att skriva på svenska 
+    i ställetför på engelska inom ramen för sina högre studier. 
+    Ordlistan är främst tänkt att användas vid produktion 
+    av akademisk text, men tack vare att uppslagsorden försetts 
+    med svenska betydelseangivelser och 
+    engelska översättningsekvivalenter, 
+    kan den även vara till hjälp vid förståelse. 
+    Dessutom kan vårt arbete tjäna som underlag för utveckling av 
+    framtida ordtester och undervisningsmaterial 
+    samt bidra till att dokumentera det svenska akademiska ordförrådet.
+  eng: >
+    The purpose of the glossary is primarily to support second-language 
+    learners at a more advanced level, but also native-speaking students 
+    who are not accustomed to academic language. The glossary is also 
+    intended for those who choose to write in Swedish instead of English 
+    within the framework of their higher education studies.
+    The glossary is mainly intended to be used in the production of 
+    academic texts, but because the entries are provided with Swedish 
+    definitions and English translation equivalents, it can also be 
+    helpful for reception. In addition, our work may serve as a basis 
+    for the development of future vocabulary tests and teaching materials, 
+    as well as contribute to documenting the Swedish academic vocabulary.
 type: lexicon
+creators:
+  - Ribeck, Judy Carola
+  - Jansson, Håkan
+  - Sköldberg, Emma
 trainingdata: false
 unlisted: false
 successors: []
