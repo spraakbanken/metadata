@@ -32,13 +32,13 @@ contact_info:
 description:
   swe: |-
     <p>
-      Korpusen är <a href="http://project2.sol.lu.se/fornsvenska/navigationsgrejer/nysv_ram.html">Fornsvenska textbankens</a> digitalisering av Olof Dalins Thän Swänska Argus (1732–1734). Resursen är automatiskt annoterad med morfologisk och syntaktisk information.</p>
+      Korpusen är <a href="https://www.nordlund.lu.se/nysvenska-nsv-text-filer-och-om-text-sidor/olof-von-dahlin/">Fornsvenska textbankens</a> digitalisering av Olof Dalins Thän Swänska Argus (1732–1734). Resursen är automatiskt annoterad med morfologisk och syntaktisk information.</p>
     <p>
       Det finns även en manuell transkription av denna korpus tillgänglig <a href="https://spraakbanken.gu.se/resurser/dalin-then-swaanska-argus-1732-1734">här</a>.
     </p>
   eng: |-
     <p>
-      This corpus is the digitization by <a href="http://project2.sol.lu.se/fornsvenska/navigationsgrejer/nysv_ram.html">Fornsvenska textbankens</a> of Thän Swänska Argus (1732–1734) by Olof Dalin. The resource has been automatically annotated with morphological and syntactic information.
+      This corpus is the digitization by <a href="https://www.nordlund.lu.se/nysvenska-nsv-text-filer-och-om-text-sidor/olof-von-dahlin/">Fornsvenska textbankens</a> of Thän Swänska Argus (1732–1734) by Olof Dalin. The resource has been automatically annotated with morphological and syntactic information.
     </p>
     <p>
       There is also a manual transcription of this corpus available <a href="https://spraakbanken.gu.se/en/resources/dalin-then-swaanska-argus-1732-1734">here</a>.
