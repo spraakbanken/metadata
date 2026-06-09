@@ -29,7 +29,12 @@ contact_info:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: <a target="_blank" href="http://project2.sol.lu.se/fornsvenska/">Fornsvenska
+  swe: |-
+    <a target="_blank" href="https://www.nordlund.lu.se/texter/aldre-fornsvenska/">Fornsvenska
+    textbanken</a> är ett projekt som digitaliserar fornsvenska texter och gör dem
+    tillgängliga över webben. Projektet leds av Lars-Olof Delsing vid Lunds universitet.
+  eng: |-
+    <a target="_blank" href="https://www.nordlund.lu.se/texter/aldre-fornsvenska/">Fornsvenska
     textbanken</a> är ett projekt som digitaliserar fornsvenska texter och gör dem
     tillgängliga över webben. Projektet leds av Lars-Olof Delsing vid Lunds universitet.
 updated: 2013-03-26
