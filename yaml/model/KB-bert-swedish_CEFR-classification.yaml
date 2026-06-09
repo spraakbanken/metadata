@@ -1,0 +1,39 @@
+name:
+  swe: 'sbx/KB-bert-swedish_CEFR-classification'  
+  eng: 'sbx/KB-bert-swedish_CEFR-classification' 
+description:  # Longer description. May contain Markdown or HTML.
+  swe: ''
+  eng: 'A model based on KB/bert-base-swedish-cased trained for CEFR level classification of learner essays.' 
+short_description: 
+  swe: ''  
+  eng: 'A model based on KB/bert-base-swedish-cased trained for CEFR level classification of learner essays.' 
+type: model 
+unlisted: false 
+successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
+language_codes: ["swe"] 
+in_collections: [] 
+downloads: # Downloadable files related to the resource
+  - url: 'https://huggingface.co/sbx/KB-bert-swedish_CEFR-classification'  
+    type: 'model' 
+    format: '' 
+    description: 'The model is hosted on HuggingFace and can be easily accessed e.g. using their Python library.' 
+    license: GPL-3.0
+creators: ["Muñoz Sánchez, Ricardo"] 
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken Text
+    email: sb-info@svenska.gu.se
+keywords: ["ICALL", "CEFR", "BERT"] # List of keywords (in English) that may be used for filtering. Keep them short!
+caveats: 
+  swe: ''  
+  eng: 'This model is not meant to be used in high-stakes contexts. It is meant to be used exclusively as a language-learning tool.' 
+standard_reference: '{publication 342259}' 
+other_references: [] 
+intended_uses: 
+  swe: '' 
+  eng: 'CEFR level classification' 
+created: '2025-05-25' # Date the resource was created (format: YYYY-MM-DD)
+collection: false 
+trainingdata: false 
