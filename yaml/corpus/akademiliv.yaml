@@ -27,7 +27,8 @@ interfaces:
     url: https://spraakbanken.gu.se/korp/#?corpus=akademiliv
     description: The texts was updated until the magazine was shut down in 2024.
     scrambled: true
-creators: [Lindström, Elin]
+creators: 
+- Lindström, Elin
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
