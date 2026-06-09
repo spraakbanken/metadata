@@ -2,7 +2,24 @@ name:
   swe: Historiska SAOL
   eng: Historical SAOL
 short_description:
-  swe: Ord i SAOL med länkar till faksimiler
+  swe: | 
+   Denna samling innehåller uppslagsord i upplaga 1, 6 och 7–14 från *Svenska Akademiens ordlista*, SAOL, med länkar till faksimiler. Dessutom ingår *Svensk ordbok utgiven av Svenska Akademien*, SO 2009, i denna datamängd. 
+
+   **ingångsord (normaliserat ord)**: uppslagsord, vanligen fetstil i de tryckta upplagorna, äldre stavning vanligen normaliserad efter modern stavning 
+
+   **ordklass (UD)**: ordklassuppgift på engelska (universal dependencies) 
+
+   **ord **: vanligen ingångsordet men skrivet som det ursprungligen stod i de tryckta böckerna, t.ex. med inledande versal i SAOL 1 och 6, markering av sammansättningsgräns med lodstreck, markering av variantform med liten, upphöjd ring, upplysningar om uttal (**rådstugurätt** – SAOL  7 & 8) m.m. 
+
+   **homograf**: numrering vid likstavade former av olika ord. 0 = hänvisning, 1, 2, 3 osv. betecknar ordning på homografa ord. Exempelord: **rå**, **så** 
+
+   **morfosyntax**: vanligen ordklassangivelse (förkortning), ibland information om att ordet är en hänvisning (hv) 
+
+   **relaterat ord**: vanligen angivelse av uppslagsord (inkl. grundform vid böjda former). Exempelord: **skola** vid sökning på **skolbok**; **springa** vid sökning på **sprang**, **synk**** vid sökning på **synka** 
+
+   **källa**: länk till pdf av aktuell sida i tryckt upplaga alt. till äldre webbversion 
+
+   **text**: böjningsändelser, böjda former. Exempelord: *-n*, *koalor* vid sökning på **koala**   
   eng: Words in SAOL with links to facsimiles
 type: lexicon
 unlisted: false
