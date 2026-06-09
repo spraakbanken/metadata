@@ -1,6 +1,6 @@
 name:
-  swe: 'sbx/KB-bert-base-swedish-cased_PI-detection-basic-iob'  
-  eng: 'sbx/KB-bert-base-swedish-cased_PI-detection-basic-iob' 
+  swe: 'sbx/KB-bert-swedish_PI-detection-basic-iob'  
+  eng: 'sbx/KB-bert-swedish_PI-detection-basic-iob' 
 description:  # Longer description. May contain Markdown or HTML.
   swe: 'En modell baserad på KB/bert-base-swedish-cased tränad med syfte att upptäcka personliga uppgifter, särskilt i studentuppsatser. Den här varianten skiljer endast mellan personlig och icke-personlig samt markerar början och insidan.'  
   eng: 'A model based on KB/bert-base-swedish-cased trained to detect personal information, especially in learner essays. This variant differentiates only between PI and non-PI and differentiates between beginning and inside.' 
@@ -13,7 +13,7 @@ successors: [] # If this resource has been replaced by one or more newer version
 language_codes: ["swe"] 
 in_collections: [] 
 downloads: # Downloadable files related to the resource
-  - url: 'https://huggingface.co/sbx/KB-bert-base-swedish-cased_PI-detection-basic-iob'  
+  - url: 'https://huggingface.co/sbx/KB-bert-swedish_PI-detection-basic-iob'  
     type: 'model' 
     format: '' 
     description: 'The model is hosted on HuggingFace and can be easily accessed e.g. using their Python library.' 
