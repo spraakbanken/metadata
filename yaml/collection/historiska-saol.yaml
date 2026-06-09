@@ -2,6 +2,9 @@ name:
   swe: Historiska SAOL
   eng: Historical SAOL
 short_description:
+  swe: Uppslagsord i upplaga 1, 6 och 7–14 från Svenska Akademiens ordlista samt SO 2009.
+  eng: Words in SAOL with links to facsimiles.
+description:
   swe: | 
    Denna samling innehåller uppslagsord i upplaga 1, 6 och 7–14 från *Svenska Akademiens ordlista*, SAOL, med länkar till faksimiler. Dessutom ingår *Svensk ordbok utgiven av Svenska Akademien*, SO 2009, i denna datamängd. 
 
@@ -20,7 +23,6 @@ short_description:
    **källa**: länk till pdf av aktuell sida i tryckt upplaga alt. till äldre webbversion 
 
    **text**: böjningsändelser, böjda former. Exempelord: *-n*, *koalor* vid sökning på **koala**   
-  eng: Words in SAOL with links to facsimiles
 type: lexicon
 unlisted: false
 successors: []
