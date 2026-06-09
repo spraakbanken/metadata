@@ -5,6 +5,9 @@ short_description:
   swe: 'Läkartidningens publicerade artiklar under 1996.'
   eng: 'Articles published in Läkartidningen in 1996.'
 type: corpus
+standard_reference: 'Dimitrios Kokkinakis and Ulla Gerdin. 2010. 
+  Läkartidningens arkiv i en ny skepnad En resurs för forskare, läkare och allmänhet. 
+  Språkbruk, 1/2010, 22-28. https://demo.spraakbanken.gu.se/svedk/pbl/sprakbruk20100316.pdf'
 trainingdata: false
 unlisted: false
 successors: []
