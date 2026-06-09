@@ -25,23 +25,11 @@ successors: []
 language_codes:
   - swe
   - eng
-languages:
-  - code: ''
-    name:
-      swe: ''
-      eng: ''
 in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/resurser/data/gv-pii.bz2
     type: corpus
     format: jsonl
-    description: ''
-    license: CC-BY-4.0
-    license_other: ''
-    scrambled: false
-    scramble_level: ''
-interfaces:
-  - url: ''
     description: ''
     license: CC-BY-4.0
     license_other: ''
