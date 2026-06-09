@@ -4,6 +4,7 @@ name:
 type: corpus
 language_codes:
 - fra
+in_collections: [dream]
 size:
   tokens: 98684927
   sentences: 4332669
@@ -15,5 +16,11 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=dream#?corpus=dream-fr-restricted
   license: CC-BY-4.0
+contact_info:
+  name: ''
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: ''
+    email: ''
 updated: 2020-04-13
 doi: 10.23695/hq73-3166
