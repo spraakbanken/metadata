@@ -9,10 +9,16 @@ trainingdata: false
 unlisted: false
 successors: []
 language_codes:
-  # - gmq
   - eng
+  - deu
+  - heb
+  - lat
+  - grc
+  - fas
+  - isl
+  - gle
 size:
-  entries: 0
+  entries: 743
 in_collections: []
 downloads: []
 interfaces:
