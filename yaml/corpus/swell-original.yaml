@@ -1,6 +1,9 @@
 name:
   swe: SweLL-gold original
   eng: SweLL-gold original
+short_description: 
+  swe: 'SweLL-gold original är en av de två versionerna av SweLL-gold. Den innehåller originaluppsatser av eleverna. Se SweLL-gold target för de korrigerade versionerna av uppsatserna.'
+  eng: 'SweLL-gold original is one of the two versions of SweLL-gold. It consists of the original learner-written texts. See SweLL-gold target for the corrected version of these.'
 type: corpus
 unlisted: true
 language_codes:
