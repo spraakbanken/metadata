@@ -37,5 +37,5 @@ contact_info:
 updated: 2013-11-18
 doi: 10.23695/7a1p-p449
 created: 2007
-creators: 'Koehn, Philipp'
+creators: ['Koehn, Philipp']
 standard_reference: 'Philipp Koehn. 2005. Europarl: A Parallel Corpus for Statistical Machine Translation. In Proceedings of Machine Translation Summit X: Papers, pages 79–86, Phuket, Thailand <a href="https://aclanthology.org/2005.mtsummit-papers.11/">[publication]</a>'
