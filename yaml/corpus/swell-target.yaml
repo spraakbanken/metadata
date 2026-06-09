@@ -1,6 +1,9 @@
 name:
   swe: SweLL-gold target
   eng: SweLL-gold target
+short_description: 
+  swe: 'SweLL-gold target är en av de två versionerna av SweLL-gold. Den innehåller den korrigerade versionen av elevernas uppsatser. Se SweLL-gold original för originalversionerna av uppsatserna.'
+  eng: 'SweLL-gold target is one of the two versions of SweLL-gold. It consists of the corrected learner-written texts. See SweLL-gold original for the original version of these.'
 type: corpus
 unlisted: true
 in_collections:
