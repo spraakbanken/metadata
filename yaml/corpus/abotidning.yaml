@@ -1,10 +1,12 @@
 name:
   swe: 'Äldre finlandssvenska: Åbo Tidning 1883–1903'
   eng: 'Old Finland Swedish: Åbo Tidning 1883–1903'
+description:
+  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan i Finland – i dag och i går</i>. Projektet låg hos <a href="https://www.sls.fi/sv">Svenska litteratursällskapet i Finland</a>.</p>
+  eng: <p>This corpus is a part of the Finland Swedish language bank over Swedish in Finland past and present. It was created for a project in collaboration with the <a href="https://www.sls.fi/en">Society of Swedish Literature in Finland</a>.</p>
 short_description:
-  swe: Tidning som utkom i Åbo 1882–1906
-  eng: Part of the Finland Swedish language bank over Swedish in Finland today and
-    yesterday
+  swe: Tidning som utkom i Åbo 1882–1906.
+  eng: A newspaper published in Turku in Finland 1882–1906.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -14,7 +16,7 @@ language_codes:
 size:
   tokens: 61917
   sentences: 3398
-in_collections: []
+in_collections: [fisk1800]
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ABOTIDNING.txt.zip
     type: token frequencies
@@ -30,10 +32,6 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-description:
-  swe: <p>Korpusen är del av språkbanken för finlandssvenska inom projektet <i>Svenskan
-    i Finland – i dag och i går</i>. Läs mer hos <a href="https://www.sls.fi/sv/infrastruktur-oversiktsprojekt#svenskan-i-finland-i-dag-och-i-gr-20102017">Svenska
-    litteratursällskapet i Finland</a></p>
 other_references:
   - '{publication 270108}'
 updated: 2017-06-18
