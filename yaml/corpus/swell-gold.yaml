@@ -17,8 +17,6 @@ successors: []
 language_codes:
   - swe
 size:
-  tokens: 147842
-  sentences: 7807
   texts: 502
 in_collections:
   - learner-language
