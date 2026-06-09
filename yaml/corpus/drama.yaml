@@ -32,22 +32,53 @@ interfaces:
   - url: http://www.dramawebben.se/
     license: LicenseRef-Other
     license_other: Other
+
+creators:
+  - Forsbom, Eva
+  - Lagercrantz, Marika V
+  - Lindgren, Ulrika
+  - Olsson, Leif-Jöran
 contact_info:
-  name: Markus Forsberg
-  email: sb-info@svenska.gu.se
+  name: Leif-Jöran Olsson
+  email: leif-joran.olsson@svenska.gu.se
   affiliation:
-    organization: Språkbanken
-    email: sb-info@svenska.gu.se
+    organization: Språkbanken Text, Institutionen för svenska, flerspråkighet och språkteknologi, Göteborgs universitet
+    email: leif-joran.olsson@svenska.gu.se
 annotation:
   swe: ''
   eng: ''
-keywords: []
+keywords: 
+  - eDrama
+  - Digital humaniora
 caveats:
   swe: ''
   eng: ''
 other_references: []
 intended_uses:
-  swe: ''
+  swe: 'teaterpraktik, egen kodning, utbildning'
   eng: ''
+created: 2015-12-21 
 updated: 2017-03-21
+description:
+  swe: "<p>\nÅren 2012–2015 utvecklades Dramawebben till en infrastruktur för\
+  \ forskning inom digital humaniora. De pjäser i katalogen som tryckts 1880–\
+  \ 1900 valdes ut för xml kodning enligt en väl beprövad internationell\ 
+  \ standard – TEI (Text Encoding Initiative). Dramats grundstruktur med \ 
+  \ akter, scener, rollfigurer, repliker och scenanvisningar kodades. \
+  \ Därtill gjordes en begränsad semantisk uppmärkning vilket inbegrep \ 
+  \ relationer mellan rollfigurerna samt en återkommande scenisk handling \
+  \ i pjäsmaterialet; textilt handarbete. Den stickande, broderande eller \
+  \ sömmande kvinnan märktes upp liksom rekvisita som sybåge, garn och \
+  \ stickor. Alla repliker som handlade om handarbete kodades liksom det \
+  \ tysta handarbete som pågår under mer eller mindre dramatiska \  
+  \ replikväxlingar.</p>\n \
+  \ <p>De uppmärkta texterna publicerades som ”eDrama” i ett format där \  
+  \ användare kunde gå in och göra egna sökningar. Därmed erbjöd Dramawebben \
+  \ en öppen plattform i det nya forskningsfältet digital humaniora. Denna \
+  \ forskningsplattform kunde inte upprätthållas, \
+  \ men den finns dokumenterad \ 
+  \ <a href=\"https://web.archive.org/web/20180315093250/http://www.dramawebben.se:80/sida/edrama\">här på archive.org.</a>\n</p>\n \
+  \ <p>Dramawebbens texter kan användas med andra redskap i \
+  \ Litteraturbankens och Språkbankens miljöer, \
+  \ och nerladdade med de program som användaren föredrar.</p>\n"  
 doi: 10.23695/wqqg-ym24
