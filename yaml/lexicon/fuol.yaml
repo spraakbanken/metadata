@@ -62,7 +62,7 @@ contact_info:
     email: ''
 keywords:
   - french
-  - word list
+  - word lists
   - word families
   - frequency
 caveats:
@@ -86,4 +86,3 @@ annotation:
   eng: ''
 trainingdata: false
 doi: 10.23695/ny62-h089
-
