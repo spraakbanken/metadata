@@ -2,7 +2,7 @@ name:
   eng: Voices of formerly Enslaved Corpus 
 short_description:
   eng: A corpus of transcribed and annotated narratives of formerly enslaved people
-    mainly in U.S.A. and the Caribbean. 
+    mainly in the U.S.A. and the Caribbean. 
 type: corpus
 language_codes:
   - eng
@@ -56,8 +56,7 @@ description:
     \ The Corpus has been developed in collaboration\
     \ with Språkbanken Text.\n</p>\n<p>\n  <b>For more on annotation, preparation\
     \ of data, and acknowledgements see:</b>\n</p>\n<ul style=\"list-style: unset;\
-    \ padding: revert;\">\n  <li>IE, LJO, KR. (202x). Voices of the formerly\
-    \ Enslaved Corpus, Pilot v0.1. [forthcoming]<i>[Where]</i>, pp nn--nn.</li>\n</ul>\n<p>\n  <b>For questions\
+    \ padding: revert;\">\n  <li>Elmerot, I., Olsson, L.-J., & Rönnbäck, K. (2026). Voices of formerly enslaved: A new text corpus of narratives by formerly enslaved persons.<i>Scientific Data</i>, 13(1). Article number: 682 (2026). DOI: 10.1038/s41597-026-07340-x.</li>\n</ul>\n<p>\n  <b>For questions\
     \ about the corpus:</b><br>\n  Klas Rönnbäck <a href=\"mailto:klas.ronnback@econhist.gu.se\"\
     >klas.ronnback@econhist.gu.se</a>\n</p>\n<p>\n  If you notice any errors or inconsistencies\
     \ in annotations, please report them to this email address.\n</p>\n<p>\n  <b>Main\
