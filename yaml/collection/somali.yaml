@@ -3,7 +3,7 @@ name:
   eng: Somali corpora
 short_description:
   swe: En samling av korpusar på somaliska
-  eng: A collection of Samli corpora
+  eng: A collection of Somali corpora
 type: corpus
 trainingdata: false
 unlisted: false
@@ -38,7 +38,6 @@ resources:
   - wikipedia-so
 language_codes:
   - som
-downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=somali
     license: CC-BY-4.0
@@ -49,10 +48,13 @@ contact_info:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 description:
-  swe: Innehållet i somaliska Korp är till största delen nyhetstexter, men även skolböcker
+  swe: >
+    Innehållet i somaliska Korp är till största delen nyhetstexter, men även skolböcker
     från Mogadishu, Hargeysa och Jigjiga utgör en viktig del. (Lite mer info om somaliska
     korpusar i Korp finns <a href="https://gu.instructure.com/files/1859835/download?download_frd=1">här<a>)
-  eng: ''
+  eng: >
+    The content of the somalic Korp consists to the largest part of news articles,
+    but school books from Mogadishu, Hargeysa and Jigjiga is another important part.
 annotation:
   swe: ''
   eng: ''
