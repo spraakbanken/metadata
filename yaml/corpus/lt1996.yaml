@@ -3,6 +3,7 @@ name:
   eng: Läkartidningen medical journal 1996
 short_description:
   swe: 'Läkartidningens publicerade artiklar under 1996.'
+  eng: 'Articles published in Läkartidningen in 1996.'
 type: corpus
 trainingdata: false
 unlisted: false
@@ -24,6 +25,8 @@ downloads:
     format: CSV
     description: ''
     license: CC-BY-4.0
+creators:
+  - Kokkinakis, Dimitrios
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=lt1996
     license: CC-BY-4.0
@@ -35,7 +38,15 @@ contact_info:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
-  swe: Del av Korpus för vårdens och omsorgens fackspråk
-  eng: Part of the corpus for health care technical language
-updated: 2017-04-05
+  swe: Läkartidningen är en svensk medicinsk tidskrift och organ för Sveriges läkarförbund, 
+    läkarnas fackliga organisation i Sverige. Tidskriften grundades 1904 och riktar sig främst till läkare 
+    och annan vårdpersonal. Den publicerar medicinska nyheter, vetenskapliga artiklar, debattinlägg, 
+    kliniska översikter, kommentarer och information om hälso- och sjukvårdens utveckling. 
+    Tidskriften fungerar också som ett forum för professionella frågor, etik, arbetsmiljö och läkaryrkets villkor.
+  eng: Läkartidningen is a Swedish medical journal and the official publication of the Swedish 
+    Medical Association, the professional association and trade union for physicians in Sweden. The journal was founded 
+    in 1904 and is primarily aimed at physicians and other healthcare professionals. It publishes medical news, 
+    scientific articles, opinion pieces, clinical reviews, commentaries, and information on developments in healthcare. 
+    The journal also serves as a forum for professional issues, ethics, working conditions, and matters relating to the medical profession.
+updated: 2026-06-09
 doi: 10.23695/8bvs-5p11
