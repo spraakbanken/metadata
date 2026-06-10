@@ -5,9 +5,7 @@ short_description:
   swe: En flerspråkig korpus av språkliga beskrivningar av världens naturliga språk.
   eng: A multilingual corpus of linguistic descriptions of the world's natural languages.
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
+collection: true
 language_codes:
   - deu
   - eng
@@ -19,7 +17,6 @@ language_codes:
 size:
   tokens: 75027790
   sentences: 5740264
-in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/dream.zip.bz2
     type: corpus
@@ -35,6 +32,7 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+standard_reference: '{publication 295338}'
 description:
   swe: |-
     <p>
@@ -43,11 +41,6 @@ description:
     </p>
 
     <p>Det finns också en lösenordsskyddad del av korpusen som kan hittas <a href="https://spraakbanken.gu.se/resurser/dream-copyright-protected">här.</a></p>
-
-    <dl>
-        <dt>Standard reference:</dt>
-        <dd>{publication 295338}</dd>
-    </dl>
   eng: |-
     <p>
         This resource contains an openly available multilingual digitized version of thousands of documents describing natural languages of the world. The corpus is annotated with various meta, word, and text level attributes. More details
@@ -55,21 +48,5 @@ description:
     </p>
 
     <p>There is also a password protected part of the corpus which can be found <a href="https://spraakbanken.gu.se/en/resources/dream-copyright-protected">here.</a></p>
-
-    <dl>
-        <dt>Standard reference:</dt>
-        <dd>{publication 295338}</dd>
-    </dl>
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
-other_references: []
-intended_uses:
-  swe: ''
-  eng: ''
 updated: 2020-11-09
 doi: 10.23695/jeyf-1m55
