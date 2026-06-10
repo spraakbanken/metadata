@@ -11,14 +11,14 @@ language_codes:
 size:
   tokens: 18862
   sentences: 1199
-creators: 
-- Elena Volodina
-- Lena Granstedt
-- Beáta Megyesi
-- Julia Prentice
-- Lisa Rudebeck
-- Gunlög Sundberg
-- Mats Wirén
+creators:
+  - Volodina, Elena
+  - Granstedt, Lena
+  - Megyesi, Beáta
+  - Prentice, Julia
+  - Rudebeck, Lisa
+  - Sundberg, Gunlög
+  - Wirén, Mats
 
 contact_info:
   name: Elena Volodina

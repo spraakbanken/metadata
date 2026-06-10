@@ -24,8 +24,8 @@ interfaces:
     license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 standard_reference: '{publication 248141}'
 creators:
-  - Sundberg Gunlög 
-  - Lundkvist Peter 
+  - Sundberg, Gunlög
+  - Lundkvist, Peter
 contact_info:
   name: Volodina Elena
   email: elena.volodina@svenska.gu.se

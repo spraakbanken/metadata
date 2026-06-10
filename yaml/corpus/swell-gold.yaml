@@ -51,13 +51,13 @@ contact_info:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
 creators:
-  - Elena Volodina
-  - Lena Granstedt
-  - Beáta Megyesi
-  - Julia Prentice
-  - Lisa Rudebeck
-  - Gunlög Sundberg
-  - Mats Wirén
+  - Volodina, Elena
+  - Granstedt, Lena
+  - Megyesi, Beáta
+  - Prentice, Julia
+  - Rudebeck, Lisa
+  - Sundberg, Gunlög
+  - Wirén, Mats
 standard_reference: "{publication 285609}"
 description:
   swe: ""

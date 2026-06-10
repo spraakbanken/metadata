@@ -40,10 +40,10 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-creators: 
-- Elena Volodina
-- Ildikó Pilán
 standard_reference: '{publication 206132}'
+creators:
+  - Volodina, Elena
+  - Pilán, Ildikó
 annotation:
   swe: ''
   eng: ''

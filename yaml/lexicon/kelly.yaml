@@ -28,9 +28,9 @@ downloads:
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?resources=kelly
     license: CC-BY-4.0
-creators: 
-- Volodina Elena
-- Johansson Kokkinakis Sofie
+creators:
+  - Volodina, Elena
+  - Johansson Kokkinakis, Sofie
 contact_info:
   name: Elena Volodina
   email: elena.volodina@gu.se
