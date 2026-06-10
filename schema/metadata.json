@@ -217,7 +217,7 @@
       }
     },
     "creators": {
-      "description": "List of people that created the resource (format: lastname, firstname)",
+      "description": "List of people that created the resource (format: \"lastname, firstname\")",
       "type": "array",
       "items": {
         "type": "string"

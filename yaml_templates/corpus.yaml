@@ -33,7 +33,7 @@ interfaces: # Links to interfaces where the resource is available (e.g. Korp or 
     license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
     scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource
     scramble_level: '' # If the resource in the interface is a scrambled version of the original resource, specify the level of scrambling (e.g., "sentence", "paragraph")
-creators: [] # List of people that created the resource (format: lastname, firstname)
+creators: [] # List of people that created the resource (format: "lastname, firstname")
 contact_info: # Contact info of the person who can answer questions about the resource
   name: ''
   email: sb-info@svenska.gu.se
