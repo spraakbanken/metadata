@@ -2,8 +2,8 @@ name:
   swe: Europarl
   eng: Europarl
 short_description:
-  swe: European Parliament Proceedings Parallel Corpus
-  eng: European Parliament Proceedings Parallel Corpus
+  swe: European Parliament Proceedings Parallel Corpus, utgåva v3
+  eng: European Parliament Proceedings Parallel Corpus, release v3
 type: corpus
 trainingdata: false
 unlisted: false
@@ -57,3 +57,6 @@ intended_uses:
   swe: ''
   eng: ''
 doi: 10.23695/gzm8-bg62
+created: 2007-09-28
+creators: ['Koehn, Philipp']
+standard_reference: 'Philipp Koehn. 2005. Europarl: A Parallel Corpus for Statistical Machine Translation. In Proceedings of Machine Translation Summit X: Papers, pages 79–86, Phuket, Thailand <a href="https://aclanthology.org/2005.mtsummit-papers.11/">[publication]</a>'
