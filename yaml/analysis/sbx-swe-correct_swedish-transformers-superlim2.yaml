@@ -15,7 +15,7 @@ other_references:
 short_description:
   swe: Avgör om en mening är korrekt svenska eller inte
   eng: Determine whether a sentence is correct Swedish or not
-task: correct swedish label
+task: grammaticality judgment
 models:
   - name: DaLAJ-GED-Superlim 2.0
     url: https://spraakbanken.gu.se/resurser/dalaj-ged-superlim
