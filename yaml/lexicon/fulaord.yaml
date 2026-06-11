@@ -24,7 +24,7 @@ language_codes:
 name:
   swe: Fula Ordboken
   eng: Fula Ordboken
-short_description:
+description:
   swe: Ord från <a href="https://www.fulaordboken.se/">https://www.fulaordboken.se/</a>
   eng: Words from <a href="https://www.fulaordboken.se/">https://www.fulaordboken.se/</a>
 created: '2025-12-12'
