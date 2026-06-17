@@ -13,7 +13,7 @@ downloads:
   format: CSV
   license: CC-BY-4.0
 interfaces:
-- url: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=ogl
+- url: https://spraakbanken.gu.se/korplabb/?mode=old_swedish#?corpus=ogl
   license: CC-BY-4.0
 updated: 2015-09-30
 doi: 10.23695/e1yc-wp93
