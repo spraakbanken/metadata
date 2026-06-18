@@ -1,6 +1,9 @@
 name:
   swe: DReaM-es-open
   eng: DReaM-es-open
+short_description:
+  eng: 'Spanish open part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Spansk öppen del av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - spa

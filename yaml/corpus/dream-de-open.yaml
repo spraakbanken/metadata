@@ -1,6 +1,9 @@
 name:
   swe: DReaM-de-open
   eng: DReaM-de-open
+short_description:
+  eng: 'German open part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Tysk öppen del av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - deu

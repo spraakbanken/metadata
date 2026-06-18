@@ -1,6 +1,9 @@
 name:
   swe: DReaM-de-restricted
   eng: DReaM-de-restricted
+short_description:
+  eng: 'German restricted part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Tysk del med begränsad åtkomst av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - deu

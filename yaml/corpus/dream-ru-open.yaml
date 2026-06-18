@@ -1,6 +1,9 @@
 name:
   swe: DReaM-ru-open
   eng: DReaM-ru-open
+short_description:
+  eng: 'Russian open part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Rysk öppen del av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - rus

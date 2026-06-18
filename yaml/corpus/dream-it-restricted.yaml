@@ -1,6 +1,9 @@
 name:
   swe: DReaM-it-restricted
   eng: DReaM-it-restricted
+short_description:
+  eng: 'Italian restricted part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Italiensk del med begränsad åtkomst av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - ita

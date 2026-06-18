@@ -1,6 +1,9 @@
 name:
   swe: DReaM-fr-restricted
   eng: DReaM-fr-restricted
+short_description:
+  eng: 'French restricted part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Fransk del med begränsad åtkomst av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - fra

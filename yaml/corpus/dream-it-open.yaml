@@ -1,6 +1,9 @@
 name:
   swe: DReaM-it-open
   eng: DReaM-it-open
+short_description:
+  eng: 'Italian open part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Italiensk öppen del av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - ita

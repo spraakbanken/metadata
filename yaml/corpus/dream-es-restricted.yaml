@@ -1,6 +1,9 @@
 name:
   swe: DReaM-es-restricted
   eng: DReaM-es-restricted
+short_description:
+  eng: 'Spanish restricted part of the dataset from the project DReaM: The Dictionary/Grammar Reading Machine.'
+  swe: 'Spansk del med begränsad åtkomst av datamängden från projektet DReaM: The Dictionary/Grammar Reading Machine.'
 type: corpus
 language_codes:
 - spa
