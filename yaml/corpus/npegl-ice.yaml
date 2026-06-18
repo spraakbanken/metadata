@@ -1,6 +1,9 @@
 name:
-  swe: 'NPEGL: Old Icelandic'
+  swe: 'NPEGL: fornisländska'
   eng: 'NPEGL: Old Icelandic'
+short_description:
+  swe: 'Den fornisländska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
+  eng: 'The Old Icelandic part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 type: corpus
 language_codes:
 - isl

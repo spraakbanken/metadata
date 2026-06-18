@@ -1,6 +1,9 @@
 name:
-  swe: 'NPEGL: Old Swedish'
+  swe: 'NPEGL: fornsvenska'
   eng: 'NPEGL: Old Swedish'
+short_description:
+  swe: 'Den fornsvenska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
+  eng: 'The Old Swedish part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 type: corpus
 language_codes:
 - swe

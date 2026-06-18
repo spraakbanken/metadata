@@ -1,6 +1,9 @@
 name:
-  swe: 'NPEGL: Old High German'
+  swe: 'NPEGL: Fornhögtyska'
   eng: 'NPEGL: Old High German'
+short_description:
+  swe: 'Den fornhögtyska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
+  eng: 'The Old High German part of database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 type: corpus
 language_codes:
 - deu

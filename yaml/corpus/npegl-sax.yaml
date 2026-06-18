@@ -1,7 +1,9 @@
 name:
-  swe: 'NPEGL: Old Saxon'
+  swe: 'NPEGL: Fornsaxiska'
   eng: 'NPEGL: Old Saxon'
-type: corpus
+short_description:
+  swe: 'Den fornsaxiska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
+  eng: 'The Old Saxon part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 size:
   tokens: 637840
   sentences: 19283
