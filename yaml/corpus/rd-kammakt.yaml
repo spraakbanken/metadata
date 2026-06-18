@@ -2,7 +2,7 @@ name:
   swe: 'Riksdagens öppna data: Kammaraktiviteter'
   eng: ''
 short_description:
-  swe: ''
+  swe: Datamängd från Riksdagens öppna data
   eng: ''
 type: corpus
 trainingdata: false
