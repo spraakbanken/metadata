@@ -1,10 +1,6 @@
 name:
   swe: sbx/KB-bert-swedish_CEFR-classification
   eng: sbx/KB-bert-swedish_CEFR-classification
-description:
-  swe: ''
-  eng: A model based on KB/bert-base-swedish-cased trained for CEFR level classification
-    of learner essays.
 short_description:
   swe: ''
   eng: A model based on KB/bert-base-swedish-cased trained for CEFR level classification
