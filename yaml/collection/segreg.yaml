@@ -2,8 +2,8 @@ name:
   swe: Segregationstexter
   eng: Segregation texts
 short_description:
-  swe: ''
-  eng: ''
+  swe: Samling av datamängder från det tvärvetenskapliga forskningsprojektet "Segregationens språk"
+  eng: Collection of datasets from the interdisciplinary research project "Segregationens språk"
 type: corpus
 unlisted: false
 successors: []
