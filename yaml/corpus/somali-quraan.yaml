@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Qur’aan'
   eng: 'Somali: Qur’aan'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

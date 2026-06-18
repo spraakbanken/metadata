@@ -2,6 +2,9 @@
 name:
   swe: Caafimaad 1983
   eng: Caafimaad 1983
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

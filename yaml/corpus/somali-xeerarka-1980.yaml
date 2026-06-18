@@ -1,6 +1,9 @@
 name:
   eng: 'Somali: Xeerarka Soomaaliya 1980'
   swe: 'Somaliska: Xeerarka Soomaaliya 1980'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

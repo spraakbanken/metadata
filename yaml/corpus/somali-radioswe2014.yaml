@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Raadiyaha Iswiidhan 2014'
   eng: 'Somali: Raadiyaha Iswiidhan 2014'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

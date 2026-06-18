@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Afka Hooyo 1992-02 Kanada'
   eng: 'Somali: Afka Hooyo 1992-02 Kanada'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

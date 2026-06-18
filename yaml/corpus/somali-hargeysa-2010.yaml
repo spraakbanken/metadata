@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Af-Soomaali 2010 Somaliland'
   eng: 'Somali: Af-Soomaali 2010 Somaliland'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Warbixin Ku Saabsan Kanada'
   eng: 'Somali: Warbixin Ku Saabsan Kanada'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

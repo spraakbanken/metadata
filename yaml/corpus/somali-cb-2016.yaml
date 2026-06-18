@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Cilmiga Bulshada 2016 Somaliland'
   eng: 'Somali: Cilmiga Bulshada 2016 Somaliland'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

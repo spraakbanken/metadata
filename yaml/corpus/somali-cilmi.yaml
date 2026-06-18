@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Cilmi-Afeed'
   eng: 'Somali: Cilmi-Afeed'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

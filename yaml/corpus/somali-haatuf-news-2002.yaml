@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Haatuf News 2002'
   eng: 'Somali: Haatuf News 2002'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

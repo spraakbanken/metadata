@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Caafimaad 1972–79'
   eng: 'Somali: Caafimaad 1972–79'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

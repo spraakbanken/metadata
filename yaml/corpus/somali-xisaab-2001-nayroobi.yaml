@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Xisaab 2001 Soomaaliya'
   eng: 'Somali: Xisaab 2001 Soomaaliya'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 trainingdata: false
 unlisted: false

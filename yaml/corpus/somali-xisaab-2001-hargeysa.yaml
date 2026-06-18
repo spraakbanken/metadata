@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Xisaab 2001 Somaliland'
   eng: 'Somali: Xisaab 2001 Somaliland'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

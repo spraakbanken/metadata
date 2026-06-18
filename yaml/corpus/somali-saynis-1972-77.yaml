@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Saynis 1972–77'
   eng: 'Somali: Saynis 1972–77'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

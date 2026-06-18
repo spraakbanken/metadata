@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Saynis 2018 Soomaaliya'
   eng: 'Somali: Saynis 2018 Soomaaliya'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som

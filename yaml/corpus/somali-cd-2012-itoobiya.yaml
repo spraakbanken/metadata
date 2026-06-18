@@ -1,6 +1,9 @@
 name:
   swe: 'Somaliska: Cilmiga Deegaanka 2012 Itoobiya'
   eng: 'Somali: Cilmiga Deegaanka 2012 Itoobiya'
+short_description:
+  swe: 'Del av samlingen Somaliska korpusar.'
+  eng: 'Part of the collection Somali corpora.'
 type: corpus
 language_codes:
   - som
