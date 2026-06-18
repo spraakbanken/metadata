@@ -28,7 +28,7 @@ language_codes:
 name:
   swe: SAOL 9 (1950) - faksimil
   eng: SAOL 9 (1950) - faksimil
-description:
+short_description:
   swe: Ord i SAOL med länkar till faksimiler.
   eng: Words i SAOL with links to facsimiles.
 updated: '2025-12-11'
