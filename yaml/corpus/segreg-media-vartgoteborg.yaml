@@ -3,8 +3,8 @@ name:
   swe: 'Segregationstexter: Media: Kommunal informationstidning'
   eng: 'Segregation texts: Media: Municipal newsletter'
 short_description:
-  swe: ''
-  eng: ''
+  swe: Datamängd från tvärvetenskapliga forskningsprojektet "Segregationens språk"
+  eng: Dataset from the interdisciplinary research project "Segregationens språk"
 type: corpus
 language_codes:
   - swe

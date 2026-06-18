@@ -3,8 +3,8 @@ name:
   swe: 'Segregationstexter: Göteborgs stad: Budgetar'
   eng: 'Segregation texts: Gothenburg city: Budgets'
 short_description:
-  swe: ''
-  eng: ''
+  swe: Datamängd från det tvärvetenskapliga forskningsprojektet "Segregationens språk"
+  eng: Dataset from the interdisciplinary research project "Segregationens språk"
 type: corpus
 language_codes:
   - swe

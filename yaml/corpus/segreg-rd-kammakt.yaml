@@ -3,7 +3,8 @@ name:
   eng: 'Segregation texts: Riksdag''s open data: Activities in the Chamber'
   swe: 'Segregationstexter: Riksdagens öppna data: Kammaraktiviteter'
 short_description:
-  swe: ''
+  swe: Datamängd från det tvärvetenskapliga forskningsprojektet "Segregationens språk"
+  eng: Dataset from the interdisciplinary research project "Segregationens språk"
 type: corpus
 language_codes:
   - swe

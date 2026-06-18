@@ -3,7 +3,8 @@ name:
   swe: 'Segregationstexter: Riksdagens öppna data: Yttrande'
   eng: 'Segregation texts: Riksdag''s open data: Statements of opinion'
 short_description:
-  swe: Utskottens yttranden
+  swe: Utskottens yttranden. Datamängd från det tvärvetenskapliga forskningsprojektet "Segregationens språk"
+  eng: Dataset from the interdisciplinary research project "Segregationens språk"
 type: corpus
 language_codes:
   - swe
