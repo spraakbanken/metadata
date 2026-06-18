@@ -1,6 +1,9 @@
 name:
   swe: MEPAC bloggar
   eng: MEPAC bloggar
+short_description:
+  swe: Datamängd från det tvärvetenskapliga forskningsprojektet "Metaforer i palliativ cancervård"
+  eng: Dataset from the interdisciplinary research project "Metaphors in palliative cancer care"
 type: corpus
 language_codes:
 - swe
@@ -15,5 +18,10 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=mepac
   license: CC-BY-4.0
+creators:
+  - Gustafsson, Anna W
+description:
+  swe: Läs mer om forskningsprojektet "Metaforer i palliativ cancervård" på [https://www.lnu.se/forskning/forskargrupper/metaforer-i-palliativ-cancervard/](https://www.lnu.se/forskning/forskargrupper/metaforer-i-palliativ-cancervard/).
+  eng: Read more about the research project "Metaphors in palliative cancer care" at [https://www.lnu.se/en/research/research-groups/metaphors-in-palliative-cancer-care/](https://www.lnu.se/en/research/research-groups/metaphors-in-palliative-cancer-care/).
 updated: 2017-03-14
 doi: 10.23695/bxs9-cy38
