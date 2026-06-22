@@ -3,7 +3,6 @@ name:
   eng: ''
 short_description:
   swe: Propositioner och skrivelser från regeringen
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

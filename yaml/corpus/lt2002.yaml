@@ -3,7 +3,6 @@ name:
   eng: Läkartidningen medical journal 2002
 short_description:
   swe: 'Läkartidningens publicerade artiklar under 2002.'
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

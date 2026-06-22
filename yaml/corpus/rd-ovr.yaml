@@ -5,7 +5,6 @@ short_description:
   swe: Dokumentserierna Riksrevisionens granskningsrapporter, Utredningar från Riksdagsförvaltningen
     och Rapporter från riksdagen samt planeringsdokument, bilagor till dokument och
     uttag ur riksdagens databaser och de gamla dokumentserierna Utredningar från riksdag
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

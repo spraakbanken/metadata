@@ -3,10 +3,8 @@ name:
   eng: Språkprov SO 2009
 short_description:
   swe: 'De drygt 94 000 språkexemplen är hämtade ur Svensk ordbok utgiven av Svenska Akademien (2009). Exemplens uppgift är att stödja ordboksdefinitionerna och att ge information om uppslagsordens fraseologi.'
-  eng: ''
 description:
   swe: 'För åtkomst kontakta <a href="mailto:emma.skoldberg@svenska.gu.se">Emma Sköldberg</a>.'
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

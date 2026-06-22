@@ -3,7 +3,6 @@ name:
   eng: ''
 short_description:
   swe: Interpellationer från ledamöterna till regeringen
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

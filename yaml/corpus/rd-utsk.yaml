@@ -4,7 +4,6 @@ name:
 short_description:
   swe: Dokument från utskotten, bland annat KU-anmälningar, protokoll, verksamhetsberättelser
     och den gamla dokumentserien Utredningar från riksdagen
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

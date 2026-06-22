@@ -4,7 +4,6 @@ name:
 short_description:
   swe: Dokument från EU-nämnden, bland annat möteskallelser, föredragningslistor,
     protokoll och skriftliga samråd med regeringen
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

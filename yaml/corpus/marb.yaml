@@ -2,10 +2,8 @@ name:
   swe: MARB
   eng: MARB
 description:
-  swe: ''
   eng: 'Reporting bias (the human tendency to not mention obvious or redundant information) and social bias (societal attitudes toward specific demographic groups) have both been shown to propagate from human text data to language models trained on such data. However, the two phenomena have not previously been studied in combination. The MARB dataset was developed to begin to fill this gap by studying the interaction between social biases and reporting bias in language models. Unlike many existing benchmark datasets, MARB does not rely on artificially constructed templates or crowdworkers to create contrasting examples. Instead, the templates used in MARB are based on naturally occurring written language from the 2021 version of the enTenTen corpus (Jakubíček et al., 2013).'
 short_description:
-  swe: ''
   eng: 'A dataset for studying Marked Attribute Reporting Bias'
 type: corpus
 unlisted: false

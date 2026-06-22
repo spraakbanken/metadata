@@ -4,7 +4,6 @@ name:
 short_description:
   swe: Utskottens betänkanden och utlåtanden, inklusive rksdagens beslut, en sammanfattning
     av voteringsresultaten och Beslut i korthet
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

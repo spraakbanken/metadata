@@ -3,7 +3,6 @@ name:
   eng: Läkartidningen medical journal 1998
 short_description:
   swe: 'Läkartidningens publicerade artiklar under 1998.'
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false

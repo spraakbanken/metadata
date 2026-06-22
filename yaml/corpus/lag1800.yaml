@@ -3,7 +3,6 @@ name:
   eng: Laws from the 1800's
 short_description:
   swe: Regeringsformen 1809 med ändringar 1809-1974
-  eng: ''
 type: corpus
 trainingdata: false
 unlisted: false
