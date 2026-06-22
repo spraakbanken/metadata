@@ -7,16 +7,12 @@ short_description:
   eng: The corpus is protected, contact Ylva Burman (ylva.byrman@svenska.gu.se) for
     more information and access.
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
+unlisted: true
 language_codes:
   - swe
 size:
   tokens: 49299
   sentences: 2997
-in_collections: []
-downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=forhor
     license: CC-BY-4.0
@@ -26,17 +22,7 @@ contact_info:
   affiliation:
     organization: Institutionen för svenska, flerspråkighet och språkteknologi
     email: svenska.exp@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
 other_references:
   - '{publication 279562}'
-intended_uses:
-  swe: ''
-  eng: ''
 doi: 10.23695/7mdf-r404
 updated: 2017-03-22
