@@ -2,8 +2,8 @@ name:
   swe: Domar
   eng: Judgements
 short_description:
-  swe: ''
-  eng: ''
+  swe: Svenska rättsfallsreferat och domar från Domstolsverkets öppna rättsfallsmaterial via lagen.nu
+  eng: Swedish case law reports and judgments from the open case-law material provided by Domstolsverket via lagen.nu
 type: corpus
 trainingdata: false
 unlisted: false
@@ -47,3 +47,28 @@ intended_uses:
   eng: ''
 updated: 2015-05-20
 doi: 10.23695/jekk-f924
+description:
+swe: |-
+  Korpusen innehåller svenska rättsfallsreferat och domar från flera domstolsinstanser, hämtade från Domstolsverkets öppna rättsfallsmaterial via [lagen.nu](https://lagen.nu/dataset/dv).
+
+  Följande texter ingår i korpusen:
+  - NJA: Högsta domstolen (1981–2009)
+  - RH: Hovrätterna (1993–2009)
+  - RÅ: Regeringsrätten (1993–2009)
+  - RK: Kammarrätterna (2008–2009)
+  - AD: Arbetsdomstolen (1993–2009)
+  - MD: Marknadsdomstolen (2004–2009)
+  - MÖD: Mark- och miljööverdomstolen (1999–2009)
+  - MIG: Migrationsöverdomstolen (2006–2009)
+eng: |-
+  The corpus contains Swedish case law reports and judgments from several courts, retrieved from the open case-law material provided by Domstolsverket via [lagen.nu](https://lagen.nu/dataset/dv).
+
+  The following texts are included in the corpus:
+  - NJA: Supreme Court (Högsta domstolen) (1981–2009)
+  - RH: Courts of Appeal (Hovrätterna) (1993–2009)
+  - RÅ: Supreme Administrative Court (Regeringsrätten) (1993–2009)
+  - RK: Administrative Courts of Appeal (Kammarrätterna) (2008–2009)
+  - AD: Labour Court (Arbetsdomstolen) (1993–2009)
+  - MD: Market Court (Marknadsdomstolen) (2004–2009)
+  - MÖD: Land and Environment Court of Appeal (Mark- och miljööverdomstolen) (1999–2009)
+  - MIG: Migration Court of Appeal (Migrationsöverdomstolen) (2006–2009)
