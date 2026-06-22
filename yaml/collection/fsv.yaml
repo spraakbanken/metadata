@@ -5,9 +5,6 @@ short_description:
   swe: En samling fornsvenska texter från Fornsvenska textbanken
   eng: A collection of Old Swedish texts from Fornsvenska textbanken
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 collection: true
 resources:
   - fsv-aldrelagar
@@ -24,7 +21,6 @@ resources:
   - fsv-yngretankebocker
 language_codes:
   - swe
-downloads: []
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=old_swedish#?corpus=fsvb
     license: CC-BY-4.0
@@ -78,16 +74,6 @@ description:
     <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvensklagar">Nysvenska lagar</a></li>
     <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskovrigt">Nysvenska, övrigt</a></li>
     </ul>
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
 other_references:
   - '{publication 270108}'
-intended_uses:
-  swe: ''
-  eng: ''
 doi: 10.23695/pyqj-0s75

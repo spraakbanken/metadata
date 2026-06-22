@@ -2,17 +2,12 @@ name:
   swe: 'Fornsvenska textbankens material: Yngre tänkeböcker'
   eng: 'Fornsvenska textbankens material: Yngre tänkeböcker'
 short_description:
-  swe: ''
-  eng: ''
+  swe: Del av Fornsvenska textbankens material
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
   tokens: 160831
-in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/fsv-yngretankebocker.xml.bz2
     type: corpus
@@ -30,10 +25,6 @@ contact_info:
     email: sb-info@svenska.gu.se
 description:
   swe: |-
-    <a target="_blank" href="https://www.nordlund.lu.se/texter/yngre-fornsvenska/">Fornsvenska
-    textbanken</a> är ett projekt som digitaliserar fornsvenska texter och gör dem
-    tillgängliga över webben. Projektet leds av Lars-Olof Delsing vid Lunds universitet.
-  eng: |-
     <a target="_blank" href="https://www.nordlund.lu.se/texter/yngre-fornsvenska/">Fornsvenska
     textbanken</a> är ett projekt som digitaliserar fornsvenska texter och gör dem
     tillgängliga över webben. Projektet leds av Lars-Olof Delsing vid Lunds universitet.
