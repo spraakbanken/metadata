@@ -1,6 +1,9 @@
 name:
   swe: Platsannonser
-  eng: Platsannonser
+  eng: Job Ads
+short_description:
+  swe: Korpus med ca 250 platsannonser insamlade på webben 2017
+  eng: Corpus with about 250 job ads collected from the web in 2017
 type: corpus
 unlisted: true
 language_codes:
@@ -17,3 +20,5 @@ interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=platsannonser
   license: CC-BY-4.0
 updated: 2017-05-31
+creators:
+  - Helgesson, Karin
