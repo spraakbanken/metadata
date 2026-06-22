@@ -2,18 +2,14 @@ name:
   swe: Linguistic Survey of India (LSI)
   eng: Linguistic Survey of India (LSI)
 short_description:
-  swe: ''
-  eng: ''
+  swe: Digitaliserad och annoterad version av Griersons Linguistic Survey of India (1903–1927)
+  eng: Digitized and annotated version of Grierson’s Linguistic Survey of India (1903–1927)
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - eng
 size:
   tokens: 1193437
   sentences: 72669
-in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/lsi.xml.bz2
     type: corpus
@@ -29,18 +25,19 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
-other_references: []
-intended_uses:
-  swe: ''
-  eng: ''
+other_references:
+  - "Grierson, George A. 1903–1927. A Linguistic Survey of India, vol. I–XI. Calcutta: Government of India, Central Publication Branch."
+creators:
+  - Borin, Lars
+  - Saxena, Anju
+  - Mumtaz Virk, Shafqat
+  - Comrie, Bernard
 description:
-  eng: 'A digital version of the classic Grierson’s <i>Linguistic Survey of India</i> (LSI; 1903-1927) covering more than 250 varieties representing the four major South Asian language families.'
+  eng: |-
+    A digital version of the classic Grierson’s <i>Linguistic Survey of India</i> (LSI; 1903-1927) covering more than
+    250 varieties representing the four major South Asian language families.
+    
+    You can read more about the project in [this blog
+    post](https://spraakbanken.gu.se/en/blog/20200901-griersons-linguistic-survey-of-india-as-open-access-digital-data-resource-for).
 updated: 2020-08-25
 doi: 10.23695/d24m-ja14
