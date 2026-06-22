@@ -3,8 +3,8 @@ name:
   swe: 'Kubhist 2: Bollnäs Tidning 1880-talet'
   eng: 'Kubhist 2: Bollnäs Tidning 1880''s'
 short_description:
-  eng: Part of the collection Kubhist2
-  swe: Del av samlingen Kubhist2
+  eng: Part of the collection Kubhist 2
+  swe: Del av samlingen Kubhist 2
 type: corpus
 trainingdata: false
 unlisted: false
