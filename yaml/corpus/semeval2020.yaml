@@ -37,7 +37,7 @@ description:
     - Ett svenskt korpuspar (`corpus1/`, `corpus2/`)<br />
     - 31 lemmas som har blivit annoterad med lexikosemantisk förändring mellan de två korpusarna (`targets.txt`)</p>
 
-    <p>Vi samplar ur Kubhist2, en samling med dagstidningar digitaliserade av KB, och tillgängliga via Språkbankens infrastruktur Korp (Borin et al., 2012). Korpusen är tillgänglig genom en CC BY (attribution licens. </p>
+    <p>Vi samplar ur Kubhist 2, en samling med dagstidningar digitaliserade av KB, och tillgängliga via Språkbankens infrastruktur Korp (Borin et al., 2012). Korpusen är tillgänglig genom en CC BY (attribution) licens.</p>
 
     <p>Korpusen är lemmatiserad med hjälp av Korp. Varje ord har ersatts med ett lemma har ersatts om detta varit möjligt, annars har ordet behållts som det är (icke-lemmatiserat och utan att versaler har ändrade till gemener).
     Kubhist-texterna innehåller en stor mängd OCR fel, speciellt den tidigare delkorpusen. Mer information om Kubhist och dess kvalité finns att finna i (Adesam et al., 2019).</p>
@@ -49,7 +49,7 @@ description:
     <p>__Corpus 1__</p>
 
     <p>
-    - baserad på: Kubhist2<br>
+    - baserad på: Kubhist 2<br>
     - språk: Swedish<br>
     - tidsspann: 1790-1830<br>
     - storlek: ~71 million tokens<br>
@@ -60,7 +60,7 @@ description:
 
     __Corpus 2__
     <p>
-    - baserad på: Kubhist2<br>
+    - baserad på: Kubhist 2<br>
     - språk: Swedish<br>
     - tidsspann: 1895-1903<br>
     - storlek: ~111 million tokens<br>
@@ -102,7 +102,7 @@ description:
 
     <p>__Corpus 1__</p>
 
-    <p>- based on: Kubhist2<br>
+    <p>- based on: Kubhist 2<br>
     - language: Swedish<br>
     - time covered: 1790-1830<br>
     - size: ~71 million tokens<br>
@@ -114,7 +114,7 @@ description:
     <p>__Corpus 2__</p>
 
     <p>
-    - based on: Kubhist2<br>
+    - based on: Kubhist 2<br>
     - language: Swedish<br>
     - time covered: 1895-1903<br>
     - size: ~111 million tokens<br>
