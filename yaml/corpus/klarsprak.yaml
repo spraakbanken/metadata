@@ -2,8 +2,16 @@ name:
   swe: Förvaltningsmyndigheters texter
   eng: Förvaltningsmyndigheters texter
 short_description:
-  swe: ''
-  eng: ''
+  swe: Tjänsteutlåtanden från kansliet för Kommittén för rättighetsfrågor inom Västra Götalandsregionen, insamlade för att jämföra texter före och efter klarspråksprojektet "Lättlästa handlingar".
+description:
+  swe: |-
+    Korpusen skapades i ett pilotprojekt om att studera effekterna av myndigheternas klarspråksarbete.
+    
+    Materialet består av:
+    - 33 tjänstutlåtanden skrivna under perioden april 2011–december 2012, dvs. före det att handläggarna gick utbildningen – totalt 17 147 ord
+    - 42 tjänstutlåtanden skrivna efter utbildningen, november 2013–juni 2015 – totalt 29 430 ord
+    
+    Mer info finns i <a href="https://gup.ub.gu.se/publication/259902?lang=sv" target="_blank">denna artikel</a>.
 type: corpus
 trainingdata: false
 unlisted: false
@@ -35,22 +43,9 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
-other_references: []
-intended_uses:
-  swe: ''
-  eng: ''
-description:
-  swe: |-
-    Korpusen skapades i ett pilotprojekt om att studera effekterna av
-    myndigheternas klarspråksarbete. Mer info finns i <a
-    href="https://gup.ub.gu.se/publication/259902?lang=sv"
-    target="_blank">denna artikel</a>.
+standard_reference: '{publication 259902}'
+creators:
+  - Forsberg, Markus
+  - Nord, Andreas
 updated: 2017-03-30
 doi: 10.23695/5xjp-xe08
