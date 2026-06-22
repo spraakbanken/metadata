@@ -12,8 +12,7 @@ collection: true  # Needs to be true
 resources: []  # May contain the resource IDs of the resources belonging to this collection. Alternatively the individual resources may refer to the collection.
 language_codes: [ang,goh,non,osx]  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
 languages:
-  - code: fsv
-    name:
+  - name:
       swe: fornsvenska
       eng: Old Swedish
 interfaces:
