@@ -13,7 +13,8 @@ interfaces:
   - url: https://spraakbanken.gu.se/karp?resources=saol15-ord
     license: CC-BY-4.0
 type: lexicon
-creators: ['Svenska Akademien']
+creators:
+  - Svenska Akademien
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -23,3 +24,20 @@ contact_info:
 language_codes:
   - swe
 doi: 10.23695/eqtv-ee68
+description:
+  swe: |-
+    Denna datamängd innehåller uppslagsorden i upplaga 15 (2026) av *Svenska Akademiens ordlista*, SAOL.
+
+    **ingångsord (normaliserat ord)**: uppslagsord, fetstil i den tryckta upplagan
+
+    **ordklass (UD)**: ordklassuppgift på engelska (universal dependencies)
+
+    **grundform**: samma som ingångsordet
+
+    **ordklass (SAOL 15)**: fullt utskriven ordklassangivelse på svenska
+
+    **homograf**: numrering vid likstavade former av olika ord. 1, 2, 3 osv. betecknar ordning på homografa ord. Exempelord: **rå**, **så**
+
+    **relaterat ord**: vanligen angivelse av uppslagsord (inkl. grundform vid böjda former). Exempelord: **springa** vid sökning på **sprang**
+
+    **källa**: länk till aktuell webbversion (Svenska.se)

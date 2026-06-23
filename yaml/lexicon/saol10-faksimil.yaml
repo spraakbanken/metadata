@@ -12,17 +12,14 @@ interfaces:
     license: CC-BY-4.0
 created: '2025-11-06'
 doi: 10.23695/3m0b-9e75
-creators: ['Svenska Akademien']
+creators:
+  - Svenska Akademien
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
-unlisted: false
-in_collections: []
-keywords: []
-other_references: []
 language_codes:
   - swe
 name:
@@ -33,3 +30,22 @@ short_description:
   eng: Words i SAOL with links to facsimiles.
 updated: '2025-12-11'
 type: lexicon
+description:
+  swe: |-
+    Denna datamängd innehåller uppslagsorden i upplaga 10 (1973) av *Svenska Akademiens ordlista*, SAOL, med länkar till faksimil.
+
+    **ingångsord (normaliserat ord)**: uppslagsord, fetstil i den tryckta upplagan
+
+    **ordklass (UD)**: ordklassuppgift på engelska (universal dependencies)
+
+    **ord**: uppslagsord med ev. homografsiffra; ev. lodstreck markerar stor ordledsgräns
+
+    **homograf**: numrering vid likstavade former av olika ord. 1, 2, 3 osv. betecknar ordning på homografa ord. Exempelord: **rå**, **så**
+
+    **morfosyntax**: ordklassangivelse (förkortning), OBS att inte alla sammansättningar har ordklassangivelse
+
+    (**relation**: [vi föreslår att detta fält undertrycks])
+
+    **relaterat ord**: huvudord i aktuellt näste med ev. homografsiffra
+
+    **källa**: länk till pdf av aktuell sida i tryckt upplaga
