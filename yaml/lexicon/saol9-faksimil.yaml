@@ -44,8 +44,6 @@ description:
 
     **morfosyntax**: ordklassangivelse (förkortning), OBS att inte alla sammansättningar har ordklassangivelse
 
-    (**relation**: [vi föreslår att detta fält undertrycks])
-
     **relaterat ord**: huvudord i aktuellt näste med ev. homografsiffra
 
     **källa**: länk till pdf av aktuell sida i tryckt upplaga
