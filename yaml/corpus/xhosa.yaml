@@ -58,6 +58,10 @@ description:
       A user guide and more extensive information about the corpus data can be found in the <a href="https://spraakbanken.gu.se/korp/data/xhosa/Corpus%20of%20Spoken%20isiXhosa%20-%20User%20manual.pdf" target="_blank">Corpus of Spoken isiXhosa Manual [PDF]</a>.
     </p>
     <p>
+      The abbreviations and conventions used in the annotation of the corpus are explained in the following protocol:<br>
+      Bloom Ström, E.-M., Slater, O., & Zahran, A. (2026). Annotation protocol for the Corpus of spoken isiXhosa (Version 1). Zenodo. <a href="https://doi.org/10.5281/zenodo.20862614" target="_blank">https://doi.org/10.5281/zenodo.20862614</a>
+    </p>
+    <p>
       <b>For more on annotation, preparation of data, and acknowledgements see:</b>
     </p>
     <ul style="list-style: unset; padding: revert;">
