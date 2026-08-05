@@ -9,6 +9,8 @@ tools:
     license: BSD-3-Clause
 trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3)'
 tagset: '[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)'
+language_varieties:
+  - '1800'
 name:
   swe: Morfosyntaktisk SUC-taggning med Hunpos för 1800-talssvenska
   eng: Tagging of morphological features (SUC) by Hunpos for Swedish from the 1800's
