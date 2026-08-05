@@ -530,6 +530,13 @@
             "description": "Analysis/utility task",
             "type": "string"
           },
+          "annotations": {
+            "description": "List of annotations produced by the analysis/utility",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
           "models": {
             "description": "Information about the models used for the analysis",
             "type": "array",
@@ -577,6 +584,13 @@
           "tagset": {
             "description": "The tagset used by the analysis",
             "type": "string"
+          },
+          "language_varieties": {
+            "description": "List of language varieties that this analysis/utility is applicable to.",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           },
           "evaluation_results": {
             "description": "Evaluation results",
