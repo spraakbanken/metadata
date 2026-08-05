@@ -8,6 +8,10 @@ short_description:
 task: phrase structure parsing
 language_codes:
   - swe
+annotations:
+  - phrase_structure.phrase
+  - phrase_structure.phrase:phrase_structure.name
+  - phrase_structure.phrase:phrase_structure.func
 trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
 tagset: See description below
 description:

@@ -24,6 +24,8 @@ short_description:
   swe: Lemmatisering med Stanzas standardmodell för engelska
   eng: Lemmatization with Stanza's standard model for English
 task: lemmatization
+annotations:
+  - <token>:stanza.baseform
 type: analysis
 analysis_unit: token
 example: |-

@@ -14,6 +14,10 @@ short_description:
   swe: Annotering av texter med platsinformation, baserad på platser som finns i texten
   eng: Annotate text chunks with location data, based on locations contained within
     the text
+annotations:
+  - <text>:geo.geo_context
+  - <paragraph>:geo.geo_context
+  - <sentence>:geo.geo_context
 description:
   swe: |-
     Texter berikas med platsnamn (och deras geografiska koordinater) som finns i dem. Detta är baserat på platsnamn som

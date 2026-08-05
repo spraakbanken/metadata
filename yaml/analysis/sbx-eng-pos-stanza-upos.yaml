@@ -27,6 +27,8 @@ short_description:
     standard model for English
 task: part-of-speech tagging
 tagset: '[UD](https://universaldependencies.org/u/pos/)'
+annotations:
+  - <token>:stanza.upos
 type: analysis
 analysis_unit: token
 example: |-

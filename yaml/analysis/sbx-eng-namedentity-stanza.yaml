@@ -24,6 +24,9 @@ short_description:
   swe: Namnigenkänning (NER) med Stanzas standardmodell för engelska
   eng: Named entity recognition with Stanza's standard model for English
 task: named entity recognition
+annotations:
+  - stanza.ne
+  - stanza.ne:stanza.ne_type
 description:
   swe: |-
     Namnigenkänning (NER) gör det möjligt att märka upp namnentiteter (som t.ex. personnamn, organisationer, ortnamn) i

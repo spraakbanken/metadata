@@ -10,6 +10,8 @@ language_codes:
   - swe
 keywords:
   - saldo
+annotations:
+  - <token>:wsd.sense
 standard_reference: https://aclanthology.org/N15-1164.pdf
 other_references:
   - https://github.com/spraakbanken/sparv-wsd/blob/master/README.pdf

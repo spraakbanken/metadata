@@ -25,6 +25,10 @@ short_description:
   eng: Dependency parsing with Stanza's standard model for English
 task: dependency parsing
 tagset: '[UD](https://universaldependencies.org/en/dep/)'
+annotations:
+  - <token>:stanza.ref
+  - <token>:stanza.dephead_ref
+  - <token>:stanza.deprel
 type: analysis
 analysis_unit: token
 example: |-

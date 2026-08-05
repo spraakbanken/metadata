@@ -8,6 +8,9 @@ short_description:
 task: sentiment analysis
 language_codes:
   - swe
+annotations:
+  - <token>:sensaldo.sentiment_label
+  - <token>:sensaldo.sentiment_score
 standard_reference: http://www.lrec-conf.org/proceedings/lrec2018/summaries/857.html
 other_references:
   - http://www.lrec-conf.org/proceedings/lrec2018/summaries/846.html

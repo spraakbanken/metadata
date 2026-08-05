@@ -15,6 +15,8 @@ short_description:
 task: compound analysis
 keywords:
   - saldo
+annotations:
+  - <token>:saldo.compwf
 description:
   swe: |-
     Token och deras ordklasser slås upp i SALDO-lexikonet för att berikas med sammansättningsinformation. Mer

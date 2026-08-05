@@ -25,6 +25,8 @@ short_description:
   eng: Stanza-based morphological analysis for English, using universal features (UD)
 task: morphosyntactic tagging
 tagset: '[UD](https://universaldependencies.org/u/feat/index.html)'
+annotations:
+  - <token>:stanza.ufeats
 type: analysis
 analysis_unit: token
 example: |-

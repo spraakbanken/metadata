@@ -17,6 +17,8 @@ short_description:
   eng: Segments text into sentences by whitespaces using the RegexpTokenizer from
     NLTK
 task: sentence segmentation
+annotations:
+  - segment.sentence
 type: analysis
 analysis_unit: sentence
 example: |-

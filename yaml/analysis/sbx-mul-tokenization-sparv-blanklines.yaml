@@ -16,6 +16,8 @@ short_description:
   swe: Tokeniserar text utifrån tomma rader med hjälp av NLTKs RegexpTokenizer
   eng: Tokenizes text into tokens by blank lines using the RegexpTokenizer from NLTK
 task: tokenization
+annotations:
+  - segment.token
 type: analysis
 analysis_unit: token
 example: |-

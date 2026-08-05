@@ -24,6 +24,8 @@ short_description:
   swe: Meningssegmentering med Stanzas standardmodell för engelska
   eng: Sentence segmentation with Stanza's standard model for English
 task: sentence segmentation
+annotations:
+  - stanza.sentence
 type: analysis
 analysis_unit: sentence
 example: |-

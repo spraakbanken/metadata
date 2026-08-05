@@ -38,6 +38,8 @@ short_description:
   eng: Swedish part-of-speech annotation with SUC tags by Stanza
 task: part-of-speech tagging
 standard_reference: https://aclanthology.org/2021.nodalida-main.20/
+annotations:
+  - <token>:stanza.pos
 description:
   eng: |-
     In 2020, the Stanza tool was trained and tested on a set of gold-standard

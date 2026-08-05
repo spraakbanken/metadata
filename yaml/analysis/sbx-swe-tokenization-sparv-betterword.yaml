@@ -25,6 +25,8 @@ short_description:
 language_codes:
   - swe
 task: tokenization
+annotations:
+  - segment.token
 models:
   - name: bettertokenizer.sv
     url: https://raw.githubusercontent.com/spraakbanken/sparv-models/master/segment/bettertokenizer.sv

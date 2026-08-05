@@ -17,6 +17,8 @@ short_description:
   eng: Segments text into paragraphs by linebreaks using the RegexpTokenizer from
     NLTK
 task: paragraph segmentation
+annotations:
+  - segment.paragraph
 type: analysis
 analysis_unit: paragraph
 example: |-

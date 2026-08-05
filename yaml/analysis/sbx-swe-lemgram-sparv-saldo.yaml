@@ -15,6 +15,8 @@ short_description:
 task: lexical lookup
 keywords:
   - saldo
+annotations:
+  - <token>:saldo.lemgram
 description:
   swe: |-
     Ett lemgram är ett ords eller ett flerordsuttrycks samtliga böjningsformer. Ett lemgram betecknas med tre delar: en

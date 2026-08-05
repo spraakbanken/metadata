@@ -11,6 +11,12 @@ short_description:
 task: named entity recognition
 language_codes:
   - swe
+annotations:
+  - swener.ne
+  - swener.ne:swener.name
+  - swener.ne:swener.ex
+  - swener.ne:swener.type
+  - swener.ne:swener.subtype
 standard_reference: |-
   [Dimitrios Kokkinakis, Jyrki Niemi, Sam Hardwick, Krister Lindén, and Lars Borin. 2014. HFST-SweNER — A New NER
   Resource for Swedish. In Proceedings of the Ninth International Conference on Language Resources and Evaluation

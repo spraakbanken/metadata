@@ -38,6 +38,8 @@ short_description:
   eng: Annotation of morphological features (SUC) by Stanza for Swedish
 task: morphosyntactic tagging
 standard_reference: https://aclanthology.org/2021.nodalida-main.20/
+annotations:
+  - <token>:stanza.msd
 models:
   - name: Stanzamorph
     url: https://spraakbanken.gu.se/resurser/stanzamorph

@@ -31,6 +31,8 @@ short_description:
   swe: Annotering av grundformer (lemman) med Stanza för svenska tränat på SUC3
   eng: Swedish citation form analysis (base forms, lemmas) by Stanza, trained on SUC3
 task: lemmatization
+annotations:
+  - <token>:stanza.baseform
 models:
   - name: Stanzalem
     url: https://spraakbanken.gu.se/resurser/stanzalem

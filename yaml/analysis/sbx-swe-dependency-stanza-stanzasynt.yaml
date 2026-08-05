@@ -35,6 +35,10 @@ short_description:
   swe: Svensk dependensparsning tränad på Svensk trädbank med Stanza
   eng: Swedish dependency parsing with Stanza trained on Sweedish treebank
 task: dependency parsing
+annotations:
+  - <token>:stanza.dephead_ref
+  - <token>:stanza.deprel
+  - <token>:stanza.ref
 models:
   - name: Stanzasynt
     url: https://spraakbanken.gu.se/resurser/stanzasynt

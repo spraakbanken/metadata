@@ -12,6 +12,8 @@ short_description:
     en text är att läsa
   eng: Annotation of Swedish texts with nominal ratios which indicate the difficulty
     of the texts
+annotations:
+  - <text>:readability.nk
 description:
   swe: |-
     Nominalkvot är ett läsbarhetsvärde som beräknas genom att man summerar antalet particip, substantiv och

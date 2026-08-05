@@ -24,6 +24,8 @@ name:
 short_description:
   swe: Lexikala klasser från SweFN på tokennivå
   eng: Lexical classes from SweFN on token-level
+annotations:
+  - <token>:lexical_classes.swefn
 description:
   swe: |-
     Token slås upp i [Svenskt frasnät](https://spraakbanken.gu.se/resurser/swefn) (SweFN, en lexikal-semantisk resurs

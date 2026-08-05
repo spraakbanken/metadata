@@ -16,6 +16,8 @@ short_description:
   swe: Segmenterar text i meningar utifrån radbrytningar med hjälp av NLTKs RegexpTokenizer
   eng: Segments text into sentences by linebreaks using the RegexpTokenizer from NLTK
 task: sentence segmentation
+annotations:
+  - segment.sentence
 type: analysis
 analysis_unit: sentence
 example: |-

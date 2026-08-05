@@ -12,6 +12,8 @@ short_description:
     en text är att läsa
   eng: Annotation of Swedish texts with OVIX values which indicate the difficulty
     of the texts
+annotations:
+  - <text>:readability.ovix
 description:
   swe: |-
     OVIX är ett läsbarhetsvärde som baseras på andelen ord som endast förekommer en gång i texten.

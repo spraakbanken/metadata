@@ -13,6 +13,8 @@ short_description:
   eng: Annotation of Swedish texts with LIX values which indicate the difficulty of
     the texts
 standard_reference: '[Björnsson (1968)](https://libris.kb.se/bib/8079176)'
+annotations:
+  - <text>:readability.lix
 description:
   swe: |-
     Läsbarhetsindex (LIX) ([Björnsson (1968)](https://libris.kb.se/bib/8079176)) kan användas för att få en uppfattning

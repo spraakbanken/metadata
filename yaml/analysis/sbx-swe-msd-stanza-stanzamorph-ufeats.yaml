@@ -32,6 +32,8 @@ short_description:
   swe: Morfologisk analys för svenska med universal features (UD) baserad på Stanza
   eng: Stanza-based morphological analysis for Swedish, using universal features (UD)
 task: morphosyntactic tagging
+annotations:
+  - <token>:stanza.ufeats
 models:
   - name: Stanzamorph
     url: https://spraakbanken.gu.se/resurser/stanzamorph

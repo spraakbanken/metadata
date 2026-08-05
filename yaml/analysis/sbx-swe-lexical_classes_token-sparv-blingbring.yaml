@@ -26,6 +26,8 @@ name:
 short_description:
   swe: Lexikala klasser från Blingbring på tokennivå
   eng: Lexical classes from Blingbring on token-level
+annotations:
+  - <token>:lexical_classes.blingbring
 description:
   swe: |-
     Token slås upp i Blingbring för att berikas med information om vilka lexikala klasser de tillhör.

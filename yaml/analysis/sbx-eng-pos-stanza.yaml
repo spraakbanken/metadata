@@ -27,6 +27,8 @@ short_description:
     for English
 task: part-of-speech tagging
 tagset: '[Penn Treebank tagset](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)'
+annotations:
+  - <token>:stanza.pos
 type: analysis
 analysis_unit: token
 example: |-

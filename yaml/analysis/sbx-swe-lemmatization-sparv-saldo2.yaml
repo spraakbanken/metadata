@@ -16,6 +16,8 @@ short_description:
 task: lemmatization
 keywords:
   - saldo
+annotations:
+  - <token>:saldo.baseform2
 description:
   swe: |-
     SALDO-fullformslexikonet används för att finna grundformer och ordbetydelser för textord, med flertydigheter

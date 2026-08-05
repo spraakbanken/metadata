@@ -16,6 +16,8 @@ short_description:
   swe: Annotering av SUC-ordklasser med Hunpos för 1800-talssvenska
   eng: Part-of-speech annotation with SUC tags by Hunpos for Swedish from the 1800's
 task: part-of-speech tagging
+annotations:
+  - <token>:hunpos.pos
 models:
   - name: suc3_suc-tags_default-setting_utf8.model
     url: https://github.com/spraakbanken/sparv-models/blob/master/hunpos/suc3_suc-tags_default-setting_utf8.model?raw=true

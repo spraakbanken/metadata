@@ -28,6 +28,8 @@ short_description:
 language_codes:
   - swe
 task: sentence segmentation
+annotations:
+  - segment.sentence
 models:
   - name: punkt-nltk-svenska.pickle
     url: https://github.com/spraakbanken/sparv-models/blob/master/segment/punkt-nltk-svenska.pickle?raw=true
