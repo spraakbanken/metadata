@@ -51,6 +51,7 @@ short_description:
 created: 2025-09-04
 creators:
   - KB-Labb
+origin: sbx
 updated: 2026-01-21
 type: utility
 license: MIT

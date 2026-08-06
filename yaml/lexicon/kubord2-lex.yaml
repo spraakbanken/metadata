@@ -10,6 +10,7 @@ description:
   swe: "Resursen är en omarbetning av korpussamlingen [Kubord 2](https://spraakbanken.gu.se/resurser/kubord2)."
   eng: "The resource is based on the corpus collection [Kubord 2](https://spraakbanken.gu.se/resurser/kubord2)."
 created: '2026-04-08'
+origin: sbx
 updated: '2026-04-08'
 downloads:
   - url: https://spraakbanken.gu.se/resurser/data/karp/kubord2-lex.jsonl.bz2

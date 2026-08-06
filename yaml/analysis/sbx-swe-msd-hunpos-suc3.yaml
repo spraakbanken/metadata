@@ -29,6 +29,7 @@ description:
     Sentence segments are analysed to enrich tokens with part-of-speech tags and morphosyntactic information. No longer
     used by default by Sparv because Stanza's POS-tagging yields better results.
 created: 2010-12-15
+origin: sbx
 updated: 2018-05-28
 type: analysis
 analysis_unit: token

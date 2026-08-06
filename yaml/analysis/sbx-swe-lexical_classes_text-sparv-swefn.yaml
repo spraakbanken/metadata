@@ -6,6 +6,7 @@ trained_on: |-
   Reference corpora for relative frequencies: [Göteborgsposten 2008](https://spraakbanken.gu.se/resurser/gp2008), [SUC
   3.0](https://spraakbanken.gu.se/resurser/suc3), [Bonniersromaner I
   (1976–77)](https://spraakbanken.gu.se/resurser/romi)
+origin: sbx
 updated: 2017-09-21
 standard_reference: '[Dana Dannélls, Lars Borin, Karin Friberg Heppin (2021): The
   Swedish FrameNet++ Harmonization, integration, method development and practical

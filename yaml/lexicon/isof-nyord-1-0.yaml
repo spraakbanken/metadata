@@ -8,6 +8,7 @@ interfaces:
 - url: https://spraakbanken.gu.se/karp?resources=isof-nyord
   license: CC-BY-4.0
 created: '2025-11-03'
+origin: sbx
 updated: '2025-11-03'
 contact_info:
   name: Språkbanken Sam

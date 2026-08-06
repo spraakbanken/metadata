@@ -8,6 +8,7 @@ description:
   swe: Dokumentationen för NLTKs RegexpTokenizer finns [här](https://www.nltk.org/api/nltk.tokenize.regexp.html#nltk.tokenize.regexp.RegexpTokenizer).
   eng: The documentation for NLTK's RegexpTokenizer can be found [here](https://www.nltk.org/api/nltk.tokenize.regexp.html#nltk.tokenize.regexp.RegexpTokenizer).
 created: 2010-12-15
+origin: sbx
 updated: 2021-05-07
 name:
   swe: Radbrytningstokenisering

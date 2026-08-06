@@ -26,6 +26,7 @@ description:
     A lemgram in SALDO is a combination of a base form and an inflectional pattern. More information (in Swedish) is
     found in the [Språkbanken Text FAQ](https://spraakbanken.gu.se/faq/vad-ar-ett-lemgram).
 created: 2010-12-15
+origin: sbx
 updated: 2018-03-28
 type: analysis
 analysis_unit: token

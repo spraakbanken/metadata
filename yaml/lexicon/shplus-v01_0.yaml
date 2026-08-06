@@ -43,6 +43,7 @@ intended_uses: # The intended uses for this resource. May contain Markdown or HT
   swe: 'Språkhistoriska och lexikografihistoriska studier'  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
   eng: 'Historical linguistics and research on history of lexicography' # The intended uses for this resource (in English). May contain Markdown or HTML.
 created: '2025-05-21' # Date the resource was created (format: YYYY-MM-DD)
+origin: sbx
 updated: '2025-05-21' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
 size: # Size information about the lexicon

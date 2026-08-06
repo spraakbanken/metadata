@@ -24,6 +24,7 @@ description:
     The SALDO morphology full-form lexicon is used to find possible citation forms (lemmas)  and word senses for text
     word tokens, preserving ambiguity.
 created: 2010-12-15
+origin: sbx
 updated: 2018-03-28
 type: analysis
 analysis_unit: token

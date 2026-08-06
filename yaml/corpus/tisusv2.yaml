@@ -15,5 +15,6 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=tisusv2
   license: CC-BY-4.0
+origin: sbx
 updated: 2020-11-20
 doi: 10.23695/sqgm-jx08

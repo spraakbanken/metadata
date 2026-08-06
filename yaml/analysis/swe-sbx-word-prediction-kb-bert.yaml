@@ -9,6 +9,7 @@ task: word-prediction
 other_references:
   - 'Repository: https://github.com/spraakbanken/sparv-sbx-word-prediction-kb-bert'
 created: 2024-03-22
+origin: sbx
 updated: 2025-11-12
 creators:
   - KB-Labb

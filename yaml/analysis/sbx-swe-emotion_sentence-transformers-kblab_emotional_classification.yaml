@@ -23,6 +23,7 @@ creators:
 other_references:
   - 'Repository: https://github.com/spraakbanken/sparv-sbx-emotions-kb-emoclass'
 created: 2025-10-17
+origin: sbx
 updated: 2025-10-24
 short_description:
   swe: Känsloanalys på meningsnivå mha KBLab/emotional-classification

@@ -3,6 +3,7 @@ task: export
 description:
   eng: ''
   swe: ''
+origin: sbx
 updated: 2023-11-06
 name:
   swe: XML-export, omkastad

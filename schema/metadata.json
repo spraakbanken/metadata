@@ -262,6 +262,16 @@
         "affiliation"
       ]
     },
+    "origin": {
+      "description": "Språkbanken division where the resource was created, e.g. 'sbc', 'sbs', 'sbt', 'sbx' etc.",
+      "type": "string",
+      "enum": [
+        "sbc",
+        "sbs",
+        "sbt",
+        "sbx"
+      ]
+    },
     "keywords": {
       "description": "List of keywords (in English) that may be used for filtering. Keep them short!",
       "type": "array",
@@ -333,7 +343,8 @@
     }
   },
   "required": [
-    "type"
+    "type",
+    "origin"
   ],
   "allOf": [
     {

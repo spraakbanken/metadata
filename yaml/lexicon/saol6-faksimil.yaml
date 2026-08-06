@@ -11,6 +11,7 @@ interfaces:
   - url: https://spraakbanken.gu.se/karp?resources=saol6-faksimil
     license: CC-BY-4.0
 created: '2025-11-06'
+origin: sbx
 doi: 10.23695/c237-e922
 creators: ['Svenska Akademien']
 contact_info:

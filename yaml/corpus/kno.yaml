@@ -49,6 +49,7 @@ intended_uses: # The intended uses for this resource. May contain Markdown or HT
   swe: ''  # The intended uses for this resource (in Swedish). May contain Markdown or HTML.
   eng: '' # The intended uses for this resource (in English). May contain Markdown or HTML.
 created: '2025-01-24' # Date the resource was created (format: YYYY-MM-DD)
+origin: sbx
 updated: '2025-01-24' # Date the resource was last updated (format: YYYY-MM-DD)
 collection: false # Set to "true" if this is a collection of resources
 size: # Size information about the lexicon. Additional fields may be added.

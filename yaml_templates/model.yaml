@@ -40,6 +40,7 @@ contact_info: # Contact info of the person who can answer questions about the re
   affiliation:
     organization: ''
     email: ''
+origin: '' # Språkbanken division where the resource was created, e.g. 'sbc', 'sbs', 'sbt', 'sbx' etc.
 keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
 caveats: # Caveats and disclaimers. May contain Markdown or HTML.
   swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.

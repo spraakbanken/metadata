@@ -112,6 +112,7 @@ intended_uses:
   swe: (Tvärspråkliga) andraspråksinlärningsstudier, evaluering av dependensparsrar.
   eng: (Cross-lingual) SLA studies, dependency parser evaluation.
 created: '2026-06-15'
+origin: sbx
 updated: '2026-06-15'
 description:
   eng: UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on [SweLL](https://spraakbanken.gu.se/resurser/swell),

@@ -56,4 +56,5 @@ description:
     tools for various input and output formats, tokenization, sentence segmentation, and a variety of linguistic
     analyses such as lemmatization, part-of-speech tagging, dependency parsing, geotagging, readability measures, and
     sentiment analysis.
+origin: sbx
 doi: 10.23695/r5q1-xa67

@@ -15,6 +15,7 @@ description:
     abbreviations, a list of words containing special characters etc. It is, however, possible to configure the
     tokenizer for other languages.
 created: 2010-12-15
+origin: sbx
 updated: 2021-05-07
 name:
   swe: Svensk tokenisering

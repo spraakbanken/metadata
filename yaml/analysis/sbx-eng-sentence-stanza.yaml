@@ -16,6 +16,7 @@ models:
   - name: Stanza standard model for English
     url: https://stanfordnlp.github.io/stanza/models.html
 created: 2022-08-10
+origin: sbx
 updated: 2022-08-10
 name:
   swe: Meningssegmentering för engelska med Stanza

@@ -18,5 +18,6 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=npegl#?corpus=npegl-swe
   license: CC-BY-4.0
+origin: sbx
 updated: 2024-03-26
 doi: 10.23695/j0zg-0355

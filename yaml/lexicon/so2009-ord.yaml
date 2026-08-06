@@ -29,6 +29,7 @@ short_description:
   swe: Ord i Svensk ordbok.
   eng: Words in Svensk ordbok.
 created: '2025-11-06'
+origin: sbx
 updated: '2025-11-06'
 type: lexicon
 doi: 10.23695/jz0m-sg71

@@ -44,4 +44,5 @@ description:
   eng: |-
     These analyses are used by default for texts written in modern Swedish.
     They are usually applied to the modern corpora in [Korp](https://spraakbanken.gu.se/korp).
+origin: sbx
 doi: 10.23695/43y6-3y47

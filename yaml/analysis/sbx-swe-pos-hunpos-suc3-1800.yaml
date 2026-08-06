@@ -36,6 +36,7 @@ description:
     Sentence segments are analysed to enrich tokens with part-of-speech tags. In addition to the pos model inflection
     lists are provided to Hunpos to make more accurate part-of-speech predictions for Swedish from the 1800's.
 created: 2012-10-23
+origin: sbx
 updated: 2015-09-11
 type: analysis
 analysis_unit: token

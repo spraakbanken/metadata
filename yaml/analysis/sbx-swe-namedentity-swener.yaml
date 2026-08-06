@@ -49,6 +49,7 @@ description:
     entity types and consists of multiple, reusable resource layers such as various n-gram-based named entity lists
     (gazetteers).
 created: 2014-07-04
+origin: sbx
 updated: 2020-05-13
 type: analysis
 example: |-

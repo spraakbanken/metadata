@@ -40,6 +40,7 @@ contact_info: # Contact info of the person who can answer questions about the re
   affiliation:
     organization: ''
     email: ''
+origin: '' # Språkbanken division where the resource was created, e.g. 'sbc', 'sbs', 'sbt', 'sbx' etc.
 keywords: [] # List of keywords (in English) that may be used for filtering. Keep them short!
 caveats: # Caveats and disclaimers. May contain Markdown or HTML.
   swe: ''  # Caveats and disclaimers in Swedish. May contain Markdown or HTML.
@@ -60,6 +61,7 @@ tools: # Information about the external tools that produce the analysis (if appl
     license: '' # License for the tool. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
     license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
 task: '' # Analysis/utility task
+annotations: [] # List of annotations produced by the analysis/utility
 models: # Information about the models used for the analysis
   - name: ''  # Name of the model
     url: '' # URL to the model
@@ -69,6 +71,7 @@ models: # Information about the models used for the analysis
 example: '' # Example of how to use the analysis and what the output looks like
 trained_on: '' # The training data used
 tagset: '' # The tagset used by the analysis
+language_varieties: [] # List of language varieties that this analysis/utility is applicable to.
 evaluation_results: '' # Evaluation results
 license: '' # License for the code (e.g. the Sparv plugin). Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
 license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".

@@ -70,4 +70,5 @@ annotation:
   eng: The texts are annotated with personal information categories following the
     TAB guidelines (https://aclanthology.org/2022.cl-4.19/)
 trainingdata: true
+origin: sbx
 doi: 10.23695/qcqg-3613

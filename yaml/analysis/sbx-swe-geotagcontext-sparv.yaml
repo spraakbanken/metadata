@@ -6,6 +6,7 @@ models:
   - name: GeoNames
     url: https://www.geonames.org/
 created: 2018-05-28
+origin: sbx
 updated: 2022-05-18
 name:
   swe: Geotaggning av platsnamn från kontext

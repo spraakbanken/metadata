@@ -42,5 +42,6 @@ interfaces:
   description: 'Application for access (https://sunet.artologik.net/gu/swell)'
   license: LicenseRef-Other
   license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
+origin: sbx
 updated: 2020-06-05
 doi: 10.23695/jjnh-w133

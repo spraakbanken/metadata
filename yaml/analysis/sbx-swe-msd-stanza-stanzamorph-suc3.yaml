@@ -29,6 +29,7 @@ intended_uses:
   swe: ''
   eng: ''
 created: 2020-12-07
+origin: sbx
 updated: 2022-08-10
 name:
   swe: Morfosyntaktisk SUC-taggning med Stanza

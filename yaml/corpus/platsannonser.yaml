@@ -19,6 +19,7 @@ downloads:
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=platsannonser
   license: CC-BY-4.0
+origin: sbx
 updated: 2017-05-31
 creators:
   - Helgesson, Karin

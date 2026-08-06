@@ -56,5 +56,6 @@ description:
     <p>Data is provided in a tab-separated format consisting of five columns, namely, token id, token, list of error codes for addition, list of error codes for deletion and list of codes for replacement.  
     See more on data format in the standard reference article. </p>
     <p>License: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res).</p>
+origin: sbx
 updated: 2025-01-19
 doi: 10.23695/q9v4-vt57
