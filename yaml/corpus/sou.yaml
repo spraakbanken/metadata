@@ -2,17 +2,15 @@ name:
   swe: KBs digitaliserade SOU:er (1922–1996)
   eng: KBs digitaliserade SOU:er (1922–1996)
 short_description:
+  swe: Statens offentliga utredningar (SOU) i digitaliserat format från Kungliga biblioteket
+description:
   swe: Statens offentliga utredningar (SOU) i digitaliserat format från <a href="https://sou.kb.se" target="_blank">Kungliga biblioteket</a>. Samlingen är inte komplett.
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
   tokens: 428188012
   sentences: 20573661
-in_collections: []
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/sou.xml.bz2
     type: corpus
@@ -33,16 +31,5 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-annotation:
-  swe: ''
-  eng: ''
-keywords: []
-caveats:
-  swe: ''
-  eng: ''
-other_references: []
-intended_uses:
-  swe: ''
-  eng: ''
 updated: 2017-07-02
 doi: 10.23695/4015-0t64
