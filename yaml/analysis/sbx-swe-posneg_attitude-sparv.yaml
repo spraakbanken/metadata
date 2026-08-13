@@ -10,7 +10,7 @@ short_description:
     mot.
   eng: A Sparv plugin which annotates object of positive or negative attitude.
 type: analysis
-task: attitude annotation
+task: sentiment analysis
 analysis_unit: token
 models:
   - url: https://huggingface.co/sbx/KB-bert-base-swedish-cased_posneg_attitude
