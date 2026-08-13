@@ -9,19 +9,19 @@ task: export
 keywords:
   - conll-u
 created: 2020-11-20
-origin: sbx
 updated: 2022-03-25
 type: utility
-example: |
-  This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
-
-  To use this exporter, run Sparv with the argument 'conll_export:conllu':
-
-  ```sh
-  sparv run conll_export:conllu
-  ```
-
-  For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+example: "This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/)\
+  \ to get started!\n\nTo use this exporter, run Sparv with the argument 'conll_export:conllu':\n\
+  \n```sh\nsparv run conll_export:conllu\n```\n\nFor more info on how to use Sparv,\
+  \ check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).\n\nExample\
+  \ output:\n```\n# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS\
+  \ MISC\n# document_name = rävar\n# text_date = 2017-01-10\n# text_title = Rödräv\n\
+  # sent_id = 157\n1\tRödräven\trödräv\tNN\tNN.UTR.SIN.DEF.NOM\tCase=Nom|Definite=Def|Gender=Com|Number=Sing\t\
+  2\tss\t_\t_\n2\tär\tvara\tVB\tVB.PRS.AKT\tMood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act\t\
+  0\troot\t_\t_\n3\tett\ten\tDT\tDT.NEU.SIN.IND\tDefinite=Ind|Gender=Neut|Number=Sing\t\
+  4\tdt\t_\t_\n4\thunddjur\thunddjur\tNN\tNN.NEU.SIN.IND.NOM\tCase=Nom|Definite=Ind|Gender=Neut|Number=Sing\t\
+  2\tsp\t_\t_\n```"
 license: MIT
 contact_info:
   name: Markus Forsberg
@@ -29,4 +29,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/zk46-ws12

@@ -11,7 +11,7 @@ name:
   eng: Annotation of SALDO identifiers
 short_description:
   swe: Uppslagning som ger SALDO-identifierare
-  eng: Lookup for SALDO identifiers
+  eng: Lookup of SALDO identifiers
 task: lexical lookup
 keywords:
   - saldo
@@ -21,7 +21,6 @@ description:
   swe: En SALDO-identifierare refererar till ett ords betydelse i [SALDO-lexikonet](https://spraakbanken.gu.se/resurser/saldo).
   eng: A SALDO identifier refers to a sense of a word in the [SALDO lexicon](https://spraakbanken.gu.se/resurser/saldo).
 created: 2010-12-15
-origin: sbx
 updated: 2018-03-28
 type: analysis
 analysis_unit: token
@@ -52,4 +51,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/n1pm-z125

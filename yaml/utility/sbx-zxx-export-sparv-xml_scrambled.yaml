@@ -3,7 +3,6 @@ task: export
 description:
   eng: ''
   swe: ''
-origin: sbx
 updated: 2023-11-06
 name:
   swe: XML-export, omkastad
@@ -21,7 +20,7 @@ intended_uses:
     kan återskapa det ursprungliga materialet.
 created: 2011-09-05
 type: utility
-example: |
+example: |-
   This exporter is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!
 
   To use this exporter, run Sparv with the argument 'xml_export:scrambled':
@@ -39,6 +38,100 @@ example: |
   ```
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
+
+  Example output:
+  ```xml
+  <document name="rävar">
+    <text date="2016-10-31" source="https://jarvzoo.se/djur/fjallrav/" title="Fjällräv">
+      <sentence>
+        <token pos="DT">De</token>
+        <token pos="JJ">flesta</token>
+        <token pos="VB">tänker</token>
+        <token pos="PN">sig</token>
+        <token pos="SN">att</token>
+        <token pos="NN">fjällräven</token>
+        <token pos="VB">är</token>
+        <token pos="JJ">vit</token>
+        <token pos="MID">,</token>
+        <token pos="HP">vilket</token>
+        <token pos="PN">många</token>
+        <token pos="VB">är</token>
+        <token pos="PP">på</token>
+        <token pos="NN">vintern</token>
+        <token pos="MID">,</token>
+        <token pos="KN">men</token>
+        <token pos="PN">det</token>
+        <token pos="VB">finns</token>
+        <token pos="AB">också</token>
+        <token pos="DT">en</token>
+        <token pos="NN">variant</token>
+        <token pos="HP">som</token>
+        <token pos="VB">är</token>
+        <token pos="JJ">blågrå</token>
+        <token pos="NN">året</token>
+        <token pos="PP">om</token>
+        <token pos="MAD">.</token>
+      </sentence>
+    </text>
+    <text date="2020-06-16" source="https://sv.wikipedia.org/wiki/R%C3%B6dr%C3%A4v" title="Rödräv">
+      <sentence>
+        <token pos="PN">Den</token>
+        <token pos="VB">förekommer</token>
+        <token pos="PP">i</token>
+        <token pos="JJ">stora</token>
+        <token pos="NN">delar</token>
+        <token pos="PP">av</token>
+        <token pos="PM">Palearktis</token>
+        <token pos="KN">och</token>
+        <token pos="PM">Nearktis</token>
+        <token pos="KN">och</token>
+        <token pos="PP">i</token>
+        <token pos="AB">mycket</token>
+        <token pos="JJ">mindre</token>
+        <token pos="NN">utsträckning</token>
+        <token pos="PP">i</token>
+        <token pos="PM">Afrika</token>
+        <token pos="MAD">.</token>
+      </sentence>
+    </text>
+    <text date="2017-01-10" source="https://jarvzoo.se/djur/rodrav/" title="Rödräv">
+      <sentence>
+        <token pos="PP">I</token>
+        <token pos="PM">Sverige</token>
+        <token pos="VB">förekommer</token>
+        <token pos="PN">den</token>
+        <token pos="PP">i</token>
+        <token pos="PN">allt</token>
+        <token pos="PP">från</token>
+        <token pos="DT">de</token>
+        <token pos="JJ">nordligaste</token>
+        <token pos="NN">vildmarkerna</token>
+        <token pos="PP">till</token>
+        <token pos="NN">villaträdgården</token>
+        <token pos="PP">i</token>
+        <token pos="NN">söder</token>
+        <token pos="MAD">.</token>
+      </sentence>
+      <sentence>
+        <token pos="MAD">•</token>
+        <token pos="NN">Ungdödligheten</token>
+        <token pos="VB">varierar</token>
+        <token pos="PP">mellan</token>
+        <token pos="RG">7-70</token>
+        <token pos="NN">%</token>
+        <token pos="PC">beroende</token>
+        <token pos="PP">på</token>
+        <token pos="NN">tillgång</token>
+        <token pos="PP">på</token>
+        <token pos="NN">föda</token>
+        <token pos="PAD">(</token>
+        <token pos="NN">sork</token>
+        <token pos="PAD">)</token>
+        <token pos="MAD">.</token>
+      </sentence>
+    </text>
+  </document>
+  ```
 license: MIT
 contact_info:
   name: Markus Forsberg
@@ -46,4 +139,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/7kmz-9f88

@@ -11,7 +11,7 @@ name:
   eng: Annotation of SALDO lemgrams
 short_description:
   swe: Uppslagning som ger SALDO-lemgram
-  eng: Lookup for SALDO lemgrams
+  eng: Lookup of SALDO lemgrams
 task: lexical lookup
 keywords:
   - saldo
@@ -26,7 +26,6 @@ description:
     A lemgram in SALDO is a combination of a base form and an inflectional pattern. More information (in Swedish) is
     found in the [Språkbanken Text FAQ](https://spraakbanken.gu.se/faq/vad-ar-ett-lemgram).
 created: 2010-12-15
-origin: sbx
 updated: 2018-03-28
 type: analysis
 analysis_unit: token
@@ -60,4 +59,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/hq2f-yg65
