@@ -16,7 +16,6 @@ models:
   - name: Stanza standard model for English
     url: https://stanfordnlp.github.io/stanza/models.html
 created: 2022-08-10
-origin: sbx
 updated: 2022-08-10
 name:
   swe: Morfologisk analys för engelska baserad på Stanza
@@ -62,4 +61,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/9bd6-bg35

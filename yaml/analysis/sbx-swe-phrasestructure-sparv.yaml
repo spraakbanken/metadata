@@ -38,7 +38,6 @@ description:
     \ finite verb phrase  \nADJP: adjective phrase  \nADVP: adverb phrase  \nADVP-wh:\
     \ adverb phrase with a relativizer  \nQP: numeral phrase"
 created: 2018-03-28
-origin: sbx
 updated: 2018-03-28
 type: analysis
 example: |-
@@ -92,4 +91,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/3m42-qk02

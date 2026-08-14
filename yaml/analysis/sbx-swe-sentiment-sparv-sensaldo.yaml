@@ -26,7 +26,6 @@ description:
     Tokens and their SALDO IDs are looked up in [Sensaldo](https://spraakbanken.gu.se/resurser/sensaldo) in order to
     enrich them with sentiments.
 created: 2018-03-28
-origin: sbx
 updated: 2018-03-28
 type: analysis
 analysis_unit: token
@@ -85,4 +84,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/qrhk-2e29

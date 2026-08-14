@@ -24,7 +24,6 @@ intended_uses:
   swe: ''
   eng: ''
 created: 2020-12-07
-origin: sbx
 updated: 2022-08-10
 name:
   swe: Morfologisk analys för svenska baserad på Stanza
@@ -75,4 +74,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/hw0w-sk75

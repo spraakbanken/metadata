@@ -6,7 +6,6 @@ trained_on: |-
   Reference corpora for relative frequencies: [Göteborgsposten 2008](https://spraakbanken.gu.se/resurser/gp2008), [SUC
   3.0](https://spraakbanken.gu.se/resurser/suc3), [Bonniersromaner I
   (1976–77)](https://spraakbanken.gu.se/resurser/romi)
-origin: sbx
 updated: 2017-09-21
 standard_reference: '[Lars Borin, Luis Nieto Piña, Richard Johansson (2015): Here
   be dragons? The perils and promises of inter-resource lexical-semantic mapping,
@@ -85,4 +84,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/0jyd-t090

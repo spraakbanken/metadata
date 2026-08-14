@@ -30,7 +30,6 @@ evaluation_results: "Using lemma embeddings:  \nprecision: 0.569 recall: 0.292 f
   \ 0.386\n\nUsing sense embeddings:  \nprecision: 0.667 recall: 0.332 f-measure:\
   \ 0.443\n\nMore information: https://aclanthology.org/N15-1164.pdf"
 created: 2018-05-28
-origin: sbx
 updated: 2022-05-13
 type: analysis
 analysis_unit: token
@@ -81,4 +80,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/j2vv-v579

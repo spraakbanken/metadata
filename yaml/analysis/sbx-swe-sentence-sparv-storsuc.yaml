@@ -18,7 +18,6 @@ description:
     custom-made for Swedish by supplying a model built on [StorSUC](https://spraakbanken.gu.se/en/resources/storsuc). It
     is, however, possible to configure the sentence segmenter for other languages.
 created: 2010-12-15
-origin: sbx
 updated: 2021-09-02
 name:
   swe: Svensk meningssegmentering
@@ -75,4 +74,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/zh22-hf25

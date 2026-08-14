@@ -8,7 +8,6 @@ description:
   swe: Dokumentationen för NLTKs RegexpTokenizer finns [här](https://www.nltk.org/api/nltk.tokenize.regexp.html#nltk.tokenize.regexp.RegexpTokenizer).
   eng: The documentation for NLTK's RegexpTokenizer can be found [here](https://www.nltk.org/api/nltk.tokenize.regexp.html#nltk.tokenize.regexp.RegexpTokenizer).
 created: 2010-12-15
-origin: sbx
 updated: 2021-05-07
 name:
   swe: Radbrytningssegmentering, meningar
@@ -63,4 +62,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/nsqf-1w55

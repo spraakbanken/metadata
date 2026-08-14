@@ -34,7 +34,6 @@ description:
   eng: This MaltParser model configured for Swedish has been trained on the TalbankenSTB
     corpus.
 created: 2010-12-15
-origin: sbx
 updated: 2021-06-01
 type: analysis
 analysis_unit: token
@@ -73,4 +72,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/8j49-fp81

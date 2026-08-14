@@ -29,7 +29,6 @@ description:
     Sentence segments are analysed to enrich tokens with part-of-speech tags. No longer
     used by default by Sparv because Stanza's POS-tagging yields better results.
 created: 2010-12-15
-origin: sbx
 updated: 2018-05-28
 type: analysis
 analysis_unit: token
@@ -60,4 +59,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/wn98-0242

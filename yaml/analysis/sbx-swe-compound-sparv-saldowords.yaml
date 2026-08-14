@@ -27,7 +27,6 @@ description:
     information (in Swedish) is found in the [Språkbanken Text
     FAQ](https://spraakbanken.gu.se/faq/hur-fungerar-sparvs-sammansattningsanalys).
 created: 2018-03-28
-origin: sbx
 updated: 2020-07-09
 type: analysis
 analysis_unit: token
@@ -68,4 +67,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/w46y-cs57

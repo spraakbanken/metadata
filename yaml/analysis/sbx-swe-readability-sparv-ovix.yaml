@@ -3,7 +3,6 @@ task: readability measures
 language_codes:
   - swe
 created: 2018-03-28
-origin: sbx
 updated: 2018-03-28
 name:
   swe: Annotering av Ordvariationsindex (OVIX) för texter
@@ -94,4 +93,5 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 doi: 10.23695/v8w3-pb64
