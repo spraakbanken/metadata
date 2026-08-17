@@ -33,6 +33,7 @@ contact_info:
   affiliation:
     organization: Språkbanken Text
     email: sb-info@svenska.gu.se
+origin: sbx
 annotation:
   swe: ''
   eng: ''
@@ -42,9 +43,8 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
-doi: 10.23695/7dz6-ek80
-created: '2026-08-13'
-updated: '2026-08-13'
+created: '2026-08-17'
+updated: '2026-08-17'
 description:
   swe: ''
   eng: ''
