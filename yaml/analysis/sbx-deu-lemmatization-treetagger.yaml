@@ -5,7 +5,7 @@ tools:
   - name: TreeTagger
     url: https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
     license: LicenseRef-Other
-    licence_other: TreeTagger License https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/Tagger-Licence
+    license_other: TreeTagger License https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/Tagger-Licence
 standard_reference: 'Helmut Schmid (1995): [Improvements in Part-of-Speech Tagging
   with an Application to German](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger2.pdf).
   Proceedings of the ACL SIGDAT-Workshop. Dublin, Ireland.'
