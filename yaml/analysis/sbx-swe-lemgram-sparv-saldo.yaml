@@ -20,11 +20,11 @@ annotations:
 description:
   swe: |-
     Ett lemgram är ett ords eller ett flerordsuttrycks samtliga böjningsformer. Ett lemgram betecknas med tre delar: en
-    grundform, en ordklasstagg och ett urskiljande löpnummer. Mer detaljerad information finns i [Språkbanken Text
+    grundform, en ordklasstagg och ett urskiljande löpnummer. Mer detaljerad information finns i [Språkbanken
     FAQ](https://spraakbanken.gu.se/faq/vad-ar-ett-lemgram).
   eng: |-
     A lemgram in SALDO is a combination of a base form and an inflectional pattern. More information (in Swedish) is
-    found in the [Språkbanken Text FAQ](https://spraakbanken.gu.se/faq/vad-ar-ett-lemgram).
+    found in the [Språkbanken FAQ](https://spraakbanken.gu.se/faq/vad-ar-ett-lemgram).
 created: 2010-12-15
 updated: 2018-03-28
 type: analysis
@@ -57,7 +57,7 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken Text
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 origin: sbx
 doi: 10.23695/hq2f-yg65

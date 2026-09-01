@@ -22,7 +22,7 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken Text
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
@@ -53,7 +53,7 @@ description:
       The recordings and the annotations of Xhosa data have been made as part of three different research projects led by senior lecturer Eva-Marie Bloom Ström at the University of Gothenburg. All projects, including the ongoing ‘How do words get in order? The role of speaker-hearer interaction in languages of southern Africa’, were founded by the Swedish Research Council.
     </p>
     <p>
-      The Corpus has been developed in collaboration with Språkbanken Text.
+      The Corpus has been developed in collaboration with Språkbanken.
     </p>
     <p>
       A user guide and more extensive information about the corpus data can be found in the <a href="https://spraakbanken.gu.se/korp/data/xhosa/Corpus%20of%20Spoken%20isiXhosa%20-%20User%20manual.pdf" target="_blank">Corpus of Spoken isiXhosa Manual [PDF]</a>.

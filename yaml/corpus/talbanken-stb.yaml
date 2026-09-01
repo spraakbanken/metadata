@@ -50,7 +50,7 @@ contact_info:
 description:
   swe: ''
   eng: |-
-    <p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href="https://spraakbanken.gu.se/blogg/index.php/2020/06/09/the-five-lives-of-talbanken/">here</a>. This version was created by Joakim Nivre et al. at Uppsala University as part of The Swedish Treebank (STB). It is now being distributed by Språkbanken Text, and for reproducibility’s sake we keep it in exactly the same form as it was when we received it, without any corrections. This version is not indexed by our search engine Korp.</p>
+    <p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href="https://spraakbanken.gu.se/blogg/index.php/2020/06/09/the-five-lives-of-talbanken/">here</a>. This version was created by Joakim Nivre et al. at Uppsala University as part of The Swedish Treebank (STB). It is now being distributed by Språkbanken, and for reproducibility’s sake we keep it in exactly the same form as it was when we received it, without any corrections. This version is not indexed by our search engine Korp.</p>
 
     <h1>Annotation</h1>
     <p>The following layers of annotation were added (or corrected) manually and can be considered <b>gold data</b>: tokenization, sentence segmentation, POS, MSD, dependency syntax (deprel and dephead).</p>

@@ -20,11 +20,11 @@ annotations:
 description:
   swe: |-
     Token och deras ordklasser slås upp i SALDO-lexikonet för att berikas med sammansättningsinformation. Mer
-    detaljerad information finns i [Språkbanken Text
+    detaljerad information finns i [Språkbanken
     FAQ](https://spraakbanken.gu.se/faq/hur-fungerar-sparvs-sammansattningsanalys).
   eng: |-
     Tokens and their POS tags are looked up in the SALDO lexicon in order to enrich them with compound information. More
-    information (in Swedish) is found in the [Språkbanken Text
+    information (in Swedish) is found in the [Språkbanken
     FAQ](https://spraakbanken.gu.se/faq/hur-fungerar-sparvs-sammansattningsanalys).
 created: 2018-03-28
 updated: 2020-07-09
@@ -65,7 +65,7 @@ contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken Text
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 origin: sbx
 doi: 10.23695/74z6-tk60

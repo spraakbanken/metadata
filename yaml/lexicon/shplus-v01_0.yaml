@@ -23,11 +23,11 @@ creators:  # List of people that created the resource (format: lastname, firstna
   - "Borin, Lars"
   - "Adesam, Yvonne"
 contact_info: # Contact info of the person who can answer questions about the resource
-  name: 'Språkbanken Text'
+  name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: 'Språkbanken Text'
-    email: 'sb-info@svenska.gu.se'
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
 keywords: # List of keywords (in English) that may be used for filtering. Keep them short!
   - "historical linguistics"
   - "history of lexicography"

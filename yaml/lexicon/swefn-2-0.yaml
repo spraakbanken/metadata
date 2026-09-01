@@ -32,7 +32,7 @@ contact_info:
   name: Niklas Zechner
   email: sb-info@svenska.gu.se
   affiliation:
-    organization: Språkbanken Text
+    organization: Språkbanken
     email: sb-info@svenska.gu.se
 description:
   swe: ''
@@ -66,7 +66,7 @@ description:
     </tr>
     <tr>
     <td>Publisher(s)*</td>
-    <td>Språkbanken Text (sb-info@svenska.gu.se)
+    <td>Språkbanken (sb-info@svenska.gu.se)
     </td>
     </tr>
     <tr>

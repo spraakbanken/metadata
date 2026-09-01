@@ -2,8 +2,8 @@ name:
   swe: TalbankenSBX
   eng: TalbankenSBX
 short_description:
-  swe: Talbanken är en svensk trädbank. Detta är Språkbanken Texts version av Talbanken.
-  eng: Talbanken is a Swedish treebank. This is the Språkbanken Text version of Talbanken.
+  swe: Talbanken är en svensk trädbank. Detta är Språkbankens version av Talbanken.
+  eng: Talbanken is a Swedish treebank. This is the Språkbanken version of Talbanken.
 type: corpus
 trainingdata: true
 unlisted: false
