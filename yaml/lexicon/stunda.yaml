@@ -1,0 +1,36 @@
+size:
+  entries: 18449
+language_codes:
+  - swe
+  - eng
+name:
+  swe: Stunda
+  eng: Stunda
+short_description:
+  swe: Sveriges Tekniska Universitets Nätverk för Datatermer
+  eng: Swedish Technical University Network for Computing Terms
+created: '2026-09-02'
+updated: '2026-09-02'
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/stunda.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karp/?resources=stunda
+    license: CC-BY-4.0
+type: lexicon
+description:
+  swe: Stunda är ett nätverk för Sveriges tekniska universitet med syfte att verka
+    för effektiv fackspråklig kommunikation på svenska inom högre utbildning, i första
+    hand genom att samla datatermlistor. Läs mer <a href="https://writing.chalmers.se/stunda/">här</a>.
+  eng: Stunda is a network for Sweden's technical universities aimed at promoting
+    efficient technical communication in Swedish within higher education, primarily
+    by working with discipline-specific terminology. Read more <a href="https://writing.chalmers.se/stunda/">here</a>.
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+origin: sbx
