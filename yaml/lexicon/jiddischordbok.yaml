@@ -1,0 +1,33 @@
+size:
+  entries: 8319
+description:
+  swe: https://www.isof.se/nationella-minoritetssprak/jiddisch/sprakhjalp/jiddisch-svensk-jiddisch-digital-ordbok
+  eng: https://www.isof.se/nationella-minoritetssprak/jiddisch/sprakhjalp/jiddisch-svensk-jiddisch-digital-ordbok
+origin: sbs
+name:
+  swe: Jiddischordbok
+  eng: Jiddischordbok
+short_description:
+  swe: Jiddisch-svensk-jiddisch ordbok är en digital ordbok som innehåller runt 8
+    200 uppslagsord på svenska.
+  eng: Jiddish-swedish-jiddish dictionary is a digital dictionary containing around
+    8200 entries in Swedish.
+created: '2026-09-08'
+updated: '2026-09-08'
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/jiddischordbok.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karp/?resources=jiddischordbok
+    license: CC-BY-4.0
+type: lexicon
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+language_codes:
+  - swe
