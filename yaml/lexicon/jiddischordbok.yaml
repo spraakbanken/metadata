@@ -24,10 +24,11 @@ interfaces:
     license: CC-BY-4.0
 type: lexicon
 contact_info:
-  name: Markus Forsberg
-  email: sb-info@svenska.gu.se
+  name: Jacob Larsson
+  email: jacob.larsson@isof.se
   affiliation:
-    organization: Språkbanken
-    email: sb-info@svenska.gu.se
+    organization: Institutet för språk och folkminnen
+    email: sprakteknologi@isof.se
 language_codes:
   - swe
+  - yid
