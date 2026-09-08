@@ -15,7 +15,7 @@ short_description:
 created: '2026-09-08'
 updated: '2026-09-08'
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/jiddischordbok.jsonl
+  - url: https://sprakresurser.isof.se/jiddisch/job.json
     license: CC0-1.0
     format: jsonl
     type: lexicon
