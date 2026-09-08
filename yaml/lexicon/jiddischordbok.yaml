@@ -16,12 +16,12 @@ created: '2026-09-08'
 updated: '2026-09-08'
 downloads:
   - url: https://spraakbanken.gu.se/resurser/data/karp/jiddischordbok.jsonl
-    license: CC-BY-4.0
+    license: CC0-1.0
     format: jsonl
     type: lexicon
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?resources=jiddischordbok
-    license: CC-BY-4.0
+    license: CC0-1.0
 type: lexicon
 contact_info:
   name: Jacob Larsson
