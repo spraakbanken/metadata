@@ -3,22 +3,19 @@ name:
   swe: Svenska partiprogram och valmanifest
   eng: Swedish party programs and election manifestos
 short_description:
-  swe: De svenska partiernas partiprogram och valmanifest 1887–2024
-  eng: Swedish political party programs and election manifestos 1887–2024
+  swe: De svenska partiernas partiprogram och valmanifest 1887–2022
+  eng: Swedish political party programs and election manifestos 1887–2022
 type: corpus
-trainingdata: false
-unlisted: false
-successors: []
 language_codes:
   - swe
 size:
-  tokens: 2234400
-  sentences: 131789
-in_collections: []
+  tokens: 2531535
+  sentences: 149686
 downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/vivill.xml.bz2
     type: corpus
     format: XML
+    scrambled: false
     description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_vivill.csv.zip
@@ -28,6 +25,7 @@ downloads:
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
+    scrambled: false
     url: https://spraakbanken.gu.se/korp/#?corpus=vivill
 contact_info:
   name: Markus Forsberg
@@ -35,23 +33,25 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
+origin: sbx
 annotation:
   swe: ''
   eng: ''
-keywords: []
 caveats:
   swe: ''
   eng: ''
-other_references:
-  - 'Göteborgs universitet, Svensk nationell datatjänst. (2024). Svenska partiprogram
-    och valmanifest (Version 3) [Dataset]. Tillgänglig via: https://doi.org/10.5878/kcsf-k293'
+standard_reference: 'Göteborgs universitet, Svensk nationell datatjänst. (2026). Svenska
+  partiprogram och valmanifest (Version 4) [Dataset]. Tillgänglig via: https://doi.org/10.5878/19td-y919'
 intended_uses:
   swe: ''
   eng: ''
+doi: 10.23695/nc55-gd27
+created: '2026-09-09'
+updated: '2026-09-09'
 description:
   swe: |-
     <p>Datan till den här korpusen är hämtad från <a
-    href="https://doi.org/10.5878/kcsf-k293">Svensk nationell
+    href="https://doi.org/10.5878/19td-y919">Svensk nationell
     datatjänst</a>.</p>
 
     <p>Dokumenten finns öppet tillgängliga via denna länk: <a
@@ -81,7 +81,7 @@ description:
     samlingen.</p>
   eng: |-
     <p>The data for this corpus was retrieved from <a
-    href="https://doi.org/10.5878/kcsf-k293">Svensk nationell
+    href="https://doi.org/10.5878/19td-y919">Svensk nationell
     datatjänst</a>.</p>
 
     <p>All documents are also open a vailable at page: <a
@@ -124,6 +124,3 @@ description:
     <p>The "Vi vill …" project was awarded financial support from the
     Riksbankens Jubileumsfond grant for support to research
     infrastructures.</p>
-origin: sbx
-updated: 2024-06-10
-doi: 10.23695/nc55-gd27
