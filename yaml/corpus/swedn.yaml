@@ -2,8 +2,8 @@ name:
   swe: SweDN 1.0
   eng: SweDN 1.0
 short_description:
-  swe: A Swedish text summarization corpus
-  eng: A Swedish text summarization corpus
+  swe: A Swedish text summarization corpus. Due to a request from the copyright holder the corpus is no longer available on our website, just the documentation.
+  eng: A Swedish text summarization corpus. Due to a request from the copyright holder the corpus is no longer available on our website, just the documentation.
 type: corpus
 trainingdata: true
 unlisted: false
