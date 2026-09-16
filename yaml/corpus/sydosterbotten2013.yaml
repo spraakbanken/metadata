@@ -11,7 +11,9 @@ unlisted: false
 successors: []
 language_codes: []
 languages:
-  - code: sv-FI
+  - identifier:
+      value: sv-FI
+      scheme: BCP 47
     name:
       eng: Finland Swedish
       swe: finlandssvenska
