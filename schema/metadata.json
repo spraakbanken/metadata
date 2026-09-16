@@ -141,7 +141,8 @@
         "properties": {
           "url": {
             "description": "URL to a downloadable file",
-            "type": "string"
+            "type": "string",
+            "minLength": 1
           },
           "type": {
             "description": "Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.",
@@ -200,7 +201,8 @@
         "properties": {
           "url": {
             "description": "A link to the resource in an interface (e.g in Korp or Karp)",
-            "type": "string"
+            "type": "string",
+            "minLength": 1
           },
           "description": {
             "description": "Additional description, if required",
