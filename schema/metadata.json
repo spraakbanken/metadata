@@ -85,8 +85,27 @@
         "type": "object",
         "additionalProperties": false,
         "properties": {
-          "code": {
-            "description": "Optional language code using some other standard than ISO 639-3",
+          "identifier": {
+            "description": "Optional language code using some other standard than ISO 639-3. It can also be used with ISO 639-3 codes when combined with the \"variety\" field to indicate a specific variety (e.g., \"swe\" with variety \"1800\").",
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "value": {
+                "description": "Language code",
+                "type": "string"
+              },
+              "scheme": {
+                "description": "The standard or scheme used for the language code (e.g., \"ISO 639-2\", \"Glottolog\")",
+                "type": "string"
+              }
+            },
+            "required": [
+              "value",
+              "scheme"
+            ]
+          },
+          "variety": {
+            "description": "Optional variety of the language (e.g., \"1800\" for Old Swedish)",
             "type": "string"
           },
           "name": {
@@ -595,13 +614,6 @@
           "tagset": {
             "description": "The tagset used by the analysis",
             "type": "string"
-          },
-          "language_varieties": {
-            "description": "List of language varieties that this analysis/utility is applicable to.",
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
           },
           "evaluation_results": {
             "description": "Evaluation results",
