@@ -11,7 +11,9 @@ successors: []
 language_codes:
   - swe
 languages:
-  - code: ell
+  - identifier:
+      value: ell
+      scheme: ISO 639-3
     name:
       eng: Modern Greek (1453-)
       swe: modern grekiska (1453-)

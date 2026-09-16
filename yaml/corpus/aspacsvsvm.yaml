@@ -11,7 +11,9 @@ successors: []
 language_codes:
   - swe
 languages:
-  - code: svm
+  - identifier:
+      value: svm
+      scheme: ISO 639-3
     name:
       eng: Slavomolisano
       swe: moliseslaviska
