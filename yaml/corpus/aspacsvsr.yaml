@@ -10,7 +10,13 @@ unlisted: false
 successors: []
 language_codes:
   - swe
-  - srp
+languages:
+  - identifier:
+      value: sr-Latn
+      scheme: BCP 47
+    name:
+      eng: Serbian (latin)
+      swe: serbiska (latin)
 size:
   tokens: 505216
   sentences: 33946

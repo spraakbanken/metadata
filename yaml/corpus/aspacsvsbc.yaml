@@ -12,8 +12,8 @@ language_codes:
   - swe
 languages:
   - identifier:
-      value: srp
-      scheme: ISO 639-3
+      value: sr-Cyrl
+      scheme: BCP 47
     name:
       eng: Serbian (cyrillic)
       swe: serbiska (kyrilliskt)
