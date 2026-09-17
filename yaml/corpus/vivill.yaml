@@ -3,8 +3,8 @@ name:
   swe: Svenska partiprogram och valmanifest
   eng: Swedish party programs and election manifestos
 short_description:
-  swe: De svenska partiernas partiprogram och valmanifest 1887–2022
-  eng: Swedish political party programs and election manifestos 1887–2022
+  swe: De svenska partiernas partiprogram och valmanifest 1887–2026
+  eng: Swedish political party programs and election manifestos 1887–2026
 type: corpus
 language_codes:
   - swe
@@ -55,7 +55,7 @@ description:
     datatjänst</a>.</p>
 
     <p>Dokumenten finns öppet tillgängliga via denna länk: <a
-    href="https://snd.gu.se/vivill">https://snd.gu.se/vivill</a>. Här går
+    href="https://snd.se/vivill">https://snd.se/vivill</a>. Här går
     också att söka i dokumenten.</p>
 
     <p>Svenska partiprogram och valmanifest bygger på projektet "Vi vill....!
@@ -85,7 +85,7 @@ description:
     datatjänst</a>.</p>
 
     <p>All documents are also open a vailable at page: <a
-    href="https://snd.gu.se/vivill">https://snd.gu.se/vivill</a>, where it
+    href="https://snd.se/vivill">https://snd.se/vivill</a>, where it
     is possible to search in the documents.</p>
 
     <p>Swedish party programs and election manifestos builds on the "Vi vill …!
