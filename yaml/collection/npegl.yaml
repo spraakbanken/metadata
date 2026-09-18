@@ -1,55 +1,49 @@
 name:
-  swe: 'NPEGL'  # Human readable name in Swedish
-  eng: 'NPEGL'  # Human readable name in English
+  swe: NPEGL
+  eng: NPEGL
 short_description:
-  swe: 'En databas över nominalfraser i äldre germanska språk.'  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: 'The Noun Phrases in Early Germanic Languages database.'  # Short description in a few words or a sentence in English (plain text only)
-type: lexicon  # Must be "corpus", "lexicon" or "model"
-trainingdata: false  # If set to "true", the collection will be listed as "Training and evaluation data"
-unlisted: false  # If set to "true", the collection won't be listed, but it will be accessible via its URL
-successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version). 
-collection: true  # Needs to be true
-resources: []  # May contain the resource IDs of the resources belonging to this collection. Alternatively the individual resources may refer to the collection.
-language_codes: [ang,goh,non,osx]  # Which language is this collection about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
+  swe: 'En databas över nominalfraser i äldre germanska språk.'
+  eng: 'The Noun Phrases in Early Germanic Languages database.'
+type: lexicon
+collection: true
+language_codes:
+  - ang
+  - goh
+  - non
+  - osx
 languages:
-  - name:
+  - identifier:
+      value: swe
+      scheme: ISO 639-3
+    name:
       swe: fornsvenska
       eng: Old Swedish
+    variety: fsv
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=npegl
     license: LicenseRef-Other
     license_other: Other
-contact_info:  # Contact info of the person who can answer questions about the collection
+contact_info: 
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-annotation: # Anything worth to note about the annotations in this lexicon.
+annotation:
   swe: 'Alla nominalfraser har uppmärkts med information om den interna strukturen och rollen av nominalfrasen i sitt sammanhang. Annotationen är manuellt korrigerad.'
   eng: 'All noun phrases have been annotated with information about their internal structure, as well as their function in the surrounding context. The annotation was mannually corrected.'
-keywords: [] # List of keywords (in English) that may be used for filering. Keep them short!
-caveats: 
-  swe: '' # Caveats and disclaimers in Swedish
-  eng: '' # Caveats and disclaimers in English
-other_references: # List of references or links to publications describing the resource
+other_references:
   - '{publication 335993}'
-intended_uses:
-  swe: '' # The intended uses for this resource (in Swedish)
-  eng: '' # The intended uses for this resource (in English)
 description:
-  # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
   swe: |-
       NPEGL databasen är ett av resultaten av projektet <i>Grenser for syntaktisk variasjon: substantivfraser i gamle germanske språk</i> (Norges forskningsråd, <a href="https://prosjektbanken.forskningsradet.no/project/FORISS/261847">projektnummer 261847</a>)
       Ett av projektmålen var att granska den nominalfrasinterna variationen i äldre germanska språk, i synnerhet variation i ordföljd, och att utforska de
       faktorer som påverkar denna variation. Se Pfaff & Bouma (2014) för mer information om databasens uppbyggnad.
-  # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
   eng: |-
       The NPEGL database is one major output of the project <i>Constraints on syntactic
       variation: Noun phrases in early Germanic languages</i> (Research Council of Norway, <a href="https://prosjektbanken.forskningsradet.no/en/project/FORISS/261847">grant no. 261847</a>).
       One of the project goals was to study the scope of noun phrase-internal variation in Old Germanic 
       languages, with an emphasis on word order variation, and to examine which factors have an impact 
       on that variation. See Pfaff & Bouma (2014) for details about the database design.
-
 origin: sbx
 doi: 10.23695/yvpd-vz69

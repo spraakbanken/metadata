@@ -5,6 +5,8 @@ short_description:
   swe: 'Den fornsaxiska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
   eng: 'The Old Saxon part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 type: corpus
+language_codes:
+  - osx
 size:
   tokens: 637840
   sentences: 19283

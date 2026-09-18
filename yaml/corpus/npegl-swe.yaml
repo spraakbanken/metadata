@@ -5,8 +5,14 @@ short_description:
   swe: 'Den fornsvenska delen av databasen till projektet Constraints on syntactic variation: Noun phrases in early Germanic languages.'
   eng: 'The Old Swedish part of the database developed in the context of Constraints on syntactic variation: Noun phrases in early Germanic languages.'
 type: corpus
-language_codes:
-- swe
+languages:
+  - identifier:
+      value: swe
+      scheme: ISO 639-3
+    name:
+      swe: fornsvenska
+      eng: Old Swedish
+    variety: fsv
 size:
   tokens: 64492
   sentences: 4503
