@@ -28,10 +28,14 @@ description:
     efficient technical communication in Swedish within higher education, primarily
     by working with discipline-specific terminology. Read more <a href="https://writing.chalmers.se/stunda/">here</a>.
 contact_info:
-  name: Markus Forsberg
-  email: sb-info@svenska.gu.se
+  name: Fia Börjesson
+  email: fia.borjeson@chalmers.se
   affiliation:
-    organization: Språkbanken
-    email: sb-info@svenska.gu.se
+    organization: Chalmers
+    email: fia.borjeson@chalmers.se
+keywords:
+  - computer science terminology
+  - terminology
+  - computer science
 origin: sbx
 doi: 10.23695/z9r6-5451
