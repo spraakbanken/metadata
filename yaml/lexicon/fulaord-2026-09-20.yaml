@@ -7,7 +7,7 @@ contact_info:
 unlisted: true
 in_collections: []
 keywords: []
-creators: 
+creators:
   - Dagrin, Bengt
 other_references: []
 language_codes:
@@ -23,5 +23,15 @@ description:
   eng: Words from <a href="https://www.fulaordboken.se/">https://www.fulaordboken.se/</a>
 created: '2026-09-20'
 origin: sbx
-updated: '2026-09-20'
+updated: '2026-10-05'
 type: lexicon
+size:
+  entries: 15256
+downloads:
+  - url: https://spraakbanken.gu.se/resurser/data/karp/fulaord-2026-09-20.jsonl
+    license: CC-BY-4.0
+    format: jsonl
+    type: lexicon
+interfaces:
+  - url: https://spraakbanken.gu.se/karp/?resources=fulaord-2026-09-20
+    license: CC-BY-4.0
