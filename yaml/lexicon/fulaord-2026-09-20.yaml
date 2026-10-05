@@ -4,7 +4,7 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
-unlisted: true
+unlisted: false
 in_collections: []
 keywords: []
 creators:
