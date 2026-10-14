@@ -4,15 +4,18 @@ name:
 description:  # Longer description. May contain Markdown or HTML.
   swe: ''  # Longer description in Swedish. May contain Markdown or HTML.
   eng: '' # Longer description in English. May contain Markdown or HTML.
-short_description: # Short description in a few words or a sentence (plain text only)
-  swe: ''  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: '' # Short description in a few words or a sentence in English (plain text only)
+short_description: # Short description in a few words or a sentence. Plain text only.
+  swe: ''  # Short description in a few words or a sentence in Swedish. Plain text only.
+  eng: '' # Short description in a few words or a sentence in English. Plain text only.
 type: utility # Type of resource
 unlisted: false # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: [] # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version)
 language_codes: [] # Languages relevant to this resource. Use ISO 639-3 codes (e.g., "swe" for Swedish). This can indicate the language of the contents (e.g., in a corpus or lexicon) or the language(s) an analysis tool can process (https://iso639-3.sil.org/code_tables/639/data)
 languages: # Languages relevant to this resource. Use this field only if the language is not available in ISO 639-3, otherwise use the field "language_codes" and don't include this field.
-  - code: ''  # Optional language code using some other standard than ISO 639-3
+  - identifier:  # Optional language code using some other standard than ISO 639-3. It can also be used with ISO 639-3 codes when combined with the "variety" field to indicate a specific variety (e.g., "swe" with variety "1800").
+      value: ''  # Language code
+      scheme: '' # The standard or scheme used for the language code (e.g., "ISO 639-2", "Glottolog")
+    variety: '' # Optional variety of the language (e.g., "1800" for Old Swedish)
     name:
       swe: ''  # Language name (in Swedish)
       eng: '' # Language name (in English)
@@ -71,7 +74,6 @@ models: # Information about the models used for the analysis
 example: '' # Example of how to use the analysis and what the output looks like
 trained_on: '' # The training data used
 tagset: '' # The tagset used by the analysis
-language_varieties: [] # List of language varieties that this analysis/utility is applicable to.
 evaluation_results: '' # Evaluation results
 license: '' # License for the code (e.g. the Sparv plugin). Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
 license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
