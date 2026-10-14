@@ -34,17 +34,20 @@
       }
     },
     "short_description": {
-      "description": "Short description in a few words or a sentence (plain text only)",
+      "description": "Short description in a few words or a sentence. Plain text only.",
       "type": "object",
       "additionalProperties": false,
+      "minProperties": 1,
       "properties": {
         "swe": {
-          "description": "Short description in a few words or a sentence in Swedish (plain text only)",
-          "type": "string"
+          "description": "Short description in a few words or a sentence in Swedish. Plain text only.",
+          "type": "string",
+          "minLength": 1
         },
         "eng": {
-          "description": "Short description in a few words or a sentence in English (plain text only)",
-          "type": "string"
+          "description": "Short description in a few words or a sentence in English. Plain text only.",
+          "type": "string",
+          "minLength": 1
         }
       }
     },
@@ -365,7 +368,8 @@
   },
   "required": [
     "type",
-    "origin"
+    "origin",
+    "short_description"
   ],
   "allOf": [
     {
