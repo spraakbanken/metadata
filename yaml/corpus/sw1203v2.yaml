@@ -1,6 +1,9 @@
 name:
   swe: SW1203-uppsatser version 2
   eng: SW1203-uppsatser version 2
+short_description:
+  swe: SW1203-uppsatser version 2
+  eng: SW1203-uppsatser version 2
 type: corpus
 language_codes:
 - swe

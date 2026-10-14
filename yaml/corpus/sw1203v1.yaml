@@ -1,6 +1,9 @@
 name:
   swe: SW1203 v1
   eng: SW1203 v1
+short_description:
+  swe: SW1203 v1
+  eng: SW1203 v1
 type: corpus
 language_codes:
 - swe

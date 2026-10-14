@@ -2,6 +2,9 @@ name:
   swe: SweLL v1 target
   eng: SweLL v1 target
 type: corpus
+short_description:
+  swe: SweLL v1 target
+  eng: SweLL v1 target
 unlisted: true
 language_codes:
 - swe

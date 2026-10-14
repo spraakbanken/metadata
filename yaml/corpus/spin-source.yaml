@@ -1,6 +1,9 @@
 name:
   swe: SpIn
   eng: SpIn
+short_description:
+  swe: SpIn
+  eng: SpIn
 type: corpus
 language_codes:
 - swe

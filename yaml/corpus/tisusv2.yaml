@@ -1,6 +1,9 @@
 name:
   swe: TISUS-texter v2
   eng: TISUS-texter v2
+short_description:
+  swe: TISUS-texter v2
+  eng: TISUS-texter v2
 type: corpus
 language_codes:
 - swe

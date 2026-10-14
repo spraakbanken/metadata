@@ -1,6 +1,9 @@
 name:
   swe: TISUS v1
   eng: TISUS v1
+short_description:
+  swe: TISUS v1
+  eng: TISUS v1
 type: corpus
 language_codes:
 - swe
