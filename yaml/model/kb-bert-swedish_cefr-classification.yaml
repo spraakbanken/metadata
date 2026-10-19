@@ -11,7 +11,7 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://huggingface.co/sbx/KB-bert-swedish_CEFR-classification
+  - url: https://huggingface.co/sprakbanken-se/KB-bert-swedish_CEFR-classification
     type: model
     format: ''
     description: The model is hosted on HuggingFace and can be easily accessed e.g.

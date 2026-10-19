@@ -19,7 +19,7 @@ task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='abortion'
     url: https://spraakbanken.gu.se/resurser/argumentation-sentences
-    description: Also see https://huggingface.co/datasets/sbx/superlim-2
+    description: Also see https://huggingface.co/datasets/sprakbanken-se/superlim-2
     license: CC-BY-4.0
 example: |
   This analysis is used with Sparv. Check out [Sparv's quick start guide](https://spraakbanken.gu.se/sparv/user-manual/quick-start/) to get started!

@@ -13,7 +13,7 @@ successors: [] # If this resource has been replaced by one or more newer version
 language_codes: ["swe"] 
 in_collections: [] 
 downloads: # Downloadable files related to the resource
-  - url: 'https://huggingface.co/sbx/KB-bert-swedish_PI-detection-detailed-iob'  
+  - url: 'https://huggingface.co/sprakbanken-se/KB-bert-swedish_PI-detection-detailed-iob'  
     type: 'model' 
     format: '' 
     description: 'The model is hosted on HuggingFace and can be easily accessed e.g. using their Python library.' 
