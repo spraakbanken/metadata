@@ -100,7 +100,7 @@ description:
     <p>
     All annan uppmärkning, till exempel länkningen mot SALDO,
     dependensparsning och en alternativ uppmärkning med namngivna entiteter (<code>&lt;ne&gt;</code>-taggar),
-    har skapats automatiskt av <a href="https://spraakbanken.gu.se/verktyg/sparv/annotationer">Sparv</a>.
+    har skapats automatiskt av <a href="https://spraakbanken.gu.se/sparv/user-manual/available-analyses/">Sparv</a>.
     </p>
 
     <p>SUCX går även att utforska i Korp.</p>
