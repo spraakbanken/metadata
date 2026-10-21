@@ -7,7 +7,7 @@ tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
     license: Apache-2.0
-trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
+trained_on: '[TalbankenSBX](https://sprakbanken.se/resurser/talbanken)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
     2020'
@@ -41,7 +41,7 @@ annotations:
   - <token>:stanza.ref
 models:
   - name: Stanzasynt
-    url: https://spraakbanken.gu.se/resurser/stanzasynt
+    url: https://sprakbanken.se/resurser/stanzasynt
     license: CC-BY-4.0
 description:
   eng: |-

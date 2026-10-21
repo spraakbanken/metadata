@@ -7,8 +7,8 @@ tools:
   - name: Stanza
     url: https://stanfordnlp.github.io/stanza/
     license: Apache-2.0
-trained_on: '[SUC3](https://spraakbanken.gu.se/resurser/suc3), [TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken),
-  [SIC2](https://spraakbanken.gu.se/resurser/sic2)'
+trained_on: '[SUC3](https://sprakbanken.se/resurser/suc3), [TalbankenSBX](https://sprakbanken.se/resurser/talbanken),
+  [SIC2](https://sprakbanken.se/resurser/sic2)'
 other_references:
   - 'Stanza: Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning.
     2020'

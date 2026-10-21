@@ -12,7 +12,7 @@ annotations:
   - phrase_structure.phrase
   - phrase_structure.phrase:phrase_structure.name
   - phrase_structure.phrase:phrase_structure.func
-trained_on: '[TalbankenSBX](https://spraakbanken.gu.se/resurser/talbanken)'
+trained_on: '[TalbankenSBX](https://sprakbanken.se/resurser/talbanken)'
 tagset: See description below
 description:
   swe: "Konverterar svenska frasstrukturer från Mamba-Dep dependensanalys med hjälp\

@@ -5,7 +5,7 @@ standard_reference: '[Borin/Forsberg/Lönngren 2013: SALDO: a touch of yin to Wo
   yang](http://dx.doi.org/10.1007/s10579-013-9233-4)'
 models:
   - name: SALDO's morphology
-    url: https://spraakbanken.gu.se/resurser/saldom
+    url: https://sprakbanken.se/resurser/saldom
 name:
   swe: Sammansättningsanalys med hjälp av SALDO-lemgram
   eng: Compound analysis using SALDO lemgrams

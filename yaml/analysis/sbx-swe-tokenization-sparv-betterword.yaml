@@ -2,7 +2,7 @@
 tools:
   - name: NLTK
     url: https://www.nltk.org/
-trained_on: '[SALDOs morphology](https://spraakbanken.gu.se/resurser/saldom)'
+trained_on: '[SALDOs morphology](https://sprakbanken.se/resurser/saldom)'
 description:
   swe: |-
     Tokeniseringen är ursprungligen baserad på NLTKs PunktWordTokenizer (som inte längre tillhandahålls av NLTK). Sparvs

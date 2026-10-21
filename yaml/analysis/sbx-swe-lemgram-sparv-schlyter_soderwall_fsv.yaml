@@ -23,7 +23,7 @@ annotations:
   - <token>:hist.lemgram
 models:
   - name: Old Swedish morphology
-    url: https://spraakbanken.gu.se/resurser/fsvm
+    url: https://sprakbanken.se/resurser/fsvm
 other_references:
   - '{publication 72502}'
   - '{publication 198794}'
