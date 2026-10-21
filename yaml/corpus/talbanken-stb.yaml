@@ -59,7 +59,7 @@ description:
 
     <p>Read more about these annotation layers in the documentation or at Joakim Nivre's page: <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#token">tokenization and sentence segmentation</a>, <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#morph">POS and MSD</a>, <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#synt">dependency syntax</a>.</p>
 
-    <p>All other annotation, including lemmatization, was created automatically by <a href="https://spraakbanken.gu.se/en/tools/sparv/annotations">Sparv</a>.</p>
+    <p>All other annotation, including lemmatization, was created automatically by <a href="https://spraakbanken.gu.se/sparv/user-manual/available-analyses/">Sparv</a>.</p>
 
     <h1>Formats and splits</h1>
     <p>TalbankenSTB is available in the CONLL and XML formats. A train-test split is available.</p>

@@ -158,7 +158,7 @@ description:
         <li>Named entity (SUC 3.0 only; <code>&lt;name&gt;</code> tags, <b>not</b> the <code>&lt;ne&gt;</code> tags)</li>
       </ul>
     All other annotation, like the linking against Saldo, the dependency parses, and alternative named entity annotation (<code>&lt;ne&gt;</code> tags), was created automatically
-      by <a href="https://spraakbanken.gu.se/en/tools/sparv/annotations">Sparv</a>.</p>
+      by <a href="https://spraakbanken.gu.se/sparv/user-manual/available-analyses/">Sparv</a>.</p>
 
     <p>It is this variant of SUC that can be explored in Korp</p>
 annotation:
