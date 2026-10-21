@@ -40,14 +40,14 @@ description:
         hänvisar vi till publikationen som anges nedan, som även är samlingens standardreferens.
     </p>
 
-    <p>Det finns också en lösenordsskyddad del av korpusen som kan hittas <a href="https://spraakbanken.gu.se/resurser/dream-copyright-protected">här.</a></p>
+    <p>Det finns också en lösenordsskyddad del av korpusen som kan hittas <a href="https://sprakbanken.se/resurser/dream-copyright-protected">här.</a></p>
   eng: |-
     <p>
         This resource contains an openly available multilingual digitized version of thousands of documents describing natural languages of the world. The corpus is annotated with various meta, word, and text level attributes. More details
         about the data and annotations can be found in the reference given below.
     </p>
 
-    <p>There is also a password protected part of the corpus which can be found <a href="https://spraakbanken.gu.se/en/resources/dream-copyright-protected">here.</a></p>
+    <p>There is also a password protected part of the corpus which can be found <a href="https://sprakbanken.se/en/resources/dream-copyright-protected">here.</a></p>
 origin: sbx
 updated: 2020-11-09
 doi: 10.23695/jeyf-1m55

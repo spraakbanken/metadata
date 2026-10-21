@@ -115,20 +115,20 @@ created: '2026-06-15'
 origin: sbx
 updated: '2026-06-15'
 description:
-  eng: UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on [SweLL](https://spraakbanken.gu.se/resurser/swell),
+  eng: UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on [SweLL](https://sprakbanken.se/resurser/swell),
     the Swedish Learner Language corpus, a collection of essays written by adult learners
     of Swedish as a second language (L2). The current version, released as part of
     UD 2.18, includes a test set consisting of 510 randomly selected sentences, as
     well as 134 sentences authored by French speakers. All sentences are extracted
-    from [SweLL-gold](https://spraakbanken.gu.se/resurser/swell-gold) and come with
+    from [SweLL-gold](https://sprakbanken.se/resurser/swell-gold) and come with
     corrections and error tags. For more information about the treebank, see [the
     official README file](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
   swe: UD_Swedish-SweLL är en parallell Universal Dependencies-trädbank baserad på
-    [SweLL](https://spraakbanken.gu.se/resources/swell) (Swedish Learner Language-korpusen),
+    [SweLL](https://sprakbanken.se/resources/swell) (Swedish Learner Language-korpusen),
     en samling uppsatser skrivna av vuxna inlärare av svenska som andraspråk. Den
     här versionen, som släpps i samband med UD 2.18, består av en 510 slumpmässigt
     utvalda meningar samt 134 meningar skrivna av fransktalande elever. Alla meningar
-    kommer ifrån [SweLL-gold](https://spraakbanken.gu.se/resurser/swell-gold) och
+    kommer ifrån [SweLL-gold](https://sprakbanken.se/resurser/swell-gold) och
     är parade med en korrigering och felkategoritaggade. För mer information om trädbanken,
     se [den officiella README-filen](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
 doi: 10.23695/6bxr-zx80

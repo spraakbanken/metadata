@@ -34,7 +34,7 @@ description:
       <li>The Public Employment Service's (Arbetsförmedlingens )<a href="https://github.com/af-ai-center/SweBERT">models</a>: BERT</li>
       <li><a href="https://sites.google.com/site/rmyeid/projects/polyglot">Polyglot</a></li>
       <li>Kyubyong Park's <a href="https://github.com/Kyubyong/wordvectors">models</a>: trained on Wiki, Word2Vec and FastText</li>
-      <li>Flair <a href="https://github.com/flairNLP/flair-lms">models</a>. See also our Flair <a href="https://spraakbanken.gu.se/resurser/flair">model</a> for Swedish POS tagging.</li>
+      <li>Flair <a href="https://github.com/flairNLP/flair-lms">models</a>. See also our Flair <a href="https://sprakbanken.se/resurser/flair">model</a> for Swedish POS tagging.</li>
       <li>Språkbanken <a href="https://zenodo.org/record/4301658#.X8-mpPlKibg">diachronic embeddings</a>.</li>
     </ul>
 

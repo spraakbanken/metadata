@@ -7,8 +7,8 @@ short_description:
   swe: "Ordfrekvenser från moderna tidningstexter från Kungliga biblioteket."
   eng: "Word frequencies from modern newspaper texts from the National Library of Sweden."
 description:
-  swe: "Resursen är en omarbetning av korpussamlingen [Kubord 2](https://spraakbanken.gu.se/resurser/kubord2)."
-  eng: "The resource is based on the corpus collection [Kubord 2](https://spraakbanken.gu.se/resurser/kubord2)."
+  swe: "Resursen är en omarbetning av korpussamlingen [Kubord 2](https://sprakbanken.se/resurser/kubord2)."
+  eng: "The resource is based on the corpus collection [Kubord 2](https://sprakbanken.se/resurser/kubord2)."
 created: '2026-04-08'
 origin: sbx
 updated: '2026-04-08'

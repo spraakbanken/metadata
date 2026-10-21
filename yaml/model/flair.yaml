@@ -35,7 +35,7 @@ description:
     <h2>Models</h2>
 
     <p><a href="https://github.com/flairNLP/flair">Flair</a> is a powerful NLP library. We provide two Flair models for Swedish part-of-speech tagging.</p>
-    <p><b><code>flair_eval</code></b> is trained on <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC3</a> with <a href="https://spraakbanken.gu.se/en/resources/talbanken">Talbanken_SBX_dev</a> as dev set. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://spraakbanken.gu.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
+    <p><b><code>flair_eval</code></b> is trained on <a href="https://sprakbanken.se/en/resources/suc3">SUC3</a> with <a href="https://sprakbanken.se/en/resources/talbanken">Talbanken_SBX_dev</a> as dev set. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://sprakbanken.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
 
     <table style="width:25">
       <tr>
@@ -63,7 +63,7 @@ description:
     <p><b><code>flair_full</code></b> is trained on SUC3 + Talbanken_SBX_test + SIC2 with Talbanken_SBX_dev as dev set. We cannot evaluate the performance of this model, but we expect it to perform better than <code>flair_eval</code>, or at least not worse.</p>
 
     <h3>Using the models on your own</h3>
-    <p>Download the model and follow the instructions from <a href="https://github.com/flairNLP/flair">Flair</a>. By default, Flair's own embeddings will be used (our experiments show that they provide the best results), but you may use <a href="https://spraakbanken.gu.se/resurser/embeddings">other embeddings</a> instead (or combine them). GPU is strongly recommended.<p>
+    <p>Download the model and follow the instructions from <a href="https://github.com/flairNLP/flair">Flair</a>. By default, Flair's own embeddings will be used (our experiments show that they provide the best results), but you may use <a href="https://sprakbanken.se/resurser/embeddings">other embeddings</a> instead (or combine them). GPU is strongly recommended.<p>
 keywords: []
 caveats:
   swe: ''

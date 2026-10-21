@@ -46,8 +46,8 @@ description:
 
     <p>Delkorpusar:</p>
     <ul>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-aldrelagar">Äldre lagar</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-yngrelagar">Yngre lagar</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-aldrelagar">Äldre lagar</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-yngrelagar">Yngre lagar</a></li>
     </ul>
 
     <h3>Prosa och verser</h3>
@@ -56,10 +56,10 @@ description:
 
     <p>Delkorpusar:</p>
     <ul>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-aldrereligiosprosa">Äldre religiös prosa</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-yngrereligiosprosa">Yngre religiös prosa</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-profanprosa">Profan prosa</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-verser">Verser</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-aldrereligiosprosa">Äldre religiös prosa</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-yngrereligiosprosa">Yngre religiös prosa</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-profanprosa">Profan prosa</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-verser">Verser</a></li>
     </ul>
 
     <h3>Nysvenska</h3>
@@ -68,11 +68,11 @@ description:
 
     <p>Delkorpusar:</p>
     <ul>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskdalin">Dalins Then Swänska Argus 1732–1734</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskbibel">Nysvenska bibelböcker</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskkronikor">Nysvenska krönikor</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvensklagar">Nysvenska lagar</a></li>
-    <li><a href="https://spraakbanken.gu.se/resurser/fsv-nysvenskovrigt">Nysvenska, övrigt</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-nysvenskdalin">Dalins Then Swänska Argus 1732–1734</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-nysvenskbibel">Nysvenska bibelböcker</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-nysvenskkronikor">Nysvenska krönikor</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-nysvensklagar">Nysvenska lagar</a></li>
+    <li><a href="https://sprakbanken.se/resurser/fsv-nysvenskovrigt">Nysvenska, övrigt</a></li>
     </ul>
 other_references:
   - '{publication 270108}'

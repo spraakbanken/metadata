@@ -18,7 +18,7 @@ short_description:
 task: stance detection
 models:
   - name: Argumentation sentences 1.0 topic='abortion'
-    url: https://spraakbanken.gu.se/resurser/argumentation-sentences
+    url: https://sprakbanken.se/resurser/argumentation-sentences
     description: Also see https://huggingface.co/datasets/sprakbanken-se/superlim-2
     license: CC-BY-4.0
 example: |

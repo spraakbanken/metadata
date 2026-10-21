@@ -29,7 +29,7 @@ description:
   eng: |-
     <h2>Models</h2>
 
-    <p>We provide a model that enables lemmatization of Swedish text following the <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC3</a> standard. Note that SUC3 lemmatization does not exactly match the <a href="https://spraakbanken.gu.se/resurser/saldo">SALDO</a> standard that is used in our <a href="https://spraakbanken.gu.se/korp/">Korp</a> resources.</p>
+    <p>We provide a model that enables lemmatization of Swedish text following the <a href="https://sprakbanken.se/en/resources/suc3">SUC3</a> standard. Note that SUC3 lemmatization does not exactly match the <a href="https://sprakbanken.se/resurser/saldo">SALDO</a> standard that is used in our <a href="https://spraakbanken.gu.se/korp/">Korp</a> resources.</p>
 
     <p>SUC3 was randomly split into training, validation and test sets (80:10:10). The model was trained for 30 epochs using the default Stanza settings. The accuracy on the test set is 99.18.</p>
 

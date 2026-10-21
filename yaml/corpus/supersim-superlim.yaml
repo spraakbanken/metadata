@@ -59,7 +59,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/superlim
+    <td>https://sprakbanken.se/en/resources/superlim
     </td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ description:
     </tr>
     <tr>
     <td>Related datasets</td>
-    <td>See https://doi.org/10.5281/zenodo.4660084 for the complete data set accompanying [1], including baseline models and corpus material. The data described in this documentation sheet is the gold data from this larger archive. This repackaging of the gold data was done in the context of the SuperLim collection. See https://spraakbanken.gu.se/en/resources/superlim
+    <td>See https://doi.org/10.5281/zenodo.4660084 for the complete data set accompanying [1], including baseline models and corpus material. The data described in this documentation sheet is the gold data from this larger archive. This repackaging of the gold data was done in the context of the SuperLim collection. See https://sprakbanken.se/en/resources/superlim
     </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@ description:
     </tr>
     <tr>
     <td>Things to watch out for</td>
-    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on https://spraakbanken.gu.se/resurser/superlim
+    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on https://sprakbanken.se/resurser/superlim
     </td>
     </tr>
     <tr>

@@ -70,11 +70,11 @@ description:
 
     <ul>
     <li>
-    <a href="https://spraakbanken.gu.se/resurser/suc2">SUC 2.0</a> och <a href="https://spraakbanken.gu.se/resurser/suc3">SUC 3.0</a>:
+    <a href="https://sprakbanken.se/resurser/suc2">SUC 2.0</a> och <a href="https://sprakbanken.se/resurser/suc3">SUC 3.0</a>:
     fritt tillgänglig för forskning; kräver individuell licens
     </li>
     <li>
-    <a href="https://spraakbanken.gu.se/resurser/sucx2">SUCX 2.0</a> och <a href="https://spraakbanken.gu.se/resurser/sucx3">SUCX 3.0</a>:
+    <a href="https://sprakbanken.se/resurser/sucx2">SUCX 2.0</a> och <a href="https://sprakbanken.se/resurser/sucx3">SUCX 3.0</a>:
     meningar i omkastad ordning; berikad med automatisk annotering; nedladdningsbar utan restriktioner
     </li>
     </ul>
@@ -146,11 +146,11 @@ description:
 
     <ul>
     <li>
-    <a href="https://spraakbanken.gu.se/en/resources/suc2">SUC 2.0</a> and <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC 3.0</a>:
+    <a href="https://sprakbanken.se/en/resources/suc2">SUC 2.0</a> and <a href="https://sprakbanken.se/en/resources/suc3">SUC 3.0</a>:
     freely available for research; require a signed licence
     </li>
     <li>
-    <a href="https://spraakbanken.gu.se/en/resources/sucx2">SUCX 2.0</a> and <a href="https://spraakbanken.gu.se/en/resources/sucx3">SUCX 3.0</a>:
+    <a href="https://sprakbanken.se/en/resources/sucx2">SUCX 2.0</a> and <a href="https://sprakbanken.se/en/resources/sucx3">SUCX 3.0</a>:
     sentences in scrambled order; enriched with automatic annotations; downloadable without restrictions
     </li>
     </ul>
@@ -176,7 +176,7 @@ description:
 
     <p>
     All other annotation, like the linking against Saldo, the dependency parses, and alternative named entity annotation (<code>&lt;ne&gt;</code> tags), was created automatically
-    by <a href="https://spraakbanken.gu.se/en/tools/sparv/annotations">Sparv</a>.
+    by <a href="https://spraakbanken.gu.se/sparv/user-manual/available-analyses/">Sparv</a>.
     </p>
 
     <p>SUCX can also be used in Korp.</p>

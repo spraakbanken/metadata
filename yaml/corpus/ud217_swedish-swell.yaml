@@ -115,15 +115,15 @@ updated: '2025-11-19'
 description:
   eng: |-
     UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on
-    [SweLL](https://spraakbanken.gu.se/resurser/swell), the Swedish Learner Language corpus. Its first version,
+    [SweLL](https://sprakbanken.se/resurser/swell), the Swedish Learner Language corpus. Its first version,
     released as part of UD 2.17, consists of 510 randomly selected sentence-correction pairs from
-    [SweLL-gold](https://spraakbanken.gu.se/en/resources/swell-gold), a corpus of essays written by adult learners of
+    [SweLL-gold](https://sprakbanken.se/en/resources/swell-gold), a corpus of essays written by adult learners of
     Swedish as a second language (L2). For more information about the treebank, see [the official README
     file](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
   swe: |-
     UD_Swedish-SweLL är en parallell Universal Dependencies-trädbank baserad på
-    [SweLL](https://spraakbanken.gu.se/resources/swell) (Swedish Learner Language-korpusen). Den första versionen, som
+    [SweLL](https://sprakbanken.se/resources/swell) (Swedish Learner Language-korpusen). Den första versionen, som
     släpps i samband med UD 2.17, består av 510 meningar parade med sina korrigerade versioner. Meningarna är
-    slumpmässigt utvalda från [SweLL-gold](https://spraakbanken.gu.se/resurser/swell-gold), en samling uppsatser
+    slumpmässigt utvalda från [SweLL-gold](https://sprakbanken.se/resurser/swell-gold), en samling uppsatser
     skrivna av vuxna inlärare av svenska som andraspråk. För mer information om trädbanken, se [den officiella
     README-filen](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).

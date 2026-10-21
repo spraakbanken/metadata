@@ -60,7 +60,7 @@ description:
     </tr>
     <tr style="vertical-align: baseline;">
     <td>Link(s) / permanent identifier(s)*</td>
-    <td><a href="https://spraakbanken.gu.se/en/resources/supersim-superlim">https://spraakbanken.gu.se/en/resources/supersim-superlim</a>
+    <td><a href="https://sprakbanken.se/en/resources/supersim-superlim">https://sprakbanken.se/en/resources/supersim-superlim</a>
     </td>
     </tr>
     <tr style="vertical-align: baseline;">
@@ -86,7 +86,7 @@ description:
     <tr style="vertical-align: baseline;">
     <td>Related datasets</td>
     <td>See <a href="https://doi.org/10.5281/zenodo.4660084">https://doi.org/10.5281/zenodo.4660084</a> for the complete data set accompanying [1], including baseline models and corpus material. The data described in this documentation sheet is the gold data from this larger archive.
-    <br> This repackaging of the gold data was done in the context of the SuperLim collection. See <a href="https://spraakbanken.gu.se/en/resources/superlim">https://spraakbanken.gu.se/en/resources/superlim</a>
+    <br> This repackaging of the gold data was done in the context of the SuperLim collection. See <a href="https://sprakbanken.se/en/resources/superlim">https://sprakbanken.se/en/resources/superlim</a>
     </td>
     </tr>
     <tr style="vertical-align: baseline;">
@@ -212,7 +212,7 @@ description:
     </tr>
     <tr style="vertical-align: baseline;">
     <td>Things to watch out for</td>
-    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on <a href="https://spraakbanken.gu.se/resurser/superlim">https://spraakbanken.gu.se/resurser/superlim</a>
+    <td>The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on <a href="https://sprakbanken.se/resurser/superlim">https://sprakbanken.se/resurser/superlim</a>
     </td>
     </tr>
     <tr style="vertical-align: baseline;">
