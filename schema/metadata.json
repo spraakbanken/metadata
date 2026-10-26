@@ -329,6 +329,21 @@
         "type": "string"
       }
     },
+    "citation": {
+      "description": "Custom wording for the citation of the resource, which replaces the automatic citation on the website.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "swe": {
+          "description": "Custom wording for the citation of the resource in Swedish.",
+          "type": "string"
+        },
+        "eng": {
+          "description": "Custom wording for the citation of the resource in English.",
+          "type": "string"
+        }
+      }
+    },
     "intended_uses": {
       "description": "The intended uses for this resource. May contain Markdown or HTML.",
       "type": "object",
