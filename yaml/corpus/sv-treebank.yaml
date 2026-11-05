@@ -24,7 +24,7 @@ contact_info:
 description:
   swe: |-
     <h3>En svensk trädbank med återanvändning av existerande resurser</h3>
-    <img src="/sites/spraakbanken.gu.se/files/img/stb/tack.png" width="380" height="180" alt="SUC-träd" class="right photo" />
+    <img src="/sites/default/files/metadata_resources/sv-treebank-tack.png" width="380" height="180" alt="SUC-träd" class="right photo" />
     <p>Den svenska trädbanken är resultatet av ett arbete som har utförts av forskare vid universiteten i
       Uppsala (<a href="http://stp.lingfil.uu.se/">Datorlingvistik, Institutionen för lingvistik och filologi</a>) och Växjö
       (<a href="http://cs.msi.vxu.se/competences.php/id=20">Språkteknologigruppen vid
@@ -71,7 +71,7 @@ description:
       Institutionen för lingvistik vid Stockholms universitet. Från och med den 1/12 2008
       är licensieringen
       av SUC delegerad till Språkbanken vid Göteborgs universitet. SUC-licensavtalet kan laddas
-      ner <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">i pdf-format här</a>. Läs mer om SUC2 och SUC3 <a href="https://spraakbanken.gu.se/resources/suc3">här</a>
+      ner <a href="/sites/default/files/metadata_resources/suc-license.pdf">i pdf-format här</a>. Läs mer om SUC2 och SUC3 <a href="https://spraakbanken.gu.se/resources/suc3">här</a>
     </p>
     <p>För att erhålla SUC (och därmed den svenska trädbanken) behöver du skriva ut och skriva under
       licensavtalet och sedan skicka det till
@@ -107,7 +107,7 @@ description:
     </p>
   eng: |-
     <h3>A Swedish treebank built from recycled language resources</h3>
-    <img src="/sites/spraakbanken.gu.se/files/img/stb/tack.png" width="380" height="180" alt="SUC PS tree" class="right photo" />
+    <img src="/sites/default/files/metadata_resources/sv-treebank-tack.png" width="380" height="180" alt="SUC PS tree" class="right photo" />
     <p>The Swedish treebank has come about through work by researchers in the Universities at
       Uppsala (<a href="http://stp.lingfil.uu.se/english/">Computational Linguistics, Department of
       Linguistics and Philology</a>) and Växjö
@@ -154,7 +154,7 @@ description:
     <p><strong>SUC</strong> requires that each user signs an individual license agreement with
       the Department of Linguistics, Stockholm University. As of 1st December, 2008, licensing of
       SUC is entrusted to Språkbanken, University of Gothenburg. The license agreement can
-      be downloaded <a href="https://spraakbanken.gu.se/sites/default/files/2022/suc-license.pdf">in
+      be downloaded <a href="/sites/default/files/metadata_resources/suc-license.pdf">in
       pdf format here</a>. Read more about SUC2 and SUC3 <a href="https://spraakbanken.gu.se/en/resources/suc3">here</a>
     </p>
     <p>In order to get access to SUC (and thereby to the Swedish treebank), you are required to
