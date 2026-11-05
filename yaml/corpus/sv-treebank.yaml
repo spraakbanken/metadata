@@ -21,6 +21,9 @@ contact_info:
   affiliation:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
+citation:
+  swe: 'Språkbanken. Svensk trädbank [Data set]. Distribuerad av Språkbanken.'
+  eng: 'Språkbanken. Swedish treebank [Data set]. Distributed by Språkbanken.'
 description:
   swe: |-
     <h3>En svensk trädbank med återanvändning av existerande resurser</h3>
