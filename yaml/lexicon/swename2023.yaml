@@ -5,8 +5,8 @@ description:
   swe: 'Denna resurs innehåller listor över förnamn som förekom i Sverige 2023, uppdelade på kön. Namn med minst två bärare finns med. Syftet med listorna är att identifiera stavningsvarianter och besläktade namn. En automatisk analys har gjort, som kan användas antingen som approximation, eller som utgångspunkt för manuell annotering. Filerna är i ett enkelt tabellformat: Första kolumnen innehåller namnet, andra antalet bärare. Därefter kommer den automatiska analysens förslag på närmaste liknande vanligare namn (tomt om inget hittats). Siffran i tredje kolumnen är ett mått på likhet, och i fjärde står namnet. Högre siffror betecknar högre likhet. En god approximation är att 5-8 innebär stavningsvarianter, och 3-4 innebär besläktade namn. 1-2 betyder att den närmaste träffen är så långt ifrån att den mest troligt inte är besläktad, men den visas ändå för att kunna kontrolleras. Namn med bindestreck eller mellanslag har inte tagits med.'
   eng: 'This resource contains lists of given names in Sweden in 2023, separated by gender. A name is included if at least two people have it. An automatic analysis have been done to try for each name to find a more common name of which it is a spelling variation or related. The files are in a table format: First column is the name, second is the number of people by that name, fourth (where given) is the best guess for a more common similar name, and third is a measure of how similar it is expected to be. A good approximation is that 5-8 are spelling variations, and 3-4 are related names.'
 short_description:
-  swe: 'Listor över Sveriges förnamn 2023, avsedda för att underlätta stavningssammanslagning.'
-  eng: 'Lists of given names in Sweden 2023, intended to help with combining spelling variations.'
+  swe: 'Listor över Sveriges förnamn 2023 med stavningsvarianter.'
+  eng: 'Lists of given names in Sweden 2023 with spelling variations.'
 type: lexicon
 unlisted: false
 successors: []
