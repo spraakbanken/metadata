@@ -1,5 +1,5 @@
 name:
-  swe: 'Frekvensordboken Flex'
+  swe: 'Frekvenslexikonet Flex'
   eng: 'Flex – frequency lexicon'
 description:
   swe: 'Vilka är svenskans vanligaste ord? Det är kanske den vanligaste frågan som kommer till Språkbanken. Men den har inget självklart svar – vad som är det vanligaste ordet beror på sammanhanget! Det vanligaste ordet "totalt" är också omöjligt att säga, eftersom vi inte har en fullständig förteckning över all text som skrivs. I många fall kan det också vara användbart att se skillnader i hur ord används i olika sammanhang. Därför har vi skapat Flex, ett frekvenslexikon som bygger på inte bara en utan tre olika textmängder ur Språkbankens samlingar: romaner, tidningar och webbforum. Frekvenserna anges i förekomster per miljon ord.<p>Datan baseras på Bonniersromaner 1 och 2, Nordstedtsromaner, Kubord 1 och Flashback. Bara "ord" som består av bokstäver, siffror och bindestreck har tagits med. För Flashback och Kubord har bara ord som förekommer minst fem gånger tagits med.'
