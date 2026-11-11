@@ -163,7 +163,18 @@
           },
           "description": {
             "description": "Additional description, if required. Only plain text.",
-            "type": "string"
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "swe": {
+                "description": "Additional description in Swedish. Only plain text.",
+                "type": "string"
+              },
+              "eng": {
+                "description": "Additional description in English. Only plain text.",
+                "type": "string"
+              }
+            }
           },
           "license": {
             "allOf": [
@@ -208,8 +219,19 @@
             "minLength": 1
           },
           "description": {
-            "description": "Additional description, if required",
-            "type": "string"
+            "description": "Additional description, if required. Only plain text.",
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "swe": {
+                "description": "Additional description in Swedish. Only plain text.",
+                "type": "string"
+              },
+              "eng": {
+                "description": "Additional description in English. Only plain text.",
+                "type": "string"
+              }
+            }
           },
           "license": {
             "allOf": [
