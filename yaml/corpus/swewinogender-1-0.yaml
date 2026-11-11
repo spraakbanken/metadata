@@ -18,12 +18,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/swewinogender.zip
 
     format: zip
-    description: ''
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/swewinogender_documentation_sheet.txt
 
     format: txt
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

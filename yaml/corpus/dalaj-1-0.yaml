@@ -24,11 +24,9 @@ in_collections:
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/datasetDaLAJsplit.csv
     format: csv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/dalaj/dalaj_documentation.tsv
     format: tsv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

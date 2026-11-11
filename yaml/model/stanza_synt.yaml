@@ -15,17 +15,14 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/synt_stanza_eval.zip
 
     format: zip
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/synt_stanza_full2.zip
 
     format: zip
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/stanza_pretrain.zip
 
     format: zip
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

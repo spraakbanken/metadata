@@ -14,8 +14,9 @@ downloads:
   - url: https://huggingface.co/sprakbanken-se/KB-bert-swedish_CEFR-classification
     type: model
     format: ''
-    description: The model is hosted on HuggingFace and can be easily accessed e.g.
-      using their Python library.
+    description:
+      eng: The model is hosted on HuggingFace and can be easily accessed e.g.
+        using their Python library.
     license: GPL-3.0
 creators:
   - Muñoz Sánchez, Ricardo

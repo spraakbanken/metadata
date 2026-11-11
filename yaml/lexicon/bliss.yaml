@@ -21,7 +21,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/bliss/bliss.xml
     type: lexicon
     format: LMF
-    description: ''
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

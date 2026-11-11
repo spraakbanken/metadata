@@ -22,12 +22,10 @@ downloads:
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/parole.zip
     format: zip
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_PAROLE.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=parole

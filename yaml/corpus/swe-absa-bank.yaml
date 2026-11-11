@@ -18,12 +18,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/swe-absa-bank.zip
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/absabankimm-combined.zip
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

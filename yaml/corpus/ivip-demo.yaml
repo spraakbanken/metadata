@@ -21,12 +21,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/ivip-demo.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ivip-demo.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

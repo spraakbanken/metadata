@@ -19,19 +19,15 @@ in_collections:
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.csv
     format: csv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.csv
     format: csv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_lemgramView.xlsx
     format: xlsx
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/coderoomor/CodeRoomor_v01_morphemeView.xlsx
     format: xlsx
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/larkalabb/svlp

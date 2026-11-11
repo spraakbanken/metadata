@@ -31,12 +31,14 @@ language_codes:
 downloads:
   - url: https://spraakbanken.gu.se/resurser/data/SuperLim-2.0.5.zip
     format: zip
-    description: "an archive with the whole collection (datasets, documentation sheets, additional files)"
+    description:
+      eng: "an archive with the whole collection (datasets, documentation sheets, additional files)"
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/SuperLim_maintenance.odt
     format: odt
     license: ''
-    description: 'internal instructions on how (not) to update the Superlim 2.0'
+    description:
+      eng: 'internal instructions on how (not) to update the Superlim 2.0'
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se

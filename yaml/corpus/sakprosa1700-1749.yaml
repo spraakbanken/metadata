@@ -20,7 +20,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_SAKPROSA1700-1749.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=fisk1800#?corpus=sakprosa1700-1749

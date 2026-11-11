@@ -35,7 +35,8 @@ downloads:
   license: CC-BY-4.0
 interfaces:
 - url: https://spraakbanken.gu.se/korp/?mode=default#?corpus=swell-target
-  description: 'Application for access (https://sunet.artologik.net/gu/swell)'
+  description:
+    eng: 'Application for access (https://sunet.artologik.net/gu/swell)'
   license: LicenseRef-Other
   license_other: CLARIN-ID, -PRIV, -NORED, -BY (https://www.kielipankki.fi/support/clarin-eula/#res)
 other_references:

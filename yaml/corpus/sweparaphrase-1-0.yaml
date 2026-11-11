@@ -19,12 +19,10 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase-dev-165.tsv
 
     format: tsv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/sweparaphrase/sweparaphrase_documentation.tsv
 
     format: tsv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

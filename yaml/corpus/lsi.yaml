@@ -14,7 +14,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/lsi.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=lsi

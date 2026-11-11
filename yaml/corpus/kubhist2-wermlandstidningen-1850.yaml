@@ -19,12 +19,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/kubhist2-wermlandstidningen-1850.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubhist2-wermlandstidningen-1850.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=kubhist#?corpus=kubhist2-wermlandstidningen-1850

@@ -17,7 +17,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/bring/bring.txt
     type: lexicon
     format: txt
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 creators:

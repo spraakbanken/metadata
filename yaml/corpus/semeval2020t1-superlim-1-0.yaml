@@ -17,7 +17,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lsc_repo/semeval2020t1_documentation_sheet.tsv
 
     format: tsv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

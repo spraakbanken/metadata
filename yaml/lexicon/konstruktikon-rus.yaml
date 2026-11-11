@@ -18,7 +18,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/konstruktikon-rus/konstruktikon-rus.xml
     type: lexicon
     format: LMF
-    description: ''
     license: CC-BY-4.0
 other_references:
   - https://benjamins.com/catalog/cal.22.06jan

@@ -16,8 +16,7 @@ in_collections: [] # ID(s) of the collections the resource is part of
 downloads: # Downloadable files related to the resource
   - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/shplus/shplus-v01_0.tbz2'  # URL to a downloadable file
     type: 'lexicon' # Type of file (corpus, lexicon, model, token frequencies). Leave out if not applicable.
-    format: 'Text files with tab-separated values in tbz2 archive' # The file format or standard (e.g. XML)
-    description: '' # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
+    format: 'Text files with tab-separated values in tbz2 archive' # The file format or standard (e.g. XML) # Additional description, if required (e.g. "this file contains a scrambled version of the Swedish part of the corpus")
     license: CC-BY-4.0
 creators:  # List of people that created the resource (format: lastname, firstname)
   - "Borin, Lars"

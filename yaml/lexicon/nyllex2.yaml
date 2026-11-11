@@ -17,7 +17,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/nyllex/nyllex_v2.csv
     type: lexicon
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

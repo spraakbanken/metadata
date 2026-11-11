@@ -16,15 +16,16 @@ in_collections: []
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
   - url: 'https://spraakbanken.gu.se/resurser/data/flex.json.zip'
     format: 'JSON' # The file format or standard (e.g. XML)
-    description: 'JSON file as used by Karp.'
+    description:
+      eng: 'JSON file as used by Karp.'
     license: CC-BY-4.0
   - url: 'https://spraakbanken.gu.se/resurser/data/flex.csv.zip'
     format: 'CSV' # The file format or standard (e.g. XML)
-    description: 'Table file with words, novel freq, newspaper freq, forum freq.'
+    description:
+      eng: 'Table file with words, novel freq, newspaper freq, forum freq.'
     license: CC-BY-4.0
 interfaces:
   - url: 'https://spraakbanken.gu.se/karp/?resources=flex'
-    description: ''
     license: CC-BY-4.0
 creators:
   - Zechner, Niklas

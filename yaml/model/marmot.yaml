@@ -15,17 +15,14 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/marmot/marmot_eval.marmot
 
     format: marmot
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/marmot/marmot_full.marmot
 
     format: marmot
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/marmot/saldo_marmot.txt
 
     format: txt
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

@@ -20,19 +20,15 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lmf/simpleplus/simpleplus.xml
     type: lexicon
     format: LMF
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_n.html
     format: html
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_v.html
     format: html
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     format: html
-    description: ''
     license: CC-BY-4.0
 contact_info:
   name: Markus Forsberg

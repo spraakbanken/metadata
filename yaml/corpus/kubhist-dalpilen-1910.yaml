@@ -24,7 +24,8 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/kubhist-dalpilen-1910.xml.bz2
     type: corpus
     format: XML
-    description: this file contains the corpus with updated annotations
+    description:
+      eng: this file contains the corpus with updated annotations
     # info: this file contains an older version of the corpus which has the same format
     #   as the remaining Kubhist corpora
     license: CC-BY-4.0

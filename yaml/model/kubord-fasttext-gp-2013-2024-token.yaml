@@ -13,7 +13,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/kubord-fasttext-gp-2013-2024-token.zip
     type: model
     format: zip
-    description: ''
     license: CC-BY-4.0
 created: 2025-06-18
 origin: sbx

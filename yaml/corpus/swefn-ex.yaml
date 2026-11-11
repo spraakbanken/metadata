@@ -22,12 +22,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/swefn-ex.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_swefn-ex.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=swefn-ex

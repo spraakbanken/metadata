@@ -16,12 +16,10 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swefracas/swefracas.tsv
 
     format: tsv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swefracas/swefracas_documentation_sheet.tsv
 
     format: tsv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

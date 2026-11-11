@@ -49,17 +49,18 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_detektivaavdelningen.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
   - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/geocoords.txt'
     type: corpus
     format: tsv
-    description: geographical coordinates for Gothenburg addresses in 1888
+    description:
+      eng: geographical coordinates for Gothenburg addresses in 1888
     license: CC-BY-4.0
   - url: 'https://svn.spraakbanken.gu.se/sb-arkiv/pub/detektiva/pixelcoords.txt'
     type: corpus
     format: tsv
-    description: pixel coordinates for addresses on Simon's 1888 Gothenburg map
+    description:
+      eng: pixel coordinates for addresses on Simon's 1888 Gothenburg map
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

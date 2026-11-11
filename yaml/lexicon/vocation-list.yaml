@@ -17,7 +17,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/vocationTerms150120.utf.txt.gz
     type: lexicon
     format: gz
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 other_references:

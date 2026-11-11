@@ -13,7 +13,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/xhosa.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

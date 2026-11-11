@@ -39,7 +39,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/fuol.zip
     type: lexicon
     format: PDF
-    description: ''
     license: CC-BY-4.0
     license_other: ''
     scrambled: false
