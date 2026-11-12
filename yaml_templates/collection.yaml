@@ -24,14 +24,18 @@ downloads: # Downloadable files related to the resource. Don't include this fiel
   - url: ''  # URL to a downloadable file
     type: '' # Type of file (corpus, lexicon, model, token frequencies). Omit this field entirely if not applicable.
     format: '' # The file format or standard (e.g. XML)
-    description: '' # Additional description, if required. Only plain text.
+    description: # Additional description, if required. Only plain text.
+      swe: ''  # Additional description in Swedish. Only plain text.
+      eng: '' # Additional description in English. Only plain text.
     license: CC-BY-4.0 # License for the downloaded resource file. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
     license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
     scrambled: false # Set to "true" if the file contains a scrambled version of the resource
     scramble_level: '' # If the file contains a scrambled version of the resource, specify the level of scrambling (e.g., "sentence", "paragraph")
 interfaces: # Links to interfaces where the resource is available (e.g. Korp or Karp). Don't include this field if the resource is not available in any interface.
   - url: ''  # A link to the resource in an interface (e.g in Korp or Karp)
-    description: '' # Additional description, if required
+    description: # Additional description, if required. Only plain text.
+      swe: ''  # Additional description in Swedish. Only plain text.
+      eng: '' # Additional description in English. Only plain text.
     license: CC-BY-4.0 # License for the data in the interface. Use a license identifier from the SPDX License List (https://spdx.org/licenses/), or use "LicenseRef-Other" and specify the license in the "license_other" field.
     license_other: '' # Specify the license if the 'license' field is set to "LicenseRef-Other".
     scrambled: false # Set to "true" if the resource in the interface is a scrambled version of the original resource

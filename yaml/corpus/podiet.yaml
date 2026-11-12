@@ -16,13 +16,11 @@ downloads:
     type: corpus
     format: XML
     scrambled: true
-    description: ''
     license: CC-BY-4.0
     scramble_level: paragraph
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_podiet.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

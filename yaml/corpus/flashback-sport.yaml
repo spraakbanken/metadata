@@ -22,7 +22,6 @@ downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_flashback-sport.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

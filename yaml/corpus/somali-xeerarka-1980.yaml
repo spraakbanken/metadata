@@ -15,7 +15,6 @@ downloads:
     type: corpus
     format: XML
     scrambled: true
-    description: ''
     license: CC-BY-4.0
     scramble_level: sentence
 interfaces:

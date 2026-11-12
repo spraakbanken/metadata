@@ -18,7 +18,8 @@ interfaces:
   - url: https://sunet.artologik.net/gu/swell
     license: LicenseRef-Other
     license_other: Other
-    description: Application form
+    description:
+      eng: Application form
 creators:
   - Casademont Moner, Judit
   - Volodina, Elena

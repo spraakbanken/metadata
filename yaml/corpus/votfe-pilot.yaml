@@ -13,7 +13,8 @@ downloads:
   - url: https://gitlab.com/krieljo/voices-of-formerly-enslaved-corpus/-/archive/Pilot-v0.1/voices-of-formerly-enslaved-corpus-Pilot-v0.1.tar.bz2
     type: corpus
     format: XML
-    description: Voices of formerly Enslaved Corpus, Pilot v0.1
+    description:
+      eng: Voices of formerly Enslaved Corpus, Pilot v0.1
     license: CC-BY-SA-4.0
 creators:
   - Elmerot, Irene

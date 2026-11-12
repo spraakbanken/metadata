@@ -16,15 +16,12 @@ in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_n.html
     format: html
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_v.html
     format: html
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     format: html
-    description: ''
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/karp/simpleplus-2-0.jsonl
     license: CC-BY-4.0

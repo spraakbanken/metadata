@@ -22,14 +22,16 @@ downloads:
     format: XML
     scrambled: true
     scramble_level: sentence
-    description: The annotated learner sentences in XML format
+    description:
+      eng: The annotated learner sentences in XML format
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/ud217_swedish-swell-target.xml.bz2
     type: corpus
     format: XML
     scrambled: true
     scramble_level: sentence
-    description: The annotated corrected learner sentences in XML format
+    description:
+      eng: The annotated corrected learner sentences in XML format
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/ud217_swedish-swell.zip
     type: corpus
@@ -37,16 +39,19 @@ downloads:
     license: CC-BY-SA-4.0
     scrambled: true
     scramble_level: sentence
-    description: The annotated learner sentences in CoNLL-U format (original and corrected)
+    description:
+      eng: The annotated learner sentences in CoNLL-U format (original and corrected)
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ud217_swedish-swell.csv.zip
     type: token frequencies
     format: CSV
-    description: Token frequency list in CSV format
+    description:
+      eng: Token frequency list in CSV format
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ud217_swedish-swell-target.csv.zip
     type: token frequencies
     format: CSV
-    description: Token frequency list for corrected sentences in CSV format
+    description:
+      eng: Token frequency list for corrected sentences in CSV format
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
@@ -61,7 +66,8 @@ interfaces:
     url: https://universal.grew.fr/?corpus=UD_Swedish-SweLL@2.17
     scrambled: true
     scramble_level: sentence
-    description: Grew-match
+    description:
+      eng: Grew-match
 contact_info:
   name: Masciolini, Arianna
   email: arianna.masciolini@gu.se

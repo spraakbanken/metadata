@@ -19,7 +19,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/svensk-fraktur-1626-1816.tar.gz
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

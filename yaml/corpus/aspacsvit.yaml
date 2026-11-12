@@ -19,24 +19,28 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvit-sv.xml.bz2
     type: corpus
     format: XML
-    description: this file contains the Swedish part of the corpus
+    description:
+      eng: this file contains the Swedish part of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvit-it.xml.bz2
     type: corpus
     format: XML
-    description: this file contains the Italian part of the corpus
+    description:
+      eng: this file contains the Italian part of the corpus
     scrambled: true
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVIT-SV.txt.zip
     type: token frequencies
     format: CSV
-    description: this file contains statistics on the Swedish part of the corpus
+    description:
+      eng: this file contains statistics on the Swedish part of the corpus
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_ASPACSVIT-IT.txt.zip
     type: token frequencies
     format: CSV
-    description: this file contains statistics on the Italian part of the corpus
+    description:
+      eng: this file contains statistics on the Italian part of the corpus
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=parallel#?corpus=aspacsvit-sv

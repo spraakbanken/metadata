@@ -19,7 +19,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/dalin-then-swaanska-argus-1732-1734.tar.gz
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

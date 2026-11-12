@@ -17,12 +17,10 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/idiom_ur_neodatabasen.xlsx
 
     format: xlsx
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/lexikon/neo-idiom/neo_idiom_m_alternativformer.xml
 
     format: xml
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

@@ -26,7 +26,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_LT1996.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 creators:
   - Kokkinakis, Dimitrios

@@ -17,12 +17,10 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/meningsmangder/kioping.xml.bz2
     type: corpus
     format: XML
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_KIOPING.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/?mode=kioping_books#?corpus=kioping

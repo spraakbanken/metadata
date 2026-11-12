@@ -23,7 +23,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_lb-restricted.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

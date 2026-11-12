@@ -22,12 +22,14 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/ScandiSent.zip
     type: corpus
     format: ''
-    description: raw data for each language
+    description:
+      eng: raw data for each language
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/ScandiSent-mt.zip
     type: corpus
     format: ''
-    description: raw data from ScandiSent machine translated to English
+    description:
+      eng: raw data from ScandiSent machine translated to English
     license: CC-BY-4.0
 interfaces: []
 contact_info:

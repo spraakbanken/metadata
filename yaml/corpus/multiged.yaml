@@ -25,7 +25,8 @@ downloads:
     license_other: Other
 interfaces:
   - url: https://github.com/spraakbanken/multiged-2023/
-    description: "The corpus on Github"
+    description:
+      eng: "The corpus on Github"
     license: LicenseRef-Other
     license_other: Other
 creators:

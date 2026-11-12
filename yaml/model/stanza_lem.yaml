@@ -15,7 +15,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/stanza/lem_stanza.zip
 
     format: zip
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

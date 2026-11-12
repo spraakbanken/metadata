@@ -20,11 +20,9 @@ in_collections:
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/faq_mismatched.tsv
     format: tsv
-    description: ''
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/faq/faq_documentation_sheet.tsv
     format: tsv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

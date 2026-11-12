@@ -20,17 +20,16 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data/swefn-2-0.json.zip
     type: lexicon
     format: JSON
-    description: ''
     license: CC-BY-4.0
   - url: https://spraakbanken.gu.se/resurser/data/swefn-2-0.tsv.zip
     type: lexicon
     format: TSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp/?resources=swefn-2-0
     license: CC-BY-4.0
-    description: Divided on lexical units with links to Karp edit mode.
+    description:
+      eng: Divided on lexical units with links to Karp edit mode.
     # swe: Uppdelat på lexikala enheter med länkar till Karps redigeringläge.
 contact_info:
   name: Niklas Zechner

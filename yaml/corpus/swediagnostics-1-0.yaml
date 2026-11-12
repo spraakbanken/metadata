@@ -19,7 +19,6 @@ in_collections:
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swediagnostics/swediagnostics-v1.0.csv
     format: csv
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

@@ -19,7 +19,6 @@ downloads:
   - url: https://spraakbanken.gu.se/resurser/data//mathir_words_v1.0.tgz
     type: lexicon
     format: tgz
-    description: ''
     license: CC-BY-4.0
 interfaces: []
 contact_info:

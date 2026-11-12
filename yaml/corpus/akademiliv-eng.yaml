@@ -27,12 +27,12 @@ downloads:
   - url: https://svn.spraakdata.gu.se/sb-arkiv/pub/frekvens/stats_akademiliv-eng.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
     url: https://spraakbanken.gu.se/korp/?mode=english#?corpus=akademiliv-eng
-    description: The texts was updated until the magazine was shut down in 2024.
+    description:
+      eng: The texts was updated until the magazine was shut down in 2024.
     scrambled: true
 creators:
   - Lindström, Elin

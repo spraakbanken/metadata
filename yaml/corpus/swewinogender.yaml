@@ -14,7 +14,8 @@ in_collections:
   - superlim
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/swewinogender/2.0/swewinogender.zip
-    description: an archive with the dataset in JSONL format and the documentation sheet
+    description:
+      eng: an archive with the dataset in JSONL format and the documentation sheet
     format: zip
     license: CC-BY-4.0
 interfaces: []

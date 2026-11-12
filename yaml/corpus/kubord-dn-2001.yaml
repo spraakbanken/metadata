@@ -19,7 +19,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_kubord-dn-2001.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0

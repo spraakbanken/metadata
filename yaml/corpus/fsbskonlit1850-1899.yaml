@@ -19,7 +19,6 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_FSBSKONLIT1850-1899.txt.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/korp/#?corpus=fsbskonlit1850-1899
