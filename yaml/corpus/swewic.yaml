@@ -58,7 +58,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/swewic
+    <td>https://sprakbanken.se/en/resources/swewic
     </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ description:
     </tr>
     <tr>
     <td>Related datasets</td>
-    <td>Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)
+    <td>Part of the SuperLim collection (https://sprakbanken.se/en/resources/superlim)
     </td>
     </tr>
     <tr>
@@ -173,17 +173,17 @@ description:
     </tr>
     <tr>
     <td>Data source(s)*</td>
-    <td>SALDO v2.3 (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldo, see also [1]) is used to provide the sense inventory for the test data.
+    <td>SALDO v2.3 (CC BY 4.0, https://sprakbanken.se/en/resources/saldo, see also [1]) is used to provide the sense inventory for the test data.
     </td>
     </tr>
     <tr>
     <td></td>
-    <td>SALDO’s morphology (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldom) is used to ensure that the word forms in the sentences are possible word forms for the sense(s) involved in the test item.
+    <td>SALDO’s morphology (CC BY 4.0, https://sprakbanken.se/en/resources/saldom) is used to ensure that the word forms in the sentences are possible word forms for the sense(s) involved in the test item.
     </td>
     </tr>
     <tr>
     <td></td>
-    <td>SALDO examples (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldoe) and Eukalyptus v0.2.0 (mixed CC licenses, inclusion of sentences in SweWiC under CC BY 4.0 with permission, https://spraakbanken.gu.se/en/resources/eukalyptus; see [2] for the sense annotation in this corpus) are used as sources of sense annotated words in context in the development and test data. 
+    <td>SALDO examples (CC BY 4.0, https://sprakbanken.se/en/resources/saldoe) and Eukalyptus v0.2.0 (mixed CC licenses, inclusion of sentences in SweWiC under CC BY 4.0 with permission, https://sprakbanken.se/en/resources/eukalyptus; see [2] for the sense annotation in this corpus) are used as sources of sense annotated words in context in the development and test data. 
     </td>
     </tr>
     <tr>

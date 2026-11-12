@@ -37,7 +37,7 @@ description:
     <h2>Models</h2>
 
     <p>Stanza is currently the default annotation tool used by Sparv. We provide two Stanza POS-tagging models.</p>
-    <p><b><code>stanza_eval</code></b> is trained on <a href="https://spraakbanken.gu.se/en/resources/suc3">SUC3</a> with <a href="https://spraakbanken.gu.se/en/resources/talbanken">Talbanken_SBX_dev</a> as dev set. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://spraakbanken.gu.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
+    <p><b><code>stanza_eval</code></b> is trained on <a href="https://sprakbanken.se/en/resources/suc3">SUC3</a> with <a href="https://sprakbanken.se/en/resources/talbanken">Talbanken_SBX_dev</a> as dev set. The advantage of this model is that it can be evaluated, using Talbanken_SBX_test or <a href="https://sprakbanken.se/en/resources/sic2">SIC2</a>. The evaluation results are reported in the table below.</p>
 
     <table style="width:25">
       <tr>

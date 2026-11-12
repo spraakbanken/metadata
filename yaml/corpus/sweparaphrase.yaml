@@ -58,7 +58,7 @@ description:
     </tr>
     <tr>
     <td>Link(s) / permanent identifier(s)*</td>
-    <td>https://spraakbanken.gu.se/en/resources/sweparaphrase
+    <td>https://sprakbanken.se/en/resources/sweparaphrase
     </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ description:
     </tr>
     <tr>
     <td>Related datasets</td>
-    <td>Part of the SuperLim collection <https://spraakbanken.gu.se/en/resources/superlim>. Created from the development version of the automatically translated Swedish STS Benchmark <https://github.com/timpal0l/sts-benchmark-swedish>, that were translated from the English source <http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark>. Similarity scores were kept unchanged. 
+    <td>Part of the SuperLim collection <https://sprakbanken.se/en/resources/superlim>. Created from the development version of the automatically translated Swedish STS Benchmark <https://github.com/timpal0l/sts-benchmark-swedish>, that were translated from the English source <http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark>. Similarity scores were kept unchanged. 
     </td>
     </tr>
     <tr>

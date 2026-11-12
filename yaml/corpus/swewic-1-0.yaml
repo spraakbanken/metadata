@@ -61,7 +61,7 @@ description:
     </tr>
     <tr style="vertical-align: baseline;">
     <td>Link(s) / permanent identifier(s)*</td>
-    <td><a href="https://spraakbanken.gu.se/en/resources/swewic">https://spraakbanken.gu.se/en/resources/swewic</a>
+    <td><a href="https://sprakbanken.se/en/resources/swewic">https://sprakbanken.se/en/resources/swewic</a>
     </td>
     </tr>
     <tr style="vertical-align: baseline;">
@@ -86,7 +86,7 @@ description:
     </tr>
     <tr style="vertical-align: baseline;">
     <td>Related datasets</td>
-    <td>Part of the SuperLim collection (<a href="https://spraakbanken.gu.se/en/resources/superlim">https://spraakbanken.gu.se/en/resources/superlim</a>)
+    <td>Part of the SuperLim collection (<a href="https://sprakbanken.se/en/resources/superlim">https://sprakbanken.se/en/resources/superlim</a>)
     </td>
     </tr>
     <tr style="vertical-align: baseline;">
@@ -161,9 +161,9 @@ description:
     </tr>
     <tr style="vertical-align: baseline;">
     <td>Data source(s)*</td>
-    <td>SALDO v2.3 (CC BY 4.0, <a href="https://spraakbanken.gu.se/en/resources/saldo">https://spraakbanken.gu.se/en/resources/saldo</a>, see also [1]) is used to provide the sense inventory.
-    <br> SALDO’s morphology (CC BY 4.0, <a href="https://spraakbanken.gu.se/en/resources/saldom">https://spraakbanken.gu.se/en/resources/saldom</a>) to ensure that the word forms in the sentences are possible word forms for the sense(s) involved in the test item.
-    <br> SALDO examples (CC BY 4.0, <a href="https://spraakbanken.gu.se/en/resources/saldoe">https://spraakbanken.gu.se/en/resources/saldoe</a>) and Eukalyptus v0.2.0 (mixed CC licenses, inclusion of sentences in SweWiC under CC BY 4.0 with permission, <a href="https://spraakbanken.gu.se/en/resources/eukalyptus">https://spraakbanken.gu.se/en/resources/eukalyptus</a>; see [2] for the sense annotation in this corpus) are used as sources of sense annotated words in context.
+    <td>SALDO v2.3 (CC BY 4.0, <a href="https://sprakbanken.se/en/resources/saldo">https://sprakbanken.se/en/resources/saldo</a>, see also [1]) is used to provide the sense inventory.
+    <br> SALDO’s morphology (CC BY 4.0, <a href="https://sprakbanken.se/en/resources/saldom">https://sprakbanken.se/en/resources/saldom</a>) to ensure that the word forms in the sentences are possible word forms for the sense(s) involved in the test item.
+    <br> SALDO examples (CC BY 4.0, <a href="https://sprakbanken.se/en/resources/saldoe">https://sprakbanken.se/en/resources/saldoe</a>) and Eukalyptus v0.2.0 (mixed CC licenses, inclusion of sentences in SweWiC under CC BY 4.0 with permission, <a href="https://sprakbanken.se/en/resources/eukalyptus">https://sprakbanken.se/en/resources/eukalyptus</a>; see [2] for the sense annotation in this corpus) are used as sources of sense annotated words in context.
     </td>
     </tr>
     <tr style="vertical-align: baseline;">

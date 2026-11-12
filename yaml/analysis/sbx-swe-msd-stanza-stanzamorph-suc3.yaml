@@ -14,14 +14,14 @@ other_references:
     2020'
   - 'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.
     In Association for Computational Linguistics (ACL) System Demonstrations. 2020'
-  - 'SUC3: https://spraakbanken.gu.se/en/resources/suc3'
+  - 'SUC3: https://sprakbanken.se/en/resources/suc3'
   - 'TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken'
-  - 'SIC2: https://spraakbanken.gu.se/en/resources/sic2'
+  - 'SIC2: https://sprakbanken.se/en/resources/sic2'
 tagset: '[SUC3](https://spraakbanken.gu.se/korp/markup/msdtags.html)'
 evaluation_results: "For a model trained on SUC3 and validated on a part of TalbankenSBX_dev\
   \ the results are as follows:  \ntested on Talbanken SBX_test: exact match = 0.97;\
   \ POS = 0.98; msd = 0.99  \ntested on SIC2: exact match = 0.92; POS = 0.93; msd\
-  \ = 0.96  \nMore info: https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging"
+  \ = 0.96  \nMore info: https://sprakbanken.se/en/resources/flair/evaluating-pos-tagging"
 caveats:
   swe: ''
   eng: ''
