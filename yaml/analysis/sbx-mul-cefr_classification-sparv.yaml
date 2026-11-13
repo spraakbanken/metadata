@@ -1,6 +1,12 @@
-standard_reference: 'Maria Irena Szawerna, David Alfter, Elena Volodina (2025): Annotating Personal Information in Swedish Texts with SPARV, in Proceedings of the First Workshop on Natural Language Processing and Language Models for Digital Humanities, pages 155-163. https://aclanthology.org/2025.lm4dh-1.15/' 
+standard_reference: 'Maria Irena Szawerna, David Alfter, Elena Volodina (2025): Annotating
+  Personal Information in Swedish Texts with SPARV, in Proceedings of the First Workshop
+  on Natural Language Processing and Language Models for Digital Humanities, pages
+  155-163. https://aclanthology.org/2025.lm4dh-1.15/'
 description:
-  eng: "A plugin for Sparv for classifying language learner texts into CEFR levels. The plugin accepts the following languages at the moment: Swedish, Estonian, German, and Portugese. Note that this plugin does not guarantee full accuracy of predictions and the predictions should be taken as illustrative rather than as autorithative."
+  eng: 'A plugin for Sparv for classifying language learner texts into CEFR levels.
+    The plugin accepts the following languages at the moment: Swedish, Estonian, German,
+    and Portugese. Note that this plugin does not guarantee full accuracy of predictions
+    and the predictions should be taken as illustrative rather than as autorithative.'
 short_description:
   eng: A plugin for Sparv for classifying language learner texts.
 type: analysis
@@ -28,7 +34,6 @@ example: |-
   For general information on how to install plugins, see [here](https://spraakbanken.gu.se/sparv/user-manual/installation-and-setup/#installing-and-uninstalling-plugins).
 
   For more info on how to use Sparv, check out the [Sparv documentation](https://spraakbanken.gu.se/sparv).
-
 contact_info:
   name: Markus Forsberg
   email: sb-info@svenska.gu.se
@@ -36,3 +41,4 @@ contact_info:
     organization: Språkbanken
     email: sb-info@svenska.gu.se
 origin: sbx
+doi: 10.23695/n9cq-vw31
