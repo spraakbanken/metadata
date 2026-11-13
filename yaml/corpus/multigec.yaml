@@ -77,8 +77,8 @@ keywords:
   - essays
   - multilinguality
 caveats:
-  swe: 'Datan är relativt homogena och består till största delen av fulltextuppsatser skrivna av andraspråkselever och deras rättade versioner. För vissa språk används dock texter som är skrivna av modersmåltalare eller heterogen data, och för vissa språk innehåller datamängden inte uppsatser i fulltext utan textfragment. Mer information om dessa aspekter finns på [spraakbanken.gu.se/en/compsla/multigec-dataset](https://spraakbanken.gu.se/en/compsla/multigec-dataset).'
-  eng: "The data is relatively homogeneous, mostly consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the dataset does not contain full-text essays, but fragments of texts. Details on these aspects are provided on [spraakbanken.gu.se/en/compsla/multigec-dataset](https://spraakbanken.gu.se/en/compsla/multigec-dataset)"
+  swe: 'Datan är relativt homogena och består till största delen av fulltextuppsatser skrivna av andraspråkselever och deras rättade versioner. För vissa språk används dock texter som är skrivna av modersmåltalare eller heterogen data, och för vissa språk innehåller datamängden inte uppsatser i fulltext utan textfragment. Mer information om dessa aspekter finns på [https://sprakbanken.se/projekt/computational-sla/multigec](https://sprakbanken.se/projekt/computational-sla/multigec).'
+  eng: "The data is relatively homogeneous, mostly consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the dataset does not contain full-text essays, but fragments of texts. Details on these aspects are provided on [https://sprakbanken.se/en/projects/computational-sla/multigec](https://sprakbanken.se/en/projects/computational-sla/multigec)"
 other_references:
   - '{publication 349074}'
   - '[Dataset webpage](https://spraakbanken.github.io/multigec-2025/)'

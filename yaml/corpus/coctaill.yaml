@@ -4,10 +4,10 @@ name:
 short_description:
   swe: Korpus av kursböcker för undervisning av L2-svenska. Annoterade manuellt för
     textstruktur och pedagogiska/didaktiska kategorier; automatiskt uppmärkt med språkvetenskapliga
-    annoteringar. Se mer här https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-data 
+    annoteringar. Se mer här https://sprakbanken.se/projekt/icall/icall-l2-projects/l2-data
   eng: Corpus of coursebooks used for teaching L2 Swedish. Annotated manually for
     text structure and pedagogical/didactical categories; automatically linguistically
-    annotated. See more here https://spraakbanken.gu.se/forskning/teman/icall/icall-l2-projects/l2-data
+    annotated. See more here https://sprakbanken.se/en/projects/icall/icall-l2-projects/l2-data
 type: corpus
 trainingdata: false
 unlisted: false

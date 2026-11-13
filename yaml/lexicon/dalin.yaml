@@ -30,26 +30,26 @@ contact_info:
 description:
   swe: |-
     <p>
-    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) är en ordbok digitaliserad vid Språkbanken. Vi har utvecklat en morfologi, ett fullformslexikon, för Dalins ordbok, som en del i <a href="http://spraakbanken.gu.se/swefn">SweFN++</a>.
+    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) är en ordbok digitaliserad vid Språkbanken. Vi har utvecklat en morfologi, ett fullformslexikon, för Dalins ordbok, som en del i <a href="https://sprakbanken.se/projekt/swedish-framenet-swefn">SweFN++</a>.
     </p>
     <!--
     <ul>
     <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Arbetsmaterial</a></li>
     <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Arbetsmaterial: supplementet</a></li>
     <li>Morfologins utvecklingsversion: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">nedladdning</a></li>
-    <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistik</a></li>
+    <li><a href="http://sprakbanken.se/en/projects/swefn">Statistik</a></li>
     </ul>
     -->
   eng: |-
     <p>
-    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) is a 19th century dictionary digitized at Språkbanken. We have developed a morphology, a fullform lexicon, for this dictionary, as part of the <a href="http://spraakbanken.gu.se/swefn">Swedish Framenet++</a>.
+    Dalin, Anders Fredrik <I>Ordbok Öfver svenska språket</I>. Vol I-II. (Stockholm 1850-1853) is a 19th century dictionary digitized at Språkbanken. We have developed a morphology, a fullform lexicon, for this dictionary, as part of the <a href="https://sprakbanken.se/en/projects/swedish-framenet-swefn">Swedish Framenet++</a>.
     </p>
     <!--
     <ul>
     <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_saldo.html">Working material</a></li>
     <li><a href="https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/dalin_suppl_saldo.html">Working material: the supplement</a></li>
     <li>Development version of the morphology: <a href="http://spraakbanken.gu.se/sblex/resources/#dalin">download</a></li>
-    <li><a href="http://spraakbanken.gu.se/eng/research/swefn/dalin/statistik">Statistics</a></li>
+    <li><a href="http://sprakbanken.se/projekt/swefn">Statistics</a></li>
     </ul>
 
     -->
