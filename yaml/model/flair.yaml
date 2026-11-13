@@ -13,11 +13,9 @@ language_codes:
 in_collections: []
 downloads:
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/flair_eval.zip
-
     format: zip
     license: CC-BY-4.0
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/flair_full.zip
-
     format: zip
     license: CC-BY-4.0
 interfaces: []
@@ -56,7 +54,30 @@ description:
       </tr>
     </table>
 
-    <p> Read more about the evaluation <a href="https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging">here</a>.</p>
+    <h3>
+      Evaluating POS-tagging
+    </h3>
+    <p>
+        This is a brief description of how the evaluation of POS-tagging was done (relevant for our <a href="https://sprakbanken.se/en/resources/model">model</a>&nbsp;descriptions).
+    </p>
+    <p>
+        There are three measures: <strong>exact match</strong> (both POS and MSD are correct), <strong>POS</strong> (POS is correct, MSD does not matter), MSD. The latter measure is slightly more complicated: it's the Jaccard similarity index, i.e. the number of correctly identified category values divided by the total number of different categories in both gold and test tags (=the length of the union of the gold and test category sets). The metric does not depend on whether POS is correctly identified. Here are some examples:&nbsp;
+    </p>
+    <p>
+        • (NN)NEU.-.-.SMS vs. (NN)UTR.-.-.SMS = 0.75 (four categories, three correct)
+    </p>
+    <p>
+        &nbsp;• (VB)PRS.SFO vs. (VB)INF.SFO = 0.33 (three categories: verb form (INF), tense (PRS), voice (SFO); one correct)&nbsp;
+    </p>
+    <p>
+        • (JJ)POS.UTR.SIN.IND.NOM vs. (PC)PRF.UTR.SIN.IND.NOM = 0.67 (six categories, four correct)&nbsp;
+    </p>
+    <p>
+        • (JJ)POS.UTR+NEU.PLU.IND+DEF.NOM vs. (NN)UTR.SIN.IND.NOM = 0.2 (five categories, one correct)
+    </p>
+    <p>
+      Read more about the evaluation in <a href="https://gup.ub.gu.se/publication/304973?lang=sv">Part-of-speech tagging of Swedish texts in the neural era.</a>
+    </p>
 
     <p><b><code>flair_full</code></b> is trained on SUC3 + Talbanken_SBX_test + SIC2 with Talbanken_SBX_dev as dev set. We cannot evaluate the performance of this model, but we expect it to perform better than <code>flair_eval</code>, or at least not worse.</p>
 

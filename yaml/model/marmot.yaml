@@ -60,7 +60,7 @@ description:
       </tr>
     </table>
 
-    <p> Read more about the evaluation <a href="https://spraakbanken.gu.se/en/resources/flair/evaluating-pos-tagging">here</a>.</p>
+    <p> Read more about the evaluation <a href="https://spraakbanken.gu.se/en/resources/flair">here</a>.</p>
 
     <p><b><code>marmot_full</code></b> is trained on SUC3 + Talbanken_SBX_test + Talbanken_SBX_dev + SIC2 (with Saldo as dictionary). We cannot evaluate the performance of this model, but we expect it to perform better than <code>marmot_eval</code>, or at least not worse.</p>
 
