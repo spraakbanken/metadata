@@ -84,12 +84,12 @@ description:
     </tr>
     <tr>
     <td>Abstract*</td>
-    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://spraakbanken.gu.se/projekt/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5. In SweFN sentences are annotated manually with semantic information and automatically with morphosyntactic annotations. The resource contains 1,195 semantic frames, 39,212 lexical units linked to Saldo and 9,020 semantically and syntactically annotated sentences.
+    <td> Swedish FrameNet (SweFN) is a multi-layered lexical, grammatical and semantic computational resource based on the theory of frame semantics. The resource was created within the <a href="https://sprakbanken.se/en/projects/swedish-framenet-swefn">Swedish FrameNet++ project</a>. It has been developed in line with Berkeley FrameNet 1.5. In SweFN sentences are annotated manually with semantic information and automatically with morphosyntactic annotations. The resource contains 1,195 semantic frames, 39,212 lexical units linked to Saldo and 9,020 semantically and syntactically annotated sentences.
     </td>
     </tr>
     <tr>
     <td>Funded by*</td>
-    <td>The Swedish Research Council (grant no. 2010–06013) and several other <a href=" https://spraakbanken.gu.se/forskning/teman/swedish-framenet-plus-plus/bidragande-projekt">contributing projects</a>
+    <td>The Swedish Research Council (grant no. 2010–06013) and several other <a href="https://sprakbanken.se/en/projects/swedish-framenet-swefn">contributing projects</a>
     </td>
     </tr>
     <tr>
@@ -304,7 +304,7 @@ description:
     </tr>
     <tr>
     <td>Related projects</td>
-    <td> See complete list of <a href="https://spraakbanken.gu.se/en/research/themes/swedish-framenet-plus-plus/contributing-projects">contributing projects</a>.
+    <td> See complete list of <a href="https://sprakbanken.se/en/projects/swedish-framenet-swefn">contributing projects</a>.
     </td>
     </tr>
     <tr>

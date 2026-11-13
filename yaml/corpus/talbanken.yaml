@@ -47,12 +47,12 @@ contact_info:
 description:
   swe: ''
   eng: |-
-    <p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href="https://spraakbanken.gu.se/blogg/index.php/2020/06/09/the-five-lives-of-talbanken/">here</a>. This version originated as a copy of <a href="https://sprakbanken.se/en/resources/talbanken-stb">TalbankenSTB</a>, but unlike the STB version, this one is open to changes and corrections. This is also the version indexed by our search engine Korp. The changes made by us can be found in changelog.txt.</p>
+    <p>Talbanken is a widely used Swedish treebank, read more about its history and different versions <a href="https://sprakbanken.se/aktuellt/blogg/2020-06-09-the-five-lives-of-talbanken">here</a>. This version originated as a copy of <a href="https://sprakbanken.se/en/resources/talbanken-stb">TalbankenSTB</a>, but unlike the STB version, this one is open to changes and corrections. This is also the version indexed by our search engine Korp. The changes made by us can be found in changelog.txt.</p>
 
     <h1>Annotation</h1>
     <p>The following layers of annotation were added (or corrected) manually and can be considered <b>gold data</b>: tokenization, sentence segmentation, POS, MSD, dependency syntax (deprel and dephead).</p>
 
-    <p>Tokenization, sentence segmentation, POS and MSD follow the  <a href="https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf">SUC format</a>, syntactic annotation follows the Mamba-Dep format, a conversion of the MAMBA format used in the original Talbanken76 to dependency grammar.</p>
+    <p>Tokenization, sentence segmentation, POS and MSD follow the  <a href="https://sprakbanken.se/sites/default/files/metadata_resources/SUC2.0-manual.pdf">SUC format</a>, syntactic annotation follows the Mamba-Dep format, a conversion of the MAMBA format used in the original Talbanken76 to dependency grammar.</p>
 
     <p>Read more about these annotation layers in the documentation for <a href="https://sprakbanken.se/en/resources/talbanken-stb">TalbankenSTB</a> or at Joakim Nivre's page: <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#token">tokenization and sentence segmentation</a>, <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#morph">POS and MSD</a>, <a href="https://cl.lingfil.uu.se/~nivre/swedish_treebank/#synt">dependency syntax</a>.</p>
 

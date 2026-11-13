@@ -14,7 +14,7 @@ other_references:
   - 'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.
     In Association for Computational Linguistics (ACL) System Demonstrations. 2020'
   - 'SUC3: https://sprakbanken.se/en/resources/suc3'
-  - 'TalbankenSBX: https://spraakbanken.gu.se/en/blog/20200609-the-five-lives-of-talbanken'
+  - 'TalbankenSBX: https://sprakbanken.se/aktuellt/blogg/2020-06-09-the-five-lives-of-talbanken'
   - 'SIC2: https://sprakbanken.se/en/resources/sic2'
 tagset: '[MambaDep](https://svn.spraakdata.gu.se/sb-arkiv/pub/mamba.html)'
 evaluation_results: |-
