@@ -16,13 +16,11 @@ downloads:
     type: corpus
     format: XML
     scrambled: true
-    description: ''
     license: CC-BY-4.0
     scramble_level: sentence
   - url: https://svn.spraakbanken.gu.se/sb-arkiv/pub/frekvens/stats_lb-restricted.csv.zip
     type: token frequencies
     format: CSV
-    description: ''
     license: CC-BY-4.0
 interfaces:
   - license: CC-BY-4.0
@@ -45,9 +43,8 @@ caveats:
 intended_uses:
   swe: ''
   eng: ''
-doi: 10.23695/ma34-gh02
-created: '2026-11-16'
-updated: '2026-11-16'
+created: '2026-11-17'
+updated: '2026-11-17'
 description:
   swe: |-
     Korpusen består av meningsomkastade upphovsrättsskyddade e-texter och sökbara faksimiler från <a href="https://litteraturbanken.se/">Litteraturbanken</a>,
