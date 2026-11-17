@@ -52,8 +52,6 @@ description:
 
     <h2>Resurser</h2>
 
-    <p>Ladda ner <a href="http://spraakbanken.gu.se/swe/sblex/resources#swesaurus">utvecklingsversionen av Swesaurus</a></p>
-
     <!--
     <p>
     Här finns synonymmängderna från experimenten med SALDO och Synlex. Synlex kom till efter att användare av ett nätlexikon fick bedöma synonympar, där 0 betydde att de inte var synonymer, och 5 betydde att de hade samma betydelse. 60% nedan betyder att ordparen i genomsnitt fick betyget 3 eller högre, och 100% betyder att ordparen fick betyget 5 i genomsnitt.
@@ -104,8 +102,6 @@ description:
     <p>
     The second method to connect synonymy pairs is cliques. A clique is a set of words which are all synonyms to eachother. Calculating cliques did not result in abnormally large synsets, but rendered other problems. For example, some word senses appear in more than one synset, which violates the wordnet meaning of a word sense. We experiment with different ways of dealing with this. For example, starting with the cliques which have common word senses, we can deduce missing synonym pairs which, if they existed, would collapse the cliques into one clique. This results in pairs of good quality.
     </p>
-
-    <p>Download <a href="http://spraakbanken.gu.se/swe/sblex/resources#swesaurus">the development version of Swesaurus</a></p>
 
     <!--
     <p>

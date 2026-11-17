@@ -60,11 +60,9 @@ description:
     <div id="version"></div>
 
     <ul>
-     <li>Dokumentation för sökgränssnittet: <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
-    <!--
-     <li>Ladda ned utvecklingsversionen av <a href="https://spraakbanken.gu.se/sblex/resources#saldo">SALDOs grundmaterial</a></li>
-     <li>Ladda ned utvecklingsversionen av <a href="https://spraakbanken.gu.se/sblex/resources#saldom">SALDOs morfologiska lexikon</a></a>
-    -->
+     <li>
+     Dokumentation för sökgränssnittet: <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)
+     </li>
      <li>
      Ladda ned <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (publicerad 2015-03-04)
      </li>
@@ -88,8 +86,8 @@ description:
   eng: |-
     <center>
     <p>
-    <a href="http://spraakbanken.gu.se/personal/lars/">Lars Borin</a>,
-    <a href="http://spraakbanken.gu.se/personal/markus/">Markus Forsberg</a>, and
+    <a href="http://sprakbanken.se/om/personal/lars/">Lars Borin</a>,
+    <a href="http://sprakbanken.se/om/personal/markus/">Markus Forsberg</a>, and
     <a href="http://www.hum.uit.no/a/lonngren/">Lennart Lönngren</a> <br />
     </p>
     </center>
@@ -112,11 +110,9 @@ description:
     <div id="version"></div>
 
     <ul>
-     <li>Documentation for the search interface (in Swedish): <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)</li>
-    <!--
-     <li>Download the development version of <a href="http://spraakbanken.gu.se/eng/sblex/resources#saldo">SALDO</a></li>
-     <li>Download the development version of <a href="http://spraakbanken.gu.se/eng/sblex/resources#saldom">SALDO's morphological lexicon</a></a>
-    -->
+     <li>
+     Documentation for the search interface (in Swedish): <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_instruktion.pdf">saldo_instruktion.pdf</a> (2011-10-21)
+     </li>
      <li>
      Download <a href="https://svn.spraakbanken.gu.se/repos/sblex/pub/saldo_2.3.tgz">SALDO v2.3</a> (published 2015-03-04)
      </li>
