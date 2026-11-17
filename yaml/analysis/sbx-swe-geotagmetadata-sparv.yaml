@@ -20,13 +20,13 @@ description:
   swe: |-
     Texter berikas med platsnamn (och deras geografiska koordinater) som finns i dess metadata. Detta är baserat på
     platsnamn som hittats genom namnigenkänning med
-    [SweNer](https://spraakbanken.gu.se/analyser/swe-namedentity-swener). Geografiska koordinater letas upp i
+    [SweNer](https://sprakbanken.se/analyser/sbx-swe-namedentity-swener). Geografiska koordinater letas upp i
     [GeoNames-databasen](https://www.geonames.org/). Denna annotation kan användas på valfria textspann och valfria
     attribut som innehåller platsnamn.
   eng: |-
     Text chunks are enriched with place names (and their geographic coordinates) occurring within them. This is based on
     the place names found by the named entity tagger
-    [SweNer](https://spraakbanken.gu.se/en/analyses/swe-namedentity-swener). Geographical coordinates are looked up in
+    [SweNer](https://sprakbanken.se/en/analyses/sbx-swe-namedentity-swener). Geographical coordinates are looked up in
     the [GeoNames database](https://www.geonames.org/). This annotation can be applied to any text chunk and any
     attribute containing place names.
 type: analysis

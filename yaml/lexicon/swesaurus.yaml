@@ -34,7 +34,7 @@ description:
     <p>
     Swesaurus är ett fritt svenskt ordnät, som bygger på så kallade luddiga synonymmängder (även luddiga synsets). Det återanvänder information om lexikalisk-semantiska relationer från flera fritt tillgängliga lexikala resurser för svenska.
     <ul>
-    <li><a href="http://spraakbanken.gu.se/saldo">SALDO</a> - en lexikalisk-semantisk resurs för svenska</li>
+    <li><a href="https://sprakbanken.se/resurser/saldo">SALDO</a> - en lexikalisk-semantisk resurs för svenska</li>
     <li><a href="http://folkets2.nada.kth.se/synlex.html">Synlex</a> - en svensk synonymlista med grad av synonymi</li>
     <li>SDB (Semantisk databas) - en lexikalisk databas</li>
     <li><a href="http://sv.wiktionary.org">Wiktionary</a> - ett webbaserat projekt för att kollaborativt skapa ett fritt lexikon</li>
@@ -89,7 +89,7 @@ description:
     <p>
     Swesaurus is a free Swedish wordnet, based on so called fuzzy synonym sets (or fuzzy synsets). It reuses information about lexical-semantic relations in a number of freely available lexical resources for Swedish.
     <ul>
-    <li><a href="http://spraakbanken.gu.se/saldo">SALDO</a> - a lexico-semantic resource for Swedish</li>
+    <li><a href="https://sprakbanken.se/en/resources/saldo">SALDO</a> - a lexico-semantic resource for Swedish</li>
     <li><a href="http://folkets2.nada.kth.se/synlex.html">Synlex</a> - a Swedish list of synonyms with level of synonymy</li>
     <li>SDB (Semantic database) - a lexical database</li>
     <li><a href="http://sv.wiktionary.org">Wiktionary</a> - a web-based project for collaboratively creating a free lexicon</li>

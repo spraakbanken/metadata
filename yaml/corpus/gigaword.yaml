@@ -67,8 +67,7 @@ description:
 
     <p>Vänligen använd följande artikel som referens för datasetet:<br/>
     Stian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>
-    <a href="https://spraakbanken.gu.se/publication/19894/bibtex"><img src="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png" /></a>
-    <a href="http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf"><img src="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png" /></a></p>
+    <a href="http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf">PDF</a></p>
 
     <p>Kod för att extrahera data från korpusen, samt
      användningsinstruktioner, kan laddas ner från
@@ -364,8 +363,7 @@ description:
 
     <p>Please reference the dataset using the following reference:<br/>
     Stian Rødven Eide, Nina Tahmasebi, Lars Borin. 2016. The Swedish Culturomics Gigaword Corpus: A One Billion Word Swedish Reference Dataset for NLP<br/>
-    <a href="https://spraakbanken.gu.se/publication/19894/bibtex"><img src="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/bibtex.png" /></a>
-    <a href="http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf"><img src="https://spraakbanken.gu.se/sites/spraakbanken.gu.se/modules/custom/gup_publications/images/pdf.png" /></a></p>
+    <a href="http://www.ep.liu.se/ecp/126/002/ecp16126002.pdf">PDF</a></p>
 
     <p>Code to extract data from the corpus, as well as usage instructions,
      can be downloaded from <a href="https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/">https://svn.spraakbanken.gu.se/sb-arkiv/tools/gigaword/</a></p>

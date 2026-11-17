@@ -66,7 +66,7 @@ standard_reference: "{publication 285609}"
 description:
   swe: ""
   eng: |-
-    <p>SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2017-2020 in the <a href="https://spraakbanken.gu.se/en/projects/swell/">SweLL project</a>, and contains 502 essays that have been pseudonymized, normalized and correction annotated.</p>
+    <p>SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2017-2020 in the <a href="https://sprakbanken.se/en/projects/swell">SweLL project</a>, and contains 502 essays that have been pseudonymized, normalized and correction annotated.</p>
 
     <h2>Two SweLL-gold versions -- original and corrected</h2>
     <p>The corpus consists of two versions that are parallel in nature, the original learner-written texts, <b>SweLL-gold-original</b> and corrected versions of these, <b>SweLL-gold-target</b>. Statistics is slightly different between these two versions due to the introduced corrections, which is why we offer download of the statistics separately for SweLL-gold-original and SweLL-gold-target.</p> 
@@ -76,7 +76,7 @@ description:
 
     <ul>
         <li><a href="https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold">SweLL-gold ReadMe</a></li>
-        <li><a href="https://spraakbanken.gu.se/en/projects/swell/">About the SweLL project</a></li>
+        <li><a href="https://sprakbanken.se/en/projects/swell">About the SweLL project</a></li>
         <li><a href="https://sunet.artologik.net/gu/swell">Application for access</a></li>
     </ul>
 
