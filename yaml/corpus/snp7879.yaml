@@ -15,7 +15,7 @@ size:
   sentences: 243173
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/snp7879.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/snp7879.xml.bz2
     type: corpus
     format: XML
     scrambled: true

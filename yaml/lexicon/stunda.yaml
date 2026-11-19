@@ -12,7 +12,7 @@ short_description:
 created: '2026-09-02'
 updated: '2026-09-02'
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/stunda.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/stunda.jsonl
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

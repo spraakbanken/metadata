@@ -28,7 +28,7 @@ type: lexicon
 size:
   entries: 15256
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/fulaord-2026-09-20.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/fulaord-2026-09-20.jsonl
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

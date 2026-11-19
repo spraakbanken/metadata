@@ -16,7 +16,7 @@ in_collections:
   - learner-language
   - swell
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ud218_swedish-swell.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/ud218_swedish-swell.xml.bz2
     type: corpus
     format: XML
     scrambled: true
@@ -24,7 +24,7 @@ downloads:
     description:
       eng: The annotated learner sentences in XML format
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ud218_swedish-swell-target.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/ud218_swedish-swell-target.xml.bz2
     type: corpus
     format: XML
     scrambled: true
@@ -32,7 +32,7 @@ downloads:
     description:
       eng: The annotated corrected learner sentences in XML format
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/ud218_swedish-swell.zip
+  - url: https://sprakbanken.se/nedladdningar/ud218_swedish-swell.zip
     type: corpus
     format: CoNLL-U
     license: CC-BY-SA-4.0

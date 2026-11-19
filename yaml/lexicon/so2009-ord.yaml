@@ -1,10 +1,10 @@
 size:
   entries: 96143
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/so2009-ord.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/so2009-ord.jsonl
     license: CC-BY-4.0
     format: jsonl
-  - url: https://spraakbanken.gu.se/resurser/data/karp/so-2009-webbversion.zip
+  - url: https://sprakbanken.se/nedladdningar/karp/so-2009-webbversion.zip
     license: CC-BY-4.0
 interfaces:
   - url: https://spraakbanken.gu.se/karp?resources=so2009-ord

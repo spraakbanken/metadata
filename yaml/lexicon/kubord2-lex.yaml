@@ -13,7 +13,7 @@ created: '2026-04-08'
 origin: sbx
 updated: '2026-04-08'
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/kubord2-lex.jsonl.bz2
+  - url: https://sprakbanken.se/nedladdningar/karp/kubord2-lex.jsonl.bz2
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

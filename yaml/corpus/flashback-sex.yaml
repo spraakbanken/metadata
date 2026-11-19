@@ -14,7 +14,7 @@ size:
 in_collections:
   - flashback
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/flashback-sex.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/flashback-sex.xml.bz2
     type: corpus
     format: XML
     scrambled: true

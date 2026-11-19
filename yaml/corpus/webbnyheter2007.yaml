@@ -15,7 +15,7 @@ size:
   sentences: 1384669
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/webbnyheter2007.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/webbnyheter2007.xml.bz2
     type: corpus
     format: XML
     scrambled: true

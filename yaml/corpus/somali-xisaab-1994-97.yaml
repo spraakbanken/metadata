@@ -11,7 +11,7 @@ size:
   tokens: 713
   sentences: 99
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-xisaab-1994-97.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-xisaab-1994-97.xml.bz2
     type: corpus
     format: XML
     scrambled: true

@@ -16,7 +16,7 @@ size:
 in_collections:
   - svt
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/svt-2006.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/svt-2006.xml.bz2
     type: corpus
     format: XML
     scrambled: true

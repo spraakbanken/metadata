@@ -15,7 +15,7 @@ size:
   tokens: 33721
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/mathir_trees_v0.1.tgz
+  - url: https://sprakbanken.se/nedladdningar/mathir_trees_v0.1.tgz
     format: tgz
     license: CC-BY-NC-4.0
 interfaces: []

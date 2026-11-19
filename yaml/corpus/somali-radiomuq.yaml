@@ -11,7 +11,7 @@ size:
   tokens: 22801
   sentences: 846
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-radiomuq.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-radiomuq.xml.bz2
     type: corpus
     format: XML
     scrambled: true

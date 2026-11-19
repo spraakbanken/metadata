@@ -17,7 +17,7 @@ size:
   sentences: 892
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sic2.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/sic2.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0
@@ -25,7 +25,7 @@ downloads:
     type: token frequencies
     format: CSV
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sic2.zip
+  - url: https://sprakbanken.se/nedladdningar/sic2.zip
     type: corpus
     format: XML
     license: CC-BY-4.0

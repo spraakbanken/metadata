@@ -17,7 +17,7 @@ size:
 in_collections:
   - familjeliv
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/familjeliv-medlem-planerarbarn.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/familjeliv-medlem-planerarbarn.xml.bz2
     type: corpus
     format: XML
     scrambled: true

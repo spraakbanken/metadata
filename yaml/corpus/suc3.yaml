@@ -16,7 +16,7 @@ size:
   sentences: 74245
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/suc3.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/suc3.xml.bz2
     type: corpus
     format: XML
     scrambled: true

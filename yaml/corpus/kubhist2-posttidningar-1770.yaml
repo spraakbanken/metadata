@@ -16,7 +16,7 @@ size:
 in_collections:
   - kubhist2
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/kubhist2-posttidningar-1770.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/kubhist2-posttidningar-1770.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

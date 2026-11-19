@@ -15,7 +15,7 @@ size:
   sentences: 801905
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/press98.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/press98.xml.bz2
     type: corpus
     format: XML
     scrambled: true

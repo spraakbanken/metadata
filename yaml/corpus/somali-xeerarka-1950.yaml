@@ -11,7 +11,7 @@ size:
   tokens: 341996
   sentences: 17221
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-xeerarka-1950.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-xeerarka-1950.xml.bz2
     type: corpus
     format: XML
     scrambled: true

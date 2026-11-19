@@ -11,7 +11,7 @@ size:
   tokens: 43977
   sentences: 2287
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-xisaab-2011-itoobiya.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-xisaab-2011-itoobiya.xml.bz2
     type: corpus
     format: XML
     scrambled: true

@@ -36,14 +36,14 @@ language_codes:
   - fra
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/fuol.zip
+  - url: https://sprakbanken.se/nedladdningar/fuol.zip
     type: lexicon
     format: PDF
     license: CC-BY-4.0
     license_other: ''
     scrambled: false
     scramble_level: ''
-  - url: https://spraakbanken.gu.se/resurser/data/karp/fuol.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/fuol.jsonl
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

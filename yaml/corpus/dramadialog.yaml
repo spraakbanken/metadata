@@ -15,7 +15,7 @@ size:
   tokens: 687629
   sentences: 67295
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/dramadialog.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/dramadialog.xml.bz2
     type: corpus
     format: XML
     scrambled: false

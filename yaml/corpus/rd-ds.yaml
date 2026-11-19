@@ -15,7 +15,7 @@ size:
 in_collections:
   - rd
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/rd-ds.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/rd-ds.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

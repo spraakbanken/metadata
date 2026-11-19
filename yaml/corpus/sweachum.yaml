@@ -15,7 +15,7 @@ size:
   sentences: 673820
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sweachum.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/sweachum.xml.bz2
     type: corpus
     format: XML
     scrambled: true

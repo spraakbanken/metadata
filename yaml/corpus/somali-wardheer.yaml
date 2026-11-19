@@ -11,7 +11,7 @@ size:
   tokens: 499037
   sentences: 24658
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-wardheer.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-wardheer.xml.bz2
     type: corpus
     format: XML
     scrambled: true

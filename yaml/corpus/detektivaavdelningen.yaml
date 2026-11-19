@@ -41,7 +41,7 @@ size:
   tokens: 1343709
   sentences: 27279
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/detektivaavdelningen.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/detektivaavdelningen.xml.bz2
     type: corpus
     format: XML
     scrambled: false

@@ -16,7 +16,7 @@ size:
   sentences: 232901
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ub-kvt-morgonbris.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/ub-kvt-morgonbris.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

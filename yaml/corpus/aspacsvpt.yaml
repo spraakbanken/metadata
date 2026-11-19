@@ -16,14 +16,14 @@ size:
   sentences: 14842
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvpt-sv.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/aspacsvpt-sv.xml.bz2
     type: corpus
     format: XML
     description:
       eng: this file contains the Swedish part of the corpus
     scrambled: true
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/aspacsvpt-pt.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/aspacsvpt-pt.xml.bz2
     type: corpus
     format: XML
     description:

@@ -11,7 +11,7 @@ size:
   tokens: 4951
   sentences: 451
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-cb-1980-89.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-cb-1980-89.xml.bz2
     type: corpus
     format: XML
     scrambled: true

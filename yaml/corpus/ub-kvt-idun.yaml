@@ -16,7 +16,7 @@ size:
   sentences: 2011318
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/ub-kvt-idun.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/ub-kvt-idun.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

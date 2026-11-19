@@ -20,7 +20,7 @@ size:
 in_collections: 
 - learner-language
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/coctaill.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/coctaill.xml.bz2
     type: corpus
     format: XML
     scrambled: true

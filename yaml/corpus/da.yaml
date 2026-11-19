@@ -12,7 +12,7 @@ size:
   tokens: 9229051
   sentences: 551210
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/da.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/da.xml.bz2
     type: corpus
     format: XML
     scrambled: true

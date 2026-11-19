@@ -12,7 +12,7 @@ size:
   tokens: 1953686
   sentences: 127282
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/segreg-rd-kammakt.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/segreg-rd-kammakt.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

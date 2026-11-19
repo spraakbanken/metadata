@@ -17,7 +17,7 @@ size:
   sentences: 750965
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/spf.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/spf.xml.bz2
     type: corpus
     format: XML
     scrambled: true

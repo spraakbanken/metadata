@@ -15,7 +15,7 @@ size:
   sentences: 14557
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/vasabrev.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/vasabrev.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

@@ -15,7 +15,7 @@ size:
   sentences: 298361
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/romii.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/romii.xml.bz2
     type: corpus
     format: XML
     scrambled: true

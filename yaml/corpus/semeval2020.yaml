@@ -16,7 +16,7 @@ size:
   tokens: 182000000
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/semeval2020_ulscd_swe.zip
+  - url: https://sprakbanken.se/nedladdningar/semeval2020_ulscd_swe.zip
     format: zip
     license: CC-BY-4.0
 interfaces: []

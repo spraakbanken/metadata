@@ -12,7 +12,7 @@ size:
   tokens: 144242430
   sentences: 8683282
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/lb-restricted.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/lb-restricted.xml.bz2
     type: corpus
     format: XML
     scrambled: true

@@ -15,7 +15,7 @@ size:
   sentences: 33000
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/bellman.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/bellman.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

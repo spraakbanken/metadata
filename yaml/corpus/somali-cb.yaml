@@ -15,7 +15,7 @@ size:
   sentences: 6094
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-cb.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-cb.xml.bz2
     type: corpus
     format: XML
     scrambled: true

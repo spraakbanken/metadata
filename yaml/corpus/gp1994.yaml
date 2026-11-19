@@ -15,7 +15,7 @@ size:
   sentences: 2101645
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/gp1994.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/gp1994.xml.bz2
     type: corpus
     format: XML
     scrambled: true

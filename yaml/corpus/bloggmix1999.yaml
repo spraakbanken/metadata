@@ -15,7 +15,7 @@ size:
   sentences: 40215
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/bloggmix1999.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/bloggmix1999.xml.bz2
     type: corpus
     format: XML
     scrambled: true

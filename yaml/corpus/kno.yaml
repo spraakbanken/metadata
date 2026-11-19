@@ -17,17 +17,17 @@ language_codes:
   - swe
 in_collections: []
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
-  - url: 'https://spraakbanken.gu.se/resurser/data/kno-dagny.zip'
+  - url: 'https://sprakbanken.se/nedladdningar/kno-dagny.zip'
     format: 'XML' # The file format or standard (e.g. XML)
     description:
       eng: 'Material from Dagny'
     license: CC-BY-4.0
-  - url: 'https://spraakbanken.gu.se/resurser/data/kno-oob.zip'
+  - url: 'https://sprakbanken.se/nedladdningar/kno-oob.zip'
     format: 'XML' # The file format or standard (e.g. XML)
     description:
       eng: 'Material from Ord och bild'
     license: CC-BY-4.0
-##  - url: 'https://spraakbanken.gu.se/resurser/data/kno-kb.zip'
+##  - url: 'https://sprakbanken.se/nedladdningar/kno-kb.zip'
 ##    format: 'XML' # The file format or standard (e.g. XML)
 ##    description: 'Material from KB'
 ##    license: CC-BY-4.0

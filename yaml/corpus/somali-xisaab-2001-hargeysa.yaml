@@ -11,7 +11,7 @@ size:
   tokens: 32676
   sentences: 3253
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-xisaab-2001-hargeysa.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-xisaab-2001-hargeysa.xml.bz2
     type: corpus
     format: XML
     scrambled: true

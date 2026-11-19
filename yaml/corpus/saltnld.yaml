@@ -16,14 +16,14 @@ size:
   sentences: 188143
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/saltnld-sv.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/saltnld-sv.xml.bz2
     type: corpus
     format: XML
     description:
       eng: this file contains the Swedish part of the corpus
     scrambled: true
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/saltnld-nl.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/saltnld-nl.xml.bz2
     type: corpus
     format: XML
     description:

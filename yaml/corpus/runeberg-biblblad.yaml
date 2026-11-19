@@ -17,7 +17,7 @@ size:
   sentences: 493890
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/runeberg-biblblad.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/runeberg-biblblad.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

@@ -11,7 +11,7 @@ size:
   tokens: 112845
   sentences: 8932
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-saynis-1972-77.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-saynis-1972-77.xml.bz2
     type: corpus
     format: XML
     scrambled: true

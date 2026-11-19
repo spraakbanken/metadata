@@ -14,7 +14,7 @@ size:
   sentences: 24428
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/lag1800.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/lag1800.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

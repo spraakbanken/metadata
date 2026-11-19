@@ -12,7 +12,7 @@ size:
   tokens: 428188012
   sentences: 20573661
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/sou.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/sou.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

@@ -17,7 +17,7 @@ size:
   sentences: 3773042
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/saob-bocker.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/saob-bocker.xml.bz2
     type: corpus
     format: XML
     scrambled: true

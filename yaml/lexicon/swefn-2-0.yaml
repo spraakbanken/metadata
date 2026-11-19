@@ -17,11 +17,11 @@ size:
   Semantic Frames: 1329
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/swefn-2-0.json.zip
+  - url: https://sprakbanken.se/nedladdningar/swefn-2-0.json.zip
     type: lexicon
     format: JSON
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/swefn-2-0.tsv.zip
+  - url: https://sprakbanken.se/nedladdningar/swefn-2-0.tsv.zip
     type: lexicon
     format: TSV
     license: CC-BY-4.0
@@ -40,9 +40,9 @@ contact_info:
 description:
   swe: ''
   eng: |-
-    The file <a href="https://spraakbanken.gu.se/resurser/data/swefn-2-0.json.zip">swefn-2.0.json</a> contains the frames and the manually annotated semantic content, in a JSON format.
+    The file <a href="https://sprakbanken.se/nedladdningar/swefn-2-0.json.zip">swefn-2.0.json</a> contains the frames and the manually annotated semantic content, in a JSON format.
 
-    The file <a href="https://spraakbanken.gu.se/resurser/data/swefn-2-0.tsv.zip">swefn-2.0.tsv</a> contains the same thing in a tab-separated table. Long lines have been separated for legibility; replace \n\t with \t for a strict table.
+    The file <a href="https://sprakbanken.se/nedladdningar/swefn-2-0.tsv.zip">swefn-2.0.tsv</a> contains the same thing in a tab-separated table. Long lines have been separated for legibility; replace \n\t with \t for a strict table.
 
     <table style="width:100%">
     <tr>

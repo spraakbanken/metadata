@@ -27,7 +27,7 @@ language_codes:
   - eng
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/gv-pii.bz2
+  - url: https://sprakbanken.se/nedladdningar/gv-pii.bz2
     type: corpus
     format: jsonl
     license: CC-BY-4.0

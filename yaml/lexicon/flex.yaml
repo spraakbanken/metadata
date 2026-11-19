@@ -14,12 +14,12 @@ language_codes:
   - swe
 in_collections: []
 downloads: # Downloadable files related to the resource. Don't include this field if there are no downloadable files.
-  - url: 'https://spraakbanken.gu.se/resurser/data/flex.json.zip'
+  - url: 'https://sprakbanken.se/nedladdningar/flex.json.zip'
     format: 'JSON' # The file format or standard (e.g. XML)
     description:
       eng: 'JSON file as used by Karp.'
     license: CC-BY-4.0
-  - url: 'https://spraakbanken.gu.se/resurser/data/flex.csv.zip'
+  - url: 'https://sprakbanken.se/nedladdningar/flex.csv.zip'
     format: 'CSV' # The file format or standard (e.g. XML)
     description:
       eng: 'Table file with words, novel freq, newspaper freq, forum freq.'

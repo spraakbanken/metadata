@@ -50,7 +50,7 @@ language_codes:
   - swe
 created: '2026-05-18'
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/parolelexplus-2-0.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/parolelexplus-2-0.jsonl
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

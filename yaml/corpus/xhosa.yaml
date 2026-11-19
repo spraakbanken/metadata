@@ -10,7 +10,7 @@ size:
   tokens: 8688
   sentences: 1890
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/xhosa.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/xhosa.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

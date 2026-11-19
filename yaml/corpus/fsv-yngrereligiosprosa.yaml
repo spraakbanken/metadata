@@ -9,7 +9,7 @@ language_codes:
 size:
   tokens: 1365544
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/fsv-yngrereligiosprosa.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/fsv-yngrereligiosprosa.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

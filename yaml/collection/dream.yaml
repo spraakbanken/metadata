@@ -18,7 +18,7 @@ size:
   tokens: 75027790
   sentences: 5740264
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/dream.zip.bz2
+  - url: https://sprakbanken.se/nedladdningar/dream.zip.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

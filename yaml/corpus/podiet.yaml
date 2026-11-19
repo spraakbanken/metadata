@@ -12,7 +12,7 @@ size:
   tokens: 908707
   sentences: 43817
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/podiet.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/podiet.xml.bz2
     type: corpus
     format: XML
     scrambled: true

@@ -11,7 +11,7 @@ size:
   tokens: 64351
   sentences: 4417
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/somali-itoobiya.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/somali-itoobiya.xml.bz2
     type: corpus
     format: XML
     scrambled: true

@@ -11,7 +11,7 @@ size:
   tokens: 235438718
   sentences: 14706089
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/wikipedia-sv.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/wikipedia-sv.xml.bz2
     type: corpus
     format: XML
     scrambled: false

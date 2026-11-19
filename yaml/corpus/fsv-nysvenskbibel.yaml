@@ -13,7 +13,7 @@ size:
   tokens: 44990
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/fsv-nysvenskbibel.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/fsv-nysvenskbibel.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

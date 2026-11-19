@@ -15,7 +15,7 @@ size:
   sentences: 129113
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/interfra.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/interfra.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0
@@ -56,21 +56,21 @@ description:
     <h3>Downloadables</h3>
     <p>
       <ul>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/files.html">Transcription files and audio</a></li>
-          <li>InterFra 1B: <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/1b_txt.zip">text</a> <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/1b_audio.zip">audio</a></li>
-          <li>InterFra 2: <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/2_txt.zip">text</a> <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/2_audio.zip">audio</a></li>
-          <li>InterFra 1A: <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/1a_txt.zip">text</a> <a href="https://spraakbanken.gu.se/resurser/data/interfra/zip/1a_audio.zip">audio</a><br>&nbsp;</li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/Manual for Metadata In English.docx">Manual for Metadata In English.docx</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/Shortlist Tagging In English.doc">Shortlist Tagging In English.doc</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/Transcription Principles In English.docx">Transcription Principles In English.docx</a><br>&nbsp;</li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(C) Erasmus Exchange Control Group.xls">(C) Erasmus Exchange Control Group.xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(D).xlsx">(D).xlsx</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(G) Secondary School Students.xls">(G) Secondary School Students.xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(J) (F) (K) (M).xls">(J) (F) (K) (M).xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(L) University Students.xls">(L) University Students.xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(N) Beginners.xls">(N) Beginners.xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(R) (Q) (S).xls">(R) (Q) (S).xls</a></li>
-          <li><a href="https://spraakbanken.gu.se/resurser/data/interfra/metadata/(T) University Students.xls">(T) University Students.xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/files.html">Transcription files and audio</a></li>
+          <li>InterFra 1B: <a href="https://sprakbanken.se/nedladdningar/interfra/zip/1b_txt.zip">text</a> <a href="https://sprakbanken.se/nedladdningar/interfra/zip/1b_audio.zip">audio</a></li>
+          <li>InterFra 2: <a href="https://sprakbanken.se/nedladdningar/interfra/zip/2_txt.zip">text</a> <a href="https://sprakbanken.se/nedladdningar/interfra/zip/2_audio.zip">audio</a></li>
+          <li>InterFra 1A: <a href="https://sprakbanken.se/nedladdningar/interfra/zip/1a_txt.zip">text</a> <a href="https://sprakbanken.se/nedladdningar/interfra/zip/1a_audio.zip">audio</a><br>&nbsp;</li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/Manual for Metadata In English.docx">Manual for Metadata In English.docx</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/Shortlist Tagging In English.doc">Shortlist Tagging In English.doc</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/Transcription Principles In English.docx">Transcription Principles In English.docx</a><br>&nbsp;</li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(C) Erasmus Exchange Control Group.xls">(C) Erasmus Exchange Control Group.xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(D).xlsx">(D).xlsx</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(G) Secondary School Students.xls">(G) Secondary School Students.xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(J) (F) (K) (M).xls">(J) (F) (K) (M).xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(L) University Students.xls">(L) University Students.xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(N) Beginners.xls">(N) Beginners.xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(R) (Q) (S).xls">(R) (Q) (S).xls</a></li>
+          <li><a href="https://sprakbanken.se/nedladdningar/interfra/metadata/(T) University Students.xls">(T) University Students.xls</a></li>
       </ul>
     </p>
 

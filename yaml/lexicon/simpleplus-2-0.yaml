@@ -23,7 +23,7 @@ downloads:
   - url: https://svn.spraakbanken.gu.se/sb/fnplusplus/pub/simple_adj.html
     format: html
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/karp/simpleplus-2-0.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/simpleplus-2-0.jsonl
     license: CC-BY-4.0
     format: jsonl
     type: lexicon

@@ -16,13 +16,13 @@ size:
   sentences: 2872696
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/europarl-sv.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/europarl-sv.xml.bz2
     type: corpus
     format: XML
     description:
       eng: this file contains the Swedish part of the corpus
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/europarl-fi.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/europarl-fi.xml.bz2
     type: corpus
     format: XML
     description:

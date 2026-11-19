@@ -12,7 +12,7 @@ size:
   tokens: 132687599
   sentences: 11572487
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/poeter.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/poeter.xml.bz2
     type: corpus
     format: XML
     scrambled: true

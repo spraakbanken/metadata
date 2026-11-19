@@ -37,37 +37,37 @@ language_codes:
   - swe
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/sweBNT-syntheticData_v3.xlsx
+  - url: https://sprakbanken.se/nedladdningar/sweBNT-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description:
       eng: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweSVF-syntheticData_v3.xlsx
+  - url: https://sprakbanken.se/nedladdningar/sweSVF-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description:
       eng: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweFAS-syntheticData_v3.xlsx
+  - url: https://sprakbanken.se/nedladdningar/sweFAS-syntheticData_v3.xlsx
     type: corpus
     format: .xlsx
     description:
       eng: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweTripToStockholm-1-syntheticData_v1.txt
+  - url: https://sprakbanken.se/nedladdningar/sweTripToStockholm-1-syntheticData_v1.txt
     type: corpus
     format: .txt
     description:
       eng: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweTripToStockholm-2-syntheticData_v1.txt
+  - url: https://sprakbanken.se/nedladdningar/sweTripToStockholm-2-syntheticData_v1.txt
     type: corpus
     format: .txt
     description:
       eng: Synthetic data
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/sweCookieTheft-syntheticData_v1.txt
+  - url: https://sprakbanken.se/nedladdningar/sweCookieTheft-syntheticData_v1.txt
     type: corpus
     format: .txt
     description:

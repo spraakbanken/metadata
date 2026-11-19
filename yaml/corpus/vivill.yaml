@@ -12,7 +12,7 @@ size:
   tokens: 2531535
   sentences: 149686
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/vivill.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/vivill.xml.bz2
     type: corpus
     format: XML
     scrambled: false

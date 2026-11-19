@@ -13,7 +13,7 @@ size:
   tokens: 21134
   sentences: 997
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/likpredikningar.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/likpredikningar.xml.bz2
     type: corpus
     format: XML
     scrambled: false

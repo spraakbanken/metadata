@@ -1,7 +1,7 @@
 size:
   entries: 15041
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/fulaord-2025-11-09.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/fulaord-2025-11-09.jsonl
     license: CC-BY-4.0
     format: jsonl
 contact_info:

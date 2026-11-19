@@ -14,7 +14,7 @@ size:
   sentences: 85065
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/forarbeten1734.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/forarbeten1734.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

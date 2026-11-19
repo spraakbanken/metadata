@@ -1,7 +1,7 @@
 size:
   entries: 1556
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/karp/isof-nyord.jsonl
+  - url: https://sprakbanken.se/nedladdningar/karp/isof-nyord.jsonl
     license: CC-BY-4.0
     format: jsonl
 interfaces:

@@ -17,7 +17,7 @@ size:
   sentences: 0
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/cor92.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/cor92.xml.bz2
     type: corpus
     format: XML
     license: CC-BY-4.0

@@ -12,22 +12,22 @@ language_codes:
   - eng
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_5_word2vec.model
     format: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_5_word2vec.model.syn1neg.npy
     format: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_5_word2vec.model.wv.vectors.npy
     format: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_50_word2vec.model
     format: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_50_word2vec.model.syn1neg.npy
     format: ''
     license: CC-BY-4.0
-  - url: https://spraakbanken.gu.se/resurser/data/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
+  - url: https://sprakbanken.se/nedladdningar/wikipedia_embeddings/wiki_300_50_word2vec.model.wv.vectors.npy
     format: ''
     license: CC-BY-4.0
 interfaces: []

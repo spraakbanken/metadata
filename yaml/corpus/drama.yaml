@@ -15,7 +15,7 @@ size:
   sentences: 108936
 in_collections: []
 downloads:
-  - url: https://spraakbanken.gu.se/resurser/meningsmangder/drama.xml.bz2
+  - url: https://sprakbanken.se/nedladdningar/drama.xml.bz2
     type: corpus
     format: XML
     scrambled: true
