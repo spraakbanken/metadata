@@ -1,0 +1,102 @@
+name:
+  swe: UD2.19_Swedish-SweLL
+  eng: UD2.19_Swedish-SweLL
+short_description:
+  eng: A parallel Universal Dependencies treebank based on SweLL, the Swedish Learner
+    Language corpus.
+  swe: En parallell Universal Dependencies-trädbank baserad på SweLL (Swedish Learner
+    Language-korpusen).
+type: corpus
+language_codes:
+  - swe
+size:
+  tokens: 10895
+  sentences: 643
+in_collections:
+  - learner-language
+  - swell
+downloads:
+  - url: https://sprakbanken.se/nedladdningar/ud219_swedish-swell.zip
+    type: corpus
+    format: CoNLL-U
+    license: CC-BY-SA-4.0
+    scrambled: true
+    scramble_level: sentence
+    description:
+      eng: The annotated learner sentences in CoNLL-U format (original and corrected)
+interfaces:
+  - license: CC-BY-SA-4.0
+    url: https://universal.grew.fr/?corpus=UD_Swedish-SweLL@2.19
+    scrambled: true
+    scramble_level: sentence
+    description:
+      eng: Grew-match
+contact_info:
+  name: Masciolini, Arianna
+  email: arianna.masciolini@gu.se
+  affiliation:
+    organization: Språkbanken
+    email: sb-info@svenska.gu.se
+annotation:
+  swe: Utöver de annoteringar som finns tillgängliga i källkorpusen (pseudonymisering,
+    felklassificering och normalisering) är varje token lemmatiserad, UPOS-taggad
+    och dependensannoterad enligt Universal Dependencies-standarden. Annotatörerna
+    är själva andraspråkstalare.
+  eng: On top of the annotations available in the source corpus (pseudonymization,
+    error tagging and normalization), each token is lemmatized, UPOS-tagged and dependency
+    annotated following the Universal Dependencies standard. The annotators are themselves
+    speakers of Swedish as a second language.
+keywords:
+  - treebank
+  - L2 Swedish
+  - second language (L2)
+  - language learning
+  - essays
+caveats:
+  swe: |-
+    - Lemmana, ordklasserna och dependensrelationerna är systematiskt manuellt validerade, medan de morfologiska
+    analyserna kontrollerades endast för token som är markerade som inlärarfel i källkorpusen och/eller vars
+    automatiska lemmatisering, ordklasstaggning och/eller dependensannotering visade sig vara felaktiga.
+    - Den här resursen innehåller bara en del av de inlärarmetadata som finns tillgängliga för SweLL-gold. För att få
+    tillgång till en version av trädbanken med all metadata, [ansök om tillgång till
+    SweLL-gold](https://sunet.artologik.net/gu/swell).
+  eng: |-
+    - Lemmas, POS tags and dependencies are manually validated systematically. Morphological features, on the other
+    hand, were only checked for tokens marked as learner errors in the source corpus and/or whose automatic
+    lemmatization, POS tagging and/or dependency annotation were found to be incorrect.
+    - This release only contains part of the learner metadata available for SweLL-gold. To obtain full-metadata
+    version of the treebank, [apply for access to SweLL-gold](https://sunet.artologik.net/gu/swell).
+creators:
+  - Masciolini, Arianna
+  - Berdicevskis, Aleksandrs
+  - Szawerna, Maria Irena
+  - Grand-Clement, Caroline
+standard_reference: '[Arianna Masciolini, Maria Irena Szawerna, Aleksandrs Berdicevskis, Caroline Grand-Clement and Elena Volodina. _A parallel treebank of learner Swedish_ (preprint)](https://doi.org/10.21203/rs.3.rs-9327419/v1)'
+other_references:
+  - '{publication 364244}'
+  - '{publication 355697}'
+  - '{publication 352761}'
+  - '[Guidelines for the annotation of interlanguage phenomena in UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/not-to-release/guidelines.md)'
+intended_uses:
+  swe: (Tvärspråkliga) andraspråksinlärningsstudier, evaluering av dependensparsrar.
+  eng: (Cross-lingual) SLA studies, dependency parser evaluation.
+created: '2026-11-28'
+origin: sbx
+updated: '2026-11-28'
+description:
+  eng: UD_Swedish-SweLL is a parallel Universal Dependencies treebank based on [SweLL](https://sprakbanken.se/resurser/swell),
+    the Swedish Learner Language corpus, a collection of essays written by adult learners
+    of Swedish as a second language (L2). The current version, released as part of
+    UD 2.19, includes a test set consisting of 510 randomly selected sentences, as
+    well as 134 sentences authored by French speakers. All sentences are extracted
+    from [SweLL-gold](https://sprakbanken.se/resurser/swell-gold) and come with
+    corrections and error tags. For more information about the treebank, see [the
+    official README file](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
+  swe: UD_Swedish-SweLL är en parallell Universal Dependencies-trädbank baserad på
+    [SweLL](https://sprakbanken.se/resources/swell) (Swedish Learner Language-korpusen),
+    en samling uppsatser skrivna av vuxna inlärare av svenska som andraspråk. Den
+    här versionen, som släpps i samband med UD 2.19, består av en 510 slumpmässigt
+    utvalda meningar samt 134 meningar skrivna av fransktalande elever. Alla meningar
+    kommer ifrån [SweLL-gold](https://sprakbanken.se/resurser/swell-gold) och
+    är parade med en korrigering och felkategoritaggade. För mer information om trädbanken,
+    se [den officiella README-filen](https://github.com/UniversalDependencies/UD_Swedish-SweLL/blob/master/README.md).
